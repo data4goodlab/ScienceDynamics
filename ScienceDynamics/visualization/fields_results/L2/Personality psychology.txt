@@ -1,0 +1,56 @@
+----  Field Name Personality psychology: 
+----  Field Level 2.0: 
+----  Field Papers Number 38823:
+----  All time max citation paper: Culture and the self: Implications for cognition, emotion, and motivation, 1991, (5841.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|5.0|3.0|Journal of Dairy Science|Heritabilities of Some Type Appraisal Traits and Their Genetic and Phenotypic Correlations with Production
+1962|1.0|1.0|Journal of Social Psychology|Achievement Motivation, Affiliation Motivation, and Task Difficulty as Determinants of Social Conformity
+1963|2.0|2.0|Psychopharmacology|SOME EFFECTS OF MORPHINE AND AMPHETAMINE ON INTELLECTUAL FUNCTIONS AND MOOD,
+1964|4.0|4.0|Journal of Experimental Social Psychology|EFFECTS OF PERSONALITY AND OWN STAND ON JUDGMENT AND PRODUCTION OF STATEMENTS ABOUT A CENTRAL ISSUE.
+1965|10.0|3.0|Nature|Acetylcholine Release From the Cerebral and Cerebellar Cortices : Its Role in Cortical Arousal
+1966|14.0|3.0|Electroencephalography and Clinical Neurophysiology|Average evoked potentials and reaction times to visual stimuli.
+1967|6.0|2.5|Psychophysiology|THE EVOKED HEART RATE RESPONSE: THE INFLUENCE OF AUDITORY STIMULUS REPETITION, PATTERN REVERSAL, AND AUTONOMIC AROUSAL LEVEL
+1968|12.0|3.0|Electroencephalography and Clinical Neurophysiology|Habituation of evoked potentials in the rat under conditions of behavioral control.
+1969|27.0|2.0|Journal of Experimental Social Psychology|The risky shift in group betting
+1970|9.0|1.0|Psychophysiology|A COMPARISON OF PHYSIOLOGICAL AND PSYCHOLOGICAL MEASUREMENTS ON ANXIOUS PATIENTS AND NORMAL CONTROLS
+1971|17.0|1.0|Physiology & Behavior|Involvement of brainstem units in medial forebrain bundle self-stimulation
+1972|12.0|4.0|Journal of Vocational Behavior|A Merger in Vocational Interest Research: Applying Holland's Theory to Strong's Data.
+1973|63.0|2.0|Psychological Review|Situationism in psychology: an analysis and a critique.
+1974|17.0|2.5|Pharmacology, Biochemistry and Behavior|Noradrenaline, dopamine, and brain-stimulation reward
+1975|24.0|2.0|Journal of Consulting and Clinical Psychology|Some Problems and Misconceptions Related to the Construct of Internal Versus External Control of Reinforcement.
+1976|22.0|3.0|Psychophysiology|Patterns of Cerebral Lateralization During Cardiac Biofeedback versus the SelfRegulation of Emotion: Sex Differences
+1977|9.0|2.5|Child Development|Coordination of Vision and Prehension in Young Infants.
+1978|42.0|1.0|Journal of Personality and Social Psychology|Self-serving biases in the attribution process: A reexamination of the fact or fiction question.
+1979|31.0|3.5|Psychiatry Research-neuroimaging|Personality traits in chronic pain patients related to endorphin levels in cerebrospinal fluid
+1980|55.0|4.0|Psychophysiology|The Three Arousal Model: Implications of Gray's TwoFactor Learning Theory for Heart Rate, Electrodermal Activity, and Psychopathy
+1981|146.0|1.0|Behavioral and Brain Sciences|Reticulo-cortical activity and behavior: A critique of the arousal theory and a new synthesis
+1982|133.0|3.0|Behavioral and Brain Sciences|Prcis of The neuropsychology of anxiety: An enquiry into the functions of the septo-hippocampal system
+1983|58.0|3.0|Journal of Personality and Social Psychology|Assessing social support: The Social Support Questionnaire
+1984|80.0|3.0|Child Development|The Determinants of Parenting: A Process Model.
+1985|55.0|3.0|Personality and Individual Differences|A revised version of the psychoticism scale
+1986|138.0|3.0|Psychological Review|An Attributional Theory of Achievement Motivation and Emotion
+1987|45.0|3.0|Child Development|Roundtable: What Is Temperament? Four Approaches.
+1988|105.0|3.0|Behavioral and Brain Sciences|Event-related potentials and cognition: A critique of the context updating hypothesis and an alternative interpretation of P3
+1989|187.0|4.0|Behavioral and Brain Sciences|Sex differences in human mate preferences: evolutionary hypotheses tested in 37 cultures
+1990|107.0|3.0|Journal of Personality|Evolution, traits, and the stages of human courtship : qualifying the parental investment model
+1991|175.0|3.0|Psychological Review|Culture and the self: Implications for cognition, emotion, and motivation
+1992|65.0|4.0|Personality and Individual Differences|Four ways five factors are basic
+1993|76.0|3.0|Psychological Bulletin|Gender differences in sexuality: a meta-analysis.
+1994|74.0|3.0|Journal of Personality and Social Psychology|Behavioral inhibition, behavioral activation, and affective responses to impending reward and punishment : the BIS/BAS scales
+1995|90.0|4.0|Psychological Review|A Cognitive-Affective System Theory of Personality: Reconceptualizing Situations, Dispositions, Dynamics, and Invariance in Personality Structure.
+1996|120.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Involvement of the amygdala in memory storage: Interaction with other brain systems
+1997|140.0|4.0|Trends in Neurosciences|Organization of intra-amygdaloid circuitries in the rat: an emerging framework for understanding functions of the amygdala
+1998|254.0|5.0|Trends in Neurosciences|Mechanisms of emotional arousal and lasting declarative memory
+1999|236.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Orexin A activates locus coeruleus cell firing and increases arousal in the rat
+2000|238.0|7.0|Trends in Cognitive Sciences|The distributed human neural system for face perception
+2001|315.0|7.0|Nature Neuroscience|Abstract reward and punishment representations in the human orbitofrontal cortex
+2002|208.0|9.0|Current Opinion in Neurobiology|Neural systems for recognizing emotion
+2003|848.0|9.0|Management Information Systems Quarterly|User acceptance of information technology: toward a unified view
+2004|696.0|10.0|Annual Review of Neuroscience|THE MIRROR-NEURON SYSTEM
+2005|485.0|10.0|Behavioral and Brain Sciences|Understanding and sharing intentions: The origins of cultural cognition
+2006|420.0|9.0|Nature Neuroscience|Understanding emotions in others: mirror neuron dysfunction in children with autism spectrum disorders
+2007|406.0|9.5|Biological Reviews|Integrating animal temperament within ecology and evolution
+2008|749.0|10.0|PLOS ONE|Individual Attachment Style Modulates Human Amygdala and Striatum Activation during Social Appraisal
+2009|662.0|10.0|Psychiatry Research-neuroimaging|The NimStim set of facial expressions: Judgments from untrained research participants
+2010|528.0|10.0|Neuron|Functional-Anatomic Fractionation of the Brain's Default Network

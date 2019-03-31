@@ -1,0 +1,38 @@
+----  Field Name Civil law: 
+----  Field Level 2.0: 
+----  Field Papers Number 1637:
+----  All time max citation paper: Financial Intermediation and Growth: Causality and Causes, 1999, (712.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1939|0|0.0|Louisiana Law Review|Some Legal Systems That Have Disappeared
+1964|3.0|3.0|American Anthropologist|The Establishment of Identity in a Social Nexus: The Special Case of Initiation Ceremonies and Their Relation to Value and Legal Systems
+1978|1.0|0.0|Journal of Clinical Child and Adolescent Psychology|The Psychologist's Role In Juvenile and Family Law
+1980|1.0|1.0||The Concept of a Legal System
+1981|0|0.0|Review of Policy Research|ANTHROPOLOGY AND PUBLIC POLICY IN ALASKA: RECENT POLICY RELATED TO LEGAL SYSTEMS NATIVE SUBSISTENCE AND COMMERCIAL FISHERIES
+1983|8.0|2.0|Law and Human Behavior|Opinions of attorneys and law enforcement personnel on the accuracy of eyewitness identifications.
+1984|0|0.0|Law & Society Review|AUTOPOIESIS IN LAW AND SOCIETY: A REJOINDER TO BLANKENBURG
+1986|13.0|6.5|JAMA|HIV Antibody Screening: An Ethical Framework for Evaluating Proposed Programs
+1987|3.0|0.0|Canadian Journal of Behavioural Science|Eyewitness testimony research: Current knowledge and emergent controversies
+1988|26.0|3.0|JAMA|The Introduction of Low-Osmolar Contrast Agents in Radiology: Medical, Economic, Legal, and Public Policy Issues
+1989|5.0|5.0|Communications of The ACM|The potential of artificial intelligence to help solve the crisis in our legal system
+1990|11.0|3.0|Law & Society Review|In the Eye of the Beholder: Tort Litigants Evaluations of their Experiences in the Civil Justice System
+1991|10.0|2.0|Social Science & Medicine|Prostitution, AIDS, and preventive health behavior
+1992|6.0|1.5|Artificial Intelligence and Law|Normative conflicts in legal reasoning
+1993|14.0|1.0|international conference on artificial intelligence and law|A design for reasoning with policies, precedents, and rationales
+1994|6.0|1.5|Social Science & Medicine|Medical risk: Implicating poor pregnant women
+1995|9.0|2.5|Accounting Organizations and Society|The genesis of professional organization in scotland: a contextual analysis
+1996|17.0|1.5|Journal of Regulatory Economics|Incentive Regulation in the United Kingdom and the United States: Some Lessons
+1997|19.0|1.0|World Bank Economic Review|Civil liberties, democracy, and the performance of government projects
+1998|24.0|1.0|Stanford Law Review|A Behavioral Approach to Law and Economics
+1999|103.0|2.0|Journal of Monetary Economics|Financial Intermediation and Growth: Causality and Causes
+2000|30.0|3.0|Journal of Finance|Going Public without Governance: Managerial Reputation Effects
+2001|61.0|4.0||Costs of Medical Injuries in Utah and Colorado
+2002|114.0|3.0|Journal of Economic Perspectives|Transition Economies: Performance and Challenges
+2003|56.0|4.0|Journal of Comparative Economics|The New Comparative Economics
+2004|39.0|3.5|British Accounting Review|What do we know about audit quality?
+2005|100.0|3.0|Ssrn Electronic Journal|What Matters for Financial Development? Capital Controls, Institutions, and Interactions
+2006|58.0|2.0|Social Cognitive and Affective Neuroscience|Neural foundations to moral reasoning and antisocial behavior
+2007|190.0|2.0|Journal of Financial Economics|Private credit in 129 countries
+2008|123.0|3.0|Journal of Development Economics|Political connections, financing and firm performance: Evidence from Chinese private firms
+2009|58.0|3.0|Journal of Financial Economics|Bank activity and funding strategies : the impact on risk and returns
+2010|112.0|2.0|World Bank Economic Review|Financial institutions and markets across countries and over time : the updated financial development and structure database

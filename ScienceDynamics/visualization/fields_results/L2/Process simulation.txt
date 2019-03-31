@@ -1,0 +1,42 @@
+----  Field Name Process simulation: 
+----  Field Level 2.0: 
+----  Field Papers Number 3160:
+----  All time max citation paper: An introduction to simulated evolutionary optimization, 1994, (620.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1969|1.0|1.0|Communications of The ACM|On simulating networks of parallel processes in which simultaneous events may occur
+1975|0|0.0|IEEE Transactions on Aerospace and Electronic Systems|Electro-Optical Processing of Phsased-Array Antenna Data
+1977|1.0|1.0|Astrophysics and Space Science|Laboratory simulation of cometary erosion by space plasma
+1978|0|0.0|The Professional Geographer|PROCESS AND FORM RELATIONSHIPS: AN EXAMPLE FROM HISTORICAL GEOGRAPHY
+1979|4.0|3.0|IEEE Transactions on Electron Devices|Short-channel MOSFET's in the punchthrough current mode
+1980|6.0|6.0|Journal of Geophysical Research|Trigger, An active release experiment that stimulated auroral particle precipitation and wave emissions
+1981|26.0|15.5|Journal of Atmospheric and Solar-Terrestrial Physics|Spread F Theories - A Review.
+1982|1.0|0.5|Metallurgical and Materials Transactions A-physical Metallurgy and Materials Science|The occurrence of shear bands in isothermal, hot forging
+1983|14.0|2.5|symposium on operating systems principles|Publishing: a reliable broadcast communication mechanism
+1984|6.0|0.5|Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing|Splines as embeddings for generalized cylinders
+1985|2.0|0.5|Ibm Journal of Research and Development|FEDSS: a 2D semiconductor fabrication process simulator
+1986|42.0|2.0||Cellular automata machines
+1987|17.0|2.0|IEEE Computer|CAD-Based 3D Object Representation for Robot Vision
+1988|47.0|1.0|IEEE Transactions on Computers|Concurrent error detection using watchdog processors-a survey
+1989|11.0|4.0|IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems|PEPPER-a process simulator for VLSI
+1990|24.0|4.5|Computer Graphics|Area and volume coherence for efficient visualization of 3D scalar functions
+1991|30.0|4.0|Journal of Applied Physics|Diffusion of boron in silicon during postimplantation annealing
+1992|17.0|2.0|Journal of Applied Physics|Modeling uphill diffusion of Mg implants in GaAs using supremiv
+1993|37.0|2.0|Acta Metallurgica Et Materialia|Kinetics of strain-induced morphological transformation in cubic alloys with a miscibility gap
+1994|106.0|2.0|IEEE Transactions on Neural Networks|An introduction to simulated evolutionary optimization
+1995|15.0|2.0|IEEE Transactions on Systems, Man, and Cybernetics|Supporting operator problem solving through ecological interface design
+1996|25.0|2.0|Journal of Chemical Physics|Fragmentation of C+60 and higher fullerenes by surface impact
+1997|142.0|2.0|Journal of Applied Physics|Physical mechanisms of transient enhanced dopant diffusion in ion-implanted silicon
+1998|84.0|2.0|IEEE Journal on Selected Areas in Communications|A space-time coding modem for high-data-rate wireless communications
+1999|15.0|2.5|Thermochimica Acta|Water activity in poly(ethylene glycol) aqueous solutions
+2000|19.0|2.0|Computers & Chemical Engineering|A general framework for the integration of computational fluid dynamics and process simulation
+2001|66.0|2.0|IEEE Transactions on Fuzzy Systems|Designing fuzzy inference systems from data: An interpretability-oriented review
+2002|32.0|3.0|International Journal of Plasticity|Modeling the Bauschinger effect for sheet metals, part I: theory
+2003|40.0|3.0|Hydrometallurgy|Biosorption process simulation tools
+2004|89.0|3.0|Journal of Chemical Physics|Calculating potentials of mean force from steered molecular dynamics simulations.
+2005|33.0|3.0|IEEE Transactions on Power Systems|Energy and reserve pricing in security and network-constrained electricity markets
+2006|180.0|3.0|Bioresource Technology|A process model to estimate biodiesel production costs
+2007|369.0|3.0|Molecular Systems Biology|A genomescale metabolic reconstruction for Escherichia coli K12 MG1655 that accounts for 1260 ORFs and thermodynamic information
+2008|83.0|4.0|Fuel Processing Technology|Techno-economic study of different alternatives for biodiesel production
+2009|129.0|3.0|Applied Thermal Engineering|Energetic and economic investigation of Organic Rankine Cycle applications
+2010|68.0|4.0|Journal of Membrane Science|A feasibility study of CO 2 capture from flue gas by a facilitated transport membrane

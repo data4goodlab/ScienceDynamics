@@ -1,0 +1,49 @@
+----  Field Name Convex optimization: 
+----  Field Level 2.0: 
+----  Field Papers Number 5388:
+----  All time max citation paper: Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information, 2006, (3014.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1959|5.0|5.0|Numerische Mathematik|Newton's method for convex programming and Tchebycheff approximation
+1964|2.0|2.0|Papers in Regional Science|INDUSTRIAL DEVELOPMENT PLANNING MODELS WITH ECONOMIES OF SCALE AND INDIVISIBILITIES
+1967|1.0|0.5|Journal of Mathematical Analysis and Applications|Convex programming and systems of elementary monotonic relations
+1968|6.0|3.0||Computer scheduling methods and their countermeasures
+1972|6.0|6.0|Numerische Mathematik|Extension of Newton's method to nonlinear functions with values in a cone
+1973|1.0|1.0|Operations Research|Solution Sets of Convex Programs Related to Chemical Equilibrium Problems
+1974|3.0|3.0|International Journal of Solids and Structures|Solution to geometric programming problems by transformation to convex programming problems
+1975|4.0|2.5|Journal of Mathematical Economics|Stochastic convex programming: Kuhn-Tucker conditions
+1976|6.0|6.0|Mathematics of Operations Research|Augmented Lagrangians and Applications of the Proximal Point Algorithm in Convex Programming
+1977|0|0.0|IEEE Transactions on Electromagnetic Compatibility|Predicting the Compatibility of High Frequency Sky-Wave Communication Systems
+1978|3.0|2.5|Transactions of the American Mathematical Society|Symmetric duality for structured convex programs
+1979|7.0|4.0|Journal of Mathematical Analysis and Applications|Generalizations of methods of best approximation to convex optimization in locally convex spaces. II: Hyperplane theorems
+1980|7.0|2.0|Journal of Mathematical Analysis and Applications|Optimality conditions and duality in continuous programming I. Convex programs and a theorem of the alternative
+1981|6.0|1.5|Advances in Applied Mathematics|Clark's theorem for semi-infinite convex programs
+1982|9.0|2.0|Operations Research Letters|The gap function of a convex program
+1983|18.0|1.5|Econometrica|An Analysis of the Principal-Agent Problem
+1984|15.0|4.0|Mathematics of Operations Research|Lipschitz Behavior of Solutions to Convex Minimization Problems
+1985|3.0|1.0|Mathematical Programming|Applications of the method of partial inverses to convex programming: Decomposition
+1986|9.0|2.0|Journal of Mathematical Analysis and Applications|Quasi-convex optimization
+1987|3.0|1.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Multirate subband coding applied to digital speech interpolation
+1988|11.0|1.0|ACM Transactions on Mathematical Software|FORTRAN codes for estimating the one-norm of a real or complex matrix, with applications to condition estimation
+1989|5.0|2.0|conference on decision and control|Control of multi-service loss networks
+1990|13.0|2.0|Applied Mathematics and Optimization|Global ellipsoidal approximations and homotopy methods for solving convex analytic programs
+1991|163.0|4.0|IEEE Journal on Selected Areas in Communications|Equivalent capacity and its application to bandwidth allocation in high-speed networks
+1992|19.0|3.0|Systems & Control Letters|Optimal, constant I/O similarity scaling for full-information and state-feedback control problems
+1993|103.0|3.0|IEEE\/ACM Transactions on Networking|Effective bandwidth of general Markovian traffic sources and admission control of high speed networks
+1994|75.0|3.0|Systems & Control Letters|Gain scheduling via linear fractional transformations
+1995|85.0|4.0|Journal of the ACM|Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming
+1996|117.0|2.0|IEEE Transactions on Fuzzy Systems|An approach to fuzzy control of nonlinear systems: stability and design issues
+1997|51.0|2.0|Mathematics of Operations Research|Self-scaled barriers and interior-point methods for convex programming
+1998|85.0|2.0|IEEE Transactions on Automatic Control|Computation of piecewise quadratic Lyapunov functions for hybrid systems
+1999|37.0|4.0|IEEE Transactions on Fuzzy Systems|Piecewise quadratic stability of fuzzy systems
+2000|20.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Robust linear and support vector regression
+2001|231.0|5.0|international conference on computer communications|Convex position estimation in wireless sensor networks
+2002|121.0|5.0|IEEE Transactions on Fuzzy Systems|Expected value of fuzzy variable and fuzzy expected value models
+2003|255.0|6.0|neural information processing systems|Distance Metric Learning with Application to Clustering with Side-Information
+2004|639.0|5.0|Statistics and Computing|A tutorial on support vector regression
+2005|429.0|5.0|IEEE Transactions on Information Theory|Decoding by linear programming
+2006|1330.0|4.0|IEEE Transactions on Information Theory|Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information
+2007|374.0|4.0|IEEE Journal of Selected Topics in Signal Processing|Gradient Projection for Sparse Reconstruction: Application to Compressed Sensing and Other Inverse Problems
+2008|243.0|3.0|Journal of The Royal Statistical Society Series B-statistical Methodology|The group lasso for logistic regression
+2009|410.0|3.0|Journal of Machine Learning Research|Distance Metric Learning for Large Margin Nearest Neighbor Classification
+2010|277.0|4.0|IEEE Transactions on Information Theory|The Power of Convex Relaxation: Near-Optimal Matrix Completion

@@ -1,0 +1,48 @@
+----  Field Name Theoretical ecology: 
+----  Field Level 2.0: 
+----  Field Papers Number 8559:
+----  All time max citation paper: Historical overfishing and the recent collapse of coastal ecosystems, 2001, (2428.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|8.0|2.5|Journal of Genetics|Optimum mutation rate and degree of dominance as determined by the principle of minimum genetic load.
+1967|0|0.0|Hydrobiologia|Community metabolism in a tropical freshwater pond
+1970|29.0|2.5|Genetics|Is the gene the unit of selection?
+1972|9.0|9.0|Marine Biology|Organic detritus of a tropical estuary
+1973|8.0|5.0|Science|Species Introduction in a Tropical Lake A newly introduced piscivore can produce population changes in a wide range of trophic levels
+1974|16.0|4.0|The American Naturalist|Environmental Certainty, Trophic Level, and Resource Availability in Life History Evolution
+1975|8.0|1.5|Marine Biology|Population Structure, Food Relations and Ecological Role of Marine Oligochaetes, with Special Reference to Meiobenthic Species*
+1976|64.0|2.0|Human Ecology|The adaptive significance of cultural behavior
+1977|8.0|5.0|Helgoland Marine Research|Photosynthesis and fish production: Hypothetical effects of climatic change and pollution
+1978|26.0|3.0|Oecologia|The importance of a relative shortage of food in animal ecology
+1979|7.0|2.0|Marine Pollution Bulletin|Patterns of organochlorine residues in animals of different trophic levels from the Weser estuary
+1980|8.0|3.0|Nature|Coefficients of relatedness in sociobiology
+1981|8.0|4.0|Nature|Low 15N/14N in hydrothermal vent animals: ecological implications
+1982|13.0|3.0|Limnology and Oceanography|Primary production and the anchovy population in the Southern California Bight: Comparison of time series1
+1983|15.0|1.0|Chemosphere|Food chain enrichment of organochlorine compounds and mercury in clean and polluted lakes of Finland
+1984|33.0|3.0|Geochimica et Cosmochimica Acta|Nitrogen and carbon isotopic composition of bone collagen from marine and terrestrial animals
+1985|8.0|2.0|American Journal of Obstetrics and Gynecology|Exercise dynamics in late gestation: Effects of physical training
+1986|10.0|4.0|Biological Journal of The Linnean Society|Genetic diversity and resistance to marine pollution
+1987|13.0|3.0|Geochimica et Cosmochimica Acta|Nitrogen isotopic ecology in southern Africa: Implications for environmental and dietary tracing
+1988|37.0|3.0|Limnology and Oceanography|Phototrophic picoplankton: An overview from marine and freshwater ecosystems
+1989|40.0|5.0|Ethology and Sociobiology|Rethinking human ethology: A response to some recent critiques
+1990|44.0|3.0|Journal of Chemical Ecology|Plant strategies of manipulating predator-prey interactions through allelochemicals: prospects for application in pest control
+1991|55.0|3.0|Behavioral and Brain Sciences|Modeling behavioral adaptations
+1992|30.0|3.0|Plant Cell and Environment|The use of natural abundance of nitrogen isotopes in plant physiology and ecology
+1993|110.0|5.0|Behavioral and Brain Sciences|Cultural and reproductive success in industrial societies: Testing the relationship at the proximate and ultimate levels
+1994|66.0|3.0|Global Biogeochemical Cycles|Climatic, edaphic, and biotic controls over storage and turnover of carbon in soils
+1995|47.0|5.0|Netherlands Journal of Sea Research|The European Regional Seas Ecosystem Model, A Complex Marine Ecosystem Model
+1996|44.0|4.0|international conference on computer graphics and interactive techniques|Visual models of plants interacting with their environment
+1997|50.0|5.0|Nature|Effects of sea-ice extent and krill or salp dominance on the Antarctic food web
+1998|81.0|5.0||Sperm competition and sexual selection
+1999|86.0|8.0|Ecological Modelling|Ten years of individual-based modelling in ecology: what have we learned and what could we learn in the future?
+2000|192.0|8.0|Nature|Effect of aquaculture on world fish supplies.
+2001|434.0|8.0|Science|Historical overfishing and the recent collapse of coastal ecosystems
+2002|84.0|9.0|Agricultural and Forest Meteorology|Modeling and measuring the effects of disturbance history and climate on carbon and water budgets in evergreen needleleaf forests
+2003|222.0|10.0|Conservation Biology|Correlation between Fitness and Genetic Diversity
+2004|218.0|11.0|Nature|Impact of climate change on marine pelagic phenology and trophic mismatch
+2005|137.0|11.0|Biological Reviews|Speciesenergy relationships at the macroecological scale: a review of the mechanisms
+2006|343.0|10.0|Ecology Letters|Quantifying the evidence for biodiversity effects on ecosystem functioning and services.
+2007|313.0|11.0|Journal of Statistical Software|simecol: An Object-Oriented Framework for Ecological Modeling in R
+2008|896.0|14.0|Science|A global map of human impact on marine ecosystems.
+2009|358.0|11.0|JAMA|Cardiorespiratory Fitness as a Quantitative Predictor of All-Cause Mortality and Cardiovascular Events in Healthy Men and Women: A Meta-analysis
+2010|538.0|11.0|PLOS ONE|Source partitioning using stable isotopes: coping with too much variation.

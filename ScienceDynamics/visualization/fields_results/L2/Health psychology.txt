@@ -1,0 +1,44 @@
+----  Field Name Health psychology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1527:
+----  All time max citation paper: Health complaints, stress, and distress: exploring the central role of negative affectivity., 1989, (1553.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1967|14.0|14.0|Psychophysiology|HEART RATE DURING CONDITIONING IN DOGS: RELATIONSHIP TO SOMATICMOTOR ACTIVITY
+1969|23.0|23.0|Psychophysiology|HEART RATE AND SOMATIC CHANGES DURING AVERSIVE CONDITIONING AND A SIMPLE REACTION TIME TASK
+1970|4.0|3.0|Physiology & Behavior|Adrenal and amygdala function in the incubation of aversively conditioned responses
+1973|15.0|15.0|Physiology & Behavior|The effect of urine on the investigatory behaviour of male albino mice
+1975|2.0|2.0||Explorations in the taxonomy of behavior settings
+1978|3.0|3.0|Journal of Behavioral Medicine|Effects of threatening communications and mothers' health beliefs on weight change in obese children
+1979|1.0|1.0|Pharmacology, Biochemistry and Behavior|Physostigmine: Effects on fear or defense responses in the rat
+1980|19.0|5.0|American Psychologist|Behavioral health and behavioral medicine: frontiers for a new health psychology.
+1981|3.0|1.5|Journal of Behavioral Medicine|Intervention strategies to improve compliance with medical regimens by ambulatory hemodialysis patients
+1982|34.0|0.0|Psychological Bulletin|Control theory: a useful conceptual framework for personality-social, clinical, and health psychology.
+1983|6.0|6.0|Journal of Behavioral Medicine|Type A behavior: An ecological approach
+1984|2.0|1.0|Journal of Youth and Adolescence|Physical attractiveness as a mediator of the impact of early pubertal changes for girls
+1985|3.0|1.0|Social Science & Medicine|Cancer from a biobehavioural and social epidemiological perspective
+1986|23.0|4.0|Brain Research|Single unit activity of locus coeruleus neurons in the freely moving cat: II. Conditioning and pharmacologic studies
+1987|8.0|1.0|American Journal of Community Psychology|Social support and coping: A longitudinal analysis
+1988|20.0|6.5|Physiological Entomology|Food aversion learning in the polyphagous grasshopper Schistocerca americana
+1989|164.0|2.5|Psychological Review|Health complaints, stress, and distress: exploring the central role of negative affectivity.
+1990|16.0|1.0|American Psychologist|Behavior as the central outcome in health care.
+1991|6.0|3.0|Brain Research|Septal unit activity during classical conditioning: a regional comparison
+1992|4.0|2.0|American Journal of Community Psychology|Further explorations in empowerment theory: An empirical analysis of psychological empowerment
+1993|20.0|5.0|Neurobiology of Aging|Age-related changes in the pharmacological improvement of retention in senescence accelerated mouse (SAM)
+1994|13.0|1.5|European Journal of Pharmacology|Clonidine attenuates conditioned aversion produced by naloxone-precipitated opiate withdrawal.
+1995|24.0|2.0|Appetite|Development of a measure of the motives underlying the selection of food : the Food Choice Questionnaire
+1996|17.0|1.0|Neurobiology of Aging|Age-related changes in hippocampal drug facilitation of memory processing in SAMP 8 Mice
+1997|10.0|3.0|Psychophysiology|Fearpotentiated startle conditioning in humans: Explicit and contextual cue conditioning following paired versus unpaired training
+1998|9.0|3.5|European Journal of Pharmacology|The pharmacology of post-trial memory processing in septum
+1999|23.0|4.0|American Journal of Community Psychology|Effects of Enforcement of Youth Access Laws on Smoking Prevalence
+2000|142.0|6.0|Neuroscience|Mesolimbocortical and nigrostriatal dopamine responses to salient non-reward events.
+2001|40.0|3.0|BMJ|Qualitative analysis of psychosocial impact of diagnosis of Chlamydia trachomatis: implications for screening
+2002|42.0|7.0|Health Psychology|Information-Motivation-Behavioral Skills Model-Based HIV Risk Behavior Change Intervention for Inner-City High School Youth
+2003|150.0|8.0|Annual Review of Psychology|HEALTH PSYCHOLOGY: What is an Unhealthy Environment and How Does It Get Under the Skin?
+2004|52.0|8.0|Prevention Science|A conceptual framework for adaptive preventive interventions.
+2005|168.0|9.0|Psychological Bulletin|Anger, Anxiety, and Depression as Risk Factors for Cardiovascular Disease: The Problems and Implications of Overlapping Affective Dispositions.
+2006|265.0|9.0|Psychological Bulletin|Does changing behavioral intentions engender behavior change? A meta-analysis of the experimental evidence.
+2007|124.0|9.0|Psychology & Health|Dilemmas in qualitative health research
+2008|119.0|11.0|Annual Review of Psychology|Health Psychology: Developing Biologically Plausible Models Linking the Social World and Physical Health
+2009|101.0|11.0|Developmental Psychology|Aerobic Fitness and Cognitive Development: Event-Related Brain Potential and Task Performance Indices of Executive Control in Preadolescent Children.
+2010|142.0|10.0|BMC Public Health|Partnership work between Public Health and Health Psychology: introduction to a novel training programme

@@ -1,0 +1,44 @@
+----  Field Name Plant morphology: 
+----  Field Level 2.0: 
+----  Field Papers Number 2939:
+----  All time max citation paper: The Formation of Collective Silk Balls in the Spider Mite Tetranychus urticae Koch, 2011, (1829.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|0|0.0|Physiologia Plantarum|Inhibition of Root Development on Petioles and Hypoeotyls of Dwarf Beau (Phaseolus vulgaris) by Kiuetin
+1970|11.0|8.5|Virology|Leaf structure and callose formation as determinants of TMV movement in bean leaves as revealed by UV irradiation studies
+1971|1.0|1.0|Euphytica|Crosses between Hordeum vulgare L. and H. bulbosum L. I. Production, morphology and meiosis of hybrids, haploids and dihaploids
+1972|1.0|1.0|Euphytica|Chromosome number and plant morphology in some ecotypes of Poa pratensis L.
+1973|3.0|3.0|Botanical Review|Plant morphology in its nomothetical aspects
+1974|2.0|1.0|Biochemical Genetics|Leaf peroxidase activities in tomato mutants affecting plant morphology
+1978|0|0.0|The Journal of Agricultural Science|Effects of row width and planting density on growth and yield of two maincrop potato varieties. 1. Plant morphology and dry-matter accumulation
+1979|1.0|1.0|Plant Ecology|Successional pattern above timberline in south-central Chile
+1980|6.0|3.0|Soil Biology & Biochemistry|Bacterial colonization of seminal wheat roots
+1981|14.0|10.0|Environmental and Experimental Botany|Chromosome instability in cell and tissue cultures and regenerated plants
+1983|11.0|8.0|Aquatic Botany|The seagrass, Zostera Marina L.: Plant morphology and bed structure in relation to sediment ammonium in izembek lagoon, Alaska
+1984|14.0|14.0|Estuaries|Faunal Communities in Seagrass Beds: A Review of the Influence of Plant Structure and Prey Characteristics on Predator-Prey Relationships 1
+1985|0|0.0|Journal of Plant Research|The Morphology and Anatomy of Hydrastis(Ranunculales)--Systematic Reevaluation of the Genus
+1986|30.0|5.5|Plant and Soil|Development and function of Azospirillum-inoculated roots
+1987|11.0|6.5|Planta|Water droplets and ice deposits in leaf intercellular spaces: redistribution of water during cryofixation for scanning electron microscopy
+1988|15.0|0.0|Plant Cell Reports|The characterization of herbicide tolerant plants in Brassica napus L. after in vitro selection of microspores and protoplasts
+1989|2.0|1.5|New Zealand Journal of Agricultural Research|Seasonal variations in total nonstructural carbohydrate and major element levels in perennial ryegrass and paspalum in a mixed pasture
+1990|7.0|3.5|Functional Ecology|Allometry of saplings and understorey trees of a Panamanian forest.
+1991|23.0|6.0|The Plant Cell|Delayed Leaf Senescence in Tobacco Plants Transformed with tmr, a Gene for Cytokinin Production in Agrobacterium.
+1992|13.0|4.0|New Phytologist|The NostocGunnera symbiosis
+1993|24.0|3.0|The Plant Cell|Uncoupling Auxin and Ethylene Effects in Transgenic Tobacco and Arabidopsis Plants.
+1994|21.0|3.0|Advances in Agronomy|Morphological and physiological traits associated with wheat yield increases in Mediterranean environments
+1995|24.0|4.0|The Plant Cell|A Mutation Altering Auxin Homeostasis and Plant Morphology in Arabidopsis.
+1996|24.0|2.0|New Phytologist|Phragmites dieback: bud and root death, blockages within the aeration and vascular systems and the possible role of phytotoxins
+1997|23.0|2.0|Agricultural and Forest Meteorology|Radiation regime and canopy architecture in a boreal aspen forest
+1998|91.0|2.5|Proceedings of the National Academy of Sciences of the United States of America|Plant nuclear gene knockout reveals a role in plastid division for the homolog of the bacterial cell division protein FtsZ, an ancestral tubulin
+1999|71.0|3.0|Perspectives in Plant Ecology Evolution and Systematics|The factors controlling species density in herbaceous plant communities: an assessment
+2000|105.0|4.0|Plant Physiology|AXR2 Encodes a Member of the Aux/IAA Protein Family
+2001|113.0|3.5|Current Biology|Establishment of polarity in lateral organs of plants
+2002|30.0|4.0|Australian Systematic Botany|Higher-level relationships among the eucalypts are resolved by ITS-sequence data
+2003|157.0|6.0|Ecosystems|Effects of exotic plant invasions on soil nutrient cycling processes
+2004|85.0|6.0|Australian Systematic Botany|Use of nuclear genes for phylogeny reconstruction in plants
+2005|154.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|A genome-wide transcriptional analysis using Arabidopsis thaliana Affymetrix gene chips determined plant responses to phosphate deprivation
+2006|66.0|6.0|Plant Journal|Arabidopsis CDKA;1, a cdc2 homologue, controls proliferation of generative cells in male gametogenesis
+2007|157.0|5.0|Annals of Botany|Plant Architecture: A Dynamic, Multilevel and Comprehensive Approach to Plant Form, Structure and Ontogeny
+2008|229.0|5.0|Current Opinion in Plant Biology|Pectin structure and biosynthesis.
+2009|283.0|6.0|Agronomy for Sustainable Development|Plant drought stress: Effects, mechanisms and management
+2010|140.0|4.5|BMC Evolutionary Biology|Predictable patterns of trait mismatches between interacting plants and insects

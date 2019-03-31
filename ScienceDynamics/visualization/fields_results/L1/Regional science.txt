@@ -1,0 +1,42 @@
+----  Field Name Regional science: 
+----  Field Level 1.0: 
+----  Field Papers Number 1317:
+----  All time max citation paper: The Economic Performance of Regions, 2010, (371.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|0|0.0|Growth and Change|A Review Essay Regional Economics in the U.S.
+1973|0|0.0|Review of Social Economy|The City as a Source of Regional Economic Disparity in Latin America: A Comment
+1974|2.0|2.0|Socio-economic Planning Sciences|Regional economic effects of higher education institutions
+1976|1.0|0.5|Papers in Regional Science|A MULTIOBJECTIVE DECISION MODEL FOR REGIONAL DEVELOPMENT, ENVIRONMENTAL QUALITY CONTROL, AND INDUSTRIAL LAND USE
+1978|2.0|1.5|World Development|Crisis in regional economic cooperation (integration) among developing countries: A survey
+1979|2.0|1.5||Help for the regional economic forecaster: vector autoregression
+1981|3.0|1.5|The Professional Geographer|GOVERNMENTFUNDED R&D: SOME REGIONAL ECONOMIC IMPLICATIONS
+1982|16.0|2.0|Social Science & Medicine|Economic change and sex-specific cardiovascular mortality in Britain 19551976
+1983|2.0|2.0|Annals of The Association of American Geographers|Mechanisms for Geographical Transmission of Economic Fluctuations
+1984|2.0|0.0|Papers in Regional Science|THE CONCEPT OF LOCAL DEVELOPMENT: A STAGES MODEL OF ENDOGENOUS REGIONAL GROWTH*
+1985|4.0|2.0|Papers in Regional Science|Methodological aspects of impact analysis of regional economic policy
+1986|2.0|2.0|Regional Studies|THE ANATOMY OF JOB LOSS AND JOB CREATION - SOME SPECULATIONS ON THE ROLE OF THE PRODUCER SERVICE SECTOR
+1987|8.0|3.0|Annals of The Association of American Geographers|Regional and Technological Implications of the Recent Buildup in American Defense Spending
+1988|6.0|3.5|Annals of The Association of American Geographers|Government Policy Biases and Ecuadorian Agricultural Change
+1989|1.0|1.0|Journal of Urban Economics|Interregional flows of funds as a measure of economic integration in the United States
+1990|16.0|1.0|Regional Science and Urban Economics|Knowledge and communications infrastructure and regional economic change
+1991|3.0|1.5|Higher Education|University Competition, Student Migration and Regional Economic Differentials in the United Kingdom.
+1992|4.0|1.0|Environmental Toxicology and Chemistry|Regional forest migrations and potential economic effects
+1993|5.0|1.5|Pesticide Science|Growth inhibitory and antifeedant effects of azadirachtin on six noctuids of regional economic importance
+1994|45.0|2.0|Journal of Political Economy|State Responses to Fiscal Crises: The Effects of Budgetary Institutions and Politics
+1995|20.0|1.0|Futures|The wealth of regions
+1996|12.0|1.0|Regional Studies|Industrial Districts and Regional Economic Development: A Regulation Approach
+1997|23.0|3.5|Journal of Comparative Economics|The CoastNoncoast Income Gap, Productivity, and Regional Economic Policy in China
+1998|53.0|1.5|JAMA Internal Medicine|A Review of the Incorporation of Complementary and Alternative Medicine by Mainstream Physicians
+1999|23.0|2.0|European Urban and Regional Studies|'The Learning Economy, the Learning Firm and the Learning Region': A Sympathetic Critique of the Limits to Learning
+2000|31.0|3.0|Regional Science and Urban Economics|Regional convergence in Europe and the industry mix: a shift-share analysis
+2001|24.0|3.0|Agriculture, Ecosystems & Environment|Model based analysis of future land-use development in China
+2002|34.0|3.0|Climate Policy|Linkages between climate change and sustainable development
+2003|72.0|2.0|Land Economics|Price and Income Elasticities of Residential Water Demand: A Meta-Analysis
+2004|35.0|2.0||Space and Growth: A Survey of Empirical Evidence and Methods
+2005|134.0|4.0|Brookings Papers on Economic Activity|Global Current Account Imbalances and Exchange Rate Adjustments
+2006|59.0|4.0|Agriculture, Ecosystems & Environment|Scenario development to explore the future of Europe's rural areas
+2007|50.0|3.0|Regional Studies|New Business Formation by Industry over Space and Time: A Multidimensional Analysis
+2008|65.0|2.0|Research Policy|Universities and regional economic development: The entrepreneurial University of Waterloo
+2009|48.0|3.0|Transportation Research Part A-policy and Practice|Access to railway stations and its potential in increasing rail use
+2010|371.0|3.0|Regional Studies|The Economic Performance of Regions

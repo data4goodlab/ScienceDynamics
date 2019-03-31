@@ -1,0 +1,53 @@
+----  Field Name Nonlinear programming: 
+----  Field Level 2.0: 
+----  Field Papers Number 6854:
+----  All time max citation paper: Differential Evolution  A Simple and Efficient Heuristic for Global Optimization over Continuous Spaces, 1997, (3512.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1962|0|0.0||A nonlinear digital optimizing program for process control systems
+1964|3.0|2.0||Nonlinear optimization: Some procedures and examples
+1965|4.0|4.0|Journal of Mathematical Analysis and Applications|Minmax and duality in nonlinear programming
+1966|6.0|6.0|Management Science|Extensions of SUMT for Nonlinear Programming: Equality Constraints and Extrapolation
+1967|4.0|2.0|Journal of Mathematical Analysis and Applications|Lagrange multipliers and nonlinear programming
+1969|7.0|0.5|Journal of Mathematical Analysis and Applications|Duality for nonlinear programming in complex space
+1970|6.0|2.0|IEEE Transactions on Reliability|Optimal Reliability of a Complex System
+1971|12.0|2.0|Journal of Mathematical Analysis and Applications|New Necessary Conditions of Optimality for Control Problems with State-Variable Inequality Constraints
+1972|10.0|1.0|Journal of Mathematical Analysis and Applications|Nonlinear programming in complex space: Sufficient conditions and duality
+1973|7.0|2.0|AIAA Journal|Some approximation concepts for structural synthesis.
+1974|5.0|1.0|IEEE Transactions on Microwave Theory and Techniques|A Unified Review of Optimization
+1975|6.0|1.0|Archive of Applied Mechanics|A nonlinear programming approach to the unilateral contact-, and friction-boundary value problem in the theory of elasticity
+1976|20.0|0.5||ETA: A Model for Energy Technology Assessment
+1977|12.0|1.0|Communications of The ACM|A record and file partitioning model
+1978|29.0|1.5|Mathematical Programming|Large-scale linearly constrained optimization
+1979|7.0|2.0|Transportation Research Part B-methodological|Continuous equilibrium network design models
+1980|12.0|3.0|Management Science|Simple Ranking Methods for Allocation of One Resource
+1981|16.0|2.0|Automatica|Parameter estimation for continuous-time models-A survey
+1982|8.0|0.0|ACM Sigmap Bulletin|Nonlinear programming: a historical view
+1983|10.0|2.0|Management Science|An Approach to the Optimal Positioning of a New Product
+1984|22.0|2.0|Water Resources Research|Aquifer Reclamation Design: The Use of Contaminant Transport Simulation Combined With Nonlinear Programing
+1985|18.0|2.0|IEEE Journal on Robotics and Automation|A complete generalized solution to the inverse kinematics of robots
+1986|42.0|2.0|Mathematical Programming|On projected Newton barrier methods for linear programming and an equivalence to Karmarkar's projective method
+1987|29.0|1.5|international conference on robotics and automation|Mechanics of coordinative manipulation by multiple robotic mechanisms
+1988|37.0|3.5|Biological Cybernetics|Accelerating the convergence of the back-propagation method
+1989|22.0|3.0|Mathematical Programming|On the limited memory BFGS method for large scale optimization
+1990|15.0|1.0|design automation conference|Analysis and design of latch-controlled synchronous digital circuits
+1991|56.0|2.0|Artificial Intelligence|O-Plan: the open planning architecture
+1992|49.0|3.0|Artificial Intelligence|A validation-structure-based theory of plan modification and reuse
+1993|30.0|3.0|Siam Review|Semi-infinite programming: theory, methods, and applications
+1994|33.0|3.0|Water Resources Research|Optimization of groundwater remediation using artificial neural networks with parallel solute transport modeling
+1995|85.0|2.0|Journal of the ACM|Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming
+1996|50.0|2.0|electronic commerce|Evolutionary algorithms for constrained parameter optimization problems
+1997|56.0|2.0|IEEE Transactions on Fuzzy Systems|A new approach to fuzzy modeling
+1998|49.0|2.0|Optimization Methods & Software|LOQO:an interior point code for quadratic programming
+1999|61.0|3.0|Computational Optimization and Applications|An Interior-Point Algorithm for Nonconvex Nonlinear Programming
+2000|54.0|3.0|international conference on computer aided design|Multilevel optimization for large-scale circuit placement
+2001|48.0|3.0|Management Science|Generating Scenario Trees for Multistage Decision Problems
+2002|100.0|3.0|Mathematical Programming|Nonlinear programming without a penalty function
+2003|278.0|4.0|Bioinformatics|r8s: inferring absolute rates of molecular evolution and divergence times in the absence of a molecular clock.
+2004|308.0|4.0|International Journal of Computer Vision|Active Appearance Models Revisited
+2005|104.0|3.0|Computer Methods in Applied Mechanics and Engineering|A new meta-heuristic algorithm for continuous engineering optimization: harmony search theory and practice
+2006|282.0|3.0|Mathematical Programming|On the implementation of an interior-point filter line-search algorithm for large-scale nonlinear programming
+2007|167.0|3.0|Computer Methods in Applied Mechanics and Engineering|Robust optimization  A comprehensive survey
+2008|342.0|3.0|IEEE Transactions on Evolutionary Computation|Particle Swarm Optimization: Basic Concepts, Variants and Applications in Power Systems
+2009|150.0|3.0|IEEE Transactions on Signal Processing|Optimal Multiband Joint Detection for Spectrum Sensing in Cognitive Radio Networks
+2010|125.0|4.0|IEEE Transactions on Power Systems|Optimal Renewable Resources Mix for Distribution System Energy Loss Minimization

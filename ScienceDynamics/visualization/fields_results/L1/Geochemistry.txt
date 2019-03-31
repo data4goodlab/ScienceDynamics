@@ -1,0 +1,72 @@
+----  Field Name Geochemistry: 
+----  Field Level 1.0: 
+----  Field Papers Number 46835:
+----  All time max citation paper: The composition of the Earth, 1995, (3800.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1939|0|0.0|Biological Reviews|STABLE ISOTOPES AS INDICATORS IN BIOLOGY
+1940|0|0.0|The Journal of Agricultural Science|Distribution of manganese in the pea seed in relation to marsh spot
+1941|1.0|1.0|Journal of Applied Physics|Separation and Use of Stable Isotopes
+1942|0|0.0|Plant Physiology|INFLUENCE OF CARBON DIOXIDE ON RESPONSE OF ASPERGILLUS NIGER TO TRACE ELEMENTS
+1948|0|0.0|Proceedings of The Indian Academy of Sciences - Section A. Part 3, Mathematical Sciences|Trace element nutrition of fungi
+1950|0|0.0|Botanical Review|Isotopes as tracers in plants.
+1951|15.0|0.0|Geochimica et Cosmochimica Acta|The distribution of trace elements during strong fractionation of basic magmaa further study of the Skaergaard intrusion, East Greenland
+1952|7.0|6.0|American Journal of Anatomy|Autoradiographic studies of calcium, phosphorus and strontium distribution in the bones of the growing pig
+1953|9.0|5.0|Geochimica et Cosmochimica Acta|THE GEOCHEMISTRY OF THE STABLE CARBON ISOTOPES
+1954|8.0|5.0|Geochimica et Cosmochimica Acta|The transport and deposition of uranium, ionium and radium in rivers, oceans and ocean sediments
+1955|5.0|1.0|Geochimica et Cosmochimica Acta|A petrochemical study of Tertiary tholeiitic basalts: The middle lavas of the Antrim Plateau
+1956|1.0|0.5|Geochimica et Cosmochimica Acta|On the state of our knowledge of trace elements in the ocean
+1957|5.0|1.5|Physiologia Plantarum|Studies on the Nutrition of Forest Tree Seedlings. II Mineral Nutrition of Spruce
+1958|7.0|4.0|Geochimica et Cosmochimica Acta|Thorium, uranium and potassium in some sandstones
+1959|13.0|4.0|Journal of Clinical Investigation|NORMAL CONCENTRATIONS OF SOME TRACE METALS IN HUMAN URINE: CHANGES PRODUCED BY ETHYLENEDIAMINETETRAACETATE *
+1960|30.0|2.0|Geochimica et Cosmochimica Acta|Determinations of concentrations of heavy elements in meteorites by activation analysis
+1961|10.0|3.0|Geochimica et Cosmochimica Acta|The geochemistry of cobalt
+1962|17.0|4.0|Journal of Applied Physics|Work Function Variation of Metals Coated by Metallic Films
+1963|25.0|4.0|Journal of Geophysical Research|A PROCEDURE FOR GEOCHEMICAL INTERPRETATION OF TERRESTRIAL RARE-EARTH ABUNDANCE PATTERNS,
+1964|84.0|5.0|Nuclear Physics|Energy levels from (p, p), (d, p) and (d, ) reactions on the stable isotopes between Sc45 and Ni58
+1965|36.0|5.5|Physics and Chemistry of The Earth|The application of trace element data to problems in petrology
+1966|47.0|3.0|Physics and Chemistry of The Earth|Meteoritic, solar and terrestrial rare-earth distributions.
+1967|91.0|6.0|Contributions to Mineralogy and Petrology|The genesis of basaltic magmas
+1968|105.0|6.0|Geochimica et Cosmochimica Acta|Trace element fractionation and the origin of tholeiitic and alkaline magma types
+1969|153.0|5.5|Geochimica et Cosmochimica Acta|U.S. Geological Survey standards-II. First compilation of data for the new U.S.G.S. rocks
+1970|70.0|3.0|Geochimica et Cosmochimica Acta|Phenocryst-matrix partition coefficients for K, Rb, Sr and Ba, with applications to anorthosite and basalt genesis
+1971|53.0|5.0|Earth and Planetary Science Letters|Lunar chronology and evolution from Rb-Sr studies of Apollo 11 and 12 samples
+1972|40.0|4.0|Earth and Planetary Science Letters|Metal/silicate fractionation in the solar system
+1973|81.0|6.0|Earth and Planetary Science Letters|Tectonic setting of basic volcanic rocks determined using trace element analyses
+1974|50.0|5.0|Reviews of Geophysics|Early chemical history of the solar system
+1975|99.0|4.0|Geochimica et Cosmochimica Acta|Geochemistry and origin of the early Precambrian crust of northeastern Minnesota
+1976|86.0|6.0|Geophysical Research Letters|Nd isotopic variations and petrogenetic models
+1977|98.0|5.0|Earth and Planetary Science Letters|Petrogenesis of basalts from the FAMOUS area: Mid-Atlantic Ridge
+1978|105.0|5.0|Geochimica et Cosmochimica Acta|A review of experimental studies of crystal/liquid trace element partitioning
+1979|90.0|5.0|Earth and Planetary Science Letters|Geochemical characteristics of mid-ocean ridge basalts
+1980|72.0|4.0|Earth and Planetary Science Letters|Sm-Nd isotopic evolution of chondrites
+1981|110.0|5.0|Earth and Planetary Science Letters|Trace element and isotopic effects of combined wallrock assimilation and fractional crystallization
+1982|110.0|5.0|Earth and Planetary Science Letters|Mantle plumes from ancient oceanic crust
+1983|55.0|4.0|Geochimica et Cosmochimica Acta|Large partition coefficients for trace elements in high-silica rhyolites
+1984|104.0|4.0|Earth and Planetary Science Letters|Hf Nd Sr isotopes and incompatible element abundances in island arcs: implications for magma origins and crust-mantle evolution
+1985|127.0|3.0|Geochimica et Cosmochimica Acta|Chemistry of submarine hydrothermal solutions at 21 N, East Pacific Rise
+1986|67.0|4.0|Earth and Planetary Science Letters|Nb and Pb in oceanic basalts : New constraints on mantle evolution
+1987|58.0|4.0|Contributions to Mineralogy and Petrology|A-type granites: geochemical characteristics, discrimination and petrogenesis
+1988|176.0|5.0|Global Biogeochemical Cycles|Biogeochemical aspects of atmospheric methane
+1989|214.0|4.0|Geochimica et Cosmochimica Acta|Abundances of the elements - Meteoritic and solar
+1990|67.0|3.0|Journal of Geophysical Research|Melting in the oceanic upper mantle: An ion microprobe study of diopsides in abyssal peridotites
+1991|97.0|4.0|Journal of Geophysical Research|Threedimensional model synthesis of the global methane cycle
+1992|60.0|4.0|Earth and Planetary Science Letters|himu-em: The French Polynesian connection
+1993|85.0|4.0|Contributions to Mineralogy and Petrology|Experimental cpx/melt partitioning of 24 trace elements
+1994|89.0|4.0||What we have learned about Mars from SNC meteorites
+1995|184.0|4.0|Chemical Geology|The composition of the Earth
+1996|48.0|3.0|Geophysical Prospecting|Rapid leastsquares inversion of apparent resistivity pseudosections by a quasiNewton method1
+1997|85.0|4.0|Nature|Effect of seawater carbonate concentration on foraminiferal carbon and oxygen isotopes
+1998|132.0|4.0|Chemical Geology|The chemical composition of subducting sediment and its consequences for the crust and mantle
+1999|470.0|5.0|Nature Biotechnology|Quantitative analysis of complex protein mixtures using isotope-codedaffinity tags
+2000|168.0|6.0|Environmental Toxicology and Chemistry|Concentrations and dose rate estimates of 134137cesium and 90strontium in small mammals at chornobyl, Ukraine
+2001|106.0|6.0|Applied and Environmental Microbiology|Comparative analysis of methane-oxidizing archaea and sulfate-reducing bacteria in anoxic marine sediments
+2002|402.0|7.0|Molecular & Cellular Proteomics|Stable Isotope Labeling by Amino Acids in Cell Culture, SILAC, as a Simple and Accurate Approach to Expression Proteomics
+2003|273.0|8.0|Nature Biotechnology|Proteomic analysis of post-translational modifications
+2004|374.0|8.0|Journal of Geophysical Research|Influence of coastal upwelling and El NioSouthern Oscillation on nearshore water along Baja California and Chile: Shorebased monitoring during 19972000
+2005|437.0|8.0|Journal of Geophysical Research|Synthesis of iron fertilization experiments : from the Iron Age in the Age of Enlightenment
+2006|327.0|8.0|Molecular & Cellular Proteomics|Quantitative mass spectrometric multiple reaction monitoring assays for major plasma proteins.
+2007|449.0|8.0|Analytical and Bioanalytical Chemistry|Quantitative mass spectrometry in proteomics: a critical review.
+2008|408.0|9.0|Nature|Comprehensive mass-spectrometry-based proteome quantification of haploid versus diploid yeast
+2009|380.0|8.0|computer vision and pattern recognition|Frequency-tuned salient region detection
+2010|538.0|8.0|PLOS ONE|Source partitioning using stable isotopes: coping with too much variation.

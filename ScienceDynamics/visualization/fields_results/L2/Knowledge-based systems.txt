@@ -1,0 +1,40 @@
+----  Field Name Knowledge-based systems: 
+----  Field Level 2.0: 
+----  Field Papers Number 7888:
+----  All time max citation paper: Induction of Decision Trees, 1986, (4887.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1976|18.0|7.0|international conference on software engineering|The design of the PSI program synthesis system
+1977|12.0|5.5|international joint conference on artificial intelligence|A network-based knowledge representation and its natural deduction system
+1979|15.0|8.0||ENCODING KNOWLEDGE IN PARTITIONED NETWORKS
+1980|76.0|4.5|ACM Computing Surveys|The Hearsay-II Speech-Understanding System: Integrating Knowledge to Resolve Uncertainty
+1981|13.0|10.0|meeting of the association for computational linguistics|Transportable natural-language interfaces to databases
+1982|29.0|1.5|human factors in computing systems|Analogy considered harmful
+1983|8.0|4.0|national conference on artificial intelligence|AN INTELLIGENT AID FOR CIRCUIT REDESIGN
+1984|68.0|3.0|Expert Systems|ISISa knowledgebased system for factory scheduling
+1985|114.0|4.0|Cognitive Science|An Overview of the KLONE Knowledge Representation System*
+1986|232.0|2.0|Machine Learning|Induction of Decision Trees
+1987|59.0|4.0|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|Expertise transfer and complex problems: using AQUINAS as a knowledge-acquisition workbench for knowledge-based systems
+1988|75.0|2.0|Ai Magazine|Real-time knowledge-based systems
+1989|37.0|2.0|IEEE Intelligent Systems|Explaining control strategies in problem solving
+1990|51.0|2.0|Robotics and Autonomous Systems|Integrating behavioral, perceptual, and world knowledge in reactive navigation
+1991|27.0|2.0|IEEE Transactions on Systems, Man, and Cybernetics|An intelligent agent framework for enterprise integration
+1992|62.0|2.0|very large data bases|Knowledge Discovery in Databases: An Attribute-Oriented Approach
+1993|99.0|2.0|IEEE Transactions on Knowledge and Data Engineering|Database mining: a performance perspective
+1994|69.0|2.0|IEEE Intelligent Systems|CommonKADS: a comprehensive methodology for KBS development
+1995|62.0|2.0|IEEE Intelligent Systems|Intelligent agents on the Internet: Fact, fiction, and forecast
+1996|65.0|2.0|IEEE Intelligent Systems|Agent-based engineering, the Web, and intelligence
+1997|55.0|2.0|Proceedings of the IEEE|An introduction to multisensor data fusion
+1998|87.0|2.0|Journal of Cognitive Neuroscience|Domain-Specific Knowledge Systems in the Brain: The Animate-Inanimate Distinction
+1999|83.0|3.0|ieee symposium on security and privacy|Detecting intrusions using system calls: alternative data models
+2000|124.0|2.0|knowledge acquisition, modeling and management|The Knowledge Model of Protg-2000: Combining Interoperability and Flexibility
+2001|123.0|3.0|IEEE Intelligent Systems|Knowledge processes and ontologies
+2002|82.0|3.0|IEEE Transactions on Evolutionary Computation|Data mining with an ant colony optimization algorithm
+2003|190.0|3.0|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|The evolution of Protg: an environment for knowledge-based systems development
+2004|121.0|3.0|IEEE Intelligent Systems|China's e-science knowledge grid environment
+2005|246.0|2.0|Annual Review of Environment and Resources|ADAPTIVE GOVERNANCE OF SOCIAL-ECOLOGICAL SYSTEMS
+2006|294.0|2.0|Global Environmental Change-human and Policy Dimensions|Resilience: The emergence of a perspective for socialecological systems analyses
+2007|136.0|2.0|human factors in computing systems|He says, she says: conflict and coordination in Wikipedia
+2008|225.0|1.0|IEEE Journal on Selected Areas in Communications|An overview of limited feedback in wireless communication systems
+2009|139.0|1.0|IEEE Transactions on Medical Imaging|Comparison and Evaluation of Methods for Liver Segmentation From CT Datasets
+2010|59.0|2.0|Climatic Change|Indigenous climate knowledge in southern Uganda: the multiple components of a dynamic regional system

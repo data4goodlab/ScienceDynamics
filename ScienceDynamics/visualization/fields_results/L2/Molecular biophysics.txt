@@ -1,0 +1,35 @@
+----  Field Name Molecular biophysics: 
+----  Field Level 2.0: 
+----  Field Papers Number 4526:
+----  All time max citation paper: Biclustering Algorithms for Biological Data Analysis: A Survey, 2004, (818.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1980|0|0.0||A Mssbauer spectrometry study of iron in hepatic and splenic tissues. Preliminary results
+1983|0|0.0|IEEE Engineering in Medicine and Biology Magazine|Electroacupuncture & Auricular Electrial Stimulation
+1984|19.0|19.0|Ultramicroscopy|Three-dimensional reconstruction of imperfect two-dimensional crystals
+1985|13.0|4.0|Ultramicroscopy|The effects of air-drying and freeze-drying on the structure of a regular protein layer
+1986|7.0|3.0|Ultramicroscopy|Three-dimensional reconstruction of a freeze-dried and metal-shadowed bacterial surface layer
+1987|2.0|0.0|Journal De Physique|Ripple wavelength, amplitude, and configuration in lyotropic liquid crystals as a function of effective headgroup size
+1988|0|0.0|Journal De Physique|Mutual and self-diffusion in concentrated -crystallin protein dispersions. A dynamic light scattering study
+1989|2.0|1.0|international conference of the ieee engineering in medicine and biology society|Self-assembly as a mechanism of molecular computing
+1990|28.0|10.0|foundations of computer science|Approximate string matching in sublinear expected time
+1991|2.0|2.0|Journal of Microscopy|Interfacial energies and surfacetension forces involved in the preparation of thin, flat crystals of biological macromolecules for highresolution electron microscopy
+1992|5.0|0.0||Manipulation of biological objects in micromachined structures
+1993|2.0|1.5||Computer visualization of long genomic sequences
+1994|16.0|2.0|Trends in Neurosciences|Dendritic processing of synaptic information by sensory interneurons
+1995|9.0|0.0|symposium on the theory of computing|Open combinatorial problems in computational molecular biology
+1996|16.0|4.0|computational science and engineering|SMD: visual steering of molecular dynamics for protein design
+1997|9.0|1.0|IEEE Computer|Visual servoing for online facilities
+1998|13.0|1.0|IEEE Transactions on Biomedical Engineering|Microfabricated cantilevers for measurement of subcellular and molecular forces
+1999|28.0|8.0|IEEE Intelligent Systems & Their Applications|RiboWeb: an ontology-based system for collaborative molecular biology
+2000|4.0|0.0||Interactive visualization of protein dynamics
+2001|14.0|2.0|international conference on data mining|A scalable algorithm for clustering sequential data
+2002|85.0|3.5|international conference on data mining|Mining molecular fragments: finding relevant substructures of molecules
+2003|58.0|2.0|bioinformatics and bioengineering|Enhanced biclustering on expression data
+2004|358.0|2.0|IEEE/ACM Transactions on Computational Biology and Bioinformatics|Biclustering Algorithms for Biological Data Analysis: A Survey
+2005|151.0|2.0|Applied Physics Letters|Line and two-dimensional fractal analysis of micrographs obtained by atomic force microscopy of surface-immobilized oligonucleotide nano-aggregates
+2006|118.0|2.0||Algorithmic Self-Assembly of DNA
+2007|97.0|1.0|IEEE Design & Test of Computers|Chemical and Biological Applications of Digital-Microfluidic Devices
+2008|166.0|1.0|Journal of Chemical Physics|Environment-Assisted Quantum Walks in Photosynthetic Energy Transfer
+2009|56.0|0.0|Applied Physics Letters|Fluorescence quenching of quantum dots by gold nanorods and its application to DNA detection
+2010|78.0|1.0|IEEE Journal of Selected Topics in Quantum Electronics|Label-Free Biosensor Arrays Based on Silicon Ring Resonators and High-Speed Optical Scanning Instrumentation

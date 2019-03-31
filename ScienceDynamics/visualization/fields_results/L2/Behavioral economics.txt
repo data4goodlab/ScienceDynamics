@@ -1,0 +1,69 @@
+----  Field Name Behavioral economics: 
+----  Field Level 2.0: 
+----  Field Papers Number 28957:
+----  All time max citation paper: Prospect Theory: An Analysis of Decision under Risk, 1979, (6489.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|7.0|7.0|Journal of Experimental Zoology|An experimental analysis of the development of the anuran olfactory organ
+1942|4.0|4.0|Journal of Experimental Zoology|A cytological and experimental analysis of the meiotic behavior of the univalent X chromosome in the bearberry aphid Tamalia (Phyllaphis) coweni (Ckll.)
+1944|2.0|2.0|Journal of Experimental Zoology|An experimental analysis of barred pattern formation in feathers
+1950|13.0|13.0|Journal of Experimental Zoology|An experimental analysis of relations between parts of the brachial spinal cord of the embryonic chick
+1952|9.0|7.0|Journal of Experimental Zoology|An experimental analysis of the development of the spinal column. Part I. Response of precartilage cells to size variations of the spinal cord
+1953|14.0|14.0|Journal of Experimental Zoology|An experimental analysis of the development of the spinal column. III. Induction of skeletogenous cells
+1954|0|0.0|Experimental Parasitology|Experimental analysis of some factors influencing variation in the flagellar number of Trichomonas hominis from man and other primates and their relationship to nomenclature
+1955|1.0|1.0|Journal of Morphology|An experimental analysis of the development of the spinal column IV. Morphogenesis of tail vertebrae during regeneration
+1956|5.0|4.0|Journal of Experimental Zoology|An experimental analysis of taste barbel regeneration in the catfish
+1957|1.0|1.0|Journal of Experimental Medicine|THE PATHOGENESIS OF HEMOPHILIA AN EXPERIMENTAL ANALYSIS OF THE ANTICEPHALIN HYPOTHESIS IN HEMOPHILIC DOGS
+1958|0|0.0|Nature|Analogies between the Compensatory Responses of Fish and Crustacea to Horizontal Displacement of the Body
+1959|0|0.0|Journal of Experimental Zoology|An experimental analysis of the development of a color pattern in the fish Brachydanio albolineatus Blyth
+1960|4.0|4.0|The Journal of General Physiology|Thresholds and Plateaus in the Hodgkin-Huxley Nerve Equations
+1961|7.0|4.0|Developmental Biology|Experimental analysis of the origin of cell types in the development of the mouse thymus.
+1962|2.0|2.0|Anatomical Record-advances in Integrative Anatomy and Evolutionary Biology|An experimental analysis and description of the melanocytes in the leg musculature of the pet strain of mice
+1963|6.0|5.0|Virology|An experimental analysis of bacteriophage T4 heterozygotes: I. Mottled plaques from crosses involving six rII loci
+1964|7.0|1.5|Journal of Cell Biology|FINE STRUCTURE OF DIFFERENTIATING MOUSE PANCREATIC EXOCRINE CELLS IN TRANSFILTER CULTURE
+1965|13.0|7.0|Journal of Experimental Social Psychology|An experimental analysis of self-persuasion
+1966|3.0|0.0|Annals of the New York Academy of Sciences|EXPERIMENTAL ANALYSIS OF DRINKING BEHAVIOR OF CHRONIC ALCOHOLICS*
+1967|2.0|1.5|Journal of Experimental Social Psychology|Nonverbal reciprocation of approval: an experimental analysis
+1968|2.0|2.0|Journal of Financial and Quantitative Analysis|Theory of Option Strategy Under Risk Aversion
+1969|6.0|4.5|Behaviour|Experimental Analysis of Sexual Behavior of the Deermouse Peromyscus Maniculatus Gambeli
+1970|11.0|3.0|Pflgers Archiv: European Journal of Physiology|Evidence of a Cholinergic Nervous Mechanism Mediating the Autoregulatory Dilatation of the Cerebral Blood Vessels
+1971|11.0|3.0|Behavior Therapy|An experimental analysis of the behavior of alcoholics and nonalcoholics during prolonged experimental drinking: A necessary precursor of behavior therapy?
+1972|11.0|1.5|British Journal of Surgery|Kidney preservation for transportation experimental analysis of optimal perfusate composition
+1973|49.0|3.0|The Journal of Comparative Neurology|Some intrinsic connections of the hippocampus in the rat: An experimental analysis
+1974|27.0|3.0|Behaviour Research and Therapy|An experimental analysis of generalization in assertive training
+1975|16.0|3.0||Economic analysis of projects
+1976|23.0|1.0|Behaviour Research and Therapy|Generalization effects of social skills training in chronic schizophrenics: An experimental analysis
+1977|19.0|5.0|Anatomy and Embryology|Experimental analysis of the origin of the wing musculature in avian embryos
+1978|23.0|2.0|Developmental Psychology|Sex Differences in Learned Helplessness: II. The Contingencies of Evaluative Feedback in the Classroom and III. An Experimental Analysis.
+1979|44.0|3.0|Econometrica|Prospect Theory: An Analysis of Decision under Risk
+1980|23.0|3.0|Journal of Financial Economics|Trading costs for listed options : The implications for market efficiency
+1981|72.0|2.0|Journal of Financial Economics|The relationship between return and market value of common stocks
+1982|42.0|2.0|Animal Behaviour|Aspects of risk-aversion in foraging white-crowned sparrows
+1983|38.0|1.0||Risk Averse Speculation in the Forward Foreign Exchange Market: An Econometric Analysis of Linear Models
+1984|36.0|3.0|Journal of Verbal Learning and Verbal Behavior|Retrieval without recollection: An experimental analysis of source amnesia
+1985|73.0|2.0|Journal of Finance|Does the Stock Market Overreact?
+1986|63.0|2.0|Journal of Finance|Does the Stock Market Rationally Reflect Fundamental Values?
+1987|100.0|2.0|Journal of Financial Economics|Expected stock returns and volatility
+1988|41.0|2.0|Journal of Risk and Uncertainty|Status Quo Bias in Decision Making
+1989|66.0|2.0|Journal of Risk and Uncertainty|An Experimental Test of Several Generalized Utility Theories
+1990|49.0|3.0|Journal of Finance|Stock Returns, Expected Returns, and Real Activity
+1991|183.0|2.0|Journal of Finance|Efficient Capital Markets: II
+1992|103.0|2.0|Journal of Risk and Uncertainty|Advances in prospect theory : Cumulative representation of uncertainty
+1993|108.0|2.0|Psychological Review|Decision Field Theory: A Dynamic-Cognitive Approach to Decision Making in an Uncertain Environment.
+1994|54.0|2.0|Econometrica|The Predictive Utility of Generalized Expected Utility Theories
+1995|46.0|2.0|Vision Research|Measurement and modeling of depth cue combination: in defense of weak fusion
+1996|93.0|2.0|international cryptology conference|Keying Hash Functions for Message Authentication
+1997|183.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Yeast microarrays for genome wide parallel genetic and gene expression analysis
+1998|146.0|3.0|ACM Transactions on Information and System Security|Crowds: anonymity for Web transactions
+1999|66.0|3.0|Psychological Bulletin|Accounting for the effects of accountability.
+2000|470.0|3.0|American Psychologist|Choices, values, and frames
+2001|107.0|4.0|Journal of Personality and Social Psychology|Fear, anger, and risk.
+2002|289.0|4.0|Genome Biology|The SWIRM domain: a conserved module found in chromosomal proteins points to novel chromatin-modifying activities
+2003|263.0|4.0|American Psychologist|A perspective on judgment and choice: mapping bounded rationality.
+2004|169.0|4.0|IEEE Transactions on Geoscience and Remote Sensing|Classification of hyperspectral remote sensing images with support vector machines
+2005|167.0|4.0|Handbook of Computational Economics|Heterogeneous Agent Models in Economics and Finance
+2006|350.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|The colorectal microRNAome
+2007|423.0|4.0|Nature Reviews Neuroscience|Synaptic mechanisms of synchronized gamma oscillations in inhibitory interneuron networks
+2008|928.0|4.0|Marketing Science|Mental Accounting and Consumer Choice
+2009|469.0|3.0|Journal of Cognitive Neuroscience|The common neural basis of autobiographical memory, prospection, navigation, theory of mind, and the default mode: A quantitative meta-analysis
+2010|634.0|4.0|Journal of Computational Science|Twitter mood predicts the stock market

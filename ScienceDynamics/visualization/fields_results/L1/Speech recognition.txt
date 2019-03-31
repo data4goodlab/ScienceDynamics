@@ -1,0 +1,53 @@
+----  Field Name Speech recognition: 
+----  Field Level 1.0: 
+----  Field Papers Number 22901:
+----  All time max citation paper: An Algorithm for Vector Quantizer Design, 1980, (3337.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|0|0.0||A method of voice communication with a digital computer
+1965|4.0|1.0|IEEE Spectrum|Acoustics of the concert hall
+1966|0|0.0|Biological Cybernetics|Beitrag zur automatischen Erkennung gesprochener Ziffern
+1967|1.0|1.0|Physiology & Behavior|Vocalization evoked from forebrain in Macaca mulatta
+1968|4.0|2.5|Journal of Experimental Psychology|Articulation and acoustic confusability in short-term memory
+1969|16.0|7.0|Attention Perception & Psychophysics|The underlying structures of sentences are the primary units of immediate speech processing
+1970|5.0|1.0|Journal of Experimental Child Psychology|Young children's use of the speech code in a recall task
+1971|19.0|1.0|Neuropsychologia|Language and speech capacity of the right hemisphere
+1972|9.0|1.0|IEEE Transactions on Information Theory|Signal detection and extraction by cepstrum techniques
+1973|14.0|0.5|IEEE Transactions on Audio and Electroacoustics|A model and a system for machine recognition of speech
+1974|6.0|3.0|Brain and Language|Different speech-processing mechanisms can be reflected in the results of discrimination and dichotic listening tasks
+1975|39.0|4.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Organization of the Hearsay II speech understanding system
+1976|11.0|2.0|IEEE Transactions on Computers|A Method for the Correction of Garbled Words Based on the Levenshtein Metric
+1977|14.0|1.5|Proceedings of the IEEE|Digital speech networks
+1978|12.0|1.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|On creating reference templates for speaker independent recognition of isolated words
+1979|60.0|4.5|The New England Journal of Medicine|Deficits in psychologic and classroom performance of children with elevated dentine lead levels.
+1980|28.0|2.0|IEEE Transactions on Communications|An Algorithm for Vector Quantizer Design
+1981|15.0|1.0|IEEE Transactions on Communications|Isolated and Connected Word Recognition--Theory and Selected Applications
+1982|19.0|1.0|international conference on acoustics, speech, and signal processing|A new model of LPC excitation for producing natural-sounding speech at low bit rates
+1983|18.0|2.0|Gamete Research|Gametes and fertilization in the Chinese hamster
+1984|63.0|2.0|Gamete Research|Zonafree hamster eggs: Their use in assessing fertilizing capacity and examining chromosomes of human spermatozoa
+1985|58.0|1.0|Proceedings of the IEEE|Vector quantization in speech coding
+1986|96.0|2.0|British Journal of Psychology|Understanding face recognition
+1987|40.0|2.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|A theory of multirate filter banks
+1988|62.0|2.0|IEEE Computer|The 'neural' phonetic typewriter
+1989|41.0|3.0|Neural Computation|Review of neural networks for speech recognition
+1990|74.0|2.0|Computational Linguistics|A statistical approach to machine translation
+1991|56.0|2.0|vehicular technology conference|Efficiency of packet reservation multiple access
+1992|66.0|2.0|Proceedings of the IEEE|Historical review of OCR research and development
+1993|87.0|3.0|Computational Linguistics|Building a large annotated corpus of English: the penn treebank
+1994|77.0|2.0|IEEE Transactions on Speech and Audio Processing|RASTA processing of speech
+1995|81.0|3.0|symposium on operating systems principles|Informed prefetching and caching
+1996|60.0|2.0|IEEE Transactions on Speech and Audio Processing|A maximum-likelihood approach to stochastic matching for robust speech recognition
+1997|79.0|3.0|computer vision and pattern recognition|Learning and recognizing human dynamics in video sequences
+1998|91.0|3.0|Ear and Hearing|Recognizing spoken words: the neighborhood activation model.
+1999|88.0|4.0|Communications of The ACM|Ten myths of multimodal interaction
+2000|156.0|4.0|Digital Signal Processing|Speaker verification using adapted Gaussian mixture models
+2001|347.0|4.0|IEEE Transactions on Neural Networks|An introduction to kernel-based learning algorithms
+2002|114.0|4.0|Speech Communication|The LIMSI Broadcast News transcription system
+2003|173.0|4.0|Pattern Recognition Letters|Information fusion in biometrics
+2004|494.0|4.0|IEEE Transactions on Circuits and Systems for Video Technology|An introduction to biometric recognition
+2005|245.0|4.0|Journal of Machine Learning Research|Large Margin Methods for Structured and Interdependent Output Variables
+2006|291.0|3.0|Computer Vision and Image Understanding|A survey of approaches and challenges in 3D and multi-modal 3D + 2D face recognition
+2007|643.0|3.0|Nature Reviews Neuroscience|The cortical organization of speech processing
+2008|212.0|2.0|Science|reCAPTCHA: Human-Based Character Recognition via Web Security Measures
+2009|385.0|2.0|Nature Neuroscience|Maps and streams in the auditory cortex: nonhuman primates illuminate human speech processing
+2010|927.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Object Detection with Discriminatively Trained Part-Based Models

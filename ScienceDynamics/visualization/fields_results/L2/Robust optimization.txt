@@ -1,0 +1,31 @@
+----  Field Name Robust optimization: 
+----  Field Level 2.0: 
+----  Field Papers Number 1504:
+----  All time max citation paper: Second-Order Cone Programming, 2001, (446.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1985|9.0|9.0|Annals of Statistics|Nonnull and Optimality Robustness of Some Tests
+1987|0|0.0|International Journal of Control|Adaptive control systems with robustness optimization to non-linear time-varying unmodelled dynamics
+1988|0|0.0|International Journal of Systems Science|Robustness optimization in LQG multivariable systems with time-varying non-linear perturbations
+1989|0|0.0|conference on decision and control|Guaranteed cost control via optimal parametric LQ design
+1990|60.0|60.0|IEEE Transactions on Automatic Control|Optimal robustness in the gap metric
+1991|2.0|2.0|Computers & Structures|A robust optimality criteria procedure for cross-sectional optimization of frame structures with multiple frequency limits
+1992|8.0|7.0|IEEE Transactions on Electron Devices|MOSFET effective channel length, threshold voltage, and series resistance determination by robust optimization
+1993|12.0|1.0|IEEE Transactions on Automatic Control|The application of scheduled H  controllers to a VSTOL aircraft
+1994|14.0|1.5|Journal of Hydrology|Optimal use of the SCE-UA global optimization method for calibrating watershed models
+1995|5.0|4.0|European Journal of Control|Identification of Normalised Coprime Plant Factors from Closed-loop Experimental Data
+1996|10.0|5.0||Using fitness distributions to design more efficient evolutionary computations
+1997|9.0|3.0|Computational Optimization and Applications|A Scalable Parallel Interior Point Algorithm for Stochastic Linear Programmingand Robust Optimization
+1998|11.0|5.0|IEEE Microwave and Guided Wave Letters|Extraction of equivalent circuits for microstrip components and discontinuities using the genetic algorithm
+1999|18.0|4.0|Operations Research|A Graph-Theoretic Decomposition of the Job Shop Scheduling Problem to Achieve Scheduling Robustness
+2000|31.0|4.0|Journal of Mechanical Design|Towards a Better Understanding of Modeling Feasibility Robustness in Engineering Design
+2001|54.0|2.0|Mathematical Programming|Second-Order Cone Programming
+2002|59.0|8.5|Macroeconomic Dynamics|Does Model Uncertainty Justify Caution? Robust Optimal Monetary Policy in a Forward-Looking Model
+2003|82.0|7.0|IEEE Transactions on Automatic Control|Min-max control of constrained uncertain discrete-time linear systems
+2004|73.0|9.0|Mathematical Programming|Adjustable robust solutions of uncertain linear programs
+2005|51.0|5.0|design automation conference|An efficient algorithm for statistical minimization of total power under timing yield constraints
+2006|71.0|5.0|IEEE Journal on Selected Areas in Communications|An introduction to convex optimization for communications and signal processing
+2007|167.0|4.0|Computer Methods in Applied Mechanics and Engineering|Robust optimization  A comprehensive survey
+2008|76.0|5.0|Bioinformatics|Dynamical modeling and multi-experiment fitting with PottersWheel
+2009|72.0|4.0|Operations Research|Worst-Case Conditional Value-at-Risk with Application to Robust Portfolio Management
+2010|98.0|6.0|Operations Research|Distributionally Robust Optimization Under Moment Uncertainty with Application to Data-Driven Problems

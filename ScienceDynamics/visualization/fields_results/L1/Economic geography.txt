@@ -1,0 +1,36 @@
+----  Field Name Economic geography: 
+----  Field Level 1.0: 
+----  Field Papers Number 1488:
+----  All time max citation paper: Location, Competition, and Economic Development: Local Clusters in a Global Economy, 2000, (984.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|0|0.0|Annals of The Association of American Geographers|GRAVITY AND POTENTIAL MODELS IN ECONOMIC GEOGRAPHY
+1971|3.0|3.0|Annals of The Association of American Geographers|EMPIRICAL REGULARITIES IN THE DIFFUSION OF INNOVATION
+1976|7.0|7.0|Annals of The Association of American Geographers|ALTERNATIVES TO A POSITIVE ECONOMIC GEOGRAPHY
+1979|0|0.0|Social Science & Medicine. Part D: Medical Geography|An examination of alternative emergency ambulance systems: Contributions from an economic geography perspective
+1982|4.0|4.0|Annals of The Association of American Geographers|The Spatial Organization of Cancer Mortality
+1983|9.0|5.5|Annals of The Association of American Geographers|The Role of Politics in Regional Inequality: The Israeli Case
+1986|0|0.0|Annals of The Association of American Geographers|Myth and Reality in the Origin of American Economic Geography
+1987|2.0|1.5|Social Science & Medicine|Health care policy and regional epidemiology: International comparisons and a case-study from the Netherlands
+1989|8.0|6.5|Annals of The Association of American Geographers|The Origin and Diffusion of AIDS: A View from Medical Geography
+1990|2.0|0.0|Journal of Internal Medicine|Ischaemic heart disease among men in Norway during the period 19661985: two counties with different mortality time trends
+1991|1.0|0.0|Social Science & Medicine|Geographical and socio-ecological variations of traffic accidents among children
+1992|10.0|2.0||A Dynamic Spatial Model
+1993|32.0|19.0|The Professional Geographer|Place and Health: Towards a Reformed Medical Geography*
+1994|12.0|1.0|Journal of International Economics|Agglomeration Benefits and Location Choice: Evidence from Japanese Manufacturing Investment in the United States
+1995|14.0|3.0|Social Science & Medicine|Hidden geographies: The changing lifeworlds of women with multiple sclerosis
+1996|18.0|5.0|International Regional Science Review|URBAN CONCENTRATION -- THE ROLE OF INCREASING RETURNS AND TRANSPORT COSTS
+1997|31.0|5.0||Specialisation Patterns in Europe
+1998|31.0|5.5||Market Access, Economic Geography and Comparative Advantage: An Empirical Assessment
+1999|55.0|4.0|European Economic Review|Growing locations: Industry location in a model of endogenous growth
+2000|80.0|3.0|Economic Development Quarterly|Location, Competition, and Economic Development: Local Clusters in a Global Economy
+2001|57.0|6.0|Journal of Economic Growth|Global Income Divergence, Trade, and Industrialization: The Geography of Growth Take-Offs
+2002|81.0|4.0|International Economic Review|Agglomeration and Trade Revisited
+2003|142.0|5.5|Journal of Economic Geography|Tacit knowledge and the economic geography of context, or The undefinable tacitness of being (there)
+2004|153.0|4.0|Organization Science|Knowledge Networks as Channels and Conduits: The Effects of Spillovers in the Boston Biotechnology Community
+2005|73.0|6.0|Transactions of the Institute of British Geographers|Rethinking relational economic geography
+2006|110.0|6.0|Journal of Economic Geography|Why is economic geography not an evolutionary science? Towards an evolutionary economic geography
+2007|351.0|4.0|Regional Studies|The Learning Region: Institutions, Innovation and Regional Renewal
+2008|60.0|5.0|Economic Geography|Relational economic geography: a partial understanding or a new paradigm?
+2009|185.0|3.0|Journal of Economic Geography|Rethinking human capital, creativity and urban growth
+2010|172.0|6.0|Regional Studies|Regions, Globalization, Development

@@ -1,0 +1,43 @@
+----  Field Name Combinatorial optimization: 
+----  Field Level 2.0: 
+----  Field Papers Number 5394:
+----  All time max citation paper: Ant system: optimization by a colony of cooperating agents, 1996, (3357.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1972|0|0.0||A syntax directed approach for handling natural language relations
+1973|35.0|2.0|Communications of The ACM|A model and stack implementation of multiple environments
+1976|4.0|4.0|Journal of Urban Economics|Efficient spatial allocation in the quadratic assignment problem
+1977|3.0|3.0|Communications of The ACM|Two-level control structure for nondeterministic programming
+1978|19.0|1.0|Communications of The ACM|The SL5 procedure mechanism
+1979|3.0|1.0|Mathematical Methods of Operations Research|NP -Complete operations research problems and approximation algorithms
+1980|12.0|5.0|Earth and Planetary Science Letters|Rotation of the Iberian arc: Palaeomagnetic results from North Spain
+1981|16.0|2.0|Networks|Combinatorial optimization and vehicle fleet planning : perspectives and prospects
+1982|5.0|2.5|Journal of Algorithms|Algorithmic extremal problems in combinatorial optimization
+1983|69.0|1.5|Communications of The ACM|Maintaining knowledge about temporal intervals
+1984|71.0|5.5|IEEE Transactions on Computers|Computational Geometry&#8212;A Survey
+1985|21.0|2.0|Earth and Planetary Science Letters|Rb Sr dating of the Kohistan arc-batholith in the Trans-Himalaya of north Pakistan, and tectonic implications
+1986|10.0|4.5|design automation conference|Simulated Annealing and Combinatorial Optimization
+1987|74.0|6.5|Artificial Intelligence|Constraint propagation with interval labels
+1988|16.0|4.0|computer vision and pattern recognition|Object recognition using the Connection Machine
+1989|30.0|3.0|international conference on management of data|Optimization of large join queries: combining heuristics and combinatorial techniques
+1990|23.0|2.0|European Journal of Operational Research|Some efficient heuristic methods for the flow shop sequencing problem
+1991|48.0|1.0|parallel computing|Robust taboo search for the quadratic assignment problem
+1992|94.0|5.0|Ai Magazine|Algorithms for constraint-satisfaction problems: a survey
+1993|100.0|4.0|Annals of Operations Research|A user's guide to tabu search
+1994|36.0|3.0|principles and practice of constraint programming|Contradicting Conventional Wisdom in Constraint Satisfaction
+1995|47.0|2.0|Journal of Global Optimization|Greedy Randomized Adaptive Search Procedures
+1996|118.0|2.0|systems man and cybernetics|Ant system: optimization by a colony of cooperating agents
+1997|66.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Pairwise data clustering by deterministic annealing
+1998|100.0|2.0|Operations Research|Branch-And-Price: Column Generation for Solving Huge Integer Programs
+1999|140.0|3.0|IEEE Transactions on Computers|GRASP: a search algorithm for propositional satisfiability
+2000|82.0|3.0|Future Generation Computer Systems|MAX-MIN Ant system
+2001|528.0|3.0|design automation conference|Chaff: engineering an efficient SAT solver
+2002|190.0|5.0|IEEE Transactions on Evolutionary Computation|Learning and optimization using the clonal selection principle
+2003|226.0|5.0|ACM Computing Surveys|Metaheuristics in combinatorial optimization: Overview and conceptual comparison
+2004|361.0|5.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|An experimental comparison of min-cut/max- flow algorithms for energy minimization in vision
+2005|389.0|4.0|Concurrency and Computation: Practice and Experience|Distributed computing in practice: the Condor experience
+2006|357.0|4.0|IEEE Transactions on Information Theory|Stable recovery of sparse overcomplete representations in the presence of noise
+2007|98.0|4.0|European Journal of Operational Research|A survey for the quadratic assignment problem
+2008|179.0|4.0|European Journal of Operational Research|Ant colony optimization for continuous domains
+2009|114.0|3.0|ACM Computing Surveys|Cross-disciplinary perspectives on meta-learning for algorithm selection
+2010|85.0|4.0|soft computing|A Knowledge-Based Ant Colony Optimization for Flexible Job Shop Scheduling Problems

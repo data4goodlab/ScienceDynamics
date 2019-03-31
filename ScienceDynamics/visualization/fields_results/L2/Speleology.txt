@@ -1,0 +1,39 @@
+----  Field Name Speleology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1469:
+----  All time max citation paper: Secure routing in wireless sensor networks: attacks and countermeasures, 2003, (804.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|7.0|5.0|Mycopathologia|Jane C. Isolation of Histoplasma capsulatum from an Oil Bird (Steatornis caripensis) Cave in Venezuela.
+1970|1.0|1.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|Phlebotomine sandflies and leishmaniasis in British honduras (Belize)
+1973|0|0.0|Journal of Hydrology|Groundwater tracing with post sampling activation analysis
+1979|1.0|1.0|Environmental Conservation|Bermuda's caves: a non-renewable resource.
+1981|6.0|4.0|Journal of Archaeological Science|Cave sediments, upper pleistocene stratigraphy and mousterian facies in Cantabrian Spain
+1982|2.0|2.0|Physiological Entomology|Evasive behaviour in the cavecricket, Troglophilus cavicola
+1983|2.0|1.5|Annals of The Association of American Geographers|Doline Morphology and Development in Barbados
+1984|2.0|2.0|Earth Surface Processes and Landforms|Soil carbon dioxide and weathering potentials in tropical karst terrain, peninsular Malaysia: A preliminary model
+1985|2.0|2.0|Earth Surface Processes and Landforms|The microerosion meter: Use and limitations
+1986|2.0|2.0|Earth Surface Processes and Landforms|Timing the transport of water through the upper vadose zone in a Karstic system above a cave in Israel
+1987|1.0|0.5|New Zealand Geographer|The Significance of Karst in New Zealand National Parks
+1989|1.0|0.5|Geophysical Journal International|Palaeomagnetism of stalagmites (speleothems) in SW Japan
+1990|4.0|1.0|Icarus|Karst on Mars? The thumbprint terrain
+1991|2.0|1.0|Geoexploration|Detecting voids in a 0.6 m coal seam, 7 m deep, using seismic reflection
+1992|3.0|1.0|Biological Journal of The Linnean Society|Primary faunal succession in volcanic terrain: lava and cave studies on the Canary Islands
+1993|5.0|3.0|Earth Moon and Planets|Surficial Geology of the Chicxulub Impact Crater, Yucatan, Mexico
+1994|2.0|1.0||Virtual reality performance for virtual geometry
+1995|2.0|1.0|Hydrobiologia|Chemical and isotopic composition of karstic lakes in Jamaica, West Indies
+1996|18.0|2.0|ieee virtual reality conference|Multi-perspective collaborative design in persistent networked virtual environments
+1997|10.0|2.5|Hydrological Processes|Variations in the discharge and organic matter content of stalagmite drip waters in Lower Cave, Bristol
+1998|24.0|4.0|Earth and Planetary Science Letters|U-Th isotope systematics from the Soreq cave, Israel and climatic correlations
+1999|22.0|3.0|Quaternary Research|Continental Oxygen Isotopic Record of the Last 170,000 Years in Jerusalem
+2000|32.0|3.5|Chemical Geology|Controls on trace element (SrMg) compositions of carbonate cave waters: implications for speleothem climatic records
+2001|29.0|6.0|interactive 3d graphics and games|CavePainting: a fully immersive 3D artistic medium and interactive experience
+2002|16.0|4.0|Journal of Hydrology|Inferring source waters from measurements of carbonate spring response to storms
+2003|314.0|5.0|ad hoc networks|Secure routing in wireless sensor networks: attacks and countermeasures
+2004|44.0|6.5|New Phytologist|Variation in xylem structure and function in stems and roots of trees to 20 m depth
+2005|267.0|5.0|Geophysical Research Letters|Stalagmite evidence for the onset of the Last Interglacial in southern Europe at 129  1 ka
+2006|128.0|8.0|Earth-Science Reviews|Modification and preservation of environmental signals in speleothems
+2007|91.0|6.0|Journal of Human Evolution|The human revolution in lowland tropical Southeast Asia: the antiquity and behavior of anatomically modern humans at Niah Cave (Sarawak, Borneo)
+2008|365.0|6.0|Nature|Millennial- and orbital-scale changes in the East Asian monsoon over the past 224,000|[thinsp]|years
+2009|85.0|8.0|PLOS Genetics|A novel role for Mc1r in the parallel evolution of depigmentation in independent populations of the cavefish Astyanax mexicanus.
+2010|47.0|6.0|Chemical Geology|Rapid and accurate UTh dating of ancient carbonates using inductively coupled plasma-quadrupole mass spectrometry

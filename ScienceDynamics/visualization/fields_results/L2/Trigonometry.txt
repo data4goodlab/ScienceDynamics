@@ -1,0 +1,47 @@
+----  Field Name Trigonometry: 
+----  Field Level 2.0: 
+----  Field Papers Number 3374:
+----  All time max citation paper: Fronts propagating with curvature-dependent speed: algorithms based on Hamilton-Jacobi formulations, 1988, (4297.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|2.0|2.0|Mathematics of Computation|Hadamard matrices of the williamson type.
+1969|25.0|13.5|Journal of Mathematical Analysis and Applications|Dynamical systems and stability
+1970|0|0.0|Journal of Plasma Physics|Non-linear dispersion of cold plasma waves
+1972|1.0|1.0|Transactions of the American Mathematical Society|Associo-symmetric algebras
+1973|2.0|1.0|Journal of Sound and Vibration|On the normality and accuracy of simulated random processes
+1974|21.0|21.0|Journal of The Mechanics and Physics of Solids|Limitations to the small scale yielding approximation for crack tip plasticity
+1976|8.0|6.5|Mathematics of Computation|Dissipative two-four methods for time-dependent problems
+1977|5.0|5.0|Journal of Approximation Theory|Proof of the Conjectures of Bernstein and Erdos Concerning the Optimal Nodes for Polynomial Interpolation.
+1978|0|0.0|Indagationes Mathematicae (proceedings)|Periodic interpolating splines and their limits
+1979|10.0|6.5|Annals of Statistics|Adaptive Design and Stochastic Approximation
+1980|3.0|1.5|Journal of Sound and Vibration|Rigorous solutions for sound radiation from circular ducts with hyperbolic horns or infinite plane baffle
+1981|33.0|0.0|Journal of Computational Physics|Flux vector splitting of the inviscid gasdynamic equations with application to finite-difference methods
+1982|16.0|12.0|ACM Transactions on Graphics|A Generalization of Algebraic Surface Drawing
+1983|16.0|3.0|Journal of Computational Physics|Self-adjusting grid methods for one-dimensional hyperbolic conservation laws
+1984|13.0|5.5|Computer Methods in Applied Mechanics and Engineering|Finite element methods for first-order hyperbolic systems with particular emphasis on the compressible Euler equations
+1985|8.0|1.0|The Journal of Allergy and Clinical Immunology|Localization of tryptase to human cutaneous mast cells and keratinocytes by immunofluorescence and immunoperoxidase cytochemistry with monoclonal antitryptase antibody.
+1986|35.0|9.0|international conference on robotics and automation|An architecture for sensor fusion in a mobile robot
+1987|9.0|2.5|Systems & Control Letters|On minimality in the partial realization problem
+1988|34.0|1.0|Journal of Computational Physics|Fronts propagating with curvature-dependent speed: algorithms based on Hamilton-Jacobi formulations
+1989|28.0|4.0|Statistical Science|A Survey of the Statistical Theory of Shape
+1990|10.0|1.0|Journal of Computational Physics|Non-oscillatory central differencing for hyperbolic conservation laws
+1991|29.0|2.0|Journal of Cognitive Neuroscience|dead reckoning, landmark learning, and the sense of direction: A neurophysiological and computational hypothesis
+1992|19.0|2.0|IEEE Transactions on Signal Processing|The quantization effects of the CORDIC algorithm
+1993|30.0|4.0|Animal Genetics|Short interspersed nuclear element (SINE) sequences of the Bovidae.
+1994|41.0|3.0||A Class of High-Resolution Explicit and Implicit Shock-Capturing Methods
+1995|23.0|3.0|Personnel Psychology|AN EMPIRICAL INVESTIGATION OF THE PREDICTORS OF EXECUTIVE CAREER SUCCESS
+1996|51.0|2.0||VISUAL NAVIGATION IN INSECTS: COUPLING OF EGOCENTRIC AND GEOCENTRIC INFORMATION
+1997|336.0|4.0|Journal of Computational Physics|High resolution schemes for hyperbolic conservation laws
+1998|175.0|3.0|Current Opinion in Immunology|Inhibition of Fas death signals by FLIPs
+1999|70.0|3.0|Gene|RNAs from all categories generate retrosequences that may be exapted as novel genes or regulatory elements.
+2000|68.0|3.0|Computer Methods in Applied Mechanics and Engineering|The design and analysis of the Generalized Finite Element Method
+2001|105.0|4.0|Trends in Genetics|Transposable elements are found in a large number of human protein-coding genes
+2002|51.0|4.0|IEEE Pervasive Computing|Activity and location recognition using wearable sensors
+2003|35.0|4.0|Gps Solutions|A general map matching algorithm for transport telematics applications
+2004|66.0|5.0|IEEE Transactions on Multimedia|Local-lag and timewarp: providing consistency for replicated continuous applications
+2005|230.0|5.0|Pattern Recognition|Score normalization in multimodal biometric systems
+2006|136.0|4.0|Gastroenterology|Drug and bile acid transporters in rosuvastatin hepatic uptake: function, expression, and pharmacogenetics.
+2007|112.0|4.0|Journal of the American College of Cardiology|Assessment of culprit lesion morphology in acute myocardial infarction: ability of optical coherence tomography compared with intravascular ultrasound and coronary angioscopy.
+2008|244.0|3.0|Annual Review of Neuroscience|Place Cells, Grid Cells, and the Brain's Spatial Representation System
+2009|113.0|2.0|Jacc-cardiovascular Interventions|Intracoronary optical coherence tomography: a comprehensive review clinical and research applications.
+2010|315.0|4.0|Social Networks|Node centrality in weighted networks: Generalizing degree and shortest paths

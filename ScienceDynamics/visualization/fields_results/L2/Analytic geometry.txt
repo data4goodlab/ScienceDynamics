@@ -1,0 +1,62 @@
+----  Field Name Analytic geometry: 
+----  Field Level 2.0: 
+----  Field Papers Number 15959:
+----  All time max citation paper: Cortical Surface-Based Analysis, 1999, (2247.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1951|0|0.0|Meteorology and Atmospheric Physics|Gravity waves in the atmosphere
+1953|2.0|2.0|Journal of The Franklin Institute-engineering and Applied Mathematics|Some coordinate systems associated with elliptic functions
+1957|1.0|1.0|Journal of Chemical Physics|A Geometric Visualization of NormalCoordinate Transformations. Application to the Calculation of BondMoment Parameters and Force Constants
+1958|0|0.0|Transactions of the American Mathematical Society|An existence theorem for second order parabolic equations
+1959|7.0|2.0|Journal of Applied Physics|Uniform Rotational Flux Reversal of Ferrite Toroids
+1960|3.0|1.0|Mathematics of Computation|A method for calculating solutions of parabolic equations with a free boundary
+1961|4.0|1.0|Genetics Research|'dappled', A new allele at the mottled locus in the house mouse.
+1962|16.0|4.5|Journal of Chemical Physics|Double Resonance Spectra of N14 and N15 Ammonium Ion
+1963|10.0|5.0|Journal of Chemical Physics|Theory of PressureInduced Shifts of Infrared Lines
+1964|4.0|2.0|Journal of Chemical Physics|Stark Effects on the Nuclear Quadrupole Coupling of 35Cl in Sodium Chlorate
+1965|88.0|4.0|Journal of Geophysical Research|Tail of the magnetosphere
+1966|9.0|0.5|Transactions of the American Mathematical Society|Oscillatory properties of certain nonlinear matrix differential systems of second order
+1967|33.0|3.0|Journal of Geophysical Research|Vela 2 measurements of the magnetopause and bow shock positions
+1968|18.0|4.0|Journal of Geophysical Research|Observations of protons in the magnetosphere and magnetotail with Explorer 33
+1969|14.0|0.5|Genetics Research|Controlling elements in the mouse X -chromosome: I. Interaction with the X-linked genes
+1970|45.0|4.0|Journal of Plasma Physics|On the re-connexion of magnetic field lines in conducting fluids
+1971|19.0|2.0|Journal of Geophysical Research|The relation of the Pc 1 micropulsation source region to the plasmasphere
+1972|18.0|0.5|Journal of Geophysical Research|Reconnection of the geomagnetic tail deduced from solarparticle observations
+1973|31.0|2.0|Journal of Geophysical Research|Semiannual variation of geomagnetic activity.
+1974|24.0|1.0|Journal of Geophysical Research|Initial Explorer 45 substorm observations and electric field considerations
+1975|36.0|4.0|Journal of Geophysical Research|Polar cap currents for different directions of the interplanetary magnetic field in the YZ plane
+1976|11.0|1.0|Journal of Geophysical Research|Simultaneous observation of whistlers at two L  4 Alaskan stations
+1977|23.0|2.0|Journal of Geophysical Research|The angular distribution of auroral kilometric radiation
+1978|14.0|2.0|Journal of Mathematical Analysis and Applications|An abstract nonlinear Volterra integrodifferential equation
+1979|17.0|2.0|Planetary and Space Science|The three-dimensional shape of the magnetopause
+1980|37.0|4.0|Journal of Chemical Physics|Collinear triatomic reactions described by polar Delves coordinates
+1981|21.0|3.0|Journal of Geophysical Research|Modeling the Jovian current sheet and inner magnetosphere
+1982|45.0|2.0|Journal of Computational Physics|Boundary-fitted coordinate systems for numerical solution of partial differential equationsA review
+1983|18.0|3.0|The Journal of Comparative Neurology|The distributions of photoreceptors and ganglion cells in the California ground squirrel, Spermophilus beecheyi
+1984|30.0|3.0|Journal of Computational Physics|Spectral multigrid methods for elliptic equations
+1985|93.0|3.0|Journal of Molecular Biology|Solution conformation of proteinase inhibitor IIA from bull seminal plasma by 1H nuclear magnetic resonance and distance geometry
+1986|63.0|3.0|Journal of Neurochemistry|Dopaminergic Regulation of Cone Retinomotor Movement in Isolated Teleost Retinas: I. Induction of Cone Contraction Is Mediated by D2 Receptors
+1987|63.0|3.0|ACM Transactions on Information Systems|Semistructured messages are surprisingly useful for computer-supported coordination
+1988|79.0|2.0|Journal of Chemical Physics|A multicenter numerical integration scheme for polyatomic molecules
+1989|73.0|3.0|Journal of Chemical Physics|Efficient pointwise representations for vibrational wave functions: Eigenfunctions of H+3
+1990|72.0|3.0|The Journal of Comparative Neurology|Human photoreceptor topography
+1991|29.0|2.0|Journal of Cognitive Neuroscience|dead reckoning, landmark learning, and the sense of direction: A neurophysiological and computational hypothesis
+1992|83.0|2.0|SIAM Journal on Numerical Analysis|Image selective smoothing and edge detection by nonlinear diffusion. II
+1993|43.0|3.0|Journal of Chemical Physics|A general discrete variable method to calculate vibrational energy levels of three and fouratom molecules
+1994|37.0|2.0|Journal of Geophysical Research|Acetone in the atmosphere: Distribution, sources, and sinks
+1995|68.0|3.0|Journal of Molecular Biology|Calculation of Protein Structures with Ambiguous Distance Restraints. Automated Assignment of Ambiguous NOE Crosspeaks and Disulphide Connectivities
+1996|153.0|2.0|IEEE Transactions on Robotics and Automation|A tutorial on visual servo control
+1997|87.0|2.0|Vision Research|The "independent components" of natural scenes are edge filters.
+1998|78.0|3.0|Neuron|Topographic Guidance Labels in a Sensory Projection to the Forebrain
+1999|211.0|4.0|Nature Genetics|PIK3CA is implicated as an oncogene in ovarian cancer
+2000|152.0|3.0|Plant Molecular Biology|A SHORT HISTORY OF MADS-BOX GENES IN PLANTS
+2001|180.0|3.0|Plant Physiology|Flavonoid Biosynthesis. A Colorful Model for Genetics, Biochemistry, Cell Biology, and Biotechnology
+2002|231.0|4.0|Cluster Computing|GPS-free Positioning in Mobile Ad Hoc Networks
+2003|171.0|5.0|international conference on computer graphics and interactive techniques|Rotation invariant spherical harmonic representation of 3D shape descriptors
+2004|1170.0|4.0|Nature Immunology|Toll-like receptor control of the adaptive immune responses.
+2005|311.0|3.0|Journal of Geophysical Research|Comment on Radio frequency radiation beam pattern of lightning return strokes: A revisit to theoretical analysis by XuanMin Shao, Abram R. Jacobson, and T. Joseph Fitzgerald
+2006|227.0|4.0|Optics Express|Calculation of material properties and ray tracing in transformation media
+2007|255.0|4.0|Nature|An African origin for the intimate association between humans and Helicobacter pylori.
+2008|244.0|4.0|Journal of Virology|Full Genome-Based Classification of Rotaviruses Reveals a Common Origin between Human Wa-Like and Porcine Rotavirus Strains and Human DS-1-Like and Bovine Rotavirus Strains
+2009|417.0|4.0|Science|Broadband ground-plane cloak.
+2010|478.0|4.0|computer vision and pattern recognition|Locality-constrained Linear Coding for image classification

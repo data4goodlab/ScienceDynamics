@@ -1,0 +1,53 @@
+----  Field Name Neurocomputational speech processing: 
+----  Field Level 2.0: 
+----  Field Papers Number 6927:
+----  All time max citation paper: Aversive Reinforcement Improves Visual Discrimination Learning in Free-Flying Honeybees, 2010, (1359.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1950|4.0|2.0|Parasitology|On the Behaviour and Sensory Physiology of the House-Fly Larva, Musca domestica L. I. Feeding Stage.
+1959|0|0.0|Acta Oto-laryngologica|The Transfer of Energy across the Cochlea
+1963|0|0.0|Experimental Neurology|Masking and metacontrast phenomena in the skin sensory system
+1964|4.0|4.0|Pflgers Archiv: European Journal of Physiology|DIURESIS INDUCED BY WATER INFUSION INTO THE CAROTID LOOP OF UNANAESTHETIZED DOGS,
+1968|5.0|1.5|Journal of Invertebrate Pathology|Histopathology of green muscardine in larvae of four species of elateridae (Coleoptera)
+1969|10.0|2.0|Anatomy and Embryology|The growth of dendrites in the mammalian brain
+1970|3.0|2.0|Attention Perception & Psychophysics|Violations of visual simultaneity
+1971|15.0|5.0|Language|The Non-Anomalous Nature of Anomalous Utterances
+1972|5.0|2.0|Comparative and General Pharmacology|The effect of catecholamine precursors and related drugs on the morphology of the synaptic bars in the vestibular epithelia of the frog, Rana temporaria
+1973|25.0|1.0|Brain Research|Demonstration of thalamo-cortical connectivity in the cat somato-sensory system by retrograde axonal transport of horseradish peroxidase
+1974|12.0|4.0|Psychophysiology|Physical, Physiological, and Psychological Factors That Affect Pain Reaction to Electric Shock
+1975|13.0|4.0|Brain and Language|Studies of hemispheric specialization for speech production
+1976|7.0|2.0|Nature|Transmission without spikes between locust interneurones and motoneurones
+1977|16.0|2.0|Journal of Investigative Dermatology|NEURAL-EPITHELIAL INTERACTIONS IN SENSORY RECEPTORS
+1978|17.0|2.0||Development of Sensory Systems in Arthropods
+1979|29.0|4.0|Biological Cybernetics|Nonlinear dynamics of paleocortex manifested in the olfactory EEG
+1980|9.0|2.0|Brain Research|A new tectal afferent nucleus of the infrared sensory system in the medulla oblongata of crotaline snakes
+1981|29.0|3.0|The Journal of Neuroscience|Glycinergic pathways in the goldfish retina
+1982|28.0|2.0|American Journal of Ophthalmology|Action spectrum for retinal injury from near-ultraviolet radiation in the aphakic monkey
+1983|56.0|2.0|The Journal of Comparative Neurology|Connections of the bullfrog striatum: Afferent organization
+1984|41.0|8.5|Brain Research|Neuropeptides are present in projection neurones at all levels in visceral and taste pathways: from periphery to sensory cortex
+1985|63.0|5.0|The Journal of Comparative Neurology|Distribution and origin of calcitonin generelated peptide (CGRP) immunoreactivity in the sensory innervation of the mammalian eye
+1986|21.0|5.0|The Journal of Comparative Neurology|The organization of the reciprocal connections between the subiculum and the entorhinal cortex in the cat: I. A neuroanatomical tracing study
+1987|47.0|5.0|Experimental Cell Research|Specific fixation of bovine brain and retinal acidic and basic fibroblast growth factors to mouse embryonic eye basement membranes
+1988|17.0|4.0|The Journal of Comparative Neurology|Sympathetic and afferent somata projecting in hindlimb nerves and the anatomical organization of the lumbar sympathetic nervous system of the rat
+1989|54.0|3.0|Neuroscience Letters|Do event-related potentials reveal the mechanism of the auditory sensory memory in the human brain?
+1990|133.0|4.0|Behavioral and Brain Sciences|The role of attention in auditory information processing as revealed by event-related potentials and other brain measures of cognitive function
+1991|33.0|2.0|Psychological Review|The time course of lexical access in speech production: A study of picture naming
+1992|60.0|3.0|Brain and Language|Speech production, syntax comprehension, and cognitive deficits in Parkinson's disease.
+1993|30.0|4.5|The Journal of Comparative Neurology|Tonotopic organization, architectonic fields, and connections of auditory cortex in macaque monkeys
+1994|26.0|4.5|international symposium on physical design|Neural mechanisms underlying destabilization of cortex by sensory input
+1995|44.0|3.0|Journal of Neurophysiology|Dissociation of Human Prefrontal Cortical Areas Across Different Speech Production Tasks and Gender Groups
+1996|59.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|A novel heat-activated current in nociceptive neurons and its sensitization by bradykinin
+1997|105.0|6.0|Science|A cyanobacterial phytochrome two-component light sensory system.
+1998|79.0|6.0|Neuron|Neural Activity in the Primate Prefrontal Cortex during Associative Learning
+1999|212.0|7.0|Behavioral and Brain Sciences|A theory of lexical access in speech production
+2000|137.0|7.0|Trends in Cognitive Sciences|Towards a functional neuroanatomy of speech perception
+2001|166.0|7.0|Trends in Neurosciences|Glial activation: a driving force for pathological pain
+2002|82.0|7.0|Cognitive Brain Research|Human temporal-lobe response to vocal sounds
+2003|603.0|7.0|Nature|TRP channels as cellular sensors
+2004|242.0|9.0|Cognition|Dorsal and ventral streams: a framework for understanding aspects of the functional anatomy of language
+2005|311.0|8.0|Annual Review of Psychology|Behavioral Theories and the Neurophysiology of Reward
+2006|230.0|8.0|Nature|The primate amygdala represents the positive and negative value of visual stimuli during learning
+2007|150.0|8.0|Biological Psychology|The mismatch negativity in cognitive and clinical neuroscience: Theoretical and methodological considerations
+2008|371.0|7.0|Nature|Speciation through sensory drive in cichlid fish
+2009|215.0|6.0|Science|Adaptive radiation: contrasting theory with data.
+2010|1359.0|8.0|PLOS ONE|Aversive Reinforcement Improves Visual Discrimination Learning in Free-Flying Honeybees

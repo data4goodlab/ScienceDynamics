@@ -1,0 +1,52 @@
+----  Field Name Parallel processing: 
+----  Field Level 2.0: 
+----  Field Papers Number 14092:
+----  All time max citation paper: Fast parallel algorithms for short-range molecular dynamics, 1995, (4681.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1959|0|0.0|Radiation Research|RADIATION-INDUCED OXIDATION OF AQUEOUS ACETIC ACID-OXYGEN SOLUTIONS
+1964|7.0|7.0||An environment for an operating system
+1966|5.0|5.0||Explicit parallel processing description and control in programs for multi- and uni-processor computers
+1967|6.0|3.0||ASP: a new concept in language and machine organization
+1969|24.0|3.5|Psychological Review|Storage and retrieval processes in long-term memory
+1970|27.0|14.5|Communications of The ACM|A formal system for information retrieval from files
+1971|17.0|7.0|IEEE Transactions on Computers|Parallel Processing with the Perfect Shuffle
+1972|26.0|3.0|Cognitive Psychology|Parallel processing of multielement displays
+1973|17.0|3.0|Biological Cybernetics|Models of the saccadic eye movement control system
+1974|6.0|1.5|Attention Perception & Psychophysics|Parallel processing of auditory and phonetic information in speech discrimination
+1975|39.0|1.5|IEEE Transactions on Acoustics, Speech, and Signal Processing|Organization of the Hearsay II speech understanding system
+1976|30.0|3.0|Artificial Intelligence|Viewing control structures as patterns of passing messages
+1977|29.0|5.0|Neuropsychologia|Parallel processing of verbal and musical stimuli in right and left hemispheres
+1978|35.0|4.0|ACM Computing Surveys|Recovery Techniques for Database Systems
+1979|27.0|6.0|Biological Cybernetics|Optimal Response of Eye and Hand Motor Systems in Pointing at a Visual Target I. Spatio-Temporal Characteristics of Eye and Hand Movements and Their Relationships when Varying the Amount of Visual Information
+1980|45.0|2.5|Advances in Computers|The Structure of Parallel Algorithms
+1981|69.0|2.0|Communications of The ACM|The cube-connected cycles: a versatile network for parallel computation
+1982|33.0|3.0|IEEE Transactions on Computers|The Extra Stage Cube: A Fault-Tolerant Interconnection Network for Supersystems
+1983|576.0|4.5|Communications of The ACM|Communicating sequential processes
+1984|53.0|3.5|IEEE Transactions on Computers|Concurrent VLSI Architectures
+1985|56.0|2.0|Cognitive Science|Putting knowledge in its place: A scheme for programming parallel processing structures on the fly
+1986|104.0|6.0|Communications of The ACM|Advanced compiler optimizations for supercomputers
+1987|103.0|5.0|IEEE Transactions on Computers|The Warp Computer: Architecture, Implementation, and Performance
+1988|252.0|2.0|Psychological Review|Feature analysis in early vision: evidence from search asymmetries.
+1989|275.0|3.0|Psychological Review|A Distributed, Developmental Model of Word Recognition and Naming.
+1990|205.0|3.0|Trends in Neurosciences|Functional architecture of basal ganglia circuits: neural substrates of parallel processing
+1991|129.0|3.0|IEEE Software|Visualizing the performance of parallel programs
+1992|200.0|2.0|IEEE Transactions on Parallel and Distributed Systems|Virtual-channel flow control
+1993|88.0|2.0|IEEE Transactions on Parallel and Distributed Systems|Deadlock-free adaptive routing in multicomputer networks using virtual channels
+1994|160.0|2.0||Using MPI: portable parallel programming with the message-passing interface
+1995|142.0|2.0|international symposium on microarchitecture|A case for NOW (Networks of Workstations)
+1996|157.0|2.0|IEEE Computer|TreadMarks: shared memory computing on networks of workstations
+1997|140.0|2.0|Trends in Neurosciences|Organization of intra-amygdaloid circuitries in the rat: an emerging framework for understanding functions of the amygdala
+1998|227.0|2.0|SIAM Journal on Scientific Computing|A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs
+1999|98.0|3.0|Behavioral and Brain Sciences|A model of saccade generation based on parallel processing and competitive inhibition
+2000|131.0|2.0|design, automation, and test in europe|A generic architecture for on-chip packet-switched interconnections
+2001|113.0|2.0|international symposium on computer architecture|Energy-effective issue logic
+2002|128.0|3.0|Neuroscience & Biobehavioral Reviews|Multiple neural systems controlling food intake and body weight
+2003|172.0|3.5|Nature|Epitaxial self-assembly of block copolymers on lithographically defined nanopatterned substrates
+2004|190.0|3.0|Nature Reviews Neuroscience|Parallel processing in the mammalian retina
+2005|115.0|3.0|international symposium on computer architecture|Optimizing Replication, Communication, and Capacity Allocation in CMPs
+2006|144.0|3.0|Journal of School Psychology|Burnout and Work Engagement among Teachers.
+2007|190.0|2.0|Nature Materials|Highly ordered nanowire arrays on plastic substrates for ultrasensitive flexible chemical sensors.
+2008|301.0|2.0|international conference on computer graphics and interactive techniques|Larrabee: a many-core x86 architecture for visual computing
+2009|466.0|2.0|cluster computing and the grid|The Eucalyptus Open-Source Cloud-Computing System
+2010|196.0|3.0|international symposium on microarchitecture|The GPU Computing Era

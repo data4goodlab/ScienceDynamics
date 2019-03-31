@@ -1,0 +1,47 @@
+----  Field Name Resource management: 
+----  Field Level 2.0: 
+----  Field Papers Number 20522:
+----  All time max citation paper: SOCIAL CAPITAL, INTELLECTUAL CAPITAL, AND THE ORGANIZATIONAL ADVANTAGE, 1998, (4078.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1967|2.0|2.0|Communications of The ACM|A system organization for resource allocation
+1968|0|0.0|Atmospheric Environment|An air resource management program for the Nashville metropolitan area
+1972|16.0|8.0|Proceedings of the IEEE|Resource-sharing computer communications networks
+1973|6.0|2.0|IEEE Transactions on Computers|A Unified Approach to the Evaluation of a Class of Replacement Algorithms
+1974|22.0|11.0|IEEE Transactions on Computers|The Cost of Developing Large-Scale Software
+1975|10.0|0.0|Journal of Environmental Economics and Management|The economics of fishing and modern capital theory: A simplified approach
+1976|4.0|1.0|IEEE Computer|Scheduling Techniques for Operating Systems
+1977|9.0|4.0|symposium on operating systems principles|Indeterminacy, monitors, and dataflow
+1978|18.0|2.5|IEEE Transactions on Software Engineering|An Analysis of Competing Software Reliability Models
+1979|8.0|1.0|Water Resources Research|A planning model for the management of groundwater quality
+1980|38.0|3.0|IEEE Transactions on Communications|Multiaccess Protocols in Packet Communication Systems
+1981|4.0|1.0|IEEE Transactions on Communications|Prevention of Deadlocks in Packet-Switched Data Transport Systems
+1982|6.0|0.0|IEEE Transactions on Computers|A Multicriteria Approach to Supersystem Architecture Definition
+1983|13.0|1.5||Exploiting Temporal Knowledge to Organize Constraints.
+1984|33.0|2.0|IEEE Transactions on Software Engineering|Knowledge Representation for Model Management Systems
+1985|11.0|1.5|international symposium on microarchitecture|A Performance Analysis of MC68020-based Systems
+1986|23.0|1.0|IEEE Journal on Selected Areas in Communications|Packet Trains--Measurements and a New Model for Computer Network Traffic
+1987|48.0|3.0|IEEE Transactions on Computers|Processor Allocation in an N-Cube Multiprocessor Using Gray Codes
+1988|48.0|2.0|IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems|Sehwa: a software package for synthesis of pipelines from behavioral specifications
+1989|57.0|3.0|IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems|Algorithms for hardware allocation in data path synthesis
+1990|47.0|2.0|international conference on computer communications|Improving the fairness of distributed-queue-dual-bus networks
+1991|74.0|2.0|ACM Computing Surveys|Distributed, object-based programming systems
+1992|200.0|2.0|IEEE Transactions on Parallel and Distributed Systems|Virtual-channel flow control
+1993|172.0|2.0|IEEE\/ACM Transactions on Networking|A generalized processor sharing approach to flow control in integrated services networks: the multiple node case
+1994|73.0|3.0|IEEE Journal on Selected Areas in Communications|Design study for a CDMA-based third-generation mobile radio system
+1995|169.0|3.0|IEEE\/ACM Transactions on Networking|Link-sharing and resource management models for packet networks
+1996|114.0|2.0|IEEE Computer|Role-based access control models
+1997|91.0|2.0|conference on object-oriented programming systems, languages, and applications|The design and performance of a real-time CORBA event service
+1998|258.0|2.0|Academy of Management Review|SOCIAL CAPITAL, INTELLECTUAL CAPITAL, AND THE ORGANIZATIONAL ADVANTAGE
+1999|386.0|4.0|IEEE\/ACM Transactions on Networking|Promoting the use of end-to-end congestion control in the Internet
+2000|275.0|3.0|Nature|Systematic conservation planning.
+2001|374.0|4.0|IEEE Personal Communications|Pervasive computing: vision and challenges
+2002|416.0|4.0|IEEE Computer|Grid services for distributed system integration
+2003|863.0|5.0|symposium on operating systems principles|Xen and the art of virtualization
+2004|336.0|4.0|ACM Computing Surveys|A survey of peer-to-peer content distribution technologies
+2005|940.0|3.0|international conference on software engineering|Aspect-oriented programming
+2006|409.0|3.0|Global Environmental Change-human and Policy Dimensions|Adaptation, adaptive capacity and vulnerability
+2007|214.0|3.0|PLOS ONE|Regional decline of coral cover in the Indo-Pacific: timing, extent, and subregional comparisons.
+2008|366.0|2.0|Ecological Applications|CLIMATE CHANGE AND FORESTS OF THE FUTURE: MANAGING IN THE FACE OF UNCERTAINTY
+2009|503.0|2.0|Academy of Management Review|Managing Firm Resources in Dynamic Environments to Create Value: Looking Inside the Black Box
+2010|227.0|3.0|Ecological Economics|Payments for ecosystem services as commodity fetishism

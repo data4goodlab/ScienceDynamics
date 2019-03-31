@@ -1,0 +1,49 @@
+----  Field Name Real-time operating system: 
+----  Field Level 2.0: 
+----  Field Papers Number 8293:
+----  All time max citation paper: Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment, 1973, (3036.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|6.0|6.0|Biochimica et Biophysica Acta|Mitochondrial enzymes in developing larvae of Ascaris lumbricoides
+1968|2.0|2.0|Ibm Systems Journal|Statistics gathering and simulation for the Apollo real-time operating system
+1969|6.0|6.0|IEEE Transactions on Computers|Optimal Preemptive Scheduling on Two-Processor Systems
+1970|10.0|10.0|Journal of the ACM|Preemptive Scheduling of Real-Time Tasks on Multiprocessor Systems
+1972|23.0|15.5|Acta Informatica|Optimal scheduling for two-processor systems
+1973|16.0|4.0|symposium on operating systems principles|Polynomial complete scheduling problems
+1974|31.0|7.0|Biochemical and Biophysical Research Communications|Binding of cytochalasin B to a red cell membrane protein
+1975|10.0|5.0|Atherosclerosis|Plasma concentrations of lysolecithin and other phospholipids in the healthy population and in men suffering from atherosclerotic diseases
+1976|12.0|8.0|Atherosclerosis|Lipid metabolism in cultured aortic smooth muscle cells and comparison with other cell types Part 1. Composition of cells grown in hyperlipemic serum
+1977|6.0|2.0|Trends in Biochemical Sciences|Phospholipid-exchange proteins: a new class of intracellular lipoproteins
+1978|6.0|0.5|Proceedings of the IEEE|Active optics: A new technology for the control of light
+1979|36.0|12.0|Communications of The ACM|Thoth, a portable real-time operating system
+1980|5.0|1.0|Journal of the ACM|A New Algorithm for Preemptive Scheduling of Trees
+1981|9.0|5.0|Biochemical and Biophysical Research Communications|Chemotactic peptide stimulated endogenous arachidonic acid metabolism in HL60 granulocytes
+1982|21.0|2.0|Biochemical and Biophysical Research Communications|Endogenous phospholipid metabolism in stimulated neutrophils differential activation by FMLP and PMA
+1983|10.0|0.0|FEBS Letters|Liposome-mediated labeling of adrenocorticotropin fragments parallels their biological activity
+1984|20.0|7.0|Gastroenterology|Inhibition of gastric acid secretion in rats and in dogs by corticotropin-releasing factor
+1985|9.0|4.5|The Prostate|Nuclear androgen receptor content in biopsy specimens from histologically normal, hyperplastic, and cancerous human prostatic tissue
+1986|46.0|6.0|foundations of computer science|Approximate and exact parallel scheduling with applications to list, tree and graph problems
+1987|54.0|3.0|IEEE Transactions on Computers|Guided Self-Scheduling: A Practical Scheduling Scheme for Parallel Supercomputers
+1988|27.0|4.0|Sigmod Record|Concurrency control for distributed real-time databases
+1989|39.0|5.0|IEEE Transactions on Software Engineering|Detection of Ada static deadlocks using Petri net invariants
+1990|173.0|3.0|IEEE Transactions on Computers|Priority inheritance protocols: an approach to real-time synchronization
+1991|55.0|3.0|IEEE Transactions on Computers|Static rate-optimal scheduling of iterative data-flow programs via optimum unfolding
+1992|182.0|3.0|international symposium on computer architecture|Active messages: a mechanism for integrated communication and computation
+1993|59.0|3.0|ACM Transactions on Computer Systems|A dynamic processor allocation policy for multiprogrammed shared-memory multiprocessors
+1994|86.0|3.0|Gastroenterology|Alcohol and the liver: 1994 update
+1995|54.0|3.0|Proceedings of the IEEE|Dataflow process networks
+1996|91.0|2.5||Application-Level Scheduling on Distributed Heterogeneous Networks
+1997|209.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Pfinder: real-time tracking of the human body
+1998|75.0|3.0|design automation conference|Power optimization of variable voltage core-based systems
+1999|77.0|4.0|design automation conference|An O-tree representation of non-slicing floorplan and its applications
+2000|97.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Robust real-time periodic motion detection, analysis, and applications
+2001|113.0|4.0|international symposium on computer architecture|Energy-effective issue logic
+2002|324.0|4.0|IEEE Computer|SimpleScalar: an infrastructure for computer system modeling
+2003|167.0|6.0|IEEE Transactions on Parallel and Distributed Systems|Adaptive computing on the Grid using AppLeS
+2004|122.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|An efficient solution to the five-point relative pose problem
+2005|103.0|4.0|computer vision and pattern recognition|Randomized trees for real-time keypoint recognition
+2006|275.0|4.0|Polymer|Advanced functional polymer membranes
+2007|590.0|4.0|Gastroenterology|Biology of Incretins: GLP-1 and GIP
+2008|110.0|2.0|international conference on computer communications|Inside the New Coolstreaming: Principles, Measurements and Performance Implications
+2009|277.0|2.0|Journal of Molecular and Cellular Cardiology|What is the mitochondrial permeability transition pore?
+2010|170.0|4.0|FEBS Letters|Membrane protein assembly into Nanodiscs

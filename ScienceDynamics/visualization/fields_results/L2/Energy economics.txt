@@ -1,0 +1,43 @@
+----  Field Name Energy economics: 
+----  Field Level 2.0: 
+----  Field Papers Number 1694:
+----  All time max citation paper: Solar engineering of thermal processes, 1991, (2972.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|3.0|3.0|Australian Journal of Agricultural and Resource Economics|A model for the economic evaluation of water quality in irrigation.
+1975|2.0|2.0||AN ASSESSMENT OF THE ROLE OF INSURANCE AND STRUCTURAL MEASURES IN FLOOD MITIGATION PLANNING
+1976|4.0|2.0||THE IMPACT OF ENERGY PRICES ON OPTIMUM MACHINERY SIZE AND THE STRUCTURE OF AGRICULTURE: A GEORGIA EXAMPLE
+1977|1.0|0.0||Needed Research with Respect to Energy Use in Agricultural Production
+1978|0|0.0||Issues And Problems In Agricultural Water Demand Estimation From Secondary Data Sources
+1979|7.0|1.0|Resources and Energy|Capital-energy complementarity in aggregate energy-economic analysis
+1980|4.0|2.0||A Control Theory Approach To Optimal Irrigation Scheduling In The Oklahoma Panhandle
+1981|0|0.0||Renewables in the U.S. Energy Future: How much, how fast?
+1982|5.0|5.0|International Journal of Hydrogen Energy|Replacement of fossil fuels by hydrogen
+1983|4.0|2.5||Recreational activities and nonmarket valuation: the conceptualization issue.
+1984|4.0|1.0||A General, Dynamic, Supply-Response Model
+1985|2.0|1.0||NO-TILL TECHNOLOGY: IMPACTS ON FARM INCOME, ENERGY USE AND GROUNDWATER DEPLETION IN THE PLAINS
+1986|4.0|1.0||A DYNAMIC ANALYSIS OF OPTIMAL WATER USE UNDER SALINE CONDITIONS
+1987|6.0|2.0|Australian Journal of Agricultural and Resource Economics|Economic Aspects Of Land Degradation In Australia
+1988|7.0|2.0|Ecological Entomology|Habitat use by bumble bees (Bombus spp.)
+1989|2.0|1.0||On estimating household demand for outdoor recreation from property values: an exploration.
+1990|7.0|3.0|Australian Journal of Agricultural and Resource Economics|Issues In Resource Management
+1991|332.0|3.5|American Journal of Physics|Solar engineering of thermal processes
+1992|6.0|1.0||Economic Impact of Leafy Spurge on North Dakota Wildland
+1993|5.0|0.5||Economic Impact of Leafy Spurge on Wildland in Montana, South Dakota, and Wyoming
+1994|4.0|2.0|Journal of Agricultural and Resource Economics|Habit formation and variety seeking in a discrete choice model of recreation demand
+1995|12.0|1.0||Decomposition methodology in industrial energy demand analysis
+1996|9.0|2.0|Energy Policy|The challenge of sustainability: Balancing China's energy, economic and environmental goals
+1997|20.0|1.0|Energy Policy|Energy intensity in the iron and steel industry: a comparison of physical and economic indicators
+1998|84.0|0.0|American Journal of Agricultural Economics|Stated Preference Approaches for Measuring Passive Use Values: Choice Experiments and Contingent Valuation
+1999|18.0|2.0|Research Policy|Systems option for sustainable development--effect and limit of the Ministry of International Trade and Industry's efforts to substitute technology for energy
+2000|24.0|1.0|Energy Policy|Energy efficiency and consumption : the rebound effect : a survey
+2001|26.0|1.0|Australian Journal of Agricultural and Resource Economics|Environmental economics and the MurrayDarling river system
+2002|61.0|1.0|Catalysis Today|Syngas in perspective
+2003|70.0|1.0|Australian Journal of Agricultural and Resource Economics|Auctions for conservation contracts: an empirical examination of Victoria's BushTender trial
+2004|68.0|1.0|Energy Policy|Decomposition analysis for policymaking in energy:: which is the preferred method?
+2005|94.0|1.0|Energy Policy|Global experience curves for wind farms
+2006|75.0|2.0|Energy Policy|Forecasts, scenarios, visions, backcasts and roadmaps to the hydrogen economy: A review of the hydrogen futures literature
+2007|176.0|3.0|Energy Policy|Importance of biodiesel as transportation fuel
+2008|108.0|2.0|Ecological Economics|The rebound effect: Microeconomic definitions, limitations and extensions
+2009|94.0|3.0|Renewable & Sustainable Energy Reviews|A current and future state of art development of hybrid energy system using wind and PV-solar: A review
+2010|90.0|3.0|Energy Economics|Inputoutput analysis of CO 2 emissions embodied in trade: The effects of sector aggregation

@@ -1,0 +1,34 @@
+----  Field Name Fisheries science: 
+----  Field Level 2.0: 
+----  Field Papers Number 1054:
+----  All time max citation paper: Standardizing catch and effort data: a review of recent approaches, 2004, (384.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1980|0|0.0|Helgoland Marine Research|Pollution effects on fisheries  potential management activities
+1982|4.0|2.0|Estuarine Coastal and Shelf Science|The population dynamics of O-group flatfish on nursery grounds in the Clyde Sea Area
+1984|5.0|2.5||Synopsis of biological data on the eel, Anguilla anguilla (Linnaeus, 1758)
+1985|0|0.0||Crise de la production des coques (Cerastoderma edule ) en baie de Somme. 1. Synthese des connaissances biologiques.
+1987|3.0|3.0||Length-based methods in fisheries research
+1988|7.0|3.5|Journal of Fish Biology|Lengthdependent changes in egg size and fecundity in females, and brooded embryo size in males, of forktailed catfishes (Pisces: Ariidae) from the Sepik River, Papua New Guinea, with some implications for stock assessments
+1989|13.0|6.5|Journal of Fish Biology|Postglacial colonization of brown trout, Salmo trutta L.: Ldh5 as a phylogeographic marker locus
+1990|16.0|9.0|Marine and Freshwater Research|Mitochondrial-Dna and Marine Stock Assessment - a Review
+1991|5.0|2.0|Cytometry|Genetic stock assessment of spawning Arctic cisco (Coregonus autumnalis) populations by flow cytometric determination of DNA content
+1992|2.0|0.5|Journal of Northwest Atlantic Fishery Science|Fish Distribution and Partial Recruitment: The Case of Eastern Scotian Shelf Cod
+1993|6.0|0.0|Reviews in Fish Biology and Fisheries|Coral reef fisheries stock assessment
+1994|13.0|3.0|Hydrobiologia|Variability in stock assessment of cockles (Cerastoderma edule L.) in the Oosterschelde (in 19801990), in relation to environmental factors
+1995|30.0|4.0|Journal of Great Lakes Research|Lake trout (Salvelinus namaycush) populations in Lake Superior and their restoration in 1959-1993
+1996|17.0|2.0|Ices Journal of Marine Science|Patterns of change in the size spectra of numbers and diversity of the North Sea fish assemblage, as reflected in surveys and models
+1997|45.0|2.5|Reviews in Fish Biology and Fisheries|Fisheries stock assessment and decision analysis: the Bayesian approach
+1998|13.0|4.0|Fisheries Research|Reducing uncertainty in the biological basis of fisheries management by meta-analysis of data from many populations: a synthesis
+1999|9.0|4.0|Forest Ecology and Management|Masam  a flexible stand density management model for meeting diverse structural objectives in multiaged stands
+2000|22.0|4.0|Ices Journal of Marine Science|Are multispecies models an improvement on single-species models for measuring fishing impacts on marine ecosystems?
+2001|40.0|5.0|Fish and Fisheries|A new role for MSY in singlespecies and ecosystem approaches to fisheries stock assessment and management
+2002|14.0|3.0|Fisheries Research|Estimating net efficiency of a survey trawl for flatfishes
+2003|32.0|5.0|Scientia Marina|Fish stock assessments in the Mediterranean: state of the art
+2004|94.0|4.0|Fisheries Research|Standardizing catch and effort data: a review of recent approaches
+2005|87.0|5.0|Science of The Total Environment|Review of evidence: are endocrine-disrupting chemicals in the aquatic environment impacting fish populations?
+2006|51.0|7.0|Conservation Biology|Bycatch of Marine Mammals in U.S. and Global Fisheries
+2007|47.0|4.0|Marine Biology|A rapid ontogenetic shift in the diet of juvenile yellowfin tuna from Hawaii
+2008|28.0|7.0|Fisheries Research|Developing harvest strategies for low-value and data-poor fisheries: Case studies from three Australian fisheries
+2009|192.0|5.0|Fish and Fisheries|Vulnerability of national economies to the impacts of climate change on fisheries.
+2010|129.0|8.0|Nature|The trophic fingerprint of marine fisheries

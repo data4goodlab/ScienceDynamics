@@ -1,0 +1,69 @@
+----  Field Name Ceramic materials: 
+----  Field Level 1.0: 
+----  Field Papers Number 67829:
+----  All time max citation paper: Synthesis of graphene-based nanosheets via chemical reduction of exfoliated graphite oxide, 2007, (4432.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1937|0|0.0|JAMA|RESPIRATORY STIMULANTS AND THEIR USES
+1948|0|0.0|Journal of Chemical Physics|Quantum Corrections to the Thermodynamic Properties of Liquids, with Application to Neon
+1950|4.0|4.0|Journal of Chemical Physics|Rotational Isomerism in Perfluoro Paraffins
+1951|0|0.0|Physica D: Nonlinear Phenomena|Grain growth in a texture, studied by means of electron-emission microscopy
+1952|5.0|2.0|Journal of Applied Physics|Metal Transfer and Wear
+1953|5.0|5.0|Journal of Applied Physics|DIFFUSION IN BIMETAL VAPOR-SOLID COUPLES
+1954|4.0|4.0|Journal of the American Ceramic Society|Sintering and Grain Growth of Alumina
+1955|0|0.0|Philosophical Magazine Series 1|CXXX. On the linear work hardening mate of face-centred cubic single crystals
+1956|0|0.0|Gff|Differential Thermal Analysis and its use in Soil - Clay Mineralogy
+1957|1.0|0.0||Losses in ferrites: single-crystal studies
+1958|8.0|3.0|Journal of the American Ceramic Society|Phase Equilibria in the Alkali FluorideUranium Tetrafluoride Fused Salt Systems: I, The Systems LiFUF4 and NaFUF4
+1959|1.0|1.0|Acta Metallurgica|Grain growth in zone-refined tin
+1960|9.0|0.0|Journal of Chemical Physics|Spin Densities in Organic Free Radicals
+1961|18.0|3.0|Journal of Applied Physics|Sintering Crystalline Solids. II. Experimental Test of Diffusion Models in Powder Compacts
+1962|18.0|2.0|Journal of Chemical Physics|ESR SPECTRUM AND STRUCTURE OF THE FORMYL RADICAL
+1963|15.0|2.0|Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy|VIBRATIONAL SPECTRA AND FORCE CONSTANTS OF THE HEXACARBONYLS OF CHROMIUM, MOLYBDENUM AND TUNGSTEN
+1964|17.0|2.0|Icarus|TOTAL REFLECTION SPECTROPHOTOMETRY AND THERMOGRAVIMETRIC ANALYSIS OF SIMULATED MARTIAN SURFACE MATERIALS,
+1965|12.0|2.0|Journal of Applied Physics|Dynamical Dislocation Theory of Crystal Plasticity. I. The Yield Stress
+1966|8.0|1.0|IEEE Transactions on Information Theory|Self-corrective character recognition system
+1967|17.0|2.0|Planta|Extensibility of isolated cell walls: Measurement and changes during cell elongation
+1968|12.0|1.0|Tectonophysics|Thermal analysis of the natural remanent magnetism of some upper silurian red sandstones in the oslo region
+1969|79.0|1.0|Chemistry and Physics of Lipids|Thermal analysis of lipids, proteins and biological membranes a review and summary of some recent studies
+1970|28.0|1.0|Journal of Physics and Chemistry of Solids|On the fourth-order anharmonic equation of state of solids
+1971|42.0|1.0|Earth and Planetary Science Letters|Fractionation and condensation in space
+1972|7.0|1.0|Engineering Fracture Mechanics|Fracture problems in composite materials
+1973|21.0|1.0|Journal of The Mechanics and Physics of Solids|On the relationship between critical tensile stress and fracture toughness in mild steel
+1974|50.0|1.0|Reviews of Geophysics|Early chemical history of the solar system
+1975|27.0|2.0|Science|Thermal transitions in human plasma low density lipoproteins
+1976|21.0|2.0|Proceedings of the IEEE|Nonlinear systems and differential geometry
+1977|20.0|1.0|Pure and Applied Geophysics|Theory and Applicability of a Recrystallized Grain Size Paleopiezometer
+1978|45.0|1.0|Earth and Planetary Science Letters|Trace elements in ocean ridge basalts
+1979|18.0|2.0|Journal of Catalysis|Sulfur poisoning of Boudouard and methanation reactions on nickel catalysts
+1980|40.0|1.0|Nature|Carbonic metamorphism, granulites and crustal growth
+1981|27.0|1.0|Journal of the American Ceramic Society|A Critical Evaluation of Indentation Techniques for Measuring Fracture Toughness: II, Strength Method
+1982|32.0|2.0||The Growth, Structure, and Properties of Sea Ice,
+1983|28.0|2.0|Engineering Fracture Mechanics|Path-independent integrals, energy release rates, and general solutions of near-tip fields in mixed-mode dynamic fracture mechanics
+1984|47.0|2.0|Journal of Applied Physics|Crystallization of FeB alloys with rare earths to produce hard magnetic materials (invited)
+1985|168.0|2.0||The stopping and range of ions in solids
+1986|56.0|1.0|Journal of Applied Physics|Preparation of amorphous Ti1xCux (0.10<x<=0.87) by mechanical alloying
+1987|83.0|1.0|Journal of Applied Physics|Optical, mechanical, and thermal properties of barium borate
+1988|86.0|2.0|Journal of Applied Physics|Native defects in gallium arsenide
+1989|205.0|2.0|Journal of the American Ceramic Society|DiamondCeramic Coating of the Future
+1990|154.0|2.0|Journal of the American Ceramic Society|Perspective on the Development of HighToughness Ceramics
+1991|53.0|2.0|Applied Physics Letters|Extension of the biepitaxial Josephson junction process to various substrates
+1992|57.0|2.0|Applied Physics Letters|Laser deposition of biaxially textured yttriastabilized zirconia buffer layers on polycrystalline metallic alloys for high critical current YBaCuO thin films
+1993|152.0|2.0|Journal of the American Ceramic Society|Ceramic Fuel Cells
+1994|68.0|2.0|Acta Metallurgica Et Materialia|Strain gradient plasticity: Theory and experiment
+1995|50.0|2.0|Acta Metallurgica Et Materialia|Superplasticity in powder metallurgy aluminum alloys and composites
+1996|141.0|2.0|Journal of Experimental Medicine|CTLA-4 engagement inhibits IL-2 accumulation and cell cycle progression upon activation of resting T cells.
+1997|181.0|2.0|Proceedings of the National Academy of Sciences of the United States of America|Demonstration of mechanical connections between integrins, cytoskeletal filaments, and nucleoplasm that stabilize nuclear structure
+1998|71.0|2.0|IEEE Transactions on Electron Devices|Making silicon nitride film a viable gate dielectric
+1999|144.0|3.0|Journal of The Mechanics and Physics of Solids|Mechanism-based strain gradient plasticity I. Theory
+2000|541.0|3.0|Acta Materialia|Stabilization of metallic supercooled liquid and bulk amorphous alloys
+2001|231.0|3.0|international conference on computer communications|Convex position estimation in wireless sensor networks
+2002|239.0|4.0|Nature|High tensile ductility in a nanostructured metal
+2003|258.0|5.0|Biomaterials|Novel bioactive materials with different mechanical properties
+2004|263.0|4.0|Nature Materials|Ultra-large-scale syntheses of monodisperse nanocrystals
+2005|279.0|4.0|Journal of Dental Research|A Critical Review of the Durability of Adhesion to Tooth Tissue: Methods and Results
+2006|160.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|The dominant role of CD8+ dendritic cells in cross-presentation is not dictated by antigen capture
+2007|1639.0|5.0|Carbon|Synthesis of graphene-based nanosheets via chemical reduction of exfoliated graphite oxide
+2008|403.0|6.0|Carbon|Chemical oxidation of multiwalled carbon nanotubes
+2009|561.0|6.0|Journal of Vision|Adapting internal statistical models for interpreting visual cues to depth.
+2010|560.0|6.0|Nanoscale Research Letters|Hydroxyapatite Mineralization on the Calcium Chloride Blended Polyurethane Nanofiber via Biomimetic Method

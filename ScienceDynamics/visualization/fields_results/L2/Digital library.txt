@@ -1,0 +1,68 @@
+----  Field Name Digital library: 
+----  Field Level 2.0: 
+----  Field Papers Number 4342:
+----  All time max citation paper: Texture features for browsing and retrieval of image data, 1996, (1677.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1941|3.0|3.0|JAMA Pediatrics|DEVELOPMENTAL PATTERN OF THE CHILD AS REFLECTED IN THE CALCIFICATION PATTERN OF THE TEETH
+1942|0|0.0|Archives of Surgery|Practical Method of Predicting the Growth of the Femur and Tibia in the Child
+1944|0|0.0|American Journal of Orthodontics and Oral Surgery|Dental abnormalities as found in the American Indian
+1945|0|0.0|American Antiquity|Periods of Prehistoric Art in the Aleutian Islands
+1949|0|0.0|American Antiquity|Excavation of Tommy Tucker Cave, Lassen County, California
+1950|3.0|0.0|Economic Botany|The taxonomy, genetics, production and uses of the cultivated species of Cucrbita.
+1951|2.0|2.0|Arctic|A New View of the History of the Aleutians
+1952|0|0.0|American Journal of Physical Anthropology|Fluorine and other chemical tests of some North American human and fossil bones
+1953|1.0|0.5|Oral Surgery, Oral Medicine, Oral Pathology|The occurrence of torus palatinus and torus mandibularis in 2,478 dental patients
+1954|1.0|0.5|Arctic|Archaeological Research in the North American Arctic
+1957|4.0|2.5|The New England Journal of Medicine|Salmonella Osteomyelitis in Patients With Sickle Cell Anemia
+1958|0|0.0|American Anthropologist|ORIGIN OF THE MESCAL BEAN CULT
+1959|0|0.0|Anatomical Record-advances in Integrative Anatomy and Evolutionary Biology|An anatomical study of a case of clubfoot
+1960|5.0|5.0|American Journal of Physical Anthropology|A functional approach to craniology
+1963|0|0.0||El Bajo de Santa Fe'
+1964|11.0|0.0|American Journal of Orthodontics|A study of the postnatal growth of the human mandible
+1965|4.0|2.5|Arctic|Radiocarbon Dating, Barrow, Alaska
+1966|12.0|7.0|JAMA|Prevalence of osteoporosis in high- and low-fluoride areas in North Dakota.
+1967|1.0|0.0|Oikos|Some Ecological Statistics of a "Miniature Bog"
+1968|32.0|2.0|Science|Sea Levels during the Past 35,000 Years
+1969|3.0|1.0|Current Anthropology|Early Man in America and the Late Pleistocene Chronology of Western Canada and Alaska
+1970|8.0|0.0|Journal of Geophysical Research|Age of the Cape Kennedy BarrierandLagoon Complex
+1971|7.0|2.0|American Journal of Physical Anthropology|Demographic Structure of a Primitive Population: a Simulation
+1972|2.0|0.0|Archaeometry|THERMOLUMINESCENT DATING OF BAKED CLAY BALLS OF THE POVERTY POINT CULTURE
+1973|18.0|2.0|Kidney International|Skeletal abnormalities in chronic renal insufficiency before and during maintenance hemodialysis
+1974|9.0|2.0|Quaternary Research|Dating Climatic Episodes of the Holocene
+1975|18.0|2.5|Journal of Human Evolution|Multivariate analysis in biological anthropology: Some considerations
+1976|14.0|2.5|Kidney International|Bone histology in incipient and advanced renal failure.
+1977|23.0|1.0|Quaternary Research|Changing patterns in the Holocene pollen record of northeastern North America: A mapped summary
+1978|26.0|2.0|Quaternary Research|Global changes in postglacial sea level: A numerical calculation
+1979|9.0|1.0|Quaternary Research|Late Glacial and Post Glacial Pollen and Plant Macrofossils From Lake West Okoboji, Northwestern Iowa
+1980|7.0|1.0|American Journal of Physical Anthropology|Strength and robusticity of the Neandertal tibia
+1981|31.0|1.0|Journal of Neurochemistry|Postmortem changes of amino compounds in human and rat brain.
+1982|14.0|2.0|American Antiquity|Evolution of 'Tribal' Social Networks: Theory and Prehistoric North American Evidence
+1983|29.0|4.0|Quaternary Science Reviews|Dynamic Plant Ecology: the Spectrum of Vegetational Change in Space and Time
+1984|24.0|2.0|Quaternary Research|Holocene climatic change in the northern Midwest: Pollen-derived estimates
+1985|26.0|4.0|The New England Journal of Medicine|Paleolithic nutrition: a consideration of its nature and current implications
+1986|16.0|3.0|Journal of Archaeological Science|Effect of post-burial contamination on the concentrations of major and minor elements in human bones and teeththe implications for palaeodietary research
+1987|16.0|1.5|Journal of Anthropological Research|Middle Paleolithic Symbolism: a Review of Current Evidence and Interpretations
+1988|18.0|3.0|Geochimica et Cosmochimica Acta|Radiocarbon, 13 C and 15 N analysis of fossil bone: Removal of humates with XAD-2 resin
+1989|10.0|1.0|Current Anthropology|Hunter-Gatherers and Their Neighbors from Prehistory To the Present
+1990|18.0|2.5|Tectonics|Episodic tectonic subsidence of Late Holocene salt marshes, northern Oregon Central Cascadia Margin
+1991|17.0|2.0|Journal of Archaeological Science|Aspects of the Chemistry of Modern and Fossil Biological Apatites
+1992|7.0|2.0|American Antiquity|Complex Hunter-Gatherer-Fishers of Prehistoric California: Chiefs, Specialists, and Maritime Adaptations of the Channel Islands
+1993|4.0|1.0|Ibm Systems Journal|A storage subsystem for image and records management
+1994|14.0|3.0|Fungal Biology|Biodiversity in arbuscular mycorrhizal fungi
+1995|70.0|4.0|Multimedia Systems|Vision texture for annotation
+1996|168.0|6.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Texture features for browsing and retrieval of image data
+1997|72.0|6.0|acm multimedia|VideoQ: an automated content based video search system using visual cues
+1998|54.0|4.0|very large data bases|Computing Iceberg Queries Efficiently
+1999|91.0|4.0|Siam Review|Matrices, Vector Spaces, and Information Retrieval
+2000|153.0|3.0|IEEE Transactions on Image Processing|The Bayesian image retrieval system, PicHunter: theory, implementation, and psychophysical experiments
+2001|104.0|4.0|acm/ieee joint conference on digital libraries|The open archives initiative: building a low-barrier interoperability framework
+2002|271.0|4.0|international conference on distributed computing systems|Routing indices for peer-to-peer systems
+2003|91.0|4.0|conference on information and knowledge management|Content-based retrieval in hybrid peer-to-peer networks
+2004|241.0|4.0|very large data bases|Combating web spam with trustrank
+2005|280.0|3.0|Clinical Orthopaedics and Related Research|The Structure of Collaborative Tagging Systems
+2006|166.0|3.0|JAMA Internal Medicine|A brief measure for assessing generalized anxiety disorder: the GAD-7.
+2007|285.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|A diagnostic approach for going beyond panaceas
+2008|181.0|2.0|web search and data mining|Can social bookmarking improve web search?
+2009|140.0|2.0|Journal of Informetrics|Measuring contextual citation impact of scientific journals
+2010|147.0|2.0|BMC Medical Research Methodology|Automatic de-identification of textual documents in the electronic health record: a review of recent research

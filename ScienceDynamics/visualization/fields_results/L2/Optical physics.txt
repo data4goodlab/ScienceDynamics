@@ -1,0 +1,35 @@
+----  Field Name Optical physics: 
+----  Field Level 2.0: 
+----  Field Papers Number 2785:
+----  All time max citation paper: A simple Cooperative diversity method based on network path selection, 2006, (826.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1977|7.0|7.0|Biochemical and Biophysical Research Communications|Activation of thyroid ornithine decarboxylase (ODC) in vitro by hypotonicity; a possible mechanism for ODC induction.
+1978|6.0|6.0|Neuroscience|A radiometric microassay for ornithine decarboxylase
+1983|10.0|10.0|Journal of The American Academy of Dermatology|Photocarcinogenesis, skin cancer, and aging
+1984|15.0|15.0|Biochemical and Biophysical Research Communications|Phosphorylation of rat heart ornithine decarylase by type-2 casein kinase
+1985|7.0|6.0|Experimental Parasitology|Plasmodium berghei: Inhibitors of ornithine decarboxylase block exoerythrocytic schizogony
+1986|24.0|21.0|Gastroenterology|Essential role of polyamine metabolism in hepatic regeneration
+1987|23.0|11.5|Gastroenterology|Actions of sulfasalazine and 5-aminosalicylic acid as reactive oxygen scavengers in the suppression of bile acid-induced increases in colonic epithelial cell loss and proliferative activity
+1988|17.0|2.0|Gastroenterology|Role of Activation of Protein Kinaso C in the Stimulation of Colonic Epithelial Proliferation by Unsaturated Fatty Acids
+1989|11.0|4.0|IEEE Transactions on Communications|A systematic approach to carrier recovery and detection of digitally phase modulated signals of fading channels
+1990|15.0|7.0|Gastroenterology|Role of epidermal growth factor, prostaglandin, and sulfhydryls in stress-induced gastric lesions
+1991|7.0|2.5|Journal of Dairy Science|Fundamentals of Cell Proliferation: Control of the Cell Cycle
+1993|19.0|16.0|Bioelectromagnetics|The role of coherence time in the effect of microwaves on ornithine decarboxylase activity.
+1994|6.0|5.0|Plant Science|Polyamines and their biosynthetic enzymes in dormant embryos of the spindle tree ( Euonymus europaeus L.) and in dormancy break obtained after treatment with gibberellic acid
+1995|23.0|3.5|Cancer Letters|In vivo exposure of rats to a weak alternating magnetic field increases ornithine decarboxylase activity in the mammary gland by a similar extent as the carcinogen DMBA
+1996|2.0|1.0|global communications conference|Theory of fiber-optic CDMA
+1997|7.0|4.0|FEBS Letters|Degradation of the 74 kDa form of l-histidine decarboxylase via the ubiquitin-proteasome pathway in a rat basophilic/mast cell line (RBL-2H3)
+1998|6.0|5.5|Bioelectromagnetics|Epidermal ornithine decarboxylase and polyamines in mice exposed to 50 Hz magnetic fields and UV radiation
+1999|9.0|2.5|The EMBO Journal|Translocation of ornithine decarboxylase to the surface membrane during cell activation and transformation
+2000|21.0|1.0|IEEE Transactions on Information Theory|First- and second-order characterization of direction dispersion and space selectivity in the radio channel
+2001|25.0|5.5|Mayo Clinic Proceedings|Biomarkers in Barrett Esophagus
+2002|147.0|1.0|IEEE Transactions on Information Theory|Communication on the Grassmann manifold: a geometric approach to the noncoherent multiple-antenna channel
+2003|19.0|0.0|IEEE Journal of Oceanic Engineering|Temporal resolutions of time-reversal and passive-phase conjugation for underwater acoustic communications
+2004|33.0|1.0|European Physical Journal D|Editorial: Quo vadis, cold molecules?
+2005|83.0|1.0|Nature Physics|Membrane disruption by optically controlled microbubble cavitation
+2006|582.0|4.0|IEEE Journal on Selected Areas in Communications|A simple Cooperative diversity method based on network path selection
+2007|202.0|2.0|Nature Physics|Challenges for semiconductor spintronics
+2008|264.0|9.0|Nature Physics|Charged Impurity Scattering in Graphene
+2009|491.0|11.0|Nature Physics|Topological insulators in Bi2Se3, Bi2Te3 and Sb2Te3 with a single Dirac cone on the surface
+2010|230.0|4.0|Nature Physics|Identification of influential spreaders in complex networks

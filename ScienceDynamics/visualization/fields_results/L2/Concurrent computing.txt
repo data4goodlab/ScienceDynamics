@@ -1,0 +1,58 @@
+----  Field Name Concurrent computing: 
+----  Field Level 2.0: 
+----  Field Papers Number 24101:
+----  All time max citation paper: A method for obtaining digital signatures and public-key cryptosystems, 1978, (5605.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1950|8.0|4.5|JAMA|Studies of Coxsaekie Viruses. Preliminary Report on Occurrence of Coxsaekie Virus in a Southern Maryland Community.
+1960|0|0.0|Physiologia Plantarum|Monotropa hypopitys L. - an epiparasite on tree roots.
+1961|3.0|3.0|Proceedings of The Institute of Radio Engineers|Developments in the Logical Organization of Computer Arithmetic and Control Units
+1962|3.0|3.0|Archives of Virology|Properties of Epidemic Strains of ECHO Type 9 Virus and Observations on the Nature of Human Infection.
+1963|0|0.0|JAMA|An Outbreak of Parainfluenza 2 (Croup-Associated) Virus Infection: Association with Acute Undifferentiated Febrile Illness in Children
+1964|10.0|5.0||Identification of cowpea mosaic virus isolates.
+1965|5.0|5.0|Journal of Fluid Mechanics|The velocity of rise of distorted gas bubbles in a liquid of small viscosity.
+1966|5.0|1.5|Proceedings of the IEEE|A survey of problems and preliminary results concerning parallel processing and parallel processors
+1967|7.0|1.0|IEEE Transactions on Electronic Computers|Digital Real-Time Spectral Analysis
+1968|4.0|2.5|Probability Theory and Related Fields|On the existence of consistent estimates and tests
+1969|7.0|2.0|The Lancet|MICROBIAL CAUSES OF MENTAL RETARDATION THE ROLE OF PRENATAL INFECTIONS WITH CYTOMEGALOVIRUS, RUBELLA VIRUS, AND TOXOPLASMA
+1970|9.0|5.0|Plant Physiology|Gibberellins in Relation to Flowering and Stem Elongation in the Long Day Plant Silene armeria
+1971|3.0|2.0|IEEE Transactions on Computers|System Segmentation for the Parallel Diagnosis of Computers
+1972|6.0|6.0|IEEE Transactions on Biomedical Engineering|Automated Radiographic Diagnosis via Feature Extraction and Classification of Cardiac Size and Shape Descriptors
+1973|3.0|2.0|Communications of The ACM|A practical approach to managing resources and avoiding deadlocks
+1974|12.0|4.0|Aggressive Behavior|The role of endocrines in isolationinduced intermale fighting in albino laboratory mice. I: PITUITARYADRENOCORTICAL INFLUENCES
+1975|26.0|1.0|Phytochemistry|Isolation and characterization of naturally occurring cyanogenic compounds
+1976|41.0|3.0|Communications of The ACM|Formal verification of parallel programs
+1977|15.0|2.5|IEEE Transactions on Computers|The Indirect Binary n-Cube Microprocessor Array
+1978|106.0|4.0|Communications of The ACM|A method for obtaining digital signatures and public-key cryptosystems
+1979|15.0|3.0|Pattern Recognition|Validity studies in clustering methodologies
+1980|56.0|2.0|ACM Transactions on Programming Languages and Systems|A Proof System for Communicating Sequential Processes
+1981|27.0|3.0|Communications of The ACM|Asynchronous distributed simulation via a sequence of parallel computations
+1982|29.0|3.5|FEBS Letters|Isolation of glucagon37 (bioactive enteroglucagon/oxyntomodulin) from porcine jejunoileum
+1983|90.0|5.0|ACM Computing Surveys|Concepts and Notations for Concurrent Programming
+1984|28.0|3.0|IEEE Computer|Simulated Performance of a Reduction-Based Multiprocessor
+1985|55.0|4.0|Hearing Research|Reversible contraction of isolated mammalian cochlear hair cells
+1986|46.0|4.0|foundations of computer science|Approximate and exact parallel scheduling with applications to list, tree and graph problems
+1987|88.0|3.0|IEEE Transactions on Computers|Debugging Parallel Programs with Instant Replay
+1988|101.0|3.0|architectural support for programming languages and operating systems|A VLIW architecture for a trace scheduling compiler
+1989|94.0|3.0|ACM Computing Surveys|Programming languages for distributed computing systems
+1990|173.0|3.0|IEEE Transactions on Computers|Priority inheritance protocols: an approach to real-time synchronization
+1991|129.0|3.0|IEEE Software|Visualizing the performance of parallel programs
+1992|200.0|2.0|IEEE Transactions on Parallel and Distributed Systems|Virtual-channel flow control
+1993|145.0|2.0|IEEE Computer|A survey of wormhole routing techniques in direct networks
+1994|274.0|3.0|ACM Transactions on Programming Languages and Systems|The temporal logic of actions
+1995|145.0|3.0|IEEE Transactions on Software Engineering|Specification and analysis of system architecture using Rapide
+1996|177.0|2.0|Journal of the ACM|Unreliable failure detectors for reliable distributed systems
+1997|84.0|2.0|international symposium on microarchitecture|Highly accurate data value prediction using hybrid predictors
+1998|224.0|3.0|IEEE Transactions on Software Engineering|Understanding code mobility
+1999|195.0|3.0|symposium on operating systems principles|The design and implementation of an intentional naming system
+2000|168.0|3.0|Journal of Clinical Microbiology|Multilocus Sequence Typing for Characterization of Methicillin-Resistant and Methicillin-Susceptible Clones ofStaphylococcus aureus
+2001|431.0|3.0|IEEE Transactions on Information Theory|Factor graphs and the sum-product algorithm
+2002|614.0|3.0|international conference on computer communications|An energy-efficient MAC protocol for wireless sensor networks
+2003|347.0|4.0|IEEE Journal on Selected Areas in Communications|Language-based information-flow security
+2004|671.0|4.0|IEEE\/ACM Transactions on Networking|Medium access control with coordinated adaptive sleeping for wireless sensor networks
+2005|282.0|3.0|IEEE Transactions on Information Theory|Constructing free-energy approximations and generalized belief propagation algorithms
+2006|365.0|3.0|Circulation|Adverse Impact of Bleeding on Prognosis in Patients With Acute Coronary Syndromes
+2007|242.0|3.0|international conference on software engineering|Self-Managed Systems: an Architectural Challenge
+2008|196.0|2.0|Ecological Applications|INCREASING ISOLATION OF PROTECTED AREAS IN TROPICAL FORESTS OVER THE PAST TWENTY YEARS
+2009|179.0|3.0|symposium on operating systems principles|The multikernel: a new OS architecture for scalable multicore systems
+2010|196.0|4.0|international symposium on microarchitecture|The GPU Computing Era

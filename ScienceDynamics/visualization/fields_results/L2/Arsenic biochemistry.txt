@@ -1,0 +1,60 @@
+----  Field Name Arsenic biochemistry: 
+----  Field Level 2.0: 
+----  Field Papers Number 29726:
+----  All time max citation paper: Determination of glutathione and glutathione disulfide using glutathione reductase and 2-vinylpyridine., 1980, (2233.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1938|0|0.0|Journal of the American Oil Chemists' Society|The influence of bleaching adsorbents on the stability of edible oils
+1955|0|0.0|Acta Metallurgica|INITIAL OXIDATION RATE OF METALS AND THE LOGARITHMIC EQUATION
+1958|0|0.0|Microbiology|The Effect of the Medium on the Cultivation of Mycobacterium balnei at 37
+1959|6.0|3.0|Acta Medica Scandinavica|Serum TPNlinked Enzymes Glucose6Phosphate Dehydrogenase, Isocitric Dehydrogenase and Glutathione Reductase Activities in Health and in Various Disease States
+1961|6.0|3.0|Archives of Biochemistry and Biophysics|Effect of previous diet on response of hepatic enzyme activities to a 24-hour fast
+1962|14.0|0.5|Biochimica et Biophysica Acta|A purification of adenosine deaminase from the superficial mucosa of calf intestine
+1963|11.0|4.0|Archives of Biochemistry and Biophysics|Some comparative studies of calf and chicken adenosine deaminase
+1964|4.0|1.0|Annals of the New York Academy of Sciences|LACTATE DEHYDROGENASES AND MALATE DEHYDROGENASES IN SPERM: STUDIED BY POLYACRYLAMIDE GEL ELECTROPHORESIS*
+1965|12.0|1.0|Archives of Biochemistry and Biophysics|Physicochemical identity of Neurospora malate dehydrogenase and aspartate aminotransferase
+1966|27.0|3.0|Archives of Biochemistry and Biophysics|Isozymes and genetic control of NADP-malate dehydrogenase in mice
+1967|10.0|2.0|Archives of Biochemistry and Biophysics|Studies on malate dehydrogenases and aspartate aminotransferases from neurospora crassa
+1968|11.0|1.5|Comparative Biochemistry and Physiology|Multiple adenosine deaminases in the frog ( Rana catesbeiana )
+1969|30.0|5.0|Biochemical and Biophysical Research Communications|Gene duplication in fishes: Malate dehydrogenases of salmon and trout
+1970|33.0|2.0|Biochemical Genetics|Mitochondrial malate dehydrogenase and malic enzyme: Mendelian inherited electrophoretic variants in the mouse.
+1971|21.0|1.0|FEBS Journal|Intra and Extramitochondrial Isozymes of (NADP) Malate Dehydrogenase
+1972|74.0|1.0|The Lancet|Adenosine-deaminase deficiency in two patients with severely impaired cellular immunity.
+1973|60.0|1.0|Science|Pyrimidine Starvation Induced by Adenosine in Fibroblasts and Lymphoid Cells: Role of Adenosine Deaminase
+1974|19.0|2.0|FEBS Journal|Human Glutathione Reductase: Purification of the Crystalline Enzyme from Erythorocytes
+1975|24.0|2.0|Biochemical Pharmacology|Adenosine deaminase from human erythrocytes: Purification and effects of adenosine analogs
+1976|43.0|3.0|Journal of Clinical Investigation|Adenosine metabolism in phytohemagglutinin-stimulated human lymphocytes.
+1977|31.0|1.5|FEBS Letters|Regulation of NADP-malate dehydrogenase by the light-actuated ferredoxin/thioredoxin system of chloroplasts
+1978|18.0|3.0|The Lancet|A ROLE FOR PURINE METABOLISM IN THE IMMUNE RESPONSE: ADENOSINE-DEAMINASE ACTIVITY AND DEOXYADENOSINE CATABOLISM
+1979|35.0|3.0|Journal of Catalysis|Catalytic synthesis of methanol from COH2: I. Phase composition, electronic properties, and activities of the Cu/ZnO/M2O3 catalysts
+1980|29.0|2.0|Cellular Immunology|Inverse relationship between adenosine deaminase and purine nucleoside phosphorylase in rat lymphocyte populations
+1981|35.0|2.0|Journal of Molecular Biology|Three-dimensional structure of glutathione reductase at 2  resolution
+1982|20.0|2.0|JAMA|Treatment of Phenobarbital Overdose With Activated Charcoal
+1983|35.0|2.0|Journal of Clinical Investigation|Activation of the respiratory burst enzyme in human polymorphonuclear leukocytes by chemoattractants and other soluble stimuli. Evidence that the same oxidase is activated by different transductional mechanisms.
+1984|34.0|2.0|Journal of Molecular Biology|Structural relationship between glutathione reductase and lipoamide dehydrogenase
+1985|81.0|2.0|Neuroscience|Immunohistochemical localization of macrophages and microglia in the adult and developing mouse brain
+1986|34.0|2.0|Journal of Experimental Medicine|The requirement for lymphocyte function-associated antigen 1 in homotypic leukocyte adhesion stimulated by phorbol ester.
+1987|88.0|2.0|Journal of Molecular Biology|Refined structure of glutathione reductase at 1.54 A resolution.
+1988|112.0|3.0|Gastroenterology|Campylobacter pyloridis-associated chronic active antral gastritis
+1989|36.0|2.0|Genomics|X-chromosome localization of the functional gene for the E1 alpha subunit of the human pyruvate dehydrogenase complex.
+1990|57.0|2.0|Trends in Biochemical Sciences|Turning on the respiratory burst
+1991|46.0|2.0|Journal of Neurochemistry|Brain Adenosine and Transmitter Amino Acid Release from the Ischemic Rat Cerebral Cortex: Effects of the Adenosine Deaminase Inhibitor Deoxycoformycin
+1992|126.0|2.0|Journal of Neurochemistry|BrainDerived Neurotrophic Factor Protects Dopamine Neurons Against 6Hydroxydopamine and NMethyl4Phenylpyridinium Ion Toxicity: Involvement of the Glutathione System
+1993|52.0|3.0|Journal of Investigative Dermatology|Antioxidant Defense Mechanisms in Murine Epidermis and Dermis and Their Responses to Ultraviolet Light
+1994|231.0|2.0|Cell|H2O2 from the oxidative burst orchestrates the plant hypersensitive disease resistance response
+1995|150.0|3.0|Nature Genetics|A candidate genetic risk factor for vascular disease : a common mutation in methylenetetrahydrofolate reductase
+1996|192.0|3.0|American Journal of Human Genetics|Molecular genetic analysis in mild hyperhomocysteinemia: a common mutation in the methylenetetrahydrofolate reductase gene is a genetic risk factor for cardiovascular disease.
+1997|237.0|4.0|Nature|Storage of Hydrogen in Single-Walled Carbon Nanotubes
+1998|196.0|5.0|Cell|Reactive Oxygen Intermediates Mediate a Systemic Signal Network in the Establishment of Plant Immunity
+1999|175.0|6.0|Genes & Development|A role for ATR in the DNA damage-induced phosphorylation of p53.
+2000|123.0|6.0|Progress in Neurobiology|Metabolism and functions of glutathione in brain
+2001|294.0|7.0|Nature|Complete genome sequence of a multiple drug resistant Salmonella enterica serovar Typhi CT18.
+2002|172.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|Arabidopsis gp91phox homologues AtrbohD and AtrbohF are required for accumulation of reactive oxygen intermediates in the plant defense response
+2003|618.0|9.0|Annual Review of Plant Biology|THE OXIDATIVE BURST IN PLANT DISEASE RESISTANCE
+2004|252.0|9.0|Journal of Clinical Investigation|Glycogen synthase kinase-3 mediates convergence of protection signaling to inhibit the mitochondrial permeability transition pore
+2005|277.0|9.0|Nature|Highly controlled acetylene accommodation in a metal|[ndash]|organic microporous material
+2006|417.0|8.0|Bioresource Technology|Non-conventional low-cost adsorbents for dye removal: a review.
+2007|461.0|8.0|Journal of Hazardous Materials|Arsenic removal from water/wastewater using adsorbentsA critical review
+2008|244.0|10.0|Molecular Cell|Rapid Open-Source Engineering of Customized Zinc-Finger Nucleases for Highly Efficient Gene Modification
+2009|631.0|10.0|Journal of Environmental Management|Application of low-cost adsorbents for dye removal  A review
+2010|1034.0|11.0|Plant Physiology and Biochemistry|Reactive oxygen species and antioxidant machinery in abiotic stress tolerance in crop plants

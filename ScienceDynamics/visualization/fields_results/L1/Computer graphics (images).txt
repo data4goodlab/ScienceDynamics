@@ -1,0 +1,57 @@
+----  Field Name Computer graphics (images): 
+----  Field Level 1.0: 
+----  Field Papers Number 14202:
+----  All time max citation paper: Object recognition from local scale-invariant features, 1999, (3625.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1953|5.0|5.0|Journal of Chemical Physics|Dielectric Relaxation and the Internal Field
+1955|0|0.0|Applied Scientific Research, Section B|Microwave dispersion of some polar liquids
+1961|6.0|3.5|Journal of Geophysical Research|The paleomagnetism of the Aden volcanics
+1963|11.0|5.5|Journal of Applied Physics|Ripple Hysteresis in Thin Magnetic Films
+1964|29.0|29.0|Journal of Geophysical Research|The significance of paleomagnetic results from Africa
+1965|13.0|0.0|Planetary and Space Science|SATELLITE DRAG COEFFICIENTS
+1966|14.0|9.0|Journal of Geophysical Research|Paleomagnetism of rocks from the White Mountain plutonicvolcanic series in New Hampshire and Vermont
+1967|6.0|6.0|Proceedings of the IEEE|An introduction to computer graphic terminals
+1968|20.0|3.0||Linguistic methods in picture processing: a survey
+1969|26.0|0.0|Operations Research|An Appraisal of Some Shortest-Path Algorithms
+1970|17.0|3.5|Communications of The ACM|Representations for space planning
+1971|21.0|2.0|Journal of Geophysical Research|On the alternating field demagnetization characteristics of multidomain thermoremanent magnetization in magnetite
+1972|31.0|1.0|Reviews of Geophysics|Paleomagnetism of deepsea cores
+1973|19.0|3.5|Earth and Planetary Science Letters|Details of magnetic polarity transitions recorded in a high deposition rate deep-sea core
+1974|22.0|2.0|Communications of The ACM|Reentrant polygon clipping
+1975|23.0|2.0|Journal of Geophysical Research|Paleomagnetic evidence for rotation of the Italian Peninsula
+1976|24.0|2.0|Communications of The ACM|Interference in multiprocessor computer systems with interleaved memory
+1977|27.0|4.0|Communications of The ACM|Optimal surface reconstruction from planar contours
+1978|34.0|3.0|Journal of Geophysical Research|Paleomagnetism of the Devonian Catskill Red Beds: Evidence for Motion of the Coastal New England-Canadian Maritime Region Relative to Cratonic North America
+1979|23.0|4.0|Communications of The ACM|Interference detection among solids and surfaces
+1980|78.0|2.0|ACM Computing Surveys|Representations for Rigid Solids: Theory, Methods, and Systems
+1981|25.0|4.0|foundations of computer science|Optimizing synchronous systems
+1982|50.0|4.0|Communications of The ACM|Computer rendering of stochastic models
+1983|20.0|3.5|international conference on computer graphics and interactive techniques|A scan-line hidden surface removal procedure for constructive solid geometry
+1984|71.0|5.0|IEEE Transactions on Computers|Computational Geometry&#8212;A Survey
+1985|55.0|2.0|ACM Transactions on Graphics|Primitives for the manipulation of general subdivisions and the computation of Voronoi
+1986|53.0|3.0|international conference on computer graphics and interactive techniques|The rendering equation
+1987|305.0|2.0|IEEE Computer|Hypertext: An Introduction and Survey
+1988|81.0|3.0|international conference on computer graphics and interactive techniques|A progressive refinement approach to fast radiosity image generation
+1989|40.0|2.0||Interactive volume rendering
+1990|89.0|3.0|IEEE Transactions on Knowledge and Data Engineering|The implementation of POSTGRES
+1991|129.0|3.0|IEEE Software|Visualizing the performance of parallel programs
+1992|134.0|4.0|international conference on computer graphics and interactive techniques|Decimation of triangle meshes
+1993|106.0|4.0|international conference on computer graphics and interactive techniques|View interpolation for image synthesis
+1994|120.0|2.0|international conference on computer graphics and interactive techniques|Fast volume rendering using a shear-warp factorization of the viewing transformation
+1995|290.0|3.0|international symposium on computer architecture|The SPLASH-2 programs: characterization and methodological considerations
+1996|104.0|2.0|IEEE Computer Graphics and Applications|Video mosaics for virtual environments
+1997|218.0|3.0|international conference on computer graphics and interactive techniques|Surface simplification using quadric error metrics
+1998|130.0|3.0|international conference on computer graphics and interactive techniques|MAPS: multiresolution adaptive parameterization of surfaces
+1999|237.0|5.0|international conference on computer graphics and interactive techniques|A morphable model for the synthesis of 3D faces
+2000|217.0|4.0|international conference on computer graphics and interactive techniques|QSplat: a multiresolution point rendering system for large meshes
+2001|254.0|5.0|international conference on computer graphics and interactive techniques|Reconstruction and representation of 3D objects with radial basis functions
+2002|230.0|4.0|international conference on data mining|gSpan: graph-based substructure pattern mining
+2003|534.0|5.0|IEEE Transactions on Automatic Control|Coordination of groups of mobile autonomous agents using nearest neighbor rules
+2004|399.0|4.0|Journal of the American College of Cardiology|Left ventricular dyssynchrony predicts response and prognosis after cardiac resynchronization therapy
+2005|233.0|4.0|human factors in computing systems|prefuse: a toolkit for interactive information visualization
+2006|576.0|4.0|Nucleic Acids Research|BioGRID: a general repository for interaction datasets
+2007|708.0|3.0|Computer Graphics Forum|A Survey of GeneralPurpose Computation on Graphics Hardware
+2008|279.0|3.0|acm sigplan symposium on principles and practice of parallel programming|Optimization principles and application performance evaluation of a multithreaded GPU using CUDA
+2009|150.0|3.0|IEEE Transactions on Signal Processing|Optimal Multiband Joint Detection for Spectrum Sensing in Cognitive Radio Networks
+2010|2770.0|3.0|Molecular Ecology Resources|Arlequin suite ver 3.5: a new series of programs to perform population genetics analyses under Linux and Windows

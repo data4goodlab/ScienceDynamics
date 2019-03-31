@@ -1,0 +1,52 @@
+----  Field Name Music theory: 
+----  Field Level 2.0: 
+----  Field Papers Number 8031:
+----  All time max citation paper: Two varieties of long-latency positive waves evoked by unpredictable auditory stimuli in man., 1975, (1018.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1962|0|0.0|Proceedings of The Institute of Radio Engineers|Packaged Electronically Tunable S-Band Traveling-Wave Maser System
+1965|12.0|12.0|Radio and Electronic Engineer|Some aspects of Gunn effect oscillators
+1966|1.0|1.0||Flow and pressure field analysis of parallel groove geometry for an incompressible fluid with convective inertia effects
+1968|2.0|2.0||Stimulus duration and the human heart rate response.
+1969|4.0|0.0|IEEE Journal of Solid-state Circuits|Frequency-selective integrated circuits using phase-lock techniques
+1970|3.0|1.0|IEEE Transactions on Electron Devices|Resonance and parametric effects in IMPATT diodes
+1971|7.0|2.0|Psychophysiology|INFANT HEART RATE RESPONSE AS A FUNCTION OF STIMULUS AND STATE
+1972|6.0|1.0|Electronics Letters|Frequency-dependent behaviour of an acoustic-surface-wave multistrip coupler
+1973|13.0|11.0|Attention Perception & Psychophysics|Cortical potentials evoked by confirming and disconfirming feedback following an auditory discrimination.
+1974|7.0|5.0|Journal of Applied Physics|Phenomenological approach to the design of highly tunable pressure-broadened gas lasers
+1975|67.0|16.0|Electroencephalography and Clinical Neurophysiology|Two varieties of long-latency positive waves evoked by unpredictable auditory stimuli in man.
+1976|0|0.0|IEEE Transactions on Microwave Theory and Techniques|The Resonant Frequency and Tuning Characteristics of a Narrow-Gap Reentrant Cylindrical Cavity
+1977|16.0|0.0|Journal of Environmental Economics and Management|Control Theory Applied to Natural and Environmental Resources: An Exposition
+1978|11.0|1.0|Cognitive Psychology|Comparative judgments with numerical reference points
+1979|5.0|2.0|Journal of Steroid Biochemistry|Metabolism of fetal and neonatal adrenal steroids.
+1980|10.0|3.0|Child Development|Observations of Mixed-Sex Sibling Dyads.
+1981|5.0|1.0|Journal of Geophysical Research|Sea ice displacement from Seasat synthetic aperture radar
+1982|12.0|1.0|conference on decision and control|Robustness of adaptive control algorithms in the presence of unmodeled dynamics
+1983|15.0|2.5|principles of distributed computing|An interval logic for higher-level temporal reasoning
+1984|36.0|2.0|The Journal of Comparative Neurology|The subnuclear organization of the rat interpeduncular nucleus: A light and electron microscopic study
+1985|33.0|2.0|symposium on operating systems principles|Replicated distributed programs
+1986|16.0|3.0|Applied Physics Letters|Magnetically tunable diluted magnetic semiconductor (Cd, Mn)Te quantum well laser
+1987|56.0|4.0|Artificial Intelligence|Bayesian and non-Bayesian evidential updating
+1988|49.0|2.0|IEEE Transactions on Computers|Performability analysis: measures, an algorithm, and a case study
+1989|33.0|3.0|ACM Transactions on Computer Systems|An analytical cache model
+1990|23.0|2.0|IEEE Transactions on Computers|Real-number codes for fault-tolerant matrix operations on processor arrays
+1991|52.0|1.0|IEEE Transactions on Microwave Theory and Techniques|A 100-MESFET planar grid oscillator
+1992|87.0|2.0|IEEE Transactions on Neural Networks|Learning and tuning fuzzy logic controllers through reinforcements
+1993|16.0|2.0|Electroencephalography and Clinical Neurophysiology|Auditory Event-Related Dynamics of the EEG Spectrum and Effects of Exposure to Tones
+1994|46.0|3.0|IEEE Journal of Solid-state Circuits|Integrated continuous-time filter design - an overview
+1995|28.0|3.0|Journal of Applied Physiology|Is walking a random walk? Evidence for long-range correlations in stride interval of human gait.
+1996|77.0|3.0|Software - Practice and Experience|Long term distributed file reference tracing: implementation and experience
+1997|75.0|3.0|IEEE Transactions on Automatic Control|Adaptive control using multiple models
+1998|47.0|3.0|The Lancet|New concept in echocardiography: harmonic imaging of tissue without use of contrast agent
+1999|98.0|4.0|Plasmid|Genetic Exchange between Bacteria in the Environment
+2000|148.0|4.0|Nature Cell Biology|RNA interference: genetic wand and genetic watchdog.
+2001|152.0|3.0|International Journal of Food Microbiology|Bacteriocins: safe, natural antimicrobials for food preservation
+2002|87.0|4.0|international conference on computer aided design|Combined dynamic voltage scaling and adaptive body biasing for lower power microprocessors under dynamic workloads
+2003|213.0|5.0|Annual Review of Immunology|The RAG Proteins and V(D)J Recombination: Complexes, Ends, and Transposition
+2004|149.0|5.0|Fuzzy Sets and Systems|Ten years of genetic fuzzy systems : current framework and new trends
+2005|134.0|4.0|Journal of the American Academy of Child and Adolescent Psychiatry|A Meta-Analysis of Working Memory Impairments in Children With Attention-Deficit/Hyperactivity Disorder
+2006|126.0|4.0|Psychological Bulletin|Distributed practice in verbal recall tasks: A review and quantitative synthesis
+2007|302.0|4.0|Science|TLR3 Deficiency in Patients with Herpes Simplex Encephalitis
+2008|154.0|3.0|Nature Photonics|Experimental demonstration of frequency-agile terahertz metamaterials
+2009|371.0|2.0|Cell|Epigenetic Reprogramming and Small RNA Silencing of Transposable Elements in Pollen
+2010|702.0|3.0|Journal of Vision|Orientation tuning of contrast masking caused by motion streaks

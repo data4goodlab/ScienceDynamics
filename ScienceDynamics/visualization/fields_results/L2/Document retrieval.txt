@@ -1,0 +1,50 @@
+----  Field Name Document retrieval: 
+----  Field Level 2.0: 
+----  Field Papers Number 1320:
+----  All time max citation paper: A language modeling approach to information retrieval, 1998, (1346.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1962|13.0|13.0|Journal of the ACM|Information Retrieval Based upon Latent Class Analysis
+1963|3.0|3.0|Journal of the ACM|Associative Document Retrieval Techniques Using Bibliographic Information
+1964|7.0|7.0||A document retrieval system for man-machine interaction
+1966|1.0|1.0|IEEE Transactions on Information Theory|An application of coding theory to document retrieval
+1969|1.0|0.5|international conference on computational linguistics|A search algorithm and data structure for an efficient information system
+1971|0|0.0|international acm sigir conference on research and development in information retrieval|Introduction and perspectives for the 1971 ACM Information Storage and Retrieval Symposium
+1972|3.0|3.0|Information Storage and Retrieval|An Evaluation of Query Expansion by the Addition of Clustered Terms for a Document Retrieval System.
+1973|6.0|0.0|Journal of the ACM|Recent Studies in Automatic Text Analysis and Document Retrieval
+1974|2.0|1.0|Information Storage and Retrieval|Further Experiments with Hierarchic Clustering in Document Retrieval.
+1976|10.0|7.0|Information Processing and Management|A Fuzzy Model of Document Retrieval Systems.
+1977|5.0|5.0|Sigir Forum|Information storage and retrieval: a survey and functional description
+1978|5.0|1.0||The reference string indexing method
+1979|36.0|1.5||Yacc: Yet Another Compiler-Compiler
+1980|0|0.0|Journal of The American Society for Information Science|The combined use of bibliographic coupling and cocitation for document retrieval
+1981|2.0|1.5|Kybernetes|A MODEL OF A DOCUMENT RETRIEVAL SYSTEM BASED ON THE CONCEPT OF A SEMANTIC DISJUNCTIVE NORMAL FORM
+1982|2.0|1.5|international acm sigir conference on research and development in information retrieval|An intelligent terminal for implementing relevance feedback on large operational retrieval systems
+1983|11.0|2.0|Automatica|An expert intermediary system for interactive document retrieval
+1984|8.0|6.5|international acm sigir conference on research and development in information retrieval|The use of adaptive mechanisms for selection of search strategies in document retrival systems
+1985|63.0|11.0|Communications of The ACM|An evaluation of retrieval effectiveness for a full-text document-retrieval system
+1986|14.0|4.0|international acm sigir conference on research and development in information retrieval|Recent trends in automatic information retrieval
+1987|16.0|4.0|Information Processing and Management|CANSEARCH: An expert systems approach to document retrieval
+1988|31.0|4.0|ACM Transactions on Information Systems|Query processing in a multimedia document system
+1989|20.0|4.0|ACM Transactions on Information Systems|Knowledge-based search tactics for an intelligent intermediary system
+1990|16.0|4.0|Information Processing and Management|SILOL: a simple logical-linguistic document retrieval system
+1991|70.0|7.0|ACM Transactions on Information Systems|Evaluation of an inference network-based retrieval model
+1992|37.0|5.0|Computers and The Humanities|A method for disambiguating word senses in a large corpus
+1993|18.0|3.0|IEEE Intelligent Systems|Generating, integrating, and activating thesauri for concept-based document retrieval
+1994|113.0|4.0|international conference on management of data|From structured documents to novel query facilities
+1995|37.0|8.5|Information Processing and Management|Natural language information retrieval
+1996|102.0|3.0|international acm sigir conference on research and development in information retrieval|Query expansion using local and global document analysis
+1997|56.0|5.0|IEEE Internet Computing|Enhancing the Web's infrastructure: from caching to replication
+1998|134.0|2.0|international acm sigir conference on research and development in information retrieval|A language modeling approach to information retrieval
+1999|70.0|3.5|Information Processing and Management|Finding information on the World Wide Web: the retrieval effectiveness of search engines
+2000|63.0|6.0|ACM Transactions on Information Systems|Improving the effectiveness of information retrieval with local context analysis
+2001|29.0|6.0|international world wide web conferences|Learning search engine specific query transformations for question answering
+2002|30.0|4.0|conference on information and knowledge management|Passage retrieval based on language models
+2003|91.0|4.0|conference on information and knowledge management|Content-based retrieval in hybrid peer-to-peer networks
+2004|62.0|5.0|international acm sigir conference on research and development in information retrieval|An effective approach to document retrieval via utilizing WordNet and recognizing phrases
+2005|60.0|2.0|acm/ieee joint conference on digital libraries|Name disambiguation in author citations using a K-way spectral clustering method
+2006|115.0|3.0|international acm sigir conference on research and development in information retrieval|Adapting ranking SVM to document retrieval
+2007|227.0|3.0|international conference on machine learning|Learning to rank: from pairwise approach to listwise approach
+2008|242.0|4.0|computer vision and pattern recognition|Lost in quantization: Improving particular object retrieval in large scale image databases
+2009|125.0|2.0|computer vision and pattern recognition|Bundling features for large scale partial-duplicate web image search
+2010|122.0|4.0|BMC Genomics|Disclosing ambiguous gene aliases by automatic literature profiling

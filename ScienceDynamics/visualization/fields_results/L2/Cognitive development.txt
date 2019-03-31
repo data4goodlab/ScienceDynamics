@@ -1,0 +1,53 @@
+----  Field Name Cognitive development: 
+----  Field Level 2.0: 
+----  Field Papers Number 8165:
+----  All time max citation paper: Accommodation of a scientific conception: Toward a theory of conceptual change, 1982, (1673.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|1.0|1.0|JAMA|Idiopathic hypercalcemia of infancy.
+1963|1.0|1.0|Journal of Research in Science Teaching|The direct teaching of critical thinking in grades four through six
+1966|0|0.0|Review of Educational Research|Chapter I: Cognitive Development in Adolescence
+1967|5.0|1.0|Child Development|PARENTAL INFLUENCE ON COGNITIVE DEVELOPMENT IN EARLY CHILDHOOD: A REVIEW
+1968|5.0|5.0|Child Development|Developmental Trends in the Processing of Task-Relevant and Task-Irrelevant Information.
+1969|40.0|1.0|Journal of Experimental Child Psychology|Conservation acquisition: A problem of learning to attend to relevant attributes
+1970|7.0|1.5|Monographs of The Society for Research in Child Development|Cognitive synthesis in Negro and white children
+1971|12.0|2.0|Cognitive Psychology|Stage-related properties of cognitive development
+1972|14.0|4.0|Journal of Cross-Cultural Psychology|Cross-Cultural Piagetian Research: A Summary.
+1973|25.0|3.5|Journal of Verbal Learning and Verbal Behavior|More about less: A study of language comprehension
+1974|14.0|3.0|Journal of Experimental Child Psychology|On the development of more and less
+1975|29.0|2.0|Monographs of The Society for Research in Child Development|An interview study of children's knowledge about memory
+1976|31.0|3.0|Cognitive Psychology|Three Aspects of Cognitive Development.
+1977|28.0|3.0|Journal of Experimental Child Psychology|Memory for objects in real scenes: The development of recognition and recall
+1978|47.0|3.0|Behavioral and Brain Sciences|The stage question in cognitive-developmental theory
+1979|57.0|3.0|Journal of Experimental Child Psychology|The development of analogical reasoning processes
+1980|35.0|2.0|The Lancet|EFFECT OF LONG-TERM PSYCHOSOCIAL STIMULATION ON MENTAL DEVELOPMENT OF SEVERELY MALNOURISHED CHILDREN
+1981|77.0|3.0|Monographs of The Society for Research in Child Development|Developmental Sequences within and between Concepts.
+1982|38.0|2.0|Child Development|Elaboration and Memory Development.
+1983|88.0|2.0|Child Development|The Louisville Twin Study: developmental synchronies in behavior.
+1984|45.0|2.0|Journal of Verbal Learning and Verbal Behavior|Procedures of mind
+1985|87.0|3.0||Direct manipulation interfaces
+1986|45.0|3.0|Child Development|Continuity in Mental Development from Infancy.
+1987|113.0|2.0|Child Development|Development of Cortical Circuitry and Cognitive Function.
+1988|97.0|4.0|Child Development|Children's Understanding of Representational Change and Its Relation to the Understanding of False Belief and the Appearance-Reality Distinction.
+1989|146.0|2.0|Child Development|Small-Scale Deceit: Deception as a Marker of Two-, Three-, and Four-Year-Olds' Early Theories of Mind.
+1990|110.0|2.0|Educational Researcher|Conceptions of Educational Achievement
+1991|120.0|3.0|Child Development|Young Children's Understanding of Changes in Their Mental States
+1992|165.0|3.0|Cognition|Domain specificity in conceptual development: neuropsychological evidence from autism.
+1993|114.0|3.0|Behavioral and Brain Sciences|How we know our minds: the illusion of first-person knowledge of intentionality
+1994|73.0|4.0|Child Development|Economic deprivation and early childhood development.
+1995|105.0|2.0|Educational Researcher|The Good, the Bad, and the Ugly: The Many Faces of Constructivism.
+1996|100.0|3.0|Cell|LIM-kinase1 Hemizygosity Implicated in Impaired Visuospatial Constructive Cognition
+1997|89.0|3.0|Behavioral and Brain Sciences|The neural basis of cognitive development: A constructivist manifesto
+1998|66.0|4.0|Child Development|Child Development and Emergent Literacy.
+1999|230.0|6.0|Psychological Review|The role of theories in conceptual coherence
+2000|126.0|8.0||Explaining child malnutrition in developing countries : a cross-country analysis
+2001|200.0|7.0|Child Development|Meta-analysis of theory-of-mind development: the truth about false belief.
+2002|105.0|8.0|Cognition|Infant sensitivity to distributional information can affect phonetic discrimination
+2003|218.0|8.0|Annual Review of Psychology|Socioeconomic Status and Child Development
+2004|173.0|8.0|American Journal of Human Genetics|X-Linked Mental Retardation and Autism Are Associated with a Mutation in the NLGN4 Gene, a Member of the Neuroligin Family
+2005|186.0|9.0|Trends in Cognitive Sciences|Mapping brain maturation and cognitive development during adolescence
+2006|192.0|7.0|Neuropsychologia|Development of cognitive control and executive functions from 4 to 13 years: evidence from manipulations of memory, inhibition, and task switching.
+2007|251.0|8.0|Child Development|Relating Effortful Control, Executive Function, and False Belief Understanding to Emerging Math and Literacy Ability in Kindergarten
+2008|285.0|9.0|Psychological Bulletin|Executive function in preschoolers: a review using an integrative framework.
+2009|271.0|9.0|Harvard Educational Review|Diversity and Higher Education: Theory and Impact on Educational Outcomes
+2010|928.0|9.0|Educational Psychologist|Perceived Self-Efficacy in Cognitive Development and Functioning

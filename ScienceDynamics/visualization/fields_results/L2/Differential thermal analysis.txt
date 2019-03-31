@@ -1,0 +1,61 @@
+----  Field Name Differential thermal analysis: 
+----  Field Level 2.0: 
+----  Field Papers Number 26153:
+----  All time max citation paper: Synthesis of graphene-based nanosheets via chemical reduction of exfoliated graphite oxide, 2007, (4432.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1952|2.0|2.0|Journal of the American Ceramic Society|Differential Thermal Analysis of Kaolin Group Minerals Under Controlled Partial Pressures of H2O
+1956|0|0.0|Gff|Differential Thermal Analysis and its use in Soil - Clay Mineralogy
+1957|0|0.0||ACTIVITIES IN THE KCl-FeCl AND LiCl-FeCl SYSTEMS
+1958|8.0|4.5|Journal of the American Ceramic Society|Phase Equilibria in the Alkali FluorideUranium Tetrafluoride Fused Salt Systems: I, The Systems LiFUF4 and NaFUF4
+1960|0|0.0|Nature|Differential Thermal Analysis of Some Transition Metal Ethylenediamine Tetraacetic Acid Chelates
+1961|4.0|2.0|Journal of Applied Physics|Curie Temperature of Some Garnets by the Differential Thermal Analysis Technique
+1962|4.0|2.5|Journal of Nuclear Materials|Electron microscopic study of dislocations and fission damage in platinum foils
+1963|0|0.0|Journal of Chemical Physics|DEUTERIUM ISOTOPE EFFECT ON GLASS TRANSFORMATION TEMPERATURES OF AQUEOUS INORGANIC SOLUTIONS
+1964|17.0|1.0|Icarus|TOTAL REFLECTION SPECTROPHOTOMETRY AND THERMOGRAVIMETRIC ANALYSIS OF SIMULATED MARTIAN SURFACE MATERIALS,
+1965|3.0|0.0|Colloid and Polymer Science|Differential thermal analysis of pressure crystallized polyethylene
+1966|8.0|1.0|Talanta|Derivatography: A complex method in thermal analysis
+1967|10.0|2.0|Journal of Geophysical Research|Highlow quartz inversion: Determination to 35 kilobars
+1968|12.0|1.0|Tectonophysics|Thermal analysis of the natural remanent magnetism of some upper silurian red sandstones in the oslo region
+1969|79.0|3.0|Chemistry and Physics of Lipids|Thermal analysis of lipids, proteins and biological membranes a review and summary of some recent studies
+1970|7.0|0.0|Analytica Chimica Acta|The gas chromatography, thermal analysis and mass spectrometry of fluorinated lead -diketonates: Determination of traces of lead by the integrated ion-current technique
+1971|12.0|1.5|Carbohydrate Research|Thermal analysis of 1,6-anhydro--D-glucopyranose
+1972|5.0|0.0|Nuclear Engineering and Design|Subchannel thermal analysis of rod bundle cores
+1973|11.0|2.0|Polymer Journal|Melting and Crystallization Process of Polyethylene under High Pressure
+1974|14.0|1.0|FEBS Letters|Thermal analysis of sarcoplasmic reticulum membranes
+1975|27.0|0.5|Science|Thermal transitions in human plasma low density lipoproteins
+1976|19.0|3.0|Geochimica et Cosmochimica Acta|Geochemical studies on the organic matter from the Douala Basin (Cameroon)II. Evolution of kerogen
+1977|12.0|1.0|Journal of Applied Physics|Absolute linear thermalexpansion measurements on copper and aluminum from 5 to 320 K
+1978|22.0|2.0|Atmospheric Environment|Continuous in situ monitoring of ambient particulate sulfur using flame photometry and thermal analysis
+1979|18.0|1.0|Journal of Catalysis|Sulfur poisoning of Boudouard and methanation reactions on nickel catalysts
+1980|10.0|1.0|Journal of Geophysical Research|A theoretical investigation of the sliding crack model of dilatancy
+1981|11.0|1.0|Journal of Solid State Chemistry|Studies of layered uranium (VI) compounds. VI. Ionic conductivities and thermal stabilities of MUO 2 PO 4  n H 2 O, where M = H, Li,Na,K,NH 4 or 12Ca, and where n is between 0 and 4
+1982|32.0|2.0||The Growth, Structure, and Properties of Sea Ice,
+1983|20.0|1.0|Journal of Applied Physics|Amorphous to crystalline transformation of Fe81B13.5Si3.5C2
+1984|15.0|1.0|Journal of Solid State Chemistry|On the topotactic dehydration of VOHPO 4  0.5 H 2 O into vanadyl pyrophosphate
+1985|13.0|2.0|Journal of Geophysical Research|The May 18, 1980, eruption of Mount St. Helens: 1. Melt composition and experimental phase equilibria
+1986|56.0|1.0|Journal of Applied Physics|Preparation of amorphous Ti1xCux (0.10<x<=0.87) by mechanical alloying
+1987|17.0|1.0|Fuel|Application of TG-FT-i.r. to study hydrocarbon structure and kinetics
+1988|86.0|1.0|Journal of Applied Physics|Native defects in gallium arsenide
+1989|23.0|1.0|Thermochimica Acta|Controlled transformation rate thermal analysis: the hidden face of thermal analysis
+1990|41.0|2.0|Journal of Materials Research|Thermal analysis of rare earth gallates and aluminates
+1991|25.0|1.0|Biomaterials|Physico-mechanical properties of degradable polymers used in medical applications: A comparative study
+1992|55.0|1.0|Journal of Materials Research|Structural and thermodynamic properties of nanocrystalline fcc metals prepared by mechanical attrition
+1993|58.0|1.0|IEEE Transactions on Electron Devices|Comparison of 6H-SiC, 3C-SiC, and Si for power devices
+1994|37.0|1.0|Journal of the American Ceramic Society|Oxidation Mechanisms and Kinetics of 1DSiC/C/SiC Composite Materials: I, An Experimental Approach
+1995|34.0|1.0|Thermochimica Acta|Thermal analysis and calorimetric methods in the characterisation of polymorphs and solvates
+1996|31.0|2.0|Clay Minerals|Stable isotope geochemistry of clay minerals
+1997|45.0|1.0|Applied Physics Letters|Bulk metallic glass matrix composites
+1998|30.0|2.0|Journal of the American Ceramic Society|Thermal Analysis of Amorphous Phases in Hydroxyapatite Coatings
+1999|63.0|2.0|Journal of Catalysis|Studies on Carbon Deposition in CO 2 Reforming of CH 4 over NickelMagnesia Solid Solution Catalysts
+2000|66.0|2.0|Thermochimica Acta|Computational aspects of kinetic analysis: Part A: The ICTAC kinetics project-data, methods and results
+2001|64.0|3.0|Polymer|Poly(lactic acid): plasticization and properties of biodegradable multiphase systems
+2002|203.0|3.0|Journal of Membrane Science|Direct polymerization of sulfonated poly(arylene ether sulfone) random (statistical) copolymers: candidates for new proton exchange membranes
+2003|88.0|5.0|Polymer|Organo-montmorillonite as substitute of carbon black in natural rubber compounds
+2004|263.0|4.0|Nature Materials|Ultra-large-scale syntheses of monodisperse nanocrystals
+2005|74.0|4.0|Journal of Catalysis|Enhanced soot oxidation by lattice oxygen via La 3+ -doped CeO 2
+2006|131.0|4.0|Journal of Catalysis|The role of nanostructure in nitrogen-containing carbon catalysts for the oxygen reduction reaction
+2007|1639.0|5.0|Carbon|Synthesis of graphene-based nanosheets via chemical reduction of exfoliated graphite oxide
+2008|403.0|6.0|Carbon|Chemical oxidation of multiwalled carbon nanotubes
+2009|118.0|7.0|Materials Chemistry and Physics|PolyanilineMWCNT nanocomposites for microwave absorption and EMI shielding
+2010|250.0|6.0|Carbon|Preparation of graphene by the rapid and mild thermal reduction of graphene oxide induced by microwaves

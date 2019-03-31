@@ -1,0 +1,71 @@
+----  Field Name Database: 
+----  Field Level 1.0: 
+----  Field Papers Number 107821:
+----  All time max citation paper: SWISSMODEL and the SwissPdb Viewer: An environment for comparative protein modeling, 1997, (4781.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|4.0|4.0|Journal of Genetics|The determination of position in crossing-over. III. The evidence of metaphase chiasmata.
+1941|3.0|3.0|JAMA Pediatrics|DEVELOPMENTAL PATTERN OF THE CHILD AS REFLECTED IN THE CALCIFICATION PATTERN OF THE TEETH
+1942|0|0.0|Archives of Surgery|Practical Method of Predicting the Growth of the Femur and Tibia in the Child
+1944|0|0.0|American Journal of Orthodontics and Oral Surgery|Dental abnormalities as found in the American Indian
+1945|0|0.0|American Antiquity|Periods of Prehistoric Art in the Aleutian Islands
+1947|0|0.0|Cellular and Molecular Life Sciences|Elektrische Betubung und elektrische Narkose
+1949|0|0.0|American Antiquity|Excavation of Tommy Tucker Cave, Lassen County, California
+1950|3.0|0.0|Economic Botany|The taxonomy, genetics, production and uses of the cultivated species of Cucrbita.
+1951|2.0|2.0|Arctic|A New View of the History of the Aleutians
+1952|0|0.0|American Journal of Physical Anthropology|Fluorine and other chemical tests of some North American human and fossil bones
+1953|1.0|0.5|Oral Surgery, Oral Medicine, Oral Pathology|The occurrence of torus palatinus and torus mandibularis in 2,478 dental patients
+1954|5.0|1.0||Statistical Computation of Mean Dimensions of Macromolecules. I
+1957|4.0|2.5|The New England Journal of Medicine|Salmonella Osteomyelitis in Patients With Sickle Cell Anemia
+1958|0|0.0|American Anthropologist|ORIGIN OF THE MESCAL BEAN CULT
+1959|20.0|0.0|Journal of Chemical Physics|Interpretation of the ElectronSpin Resonance Spectrum of the Methyl Radical
+1960|6.0|1.5|Journal of Dairy Science|A Comparison of Dairy Sire Progeny Tests Made at Special Danish Testing Stations with Tests Made in Farmer Herds
+1961|1.0|1.0|Botany|Taxonomy, morphology, and pathogenicity of Rhizoctonia species from forest nurseries
+1963|3.0|2.0|Planetary and Space Science|IONIZATION IN THE D-REGION DURING AURORAL BREAK UP EVENTS,
+1964|11.0|1.5|American Journal of Orthodontics|A study of the postnatal growth of the human mandible
+1965|15.0|2.0|Journal of Chemical Physics|On the Theory of Electron-Transfer Reactions. VI. Unified Treatment for Homogeneous and Electrode Reactions
+1966|12.0|7.0|JAMA|Prevalence of osteoporosis in high- and low-fluoride areas in North Dakota.
+1967|58.0|0.5|Journal of the ACM|A Machine-Independent Theory of the Complexity of Recursive Functions
+1968|32.0|2.0|Science|Sea Levels during the Past 35,000 Years
+1969|9.0|1.5||A comparison of file organization techniques
+1970|13.0|2.0||Adsorption of triazine herbicides on soil organic matter, including a short review on soil organic matter chemistry.
+1971|21.0|2.0|Journal of Geophysical Research|Electrical conductivity and temperature of the lunar interior from magnetic transientresponse measurements
+1972|24.0|1.0|IEEE Transactions on Computers|Some Computer Organizations and Their Effectiveness
+1973|32.0|2.0|Communications of The ACM|Evaluation and selection of file organizationa model and system
+1974|94.0|2.0|international conference on management of data|SEQUEL: A structured English query language
+1975|47.0|3.0||INGRES: a relational data base system
+1976|93.0|3.0|Journal of Geophysical Research|Radar observations of F region equatorial irregularities
+1977|113.0|2.0|ACM Transactions on Database Systems|Multivalued dependencies and a new normal form for relational databases
+1978|59.0|2.0|ACM Transactions on Database Systems|System level concurrency control for distributed database systems
+1979|127.0|3.0|ACM Transactions on Database Systems|Extending the database relational model to capture more meaning
+1980|93.0|3.0|Brain Research|Cholecystokinins in rat cerebral cortex: Identification, purification and characterization by immunochemical methods
+1981|63.0|2.0|Journal of the ACM|Using Semi-Joins to Solve Relational Queries
+1982|48.0|3.0|ACM Transactions on Database Systems|A simplied universal relation assumption and its properties
+1983|76.0|3.0|symposium on operating systems principles|The LOCUS distributed operating system
+1984|85.0|3.0|international conference on management of data|Making smalltalk a database system
+1985|81.0|3.0|ACM Transactions on Database Systems|GALILEO: a strongly-typed, interactive conceptual language
+1986|194.0|3.0|international conference on management of data|The design of POSTGRES
+1987|305.0|3.0|IEEE Computer|Hypertext: An Introduction and Survey
+1988|114.0|3.0|international conference on management of data|A data model and query language for EXODUS
+1989|72.0|2.0|international conference on management of data|The architecture of an active database management system
+1990|324.0|3.0|IEEE Transactions on Neural Networks|Identification and control of dynamical systems using neural networks
+1991|258.0|2.0|Science|The medial temporal lobe memory system
+1992|153.0|2.0|Communications of The ACM|Parallel database systems: the future of high performance database systems
+1993|99.0|3.0|IEEE Transactions on Knowledge and Data Engineering|Database mining: a performance perspective
+1994|195.0|3.0|Journal of Geophysical Research|Degree 12 model of shear velocity heterogeneity in the mantle
+1995|1358.0|3.0|Science|Apoptosis in the pathogenesis and treatment of disease
+1996|224.0|3.0|International Journal on Digital Libraries|The Lorel Query Language for Semistructured Data
+1997|501.0|3.0|Electrophoresis|SWISSMODEL and the SwissPdb Viewer: An environment for comparative protein modeling
+1998|422.0|3.0|acm ieee international conference on mobile computing and networking|A performance comparison of multi-hop wireless ad hoc network routing protocols
+1999|219.0|4.0|Information Retrieval|An Evaluation of Statistical Approaches to Text Categorization
+2000|560.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Content-based image retrieval at the end of the early years
+2001|952.0|4.0||Pastry: Scalable, Decentralized Object Location, and Routing for Large-Scale Peer-to-Peer Systems
+2002|578.0|5.0|Genome Research|The human genome browser at UCSC.
+2003|1931.0|5.0|IEEE\/ACM Transactions on Networking|Chord: a scalable peer-to-peer lookup protocol for Internet applications
+2004|577.0|5.0|IEEE Wireless Communications|Routing techniques in wireless sensor networks: a survey
+2005|832.0|4.0|Computer Networks and Isdn Systems|Wireless mesh networks: a survey
+2006|840.0|4.0|Computer Networks|NeXt generation/dynamic spectrum access/cognitive radio wireless networks: a survey
+2007|1049.0|4.0|Science|The genomic landscapes of human breast and colorectal cancers.
+2008|1327.0|2.0|Accounts of Chemical Research|Density Functionals with Broad Applicability in Chemistry
+2009|896.0|3.0|Nucleic Acids Research|Database resources of the National Center for Biotechnology Information.
+2010|1380.0|4.0|PLOS ONE|The Anopheles gambiae Odorant Binding Protein 1 (AgamOBP1) Mediates Indole Recognition in the Antennae of Female Mosquitoes

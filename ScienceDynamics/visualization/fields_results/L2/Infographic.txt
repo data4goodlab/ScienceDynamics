@@ -1,0 +1,66 @@
+----  Field Name Infographic: 
+----  Field Level 2.0: 
+----  Field Papers Number 3772:
+----  All time max citation paper: A spreading-activation theory of semantic processing, 1975, (2802.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1930|0|0.0|The Journal of Infectious Diseases|Disinfection. IV. Do Bacteria die logarithmically ?
+1949|3.0|1.5|JAMA Internal Medicine|Radioactive isotopes in the study of peripheral vascular disease. I. Derivation of a circulatory index
+1951|4.0|3.0|Journal of the American Oil Chemists' Society|The Infrared Spectra of Saturated Fatty Acids With Even Number of Carbon Atoms From Caproic, Co (Hexanoic), to Stearic, C18 (Octadecanoic), and of Their ,Methyl and Ethyl Esters I
+1952|2.0|1.5||Transient analysis of synchronous machines
+1953|5.0|5.0|Journal of Applied Physics|DIFFUSION IN BIMETAL VAPOR-SOLID COUPLES
+1954|0|0.0||Analysis of Hunting Phenomena in Power Systems by Means of Electrical Analogues
+1956|0|0.0|Psychological Bulletin|The problem of inference from curves based on group data
+1958|6.0|5.0|Journal of Atmospheric and Solar-Terrestrial Physics|On the production of radioisotopes in the atmosphere by cosmic radiation and their application to meteorology
+1959|4.0|4.0|Philosophical Magazine|ON THE DERIVATION OF COSMIC RAY SPECIFIC YIELD FUNCTIONS
+1960|34.0|3.0|Physics of Fluids|Irreversible Processes in Ionized Gases
+1961|17.0|12.0|Journal of Applied Physics|DISLOCATION CONTRIBUTIONS TO THE MODULUS AND DAMPING IN COPPER AT MEGACYCLE FREQUENCIES
+1962|7.0|0.0|Journal of Physics and Chemistry of Solids|ELECTRICAL BEHAVIOR BELOW 300 K OF PLUTONIUM-RICH, DELTA-PHASE SOLID SOLUTION ALLOYS CONTAINING CERIUM, ALUMINUM AND ZINC
+1963|19.0|4.5|Photochemistry and Photobiology|MECHANISM OF ENZYME INACTIVATION BY ULTRAVIOLET LIGHT AND THE PHOTOCHEMISTRY OF AMINO ACIDS (AT 2537 )*
+1964|12.0|3.0|Cryogenics|THE INTERMEDIATE STATE OF SOME SUPERCONDUCTORS
+1965|67.0|2.0|Journal of Geophysical Research|Electron and molecular nitrogen temperature and density in the thermosphere.
+1966|4.0|1.0|Electronics Letters|Diagram of Gunn-effect phenomena
+1967|6.0|1.0|Icarus|Statistics of impact crater accumulation on the lunar surface exposed to a distribution of impacting bodies
+1968|10.0|7.5|Journal of Geophysical Research|Proton gyrofrequency band emissions observed aboard OGO 2
+1969|26.0|7.0|Journal of Geophysical Research|Methods for the measurement of vertical ionospheric motions near the magnetic equator by incoherent scattering
+1970|32.0|2.0|Planetary and Space Science|The magnetospheric plasmapause and the electron density trough at the alouette i orbit
+1971|11.0|4.0|Journal of Geophysical Research|Micrometeorite craters on lunar rock surfaces
+1972|50.0|2.0|Cognitive Psychology|Conceptual Dependency: A Theory of Natural Language Understanding.
+1973|163.0|2.5|Journal of Verbal Learning and Verbal Behavior|The Language-as-Fixed-Effect Fallacy: A Critique of Language Statistics in Psychological Research.
+1974|19.0|4.0|Journal of Geophysical Research|Evidence for an episode of crater obliteration intermediate in Martian history
+1975|137.0|3.0|Psychological Review|A spreading-activation theory of semantic processing
+1976|24.0|2.0|Journal of Experimental Psychology: General|A Fuzzy Set Approach to Modifiers and Vagueness in Natural Language.
+1977|28.0|2.0|Icarus|Asteroid sizes and albedos
+1978|45.0|2.0|Geophysical Journal International|A study of geomagnetic storms
+1979|8.0|2.0|International Journal of Radiation Oncology Biology Physics|Terminology in the description of drug-radiation interactions
+1980|18.0|2.0|The New England Journal of Medicine|Cardiac arrhythmias associated with a liquid protein diet for the treatment of obesity.
+1981|15.0|1.5|American Journal of Cardiology|Localization of coronary artery disease with exercise electrocardiography: correlation with thallium-201 myocardial perfusion scanning
+1982|80.0|8.0|Nature|Sr and Nd isotope geochemistry of oceanic basalts and mantle evolution
+1983|18.0|3.5|American Journal of Cardiology|Hemodynamic effects of encainide in patients with ventricular arrhythmia and poor ventricular function
+1984|30.0|5.0|American Educational Research Journal|The Visualization of Rotation in Diagrams of Three-Dimensional Structures.
+1985|16.0|1.0|Atmospheric Environment|OPEN-AIR FUMIGATION OF FIELD CROPS - CRITERIA AND DESIGN FOR A NEW EXPERIMENTAL SYSTEM
+1986|14.0|1.0|Journal of Statistical Physics|Random surfaces in statistical mechanics: roughening, rounding, wetting
+1987|20.0|3.0|American Journal of Cardiology|An angiographic and functional comparison of patients with silent and symptomatic treadmill ischemia early after myocardial infarction
+1988|21.0|1.0|Physics of Fluids|The Dynamics of Bubble Growth for Rayleigh-Taylor Unstable Interfaces.
+1989|58.0|3.0|Nuclear Physics|Gauge theories, vertex models, and quantum groups
+1990|30.0|6.0|Journal of the American College of Cardiology|Relations among impaired coronary flow reserve, left ventricular hypertrophy and thallium perfusion defects in hypertensive patients without obstructive coronary artery disease
+1991|47.0|2.0|International Journal of Radiation Oncology Biology Physics|Experience with CHART
+1992|156.0|3.0|ACM Computing Surveys|Symbolic Boolean manipulation with ordered binary-decision diagrams
+1993|21.0|1.0|Cancer|Image analysis of androgen receptor immunostaining in metastatic prostate cancer heterogeneity as a predictor of response to hormonal therapy
+1994|194.0|2.0|Medical Care|The MOS 36-item Short-Form Health Survey (SF-36): III. Tests of data quality, scaling assumptions, and reliability across diverse patient groups
+1995|41.0|2.0|acm sigplan symposium on principles and practice of parallel programming|Reducing false sharing on shared memory multiprocessors through compile time data transformations
+1996|47.0|3.0|IEEE Transactions on Computers|Improving the variable ordering of OBDDs is NP-complete
+1997|56.0|3.0|Radiotherapy and Oncology|A randomised multicentre trial of CHART versus conventional radiotherapy in head and neck cancer.
+1998|46.0|2.0||Computational tools for poverty measurement and analysis
+1999|83.0|4.0|Human Brain Mapping|Methods for diagnosis and treatment of stimuluscorrelated motion in generic brain activation studies using fMRI
+2000|80.0|4.0|international conference on software engineering|Alcoa: the alloy constraint analyzer
+2001|75.0|5.0|Clinical Chemistry|Absence of Diurnal Variation of C-Reactive Protein Concentrations in Healthy Human Subjects
+2002|61.0|5.0|ieee symposium on information visualization|SpaceTree: supporting exploration in large node link tree, design evolution and empirical evaluation
+2003|181.0|4.5|Schizophrenia Research|Prefrontal cortex dysfunction during working memory performance in schizophrenia: reconciling discrepant findings
+2004|113.0|5.0|American Journal of Kidney Diseases|Prevention of radiocontrast nephropathy with N-acetylcysteine in patients with chronic kidney disease: a meta-analysis of randomized, controlled trials
+2005|143.0|3.5|NeuroImage|A Population-Average, Landmark- and Surface-based (PALS) atlas of human cerebral cortex
+2006|123.0|4.0|Learning and Instruction|DeFT: A Conceptual Framework for Considering Learning with Multiple Representations.
+2007|76.0|4.5|Archives of Suicide Research|Risk for Suicide Attempts Among Adolescents Who Engage in Non-Suicidal Self-Injury
+2008|695.0|5.0|Journal of Vision|Fine-scale activity patterns in high-level visual areas encode the category of invisible objects
+2009|146.0|4.0|IEEE Transactions on Software Engineering|The Physics of Notations: Toward a Scientific Basis for Constructing Visual Notations in Software Engineering
+2010|564.0|4.0|Journal of Statistical Software|VRMLGen: An R package for 3D Data Visualization on the Web

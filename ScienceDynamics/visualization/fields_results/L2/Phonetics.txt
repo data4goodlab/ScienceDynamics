@@ -1,0 +1,51 @@
+----  Field Name Phonetics: 
+----  Field Level 2.0: 
+----  Field Papers Number 4781:
+----  All time max citation paper: An ERP study of good production vis-a-vis poor perception of tones in Cantonese: implications for top-down speech processing., 2013, (1424.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1958|0|0.0|Review of Educational Research|Communication Theory, Linguistics, and Psycholinguistics.
+1964|3.0|3.0|Journal of Verbal Learning and Verbal Behavior|Alternation of rules in children's grammar
+1965|0|0.0|IEEE Spectrum|Machine recognition of human language Part II - Theoretical models of speech perception and language
+1967|1.0|1.0|Bulletin of Mathematical Biology|A theory of speech perception: II
+1969|37.0|18.5|Attention Perception & Psychophysics|Precategorical acoustic storage (PAS)
+1971|6.0|1.0|Attention Perception & Psychophysics|Speech perception and phonemic restorations
+1972|18.0|2.0|Cognitive Psychology|Auditory and Phonetic Processes in Speech Perception: Evidence from a Dichotic Study
+1973|24.0|9.0|Attention Perception & Psychophysics|Auditory and phonetic memory codes in the discrimination of consonants and vowels.
+1974|17.0|7.0|Attention Perception & Psychophysics|Categories and boundaries in speech and music*
+1975|36.0|7.0|Science|Speech perception by the chinchilla: voiced-voiceless distinction in alveolar plosive consonants
+1976|7.0|3.0|Brain and Language|An analysis of speech perception in word deafness
+1977|2.0|2.0|Attention Perception & Psychophysics|Perception of a Phonetic Contrast in Multisyllabic Utterances by Two-Month Old Infants.
+1978|43.0|8.0|Brain and Language|Neuroelectrical correlates of categorical speech perception in adults
+1979|8.0|3.0|Brain and Language|Cerebral Asymmetry in Infants.
+1980|20.0|3.5|Applied Psycholinguistics|On Correlating Aphasic Errors With Slips-of-the-Tongue.
+1981|24.0|7.0|Brain Research|Structure of human auditory cortex. II. Axon distributions and morphological correlates of speech perception
+1982|8.0|1.0|Applied Psycholinguistics|The Acquisition of /r/ and /l/ by Japanese Learners of English: Evidence That Speech Production Can Precede Speech Perception.
+1983|25.0|2.5|Speech Communication|Trading relations among acoustic cues in speech perception are largely a result of phonetic categorization
+1984|15.0|3.0|Journal of Experimental Child Psychology|Development of phonetic memory in disabled and normal readers
+1985|76.0|2.0|Cognition|The motor theory of speech perception revised
+1986|62.0|2.0|Cognitive Psychology|The TRACE model of speech perception
+1987|14.0|2.0|Journal of Literacy Research|Learning to Read and Spell Words.
+1988|22.0|5.5|Journal of Experimental Psychology: Human Perception and Performance|Examination of perceptual reorganization for nonnative speech contrasts: Zulu click discrimination by English-speaking adults and infants.
+1989|37.0|1.0|Cognitive Psychology|Testing between the TRACE model and the fuzzy logical model of speech perception.
+1990|36.0|4.0|American Journal of Physical Anthropology|Language capacities of nonhuman animals
+1991|26.0|2.0|Journal of Experimental Psychology: Human Perception and Performance|Cross-modal speech perception in adults and infants using nonspeech auditory stimuli.
+1992|42.0|2.5|Neural Computation|Working memory networks for learning temporal order with application to three-dimensional visual object recognition
+1993|44.0|2.0|Cognition|What lesson for dyslexia from Down's syndrome? Comments on Cossu, Rossini, and Marshall (1993).
+1994|16.0|3.0|Electroencephalography and Clinical Neurophysiology|Speech-evoked activity in primary auditory cortex: effects of voice onset time
+1995|25.0|5.0|Journal of Memory and Language|Monitoring the Time Course of Phonological Encoding
+1996|121.0|3.0|Brain|Noun and verb retrieval by normal subjects. Studies with PET.
+1997|63.0|4.0|Journal of Experimental Child Psychology|Speech Perception Deficits in Poor Readers: Auditory Processing or Phonological Coding?.
+1998|117.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Neuroimaging studies of word reading
+1999|68.0|6.0|Journal of Memory and Language|Probabilistic Phonotactics and Neighborhood Activation in Spoken Word Recognition
+2000|148.0|6.0|Brain|Identification of a pathway for intelligible speech in the left temporal lobe.
+2001|111.0|9.0|Brain|Separate neural subsystems within 'Wernicke's area'.
+2002|211.0|8.0|Infant Behavior & Development|Cross-language speech perception: Evidence for perceptual reorganization during the first year of life
+2003|175.0|10.5|Trends in Neurosciences|The neuroanatomical and functional organization of speech perception
+2004|242.0|9.0|Cognition|Dorsal and ventral streams: a framework for understanding aspects of the functional anatomy of language
+2005|167.0|11.0|Cognition|The faculty of language: what's special about it?
+2006|102.0|10.0|Journal of the Acoustical Society of America|A glimpsing model of speech perception in noise
+2007|145.0|10.0|Proceedings of the National Academy of Sciences of the United States of America|Musicians have enhanced subcortical auditory and audiovisual processing of speech and music
+2008|127.0|11.5|Philosophical Transactions of the Royal Society B|Speech perception at the interface of neurobiology and linguistics
+2009|385.0|11.0|Nature Neuroscience|Maps and streams in the auditory cortex: nonhuman primates illuminate human speech processing
+2010|124.0|10.0|Quarterly Journal of Experimental Psychology|What phonological deficit?

@@ -1,0 +1,54 @@
+----  Field Name Quadratic programming: 
+----  Field Level 2.0: 
+----  Field Papers Number 5079:
+----  All time max citation paper: Least Squares Support Vector Machine Classifiers, 1999, (1666.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|2.0|2.0|Management Science|Quadratic Programming as an Extension of Classical Quadratic Maximization
+1963|1.0|1.0|Operations Research|A Simplified Procedure for Quadratic Programming
+1964|1.0|0.5|Probability Theory and Related Fields|ON DIRECT SUMS AND TENSOR PRODUCTS OF NON-LINEAR PROGRAMS,
+1966|2.0|2.0|Journal of The Franklin Institute-engineering and Applied Mathematics|Optimal design of digitally compensated systems by quadratic programming
+1967|10.0|8.0|Linear Algebra and its Applications|COMPLEMENTARY PIVOT THEORY OF MATHEMATICAL PROGRAMMING
+1968|0|0.0|Bulletin of the American Mathematical Society|Geometric programming: A unified duality theory for quadratically constrained quadratic programs and _{}-constrained _{}-approximation problems
+1969|6.0|6.0|Journal of Mathematical Analysis and Applications|SOME RESULTS ON TCHEBYCHEFFIAN SPLINE FUNCTIONS.
+1970|4.0|3.0||Numerical techniques in mathematical programming
+1971|5.0|2.5|The Journal of General Physiology|Ouabain-Insensitive Sodium Movements in the Human Red Blood Cell
+1972|4.0|2.0|International Journal of Solids and Structures|A Quantitative Study of a Crystalline Aggregate Model.
+1973|4.0|1.0|Computer Methods in Applied Mechanics and Engineering|A modified gradient method for finite element elastoplastic analysis by quadratic programming
+1974|3.0|3.0|Physics of the Earth and Planetary Interiors|Pre-seismic crustal deformation caused by an underthrusting oceanic plate, in eastern Hokkaido, Japan
+1975|2.0|1.5|Water Resources Research|Identifying the parameters of an aquifer cell model
+1976|6.0|2.0|Mathematical Programming|On a Class of Least-Element Complementarity Problems.
+1977|4.0|2.0|Journal of Optimization Theory and Applications|Solution of symmetric linear complementarity problems by iterative methods
+1978|78.0|2.0|FEBS Journal|The Interrelations between the Transport of Sodium and Calcium in Mitochondria of Various Mammalian Tissues
+1979|10.0|1.0|American Journal of Hematology|Reduced ferrochelatase activity in fibroblasts from patients with porphyria variegata
+1980|10.0|3.0|FEBS Letters|The activation by potassium of the sodiumcalcium carrier of cardiac mitochondria
+1981|9.0|2.5|Siam Journal on Control and Optimization|Projected Newton methods for optimization problems with simple constraints
+1982|14.0|3.0|International Journal of Control|Component Cost Analysis of Large Scale Systems
+1983|37.0|2.0|Water Resources Research|A review of distributed parameter groundwater management modeling methods
+1984|26.0|1.0|Journal of the ACM|Linear Programming in Linear Time When the Dimension Is Fixed
+1985|4.0|2.0|Journal of Combinatorial Theory|Linear and quadratic programming in oriented matroids
+1986|13.0|1.0|Annals of Operations Research|Nlpql: a fortran subroutine solving constrained nonlinear programming problems
+1987|9.0|2.0|Automatica|The linear-quadratic optimal regulator for descriptor systems: discrete-time case
+1988|11.0|1.0|international conference on computer aided design|GORDIAN: a new global optimization/rectangle dissection method for cell placement
+1989|73.0|2.0|Automatica|Model predictive control: theory and practicea survey
+1990|10.0|2.5|Journal of Sound and Vibration|Active control of sound transmission/radiation from elastic plates by vibration inputs: I. Analysis
+1991|42.0|2.5|IEEE Transactions on Automatic Control|Filtering and smoothing in an H  setting
+1992|38.0|2.0|IEEE Transactions on Automatic Control|Model validation: a connection between robust control and identification
+1993|25.0|4.0|Journal of Optimization Theory and Applications|A Primal-Relaxed Dual Global Optimization Approach
+1994|19.0|2.0|international conference on computer aided design|Switching activity analysis considering spatiotemporal correlations
+1995|32.0|1.5|international conference on computer aided design|A sequential quadratic programming approach to concurrent gate and wire sizing
+1996|39.0|2.0|Computational Optimization and Applications|A class of smoothing functions for nonlinear and mixed complementarity problems
+1997|134.0|2.0|computer vision and pattern recognition|Training support vector machines: an application to face detection
+1998|51.0|3.0|Linear Algebra and its Applications|Applications of second-order cone programming
+1999|77.0|4.0|IEEE Transactions on Knowledge and Data Engineering|The ant system applied to the quadratic assignment problem
+2000|47.0|4.0|IEEE Transactions on Neural Networks|A fast iterative nearest point algorithm for support vector machine classifier design
+2001|159.0|2.0|Neural Computation|Estimating the Support of a High-Dimensional Distribution
+2002|322.0|5.0|Automatica|The explicit linear quadratic regulator for constrained systems
+2003|198.0|5.0|neural information processing systems|Max-margin Markov networks
+2004|143.0|4.0|Journal of Engineering Education|Does Active Learning Work? A Review of the Research
+2005|245.0|4.0|Journal of Machine Learning Research|Large Margin Methods for Structured and Interdependent Output Variables
+2006|289.0|4.0|Journal of Machine Learning Research|Large Scale Multiple Kernel Learning
+2007|374.0|3.0|IEEE Journal of Selected Topics in Signal Processing|Gradient Projection for Sparse Reconstruction: Application to Compressed Sensing and Other Inverse Problems
+2008|104.0|3.0|IEEE Transactions on Signal Processing|Distributed Beamforming for Relay Networks Based on Second-Order Statistics of the Channel State Information
+2009|119.0|3.0|Topics in Cognitive Science|ActiveConstructiveInteractive: A Conceptual Framework for Differentiating Learning Activities
+2010|310.0|4.0|IEEE Transactions on Power Systems|The Impact of Charging Plug-In Hybrid Electric Vehicles on a Residential Distribution Grid

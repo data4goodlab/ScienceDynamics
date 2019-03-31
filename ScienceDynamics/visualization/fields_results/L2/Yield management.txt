@@ -1,0 +1,34 @@
+----  Field Name Yield management: 
+----  Field Level 2.0: 
+----  Field Papers Number 1776:
+----  All time max citation paper: Supply Chain Coordination with Revenue-Sharing Contracts: Strengths and Limitations, 2005, (669.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1977|1.0|1.0|Chromatographia|Two-dimensional high resolution GLC environmental analysis, preliminary results
+1979|7.0|3.5|Journal of Geodesy|Satellite emission radio interferometric earth surveying series - GPS geodetic system
+1980|2.0|2.0|Thin Solid Films|An experimental, low-cost, silicon-aluminide high-temperature coating for superalloys
+1981|0|0.0||Evaluation of silicon-on-ceramic material for low-cost solar cells
+1985|1.0|1.0|Iee Proceedings G (electronic Circuits and Systems)|Design of precision switched-capacitor generalised integrators and their applications to the synthesis of nonlinear networks
+1988|0|0.0||Rigorous design of septate E-plane multiplexers with printed circuit elements
+1989|1.0|1.0|Journal of Operations Management|Yield management: A tool for capacity-considered service firms
+1990|2.0|1.0|Calcified Tissue International|Linear Calibration of Radiographic Mineral Density Using Video-Digitizing Methods
+1991|6.0|2.0|Management Science|On manufacturing/marketing incentives
+1992|18.0|2.0|Operations Research|A taxonomy and research overview of perishable-asset revenue management: yield management, overbooking, and pricing
+1993|18.0|2.0|Operations Research|Airline seat allocation with multiple nested fare classes
+1994|25.0|1.5|Management Science|Optimal dynamic pricing of inventories with stochastic demand over finite horizons
+1995|33.0|2.0|IEEE Transactions on Semiconductor Manufacturing|Integrated circuit yield management and yield analysis: development and implementation
+1996|17.0|3.0|Applied and Environmental Microbiology|In Situ Analyses of Methane Oxidation Associated with the Roots and Rhizomes of a Bur Reed, Sparganium eurycarpum, in a Maine Wetland.
+1997|23.0|1.0|Operations Research|A Multiproduct Dynamic Pricing Problem and Its Applications to Network Yield Management
+1998|25.0|3.0|Management Science|An Analysis of Bid-Price Controls for Network Revenue Management
+1999|77.0|4.0|Transportation Science|Revenue Management: Research Overview and Prospects
+2000|21.0|6.5|Management Science|Optimal Dynamic Pricing for Perishable Assets with Nonhomogeneous Demand
+2001|166.0|6.0|IEEE Computer|Smart Dust: communicating with a cubic-millimeter computer
+2002|39.0|4.5|Trends in Biotechnology|Artificial cells: prospects for biotechnology
+2003|63.0|3.0|PharmacoEconomics|European Healthcare Policies for Controlling Drug Expenditure
+2004|73.0|5.0|Management Science|The Allocation of Inventory Risk in a Supply Chain: Push, Pull, and Advance-Purchase Discount Contracts
+2005|260.0|4.0|Management Science|Supply Chain Coordination with Revenue-Sharing Contracts: Strengths and Limitations
+2006|99.0|5.0|Marketing Science|Customer Metrics and Their Impact on Financial Performance
+2007|67.0|5.0|Journal of Money, Credit and Banking|Accounting for Trends in Productivity and R&D: A Schumpeterian Critique of SemiEndogenous Growth Theory
+2008|116.0|5.5|Economics Bulletin|A model of parallel imports of pharmaceuticals with endogenous price controls
+2009|136.0|4.0|Advanced Materials|Toward the Development of Printable Nanowire Electronics and Sensors
+2010|125.0|4.0|Journal of Materials Chemistry|Dye-sensitized solar cells based on poly (3,4-ethylenedioxythiophene) counter electrode derived from ionic liquids

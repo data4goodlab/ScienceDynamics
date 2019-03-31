@@ -1,0 +1,50 @@
+----  Field Name Microbial ecology: 
+----  Field Level 2.0: 
+----  Field Papers Number 5078:
+----  All time max citation paper: Introducing DOTUR, a Computer Program for Defining Operational Taxonomic Units and Estimating Species Richness, 2005, (1689.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1961|0|0.0||Factors limiting microbial activities in soil. II: The effect of sulfur
+1962|13.0|6.5|Archives of Oral Biology|Intracellular polysaccharide storage by organisms in dental plaques: Its relation to dental caries and microbial ecology of the oral cavity
+1965|0|0.0|Mycopathologia|A model for rhythmic and temperature-independent growth in clock mutants of neurospora
+1966|1.0|1.0|Plant and Soil|Microbial colonization of soil aggregates as affected by temperature
+1969|0|0.0|Archives of Microbiology|Observations on some cellulosic chytridiaceous fungi
+1971|3.0|3.0|Journal of Experimental Marine Biology and Ecology|Regenerative functions and microbial ecology of coral reefs: Labelled bacteria in a coral reef microcosm
+1973|1.0|0.5|BioScience|Microorganisms and Chemical Pollution.
+1974|1.0|0.5|Archives of Microbiology|Hyperproduction of some glycosidases in Neurospora crassa
+1975|0|0.0|Archives of Microbiology|Zoosporic fungi from Tunisia, and the Seychelles Islands (Indian Ocean)
+1976|9.0|9.0|Microbial Ecology|The microbial ecology of the Great Salt Lake
+1977|4.0|4.0|Mycopathologia|Comparative recoveries of airborne fungus spores by viable and non-viable modes of volumetric collection
+1978|3.0|2.0|Mycopathologia|Fungi in libraries: An aerometric survey
+1979|6.0|2.0|Journal of Investigative Dermatology|Updated in vivo Methods for Evaluating Topical Antimicrobial Agents on Human Skin
+1980|3.0|1.0|Soil Biology & Biochemistry|Ethidium bromide: a general purpose fluorescent stain for nucleic acid in bacteria and eucaryotes and its use in microbial ecology studies.
+1981|9.0|4.0|Hydrobiologia|Microbial ecology of an Antarctic saline meromictic lake
+1982|18.0|9.5|Soil Biology & Biochemistry|Enzyme activity in soil: Location and a possible role in microbial ecology
+1983|9.0|3.0|Journal of Microbiological Methods|Biomass measurement of methane forming bacteria in environmental samples
+1984|8.0|1.0|Fems Microbiology Letters|Effect of temperature and pH on the hopanoid content of Bacillus acidocaldarius
+1985|13.0|4.0|Geomicrobiology Journal|Microbial biomass and productivity in seagrass beds
+1986|17.0|5.0|Organic Geochemistry|Peculiarities of salt lake sediments as potential source rocks in China
+1987|16.0|4.0|Systematic and Applied Microbiology|Were the original eubacteria thermophiles?
+1988|24.0|2.5||Use of Specific Inhibitors in Biogeochemistry and Microbial Ecology
+1989|13.0|4.0|BioScience|Lipid Analysis in Microbial Ecology
+1990|13.0|2.0|Journal of Dairy Science|Recent Advances in Rumen Microbial Ecology and Metabolism: Potential Impact on Nutrient Output
+1991|13.0|4.0|Fems Microbiology Letters|Sulfatereducing bacteria in littoral sediment of Lake Constance
+1992|11.0|2.0|Biodiversity and Conservation|Unculturable microbes detected by molecular sequences and probes
+1993|29.0|4.5|Trends in Genetics|Nucleotide excision repair I: from E. coli to yeast
+1994|49.0|5.0|Chemical Geology|Factors influencing organic carbon preservation in marine sediments.
+1995|38.0|7.0|Organic Geochemistry|Molecular indicators for palaeoenvironmental change in a Messinian evaporitic sequence (Vena del Gesso, Italy). II: High-resolution variations in abundances and 13 C contents of free and sulphur-bound carbon skeletons in a single marl bed
+1996|62.0|5.0|Applied and Environmental Microbiology|Characterization of universal small-subunit rRNA hybridization probes for quantitative molecular microbial ecology studies.
+1997|65.0|9.0|Applied and Environmental Microbiology|Oligonucleotide microchips as genosensors for determinative and environmental studies in microbiology.
+1998|129.0|7.0|Microbial Ecology|Microbial Evolution, Diversity, and Ecology: A Decade of Ribosomal RNA Analysis of Uncultivated Microorganisms
+1999|140.0|7.0|Applied and Environmental Microbiology|Combination of Fluorescent In Situ Hybridization and Microautoradiographya New Tool for Structure-Function Analyses in Microbial Ecology
+2000|184.0|12.0|Applied and Environmental Microbiology|Cloning the soil metagenome: a strategy for accessing the genetic and functional diversity of uncultured microorganisms.
+2001|173.0|12.0|Applied and Environmental Microbiology|Counting the uncountable: statistical approaches to estimating microbial diversity
+2002|173.0|16.0|Applied and Environmental Microbiology|Culture-Independent Analysis of Gut Bacteria: the Pig Gastrointestinal Tract Microbiota Revisited
+2003|175.0|20.0|Annual Review of Microbiology|Microbial Ecology and Evolution: A Ribosomal RNA Approach
+2004|259.0|16.0|Microbiology and Molecular Biology Reviews|Metagenomics: Application of Genomics to Uncultured Microorganisms
+2005|828.0|13.0|Applied and Environmental Microbiology|Introducing DOTUR, a Computer Program for Defining Operational Taxonomic Units and Estimating Species Richness
+2006|606.0|15.0|Proceedings of the National Academy of Sciences of the United States of America|Microbial diversity in the deep sea and the underexplored rare biosphere
+2007|510.0|14.5|Nucleic Acids Research|The ribosomal database project (RDP-II): introducing myRDP space and quality controlled public data
+2008|356.0|20.0|Nature|Functional metagenomic profiling of nine biomes
+2009|217.0|19.0|The ISME Journal|A comprehensive survey of soil acidobacterial diversity using pyrosequencing and clone library analyses
+2010|482.0|21.0|Science|Evolution of MRSA During Hospital Transmission and Intercontinental Spread

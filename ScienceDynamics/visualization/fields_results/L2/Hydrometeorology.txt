@@ -1,0 +1,62 @@
+----  Field Name Hydrometeorology: 
+----  Field Level 2.0: 
+----  Field Papers Number 4738:
+----  All time max citation paper: An overview of APSIM, a model designed for farming systems simulation, 2003, (826.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1939|1.0|1.0|Digestive Diseases and Sciences|Management of peptic ulcer hemorrhage
+1940|2.0|2.0|American Heart Journal|The influence of digitalis on the electrolyte and water balance of heart muscle
+1945|3.0|3.0|Biological Reviews|THE EFFECT OF NEUROHYPOPHYSIAL EXTRACTS ON THE WATER BALANCE OF LOWER VERTEBRATES
+1946|7.0|7.0|Parasitology|The water balance in Ixodes ricinus L. and certain other species of ticks.
+1950|0|0.0|Digestive Diseases and Sciences|The relation of bile loss to water balance in the rat
+1951|2.0|2.0|Journal of Experimental Zoology|The effects of desiccation and starvation on the humidity behavior and water balance of Tribolium confusum and Tribolium castaneum
+1958|0|0.0|New Phytologist|THE RELATION OF LEAF WATER DEFICIT TO SOIL MOISTURE TENSION IN PINUS SYLVESTRIS L.. I. THE EFFECT OF SOIL MOISTURE ON DIURNAL CHANGES IN WATER BALANCE
+1960|1.0|1.0|Experimental Neurology|Posterior hypothalamic influence on water balance in the rat
+1962|0|0.0|Journal of Investigative Dermatology|A New Micro Method for Measuring the Water-Balance of the Human Skin. Salt Crystal Method
+1963|3.0|3.0|General and Comparative Endocrinology|The influence of thyroxine on the sodium, chloride, and water balance of the toad Bufo bufo
+1965|11.0|6.5|Journal of Zoology|Neurosecretion and water balance in the male desert locust (Schistocerca gregaria)
+1966|5.0|5.0|Comparative Biochemistry and Physiology|Salt and water balance in selected crabs of madagascar
+1967|7.0|2.0|Journal of Insect Physiology|Feeding activity, sexual maturation, hormones, and water balance in the female African migratory locust
+1968|14.0|2.5|Nature|Drinking Rates and Gill Ionic Turnover in relation to External Salinities in the Eel
+1969|9.0|4.0|Annals of the New York Academy of Sciences|EARLY SYSTEMIC RESPONSES TO OROGASTRIC STIMULATION IN THE REGULATION OF FOOD AND WATER BALANCE: FUNCTIONAL AND ELECTROPHYSIOLOGICAL DATA
+1970|11.0|2.0|Comparative Biochemistry and Physiology|Respiratory metabolism and body water turnover rates of Perognathus formosus in its natural environment
+1971|4.0|0.5|The Journal of Pediatrics|Fluid intake, renal solute load, and water balance in infancy
+1972|7.0|4.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Water and electrolyte budgets of a free-living desert lizard, Sauromalus obesus
+1973|7.0|3.5|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|The influence of swimming activity on sodium balance in the rainbow trout ( Salmo gairdneri )
+1974|12.0|1.0|Water Resources Research|Field test of a modified numerical model for water uptake by root systems
+1975|6.0|2.0||Acute blood biochemical alterations in response to marathon running
+1976|9.0|2.0|Planetary and Space Science|Diurnal behaviour of water on mars
+1977|27.0|2.0|Nature|Prostaglandin E2-9-ketoreductase as a mediator of salt intake-related prostaglandin-renin interaction
+1978|4.0|2.5|Journal of Insect Physiology|Effects of CO 2 and anoxia on feeding, growth, metabolism, water balance, and blood composition in larval female house crickets, Acheta domesticus
+1979|17.0|2.0|The Journal of Experimental Biology|Salt and Water Balance in Rainbow Trout (Salmo Gairdneri) Rapidly Transferred from Fresh Water to Sea Water
+1980|11.0|3.0|Journal of Experimental Zoology|Salt and water balance in the oligohaline clam, Rangia cuneata II. Accumulation of intracellular free amino acids during high salinity adaptation
+1981|71.0|2.0|Brain Research|The efferent projections of the subfornical organ of the rat: A circumventricular organ within a neural network subserving water balance
+1982|13.0|3.0|The Journal of Pediatrics|Water balance in very low-birth-weight infants: Relationship to water and sodium intake and effect on outcome
+1983|32.0|1.0|Journal of Hydrology|Simulation model of the water balance of a cropped soil: SWATRE
+1984|7.0|2.0|Journal of Hydrology|Recharge of the Upper Chalk aquifer at a site in Hampshire, England: 1. Water balance and unsaturated flow
+1985|19.0|2.0|Oecologia|Canopy transpiration and water fluxes in the xylem of the trunk of Larix and Picea trees  a comparison of xylem flow, porometer and cuvette measurements
+1986|14.0|4.0|The Journal of Neuroscience|Autoradiographic localization and characterization of atrial natriuretic peptide binding sites in the rat central nervous system and adrenal gland
+1987|8.0|2.5|Oecologia|Soil and plant water relations in a crested wheatgrass pasture: response to spring grazing by cattle
+1988|23.0|1.0|Cellular and Molecular Neurobiology|Atrial natriuretic peptide in the central nervous system of the rat
+1989|13.0|2.0|Water Resources Research|A physically based model of heterogeneous hillslopes: 1. Runoff production
+1990|51.0|2.0|Plant Molecular Biology|Turgor-responsive gene transcription and RNA levels increase rapidly when pea shoots are wilted. Sequence and expression of three inducible genes.
+1991|13.0|2.0|Landscape Ecology|Toward a rule-based biome model
+1992|27.0|2.0|Oecologia|A generalized, lumped-parameter model of photosynthesis, evapotranspiration and net primary production in temperate and boreal forest ecosystems
+1993|19.0|3.0|Journal of Vegetation Science|Ecological response surfaces for North American boreal tree species and their use in forest classification
+1994|25.0|2.0|Journal of Vegetation Science|A global perspective of regional vegetation and hydrologic sensitivities from climatic change
+1995|28.0|2.0|Kidney International|The aquaporin family of water channels in kidney
+1996|76.0|3.0|Global Biogeochemical Cycles|An integrated biosphere model of land surface processes, terrestrial carbon balance, and vegetation dynamics
+1997|43.0|4.0|Brain Research Reviews|Important roles for angiotensin III and IV in the brain renin-angiotensin system
+1998|68.0|5.0|Quaternary Science Reviews|Paleoclimate simulations for North America over the past 21,000 years: features of the simulated climate and comparisons with paleoenvironmental data
+1999|85.0|5.0|Global Change Biology|Comparing global models of terrestrial net primary productivity (NPP): overview and key results
+2000|62.0|7.0|Biochimica et Biophysica Acta|The role of aquaporins in cellular and whole plant water balance.
+2001|154.0|7.5|Bulletin of the American Meteorological Society|FLUXNET: A new tool to study the temporal and spatial variability of ecosystem-scale carbon dioxide, water vapor, and energy flux densities
+2002|116.0|7.0|The Lancet|Effect of salt and water balance on recovery of gastrointestinal function after elective colonic resection: a randomised controlled trial
+2003|167.0|6.0|European Journal of Agronomy|An overview of APSIM, a model designed for farming systems simulation
+2004|110.0|8.0|Journal of Hydrology|Terrestrial vegetation and water balancehydrological evaluation of a dynamic global vegetation model
+2005|68.0|7.0|Meteorology and Atmospheric Physics|The East Asian summer monsoon : an overview
+2006|176.0|8.0|Annals of Forest Science|Temperate forest trees and stands under severe drought: a review of ecophysiological responses, adaptation processes and long-term consequences
+2007|124.0|10.0|Agricultural and Forest Meteorology|Evidence for soil water control on carbon and water dynamics in European forests during the extremely dry year: 2003
+2008|143.0|9.0|Hydrological Processes|Recent advances in stream and river temperature research
+2009|283.0|8.0|Agronomy for Sustainable Development|Plant drought stress: Effects, mechanisms and management
+2010|264.0|9.0|Journal of Climate|A Multiscalar Drought Index Sensitive to Global Warming: The Standardized Precipitation Evapotranspiration Index

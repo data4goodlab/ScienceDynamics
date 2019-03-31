@@ -1,0 +1,43 @@
+----  Field Name Mesoscopic physics: 
+----  Field Level 2.0: 
+----  Field Papers Number 1806:
+----  All time max citation paper: Visual interpretation of hand gestures for human-computer interaction: a review, 1997, (876.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1966|0|0.0|IEEE Transactions on Microwave Theory and Techniques|Quantitative Comparison of Solid-State Microwave Detectors
+1970|0|0.0|IEEE Transactions on Electron Devices|On the influence of hot carrier effects on the thermal noise of field-effect transistors
+1972|6.0|5.0|IEEE Transactions on Biomedical Engineering|Unconstrained Inverse Electrocardiography: Epicardial Potentials
+1974|8.0|5.0|IEEE Transactions on Biomedical Engineering|The active fiber in a volume conductor
+1976|5.0|2.5|IEEE Transactions on Electron Devices|Conductance of ion-implanted buried-channel MOS transistors
+1977|1.0|1.0|IEEE Transactions on Magnetics|Analytical model of a bubble switch
+1978|1.0|0.5|IEEE Transactions on Components, Hybrids, and Manufacturing Technology|Radiation Effects on Silicon Charge-Coupled Devices
+1979|0|0.0|IEEE Journal of Solid-state Circuits|A general model for the frequency response of multiphase charge transfer delay lines
+1981|2.0|2.0|Electronics Letters|High current gain in monolithic hot-electron transistors
+1982|2.0|2.0|Electronics Letters|Determination of spatial surface state density distribution in MOS and SIMOS transistors after channel hot electron injection
+1984|1.0|1.0|Iee Proceedings I Solid State and Electron Devices|Hot-carrier effects in submicrometre MOS VLSIs
+1985|3.0|2.5|Electronics Letters|MOCVD-grown AlGaAs/GaAs hot-electron transistor with a base width of 30 nm
+1986|2.0|1.0|IEEE Electron Device Letters|A simple method to evaluate device lifetime due to hot-carrier effect under dynamic stress
+1987|2.0|1.0|IEEE Electron Device Letters|Hot-carrier drifts in submicrometer p-channel MOSFET's
+1988|4.0|2.0|IEEE Electron Device Letters|Effects of localized interface defects caused by hot-carrier stress in n-channel MOSFETs at low temperature
+1989|6.0|1.0|IEEE Electron Device Letters|Degradations due to hole trapping in flash memory cells
+1990|26.0|2.0|IEEE Intelligent Systems|Validating expert systems
+1991|18.0|2.0|IEEE Journal of Quantum Electronics|Quantum well carrier sweep out: relation to electroabsorption and exciton saturation
+1992|9.0|2.0|IEEE Transactions on Electron Devices|New hot-carrier degradation mode and lifetime prediction method in quarter-micrometer PMOSFET
+1993|16.0|3.0|international test conference|Very-low-voltage testing for weak CMOS logic ICs
+1994|21.0|3.0|IEEE Transactions on Electron Devices|Scaling the MOS transistor below 0.1 /spl mu/m: methodology, device structures, and technology requirements
+1995|49.0|2.0|international conference on computer vision|Gradient flows and geometric active contour models
+1996|20.0|2.5||Multilevel flash cells and their trade-offs
+1997|114.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Visual interpretation of hand gestures for human-computer interaction: a review
+1998|32.0|3.0|IEEE Transactions on Electron Devices|Giant isotope effect in hot electron degradation of metal oxide silicon devices
+1999|46.0|3.0|IEEE Transactions on Magnetics|Progress and outlook for MRAM technology
+2000|18.0|3.0|IEEE Transactions on Electron Devices|Monte Carlo simulation of the CHISEL flash memory cell
+2001|33.0|2.0|IEEE Electron Device Letters|Characterization of channel hot electron injection by the subthreshold slope of NROM/sup TM/ device
+2002|50.0|3.0|IEEE Transactions on Electron Devices|Analytical modeling of quantization and volume inversion in thin Si-film DG MOSFETs
+2003|18.0|3.0|IEEE Transactions on Electron Devices|Effects of hot-carrier stress on the performance of the LC-tank CMOS oscillators
+2004|48.0|5.0|IEEE Transactions on Electron Devices|Investigation and modeling of interface and bulk trap generation during negative bias temperature instability of p-MOSFETs
+2005|48.0|3.0|Applied Physics Letters|Terahertz heterodyne receiver based on a quantum cascade laser and a superconducting bolometer
+2006|36.0|3.0|IEEE Transactions on Electron Devices|Current Collapse and High-Electric-Field Reliability of Unpassivated GaN/AlGaN/GaN HEMTs
+2007|36.0|3.0|IEEE Transactions on Microwave Theory and Techniques|Terahertz Performance of Integrated Lens Antennas With a Hot-Electron Bolometer
+2008|85.0|2.0|IEEE Transactions on Device and Materials Reliability|Reliability of GaN High-Electron-Mobility Transistors: State of the Art and Perspectives
+2009|44.0|1.0|Proceedings of the IEEE|Analog Circuit Design in Nanoscale CMOS Technologies
+2010|144.0|3.0|Journal of Applied Physics|Physical mechanisms for hot-electron degradation in GaN light-emitting diodes

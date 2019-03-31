@@ -1,0 +1,83 @@
+----  Field Name Literature: 
+----  Field Level 1.0: 
+----  Field Papers Number 42178:
+----  All time max citation paper: Angiogenesis in cancer, vascular, rheumatoid and other disease., 1995, (4278.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1915|0|0.0||William Dean Howells as a literary theorist
+1930|5.0|1.0|JAMA Pediatrics|ASSOCIATION OF KERATOMALACIA WITH OTHER DEFICIENCY DISEASES
+1932|0|0.0|JAMA Internal Medicine|CHOREA GRAVIDARUM: A STATISTICAL STUDY OF 951 COLLECTED CASES, 846 FROM THE LITERATURE AND 105 PREVIOUSLY UNREPORTED
+1933|2.0|2.0|Biological Reviews|THE PRESENT STATUS OF PLANT VIRUS RESEARCH1
+1935|0|0.0|Journal of Ecology|A Study of the Natural Control of Ragwort (Senecio jacobaea L.).
+1938|6.0|0.0|JAMA|Riboflavin. Physiology and Pathology.
+1939|2.0|1.0|Botanical Review|Transmission of Plant Viruses by Insects.
+1940|10.0|1.5|JAMA|FIFTEEN YEARS' OBSERVATION OF CHILDREN WITH RHEUMATIC HEART DISEASE
+1941|2.0|2.0|American Heart Journal|The production and study of cardiac failure in thiamin-deficient dogs.
+1942|0|0.0|Annals of Applied Biology|A MOSAIC DISEASE OF BROCCOLI
+1943|2.0|2.0|JAMA Pediatrics|EFFECTS OF DISEASE ON NUTRITION: I. ABSORPTION, STORAGE AND UTILIZATION OF VITAMIN A IN THE PRESENCE OF DISEASE
+1944|5.0|2.5|American Heart Journal|Congestive heart failure and electrocardiographic abnormalities resulting from excessive desoxycorticosterone acetate therapy in the treatment of Addison's disease.
+1946|2.0|2.0|Transactions of The British Mycological Society|New or interesting British fungi.
+1947|3.0|3.0|British Journal of Nutrition|Formation of fluorescent pigment in vitamin E deficiency.
+1948|2.0|2.0|The American Journal of Medicine|Effects of immobilization upon various metabolic and physiologic functions of normal men
+1949|1.0|0.0|Bulletin of Entomological Research|The Biology of Laemophloeus minutus Oliv. (Col. Cucujidae)
+1950|14.0|1.0|Biological Reviews|Ecology of the root-inhabiting fungi.
+1951|0|0.0|Transactions of The British Mycological Society|Cultural studies on Ascochyta rabiei with special reference to zonation
+1952|4.0|4.0|JAMA Internal Medicine|CONDITION OF THE HEART FOLLOWING BERIBERI AND MALNUTRITION
+1953|0|0.0|American Heart Journal|Effect of edema and dietary sodium on efficacy of sodium removal by cation exchange resin.
+1954|9.0|3.0|Journal of Dairy Science|Relative Value of Carotene from Alfalfa and Vitamin A from a Dry Carrier Fed at Minimum Levels to Holstein Calves
+1955|11.0|5.5|JAMA Internal Medicine|SYSTEMIC MONILIASIS AND ASPERGILLOSIS COMPLICATING CORTICOTROPIN THERAPY
+1956|9.0|4.5|The New England Journal of Medicine|METALLOENZYMES AND MYOCARDIAL INFARCTION. II. MALIC AND LACTIC DEHYDROGENASE ACTIVITIES AND ZINC CONCENTRATIONS IN SERUM
+1957|14.0|1.0|Biochimica et Biophysica Acta|The possible rle of -tocopherol in the respiratory chain I. The identification and quantitative determination of -tocopherol in respiratory chain preparations
+1958|0|0.0|Journal of the American Oil Chemists' Society|The metabolism of triglycerides containing cis and trans octadecenoic fatty acids.
+1959|12.0|6.0|JAMA Internal Medicine|The Syndrome of Acute Disseminated Moniliasis in Adults
+1960|19.0|2.0|The Lancet|SERUM-TRIGLYCERIDE LEVELS IN SOUTH AFRICAN EUROPEANS AND BANTU AND IN ISCHMIC HEART-DISEASE
+1961|5.0|1.5|The Lancet|Change of diet of Yemenite Jews in relation to diabetes and ischaemic heart-disease.
+1962|6.0|2.5|Journal of Dairy Science|Effect of Level of Ration Intake and Duration of Vitamin A Deficiency Upon Some Biochemical Constituents in Serum, Cerebrospinal Fluid, and Aqueous Humor of Holstein Calves Fed Fixed Carotene Intakes1
+1963|7.0|3.0|Nature|Partial Recovery of Glutamic-oxaloacetic Transaminase Activity in the Infarcted Areas of the Myocardium in Rabbits during Stimulation of Protein Synthesis
+1964|60.0|2.0|The New England Journal of Medicine|Virologic and Serologic Studies on Human Products of Conception after Maternal Rubella.
+1965|10.0|2.0|Biochemical and Biophysical Research Communications|The distribution of galactitol in tissues of rats fed galactose.
+1966|9.0|0.5|JAMA|-Globulin in the Prophylaxis of Posttransfusion Hepatitis.
+1967|4.0|0.0|The Journal of Pediatrics|Congenital rubella encephalitis. Course and early sequelae.
+1968|18.0|3.0|Journal of Cell Biology|MITOSIS IN DEVELOPING CARDIAC MUSCLE
+1969|15.0|2.0|Journal of Clinical Investigation|Ventricular function in noncardiacs with alcoholic fatty liver: role of ethanol in the production of cardiomyopathy
+1970|30.0|2.0|Journal of Geophysical Research|Electron observations between the inner edge of the plasma sheet and the plasmasphere
+1971|14.0|1.0|Journal of Clinical Investigation|The effects of intra-aortic counterpulsation on cardiac performance and metabolism in shock associated with acute myocardial infarction
+1972|15.0|2.0|The Journal of General Physiology|Changes in membrane properties of chick embryonic hearts during development.
+1973|10.0|2.0|The Journal of General Physiology|Ion Levels and Membrane Potential in Chick Heart Tissue and Cultured Cells
+1974|16.0|1.0|Geochimica et Cosmochimica Acta|Trace elements in primitive meteorites. V - Abundance patterns of thirteen trace elements and interelement relationships in enstatite chondrites
+1975|12.0|2.0|Journal of Clinical Investigation|Regulation of postocclusive hyperemia by endogenously synthesized prostaglandins in the dog heart.
+1976|32.0|2.0|Cancer|Mantle irradiation in Hodgkin's disease. An analysis of technique, tumor eradication, and complications.
+1977|32.0|3.0|Journal of Chronic Diseases|Competitive drive, pattern a, and coronary heart disease: A further analysis of some data from the Western Collaborative Group Study
+1978|59.0|2.5|The New England Journal of Medicine|Coronary vasospasm as a possible cause of myocardial infarction: a conclusion derived from the study of preinfrarction angina
+1979|15.0|3.0|Child Development|Dominance Hierarchies in Groups of Early Adolescents.
+1980|38.0|3.0|The Lancet|Frequency of alcohol consumption and morbidity and mortality: the Yugoslavia Cardiovascular Disease Study.
+1981|33.0|1.0|American Journal of Cardiology|Quantitative radionuclide angiography in assessment of hemodynamic changes during upright exercise: Observations in normal subjects, patients with coronary artery disease and patients with aortic regurgitation
+1982|59.0|2.0|The Lancet|ASSOCIATION BETWEEN CARDIOVASCULAR DEATH AND MYOCARDIAL INFARCTION AND SERUM SELENIUM IN A MATCHED-PAIR LONGITUDINAL STUDY
+1983|163.0|2.0|The New England Journal of Medicine|The spirochetal etiology of Lyme disease.
+1984|64.0|2.0|Acta Physiologica Scandinavica|Effects of neuropeptide Y (NPY) on mechanical activity and neurotransmission in the heart, vas deferens and urinary bladder of the guineapig
+1985|130.0|2.0|European Journal of Pharmacology|Co-existence of substance P and calcitonin gene-related peptide-like immunoreactivities in sensory nerves in relation to cardiovascular and bronchoconstrictor effects of capsaicin
+1986|63.0|2.5|The New England Journal of Medicine|Reversibility of cardiac wall-motion abnormalities predicted by positron tomography.
+1987|107.0|3.0|Peptides|Calcitonin gene-related peptide (CGRP) in capsaicin-sensitive substance P-immunoreactive sensory neurons in animals and man: Distribution and release by capsaicin
+1988|83.0|2.0||iWarp: an integrated solution to high-speed parallel computing
+1989|37.0|2.0|Progress in Cardiovascular Diseases|Myocardial metabolism in ischemic heart disease: basic principles and application to imaging by positron emission tomography.
+1990|134.0|2.0|The New England Journal of Medicine|Enhanced detection of ischemic but viable myocardium by the reinjection of thallium after stress-redistribution imaging
+1991|95.0|2.0|IEEE Transactions on Software Engineering|The x-Kernel: an architecture for implementing network protocols
+1992|100.0|2.0|British Journal of Pharmacology|Induction and potential biological relevance of a Ca2+independent nitric oxide synthase in the myocardium
+1993|54.0|2.0|Child Development|Age and Gender Differences in Children's Self- and Task Perceptions during Elementary School.
+1994|48.0|2.0|The Lancet|Central nervous pathways mediating angina pectoris
+1995|599.0|4.0|Nature Medicine|Angiogenesis in cancer, vascular, rheumatoid and other disease.
+1996|138.0|3.0|Educational Researcher|Situated Learning and Education
+1997|154.0|3.0||Randomised, placebo-controlled trial of carvedilol in patients with congestive heart failure due to ischaemic heart disease
+1998|89.0|4.0|Trends in Pharmacological Sciences|Adenosine A3 receptors: novel ligands and paradoxical effects
+1999|233.0|4.0|Journal of Clinical Investigation|Cardiomyocytes can be generated from marrow stromal cells in vitro
+2000|174.0|5.0|Journal of Clinical Investigation|Edg-1, the G proteincoupled receptor for sphingosine-1-phosphate, is essential for vascular maturation
+2001|137.0|4.0|Journal of Clinical Investigation|Statins as antioxidant therapy for preventing cardiac myocyte hypertrophy
+2002|454.0|5.0|Journal of the American College of Cardiology|Guidelines for the ultrasound assessment of endothelial-dependent flow-mediated vasodilation of the brachial artery: a report of the International Brachial Artery Reactivity Task Force
+2003|301.0|6.0|Annual Review of Physiology|Hyperpolarization-Activated Cation Currents: From Molecules to Physiological Function
+2004|459.0|5.0|BMJ|Mortality in relation to smoking: 50 years' observations on male British doctors
+2005|362.0|5.0|Nature|Postnatal isl1|[plus]| cardioblasts enter fully differentiated cardiomyocyte lineages
+2006|258.0|5.0|Nature Medicine|Interleukin-10 determines viral clearance or persistence in vivo
+2007|516.0|6.0|Medicine and Science in Sports and Exercise|Physical activity and public health : Updated recommendation for adults from the American College of Sports Medicine and the American Heart Association
+2008|889.0|5.0|Nature Medicine|Amyloid-beta protein dimers isolated directly from Alzheimer's brains impair synaptic plasticity and memory.
+2009|573.0|6.0|Nature Medicine|CD8+ effector T cells contribute to macrophage recruitment and adipose tissue inflammation in obesity
+2010|375.0|5.0|Nature|Zebrafish heart regeneration occurs by cardiomyocyte dedifferentiation and proliferation.

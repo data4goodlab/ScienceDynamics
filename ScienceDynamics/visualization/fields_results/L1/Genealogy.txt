@@ -1,0 +1,59 @@
+----  Field Name Genealogy: 
+----  Field Level 1.0: 
+----  Field Papers Number 9813:
+----  All time max citation paper: Number and Migratory Activity of Circulating Endothelial Progenitor Cells Inversely Correlate With Risk Factors for Coronary Artery Disease, 2001, (1383.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1935|0|0.0|Journal of Genetics|The genetics of epiloia
+1936|0|0.0|Psychiatric Quarterly|Report of the treatment of a severe case of pellagra and alcoholism with recovery
+1937|0|0.0|Genetica|Studies in human inheritance XVII the gene-frequency analysis of double recessive inheritance involving one autosomal and one sex-linked gene substitution
+1947|1.0|1.0|Digestive Diseases and Sciences|Sugar tolerance tests  Methods and evaluation
+1949|0|0.0|Digestive Diseases and Sciences|An internist looks at carcinoma of the gall bladder
+1951|0|0.0|Digestive Diseases and Sciences|Heredity and diabetes
+1961|1.0|1.0|Diseases of The Colon & Rectum|Gardner's Syndrome" Heredofamilial Adenomatosis Associated with "Soft and Hard" Fibrous Tumors and Epidermoid Cysts*
+1962|8.0|8.0|The New England Journal of Medicine|Primary Acquired Agammaglobulinemia, with a Family History of Collagen Disease and Hematologic Disorders
+1963|0|0.0|The American Journal of Medicine|Taking the family history
+1965|5.0|2.5|Journal of Psychiatric Research|Affective disorder: VI. A family history study of prevalences, sex differences and possible genetic factors
+1966|1.0|0.0|Annals of Dyslexia|Reading and speech problems as expressions of a specific language disability
+1968|0|0.0|Human Genetics|Fortuitous detection of a sporadic carrier of Duchenne's muscular dystrophy
+1969|4.0|3.0|Metabolism-clinical and Experimental|Response of growth hormone (GH), FFA, blood sugar and insulin to exercise in obese patients and normal subjects
+1971|3.0|2.0|Social Psychiatry and Psychiatric Epidemiology|Suicide following bereavement of parents
+1972|6.0|0.0|Annals of the New York Academy of Sciences|FAMILY HISTORY AND HALFSIBLING RESEARCH IN ALCOHOLISM*
+1973|7.0|1.0|The American Journal of Medicine|Age, race, sex and other indices of risk in hypertension
+1974|5.0|1.0|Diabetologia|Equal incidence of adult-onset diabetes among ancestors of juvenile diabetics and nondiabetics
+1975|7.0|0.0|European Archives of Psychiatry and Clinical Neuroscience|Some recent developments in psychiatric genetics
+1976|45.0|3.0|Neuropsychologia|The effects of handedness, family history and sex on the performance of a dichotic listening task
+1977|6.0|0.0|Acta Paediatrica|Atopic disease in seven-year-old children. Incidence in relation to family history.
+1978|5.0|4.0|Diabetologia|HLA-Typing in Juvenile Diabetics with and without Positive Family History and in Families with One and Two Diabetic Siblings
+1979|45.0|2.0|Nature|Reduced thermogenesis in obesity
+1980|9.0|3.0|Pharmacology, Biochemistry and Behavior|Biological markers: Metabolism and acute reactions to alcohol in sons of alcoholics
+1981|13.0|2.0|Journal of Behavioral Medicine|Family history of hypertension, gender, and cardiovascular reactivity and stereotypy during stress
+1982|13.0|2.0|Child Development|Effects of Stress and Social Supports on Mother-Child Interactions in Single and Two-Parent Families.
+1983|12.0|1.0|Journal of Psychosomatic Research|Young adults at risk for hypertension: Effects of family history and anger management in determining responses to interpersonal conflict
+1984|14.0|3.5|Human Genetics|Familial DiGeorge syndrome and associated partial monosomy of chromosome 22.
+1985|80.0|4.0|Annals of Neurology|Developmental dyslexia: four consecutive patients with cortical anomalies.
+1986|38.0|3.0|Nature|Tight linkage between a splicing mutation and a specific DNA haplotype in phenylketonuria
+1987|21.0|3.0|Cancer|Family history of colorectal cancer as a marker of potential malignancy within a screening program
+1988|35.0|4.0|American Journal of Public Health|Why does family homelessness occur? A case-control study.
+1989|46.0|1.0|JAMA|Allelic Loss in Colorectal Carcinoma
+1990|69.0|4.0|JAMA|Population and Pedigree Studies Reveal a Lack of Association Between the Dopamine D2 Receptor Gene and Alcoholism
+1991|27.0|3.0|Brain and Language|Phenotypic profiles of language-impaired children based on genetic/family history
+1992|36.0|2.0|Journal of Neuroscience Research|Proliferation and differentiation of O4+ oligodendrocytes in postnatal rat cerebellum: Analysis in unfixed tissue slices using antiglycolipid antibodies
+1993|51.0|3.0|JAMA|Family History, Age, and Risk of Breast Cancer: Prospective Data From the Nurses' Health Study
+1994|52.0|3.0|Journal of Child Psychology and Psychiatry|A CaseControl Family History Study of Autism
+1995|117.0|4.0|JAMA|A Collaborative Survey of 80 Mutations in the BRCA1 Breast and Ovarian Cancer Susceptibility Gene: Implications for Presymptomatic Testing and Screening
+1996|122.0|4.0|Nature Genetics|Two stage genome|[ndash]|wide search in inflammatory bowel disease provides evidence for susceptibility loci on chromosomes 3, 7 and 12
+1997|79.0|5.0|American Journal of Human Genetics|Tests for Linkage and Association in Nuclear Families
+1998|184.0|6.0|American Journal of Human Genetics|A Sibship Test for Linkage in the Presence of Association: The Sib Transmission/Disequilibrium Test
+1999|176.0|7.0|American Journal of Human Genetics|A Generalization of the Transmission/Disequilibrium Test for Uncertain-Haplotype Transmission
+2000|301.0|8.0|Nature Medicine|A mutation in a case of early onset narcolepsy and a generalized absence of hypocretin peptides in human narcoleptic brains
+2001|306.0|7.0|Circulation Research|Number and Migratory Activity of Circulating Endothelial Progenitor Cells Inversely Correlate With Risk Factors for Coronary Artery Disease
+2002|259.0|9.0|Diabetes|Elevated Levels of Acute-Phase Proteins and Plasminogen Activator Inhibitor-1 Predict the Development of Type 2 Diabetes The Insulin Resistance Atherosclerosis Study
+2003|653.0|9.0|Gastroenterology|Colorectal cancer screening and surveillance: clinical guidelines and rationale-Update based on new evidence.
+2004|185.0|8.0|Diabetes|Replication of an Association Between the Lymphoid Tyrosine Phosphatase Locus (LYP/PTPN22) With Type 1 Diabetes, and Evidence for Its Role as a General Autoimmunity Locus
+2005|448.0|9.0|Annual Review of Neuroscience|ADULT NEUROGENESIS IN THE MAMMALIAN CENTRAL NERVOUS SYSTEM
+2006|435.0|8.0|Nature|Mutations in progranulin cause tau-negative frontotemporal dementia linked to chromosome 17
+2007|288.0|8.0|CA: A Cancer Journal for Clinicians|American Cancer Society guidelines for breast screening with MRI as an adjunct to mammography.
+2008|299.0|7.0|Human Heredity|Likelihood-based association analysis for nuclear families and unrelated subjects with missing genotype data.
+2009|460.0|7.0|American Journal of Human Genetics|A unified approach to genotype imputation and haplotype-phase inference for large data sets of trios and unrelated individuals.
+2010|1323.0|7.0|PLOS ONE|The Association between Proximity to Animal Feeding Operations and Community Health: A Systematic Review

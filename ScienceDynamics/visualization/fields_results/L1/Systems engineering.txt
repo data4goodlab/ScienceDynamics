@@ -1,0 +1,53 @@
+----  Field Name Systems engineering: 
+----  Field Level 1.0: 
+----  Field Papers Number 5561:
+----  All time max citation paper: Solar engineering of thermal processes, 1991, (2972.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1959|0|0.0|Management Science|The Systems Research Laboratory's Air Defense Experiments
+1963|2.0|2.0|Journal of Chemical Physics|Effect of Penetrating Radiation on the Production of Persistent Internal Polarization in ElectretForming Materials
+1966|15.0|0.0|Journal of the ACM|Time-Shared Computer Operations With Both Interarrival and Service Times Exponential
+1967|5.0|5.0|Information & Computation|Optimal waveform design via control theoretic concepts
+1968|0|0.0||A radiator concept based on capillary retention of liquid
+1969|7.0|1.0|Automatica|Identification in automatic control systems
+1970|14.0|1.0|Icarus|Television experiment for Mariner Mars 1971
+1971|4.0|1.0|International Journal of Control|Synthesis of feedback systems with large plant ignorance for prescribed time domain tolerances
+1972|5.0|2.5|Journal of Mathematical Analysis and Applications|An optimum settling problem for time lag systems.
+1973|5.0|0.0|Automatica|Synthesis of cascaded multiple-loop feedback systems with large plant parameter ignorance.
+1974|8.0|7.0|Review of Educational Research|Incentives for Innovation in the Public Schools.
+1975|24.0|2.0|Solar Energy|Solar ponds for space heating
+1976|6.0|0.5|Journal of The Franklin Institute-engineering and Applied Mathematics|Large-scale systems: stability, complexity, reliability
+1977|11.0|1.0|IEEE Transactions on Communications|The Throughput of Packet Broadcasting Channels
+1978|96.0|2.0|Communications of The ACM|Abstract data types and software validation
+1979|30.0|1.0|Solar Energy|A general design method for closed-loop solar energy systems
+1980|30.0|1.0|foundations of computer science|Area-Efficient Graph Layouts (for VLSI).
+1981|8.0|1.5|International Journal of Hydrogen Energy|Advanced unipolar electrolysis
+1982|17.0|1.0|Solar Energy|Design, analysis and optimization of solar industrial process heat plants without storage
+1983|9.0|2.0||MAPS : the organization of a spatial database system using imagery, terrain, and map data
+1984|33.0|3.0|Artificial Intelligence|Qualitative analysis of MOS circuits
+1985|31.0|1.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Representation of Activity Knowledge for Project Management
+1986|40.0|2.0|international symposium on computer architecture|ATUM: a new technique for capturing address traces using microcode
+1987|103.0|3.0|IEEE Transactions on Computers|The Warp Computer: Architecture, Implementation, and Performance
+1988|47.0|2.0|IEEE Software|Characterizing the software process: a maturity framework
+1989|64.0|1.5|IEEE Intelligent Systems|Viewing knowledge bases as qualitative models
+1990|156.0|2.0|ACM Computing Surveys|Federated database systems for managing distributed, heterogeneous, and autonomous databases
+1991|332.0|1.0|American Journal of Physics|Solar engineering of thermal processes
+1992|19.0|1.0|ACM Transactions on Software Engineering and Methodology|A reference architecture for the component factory
+1993|162.0|3.0||Connectionist learning procedures
+1994|96.0|1.0|IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems|Symbolic model checking for sequential circuit verification
+1995|94.0|2.0|Journal of Personality and Social Psychology|Stereotype threat and the intellectual test performance of African Americans
+1996|65.0|3.0|IEEE Transactions on Software Engineering|Property-based software engineering measurement
+1997|36.0|1.0|IEEE Computer|Object structures for real-time systems and simulators
+1998|70.0|3.0|Computers in Industry|Reference architecture for holonic manufacturing systems: PROSA
+1999|47.0|3.0|Journal of Personality and Social Psychology|Stereotype threat effects on Black and White athletic performance
+2000|560.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Content-based image retrieval at the end of the early years
+2001|93.0|3.0|Journal of Personality and Social Psychology|On the malleability of automatic attitudes : Combating automatic prejudice with images of admired and disliked individuals
+2002|53.0|4.0||Applying the UML Performance Profile: Graph Grammar-Based Derivation of LQN Models from UML Specifications
+2003|102.0|4.0|Proceedings of the IEEE|Model-integrated development of embedded software
+2004|415.0|4.0|IEEE Transactions on Dependable and Secure Computing|Basic concepts and taxonomy of dependable and secure computing
+2005|71.0|3.0|Information Systems|YAWL: yet another workflow language
+2006|84.0|4.0|software engineering and formal methods|Modeling Heterogeneous Real-time Components in BIP
+2007|220.0|3.0|Psychological Bulletin|Stigma, Obesity, and the Health of the Nation's Children.
+2008|110.0|4.0|Computers in Industry|Architectures for enterprise integration and interoperability: Past, present and future
+2009|103.0|2.0|British Journal of Social Psychology|Stereotype content model across cultures : Towards universal similarities and some differences
+2010|95.0|3.0|International Journal of Fatigue|Microstructure-sensitive computational modeling of fatigue crack formation

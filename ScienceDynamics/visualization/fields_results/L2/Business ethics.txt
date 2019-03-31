@@ -1,0 +1,40 @@
+----  Field Name Business ethics: 
+----  Field Level 2.0: 
+----  Field Papers Number 9574:
+----  All time max citation paper: The stakeholder theory of the corporation: Concepts, evidence, and implications, 1995, (2308.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1971|10.0|10.0|Psychophysiology|MULTIPLE RESPONSES WITH DIFFERENTIAL PROPERTIES IN DELAYED GALVANIC SKIN RESPONSE CONDITIONING: A REVIEW
+1974|0|0.0|Journal of Business Research|Corporate social responsibility: Its managerial impact and implications
+1975|0|0.0|Personnel Psychology|PERCEPTIONS OF CORPORATE SOCIAL RESPONSIBILITY
+1976|0|0.0|Academy of Management Review|Achieving Corporate Social Responsibility
+1977|1.0|1.0|Journal of Business Research|Social irresponsibility in management
+1979|0|0.0|Journal of Business Research|Governmental Environment and Nongovernmental Behavior: Corporate Responsiveness to Formal Integration of the European Community
+1982|0|0.0|Journal of Economics and Business|Corporate social responsibility: The debate revisited
+1984|2.0|0.0|Social Problems|The Interfaith Center on Corporate Responsibility and its Campaign Against Marketing Infant Formula in the Third World
+1985|3.0|1.0|Journal of Business Ethics|A suggested approach to linking decision styles with business ethics
+1986|3.0|1.0|Journal of Business Ethics|Environmental integrity and corporate responsibility
+1987|10.0|3.5|New Directions for Program Evaluation|The functions of program theory
+1988|9.0|1.5|Journal of Business Ethics|Will the Ethics of Business Change? A Survey of Future Executives
+1989|8.0|1.0|Journal of Business Ethics|Business ethics: A literature review with a focus on marketing ethics
+1990|13.0|1.0|Journal of Business Ethics|Toward the Development of a Multidimensional Scale for Improving Evaluations of Business Ethics
+1991|9.0|3.5|Journal of International Business Studies|A Cross-National Investigation of Industrial Salespeople's Ethical Perceptions
+1992|6.0|2.0|Accounting Organizations and Society|Determinants of corporate social responsibility disclosure: An application of stakeholder theory
+1993|15.0|1.0|Journal of Business Ethics|Empiricism in business ethics: Suggested research directions
+1994|30.0|3.5|Academy of Management Review|Toward A Unified Conception Of Business Ethics: Integrative Social Contracts Theory
+1995|89.0|1.5|Academy of Management Review|The stakeholder theory of the corporation: Concepts, evidence, and implications
+1996|27.0|1.0|Journal of the American Academy of Child and Adolescent Psychiatry|Outcomes of Mental Health Care for Children and Adolescents: I. A Comprehensive Conceptual Model
+1997|13.0|1.0|Evaluation Practice|Toward Distinguishing Empowerment Evaluation and Placing It in a Larger Context.
+1998|34.0|4.0|IEEE Transactions on Software Engineering|Inferring declarative requirements specifications from operational scenarios
+1999|25.0|3.0|American Journal of Evaluation|Have we learned anything new about the use of evaluation?
+2000|133.0|2.5|World Bank Research Observer|Social Capital: Implications for Development Theory, Research, and Policy
+2001|48.0|3.0|international conference on software engineering|A framework for multi-valued reasoning over inconsistent viewpoints
+2002|46.0|3.0|Journal of Strategic Information Systems|ONLINE TRUST: A STAKEHOLDER PERSPECTIVE, CONCEPTS, IMPLICATIONS, AND FUTURE DIRECTIONS
+2003|142.0|5.0|Administrative Science Quarterly|Misery Loves Companies: Rethinking Social Initiatives by Business
+2004|90.0|4.0|Journal of the Academy of Marketing Science|Corporate Social Responsibility and Marketing: An Integrative Framework
+2005|75.0|7.0|Mitigation and Adaptation Strategies for Global Change|Assessing vulnerabilities to the effects of global change: an eight step approach
+2006|130.0|6.0|Ecological Economics|Spatial scales, stakeholders and the valuation of ecosystem services
+2007|117.0|6.0|Academy of Management Review|TOWARD A POLITICAL CONCEPTION OF CORPORATE RESPONSIBILITY - BUSINESS AND SOCIETY SEEN FROM A HABERMASIAN PERSPECTIVE
+2008|300.0|6.0|Academy of Management Review|'Implicit' and 'Explicit' CSR: A Conceptual Framework for a Comparative Understanding of Corporate Social Responsibility
+2009|211.0|6.0|Strategic Management Journal|The relationship between corporate social responsibility and shareholder value: an empirical test of the risk management hypothesis
+2010|355.0|6.0|International Journal of Management Reviews|The Business Case for Corporate Social Responsibility: A Review of Concepts, Research and Practice

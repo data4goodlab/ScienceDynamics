@@ -1,0 +1,27 @@
+----  Field Name Relationship marketing: 
+----  Field Level 2.0: 
+----  Field Papers Number 1648:
+----  All time max citation paper: The commitment-trust theory of relationship marketing, 1994, (6328.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1989|9.0|9.0|Industrial Marketing Management|JIT procurement and relationship marketing
+1991|1.0|1.0|Cornell Hotel and Restaurant Administration Quarterly|Guest histories: An untapped service resource
+1992|0|0.0|Journal of American College Health|Relationship marketing and service quality.
+1993|7.0|4.0|Industrial Marketing Management|The implementation of relationship marketing in commercial banking
+1994|224.0|4.0|Journal of Marketing|The commitment-trust theory of relationship marketing
+1995|64.0|7.5|Journal of the Academy of Marketing Science|Relationship Marketing in Consumer Markets: Antecedents and Consequences
+1996|25.0|3.0|International Journal of Research in Marketing|The effects of trust and interdependence on relationship commitment: A trans-Atlantic study
+1997|47.0|7.0|Journal of Marketing|Market-based assets and shareholder value : a framework for analysis
+1998|65.0|2.5|Marketing Science|A Dynamic Model of the Duration of the Customer'S Relationship with a Continuous Service Provider: the Role of Satisfaction
+1999|29.0|3.0|European Management Journal|E-tribalized marketing?: the strategic implications of virtual communities of consumption
+2000|19.0|2.0|Journal of Marketing|Relationship Marketing Activities, Commitment, and Membership Behaviors in Professional Associations
+2001|21.0|3.0|European Management Journal|Cross-functional issues in the implementation of relationship marketing through customer relationship management
+2002|38.0|2.5|Industrial Marketing Management|Building customer relations over the Internet
+2003|47.0|5.0|International Journal of Research in Marketing|Cross-Selling Through Database Marketing: A Mixed Data Factor Analyzer for Data Augmentation and Prediction
+2004|56.0|3.0|Industrial Marketing Management|An Evaluation of Divergent Perspectives on Customer Relationship Management: Towards a Common Understanding of an Emerging Phenomenon
+2005|68.0|7.0|Journal of Business Research|Trust and commitment influences on customer retention: insights from business-to-business services
+2006|102.0|6.0|Journal of Marketing|Factors Influencing the Effectiveness of Relationship Marketing: A Meta-Analysis
+2007|198.0|6.0|Journal of the Academy of Marketing Science|Managing the co-creation of value
+2008|81.0|3.0|Journal of Relationship Marketing|Relationship Marketing of Services Perspectives from 1983 and 2000
+2009|84.0|3.0|Journal of Business Ethics|The Role of Identity Salience in the Effects of Corporate Social Responsibility on Consumer Behavior
+2010|198.0|4.0|Journal of Marketing Management|Valuedriven relational marketing: From products to resources and competencies

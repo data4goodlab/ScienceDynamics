@@ -1,0 +1,50 @@
+----  Field Name Mobile computing
+----  Field Level 2.0
+----  Field Papers Number 60432
+----  All time max citation paper A simple transmit diversity technique for wireless communications, 1998, (4759.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1966|0|0.0|IEEE Transactions on Communications|Communication nets in random behavior
+1967|1.0|0.5|Human Relations|Some Psychological Consequences of Inter-generation Mobility
+1968|3.0|1.0|Journal of Geophysical Research|Use of ionic mobilities for measurements in the lower ionosphere
+1969|1.0|1.0|Journal of Terramechanics|A STUDY OF THE STEADY FLOW OF A RIGID-PLASTIC CLAY BENEATH A DRIVEN RIGID WHEEL
+1970|0|0.0|Metallurgical and Materials Transactions B-process Metallurgy and Materials Processing Science|Dislocation mobility in heavily doped silicon single crystals
+1972|16.0|3.0|Virology|Inherited resistance to n- and b-tropic murine leukemia viruses in vitro, evidence that congenic mouse strains sim and sim.r Differ at the fv-1 locus.
+1973|47.0|1.0|Advances in Cancer Research|Genetic control of murine viral leukemogenesis.
+1974|7.0|1.0|Journal of Theoretical Biology|Non-linear aspects of dynamic pattern in cellular networks
+1975|2.0|0.0|Journal of Clinical Periodontology|Influence of occlusal adjustment by grinding on gingivitis and mobility of traumatized teeth
+1976|8.0|3.0|Cell|Effect of Fv-1 gene product on synthesis of N-tropic and B-tropic murine leukemia viral RNA
+1977|9.0|1.0|Journal of Chemical Physics|Zerofield mobility of excess electrons in dense methane gas
+1978|21.0|8.0|Proceedings of the IEEE|Advances in packet ratio technology
+1979|13.0|2.0|Journal of Applied Physics|High-purity GaAs and Cr-doped GaAs epitaxial layers by MBE
+1980|23.0|3.0|Journal of Geophysical Research|Dependence of hydromagnetic energy spectra on solar wind velocity and interplanetary magnetic field direction
+1981|8.0|2.0|Solid State Ionics|Structure and ion transport in polymer-salt complexes
+1982|13.0|0.0|Progress in Planning|RECENT RESEARCH ON MIGRATION AND MOBILITY: A REVIEW AND INTERPRETATION
+1983|7.0|2.5|international joint conference on artificial intelligence|A distributed control system for the CMU rover
+1984|11.0|2.0|Journal of Geophysical Research|Longitudinal structure in Pi 2 pulsations and the substorm current wedge
+1985|10.0|2.5|Journal of Applied Physics|Effect of Melt Temperature on the dc Conductivity of GeO2 Glasses,
+1986|13.0|2.5|The Journal of Allergy and Clinical Immunology|Seasonal asthma in northern California: allergic causes and efficacy of immunotherapy.
+1987|26.0|2.0|Journal of Social Issues|How Minorities Continue to Be Excluded from Equal Employment Opportunities: Research on Labor Market and Institutional Barriers
+1988|24.0|1.0|Journal of Applied Physics|Shallow donors and D-X centers neutralization by atomic hydrogen in GaAlAs doped with silicon
+1989|27.0|2.0|IEEE Communications Magazine|Portable digital radio communications-an approach to tetherless access
+1990|59.0|2.0|IEEE Transactions on Communications|Cellular packet communications
+1991|83.0|2.0|vehicular technology conference|Spread spectrum for mobile communications
+1992|31.0|2.5|IEEE Journal on Selected Areas in Communications|Performance evaluation for cellular CDMA
+1993|85.0|3.0|Proceedings of the IEEE|The indoor radio propagation channel
+1994|129.0|4.0|IEEE Transactions on Information Theory|Blind identification and equalization based on second-order statistics: a time domain approach
+1995|85.0|4.0|IEEE Journal on Selected Areas in Communications|Improving the performance of reliable transport protocols in mobile computing environments
+1996|150.0|4.0|IEEE Transactions on Mobile Computing|Dynamic Source Routing in Ad Hoc Wireless Networks
+1997|180.0|3.0|international conference on computer communications|A highly adaptive distributed routing algorithm for mobile wireless networks
+1998|513.0|4.0|IEEE Journal on Selected Areas in Communications|A simple transmit diversity technique for wireless communications
+1999|345.0|5.0|acm ieee international conference on mobile computing and networking|Next century challenges: scalable coordination in sensor networks
+2000|394.0|3.0|international conference on computer communications|RADAR: an in-building RF-based user location and tracking system
+2001|442.0|5.0|IEEE Computer|Location systems for ubiquitous computing
+2002|614.0|5.0|international conference on computer communications|An energy-efficient MAC protocol for wireless sensor networks
+2003|377.0|4.0|IEEE Journal on Selected Areas in Communications|Capacity limits of MIMO channels
+2004|671.0|4.0|IEEE\/ACM Transactions on Networking|Medium access control with coordinated adaptive sleeping for wireless sensor networks
+2005|505.0|3.0|Wireless Networks|Ariadne: a secure on-demand routing protocol for ad hoc networks
+2006|369.0|3.0|IEEE Journal on Selected Areas in Communications|On the optimality of multiantenna broadcast scheduling using zero-forcing beamforming
+2007|459.0|3.0|ubiquitous computing|A survey on context-aware systems
+2008|673.0|2.0|Journal of Vision|Mobile computation: spatiotemporal integration of the properties of objects in motion.
+2009|277.0|2.0|Journal of Molecular and Cellular Cardiology|What is the mitochondrial permeability transition pore?
+2010|449.0|3.0|IEEE Communications Magazine|A survey of mobile phone sensing

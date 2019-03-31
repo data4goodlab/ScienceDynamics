@@ -1,0 +1,67 @@
+----  Field Name Euclidean geometry: 
+----  Field Level 2.0: 
+----  Field Papers Number 33103:
+----  All time max citation paper: Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes, 2002, (7031.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1935|7.0|5.5|Parasitology|A Description of a Necrotic Virus Disease affecting Tobacco and Other Plants.
+1940|0|0.0|Transactions of The British Mycological Society|New and interesting plant diseases
+1941|0|0.0|Transactions of The British Mycological Society|Studies on Sclerotinia and Botrytis. I.
+1946|2.0|2.0|Transactions of The British Mycological Society|New or interesting British fungi.
+1948|1.0|1.0|Transactions of The British Mycological Society|Seed-borne diseases of clover
+1950|1.0|0.5|Bulletin of Entomological Research|Factors influencing the Action of Dust Insecticides.
+1952|3.0|1.5|Journal of Chemical Physics|Equilibrium in the Exchange of Hydrogen between Phosphine and Water
+1955|1.0|1.0|Journal of Chemical Physics|Statistical Mechanics of Isotopic Systems with Small Quantum Corrections. I. General Considerations and the Rule of the Geometric Mean
+1958|1.0|1.0|Journal of The Franklin Institute-engineering and Applied Mathematics|A survey of the use of non-euclidean geometry in electrical engineering
+1959|0|0.0|IEEE Transactions on Microwave Theory and Techniques|Delay Distortion in Crystal Mixers
+1960|0|0.0|Genetics Research|The relation of reduplication, recombination, synapsis and chromosome coiling.
+1961|8.0|8.0|Journal of Applied Physics|Thermal Conductivity of Porous Media. I. Unconsolidated Sands
+1962|4.0|2.0|Proceedings of The Institute of Radio Engineers|Propagation of the Low-Frequency Radio Signal
+1963|8.0|4.5|Journal of Geophysical Research|THE EFFECT OF A UNIFORM EXTERNAL PRESSURE ON THE BOUNDARY OF THE GEOMAGNETIC FIELD IN A STEADY SOLAR WIND
+1964|5.0|2.5|Bulletin of the American Mathematical Society|An algebraic model of transitive differential geometry
+1965|8.0|1.5|Journal of Differential Equations|Stability in general control systems.
+1966|7.0|1.0|IEEE Transactions on Geoscience and Remote Sensing|The Design of High-Resolution Digital Filters
+1967|5.0|1.0||Stress intensity factors for crackline-loaded edge-crack specimens.
+1968|11.0|1.0|Attention Perception & Psychophysics|A test of a two-stage model of magnitude judgment
+1969|5.0|2.0|IEEE Transactions on Information Theory|The design of clutter-resistant radar waveforms with limited dynamic range
+1970|24.0|1.0|IEEE Spectrum|Synthetic voices for computers
+1971|8.0|1.0|Icarus|The polarization curve and the absolute diameter of Vesta
+1972|10.0|1.0|Geochimica et Cosmochimica Acta|Radiometric evidence for the rapid growth rate of shallow-water, continental margin manganese nodules
+1973|25.0|2.0|Proceedings of the IEEE|The soliton: A new concept in applied science
+1974|10.0|1.0|Transactions of the American Mathematical Society|Shape theory and compact connected abelian topological groups
+1975|20.0|1.0|Icarus|Lunar occultation of Saturn. I. The diameters of Tethys, Dione, Rhea, Titan, and Iapetus
+1976|11.0|2.0|Journal of the ACM|Fast Multiple-Precision Evaluation of Elementary Functions
+1977|28.0|3.0|Icarus|Asteroid sizes and albedos
+1978|9.0|1.0|design automation conference|A Topologically Based Non-Minimum Distance Routing Algorithm
+1979|22.0|2.0|IEEE Transactions on Biomedical Engineering|Physiology and Mathematics of Myoelectric Signals
+1980|22.0|3.0|Earth and Planetary Science Letters|Elemental abundances in chondrules from unequilibrated chondrites Evidence for chondrule origin by melting of pre-existing materials
+1981|15.0|3.0|Journal of Atmospheric and Solar-Terrestrial Physics|Theory of refractive scattering in scintillation phenomena
+1982|29.0|3.0|IEEE Computer Graphics and Applications|GWB: A Solid Modeler with Euler Operators
+1983|39.0|2.0|IEEE Transactions on Communications|The Laplacian Pyramid as a Compact Image Code
+1984|42.0|3.0|Proceedings of the IEEE|Extended Gaussian images
+1985|126.0|2.5|Vision Research|Contour, color and shape analysis beyond the striate cortex.
+1986|160.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A Computational Approach to Edge Detection
+1987|39.0|3.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Morphological filters--Part I: Their set-theoretic analysis and relations to linear shift-invariant filters
+1988|82.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Segmentation through variable-order surface fitting
+1989|47.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|On the detection of dominant points on digital curves
+1990|88.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Multichannel texture analysis using localized spatial filters
+1991|101.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|The design and use of steerable filters
+1992|80.0|2.0|ACM Computing Surveys|A survey of image registration techniques
+1993|156.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Face recognition: features versus templates
+1994|57.0|3.0|Water Resources Research|Nonreactive and reactive solute transport in threedimensional heterogeneous porous media: Mean displacement, plume spreading, and uncertainty
+1995|140.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Shape modeling with front propagation: a level set approach
+1996|107.0|3.0|American Journal of Cardiology|Hypertriglyceridemia and elevated lipoprotein (a) are risk factors for major coronary events in middle-aged men
+1997|109.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Feature selection: evaluation, application, and small sample performance
+1998|159.0|3.0|IEEE Transactions on Image Processing|Snakes, shapes, and gradient vector flow
+1999|98.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Shape-from-shading: a survey
+2000|560.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Content-based image retrieval at the end of the early years
+2001|210.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|From few to many: illumination cone models for face recognition under variable lighting and pose
+2002|967.0|4.0|Genome Biology|Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes
+2003|611.0|5.0|computer vision and pattern recognition|Object class recognition by unsupervised scale-invariant learning
+2004|271.0|5.0|Pattern Recognition|Review of shape representation and description techniques
+2005|372.0|4.0|Nature|Colloidal nanocrystal synthesis and the organic|[ndash]|inorganic interface
+2006|900.0|5.0|computer vision and pattern recognition|Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories
+2007|205.0|4.0|IEEE Transactions on Systems, Man, and Cybernetics|New Methods in Iris Recognition
+2008|607.0|2.0|The Lancet|Efficacy assessment of a cell-mediated immunity HIV-1 vaccine (the Step Study): a double-blind, randomised, placebo-controlled, test-of-concept trial
+2009|327.0|2.0|Nano Today|Designer platinum nanoparticles: Control of shape, composition in alloy, nanostructure and electrocatalytic property
+2010|927.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Object Detection with Discriminatively Trained Part-Based Models

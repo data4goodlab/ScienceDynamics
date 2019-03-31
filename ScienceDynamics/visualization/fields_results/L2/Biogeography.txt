@@ -1,0 +1,55 @@
+----  Field Name Biogeography: 
+----  Field Level 2.0: 
+----  Field Papers Number 10291:
+----  All time max citation paper: Inference of Population Structure Using Multilocus Genotype Data, 2000, (11352.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1935|0|0.0|Journal of Ecology|A Study of the Natural Control of Ragwort (Senecio jacobaea L.).
+1938|0|0.0|Transactions of The British Mycological Society|On the classification, nomenclature, hosts and geographical range of Trametes pini (Thore) Fries
+1940|0|0.0|Ecological Monographs|Biotic and physiographic succession on abandoned eroded farmland.
+1959|3.0|3.0||THE EPILITHIC ALGAL COMMUNITIES OCCURRING ALONG THE COAST OF THE NETHERLANDS
+1961|3.0|3.0|The Auk|Evolutionary Relationships among the North American Mallards
+1962|2.0|2.0|Chesapeake Science|Occurrence of the Acanthocephalan Parasite, Telosentis tenuicornis, in the Spot, Leiostomus xanthurus, in Chesapeake Bay
+1967|0|0.0|Brittonia|Complex chemical variation and the taxonomy of Hymenoxys scaposa (Compositae)
+1969|7.0|5.0|Biochemical Genetics|Geographic variation of blood and liver proteins in cricket frogs
+1970|11.0|5.5|Journal of Geophysical Research|The Afar Triple Junction and seafloor spreading
+1971|0|0.0|Palaeontologische Zeitschrift|Silicified specimens of the Gedinnian trilobite, Warburgella rugulosa canadensis Ormiston , from the Northwest Territories, Canada
+1972|4.0|2.5|Developments in Geotectonics|Seismicity as a Guide to Global Tectonics and Earthquake Prediction
+1973|1.0|0.5|Biochemical Genetics|Polymorphism of esterases and tetrazolium oxidases in the roman snail, Helix pomatia : A study of populations from Sweden and Germany
+1974|63.0|4.0|Geophysical Journal International|Numerical Modelling of Instantaneous Plate Tectonics
+1975|13.0|13.0|Earth Moon and Planets|Seismic effects from major basin formations on the moon and Mercury
+1976|7.0|4.0|Euphytica|The origin, evolution, cultivation, dissemination, and diversification of Asian and African rices.
+1977|3.0|0.5|Southwestern Naturalist|The decline of brown pelicans on the Louisiana and Texas Gulf Coast.
+1978|13.0|2.0|Nature|Genetic differentiation during speciation
+1979|10.0|0.0|Oecologia|Coexistence Between the Seastars Asterias vulgaris and A. forbesi in a Heterogeneous Environment: A Non-Equilibrium Explanation
+1980|14.0|2.5|Oecologia|Feeding patterns of monophagous, oligophagous, and polyphagous insect herbivores: the effect of resource abundance and plant chemistry.
+1981|5.0|2.0|Oecologia|Species richness of Macrolepidoptera on Finnish deciduous trees and shrubs
+1982|10.0|2.0|Geochimica et Cosmochimica Acta|A reexamination of cellulose carbon-bound hydrogen D measurements and some factors affecting plant-water D/H relationships
+1983|11.0|1.5|Earth and Planetary Science Letters|The Newfoundland Basin: ocean-continent boundary and Mesozoic seafloor spreading history
+1984|5.0|1.0|Earth and Planetary Science Letters|On the geodynamic setting of kimberlite genesis
+1985|12.0|4.0|Annual Review of Ecology, Evolution, and Systematics|Analysis of Hybrid Zones
+1986|38.0|2.0|Tectonics|A Kinematic model of southern California
+1987|21.0|2.5|Earth and Planetary Science Letters|Rapid early Miocene acceleration of uplift in the Gangdese Belt, Xizang (southern Tibet), and its bearing on accommodation mechanisms of the India-Asia collision
+1988|23.0|3.0|Trends in Ecology and Evolution|Hybrid zones-natural laboratories for evolutionary studies
+1989|22.0|2.0|The American Naturalist|The Latitudinal Gradient in Geographical Range: How so Many Species Coexist in the Tropics
+1990|11.0|2.0|Oecologia|Structure of herbivore communities in two oak (Quercus spp.) hybrid zones.
+1991|13.0|2.0|Botanical Journal of the Linnean Society|Tertiary Nothofagus (Fagaceae) macrofossils from Tasmania and Antarctica and their bearing on the evolution of the genus
+1992|37.0|2.0|New Forests|Factors influencing levels of genetic diversity in woody plant species
+1993|58.0|4.0|Journal of Lightwave Technology|A scalable multiwavelength multihop optical network: a proposal for research on all-optical networks
+1994|25.0|3.0|Journal of Vegetation Science|A global perspective of regional vegetation and hydrologic sensitivities from climatic change
+1995|40.0|4.0|Emerging Infectious Diseases|Factors in the emergence of infectious diseases.
+1996|169.0|4.0|Biological Journal of The Linnean Society|Some genetic consequences of ice ages, and their role in divergence and speciation
+1997|45.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Concordance of gene genealogies reveals reproductive isolation in the pathogenic fungus Coccidioides immitis
+1998|158.0|6.0|Molecular Ecology|Nested clade analyses of phylogeographic data: testing hypotheses about gene flow and population history
+1999|198.0|6.0|Biological Journal of The Linnean Society|Postglacial recolonization of European biota
+2000|561.0|6.0|Genetics|Inference of Population Structure Using Multilocus Genotype Data
+2001|151.0|8.0|Molecular Ecology|Speciation, hybrid zones and phylogeography  or seeing genes in space and time
+2002|152.0|7.0|Nature|Future projections for Mexican faunas under global climate change scenarios
+2003|183.0|9.0|Annual Review of Ecology, Evolution, and Systematics|Latitudinal Gradients of Biodiversity: Pattern, Process, Scale, and Synthesis
+2004|992.0|9.0|Nature|EXTINCTION RISK FROM CLIMATE CHANGE
+2005|209.0|10.0|Annual Review of Ecology, Evolution, and Systematics|Niche Conservatism: Integrating Evolution, Ecology, and Conservation Biology
+2006|331.0|10.0|Global Ecology and Biogeography|Towards an integrated computational tool for spatial analysis in macroecology and biogeography
+2007|254.0|10.0|Proceedings of the National Academy of Sciences of the United States of America|Increased genetic variation and evolutionary potential drive the success of an invasive grass
+2008|787.0|12.0|PLOS ONE|Measuring the Meltdown: Drivers of Global Amphibian Extinction and Decline
+2009|408.0|10.0|Ecology Letters|Mechanistic niche modelling: combining physiological and spatial data to predict species\' ranges.
+2010|240.0|10.0|Science of The Total Environment|Exposure and effects assessment of persistent organohalogen contaminants in arctic wildlife and fish.

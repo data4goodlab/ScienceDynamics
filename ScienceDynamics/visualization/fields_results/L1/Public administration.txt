@@ -1,0 +1,47 @@
+----  Field Name Public administration: 
+----  Field Level 1.0: 
+----  Field Papers Number 10128:
+----  All time max citation paper: Rapid Global Expansion of Invertebrate Fisheries: Trends, Drivers, and Ecosystem Effects, 2011, (1852.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1959|0|0.0|Canadian Public Administration-administration Publique Du Canada|PUBLIC ADMINISTRATION: THE FOCUS OF ACADEMIC INTEREST
+1966|0|0.0|Scandinavian Political Studies|PUBLIC ADMINISTRATION UNDER PRESSURE: THE ROLE OF THE EXPERT IN THE MODERNIZATION OF TRADITIONAL AGRICULTURE
+1972|0|0.0|Journal of Black Studies|School Desegregation: A Policy Analysis.
+1973|0|0.0|Higher Education|PPBS in Higher Education Planning and Management: Part III, Perspectives and Applications of Policy Analysis.
+1974|5.0|2.0|Technological Forecasting and Social Change|Some methods and techniques for comprehensive impact assessment
+1975|7.0|4.0|Social Science & Medicine|Benefit-cost analysis: A review of its applicability in policy analysis for delivering health services
+1976|4.0|0.0|Socio-economic Planning Sciences|A future cities survey research design for policy analysis
+1977|5.0|2.5||TECHNIQUES TO MEASURE SOCIAL BENEFITS AND COSTS IN AGRICULTURE: A SURVEY
+1978|8.0|1.0|Accounting Organizations and Society|Policy analysis is what information systems are not
+1979|13.0|2.0|Management Science|The Use of Optimization Models in Public-Sector Planning
+1980|5.0|1.0|Helgoland Marine Research|Oil, oil dispersants and related substances in the marine environment
+1981|7.0|1.0|Journal of Environmental Economics and Management|Contingent valuation techniques for assessing environmental impacts: Further evidence
+1982|20.0|1.0|Health Psychology|Health-Related Quality of Life Measurement for Evaluation Research and Policy Analysis
+1983|14.0|1.0|A Quarterly Journal of Operations Research|Decision-aiding models: validation, assessment, and related issues for policy analysis
+1984|14.0|1.0|Journal of Business & Economic Statistics|Bootstrapping an Econometric Model: Some Empirical Results
+1985|10.0|1.0|Risk Analysis|A Computer Aid for Risk and Other Policy Analysis
+1986|34.0|1.0|decision support systems|An intelligent system for formulating linear programs
+1987|9.0|3.0||Pesticide use and toxicology in relation to wildlife: Organophosphorus and carbamate compounds
+1988|26.0|2.0|Policy Sciences|An advocacy coalition framework of policy change and the role of policy-oriented learning therein
+1989|7.0|2.0|Social Science & Medicine|User fees for health care in developing countries: a case study of Bangladesh.
+1990|13.0|1.0|Journal of Environmental Economics and Management|The ideology of efficiency: Searching for a theory of policy analysis
+1991|15.0|2.0|Policy Sciences|The rhetorics of policy analysis
+1992|31.0|1.0|Climatic Change|Extreme events in a changing climate: Variability is more important than averages
+1993|18.0|1.0|American Political Science Review|The argumentative turn in policy analysis and planning
+1994|45.0|1.0|Handbook of International Economics|The intertemporal approach to the current account
+1995|30.0|2.0|FEMS Microbiology Ecology|Metabolic profiling as a means of characterizing plant-associated microbial communities
+1996|90.0|1.0|World Bank Economic Review|A New Data Set Measuring Income Inequality
+1997|32.0|2.0|Journal of Economic Perspectives|Divergence, Big Time
+1998|38.0|2.0|Journal of Econometrics|Impulse response and forecast error variance asymptotics in nonstationary VARs
+1999|121.0|3.0||Short-Term Capital Flows
+2000|133.0|3.0|World Bank Research Observer|Social Capital: Implications for Development Theory, Research, and Policy
+2001|186.0|3.0|Journal of Economic Growth|Growth is Good for the Poor
+2002|63.0|3.0||A standard computable general equilibrium (CGE) model in GAMS
+2003|177.0|4.0|Annals of The Association of American Geographers|MultiAgent Systems for the Simulation of LandUse and LandCover Change: A Review
+2004|151.0|4.0|Journal of Development Economics|China's (uneven) progress against poverty
+2005|81.0|5.0||Impact evaluation of a conditional cash transfer program : the Nicaraguan Red de Proteccin Social
+2006|409.0|4.0|Global Environmental Change-human and Policy Dimensions|Adaptation, adaptive capacity and vulnerability
+2007|172.0|4.0||Coastal systems and low-lying areas
+2008|186.0|4.0|Agricultural Systems|Integrated assessment of agricultural systems  A component-based framework for the European Union (SEAMLESS)
+2009|305.0|4.0||Conditional cash transfers : reducing present and future poverty
+2010|235.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Indirect land-use changes can overcome carbon savings from biofuels in Brazil

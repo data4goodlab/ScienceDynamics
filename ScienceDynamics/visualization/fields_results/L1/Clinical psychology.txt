@@ -1,0 +1,49 @@
+----  Field Name Clinical psychology: 
+----  Field Level 1.0: 
+----  Field Papers Number 2741:
+----  All time max citation paper: How important is 'accuracy' of surrogate decision-making for research participation?, 2013, (1419.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1949|0|0.0|The Journal of Psychology|Clinical Psychology in Retrospect and Prospect
+1952|0|0.0|Journal of Clinical Psychology|Research in clinical psychology: 1951
+1956|0|0.0|Journal of Clinical Psychology|Research in clinical psychology: 1955
+1957|3.0|3.0|Journal of Clinical Psychology|Research in clinical psychology: Factor analytic contributions
+1969|0|0.0|Applied Psychology|CONTRIBUTIONS OF EXPERIMENTAL AND ABNORMAL PSYCHOLOGY TO CLINICAL PSYCHOLOGY1
+1972|0|0.0|The Journal of Psychology|Clinical Psychology in the Psychological Abstracts, 1927-1970
+1973|0|0.0|Professional Psychology|Unresolved Issues in the Clinical Psychology Internship
+1975|2.0|2.0||Explorations in the taxonomy of behavior settings
+1976|3.0|0.0|Professional Psychology|Psychology and dentistry: Potential benefits from a health care liaison
+1977|2.0|1.5|Journal of Clinical Psychology|Independent Dimensions of Depression: A Factor Analysis of Three Self-Report Depression Measures.
+1978|9.0|0.5|Journal of Clinical Psychology|Effects of cuecontrolled relaxation, a placebo treatment, and no treatment on changes in selfreported test anxiety among college students
+1979|13.0|0.5|Review of Educational Research|Research on Training Counselors and Clinicians.
+1980|5.0|0.5|Journal of Behavioral Medicine|Sex differences in complaints and diagnoses
+1981|16.0|2.0|Journal of Consulting and Clinical Psychology|Single Case Experimental Design and Empirical Clinical Practice
+1982|3.0|1.0|Journal of Clinical Psychology|Personality and Criminality: A Review of the California Psychological Inventory.
+1983|6.0|2.5|Journal of Consulting and Clinical Psychology|Experimental and Clinical Treatments of Writing Blocks.
+1984|2.0|1.0|Professional Psychology: Research and Practice|The Boulder Model: History, rationale, and critique.
+1985|4.0|2.5|Journal of Child Psychology and Psychiatry|ICD 9 & DSM III CLASSIFICATION FOR THE CLINICIAN
+1986|7.0|3.0|Clinical Psychology Review|Personality stability and its implications for clinical psychology
+1987|6.0|2.0|Psychological Bulletin|What, if Anything, is Regressed About Hypnotic Age Regression?: A Review of the Empirical Literature
+1988|27.0|2.0|Journal of Comparative Psychology|Norm-of-Reaction: Definition and misinterpretation of animal research
+1989|15.0|4.0||Transformation in clinical and developmental psychology
+1990|20.0|4.0|Journal of Personality and Social Psychology|Facial expressions and the regulation of emotions.
+1991|4.0|2.0|Clinical Psychology Review|Toward the Empirical Validation of Treatment Targets in Children
+1992|76.0|2.0|American Psychologist|Nonconscious Acquisition of Information
+1993|22.0|2.0|Development and Psychopathology|Mark Twain Meets DSM-III-R: Conduct Disorder, Development, and the Concept of Harmful Dysfunction
+1994|26.0|3.0|American Psychologist|Chaos, self-organization, and psychology.
+1995|59.0|2.0|Journal of Consulting and Clinical Psychology|Bridging the gap between laboratory and clinic in child and adolescent psychotherapy.
+1996|38.0|3.0|Journal of Consulting and Clinical Psychology|Attachment Representations in Mothers, Fathers, Adolescents, and Clinical Groups: A Meta-analytic Search for Normative Data.
+1997|20.0|4.0|Clinical Psychology Review|Of apples and oranges, file drawers and garbage: Why validity issues in meta-analysis will not go away
+1998|24.0|3.0|Journal of Consulting and Clinical Psychology|Empirically supported psychological therapies.
+1999|23.0|4.5|American Journal of Community Psychology|Effects of Enforcement of Youth Access Laws on Smoking Prevalence
+2000|32.0|6.0|Pain|Understanding the adoption of arthritis self-management: stages of change profiles among arthritis patients
+2001|141.0|4.0|Psychological Assessment|Refining the construct of psychopathy: towards a hierarchical model.
+2002|79.0|6.0|Neuroscience Letters|Brain circuits involved in emotional learning in antisocial behavior and social phobia in humans
+2003|223.0|4.5|Brain|Theories of developmental dyslexia: Insights from a multiple case study of dyslexic adults
+2004|107.0|8.0|Trends in Cognitive Sciences|Executive dysfunction in autism
+2005|67.0|7.0|American Journal of Psychiatry|Two-Year Prevalence and Stability of Individual DSM-IV Criteria for Schizotypal, Borderline, Avoidant, and Obsessive-Compulsive Personality Disorders: Toward a Hybrid Model of Axis II Disorders
+2006|139.0|7.0|American Psychologist|Arbitrary metrics in psychology.
+2007|339.0|7.0|Journal of Behavioral Medicine|The fear-avoidance model of musculoskeletal pain : current state of scientific evidence
+2008|136.0|4.0|Clinical Psychology Review|A meta-analytic review of the relationships between the five-factor model and DSM-IV-TR personality disorders: A facet level analysis
+2009|112.0|4.0|Teachers College Record|Teaching Practice: A Cross-Professional Perspective.
+2010|180.0|6.0|Journal of Abnormal Psychology|Developing constructs for psychopathology research: research domain criteria.

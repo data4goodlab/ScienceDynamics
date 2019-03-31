@@ -1,0 +1,45 @@
+----  Field Name Palaeogeography: 
+----  Field Level 2.0: 
+----  Field Papers Number 1354:
+----  All time max citation paper: Rapid leastsquares inversion of apparent resistivity pseudosections by a quasiNewton method1, 1996, (680.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1964|0|0.0|Geophysical Prospecting|REFRACTION SEISMICS WITH AN ANISOTROPIC OVERBURDEN: A GRAPHICAL METHOD OF INTERPRETATION*
+1968|6.0|6.0|Geophysical Prospecting|Magneto-telluric measurements in the North German basin
+1971|3.0|2.5|Geophysical Prospecting|REFLECTIONS ON AMPLITUDES*
+1975|1.0|1.0|Geophysical Prospecting|AN INTERACTIVE COMPUTER/GRAPHICDISPLAYTERMINAL SYSTEM FOR INTERPRETATION OF RESISTIVITY SOUNDINGS*
+1976|2.0|1.5|Geophysical Prospecting|A COMPARISON BETWEEN WIENER FILTERING, KALMAN FILTERING, AND DETERMINISTIC LEAST SQUARES ESTIMATION*
+1977|3.0|1.5|Geophysical Prospecting|Resistivity sounding on a multi-layered earth with transitional layers. Part I: theory
+1978|1.0|1.0|Geophysical Prospecting|Attenuation of coherent noise in marine seismic exploration using very long arrays
+1979|6.0|6.0|Geophysical Prospecting|RESISTIVITY MODELLING FOR ARBITRARILY SHAPED TWODIMENSIONAL STRUCTURES*
+1980|5.0|1.0|Geophysical Prospecting|THE QUANTITATIVE INTERPRETATION OF DIPOLE SOUNDINGS BY MEANS OF THE RESISTIVITY TRANSFORM FUNCTION*
+1981|4.0|2.0|Geophysical Prospecting|A NOTE ON THE USE OF A NOMOGRAM FOR SELFPOTENTIAL ANOMALIES*
+1982|4.0|2.0|Geobios|Origines du peuplement mammalien en Afrique du Nord durant le miocne terminal
+1983|3.0|2.0|Geophysical Prospecting|Linear filtering of VLF dip-angle measurements
+1984|4.0|1.0|Geophysical Prospecting|THREETERM TAYLOR SERIES FOR t2  x2CURVES OF P AND SWAVES OVER LAYERED TRANSVERSELY ISOTROPIC GROUND*
+1985|10.0|1.5|Geophysical Prospecting|SEPARATION OF P AND SWAVES*
+1986|5.0|2.0|Geophysical Prospecting|ANISOTROPY AND TRANSVERSE ISOTROPY*
+1987|6.0|0.5|Geobios|A consideration of some major topics concerning Old WorldMiocene Mammalian chronology, migrations and paleogeography
+1988|19.0|3.5|Basin Research|Listric extensional fault systems - results of analogue model experiments
+1989|12.0|5.0|Geophysical Prospecting|GROUNDPENETRATING RADAR FOR HIGHRESOLUTION MAPPING OF SOIL AND ROCK STRATIGRAPHY1
+1990|9.0|2.0|Geological Journal|Stratigraphy and sedimentology of lower carboniferous (Dinantian) boreholes from West Co. Meath, Ireland
+1991|14.0|3.0|Palaeogeography, Palaeoclimatology, Palaeoecology|Late palaeozoic and mesozoic palaeogeography of Southeast Asia
+1992|11.0|2.0|Basin Research|Vertical versus horizontal motions in the Alpine orogenic wedge: stratigraphic response in the foreland basin
+1993|29.0|1.5|Geophysical Journal International|Palaeogeographic significance of midSilurian palaeomagnetic results from southern Britainmajor revision of the apparent polar wander path for eastern Avalonia
+1994|9.0|2.5|Geophysical Journal International|Palaeozoic palaeogeography of Laurentia and its margins: a reassessment of palaeomagnetic data
+1995|11.0|3.0|Geophysical Prospecting|Frequencydomain modelling of airborne electromagnetic responses using staggered finite differences1
+1996|48.0|8.5|Geophysical Prospecting|Rapid leastsquares inversion of apparent resistivity pseudosections by a quasiNewton method1
+1997|19.0|2.0|Island Arc|Paleogeographic maps of the Japanese Islands: Plate tectonic synthesis from 750 Ma to the present
+1998|13.0|1.5|Tectonophysics|Comparative Tertiary stratigraphy of the Rhine Graben, Bresse Graben and Molasse Basin: correlation of Alpine foreland events
+1999|15.0|4.0|Basin Research|Role of fault interactions in controlling synrift sediment dispersal patterns: Miocene, Abu Alaqa Group, Suez Rift, Sinai, Egypt
+2000|79.0|6.0|Journal of Biogeography|Maps of Pleistocene sea levels in Southeast Asia : shorelines, river systems and time durations
+2001|59.0|4.5|Precambrian Research|Long-lived (1.8-1.0 Ga) convergent orogen in southern Laurentia, its extensions to Australia and Baltica, and implications for refining Rodinia
+2002|25.0|6.0|Geophysical Journal International|Refining Gondwana and Pangea palaeogeography: estimates of Phanerozoic nondipole (octupole) fields
+2003|49.0|8.0|Tectonophysics|Palaeomagnetic configuration of continents during the Proterozoic
+2004|67.0|6.0|Tectonophysics|Plate tectonic evolution of the southern margin of Eurasia in the Mesozoic and Cenozoic
+2005|86.0|7.0|Nature|The earliest record of human activity in northern Europe
+2006|75.0|5.0|Gondwana Research|Palaeozoic and Mesozoic tectonic evolution and palaeogeography of East Asian crustal fragments: The Korean Peninsula in context
+2007|56.0|7.0|Earth-Science Reviews|Siberia, the wandering northern terrane, and its changing geography through the Palaeozoic
+2008|131.0|6.0|Gondwana Research|The Neoproterozoic assembly of Gondwana and its relationship to the EdiacaranCambrian radiation
+2009|95.0|4.0|Palaeogeography, Palaeoclimatology, Palaeoecology|A palaeogeographic context for Neoproterozoic glaciation.
+2010|78.0|6.0|Earth-Science Reviews|The Late Miocene paleogeography of the Amazon Basin and the evolution of the Amazon River system

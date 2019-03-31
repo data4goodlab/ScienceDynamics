@@ -1,0 +1,52 @@
+----  Field Name Content analysis: 
+----  Field Level 2.0: 
+----  Field Papers Number 10705:
+----  All time max citation paper: Three Approaches to Qualitative Content Analysis, 2005, (3508.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1954|1.0|1.0|Psychiatric Quarterly|AN INVESTIGATION OF CERTAIN PSYCHODIAGNOSTIC INDICATIONS OF SUICIDAL TENDENCIES AND DEPRESSION IN MENTAL HOSPITAL PATIENTS*
+1956|0|0.0|Educational Technology Research and Development|Content analysis in AV communication research
+1958|0|0.0|Educational Technology Research and Development|On content analysis and critical research in mass communication
+1968|1.0|0.5|Comprehensive Psychiatry|Some applications of the psychoanalytic concept of object relatedness: Preliminary studies on a human relations content analysis scale applicable to verbal samples
+1969|1.0|0.0|The Counseling Psychologist|Some Notes on Behavior Theory, Behavior Therapy and Behavioral Counseling
+1970|6.0|5.0|Nature|Rare Earth and Other Elemental Abundances in the Allende Meteorite
+1971|1.0|0.5|Comprehensive Psychiatry|Effect of amphetamine or chlorpromazine on achievement strivings scores derived from content analysis of speech
+1972|2.0|1.0|Social Psychiatry and Psychiatric Epidemiology|Theories of behavior and the social control of alcoholism
+1973|20.0|4.0|Journal of Verbal Learning and Verbal Behavior|Some effects of context on the comprehension of ambiguous sentences
+1974|3.0|0.5|Computers and The Humanities|An Historical Note on the Use of Word Frequency Contiguities in Content Analysis.
+1975|9.0|1.0|Journal of School Psychology|The analysis of verbal interactions occurring during consultation
+1976|22.0|0.5|American Educational Research Journal|Frameworks for comprehending discourse
+1977|10.0|1.5|Child Development|Children's Friendship Expectations: A Cognitive-developmental Study.
+1978|17.0|1.5|Instructional Science|The Structure of Subject Matter Content and Its Instructional Design Implications.
+1979|15.0|1.0|Journal of Educational Measurement|A METHOD OF ASSESSING BIAS IN TEST ITEMS
+1980|145.0|1.0|Psychological Review|A theory of reading: From eye fixations to comprehension
+1981|25.0|1.0|Journal of Personality and Social Psychology|When people ask "why" questions, and the heuristics of attributional search.
+1982|11.0|1.5|Policy Sciences|Policy research and analysis: an empirical profile, 19751980
+1983|3.0|0.0|Journal of Communication|Discourse Analysis: Its Development and Application to the Structure of News
+1984|5.0|1.0|Journal of Communication|Compliments: A Descriptive Taxonomy
+1985|9.0|1.0|Journal of Experimental Marine Biology and Ecology|A new application of serological techniques to gut content analysis
+1986|61.0|1.0|Communications of The ACM|Another look at automatic text-retrieval systems
+1987|19.0|1.0|American Educational Research Journal|Structuring and Adjusting Content for Students: A Study of Live and Simulated Tutoring of Addition.
+1988|12.0|1.0|Teaching and Teacher Education|Developing a technical vocabulary on teacher planning: Preservice teachers' concept maps
+1989|16.0|1.0|Journal of Consumer Research|Literary Criticism and Consumer Research: Overview and Illustrative Analysis
+1990|11.0|1.5|Patient Education and Counseling|Readability and content analysis of print cholesterol education materials.
+1991|13.0|1.0|Journal of Consumer Research|Content-Analysis Research: An Examination of Applications with Directives for Improving Research Reliability and Objectivity
+1992|45.0|1.0|Advances in Experimental Social Psychology|Universals in the Content and Structure of Values: Theoretical Advances and Empirical Tests in 20 Countries
+1993|10.0|1.0|symposium on the theory of computing|Contention in shared memory algorithms
+1994|75.0|1.0|Communications of The ACM|Automatic structuring and retrieval of large text files
+1995|24.0|2.0|Educational Technology Research and Development|Situated cognition and learning environments: roles, structures, and implications for design
+1996|96.0|2.0|human factors in computing systems|Silk from a sow's ear: extracting usable structures from the Web
+1997|298.0|2.5|Information Processing and Management|Term-weighting approaches in automatic text retrieval
+1998|121.0|2.0|international acm sigir conference on research and development in information retrieval|Improved algorithms for topic distillation in a hyperlinked environment
+1999|29.0|3.0|BMJ|Towards a feasible model for shared decision making: focus group study with general practice registrars
+2000|61.0|3.0|Instructional Science|Content Analysis of Online Discussion in an Applied Educational Psychology Course
+2001|125.0|4.0|ACM Computing Surveys|Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases
+2002|149.0|5.0|Educational Researcher|Measuring the Content of Instruction: Uses in Research and Practice
+2003|55.0|3.5||FACE-TO-FACE VERSUS THREADED DISCUSSIONS: THE ROLE OF TIME AND HIGHER-ORDER THINKING
+2004|234.0|5.0|Nurse Education Today|Qualitative content analysis in nursing research: Concepts, procedures and measures to achieve trustworthiness.
+2005|403.0|5.0|Qualitative Health Research|Three Approaches to Qualitative Content Analysis
+2006|184.0|5.0|international world wide web conferences|Detecting spam web pages through content analysis
+2007|286.0|5.0||Assessing Social Presence In Asynchronous Text-based Computer Conferencing
+2008|700.0|5.0|Journal of Advanced Nursing|The qualitative content analysis process.
+2009|273.0|5.0|international world wide web conferences|Mapping the world's photos
+2010|356.0|5.0|Research Policy|How open is innovation?

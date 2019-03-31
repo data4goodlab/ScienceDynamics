@@ -1,0 +1,51 @@
+----  Field Name Mycology: 
+----  Field Level 2.0: 
+----  Field Papers Number 2691:
+----  All time max citation paper: A handbook of protocols for standardised and easy measurement of plant functional traits worldwide, 2003, (966.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|0|0.0|American Journal of Potato Research|Genetics, cytogenetics and breeding in the potato: review of literature.
+1950|0|0.0|American Journal of Potato Research|The breeding of resistant varieties of Potatoes.
+1952|2.0|1.0|Annals of Applied Biology|INVESTIGATIONS OF THE INHIBITORY ACTION OF BACILLUS SUBTILIS ON FUSARIUM UDUM BUTL., THE FUNGUS CAUSING WILT OF PIGEONPEA (CAJANUS CAJAN (L.) MILLSP.)
+1953|3.0|3.0|Transactions of The British Mycological Society|Changes in atmospheric spore contents: diurnal periodicity and the effects of weather.
+1955|0|0.0|Proceedings of The Indian Academy of Sciences - Section A. Part 3, Mathematical Sciences|The ecological and the taxonomic problems in Fusaria.
+1960|0|0.0|Journal of Phytopathology|Biochemical studies on Cochliobolus miyabeanus. IV. Fungicidal action of polyphenols and the role of polyphenoloxidase of the fungus.
+1963|0|0.0|The Journal of Agricultural Science|The control of bacterial blight in rain-grown cotton. I. Breeding for resistance in African Upland varieties.
+1969|2.0|1.5|Transactions of The British Mycological Society|The effect of light and temperature on reproduction in vitro in two tropical species of Phytophthora.
+1970|2.0|1.0|Euphytica|Fertility, late blight resistance and genome relationship in an interspecific hybrid, Solanum polytrichon Rydb. x S. phureja Juz. et Buk.
+1971|2.0|2.0|Annals of Applied Biology|The biology of Peronospora viciae on pea: factors affecting the susceptibility of plants to local infection and systemic colonization
+1973|0|0.0|Comparative Biochemistry and Physiology B|Characterization of ubiquinone from vegetative amoebae and mature sorocarps of the cellular slime mold, Dictyostelium Discoideum
+1976|0|0.0|Journal of Cell Biology|Actomyosin content of Physarum plasmodia and detection of immunological cross-reactions with myosins from related species.
+1977|8.0|5.0|Journal of Cell Biology|The contractile basis of amoeboid movement: V. The control of gelation, solation, and contraction in extracts from dictyostelium discoideum
+1978|3.0|2.5|Journal of Cell Biology|Intranuclear actin bundles induced by dimethyl sulfoxide in interphase nucleus of Dictyostelium.
+1979|2.0|2.0|Experimental Mycology|Optimum conditions for synchronous oospore production in crosses of Achlya ambisexualis
+1980|2.0|1.0|Euphytica|Correlated resistance of cassava to mosaic and bacterial blight diseases.
+1982|9.0|4.5|Experimental Mycology|Proteolytic activities in Dictyostelium discoideum detected with chromogenic peptide substrates
+1983|0|0.0|Developmental Genetics|Genetics of microcystless mutants of polysphondylium pallidum
+1984|4.0|2.5|FEBS Letters|Dictyostelium discoideum cell membranes contain masked chemotactic receptors for cyclic AMP
+1985|3.0|2.0|European Journal of Plant Pathology|Factors governing oospore production by Peronospora farinosa f.sp. spinaciae in cotyledons of spinach.
+1986|7.0|2.0|Gene|Structure of Physarum actin gene locus ardA : a nonpalindromic sequence causes inviability of phage lambda and recA -independent deletions
+1987|6.0|6.0|Gene|Gene families encode the major encystment-specific proteins of Physarum polycephalum plasmodia
+1988|0|0.0|International Journal of Pest Management|Current status of breeding cotton for resistance to bacteria blight in Zimbabwe.
+1989|18.0|3.0|Gene|Optimization and in situ detection of Escherichia coli -galactosidase gene expression in Dictyostelium discoideum
+1990|7.0|2.0|Fungal Biology|Oospores of the biocontrol agent Pythium oligandrum bulk-produced in liquid culture.
+1991|7.0|2.0|Gene|Fission yeast promoter-probe vectors based on hygromycin resistance.
+1992|4.0|2.0||Isolation and Characterization of the Putative Photoreceptor for Phototaxis in Amoebae of the Cellular Slime Mold, Dictyostelium discoideum
+1993|5.0|2.0|European Journal of Plant Pathology|The Occurrence of the A2 Mating-Type of Phytophthora-Infestans in the Netherlands - Significance and Consequences
+1994|5.0|1.5|Journal of Clinical Microbiology|Comparison of commercial kits for detection of cryptococcal antigen.
+1995|31.0|6.5|Gene|Cloning vectors for the production of proteins in Dictyostelium discoideum
+1996|22.0|3.5|Journal of Clinical Microbiology|Typing Candida albicans oral isolates from human immunodeficiency virus-infected patients by multilocus enzyme electrophoresis and DNA fingerprinting.
+1997|54.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Origin and evolution of the slime molds (Mycetozoa)
+1998|36.0|6.0|Journal of Clinical Microbiology|Rapid identification of Candida species with species-specific DNA probes.
+1999|28.0|8.0|Journal of Clinical Microbiology|PCR-Restriction Enzyme Analysis for Detection ofCandida DNA in Blood from Febrile Patients with Hematological Malignancies
+2000|89.0|5.0|Fungal Genetics and Biology|A molecular phylogeny of Phytophthora and related oomycetes.
+2001|58.0|4.0|Plant Pathology|Epidemiology and management of Leptosphaeria maculans (phoma stem canker) on oilseed rape in Australia, Canada and Europe.
+2002|50.0|4.0|Trends in Microbiology|Fungi, dendritic cells and receptors: a host perspective of fungal virulence
+2003|148.0|5.0|Annual Review of Phytopathology|PATHOGEN POPULATION GENETICS, EVOLUTIONARY POTENTIAL, AND DURABLE RESISTANCE
+2004|29.0|4.0|Australian Journal of Botany|Quantification of the susceptibility of the native flora of the South-West Botanical Province, Western Australia, to Phytophthora cinnamomi
+2005|70.0|4.0|Molecular Systems Biology|A global view of pleiotropy and phenotypically derived gene function in yeast
+2006|35.0|4.5|Acta Biochimica Polonica|Melanin synthesis in microorganisms - biotechnological and medical aspects
+2007|69.0|5.0|Studies in Mycology|Diagnostic tools to identify black aspergilli.
+2008|282.0|4.0|Australian Journal of Botany|'Breathing' of the terrestrial biosphere: lessons learned from a global network of carbon dioxide flux measurement systems
+2009|121.0|4.0|Medical Mycology|Consensus multi-locus sequence typing scheme for Cryptococcus neoformans and Cryptococcus gattii
+2010|130.0|5.0|Journal of Clinical Microbiology|Aspergillus PCR: one step closer to standardization.

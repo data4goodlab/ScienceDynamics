@@ -1,0 +1,41 @@
+----  Field Name Engineering education: 
+----  Field Level 2.0: 
+----  Field Papers Number 3441:
+----  All time max citation paper: Learning and Teaching Styles in Engineering Education., 1988, (1340.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1918|0|0.0|Science|A STUDY OF ENGINEERING EDUCATION
+1972|0|0.0|Nuclear Engineering and Design|A curriculum for engineering education in structural mechanics in reactor technology
+1976|0|0.0|Instructional Science|The Effect of Egruleg versus Ruleg and Teacher-Centredness versus Student-Centredness on Pupil Gain and Satisfaction.
+1977|0|0.0|Higher Education|Problems in the Context Evaluation of Individualized Courses.
+1978|2.0|0.0|Journal of Vocational Behavior|Perceived parental attitudes and choice of vocational specialty area among male engineering students
+1981|2.0|1.0|Journal of Research in Science Teaching|The influence of content organization on student's cognitive structure in thermodynamics
+1982|0|0.0|Higher Education|Questionnaire Design for Student Measurement of Teaching Effectiveness.
+1983|0|0.0|Computers in Education|Computer-Based Information Systems Education in the Arab World: A Survey.
+1984|15.0|15.0|Journal of Counseling Psychology|Relation of Self-Efficacy Expectations to Academic Achievement and Persistence.
+1985|2.0|0.5|Journal of Sound and Vibration|Dynamic stability of pretwisted columns under periodic axial loads
+1986|14.0|1.5|symposium on principles of programming languages|Distributed data structures in Linda
+1987|8.0|1.0|Psychology of Women Quarterly|ENGINEERING CAREERS: WOMEN IN A MALEDOMINATED FIELD
+1988|4.0|1.5||Learning and Teaching Styles in Engineering Education.
+1989|6.0|1.5|Applied Artificial Intelligence|Causal models as intelligent learning environments for science and engineering education
+1990|9.0|2.0|Higher Education|Study Orchestration and Learning Outcome: Evidence of Association over Time among Disadvantaged Students.
+1991|3.0|0.0|Learning and Instruction|Knowledge of problem situations in physics: A comparison of good and poor novice problem solvers
+1992|4.0|1.0|Higher Education|The Development of Thinking Processes in Postsecondary Education: Application of a Working Model.
+1993|5.0|0.0|English for Specific Purposes|The role of writing in graduate engineering education: A survey of faculty beliefs and practices
+1994|15.0|1.0|Computer Communication Review|Precision synchronization of computer network clocks
+1995|14.0|2.0|Journal of Computer-Mediated Communication|Use of Communication Resources in a Networked Collaborative Design Environment.
+1996|13.0|0.0|Automatica|Control systems engineering education
+1997|17.0|1.0|ieee virtual reality conference|Virtual environments for shipboard firefighting training
+1998|20.0|1.0|Journal of Mechanical Design|A framework for decision-based engineering design
+1999|47.0|1.0|Review of Educational Research|Effects of Small-Group Learning on Undergraduates in Science, Mathematics, Engineering, and Technology: A Meta-Analysis
+2000|32.0|2.0|IEEE Transactions on Education|Defining the outcomes: a framework for EC-2000
+2001|20.0|1.0|IEEE Transactions on Systems, Man, and Cybernetics|A web-based virtual laboratory on a frequency modulation experiment
+2002|38.0|1.0|IEEE Transactions on Education|Web-based learning: effects on learning process and outcome
+2003|66.0|2.0|Journal of Engineering Education|Designing and Teaching Courses to Satisfy the ABET Engineering Criteria
+2004|27.0|2.0|IEEE Transactions on Power Systems|Embedding remote experimentation in power engineering education
+2005|131.0|2.0|Journal of Engineering Education|Pedagogies of Engagement: ClassroomBased Practices
+2006|60.0|2.0|Gender and Education|Women and science careers: leaky pipeline or gender filter?
+2007|68.0|2.0|Computers in Education|Successful implementation of user-centered game based learning in higher education: An example from civil engineering
+2008|59.0|2.0|Journal of Engineering Education|Advancing Engineering Education in P12 Classrooms
+2009|164.0|2.0||The challenge of establishing world-class universities
+2010|82.0|3.0|Teaching in Higher Education|The Suitability of Problem-based Learning for Engineering Education: Theory and practice

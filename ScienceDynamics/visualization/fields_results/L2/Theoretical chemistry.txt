@@ -1,0 +1,25 @@
+----  Field Name Theoretical chemistry: 
+----  Field Level 2.0: 
+----  Field Papers Number 1208:
+----  All time max citation paper: GROMACS: Fast, flexible, and free, 2005, (3272.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1980|2.0|2.0|Journal of Computational Chemistry|Quantum chemical investigations of charge transfer interactions in relation to the electronic theory of cancer. II
+1983|2.0|2.0|Angewandte Chemie|Molecular Mechanics Calculations in Organic Chemistry: Examples of the Usefulness of this Simple NonQuantum Mechanical Model
+1989|7.0|3.5|Angewandte Chemie|Structure and Dynamics of Chiral Molecules
+1990|5.0|2.5|Chemical Engineering Science|Computational advances in catalyst modelling.
+1995|0|0.0|Chemistry: A European Journal|Ab initio Study of the Coordination Modes of the Tetrahydroborato Ligand: Structure of the [Cu(BH4)(PH3)n] (n = 1, 2, 3) Complexes
+1996|0|0.0|Chemistry: A European Journal|The Effect of Microsolvation on E2 and SN2 Reactions: Theoretical Study of the Model System F + C2H5F + nHF
+1998|28.0|0.5|Journal of Chemical Physics|Potential models for simulations of the solvated proton in water
+1999|21.0|10.5|Journal of Computational Chemistry|Chemical reactivity indexes in density functional theory
+2000|75.0|75.0|Biophysical Journal|Mesoscopic undulations and thickness fluctuations in lipid bilayers from molecular dynamics simulations
+2001|20.0|3.0|Journal of Chemical Physics|On the use of graph invariants for efficiently generating hydrogen bond topologies and predicting physical properties of water clusters and ice
+2002|11.0|5.0|Chemical Physics Letters|Electronic interactions between aromatic adsorbates and metal oxide substrates calculated from first principles
+2003|77.0|1.5|Biophysical Journal|Molecular Dynamics Simulations of Phospholipid Bilayers with Cholesterol
+2004|48.0|2.5|Proceedings of the National Academy of Sciences of the United States of America|Simulations of the role of water in the protein-folding mechanism
+2005|857.0|3.0|Journal of Computational Chemistry|GROMACS: Fast, flexible, and free
+2006|62.0|3.5|Nucleic Acids Research|NOMAD-Ref : visualization, deformation and refinement of macromolecular structures based on all-atom normal mode analysis.
+2007|14.0|2.5|Surface Science|Geometrical characterization of adenine and guanine on Cu(110) by NEXAFS, XPS, and DFT calculation
+2008|98.0|5.5|Current Opinion in Structural Biology|Membrane proteins : molecular dynamics simulations.
+2009|394.0|9.0|Angewandte Chemie|QM/MM Methods for Biomolecular Systems
+2010|299.0|8.0|Nature Chemistry|Graphene oxide as a chemically tunable platform for optical applications

@@ -1,0 +1,24 @@
+----  Field Name Microtechnology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1754:
+----  All time max citation paper: Passive mixing in a three-dimensional serpentine microchannel, 2000, (409.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1992|12.0|6.0|IEEE Journal of Quantum Electronics|Modular microchannel cooled heatsinks for high average power laser diode arrays
+1993|2.0|2.0|IEEE Photonics Technology Letters|CW operation of monolithic arrays of surface-emitting folded-cavity InGaAs/AlGaAs diode lasers
+1995|7.0|5.0|IEEE Transactions on Components, Packaging, and Manufacturing Technology: Part A|High performance forced air cooling scheme employing microchannel heat exchangers
+1996|9.0|5.5|Applied Optics|Analysis of a Microchannel Interconnect Based on the Clustering of Smart-Pixel-Device Windows
+1997|29.0|4.0|IEEE\/ASME Journal of Microelectromechanical Systems|Gaseous slip flow in long microchannels
+1998|16.0|4.5||Liquid micromotor driven by continuous electrowetting
+1999|13.0|9.0|IEEE\/ASME Journal of Microelectromechanical Systems|Phase change in microchannel heat sinks with integrated temperature sensors
+2000|82.0|2.0|IEEE\/ASME Journal of Microelectromechanical Systems|Passive mixing in a three-dimensional serpentine microchannel
+2001|60.0|7.0|IEEE\/ASME Journal of Microelectromechanical Systems|Forced convection boiling in a microchannel heat sink
+2002|70.0|6.5|IEEE\/ASME Journal of Microelectromechanical Systems|Measurements and modeling of two-phase flow in microchannels with nearly constant heat flux boundary conditions
+2003|31.0|7.0|Advanced Drug Delivery Reviews|Microfabricated drug delivery systems: from particles to pores
+2004|49.0|9.0|International Journal of Heat and Mass Transfer|Three-dimensional analysis of heat transfer in a micro-heat sink with single phase flow
+2005|96.0|6.0|International Journal of Heat and Mass Transfer|Investigation of heat transfer in rectangular microchannels
+2006|48.0|6.0|Chemical Engineering Science|Numerical study on gas and liquid slugs for Taylor flow in a T-junction microchannel
+2007|54.0|4.0|Chemical Engineering Science|Hydrodynamics and mass transfer characteristics in gasliquid flow through a rectangular microchannel
+2008|56.0|6.0|International Journal of Heat and Mass Transfer|Saturated Flow Boiling Heat Transfer and Pressure Drop in Silicon Microchannel Arrays
+2009|66.0|3.0|Small|Microelectrode arrays for electrochemistry: approaches to fabrication.
+2010|105.0|7.0|Applied Thermal Engineering|An experimental investigation of forced convective cooling performance of a microchannel heat sink with Al 2 O 3 /water nanofluid

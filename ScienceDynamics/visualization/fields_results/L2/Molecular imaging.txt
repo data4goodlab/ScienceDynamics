@@ -1,0 +1,32 @@
+----  Field Name Molecular imaging: 
+----  Field Level 2.0: 
+----  Field Papers Number 4101:
+----  All time max citation paper: Ambient temperature influences Australian native stingless bee (Trigona carbonaria) preference for warm nectar., 2010, (1326.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1979|2.0|2.0|Journal of Chemical Physics|Images of gas molecules by electron holography. I. Theory
+1984|8.0|8.0|Ultramicroscopy|Automatic selection of molecular images from electron micrographs
+1986|5.0|4.0|Biochimica et Biophysica Acta|Structure of mitochondrial F 1 -ATPase studied by electron microscopy and image processing
+1987|25.0|25.0|Journal of Chemical Physics|Molecular images and vibrational spectroscopy of sorbic acid with the scanning tunneling microscope
+1988|3.0|3.0|Biochimica et Biophysica Acta|Structure of the ATP synthase from chloroplasts studied by electron microscopy and image processing
+1989|1.0|0.5|Journal of Electron Microscopy Technique|Protocol for 3D visualization of molecules on mica via the quickfreeze, deepetch technique
+1990|0|0.0|Chromosoma|Electron microscopic study of yeast RNA polymerase A: Analysis of single molecular images
+1992|11.0|6.5|Review of Scientific Instruments|The theory of oscillatorcoupled magnetic resonance with potential applications to molecular imaging
+1993|0|0.0|Journal of Materials Chemistry|Lattice images and molecular images of organic materials
+1994|25.0|12.0|Journal of Chemical Physics|Electron conduction in molecular wires. I. A scattering formalism
+1995|15.0|1.0|Surface Science|Scanning tunneling microscopy observation of copper-phthalocyanine molecules on Si(100) and Si(111) surfaces
+1996|34.0|8.0|FEBS Letters|Molecular imaging of Escherichia coli F 0 F 1 -ATPase in reconstituted membranes using atomic force microscopy
+1997|6.0|1.5|Electrochimica Acta|Dynamics of Pseudomonas aeruginosa azurin and its Cys3Ser mutant at single-crystal gold surfaces investigated by cyclic voltammetry and atomic force microscopy
+1998|8.0|6.0|Ultramicroscopy|Imaging two-dimensional arrays of soluble proteins by atomic force microscopy in contact mode using a sharp supertip
+1999|30.0|14.5|Radiology|Molecular Imaging: Exploring the Next Frontier1
+2000|94.0|17.0|International Journal of Radiation Oncology Biology Physics|Towards multidimensional radiotherapy (MD-CRT): biological imaging and biological conformality
+2001|91.0|13.0|Circulation|Novel MRI Contrast Agent for Molecular Imaging of Fibrin Implications for Detecting Vulnerable Plaques
+2002|153.0|15.0|Proceedings of the National Academy of Sciences of the United States of America|Optical imaging of Renilla luciferase reporter gene expression in living mice
+2003|343.0|13.5|Genes & Development|Molecular imaging in living subjects: seeing fundamental biological processes in a new light
+2004|96.0|8.0|Physics in Medicine and Biology|In vivo molecular and genomic imaging: new challenges for imaging physics
+2005|126.0|9.0|Biomaterials|Characterization of aqueous dispersions of Fe 3 O 4 nanoparticles and their biomedical applications
+2006|203.0|10.0|Circulation|In Vivo Visualization of Embryonic Stem Cell Survival, Proliferation, and Migration After Cardiac Delivery
+2007|466.0|12.0|Nature Medicine|Artificially engineered magnetic nanoparticles for ultra-sensitive molecular imaging
+2008|315.0|10.0|Science|In Vivo Imaging of Membrane-Associated Glycans in Developing Zebrafish
+2009|703.0|11.0|The Journal of Nuclear Medicine|From RECIST to PERCIST: Evolving Considerations for PET response criteria in solid tumors.
+2010|1326.0|13.0|PLOS ONE|Ambient temperature influences Australian native stingless bee (Trigona carbonaria) preference for warm nectar.

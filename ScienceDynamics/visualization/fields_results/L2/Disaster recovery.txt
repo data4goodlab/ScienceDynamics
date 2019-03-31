@@ -1,0 +1,41 @@
+----  Field Name Disaster recovery: 
+----  Field Level 2.0: 
+----  Field Papers Number 3266:
+----  All time max citation paper: A survey of rollback-recovery protocols in message-passing systems, 2002, (770.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1967|11.0|11.0||A structural theory of machine diagnosis
+1973|7.0|7.0|Sigplan Notices|A data flow language for operating systems programming
+1975|0|0.0|Omega-international Journal of Management Science|Inventory control in hospital blood banks
+1976|10.0|10.0|Brain Research|Further studies on the cortical connections of the tegu lizard
+1978|2.0|1.5||A relational storage scheme suitable for derived views
+1980|2.0|0.0|Psychophysiology|Dependence of EDR Recovery Times and Other Electrodermal Measures on Scale of Measurement: A Methodological Clarification
+1981|7.0|2.0|Psychophysiology|The Status of Skin Conductance Recovery Time: An Examination of the Bundy Effect
+1982|23.0|4.0|ACM Transactions on Database Systems|Transactions and consistency in distributed database systems
+1984|13.0|13.0|ACM Computing Surveys|Highly available systems for database applications
+1985|33.0|4.0|symposium on operating systems principles|Replicated distributed programs
+1986|35.0|3.0|Neuroscience|Retrograde labeling of neurons in the brain stem following injections of [ 3 H]choline into the rat spinal cord
+1987|16.0|2.5|Neuroscience|Afferent connections of the nuclei reticularis pontis oralis and caudalis: A horseradish peroxidase study in the rat
+1988|36.0|7.5|very large data bases|The Design of XPRS
+1989|13.0|4.0|international conference on management of data|A comparison of high-availability media recovery techniques
+1990|65.0|4.0|IEEE Computer|Amoeba: a distributed operating system for the 1990s
+1991|47.0|3.0||Transis: a communication sub-system for high availability
+1992|28.0|3.0|ACM Transactions on Computer Systems|Providing high availability using lazy replication
+1993|45.0|6.0|Distributed and Parallel Databases|Parallel database systems: open problems and new issues
+1994|35.0|2.0|international conference on management of data|Data replication for mobile computers
+1995|46.0|2.0|symposium on operating systems principles|Serverless network file systems
+1996|93.0|3.0|Communications of The ACM|The Transis approach to high availability cluster communication
+1997|45.0|2.0|ACM Transactions on Database Systems|An adaptive data replication algorithm
+1998|38.0|3.0||A Scalable and Highly Available System for Serving Dynamic Data at Frequently Accessed Web Sites
+1999|103.0|4.0|IEEE Journal on Selected Areas in Communications|Scalable routing strategies for ad hoc wireless networks
+2000|176.0|3.0|international conference on management of data|Eddies: continuously adaptive query processing
+2001|136.0|3.5||PAST: a large-scale, persistent peer-to-peer storage utility
+2002|357.0|7.0|ACM Computing Surveys|A survey of rollback-recovery protocols in message-passing systems
+2003|121.0|4.0|conference on innovative data systems research|Scalable Distributed Stream Processing
+2004|129.0|6.0|ad hoc networks|A review of routing protocols for mobile ad hoc networks
+2005|79.0|4.0|international conference on management of data|Middleware based data replication providing snapshot isolation
+2006|78.0|3.0|ACM Computing Surveys|A taxonomy of Data Grids for distributed data sharing, management, and processing
+2007|399.0|3.0|IEEE Transactions on Knowledge and Data Engineering|Duplicate Record Detection: A Survey
+2008|102.0|2.0|international world wide web conferences|Non-intrusive monitoring and service adaptation for WS-BPEL
+2009|177.0|2.0|computer and communications security|HAIL: a high-availability and integrity layer for cloud storage
+2010|146.0|3.0|BMC Public Health|The impact of the social environment on children's mental health in a prosperous city: an analysis with data from the city of Munich

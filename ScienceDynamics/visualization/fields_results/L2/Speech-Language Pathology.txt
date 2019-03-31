@@ -1,0 +1,39 @@
+----  Field Name Speech-Language Pathology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1026:
+----  All time max citation paper: Diverse signaling pathways activated by growth factor receptors induce broadly overlapping, rather than independent, sets of genes., 1999, (299.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1971|1.0|1.0|Journal of The American Academy of Child Psychiatry|A Therapeutic Approach to Speech Phobia: Elective Mutism Reexamined.
+1972|2.0|0.0|Journal of Communication Disorders|An assessment of the results of stuttering therapy
+1973|0|0.0|Journal of Experimental Child Psychology|Speech Acquisition in a Nonverbal Isolate Child.
+1978|0|0.0|Journal of School Health|Speech and Hearing Therapy
+1982|0|0.0|Journal of Communication Disorders|A Descriptive Study of Children with Chronic Hoarseness.
+1983|0|0.0|Journal of Communication Disorders|Language-based cognitive abilities in adult aphasia: Rationale for intervention
+1984|4.0|2.0|International Journal of Pediatric Otorhinolaryngology|Communication development in young children with long-term tracheostomies: preliminary report.
+1985|2.0|0.0|Analysis and Intervention in Developmental Disabilities|The language interaction intervention project
+1986|3.0|3.0|Applied Psycholinguistics|Sound change: A phonemic split in a misarticulating child
+1987|2.0|0.0|Journal of Communication Disorders|Articulatory disorders in speech among Finnish-speaking students according to age, sex, and speech therapy
+1988|4.0|0.0|Journal of Autism and Developmental Disorders|Producing Speech Use in Nonverbal Autistic Children by Reinforcing Attempts.
+1989|3.0|1.0|Applied Psycholinguistics|Efficacy of Two Different Types of Speech Therapy for Aphasic Stroke Patients.
+1990|40.0|20.5|Applied Psycholinguistics|Referential mapping: A technique for attaching functional significance to the innovative utterances of an African Grey parrot ( Psittacus erithacus )
+1991|1.0|1.0|Annals of Dyslexia|Language-Learning Disabilities: Paradigms for the Nineties.
+1992|8.0|0.0|Biochemical and Biophysical Research Communications|Characterization of the promoter region of the murine fibroblast growth factor receptor 1 gene
+1993|2.0|1.0|Journal of Communication Disorders|The use of different service delivery models for children with phonological disorders.
+1994|81.0|13.5|Nature Genetics|A common mutation in the fibroblast growth factor receptor 1 gene in Pfeiffer syndrome
+1995|35.0|0.0|Brain Research|A comprehensive analysis of the distribution of FGF-2 and FGFR1 in the rat brain
+1996|78.0|3.0|Cell|Structure of the FGF Receptor Tyrosine Kinase Domain Reveals a Novel Autoinhibitory Mechanism
+1997|47.0|4.0|Developmental Biology|Fibroblast Growth Factor Receptor-1 (FGFR-1) Is Essential for Normal Neural Tube and Limb Development
+1998|24.0|5.0|Human Molecular Genetics|The t(8;13)(p11;q1112) Rearrangement Associated with an Atypical Myeloproliferative Disorder Fuses the Fibroblast Growth Factor Receptor 1 Gene to a Novel Gene RAMP
+1999|193.0|7.5|Cell|Diverse signaling pathways activated by growth factor receptors induce broadly overlapping, rather than independent, sets of genes.
+2000|46.0|5.5|Developmental Biology|Roles for Fgf Signaling during Zebrafish Fin Regeneration
+2001|40.0|6.5|Stroke|Constraint-Induced Therapy of Chronic Aphasia After Stroke
+2002|67.0|6.0|Neuron|FGFR1 Is Required for the Development of the Auditory Sensory Epithelium
+2003|91.0|13.0|Cancer Cell|Effect of angiogenesis inhibition by Id loss and the contribution of bone-marrow-derived endothelial cells in spontaneous murine tumors
+2004|40.0|7.5|Proceedings of the National Academy of Sciences of the United States of America|PKC412 inhibits the zinc finger 198-fibroblast growth factor receptor 1 fusion tyrosine kinase and is active in treatment of stem cell myeloproliferative disorder
+2005|52.0|11.0|Human Mutation|Kallmann syndrome: 14 novel mutations in KAL1 and FGFR1 (KAL2).
+2006|86.0|8.5|Research in Developmental Disabilities|Internet Survey of Treatments Used by Parents of Children with Autism
+2007|76.0|6.0|Breast Cancer Research|FGFR1 amplification in breast carcinomas: a chromogenic in situ hybridisation analysis.
+2008|59.0|6.0|Arthritis Research & Therapy|Novel splice variants derived from the receptor tyrosine kinase superfamily are potential therapeutics for rheumatoid arthritis.
+2009|98.0|7.0|Annals of the New York Academy of Sciences|Evidence for Plasticity in WhiteMatter Tracts of Patients with Chronic Broca's Aphasia Undergoing Intense Intonationbased Speech Therapy
+2010|67.0|7.0|Human Pathology|8p11 myeloproliferative syndrome: a review

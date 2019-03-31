@@ -1,0 +1,40 @@
+----  Field Name Semiotics: 
+----  Field Level 2.0: 
+----  Field Papers Number 1484:
+----  All time max citation paper: Talk to the Virtual Hands: Self-Animated Avatars Improve Communication in Head-Mounted Display Virtual Environments, 2011, (1824.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1975|9.0|9.0|Cognitive Psychology|Specificity of operations in sentence recognition
+1976|8.0|8.0|Cognitive Psychology|Counting strategies and semantic analysis as applied to class inclusion
+1977|2.0|2.0|Social Behavior and Personality|Group salience and stereotyping
+1979|2.0|1.0|Addictive Behaviors|The effects of cue salience and prior training on the behavior of juvenile- and adult-onset obese individuals
+1980|0|0.0|Language Sciences|Meaning-change in the development of grammatical markers
+1981|21.0|2.5|Child Development|Toward Symbolic Functioning: Structure of Early Pretend Games and Potential Parallels with Language.
+1982|4.0|2.0|Physiology & Behavior|Conditioned aversion to a taste perceived while grooming
+1983|14.0|14.0|Administrative Science Quarterly|Semiotics and the Study of Occupational and Organizational Cultures.
+1984|3.0|1.5|Leisure Sciences|Carrying capacity in recreational settings: evolution, appraisal, and application.
+1985|5.0|4.0|Child Development|The Development of Constraints on Symbol-Meaning Structure in Notation: Evidence from Production, Interpretation, and Forced-Choice Judgments.
+1987|1.0|0.5|Journal of Business and Technical Communication|Simplicity in Visual Representation: A Semiotic Approach
+1988|4.0|0.0|The Professional Geographer|THE BUILT ENVIRONMENT AND SOCIAL THEORY: TOWARDS AN ARCHITECTURAL GEOGRAPHY *
+1989|11.0|5.5|Annals of Tourism Research|Primitive and remote: Hill tribe trekking in Thailand
+1990|1.0|0.5|Journal of Literacy Research|A Semiotic Perspective of Text: The Picture Story Book Event.
+1991|5.0|1.5|Learning and Instruction|Learning and Mediation: Fitting Reality into a Table.
+1992|6.0|0.0|Linguistics and Education|Intertextuality and Educational Research.
+1993|25.0|2.5|Western Journal of Communication|Bee Dances, Bird Songs, Monkey Calls, and Cetacean Sonar: Is Speech Unique?.
+1994|8.0|6.0|Information Processing and Management|Inferring depictions in natural-language captions for efficient access to picture data
+1995|31.0|2.5|IEEE Transactions on Pattern Analysis and Machine Intelligence|Parts of visual form: computational aspects
+1996|12.0|2.0|Reading Research Quarterly|A Semiotic Analysis of Young Children's Symbol Making in a Classroom Computer Center
+1997|9.0|2.0|Developmental Review|Language, Culture, and Moral Development: A Vygotskian Perspective
+1998|8.0|2.0||Commercial video retrieval by induced semantics
+1999|98.0|3.0|Behavioral and Brain Sciences|A model of saccade generation based on parallel processing and competitive inhibition
+2000|40.0|2.0|Vision Research|The lateral intraparietal area as a salience map: the representation of abrupt onset, stimulus motion, and task relevance
+2001|16.0|2.0|Review of Educational Research|If Meaning Is Constructed, What Is It Made From? Toward a Cultural Theory of Reading
+2002|132.0|4.5|Vision Research|Modeling the role of salience in the allocation of overt visual attention
+2003|40.0|2.0|Language & Communication|Semiotics and the social analysis of material things
+2004|119.0|3.0|Neuropharmacology|The addicted human brain viewed in the light of imaging studies: brain circuits and treatment strategies
+2005|79.0|3.0|Schizophrenia Research|From dopamine to salience to psychosislinking biology, pharmacology and phenomenology of psychosis
+2006|71.0|7.0|Educational Studies in Mathematics|A Cognitive Analysis of Problems of Comprehension in a Learning of Mathematics.
+2007|89.0|5.0|The American Economic Review|Individual Behavior and Group Membership
+2008|98.0|7.0|Brain and Language|Neuroanatomical Distribution of Five Semantic Components of Verbs: Evidence from fMRI.
+2009|208.0|7.0|Human Brain Mapping|Two systems of resting state connectivity between the insula and cingulate cortex
+2010|293.0|4.0|Annual Review of Neuroscience|Attention, Intention, and Priority in the Parietal Lobe

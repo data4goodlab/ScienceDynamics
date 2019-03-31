@@ -1,0 +1,69 @@
+----  Field Name Chromatography: 
+----  Field Level 1.0: 
+----  Field Papers Number 137783:
+----  All time max citation paper: Precise Measurement of the G+C Content of Deoxyribonucleic Acid by High-Performance Liquid Chromatography, 1989, (2991.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|1.0|0.5|The Journal of Agricultural Science|Factors affecting the stability and estimation of carotene in artificially dried grass and hays.
+1948|3.0|3.0|Journal of Dairy Science|Measurement of Fluorescent Materials in Milk and Milk Products1
+1949|5.0|5.0|Archives of Ophthalmology|Studies of the eye with radiosodium autographs
+1950|6.0|2.0|Nature|Elimination of Losses in the Quantitative Estimation of Amino-Acid by Paper Chromatography
+1952|6.0|6.0|Journal of Pharmacy and Pharmacology|THE MICROBIOLOGICAL ASSAY OF VITAMIN B12 IN CRUDE LIVER EXTRACTS
+1953|2.0|1.5|Journal of the Science of Food and Agriculture|The chemical estimation of vitaminE activity in cereal products. I.The tocopherol pattern of wheatgerm oil
+1954|5.0|4.0|Journal of Dairy Science|The Unsaturated Fatty Acids of Milk Fat1 I. Methyl Ester Fractionation and Isolation of Monoethenoid Constituents
+1955|19.0|2.0|Biochimica et Biophysica Acta|The amino-acid composition of human adult and foetal carbonmonoxyhaemoglobin estimated by ion exchange chromatography
+1956|8.0|5.0|Journal of Chemical Physics|Distribution Coefficient of Boron in Germanium
+1957|12.0|3.5|Journal of Physics and Chemistry of Solids|Variation of the distribution coefficient and solid solubility with temperature
+1958|8.0|3.0|Journal of Physics and Chemistry of Solids|The low-temperature specific heat of graphite
+1959|25.0|5.0|Biochimica et Biophysica Acta|Analysis of human plasma phosphatides by paper chromatography.
+1960|22.0|2.5|Archives of Biochemistry and Biophysics|NEUTRON ACTIVATION PAPER CHROMATOGRAPHIC ANALYSIS OF PHOSPHATIDES IN MAMMALIAN CELL FRACTIONS
+1961|21.0|3.0|Biochemical and Biophysical Research Communications|A comparison between thin-layer chromatography and paper chromatography of nucleic acid derivatives
+1962|18.0|2.0|Journal of Applied Physics|Calcium Tungstate: Czochralski Growth, Perfection, and Substitution
+1963|22.0|3.0|Analytical Biochemistry|A relationship between partition coefficients of carotenoids and their functional groups
+1964|25.0|2.0|Journal of Dairy Science|Structure of Milk Fat Triglycerides1
+1965|78.0|2.0|Journal of Molecular Biology|A two-dimensional fractionation procedure for radioactive nucleotides.
+1966|45.0|2.0|Analytical Biochemistry|A simplified method of sample preparation for determination of tritium, carbon-14, or sulfur-35 in blood or tissue by liquid scintillation counting
+1967|20.0|3.0|Journal of Geophysical Research|Pressure derivatives of the sound velocities of polycrystalline forsterite, with 6% porosity
+1968|29.0|1.0|Journal of Clinical Investigation|The effect of salicylates on the hemostatic properties of platelets in man
+1969|39.0|3.0|Geochimica et Cosmochimica Acta|Distribution of K, Rb, Sr and Ba in some minerals relevant to basalt genesis
+1970|70.0|3.0|Geochimica et Cosmochimica Acta|Phenocryst-matrix partition coefficients for K, Rb, Sr and Ba, with applications to anorthosite and basalt genesis
+1971|45.0|2.0|Geochimica et Cosmochimica Acta|Chemical fractionations in meteoritesIV abundances of fourteen trace elements in L-chondrites; implications for cosmothermometry
+1972|40.0|2.0|Earth and Planetary Science Letters|Metal/silicate fractionation in the solar system
+1973|40.0|1.0|Geochimica et Cosmochimica Acta|Chemical fractionations in meteorites. VI - Accretion temperatures of H-, LL-, and E-chondrites, from abundance of volatile trace elements.
+1974|61.0|2.0|Analytical Biochemistry|Micropolyamide thin-layer chromatography of phenylthiohydantoin amino acids (PTH) at subnanomolar level. A rapid microtechnique for simultaneous multisample identification after automated Edman degradations
+1975|42.0|2.0|Journal of Cell Biology|Acetylcholine receptor turnover in membranes of developing muscle fibers
+1976|59.0|3.0|Nature|Evidence for analgesic activity of enkephalin in the mouse
+1977|41.0|2.0|Geochimica et Cosmochimica Acta|Chemical fractionations in meteorites. VIII - Iron meteorites and the cosmochemical history of the metal phase
+1978|133.0|2.0|Journal of Neurochemistry|DETERMINATION OF CATECHOLAMINES IN RAT BRAIN PARTS BY REVERSEPHASE IONPAIR LIQUID CHROMATOGRAPHY
+1979|90.0|2.0|Life Sciences|Determination of plasma catecholamines by high performance liquid chromatography with electrochemical detection: Comparison with a radioenzymatic method
+1980|88.0|2.5|Journal of Applied Physics|Supersaturated substitutional alloys formed by ion implantation and pulsed laser annealing of groupIII and groupV dopants in silicon
+1981|76.0|2.0|Journal of Neurochemistry|Determination of Picomole Amounts of Dopamine, Noradrenaline, 3,4Dihydroxyphenylalanine, 3,4Dihydroxyphenylacetic Acid, Homovanillic Acid, and 5Hydroxyindolacetic Acid in Nervous Tissue After OneStep Purification on Sephadex G10, Using HighPerformance Liquid Chromatography with a Novel Type of Electrochemical Detection
+1982|83.0|2.0|Journal of Neurochemistry|Simultaneous Determination of 3,4Dihydroxyphenylalanine, 5Hydroxytryptophan, Dopamine, 4Hydroxy3Methoxyphenylalanine, Norepinephrine, 3,4Dihydroxyphenylacetic Acid, Homovanillic Acid, Serotonin, and 5Hydroxyindoleacetic Acid in Rat Cerebrospinal Fluid and Brain by HighPerformance Liquid Chromatography with Electrochemical Detection
+1983|62.0|2.5|Journal of Neurochemistry|Acetylcholine and Choline in Neuronal Tissue Measured by HPLC with Electrochemical Detection
+1984|184.0|2.0|Analytical Biochemistry|Amino acid analysis by reverse-phase high-performance liquid chromatography: precolumn derivatization with phenylisothiocyanate
+1985|86.0|2.0|Neuroscience|Distribution of galanin immunoreactivity in the central nervous system and the responses of galanin-containing neuronal pathways to injury
+1986|67.0|2.0|Earth and Planetary Science Letters|Nb and Pb in oceanic basalts : New constraints on mantle evolution
+1987|67.0|2.0|Gastroenterology|Distribution and characterization of calcitonin gene-related peptide immunoreactivity in the digestive system of normal and capsaicin-treated rats
+1988|109.0|2.0|Apmis|The new stereological tools: Disector, fractionator, nucleator and point sampled intercepts and their use in pathological research and diagnosis
+1989|63.0|2.0|Brain Research|Extracellular serotonin and 5-hydroxyindoleacetic acid in hypothalamus of the unanesthetized rat measured by in vivo dialysis coupled to high-performance liquid chromatography with electrochemical detection: dialysate serotonin reflects neuronal release
+1990|132.0|2.0|Biochemical and Biophysical Research Communications|C-type natriuretic peptide (CNP): a new member of natriuretic peptide family identified in porcine brain.
+1991|79.0|2.0|Earth and Planetary Science Letters|Geochemical and geodynamical constraints on subduction zone magmatism
+1992|66.0|2.0|International Journal of Radiation Oncology Biology Physics|Loss of local control with prolongation in radiotherapy.
+1993|121.0|2.0|Current Biology|Rapid identification of proteins by peptide-mass fingerprinting.
+1994|98.0|2.0|FEBS Letters|Immunoreactive adrenomedullin in human plasma
+1995|140.0|3.0|Journal of Chromatography A|Optical resolution of drugs by capillary electrophoretic techniques
+1996|158.0|3.0|Free Radical Biology and Medicine|Structure-antioxidant activity relationships of flavonoids and phenolic acids
+1997|153.0|3.0|Genes & Development|DNA damage induces phosphorylation of the amino terminus of p53
+1998|650.0|3.0|Cell|Bid, a Bcl2 Interacting Protein, Mediates Cytochrome c Release from Mitochondria in Response to Activation of Cell Surface Death Receptors
+1999|299.0|4.0|Nature Biotechnology|Direct analysis of protein complexes using mass spectrometry
+2000|552.0|5.0|Nature|Proteomics to study genes and genomes.
+2001|774.0|5.0|Nature Biotechnology|Large-scale analysis of the yeast proteome by multidimensional protein identification technology.
+2002|346.0|6.0|Plant Molecular Biology|Metabolomics - the link between genotypes and phenotypes
+2003|286.0|6.0|Nature Materials|Ferromagnetism above room temperature in bulk and transparent thin films of Mn-doped ZnO
+2004|454.0|7.0|Proteomics|Current twodimensional electrophoresis technology for proteomics
+2005|268.0|7.0|Proteomics|Overview of the HUPO Plasma Proteome Project: Results from the pilot phase with 35 collaborating laboratories and multiple analytical groups, generating a core dataset of 3020 proteins and a publiclyavailable database
+2006|953.0|5.0|Nature|Global landscape of protein complexes in the yeast Saccharomyces cerevisiae
+2007|769.0|6.0|Nature Methods|Target-decoy search strategy for increased confidence in large-scale protein identifications by mass spectrometry
+2008|408.0|8.0|Nature|Comprehensive mass-spectrometry-based proteome quantification of haploid versus diploid yeast
+2009|836.0|8.0|Science|The Nuclear DNA Base 5-Hydroxymethylcytosine Is Present in Purkinje Neurons and the Brain
+2010|1349.0|8.0|PLOS ONE|Respiratory chain complexes in dynamic mitochondria display a patchy distribution in life cells.

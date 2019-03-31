@@ -1,0 +1,24 @@
+----  Field Name Big data: 
+----  Field Level 2.0: 
+----  Field Papers Number 2599:
+----  All time max citation paper: Mining sequential patterns, 1995, (2164.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1991|33.0|28.5|ACM Computing Surveys|Evaluation of relational algebras incorporating the time dimension in databases
+1993|13.0|8.0|IEEE Transactions on Knowledge and Data Engineering|Relational database systems with zero information loss
+1994|19.0|19.0|IEEE Transactions on Knowledge and Data Engineering|Temporal specialization and generalization
+1995|117.0|97.0|international conference on data engineering|Mining sequential patterns
+1996|11.0|4.0|IEEE Transactions on Knowledge and Data Engineering|Extending existing dependency theory to temporal databases
+1997|14.0|7.0|Information Systems|Schema versioning for multitemporal relational databases
+1998|23.0|3.5|IEEE Transactions on Knowledge and Data Engineering|Designing access methods for bitemporal databases
+1999|2.0|1.0|data and knowledge engineering|Overlapping B + -trees: an implementation of a transaction time access method
+2000|1.0|1.0|statistical and scientific database management|Light-weight indexing of general bitemporal data
+2001|5.0|2.5|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|Using critical path analysis to model multimodal human-computer interaction
+2002|4.0|4.0|very large data bases|Indexing of now-relative spatio-bitemporal data
+2004|19.0|13.0|international world wide web conferences|Managing versions of web documents in a transaction-time web server
+2005|16.0|16.0|Journal of Computational and Graphical Statistics|Visualizing online auctions.
+2006|0|0.0||Industrial Challenges in the Composition of Embedded Systems
+2007|11.0|3.0|international conference on principles of distributed systems|ASAP: a camera sensor network for situation awareness
+2008|221.0|3.0|international symposium on object/component/service-oriented real-time distributed computing|Cyber Physical Systems: Design Challenges
+2009|70.0|1.0|Communications of The ACM|Computing needs time
+2010|72.0|4.0|Automatica|An ISS self-triggered implementation of linear controllers

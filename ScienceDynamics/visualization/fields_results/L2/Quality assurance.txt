@@ -1,0 +1,52 @@
+----  Field Name Quality assurance: 
+----  Field Level 2.0: 
+----  Field Papers Number 15625:
+----  All time max citation paper: A method for registration of 3-D shapes, 1992, (4546.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1955|13.0|13.0|Journal of Chemical Physics|Mass Spectrometric Investigation of Active Nitrogen
+1966|11.0|9.0|Archives of Dermatology|PHOTOALLERGIC CONTACT DERMATITIS DUE TO HALOGENATED SALICYLANILIDES AND RELATED COMPOUNDS.
+1967|5.0|2.5|Journal of Allergy|Experimental eosinophilia: IX. Effects of immunosuppressive agents on eosinophil cell responses
+1968|2.0|0.0|Genetics Research|LOCI OF RADIATION SENSITIVITY IN Bs STRAINS OF ESCHERICHIA COLI.
+1969|2.0|2.0|international conference on computational linguistics|Computational linguistic techniques in an on-line system for textual analysis
+1970|7.0|6.5|Attention Perception & Psychophysics|Visual and tactual form complexity:A psychophysical approach to perceptual equivalence
+1971|2.0|0.0|Proceedings of the IEEE|Thin-film processes for microelectronic application
+1972|6.0|3.0|The New England Journal of Medicine|Research and Development in Quality Assurance: The Experimental Medical Care Review Organization Program
+1973|1.0|0.5|IEEE Transactions on Biomedical Engineering|The Recording of Echocardiograms with an Intensity-Modulated Ink-Jet Oscillograph
+1974|7.0|1.0|Nature|Depth perception in disparity gratings
+1975|2.0|1.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Detection, location, and removal of delay-free loops in digital filter configurations
+1976|12.0|1.0|international conference on software engineering|Quantitative evaluation of software quality
+1977|13.0|0.0|Radio Science|Refractive index variance and its height distribution in different air masses
+1978|20.0|1.5|Review of Scientific Instruments|Rapid data collection, analysis, and graphics for flow microfluorometry instrumentation
+1979|7.0|2.0|Journal of Geophysical Research|Internal processes affecting surfaces of low-density satellites: Ganymede and Callisto
+1980|5.0|0.0|Review of Scientific Instruments|Digital data acquisition and analysis of striated muscle diffraction patterns with a direct memory access microprocessor system
+1981|10.0|0.0|IEEE Transactions on Biomedical Engineering|Autoregressive Estimation of Short Segment Spectra for Computerized EEG Analysis
+1982|24.0|0.0|Cancer|Impact of irradiation technique and tumor extent in tumor control and survival of patients with unresectable nonoat cell carcinoma of the lung. Report by the radiation therapy oncology group
+1983|23.0|1.0|Environmental Research|Assessment of exposure to lead and cadmium through biological monitoring:results of a UNEP/WHO global study
+1984|16.0|1.0|ACM Transactions on Information Systems|LDC-1: a transportable, knowledge-based natural language processor for office environments
+1985|19.0|2.0|IEEE Journal on Robotics and Automation|Distance functions and their application to robot path planning in the presence of obstacles
+1986|53.0|2.0|Neuroscience|Amino acid neurotoxicity: Relationship to neuronal depolarization in rat cerebellar slices
+1987|76.0|0.5|Neuroscience|Quantitative autoradiography of dopamine D 2 sites in rat caudate-putamen: Localization to intrinsic neurons and not to neocortical afferents
+1988|37.0|3.0|Computer Networks and Isdn Systems|A protocol test generation procedure
+1989|44.0|3.0|IEEE Transactions on Software Engineering|Formal methods for protocol testing: a detailed study
+1990|27.0|1.0|Radiotherapy and Oncology|Quality assurance in radiotherapy by in vivo dosimetry. 1. Entrance dose measurements, a reliable procedure
+1991|74.0|2.0|Review of Educational Research|Learning with Media.
+1992|122.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A method for registration of 3-D shapes
+1993|76.0|2.0|Annals of Internal Medicine|The Risk of Determining Risk with Multivariable Models
+1994|62.0|2.0|Proceedings of the IEEE|Real-time communication in packet-switched networks
+1995|57.0|2.0|IEEE Transactions on Software Engineering|Comparing detection methods for software requirements inspections: a replicated experiment
+1996|79.0|2.0|IEEE Transactions on Image Processing|An image multiresolution representation for lossless and lossy compression
+1997|49.0|2.5|Journal of Lightwave Technology|Microring resonator channel dropping filters
+1998|56.0|3.0|JAMA|Improving the Quality of Care for Medicare Patients With Acute Myocardial Infarction: Results From the Cooperative Cardiovascular Project
+1999|116.0|3.0|Journal of Structural Biology|EMAN: Semiautomated Software for High-Resolution Single-Particle Reconstructions
+2000|81.0|3.0|operating systems design and implementation|Policies for dynamic clock scheduling
+2001|94.0|3.0|Journal of Geophysical Research|An emerging groundbased aerosol climatology: Aerosol optical depth from AERONET
+2002|138.0|3.0|Remote Sensing of Environment|First operational BRDF, albedo nadir reflectance products from MODIS
+2003|177.0|4.0|Annals of The Association of American Geographers|MultiAgent Systems for the Simulation of LandUse and LandCover Change: A Review
+2004|134.0|4.0|American Journal of Obstetrics and Gynecology|Nuchal translucency and other first-trimester sonographic markers of chromosomal abnormalities
+2005|137.0|4.0|winter simulation conference|Verification and validation of simulation models
+2006|213.0|4.0|Foundations and Trends in Networking|Resource allocation and cross-layer control in wireless networks
+2007|241.0|4.0|International Journal of Remote Sensing|GLC2000: a new approach to global land cover mapping from Earth observation data
+2008|160.0|3.0|Communications in Soil Science and Plant Analysis|Nitric acid digestion and multielement analysis of plant material by inductively coupled plasma spectrometry
+2009|212.0|3.0|Ecological Economics|A review of recent multi-region input-output models used for consumption-based emission and resource accounting
+2010|524.0|4.0|Journal of Applied Ecology|Distance software: design and analysis of distance sampling surveys for estimating population size

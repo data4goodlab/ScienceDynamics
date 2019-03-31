@@ -1,0 +1,69 @@
+----  Field Name Information technology
+----  Field Level 2.0
+----  Field Papers Number 197548
+----  All time max citation paper MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods., 2011, (17325.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1908|0|0.0|Journal of Hygiene|The Principles involved in the Standardisation of Disinfectants and the Influence of Organic Matter upon Germicidal value
+1929|0|0.0|Journal of Hygiene|The Small-flaking or O Agglutination of Permanent Standardised O Suspensions of B. typhosus by the Serums of Normal, Inoculated and Infected Persons
+1931|1.0|1.0|JAMA Pediatrics|MALNUTRITION IN CHILDREN: AN ATTEMPT AT STANDARDIZATION OF A DIETARY
+1940|2.0|0.5|Journal of Dairy Science|The Coagulation Temperature of Milk as Affected by pH, Salts, Evaporation and Previous Heat Treatment
+1942|4.0|4.0|American Heart Journal|The electrocardiogram after standard exercise as a functional test of the heart
+1943|6.0|6.0|Journal of Dairy Science|Observations on the Ascorbic Acid Content of Evaporated Milk*
+1946|3.0|3.0|Journal of the American Oil Chemists' Society|Selective Hydrogenation in the Preparation o( Purified Oleic Acid From Animal Fats. EliminatiOn of Extremely Low Crystallization Temperatures I
+1948|2.0|2.0|Digestive Diseases and Sciences|Pancreas function tests
+1949|0|0.0|Bulletin of Entomological Research|The persistent Toxicity under standardised field Conditions of Pyrethrum, DDT and Gammexane against Pests of stored Food
+1950|5.0|1.5|Journal of Pharmacy and Pharmacology|The determination of vitamin A.
+1955|1.0|0.0|Journal of Dairy Science|Studies on the Availability of Nitrogen from Various Ammoniated Products for Rumen Bacteria and Dairy Cattle
+1957|0|0.0|Arctic|Geological Investigations in Ellesmere and Axel Heiberg Islands, 1956
+1958|0|0.0|Canadian Journal of Anaesthesia-journal Canadien D Anesthesie|Pulmonary emphysema and associated problems in anaesthesia. a review
+1960|9.0|2.0|Journal of Dairy Science|Cheddar Cheese Flavor. II. Changes in Flavor Quality and Ripening Products of Commercial Cheddar Cheese during Controlled Curing1
+1962|17.0|2.0|Journal of Applied Physics|Work Function Variation of Metals Coated by Metallic Films
+1963|7.0|4.5|Journal of Molecular Biology|Studies on the chemical nature and size of sex factors of Escherichia coli K12
+1964|4.0|1.0|Virology|Quantitative assay of psittacosis virus by the fluorescent cell-counting technique
+1965|45.0|2.0|Journal of Molecular Biology|Mapping of suppressor loci in Escherichia coli
+1966|5.0|2.0|IEEE Transactions on Information Theory|A coding scheme for additive noise channels with feedback--I: No bandwidth constraint
+1967|7.0|2.5|Digestive Diseases and Sciences|Liver morphology and function tests in obesity and during total starvation
+1968|12.0|1.0|IEEE Transactions on Information Theory|On a class of majority-logic decodable cyclic codes
+1969|8.0|1.5|Journal of Applied Psychology|Conceptual and Operational Problems in the Measurement of Various Aspects of Job Satisfaction.
+1970|13.0|1.0|Psychopharmacology|Uses and limitations of photocell activity cages for assessing effects of drugs
+1971|24.0|1.0|Communications of The ACM|Toward an understanding of data structures
+1972|88.0|1.0|Communications of The ACM|On the criteria to be used in decomposing systems into modules
+1973|22.0|1.0|Journal of Mass Spectrometry|Quantitative mass spectrometry by internal standardisation using a single focusing mass spectrometer and the peak switching facilities of a peak matching device
+1974|11.0|2.0|international conference on management of data|An approach to implementing a relational data management system
+1975|16.0|1.0|Journal of Chemical Physics|Elastic and rotationally inelastic HH2 and HD2 collisions
+1976|25.0|1.0|Progress in Cardiovascular Diseases|Afterload mismatch and preload reserve: a conceptual framework for the analysis of ventricular function.
+1977|56.0|1.0|Journal of Clinical Investigation|Nephrogenous Cyclic Adenosine Monophosphate as a Parathyroid Function Test
+1978|36.0|2.0|Proceedings of the IEEE|An introduction to local area networks
+1979|38.0|2.0|Journal of the Operational Research Society|The Future of Operational Research is Past
+1980|76.0|2.0|ACM Computing Surveys|The Hearsay-II Speech-Understanding System: Integrating Knowledge to Resolve Uncertainty
+1981|53.0|2.0|IEEE Transactions on Communications|Local-Area Subnetworks: A Performance Comparison
+1982|65.0|2.0|Communications of The ACM|Grapevine: an exercise in distributed computing
+1983|45.0|1.0|Communications of The ACM|The management of end user computing
+1984|326.0|1.0|Neurology|Clinical diagnosis of Alzheimer's disease Report of the NINCDSADRDA Work Group* under the auspices of Department of Health and Human Services Task Force on Alzheimer's Disease
+1985|37.0|2.0|Annals of Internal Medicine|Bronchoalveolar Lavage: Role in the Pathogenesis, Diagnosis, and Management of Interstitial Lung Disease
+1986|100.0|2.0|Communications of The ACM|Andrew: a distributed personal computing environment
+1987|61.0|2.0|IEEE Transactions on Communications|Input Versus Output Queueing on a Space-Division Packet Switch
+1988|128.0|2.0|Psychological Review|Optimality in human motor performance: Ideal control of rapid aimed movements.
+1989|74.0|2.0|Management Science|User acceptance of computer technology: a comparison of two theoretical models
+1990|106.0|2.0|Administrative Science Quarterly|Absorptive Capacity: A New Perspective on Learning and Innovation
+1991|163.0|2.0|IEEE Journal on Selected Areas in Communications|Equivalent capacity and its application to bandwidth allocation in high-speed networks
+1992|143.0|2.0|acm special interest group on data communication|Supporting real-time applications in an Integrated Services Packet Network: architecture and mechanism
+1993|83.0|2.0|acm special interest group on data communication|On the self-similar nature of Ethernet traffic
+1994|255.0|2.0|IEEE\/ACM Transactions on Networking|On the self-similar nature of Ethernet traffic (extended version)
+1995|214.0|3.0|international symposium on microarchitecture|Myrinet: a gigabit-per-second local area network
+1996|190.0|2.0||A hierarchical internet object cache
+1997|281.0|2.5|IEEE Communications Magazine|A survey of active network research
+1998|243.0|3.0|Remote Sensing of Environment|AERONETA Federated Instrument Network and Data Archive for Aerosol Characterization
+1999|386.0|4.0|IEEE\/ACM Transactions on Networking|Promoting the use of end-to-end congestion control in the Internet
+2000|1035.0|3.0|Nucleic Acids Research|The Pfam protein families database
+2001|834.0|4.0|Science|Spintronics: A Spin-Based Electronics Vision for the Future
+2002|536.0|4.0|Advanced Materials|Organic Thin Film Transistors for Large Area Electronics
+2003|1931.0|4.0|IEEE\/ACM Transactions on Networking|Chord: a scalable peer-to-peer lookup protocol for Internet applications
+2004|1580.0|5.0|Nucleic Acids Research|MUSCLE: multiple sequence alignment with high accuracy and high throughput.
+2005|471.0|4.0|network and parallel computing|Globus toolkit version 4: software for service-oriented systems
+2006|1124.0|4.0|Nucleic Acids Research|miRBase: microRNA sequences, targets and gene nomenclature
+2007|1289.0|4.0|Acta Neuropathologica|The 2007 WHO classification of tumours of the central nervous system.
+2008|1906.0|3.0|Nature Nanotechnology|Processable aqueous dispersions of graphene nanosheets
+2009|1995.0|3.0|Nature Nanotechnology|Chemical methods for the production of graphenes
+2010|1557.0|4.0|Acta Crystallographica Section D-biological Crystallography|MolProbity: all-atom structure validation for macromolecular crystallography

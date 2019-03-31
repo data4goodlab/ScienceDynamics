@@ -1,0 +1,49 @@
+----  Field Name Network security: 
+----  Field Level 2.0: 
+----  Field Papers Number 12577:
+----  All time max citation paper: Wireless sensor networks: a survey, 2002, (3602.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|12.0|12.0|Cell and Tissue Research|HISTOCHEMICAL DEMONSTRATION OF MONOAMINE OXIDASE IN THE ttYPOTHALAMO-HYP OPHYSIAL SYSTEM OF THE TREE SPARROW AND THE RAT*
+1969|10.0|6.5|Journal of Geophysical Research|Seismicrefraction measurements in the Northwest Pacific Basin
+1970|4.0|4.0|Physics of the Earth and Planetary Interiors|Folding of laterally compressed multilayers in the field of gravity, I
+1971|144.0|2.0|Journal of Geophysical Research|Reykjanes ridge crest: A detailed geophysical study
+1972|5.0|5.0|Earth and Planetary Science Letters|Sea floor spreading, progressive alteration of layer 2 basalts, and associated changes in seismic velocities
+1973|9.0|5.5|Earth and Planetary Science Letters|Velocities, elastic moduli and weathering-age relations for pacific layer 2 basalts
+1974|5.0|2.5|Contributions to Mineralogy and Petrology|O18 enriched ophiolitic metabasic rocks from E. Liguria (Italy), Pindos (Greece), and Troodos (Cyprus)
+1975|57.0|4.0|Reviews of Geophysics|Structure and constitution of the lower oceanic crust
+1976|49.0|0.5|Journal of Geophysical Research|Upper crustal structure as a function of plate age
+1977|15.0|4.5|Journal of Geophysical Research|Seismic refraction and reflection studies of crustal structure of the Eastern Sunda and Western Banda Arcs
+1978|26.0|6.0|Journal of Geophysical Research|Necking of the lithosphere and the mechanics of slowly accreting plate boundaries
+1979|12.0|4.0|Journal of Geophysical Research|Seismic anisotropy in the oceanic upper mantle: Evidence from the Bay of Islands Ophiolite Complex
+1980|32.0|7.0|Journal of Geophysical Research|The crustal structure of the kane fracture zone from seismic refraction studies
+1981|29.0|9.0|Journal of Geophysical Research|Samail Ophiolite plutonic suite: Field relations, phase variation, cryptic variation and layering, and a model of a spreading ridge magma chamber
+1982|30.0|4.0|Nature|DSDP Hole 504B, the first reference section over 1 km through Layer 2 of the oceanic crust
+1983|14.0|3.0|Icarus|Study of the deep cloud structure in the equatorial region of Jupiter from voyager infrared and visible data
+1984|14.0|2.0|Journal of Geophysical Research|Evidence for a thick oceanic crust adjacent to the Norwegian Margin
+1985|27.0|5.0|Journal of Applied Physics|Characterization of epitaxially grown GaAs on Si substrates with IIIV compounds intermediate layers by metalorganic chemical vapor deposition
+1986|27.0|5.0|Journal of Geophysical Research|Hydrothermal alteration of a 1 km section through the upper oceanic crust, Deep Sea Drilling Project Hole 504B: Mineralogy, chemistry and evolution of seawaterbasalt interactions
+1987|4.0|2.0|Journal of Geophysical Research|Variations in oceanic layer 2 elastic velocities near Hawaii and their correlation to lithospheric flexure
+1988|16.0|6.0|IEEE Transactions on Communications|Reliable link initialization procedures
+1989|27.0|3.0|Reviews of Geophysics|Drilling deep into young oceanic crust, Hole 504B, Costa Rica Rift
+1990|140.0|6.0|The Journal of Neuroscience|Cerebral hypoxia: some new approaches and unanswered questions
+1991|33.0|1.0|vehicular technology conference|Second generation wireless information networks
+1992|25.0|3.0|european symposium on research in computer security|KryptoKnight Authentication and Key Distribution System
+1993|26.0|7.0|Reviews of Geophysics|Crustal structure of North Atlantic Fracture Zones
+1994|32.0|3.0|Journal of Applied Physics|White light from an electroluminescent diode made from poly[3(4octylphenyl)2,2bithiophene] and an oxadiazole derivative
+1995|36.0|3.0|IEEE Transactions on Software Engineering|State transition analysis: a rule-based intrusion detection approach
+1996|61.0|4.0|IEEE Personal Communications|Wireless ATM: limits, challenges, and proposals
+1997|118.0|6.0|IEEE\/ACM Transactions on Networking|The performance of TCP/IP for networks with high bandwidth-delay products and random loss
+1998|95.0|5.0|acm special interest group on data communication|High-speed policy-based packet forwarding using efficient multi-dimensional range matching
+1999|191.0|7.0|IEEE Network|Internet QoS: a big picture
+2000|362.0|6.0|acm ieee international conference on mobile computing and networking|GPSR: greedy perimeter stateless routing for wireless networks
+2001|230.0|8.0|IEEE Network|A survey on position-based routing in mobile ad hoc networks
+2002|859.0|6.0|Computer Networks|Wireless sensor networks: a survey
+2003|244.0|6.0|Mobile Networks and Applications|Stimulating cooperation in self-organizing mobile ad hoc networks
+2004|304.0|5.0|IEEE\/ACM Transactions on Networking|Analyzing peer-to-peer traffic across large networks
+2005|140.0|4.0|Journal of Machine Learning Research|Core Vector Machines: Fast SVM Training on Very Large Data Sets
+2006|282.0|3.0|ACM Transactions on Computer Systems|Inferring Internet denial-of-service activity
+2007|169.0|3.0|NeuroImage|Sequence of information processing for emotions based on the anatomic dialogue between prefrontal cortex and amygdala
+2008|205.0|2.0|acm special interest group on data communication|NOX: towards an operating system for networks
+2009|289.0|2.0|JAMA|Mortality Risk Associated With Low-Trauma Osteoporotic Fracture and Subsequent Fracture in Men and Women
+2010|218.0|3.0|ieee symposium on security and privacy|Security and Privacy Challenges in Cloud Computing Environments

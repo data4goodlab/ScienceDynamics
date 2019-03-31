@@ -1,0 +1,34 @@
+----  Field Name Image retrieval: 
+----  Field Level 2.0: 
+----  Field Papers Number 6703:
+----  All time max citation paper: Content-based image retrieval at the end of the early years, 2000, (2809.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1975|0|0.0|IEEE Transactions on Computers|Nonredundant Point Distribution for Coded Aperture Imaging with Application to Three-Dimensional On-Line X-Ray Information Retrieving
+1981|13.0|13.0|IEEE Computer|Pictorial Data-Base Systems
+1982|3.0|3.0|IEEE Computer Graphics and Applications|Perceptual Components of Computer Displays
+1986|2.0|2.0|international conference on data engineering|A framework of expert system with strategic knowledge
+1987|5.0|2.5|international acm sigir conference on research and development in information retrieval|An approach to image retrieval from large image databases
+1988|31.0|15.5|IEEE Transactions on Software Engineering|An intelligent image database system
+1989|4.0|2.5|IEEE Journal on Selected Areas in Communications|Packetized radiographic image transfers over local area networks for diagnosis and conferencing
+1990|3.0|2.0|IEEE Transactions on Applications and Industry|Artificial intelligence and imagery
+1991|12.0|6.0|IEEE Journal on Selected Areas in Communications|Distributed source control: a network access control for integrated broadband packet networks
+1992|28.0|6.0|IEEE Transactions on Geoscience and Remote Sensing|Measurement of oceanic wind vector using satellite microwave radiometers
+1993|33.0|5.5|IEEE Transactions on Knowledge and Data Engineering|A visual information management system for the interactive retrieval of faces
+1994|23.0|7.0|acm multimedia|Content-based retrieval of segmented images
+1995|153.0|4.5|IEEE Computer|Chabot: retrieval from a relational database of images
+1996|168.0|5.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Texture features for browsing and retrieval of image data
+1997|96.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Visual image retrieval by elastic matching of user sketches
+1998|162.0|3.0|IEEE Transactions on Circuits and Systems for Video Technology|Relevance feedback: a power tool for interactive content-based image retrieval
+1999|234.0|6.0|Journal of Visual Communication and Image Representation|Image Retrieval: Current Techniques, Promising Directions, and Open Issues
+2000|560.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Content-based image retrieval at the end of the early years
+2001|195.0|3.0|acm multimedia|Support vector machine active learning for image retrieval
+2002|301.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Blobworld: image segmentation using expectation-maximization and its application to image querying
+2003|265.0|3.0|international acm sigir conference on research and development in information retrieval|Automatic image annotation and retrieval using cross-media relevance models
+2004|360.0|4.0|computer vision and pattern recognition|PCA-SIFT: a more distinctive representation for local image descriptors
+2005|213.0|3.0|international conference on computer vision|Learning object categories from Google's image search
+2006|161.0|3.0|european conference on computer vision|Scene Classification Via pLSA
+2007|393.0|2.0|computer vision and pattern recognition|Object retrieval with large vocabularies and fast spatial matching
+2008|935.0|2.0|ACM Computing Surveys|Image retrieval: Ideas, influences, and trends of the new age
+2009|616.0|1.0|computer vision and pattern recognition|ImageNet: A large-scale hierarchical image database
+2010|278.0|3.0|computer vision and pattern recognition|Aggregating local descriptors into a compact image representation

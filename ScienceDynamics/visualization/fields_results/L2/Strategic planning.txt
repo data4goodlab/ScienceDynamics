@@ -1,0 +1,45 @@
+----  Field Name Strategic planning: 
+----  Field Level 2.0: 
+----  Field Papers Number 5802:
+----  All time max citation paper: Firm Resources and Sustained Competitive Advantage, 1991, (13783.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|2.0|2.0|Socio-economic Planning Sciences|Mathematical methods of optimization for multi-objective transportation systems
+1972|1.0|1.0|Technological Forecasting and Social Change|Strategic planning II: Policy options
+1973|1.0|1.0|Technological Forecasting and Social Change|Strategic planning III: Objectives and program options
+1974|4.0|4.0|Long Range Planning|Strategic planning in 21 U.K. companies
+1976|4.0|1.0||From strategic planning to strategic management
+1977|5.0|1.0|Long Range Planning|Importance of relative market share in strategic planning  A case study
+1978|2.0|1.0|Long Range Planning|Long-range strategic planning: Is it for everyone?
+1979|5.0|2.0|Long Range Planning|Evaluating alternative approaches to strategic planning
+1980|16.0|2.0|Strategic Management Journal|A critical view of dialectical inquiry as a tool in strategic planning
+1981|8.0|1.0|Long Range Planning|Environmental scanning and forecasting in strategic planningThe state of the art
+1982|4.0|0.0|Transportation Research Part A: General|Ranking of suburban line extension projects on the Paris metro system by a multicriteria method
+1983|16.0|1.0|Management Science|The Correlates of Entrepreneurship in Three Types of Firms
+1984|14.0|6.0|Management Science|A Model of Venture Capitalist Investment Activity
+1985|5.0|1.0|Management Science|The Optimal Acquisition of Automation to Enhance the Productivity of Labor
+1986|12.0|2.5|Management Science|Strategic factor markets: expectations, luck, and business strategy
+1987|15.0|1.0|international conference on robotics and automation|Planning robotic manipulation strategies for sliding objects
+1988|17.0|2.0|Omega-international Journal of Management Science|The impact of information systems planning on the organization
+1989|40.0|2.0|Strategic Management Journal|Strategic management of small firms in hostile and benign environments
+1990|15.0|1.0|international conference on computer communications|Performance of an ATM switch: simulation study
+1991|175.0|2.0|Journal of Management|Firm Resources and Sustained Competitive Advantage
+1992|19.0|2.0|international conference on robotics and automation|Learning reactive admittance control
+1993|94.0|2.0|IEEE Transactions on Automatic Control|Nonholonomic motion planning: steering using sinusoids
+1994|13.0|2.0|Family Business Review|A Neglected Factor Explaining Family Business Success: Human Resource Practices
+1995|31.0|1.0|Strategic Management Journal|A resourcebased approach to the multibusiness firm: Empirical analysis of portfolio interrelationships and corporate financial performance
+1996|23.0|1.0|Management Information Systems Quarterly|Issues and concerns about computer-supported meetings: the facilitator's perspective
+1997|30.0|1.5|Industrial Marketing Management|A portfolio approach to supplier relationships
+1998|96.0|2.0|Mobile Networks and Applications|Hierarchically-organized, multihop mobile wireless networks for quality-of-service support
+1999|50.0|2.0|Organization Science|Prolegomena on Coevolution: a Framework for Research on Strategy and New Organizational Forms
+2000|42.0|2.0|Parasitology Today|Distribution of African Malaria Mosquitoes Belonging to the Anopheles gambiae Complex
+2001|40.0|3.0|hawaii international conference on system sciences|The impact of critical success factors across the stages of enterprise resource planning implementations
+2002|96.0|2.0|Educational Researcher|Scientific Culture and Educational Research
+2003|70.0|4.0|Strategic Management Journal|Strategic planning in a turbulent environment: evidence from the oil majors
+2004|153.0|4.0|Management Information Systems Quarterly|Review: the resource-based view and information systems research: review, extension, and suggestions for future research
+2005|106.0|3.0|European Journal of Operational Research|Facility location models for distribution system design
+2006|61.0|3.0|IEEE Transactions on Engineering Management|Antecedents and outcomes of strategic IS alignment: an empirical investigation
+2007|134.0|3.0|Journal of Education Policy|Neoliberalism, higher education and the knowledge economy: from the free market to knowledge capitalism
+2008|223.0|2.0|Applied Psychology|Modeling Health Behavior Change: How to Predict and Modify the Adoption and Maintenance of Health Behaviors
+2009|370.0|3.0|Frontiers in Ecology and the Environment|Ecosystem Services in Decision Making: Time to Deliver
+2010|583.0|3.0|Circulation|Defining and Setting National Goals for Cardiovascular Health Promotion and Disease Reduction The American Heart Associations Strategic Impact Goal Through 2020 and Beyond

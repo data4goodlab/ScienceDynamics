@@ -1,0 +1,81 @@
+----  Field Name Inorganic chemistry: 
+----  Field Level 1.0: 
+----  Field Papers Number 31712:
+----  All time max citation paper: Measurement of Cutaneous Inflammation: Estimation of Neutrophil Content with an Enzyme Marker, 1982, (1673.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1918|1.0|1.0|Journal of the American Ceramic Society|A CONTRIBUTION TO THE METHODS OF GLASS ANALYSIS, WITH SPECIAL REFERENCE TO BORIC ACID AND THE TWO OXIDES OF ARSENIC.
+1923|6.0|6.0|European Journal of Inorganic Chemistry|ber hydrierte polycyclische Ringsysteme, II. Mitteilung; ber die Stereoisomerie des Bicyclohexans
+1925|0|0.0|European Journal of Inorganic Chemistry|Neues aus der ZuckerChemie (VIII. Mitteilung)
+1928|10.0|7.0|European Journal of Inorganic Chemistry|Die Konstitution der Stickstoffwasserstoffsure und ihrer Ester
+1930|3.0|1.0|European Journal of Inorganic Chemistry|ber UmlagerungsReaktionen in der KohlenhydratGruppe, IV. Mitteil.: Zur Kinetik der Umlagerung der 3Acetylmonoacetonglucose
+1932|3.0|3.0|JAMA|MILK IRRADIATED BY THE CARBON ARC LAMP: A CLINICAL AND LABORATORY STUDY OF RICKETS
+1933|5.0|5.0|European Journal of Inorganic Chemistry|ber die Abspaltung der Aldehydgruppe als Ameisensure aus aromatischen Aldehyden, I. Mitteil.: Polychlorbenzaldehyde
+1935|1.0|1.0|European Journal of Inorganic Chemistry|Zur Frage nach dem Mechanismus der EsterKondensationen. Erwiderung an die HHrn. Scheibler und Bodendorf
+1937|1.0|1.0|European Journal of Inorganic Chemistry|Partialsynthese von Fraxidin und Isofraxidin sowie Synthese eines anderen Abkmmlings des 6.7.8Trioxycumarins (XXXII. Mitteil. ber natrliche Cumarine)
+1939|0|0.0|Journal of Hygiene|Incubation at 44C. as a test for faecal coli
+1940|14.0|4.0|European Journal of Inorganic Chemistry|ber Invertseifen I; die Einwirkung von Invertseifen auf EiweiStoffe
+1942|4.0|2.0|Parasitology|The inactivation of plant viruses by radiations.
+1945|1.0|1.0|Annals of Applied Biology|The infected root-hair count for estimating the activity of Plasmodiophora brassicae (Woron.) in the soil.
+1948|4.0|2.5|American Journal of Anatomy|The chemical histology of the human placenta and decidua with reference to mucopolysaccharides, glycogen, lipids and acid phosphatase
+1950|3.0|1.5|Journal of Dairy Research|427. The acid phosphatase of cows' milk: I. Some properties of the enzyme
+1951|2.0|2.0|Nature|Effects of a Protein-Free Diet on the Alkaline and Acid Phosphatase Activity of the Liver of the Rat
+1952|3.0|2.0|Journal of Experimental Zoology|Malformations of chicken embryos produced by boric acid and the probable role of riboflavin in their origin
+1953|5.0|2.0|The Journal of Pediatrics|Transcutaneous absorption of boric acid
+1954|9.0|9.0|Cancer|Acidphosphatase activity of normal and neoplastic human tissues
+1955|3.0|1.0|Archives of Biochemistry and Biophysics|Acid phosphatase. III. Specific kinetic properties of highly purified human prostatic phosphomonoesterase
+1956|2.0|1.0|Archives of Biochemistry and Biophysics|The intracellular distribution of a bound acid phosphatase of rat liver as studied by gradient centrifugation
+1957|2.0|0.0|Archives of Biochemistry and Biophysics|Essential amino acid deficiency and enzyme activity.
+1958|3.0|0.0|Archives of Biochemistry and Biophysics|On the mechanism of enzyme action. LXVI. Comparative studies on acid phosphatases
+1959|7.0|1.0|The American Journal of Medicine|The clinical significance of serum acid phosphatase
+1960|30.0|5.0|Geochimica et Cosmochimica Acta|Determinations of concentrations of heavy elements in meteorites by activation analysis
+1961|16.0|3.0|Journal of Chemical Physics|Reconsiderations of Nucleation Theory
+1962|14.0|4.0|Journal of Applied Physics|ATOM EJECTION IN LOW ENERGY SPUTTERING OF SINGLE CRYSTALS OF fcc METALS AND OF Ge AND Si
+1963|8.0|4.0|Archives of Oral Biology|The distribution of acid phosphatase, non-specific esterase and lipid in oral epithelia in man and the Macaque monkey
+1964|10.0|2.0|Annals of the New York Academy of Sciences|ELECTROPHORETIC SEPARATION OF MULTIPLE FORMS OF PARTICLE ASSOCIATED ACID PHOSPHATASE
+1965|7.0|1.0|Journal of the American Oil Chemists' Society|Quantitative estimation of isomeric monoglycerides by thin-layer chromatography
+1966|14.0|1.0|Cell and Tissue Research|The cell types in the endocrine pancreas of the human fetus
+1967|8.0|1.5|Archives of Biochemistry and Biophysics|Isolation of three acid phosphatase isozymes from human erythrocytes
+1968|19.0|2.0|Journal of Cell Biology|DIFFERENCES IN ENZYME CONTENT OF AZUROPHIL AND SPECIFIC GRANULES OF POLYMORPHONUCLEAR LEUKOCYTES II. Cytochemistry and Electron Microscopy of Bone Marrow Cells
+1969|19.0|2.0|Biochemical and Biophysical Research Communications|On the formation of the superoxide anion radical during the reaction of reduced iron-sulfur proteins with oxygen
+1970|25.0|3.0|Coordination Chemistry Reviews|Structural studies of iron-sulfur proteins
+1971|20.0|2.0|Environmental Research|Hazards of Mercury. Special Report to the Secretary's Pesticide Advisory Committee, Department of Health, Education, and Welfare, November 1970
+1972|39.0|1.0|Biochemical and Biophysical Research Communications|Studies on iron-sulfur proteins in the site I region of the respiratory chain in pigeon heart mitochondria and submitochondrial particles
+1973|19.0|2.0|Geochimica et Cosmochimica Acta|High-temperature condensates in chondrites and the environment in which they formed
+1974|20.0|2.0|Biochemical and Biophysical Research Communications|A mitochondrial iron protein with properties of a high-potential iron-sulfur protein
+1975|20.0|2.0|Biochemical and Biophysical Research Communications|Identification of a g = 1.90 high-potential iron-sulfur protein in chloroplasts
+1976|30.0|1.0|Brain Research|The preparation and characterization of synaptic vesicles of high purity
+1977|25.0|2.0|The New England Journal of Medicine|Abnormal regulation of ventilation in infants at risk for sudden-infant-death syndrome.
+1978|17.0|1.0|Cancer|Carcinoma of the prostate: treatment with external radiotherapy.
+1979|73.0|2.0|FEBS Letters|How mitochondria import proteins from the cytoplasm
+1980|47.0|2.0|Brain Research|Mapping and plasticity of acid phosphatase afferents in the rat dorsal horn
+1981|30.0|1.0|Cell|Compartmentalized assembly of oligosaccharides on exported glycoproteins in yeast
+1982|65.0|2.0|Neuroscience|Fluoride-resistant acid phosphatase-containing neurones in dorsal root ganglia are separate from those containing substance P or somatostatin
+1983|22.0|2.0|Archives of Biochemistry and Biophysics|Multiple forms of myeloperoxidase from human neutrophilic granulocytes: Evidence for differences in compartmentalization, enzymatic activity, and subunit structure
+1984|40.0|2.0|FEBS Letters|Tentative identification of the apoproteins of iron-sulfur centers of Photosystem I
+1985|59.0|2.0|Brain Research|Neuronal subpopulations in the dorsal root ganglion of the mouse as characterized by combination of ultrastructural and cytochemical features
+1986|47.0|2.0|Neuroscience|A quantitative analysis of the interrelationships between subpopulations of rat sensory neurons containing arginine vasopressin or oxytocin and those containing substance P, fluoride-resistant acid phosphatase or neurofilament protein
+1987|30.0|2.0|Bone|Bone loss and biochemical indices of bone remodeling in surgically induced postmenopausal women
+1988|64.0|2.0|The New England Journal of Medicine|Anti-neutrophil cytoplasmic autoantibodies with specificity for myeloperoxidase in patients with systemic vasculitis and idiopathic necrotizing and crescentic glomerulonephritis.
+1989|65.0|2.0|New Phytologist|The biology of mycorrhiza in the Ericaceae
+1990|40.0|2.0|Journal of Applied Physics|A thermally activated solid state reaction process for fabricating ohmic contacts to semiconducting diamond
+1991|41.0|2.5|The Journal of Allergy and Clinical Immunology|Secretion of granule proteins from eosinophils and neutrophils is increased in asthma
+1992|54.0|3.0|Physiologia Plantarum|Ascorbate peroxidase  a hydrogen peroxidescavenging enzyme in plants
+1993|39.0|3.0|British Journal of Pharmacology|Modulation of adjuvant arthritis by endogenous nitric oxide
+1994|64.0|3.0|Geochimica et Cosmochimica Acta|The biogeochemical cycling of elemental mercury: Anthropogenic influences
+1995|132.0|3.0|Free Radical Biology and Medicine|Oxidative mechanisms in the toxicity of metal ions.
+1996|205.0|3.0|Free Radical Biology and Medicine|The role of oxidized lipoproteins in atherogenesis
+1997|178.0|4.0|Free Radical Biology and Medicine|Oxidative Stress Hypothesis in Alzheimer's Disease
+1998|389.0|5.0|Nature|Formation of nitric oxide-derived inflammatory oxidants by myeloperoxidase in neutrophils
+1999|163.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Mitochondrial disease in superoxide dismutase 2 mutant mice.
+2000|161.0|6.0|The American Journal of Medicine|Phagocytes and oxidative stress
+2001|173.0|5.0|Journal of Bacteriology|The Pleiotropic Two-Component Regulatory System PhoP-PhoQ
+2002|159.0|6.0|Journal of Clinical Investigation|Antineutrophil cytoplasmic autoantibodies specific for myeloperoxidase cause glomerulonephritis and vasculitis in mice
+2003|198.0|7.0|Annual Review of Microbiology|BACTERIAL HEAVY METAL RESISTANCE: New Surprises
+2004|276.0|7.0|Gastroenterology|Toll-like receptor 9 signaling mediates the anti-inflammatory effects of probiotics in murine experimental colitis
+2005|393.0|7.0|Electroanalysis|CarbonNanotube Based Electrochemical Biosensors: A Review
+2006|437.0|7.0|Journal of the American College of Cardiology|Pathology of the vulnerable plaque.
+2007|175.0|7.0|Journal of Power Sources|A review of PEM hydrogen fuel cell contamination: Impacts, mechanisms, and mitigation
+2008|761.0|7.0|Nature|Anatase TiO2 single crystals with a large percentage of reactive facets
+2009|381.0|7.0|Nature|Stable single-unit-cell nanosheets of zeolite MFI as active and long-lived catalysts
+2010|282.0|7.0|Environmental Chemistry Letters|Heavy metals, occurrence and toxicity for plants: a review.

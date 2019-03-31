@@ -1,0 +1,47 @@
+----  Field Name Early childhood education: 
+----  Field Level 2.0: 
+----  Field Papers Number 4194:
+----  All time max citation paper: Economic deprivation and early childhood development., 1994, (923.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|0|0.0|Journal of the American Academy of Child and Adolescent Psychiatry|TEACHER-PARENT WORK IN THE HOME: AN ASPECT OF CHILD GUIDANCE CLINIC SERVICES
+1971|1.0|1.0|Monographs of The Society for Research in Child Development|Sentence repetition : elicited imitation of a controlled set of syntactic structures by four language groups
+1972|3.0|3.0|Journal of School Psychology|The Role of Rewards and Reinforcements in Early Education Programs: II: Fostering Intrinsic Motivation to Learn.
+1973|4.0|0.0|Reading Research Quarterly|Word Perception: Cues Aiding Structure Detection.
+1974|10.0|2.0|Journal of Experimental Child Psychology|Explicit Syllable and Phoneme Segmentation in the Young Child.
+1975|8.0|4.0|Journal of Experimental Child Psychology|The elaboration of the noun phrase in children's description of objects
+1976|13.0|2.0|Journal of Abnormal Child Psychology|Predicting the Response of Hyperkinetic Children to Stimulant Drugs: A Review.
+1977|12.0|2.0|Journal of Abnormal Child Psychology|The Brazelton Neonatal Behavioral Assessment Scale (BNBAS).
+1978|25.0|2.0|Child Development|The Effects of Day Care: A Critical Review.
+1979|37.0|2.0|Child Development|Social interactions of young abused children: approach, avoidance, and aggression
+1980|16.0|1.5|Child Development|The Development of Social Interchange Patterns from 12 to 42 Months.
+1981|20.0|2.0|Monographs of The Society for Research in Child Development|Social Class and Racial Influences on Early Mathematical Thinking.
+1982|14.0|1.5|Science|The bimodal perception of speech in infancy.
+1983|40.0|2.5|Monographs of The Society for Research in Child Development|How children become friends
+1984|42.0|2.0|Child Development|The Plasticity of Intellectual Development: Insights from Preventive Intervention.
+1985|18.0|3.0|Child Development|Public School Aggression among Children with Varying Day-Care Experience.
+1986|45.0|1.5|Child Development|Continuity in Mental Development from Infancy.
+1987|33.0|2.0|Merrill-palmer Quarterly|Rhymes, Nursery Rhymes, and Reading in Early Childhood.
+1988|97.0|2.0|Child Development|Children's Understanding of Representational Change and Its Relation to the Understanding of False Belief and the Appearance-Reality Distinction.
+1989|11.0|1.0|Developmental Psychology|Young Children's Representation of Spatial Information Acquired from Maps.
+1990|13.0|1.0|Child Development|Are Head Start Effects Sustained? A Longitudinal Followup Comparison of Disadvantaged Children Attending Head Start, No Preschool, and Other Preschool Programs
+1991|21.0|1.0|Science Education|Analogies from the philosophy and sociology of science for understanding classroom life
+1992|80.0|2.0|Child Development|Young Children's Understanding of the Role That Sensory Experiences Play in Knowledge Acquisition.
+1993|80.0|2.0|Child Development|Toward a Synthesis of Parental Socialization and Child Temperament in Early Development of Conscience
+1994|73.0|2.0|Child Development|Economic deprivation and early childhood development.
+1995|22.0|1.0|Child Development|Effects of Different Instructional Approaches on Young Children's Achievement and Motivation
+1996|20.0|1.0|Child Development|Quality of Center Child Care and Infant Cognitive and Language Development.
+1997|26.0|1.0|Journal of School Psychology|The teacher-child relationship and children's early school adjustment
+1998|18.0|2.0|Child Development|Extended Early Childhood Intervention and School Achievement: Age Thirteen Findings from the Chicago Longitudinal Study
+1999|22.0|1.5|Early Child Development and Care|Home Background and Young Children's Literacy Development.
+2000|22.0|2.0||Child Care Quality: Does It Matter and Does It Need To Be Improved?.
+2001|35.0|2.0|acm ieee international conference on mobile computing and networking|Smart kindergarten: sensor-based wireless networks for smart developmental problem-solving environments
+2002|79.0|3.0|American Psychologist|School Readiness: Integrating Cognition and Emotion in a Neurobiological Conceptualization of Children's Functioning at School Entry.
+2003|214.0|3.0|Journal of Autism and Developmental Disorders|Epidemiological Surveys of Autism and Other Pervasive Developmental Disorders: An Update.
+2004|75.0|2.0|American Educational Research Journal|Inequality in Preschool Education and School Readiness
+2005|102.0|2.0|Journal of Child Psychology and Psychiatry|When more is not better: the role of cumulative risk in child behavior outcomes
+2006|42.0|2.0|Early Childhood Research Quarterly|Capturing Quality in Early Childhood through Environmental Rating Scales
+2007|136.0|3.0|Child Development|Are There Long-Term Effects of Early Child Care?.
+2008|122.0|3.0|Development and Psychopathology|Biological processes in prevention and intervention: The promotion of self-regulation as a means of preventing school failure
+2009|149.0|3.0||Technological Pedagogical Content Knowledge (TPACK): The Development and Validation of an Assessment Instrument for Preservice Teachers.
+2010|227.0|3.0|Applied Developmental Science|Early Childhood Education: Young Adult Outcomes From the Abecedarian Project

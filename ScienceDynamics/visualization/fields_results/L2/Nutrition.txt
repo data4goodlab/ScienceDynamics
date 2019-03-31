@@ -1,0 +1,91 @@
+----  Field Name Nutrition: 
+----  Field Level 2.0: 
+----  Field Papers Number 289323:
+----  All time max citation paper: Methods for Dietary Fiber, Neutral Detergent Fiber, and Nonstarch Polysaccharides in Relation to Animal Nutrition, 1991, (5975.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1922|1.0|1.0|Journal of Dairy Science|Studies in the Growth and Nutrition of Dairy Calves
+1925|0|0.0|Reviews of Physiology Biochemistry and Pharmacology|The capacity to oxidize carbohydrate as determined by the respiratory quotient
+1927|1.0|1.0|JAMA Pediatrics|Transfused Blood in Infants with Severe Malnutrition.
+1929|1.0|1.0|Botanical Gazette|Potassium Deficiency in Sugar Cane
+1930|6.0|1.5|Genetica|Ontogeny, genetics and cytology of Nicotiana hybrids.
+1931|5.0|1.0|JAMA Pediatrics|ACID-BASE STATUS IN DEHYDRATION ACCOMPANYING DIARRHEA IN INFANTS: EFFECT OF TREATMENT WITH PARENTERAL FLUIDS
+1932|5.0|2.5|JAMA|Clinical features of vitamin A deficiency.
+1933|1.0|1.0|JAMA|Hypertension, obesity and hyperglycemia.
+1934|6.0|0.0|JAMA Pediatrics|OSTEOPETROSIS (MARBLE BONES) IN AN INFANT: REVIEW OF THE LITERATURE AND REPORT OF A CASE
+1935|1.0|0.0|JAMA Internal Medicine|Cancer as a problem in metabolism.
+1936|3.0|0.5|Botanical Review|The essential nature of certain minor elements for plant nutrition. II
+1937|1.0|0.0|Botanical Review|The nitrogen nutrition of green plants. II
+1938|9.0|3.0|Journal of Chemical Physics|A Kinetic Approach to the Theory of Conductance of Infinitely Dilute Solutions, Based on the ``Cage'' Model of Liquids
+1939|10.0|1.0|JAMA|RELATIONSHIP BETWEEN NICOTINIC ACID AND A CODEHYDROGENASE (COZYMASE): IN BLOOD OF PELLAGRINS AND NORMAL PERSONS
+1940|6.0|1.0|JAMA|Pantothenic acid in human nutrition.
+1941|2.0|0.5|American Heart Journal|The production and study of cardiac failure in thiamin-deficient dogs.
+1942|2.0|0.0|Journal of Allergy|The effect of wide variations in potassium and sodium intake in asthmatic children
+1943|5.0|1.0|American Journal of Obstetrics and Gynecology|The effect of pregnancy and puerperium on the thiamine status of women
+1944|9.0|1.0|American Heart Journal|Electrocardiographic changes in uremia associated with a high concentration of serum potassium: Report of three cases
+1945|7.0|1.0|Journal of the American Oil Chemists' Society|Modified thiocyanogen reagent and method
+1946|17.0|1.0|The American Journal of Medicine|Clinical syndrome of potassium intoxication
+1947|6.0|2.0|Journal of Dairy Science|Changes in Cell Volume and in Concentration of Hemoglobin and of Several Inorganic Constituents of the Blood of Calves During Early Postnatal Development1
+1948|9.0|2.0|The American Journal of Medicine|Influence of the serum potassium and other electrolytes on the electrocardiogram in diabetic acidosis
+1949|19.0|0.0|The American Journal of Medicine|Newer concepts of the role of potassium in disease
+1950|16.0|2.0|Experimental Cell Research|Studies on mitochondria: II. The structure of mitochondria in relation to enzymatic activity
+1951|10.0|1.0|The American Journal of Medicine|Low potassium syndrome due to defective renal tubular mechanisms for handling potassium
+1952|16.0|1.0|Journal of the American Oil Chemists' Society|Standardization of Spectrophotometric Methods for Determination of Polyunsaturated Fatty Acids Using Pure Natural Acids'
+1953|12.0|1.5|Journal of Chemical Physics|Vibrational Spectra of Fluorinated Aromatics. III. 1,4Difluorobenzene
+1954|12.0|1.0|Biological Reviews|FATTY ACID OXIDATION IN SOLUBLE SYSTEMS OF ANIMAL TISSUES
+1955|12.0|1.0|The American Journal of Medicine|Effects of restriction of dietary fat and cholesterol upon serum lipids and lipoproteins in patients with hypertension
+1956|16.0|1.0|Experimental Parasitology|Carbohydrate metabolism of Hymenolepis diminuta
+1957|21.0|2.0|Journal of Chemical Physics|Spectra of the Alkali Halides. II. The Infrared Spectra of the Sodium and Potassium Halides, RbCl, and CsCl
+1958|30.0|1.0|The American Journal of Medicine|The kidney in potassium depletion
+1959|25.0|1.0|Biochimica et Biophysica Acta|Analysis of human plasma phosphatides by paper chromatography.
+1960|21.0|2.0|Acta Medica Scandinavica|Serum Lipids in Men with Myocardial Infarction
+1961|35.0|2.0|The American Journal of Medicine|Serum lipids, hypertension and coronary artery disease
+1962|40.0|2.0|Archives of Biochemistry and Biophysics|Studies on sodium-potassium-activated adenosinetriphosphatase. IV. Correlation with cation transport sensitive to cardiac glycosides
+1963|30.0|2.0|Geochimica et Cosmochimica Acta|The flame photometric determination of potassium in geological materials used for potassium argon dating
+1964|22.0|1.0|Biological Reviews|THE BIOCHEMISTRY OF SODIUM TRANSPORT*
+1965|31.0|2.0|Geochimica et Cosmochimica Acta|Thorium and uranium concentrations, and the isotopic composition of strontium in the differentiated Tasmanian dolentes
+1966|45.0|2.0|Journal of Clinical Investigation|Hormone-fuel interrelationships during fasting.
+1967|47.0|2.0|Journal of Geophysical Research|Statistical analysis of geomagnetic reversal data and the precision of potassiumargon dating
+1968|51.0|2.0|Journal of Geophysical Research|Volcanism and metamorphism in the MidAtlantic Ridge, 22N latitude
+1969|58.0|2.0|Geochimica et Cosmochimica Acta|Rare Gases in Stony Meteorites
+1970|52.0|2.0|Experimental Neurology|Potassium accumulation in interstitial space during epileptiform seizures
+1971|46.0|2.0|Archives of Biochemistry and Biophysics|The distribution of hepatic metabolites and the control of the pathways of carbohydrate metabolism in animals of different dietary and hormonal status
+1972|68.0|2.0|Journal of Neurochemistry|CEREBRAL CARBOHYDRATE METABOLISM DURING ACUTE HYPOXIA AND RECOVERY1
+1973|78.0|2.0|Science|Food production and the energy crisis
+1974|62.0|2.0|Brain Research|Potassium-induced release of amino acids from cerebral cortex and spinal cord slices of the rat
+1975|44.0|2.0|Brain Research|Thyrotropin releasing hormone (TRH): apparent receptor binding in rat brain membranes.
+1976|39.0|3.0|Biochemical and Biophysical Research Communications|Host-symbiont interactions.I. The lectins of legumes interact with the O-antigen-containing lipopolysaccharides of their symbiont Rhizobia
+1977|85.0|2.0|Nature|Release of dopamine in vivo from cat substantia nigra
+1978|66.0|2.0|The New England Journal of Medicine|Effect of Weight Loss without Salt Restriction on the Reduction of Blood Pressure in Overweight Hypertensive Patients
+1979|90.0|2.0|The Lancet|HMOSTATIC FUNCTION AND PLATELET POLYUNSATURATED FATTY ACIDS IN ESKIMOS
+1980|104.0|2.0|Nature|Intrathecal morphine inhibits substance P release from mammalian spinal cord in vivo.
+1981|55.0|2.0|The Lancet|LOW SODIUM/HIGH POTASSIUM DIET FOR PREVENTION OF HYPERTENSION: PROBABLE MECHANISMS OF ACTION
+1982|59.0|2.0|The Lancet|ASSOCIATION BETWEEN CARDIOVASCULAR DEATH AND MYOCARDIAL INFARCTION AND SERUM SELENIUM IN A MATCHED-PAIR LONGITUDINAL STUDY
+1983|144.0|2.0|Neuroscience & Biobehavioral Reviews|Opioid modulation of appetite
+1984|186.0|3.0|Biochimica et Biophysica Acta|The modification of mammalian membrane polyunsaturated fatty acid composition in relation to membrane fluidity and function.
+1985|199.0|2.0|The New England Journal of Medicine|The inverse relation between fish consumption and 20-year mortality from coronary heart disease.
+1986|104.0|2.0|The New England Journal of Medicine|Physical activity, all-cause mortality, and longevity of college alumni
+1987|107.0|2.0|Reviews of Geophysics|Climate model simulations of the equilibrium climatic response to increased carbon dioxide
+1988|80.0|2.0|Cell|Cloning and functional expression in bacteria of a novel glucose transporter present in liver, intestine, kidney, and -pancreatic islet cells
+1989|164.0|2.0|Psychological Review|Health complaints, stress, and distress: exploring the central role of negative affectivity.
+1990|139.0|2.0|Journal of Lipid Research|Dietary influences on serum lipids and lipoproteins.
+1991|168.0|2.0|Science|Mutations affecting internal TEA blockade identify the probable pore-forming region of a K+ channel
+1992|122.0|2.0|Nature|Cloning and expression of a rat brain L-glutamate transporter
+1993|163.0|2.0|Journal of Lipid Research|Plasma cholesteryl ester transfer protein.
+1994|79.0|3.0|Journal of Chemical Physics|Fully optimized contracted Gaussian basis sets of triple zeta valence quality for atoms Li to Kr
+1995|599.0|3.0|Nature Medicine|Angiogenesis in cancer, vascular, rheumatoid and other disease.
+1996|197.0|3.0|Peptides|Leptin enters the brain by a saturable system independent of insulin.
+1997|371.0|4.0|Nature|Congenital leptin deficiency is associated with severe early-onset obesity in humans.
+1998|603.0|4.0|Nature|Leptin and the regulation of body weight in mammals
+1999|444.0|5.0|JAMA|The Spread of the Obesity Epidemic in the United States, 1991-1998
+2000|525.0|6.0|Nature|Ghrelin induces adiposity in rodents
+2001|689.0|6.0|JAMA|The Continuing Epidemics of Obesity and Diabetes in the United States
+2002|1886.0|7.0|The New England Journal of Medicine|Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin
+2003|1174.0|8.0|JAMA|Prevalence of Obesity, Diabetes, and Obesity-Related Health Risk Factors,2001
+2004|1446.0|8.0|JAMA|Prevalence of Overweight and Obesity Among US Children, Adolescents, and Adults, 1999-2002
+2005|726.0|8.0|Journal of Clinical Investigation|Inflammation, stress, and diabetes
+2006|1534.0|8.0|JAMA|Prevalence of overweight and obesity in the United States, 1999-2004.
+2007|703.0|9.0|Pediatrics|Expert Committee Recommendations Regarding the Prevention, Assessment, and Treatment of Child and Adolescent Overweight and Obesity: Summary Report
+2008|925.0|9.0|Medicine and Science in Sports and Exercise|Physical Activity in the United States Measured by Accelerometer
+2009|1971.0|10.0|Circulation|Harmonizing the Metabolic Syndrome A Joint Interim Statement of the International Diabetes Federation Task Force on Epidemiology and Prevention; National Heart, Lung, and Blood Institute; American Heart Association; World Heart Federation; International Atherosclerosis Society; and International Association for the Study of Obesity
+2010|2096.0|9.0|Nature|A human gut microbial gene catalogue established by metagenomic sequencing

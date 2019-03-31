@@ -1,0 +1,63 @@
+----  Field Name Geomorphology: 
+----  Field Level 1.0: 
+----  Field Papers Number 36698:
+----  All time max citation paper: Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images, 1984, (4661.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1933|1.0|1.0||A Comparison of Aonidiella aurantii and Aonidiella citrina, including a Study of the Internal Anatomy of the Latter.
+1938|0|0.0||A pollen profile of Otterbein bog, Warren county, Indiana
+1950|0|0.0||Glacial Sluiceways and Lacustrine Plains of Southern Indiana
+1951|1.0|1.0|Gff|Mechanics of varve formation and the action of turbidity currents
+1952|1.0|1.0|Archives of Biochemistry and Biophysics|Evidence for a three-carbon acid intermediate in the metabolism of valine
+1956|2.0|0.0|Arctic|Geophysical Studies Along Northern Ellesmere Island
+1959|1.0|0.5||Bionomics of the rice leaf miner, Hydrellia griseola (Fallen), in California (Diptera: Ephydridae).
+1960|6.0|1.5|Annals of Applied Biology|Experiments on the herbicidal action of 1,1'-ethylene-2,2'- dipyridylium dibromide.
+1961|5.0|4.0|Journal of Geophysical Research|Sound velocities at the surface of deep sea sediments
+1963|21.0|5.0|Progress in Brain Research|FUNCTIONAL SIGNIFICANCE OF DRUG-INDUCED CHANGES IN BRAIN MONOAMINE LEVELS
+1964|1.0|0.0|New Zealand Journal of Geology and Geophysics|The Sedimentology Of The Waitemata Group In The Takapuna Section,Auckland
+1965|1.0|1.0|IEEE Transactions on Information Theory|A class of codes for polyphase signals on a bandlimited Gaussian channel
+1966|5.0|1.0|Earth-Science Reviews|The definition and identification of tills and tillites
+1967|12.0|2.0|Planetary and Space Science|Variations in air density at heights near 150 km, from the orbit of the satellite 1966-101G
+1968|6.0|0.0|Geophysical Prospecting|Magneto-telluric measurements in the North German basin
+1969|29.0|2.0|Geochimica et Cosmochimica Acta|Chemical concentrations of pollutant lead aerosols, terrestrial dusts and sea salts in Greenland and Antarctic snow strata
+1970|33.0|3.0|Journal of Geophysical Research|Flexural rigidity, thickness, and viscosity of the lithosphere
+1971|12.0|2.5|Insect Biochemistry|Protein synthesis during insect development
+1972|28.0|3.0|Journal of Geophysical Research|Technique for rapid determination of relative ages of lunar areas from orbital photography.
+1973|39.0|4.0|Journal of Geophysical Research|Martian Cratering, 4, Mariner 9 initial analysis of cratering chronology
+1974|46.0|2.0|Icarus|Martian planetwide crater distributions - Implications for geologic history and surface processes
+1975|27.0|2.0|Geochimica et Cosmochimica Acta|The chemical composition of a Greenland glacier
+1976|10.0|2.0|Nature|Oxygen isotopic evidence for the development of the psychrosphere 38 Myr ago
+1977|58.0|3.0|Journal of Geophysical Research|Cenozoic evolution of Antarctic glaciation, the circumAntarctic Ocean, and their impact on global paleoceanography
+1978|42.0|3.0|Icarus|The evolution of the atmosphere of the earth
+1979|19.0|2.0|Geophysical Research Letters|On the internal structure of the major satellites of the outer planets
+1980|30.0|3.0|Icarus|The astronomical theory of climatic change on Mars
+1981|21.0|3.0|Quaternary Research|A paleoclimate model of Northern Hemisphere ice sheets
+1982|20.0|3.0|Quaternary Science Reviews|On the reconstruction of pleistocene ice sheets: A review
+1983|21.0|3.0|Nature|African monsoons, an immediate climate response to orbital insolation
+1984|100.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images
+1985|80.0|3.0|Geological Society of America Bulletin|A Cretaceous and Jurassic geochronology
+1986|49.0|2.0|Earth and Planetary Science Letters|Matuyama 41,000-year cycles: North Atlantic Ocean and northern hemisphere ice sheets
+1987|39.0|2.0|IEEE Transactions on Computers|Distributing Hot-Spot Addressing in Large-Scale Multiprocessors
+1988|29.0|3.0|FEBS Letters|Proline residues in the maturation and degradation of peptide hormones and neuropeptides
+1989|80.0|2.5|IEEE Transactions on Computers|Optimum broadcasting and personalized communication in hypercubes
+1990|46.0|2.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|An overview of the SPHINX speech recognition system
+1991|51.0|3.0|Journal of the American Ceramic Society|Cyclic Fatigue from Frictional Degradation at Bridging Grains in Alumina
+1992|61.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Constrained restoration and the recovery of discontinuities
+1993|84.0|3.0|Paleoceanography|Patterns of IceRafted Detritus in the Glacial North Atlantic (4055N)
+1994|77.0|3.0|IEEE Transactions on Speech and Audio Processing|RASTA processing of speech
+1995|164.0|3.0|Science|Iceberg discharges into the north atlantic on millennial time scales during the last glaciation.
+1996|80.0|3.0|international conference on image processing|Secure spread spectrum watermarking for images, audio and video
+1997|140.0|3.0|international symposium on computer architecture|Complexity-effective superscalar processors
+1998|99.0|3.0|Quaternary Science Reviews|Climate and biome simulations for the past 21,000 years
+1999|116.0|4.0|Boreas|Maximum extent of the Eurasian ice sheets in the Barents and Kara Sea region during the Weichselian
+2000|164.0|5.0|ACM Transactions on Database Systems|A foundation for representing and querying moving objects
+2001|97.0|4.0|Journal of Quaternary Science|Oxygen isotope and palaeotemperature records from six Greenland icecore stations: Camp Century, Dye3, GRIP, GISP2, Renland and NorthGRIP
+2002|207.0|5.0|Terra Nova|The snowball Earth hypothesis: testing the limits of global change
+2003|210.0|6.0|Science|Global Trajectories of the Long-Term Decline of Coral Reef Ecosystems
+2004|811.0|6.0|IEEE Transactions on Image Processing|Image quality assessment: from error visibility to structural similarity
+2005|254.0|6.0|Geophysical Research Letters|Continued deceleration of Whillans Ice Stream, West Antarctica
+2006|347.0|6.0|Journal of Geophysical Research|Subglacial sediments as a control on the onset and location of two Siple Coast ice streams, West Antarctica
+2007|471.0|5.5|Journal of Geophysical Research|Changes in Antarctic net precipitation in the 21st century based on Intergovernmental Panel on Climate Change (IPCC) model scenarios
+2008|429.0|5.0|Solar Energy Materials and Solar Cells|Stability/degradation of polymer solar cells
+2009|547.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Irreversible climate change due to carbon dioxide emissions
+2010|486.0|8.0|Geophysical Research Letters|Limits on the adaptability of coastal marshes to rising sea level

@@ -1,0 +1,54 @@
+----  Field Name Petroleum geology: 
+----  Field Level 2.0: 
+----  Field Papers Number 3597:
+----  All time max citation paper: The delayed rise of present-day mammals, 2007, (1009.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1943|0|0.0|Botanical Review|The tung-oil industry
+1954|2.0|2.0|Journal of Chemical Technology & Biotechnology|The fischertropsch synthesis with cobalt catalysts: The effect of process conditions on the composition of the reaction products
+1958|0|0.0|Progress in The Chemistry of Fats and Other Lipids|Standard methods in the fat and oil industry
+1960|3.0|1.5|Journal of the American Oil Chemists' Society|Hydrogenation of fatty oils with palladium catalysts. V. Products of the tall oil industry
+1966|0|0.0||Present status of processes for gasification of petroleum
+1967|0|0.0|Sedimentary Geology|Sedimentology and the petroleum industry
+1968|3.0|1.5||Graphical data management in a time-shared environment
+1969|4.0|4.0|Journal of Fish Biology|A Review of the Literature on the Upstream Migration of Adult Salmonids
+1970|22.0|11.5|Journal of Geophysical Research|Initial deceleration of solar wind positive ions in the earth's bow shock
+1971|24.0|24.0|Journal of Geophysical Research|Ogo 5 observations of upstream waves in the interplanetary medium - Discrete wave packets
+1973|1.0|1.0|Ocean Management|International approach to the marine pollution problem
+1974|29.0|14.5|Journal of Geophysical Research|Whistler waves observed upstream from collisionless shocks
+1975|3.0|2.0|Reviews of Geophysics|Fracture in rock
+1976|2.0|1.0||Yukon delta coastal processes study
+1977|51.0|6.0|Journal of Catalysis|The conversion of methanol and other O-compounds to hydrocarbons over zeolite catalysts
+1978|7.0|0.0|Environmental Research|Toxicity of petroleum products: Effects on alkaline phosphatase and lipid peroxidation
+1979|20.0|0.5|Journal of Accounting and Economics|The proposed elimination of full cost accounting in the extractive petroleum industry : An empirical assessment of the market consequences
+1980|13.0|1.0||Anatomy of an oil spill: long-term effects from the grounding of the barge florida off west falmouth, massachusetts
+1981|31.0|2.0|Journal of Geophysical Research|Instabilities of low frequency, parallel propagating electromagnetic waves in the Earth's foreshock region
+1982|8.0|2.0|Aquaculture|Decreased swimming performance as a necessary component of the smolt migration in salmon in the Columbia River
+1983|10.0|1.0|Catalysis Reviews-science and Engineering|Hydrocarbons from Methanol
+1984|18.0|3.0|Organic Geochemistry|Diagenetic and catagenetic pathways for porphyrins in sediments
+1985|5.0|0.5|Biotechnology and Bioengineering|Immobilization of enzyme on dimethylaminated nylon gels
+1986|18.0|1.0|Journal of Applied Physics|Distributions of residual stress, dislocations, and EL2 in Czochralski-grown semi-insulating GaAs
+1987|43.0|1.0|Water Resources Research|A compositional multiphase model for groundwater contamination by petroleum products: 1. Theoretical considerations
+1988|32.0|2.0|Geochimica et Cosmochimica Acta|Petroleum geology and geochemistry of the Middle Proterozoic McArthur Basin, Northern Australia: III. Composition of extractable hydrocarbons
+1989|16.0|1.0|Journal of Catalysis|Monte Carlo simulations of supported bimetallic catalysts
+1990|44.0|2.0|Analytical Biochemistry|Optimization of Northern analysis by vacuum-blotting, RNA-transfer visualization, and ultraviolet fixation
+1991|26.0|2.5|Science|Nylon Production: An Unknown Source of Atmospheric Nitrous Oxide
+1992|19.0|1.5|Environment International|Quantitative evaluation of XAD-8 and XAD-4 resins used in tandem for removing organic solutes from water
+1993|16.0|1.0|Tectonophysics|Rheological and tectonic modeling of salt provinces
+1994|38.0|1.0|Biotechnology and Bioengineering|Biosorption of lead and nickel by biomass of marine algae
+1995|14.0|2.0|Fluid Phase Equilibria|Evaluation of activity coefficient models in prediction of alkane solid-liquid equilibria
+1996|30.0|2.0|Regulated Rivers-research & Management|A GENERAL PROTOCOL FOR RESTORATION OF REGULATED RIVERS
+1997|23.0|1.0|Geophysical Research Letters|Boundary layer formation in the magnetotail: Geotail observations and comparisons with a global MHD simulation
+1998|91.0|2.0|Nature|High-throughput screening of solid-state catalyst libraries
+1999|19.0|3.0|Environmental Pollution|Airborne trichloroacetic acid and its deposition in the catchment area of the Caspian Sea
+2000|143.0|2.0|International Journal for Parasitology|Epidemiology of Cryptosporidium : transmission, detection and identification
+2001|47.0|3.0|The Journal of Experimental Biology|Locomotor function of the dorsal fin in teleost fishes: experimental analysis of wake forces in sunfish
+2002|39.0|4.0|Conservation Biology|Effects of habitat fragmentation by damming on the persistence of stream-dwelling charr populations
+2003|48.0|3.0|Epidemiology|Leukemia risk associated with low-level benzene exposure.
+2004|114.0|5.0|Morbidity and Mortality Weekly Report|Surveillance for waterborne-disease outbreaks associated with recreational water - United States, 2001-2002.
+2005|62.0|4.0|Hydrogeology Journal|Dealing with spatial heterogeneity
+2006|58.0|4.0|Chemical Geology|Unravelling abiogenic and biogenic sources of methane in the Earth's deep subsurface
+2007|675.0|4.0|Nature|The delayed rise of present-day mammals
+2008|183.0|4.0|Nature Reviews Microbiology|The ecology and biotechnology of sulphate-reducing bacteria
+2009|175.0|5.0|Journal of Hazardous Materials|Review of technologies for oil and gas produced water treatment.
+2010|209.0|6.0||CO2 capture and separation technologies for end-of-pipe applications  A review

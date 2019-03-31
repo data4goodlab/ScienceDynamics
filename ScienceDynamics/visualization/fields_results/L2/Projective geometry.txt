@@ -1,0 +1,56 @@
+----  Field Name Projective geometry: 
+----  Field Level 2.0: 
+----  Field Papers Number 37694:
+----  All time max citation paper: A solution to Platos problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge, 1997, (1692.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1956|2.0|2.0|Mathematics of Computation|Uniqueness of the projective plane of order eight
+1962|0|0.0|Archiv der Mathematik|On involutions of projective planes
+1963|0|0.0||AN INVESTIGATION OF SIMILARITIES IN PARENTCHILD TEST SCORES FOR EVIDENCE OF HEREDITARY COMPONENTS
+1964|5.0|1.5|Journal of Chemical Physics|Crystallite Orientation in Materials Having Fiber Texture. II. A Study of Strained Samples of Crosslinked Polyethylene
+1965|5.0|4.5|Proceedings of the American Mathematical Society|On the line graph of a projective plane
+1966|26.0|2.0|Journal of Geophysical Research|Correlation of magnetic fields and energetic electrons on the IMP 1 satellite
+1967|5.0|1.0|Journal of Plasma Physics|The evolution of wave correlations in uniformly turbulent, weakly non-linear systems
+1968|7.0|0.0|Journal of Geophysical Research|Conservation equations for weakly turbulent plasmas
+1969|16.0|2.5|Geochimica et Cosmochimica Acta|Aluminum abundances in stony meteorites
+1970|26.0|0.0|Journal of Geophysical Research|The acceleration and precipitation of Van Allen outer zone energetic electrons
+1971|11.0|1.0|Carbon|RELATIONS BETWEEN THE STRUCTURE AND THE MECHANICAL PROPERTIES OF FLUIDIZED- BED PYROLYTIC CARBONS.
+1972|11.0|2.0|IEEE Transactions on Computers|Correlation Matrix Memories
+1973|21.0|4.0|Child Development|Bias in the Analysis of Repeated-Measures Designs: Some Alternative Approaches.
+1974|26.0|1.0|Journal of Geophysical Research|A correlative study of ssc's, interplanetary shocks, and solar activity
+1975|17.0|1.5|Transactions of the American Mathematical Society|Isolated invariant sets for flows on vector bundles
+1976|18.0|2.0|Human Communication Research|PERSONALITY CORRELATES OF COMMUNICATION APPREHENSION: A RESEARCH NOTE
+1977|29.0|2.0|Journal of Geophysical Research|On the high correlation between longterm averages of solar wind speed and geomagnetic activity
+1978|18.0|1.0|Journal of Research in Personality|Self-Consciousness, Self-Report of Aggressiveness, and Aggression.
+1979|53.0|3.0|Intelligence|The Construct of General Intelligence.
+1980|77.0|2.0|Intelligence|Genetics and intelligence: Recent data
+1981|73.0|1.0|Intelligence|Reaction time, evoked brain potentials, and psychometric g in the severely retarded
+1982|21.0|3.0|Educational Researcher|Rigor in Data Synthesis: A Case Study of Reliability in Meta-analysis.
+1983|88.0|4.0|Intelligence|Speed of information processing and general intelligence
+1984|38.0|2.0|Intelligence|Information processing abilities in twins reared apart
+1985|26.0|2.0|Advances in Space Research|Modelling of ionospheric temperature profiles
+1986|48.0|2.0|American Educational Research Journal|A Structural Model of Mathematics Achievement for Men and Women.
+1987|39.0|2.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Morphological filters--Part I: Their set-theoretic analysis and relations to linear shift-invariant filters
+1988|40.0|3.0|Journal of Chemical Physics|Core-core and core-valence correlation
+1989|37.0|1.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Motion field and optical flow: qualitative properties
+1990|176.0|2.0|neural information processing systems|The cascade-correlation learning architecture
+1991|63.0|2.0|Journal of Fluid Mechanics|Modelling the pressurestrain correlation of turbulence: an invariant dynamical systems approach
+1992|62.0|2.0|Journal of Chemical Physics|Dynamics of ion solvation in a Stockmayer fluid
+1993|105.0|3.0|international conference on computer graphics and interactive techniques|Surround-screen projection-based virtual reality: the design and implementation of the CAVE
+1994|68.0|3.0|Proceedings of the IEEE|Motion and structure from feature correspondences: a review
+1995|119.0|2.0|Artificial Intelligence|A robust technique for matching two uncalibrated images through the recovery of the unknown epipolar geometry
+1996|89.0|3.0|international symposium on computer architecture|Exploiting Choice: Instruction Fetch and Issue on an Implementable Simultaneous Multithreading Processor
+1997|223.0|3.0|IEEE Transactions on Image Processing|Secure spread spectrum watermarking for multimedia
+1998|54.0|3.0|Cancer Epidemiology, Biomarkers & Prevention|Mammographic densities and breast cancer risk.
+1999|97.0|4.0|IEEE Transactions on Information Theory|Combined array processing and space-time coding
+2000|137.0|3.5|european conference on computer vision|Stochastic Tracking of 3D Human Figures Using 2D Image Motion
+2001|153.0|4.0|IEEE Transactions on Information Theory|Low-density parity-check codes based on finite geometries: a rediscovery and new results
+2002|227.0|4.0|IEEE Journal on Selected Areas in Communications|The ultra-wide bandwidth indoor channel: from statistical model to simulations
+2003|98.0|5.0|Nature|Links between erosion, runoff variability and seismicity in the Taiwan orogen
+2004|156.0|6.0|Journal of Human Resources|The Impact of Obesity on Wages
+2005|140.0|6.0|Psychological Bulletin|Working Memory and Intelligence: The Same or Different Constructs?.
+2006|353.0|6.0|Assessment|Using Self-Report Assessment Methods to Explore Facets of Mindfulness.
+2007|251.0|6.5|Child Development|Relating Effortful Control, Executive Function, and False Belief Understanding to Emerging Math and Literacy Ability in Kindergarten
+2008|338.0|3.0|Journal of the American Academy of Child and Adolescent Psychiatry|Psychiatric Disorders in Children With Autism Spectrum Disorders: Prevalence, Comorbidity, and Associated Factors in a Population-Derived Sample
+2009|267.0|5.0|Psychological Bulletin|A Meta-Analysis of the Five-Factor Model of Personality and Academic Performance.
+2010|463.0|5.0|The Journal of Environmental Education|Analysis and Synthesis of Research on Responsible Environmental Behavior: A Meta-Analysis.

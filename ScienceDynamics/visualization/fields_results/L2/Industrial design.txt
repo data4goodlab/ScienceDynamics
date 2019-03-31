@@ -1,0 +1,46 @@
+----  Field Name Industrial design: 
+----  Field Level 2.0: 
+----  Field Papers Number 2379:
+----  All time max citation paper: Symbolic Model Checking, 1993, (1460.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1969|0|0.0|Production Engineer|Industrial design and production
+1971|1.0|1.0|Proceedings of the American Mathematical Society|Embedding the hyperspaces of circle-like plane continua
+1972|1.0|1.0|Proceedings of the American Mathematical Society|A sufficient condition for countable-set aposyndesis
+1973|0|0.0||Problems of Stellar Dynamics
+1974|4.0|4.0|Transactions of the American Mathematical Society|On the structure of the set of solutions of equations involving -proper mappings
+1975|0|0.0|Proceedings of the American Mathematical Society|A cohomological characterization of preimages of nonplanar, circle-like continua
+1976|1.0|0.5|Proceedings of the American Mathematical Society|A generalization of the Hahn-Mazurkiewicz theorem
+1977|0|0.0|Proceedings of the American Mathematical Society|() is not necessarily a retract of 2^{}
+1978|0|0.0|technical symposium on computer science education|A graduate program in information systems for the Lating American environment
+1979|21.0|10.5|IEEE Computer|Human Factors Experiments in Designing Interactive Systems
+1980|1.0|0.0|International Journal of Science Education|When Do Adolescents Reason?.
+1981|0|0.0|Design Studies|The coming of post-industrial design
+1983|5.0|3.0|Proceedings of the American Mathematical Society|Concerning exactly (,1) images of continua
+1984|36.0|0.0|Management Science|The Nature and Design of Post-Industrial Organizations
+1985|4.0|3.0|Design Studies|Styles of learning, designing and computing
+1986|6.0|2.0|Transactions of the American Mathematical Society|Around Effros theorem
+1987|7.0|3.0|Review of Scientific Instruments|Adjustable speed and vibrationfree hydraulic system for LangmuirBlodgett films deposition
+1988|9.0|0.5|Journal of Electron Microscopy Technique|Quantitative Xray microanalysis of biological specimens
+1989|6.0|0.0|IEEE Computer Graphics and Applications|Shape averaging and its applications to industrial design
+1990|31.0|1.5|Communications of The ACM|Improving a human-computer dialogue
+1991|11.0|1.0|design automation conference|Bridging high-level synthesis to RTL technology libraries
+1992|13.0|0.0|interactive 3d graphics and games|Geometric manipulation of tensor product surfaces
+1993|214.0|3.0|computer aided verification|Symbolic Model Checking
+1994|24.0|3.0|Journal of Vegetation Science|Current problems of environmental gradients and species response curves in relation to continuum theory
+1995|40.0|4.0|IEEE Computer|Agentsheets: a medium for creating domain-oriented visual languages
+1996|33.0|2.0|design automation conference|RuleBase: an industry-oriented formal verification tool
+1997|72.0|2.0|field-programmable logic and applications|VPR: A new packing, placement and routing tool for FPGA research
+1998|31.0|4.0|design automation conference|Validation with guided search of the state space
+1999|29.0|2.0|design automation conference|Buffer insertion with accurate gate and interconnect delay computation
+2000|58.0|3.0|Schizophrenia Research|Strauss (1969) revisited: a psychosis continuum in the general population?
+2001|89.0|3.0|Proceedings of the IEEE|Interactive evolutionary computation: fusion of the capabilities of EC optimization and human evaluation
+2002|186.0|3.0|Ecological Modelling|Spatial prediction of species distribution: an interface between ecological theory and statistical modelling
+2003|52.0|4.0|international symposium on low power electronics and design|Full chip leakage-estimation considering power supply and temperature variations
+2004|62.0|4.0|design automation conference|Extending the transaction level modeling approach for fast communication architecture exploration
+2005|158.0|4.0|Educational Researcher|Designing Educative Curriculum Materials to Promote Teacher Learning
+2006|84.0|4.5|Ecological Modelling|Evaluation of statistical models used for predicting plant species distributions: Role of artificial data and theory
+2007|76.0|3.0|Strategic Management Journal|Network Structure and Innovation: The Leveraging of a Dual Network as a Distinctive Relational Capability
+2008|94.0|2.5|Educational Technology Research and Development|Environmental Detectives--The Development of an Augmented Reality Platform for Environmental Simulations.
+2009|81.0|2.0|Australian and New Zealand Journal of Psychiatry|Psychotic-like experiences in a community sample of adolescents: implications for the continuum model of psychosis and prediction of schizophrenia
+2010|77.0|2.0|human factors in computing systems|Feminist HCI: taking stock and outlining an agenda for design

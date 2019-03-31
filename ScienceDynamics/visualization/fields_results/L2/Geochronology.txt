@@ -1,0 +1,53 @@
+----  Field Name Geochronology: 
+----  Field Level 2.0: 
+----  Field Papers Number 3925:
+----  All time max citation paper: Quantifying canyon incision and Andean Plateau surface uplift, southwest Peru: A thermochronometer and numerical modeling approach, 2009, (1102.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1958|0|0.0||Transport numbers in fused silver chloride-alkali metal chloride systems
+1959|4.0|4.0|Journal of Chemical Physics|NUCLEAR QUADRUPOLE RESONANCES USING IMPURITY MOLECULES AS PROBES
+1963|2.0|2.0|Journal of Chemical Physics|THERMOLUMINESCENCE IN QUARTZ
+1964|2.0|2.0|Journal of Chemical Physics|Electrically Induced Perturbations of Halogen Nuclear Quadrupole Interactions in Polycrystalline Compounds. I. Phenomenological Theory and Experimental Results
+1965|0|0.0|Journal of Catalysis|RADIOACTIVE DOPING OF CADMIUM SULFIDE FILMS AND ITS EFFECTS ON CHEMISORPTION
+1969|7.0|2.5|Geochimica et Cosmochimica Acta|Ages of Darwin glass, Macedon glass, and Far Eastern tektites.
+1970|8.0|4.0|Journal of Geophysical Research|Rubidium 87strontium 87 age of carbonaceous chondrites
+1971|8.0|2.0|Earth and Planetary Science Letters|Argon 40-argon 39 dating - The optimization of irradiation parameters
+1972|31.0|6.0|Reviews of Geophysics|Formation of ordinary chondrites
+1973|39.0|6.0|Journal of Geophysical Research|Martian Cratering, 4, Mariner 9 initial analysis of cratering chronology
+1974|8.0|1.0|Icarus|Biological Modulation of the Earth's Atmosphere
+1975|1.0|1.0|Physica Status Solidi (a)|Thermoluminescence and lattice defects in LiF
+1976|36.0|12.0|Journal of Geophysical Research|Oceanic lithosphere and asthenosphere: Thermal and mechanical structure
+1977|27.0|13.0|Journal of Geophysical Research|The geology of the Viking Lander 1 site
+1978|14.0|3.5|Applied Physics Letters|vuvpumped HgCl laser
+1979|57.0|6.0|Journal of Geophysical Research|The mean age of mantle and crustal reservoirs
+1980|23.0|7.0|Nature|Measuring metamorphic history of unequilibrated ordinary chondrites
+1981|16.0|3.0|Geochimica et Cosmochimica Acta|Cosmic-ray exposure ages of the ordinary chondrites and their significance for parent body stratigraphy
+1982|32.0|2.0|Geochimica et Cosmochimica Acta|Chronology and petrogenesis of young achondrites, Shergotty, Zagami, and ALHA77005: late magmatism on a geologically active planet
+1983|44.0|13.0|Journal of Geophysical Research|Age dependence of oceanic intraplate seismicity and implications for lithospheric evolution
+1984|13.0|8.0|Geochimica et Cosmochimica Acta|Thermoluminescence and the shock and reheating history of meteorites. II - Annealing studies of the Kernouve meteorite
+1985|52.0|7.0|Geochimica et Cosmochimica Acta|Sm-Nd in marine carbonates and phosphates: Implications for Nd isotopes in seawater and crustal ages
+1986|24.0|6.0|Tectonophysics|Intraplate earthquakes and the state of stress in oceanic lithosphere
+1987|33.0|7.0|Earth and Planetary Science Letters|^(238)U-^(234)U-^(230)Th-^(232)Th systematics and the precise measurement of time over the past 500,000 years
+1988|18.0|7.0|Earth and Planetary Science Letters|Isotopic constraints on crustal growth and recycling
+1989|54.0|4.0|Geochimica et Cosmochimica Acta|Os, Sr, Nd, and Pb isotope systematics of southern African peridotite xenoliths - Implications for the chemical evolution of subcontinental mantle
+1990|14.0|3.0|Journal of Human Evolution|Chronology of Cenozoic primate localities in South America
+1991|34.0|5.0|Earth and Planetary Science Letters|Chronology of early Archaean granite-greenstone evolution in the Barberton Mountain Land, South Africa, based on precise dating by single zircon evaporation.
+1992|12.0|5.0|Transactions of The Royal Society of Edinburgh-earth Sciences|Late Archaean granites of the southeastern Yilgarn Block, Western Australia: age, geochemistry, and origin
+1993|21.0|3.5|Geochimica et Cosmochimica Acta|U-Xe, U-Kr, and U-Pb systematics for dating uranium minerals and investigations of the production of nucleogenic neon and argon
+1994|26.0|6.5|Journal of Geophysical Research|Constraints on hydrothermal heat flux through the oceanic lithosphere from global heat flow
+1995|15.0|5.5|Earth-Science Reviews|Giant radiating dyke swarms on Earth and Venus
+1996|24.0|3.0|Earth and Planetary Science Letters|Age of the Ponta Grossa dike swarm (Brazil), and implications to Paranaflood volcanism
+1997|56.0|5.0|Earth and Planetary Science Letters|Ages of ultrahigh pressure metamorphism and protolith orthogneisses from the eastern Dabie Shan: U/Pb zircon geochronology
+1998|109.0|6.0|Chemical Geology|Intercalibration of standards, absolute ages and uncertainties in 40 Ar/ 39 Ar dating
+1999|51.0|8.0|Lithos|The age of continental roots
+2000|39.0|7.0|Earth and Planetary Science Letters|Calibration of the 14 C time scale to >40 ka by 234 U 230 Th dating of Lake Lisan sediments (last glacial Dead Sea)
+2001|72.0|6.0|Ore Geology Reviews|Orogenic gold and geologic time: A global synthesis
+2002|79.0|8.0|Chemical Geology|Correction of common lead in UPb analyses that do not report 204 Pb
+2003|187.0|10.0|Chemical Geology|TEMORA 1: a new zircon standard for Phanerozoic U-Pb geochronology
+2004|251.0|9.0|Radiocarbon|IntCal04 terrestrial radiocarbon age calibration, 0-26 cal kyr BP.
+2005|189.0|10.0|Nature|Stratigraphic placement and age of modern humans from Kibish, Ethiopia
+2006|74.0|6.0|Annual Review of Earth and Planetary Sciences|USING THERMOCHRONOLOGY TO UNDERSTAND OROGENIC EROSION
+2007|87.0|7.0|Journal of Volcanology and Geothermal Research|Zircon growth and recycling during the assembly of large, composite arc plutons
+2008|78.0|8.0|Geostandards and Geoanalytical Research|Zircon M257  a Homogeneous Natural Reference Material for the Ion Microprobe UPb Analysis of Zircon
+2009|991.0|9.0|Journal of Geophysical Research|Quantifying canyon incision and Andean Plateau surface uplift, southwest Peru: A thermochronometer and numerical modeling approach
+2010|115.0|9.0|Gondwana Research|Late Cretaceous charnockite with adakitic affinities from the Gangdese batholith, southeastern Tibet: Evidence for Neo-Tethyan mid-ocean ridge subduction?

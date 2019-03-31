@@ -1,0 +1,16 @@
+----  Field Name Environmental biotechnology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1648:
+----  All time max citation paper: Pyrosequencing enumerates and contrasts soil microbial diversity., 2007, (626.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1996|8.0|8.0|Biotechnology Letters|. Degradation of high molecular weight polycyclic aromatic hydrocarbons by Pseudomonas cepacia
+1997|0|0.0|Studies in Environmental Science|Factors affecting lead biosorption by lead-tolerant strains of Paecilomyces lilacinus
+1999|5.0|1.0|Journal of Biotechnology|Enzymatic removal of phenols from aqueous solutions by Coprinus cinereus peroxidase and hydrogen peroxide
+2000|12.0|12.0|Journal of Bioscience and Bioengineering|Environmentally relevant microorganisms
+2002|33.0|20.5|Journal of Microbiological Methods|Exposing culprit organic pollutants: A review
+2005|18.0|8.5|Current Biology|A compact cartilaginous fish model genome
+2007|339.0|23.0|The ISME Journal|Pyrosequencing enumerates and contrasts soil microbial diversity.
+2008|124.0|26.0|The ISME Journal|Molecular and biogeochemical evidence for ammonia oxidation by marine Crenarchaeota in the Gulf of California
+2009|217.0|29.0|The ISME Journal|A comprehensive survey of soil acidobacterial diversity using pyrosequencing and clone library analyses
+2010|415.0|27.0|The ISME Journal|Soil bacterial and fungal communities across a pH gradient in an arable soil.

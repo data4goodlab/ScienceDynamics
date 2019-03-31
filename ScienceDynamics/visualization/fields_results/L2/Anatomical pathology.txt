@@ -1,0 +1,40 @@
+----  Field Name Anatomical pathology: 
+----  Field Level 2.0: 
+----  Field Papers Number 4856:
+----  All time max citation paper: Phenotypic evaluation of the basal-like subtype of invasive breast carcinoma, 2006, (445.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1963|11.0|11.0|Progress in Nucleic Acid Research and Molecular Biology|Specificity of Chemical Mutagenesis
+1972|1.0|1.0|Biochimie|N 6 - ( 2 - Isopentenyl) Adenosine: Biosynthesis in vitro in transfer RNA by an enzyme purified from Eschericha coli
+1974|2.0|1.0|Biochimie|Incorporation de glycrol et des acides palmitique, linolique et arachidonique marqus dans les lipides hpatiques chez le rat
+1975|6.0|3.0|Biochimie|Mtabolisme compar des phospholipides des organes effecteurs de l'osmorgulation chez l'anguille europenne (Anguilla anguilla)
+1978|29.0|29.0||Pharmacology and Neurochemistry of Apomorphine
+1981|5.0|5.0|Neuroscience|The fine structure of two types of stellate cells in the anterior division of the anteroventral cochlear nucleus of the cat
+1982|0|0.0||Untersuchungen zur subzellularen Lokalisation proteolytischer Enzyme in Pisum sativum L. II. Proteolytische Aktivitt in Chloroplasten
+1983|2.0|1.5|The Journal of Allergy and Clinical Immunology|Morphologic evaluation of the liver in hereditary angioedema patients on long-term treatment with androgen derivatives.
+1984|11.0|3.0|Neuroscience|Medullary locomotor strip and column in the cat
+1986|30.0|10.0|Neuroscience|N-methylaspartate receptors mediate epileptiform activity evoked in some, but not all, conditions in rat neocortical slices
+1987|5.0|4.0|Neuroscience|Increase in paradoxical sleep after destruction of serotoninergic innervation in the nucleus tractus solitarius of the rat
+1988|18.0|9.0|Neuroscience|Protective effects of mossy fiber lesions against kainic acid-induced seizures and neuronal degeneration
+1989|71.0|2.0|Gastroenterology|Ursodeoxycholic acid in primary biliary cirrhosis: Results of a controlled double-blind trial
+1990|12.0|4.0|Gastroenterology|Suppression of cellular immunity in obstructive jaundice is caused by endotoxins: A study with germ-free rats
+1991|17.0|11.0|Neuroscience|Neurons with access to the general circulation in the central nervous system of the rat: A retrograde tracing study with fluoro-gold
+1992|31.0|9.0|Journal of Dairy Science|Nutrition Management of Dairy Cows as a Contribution to Pollution Control
+1993|16.0|6.0|Current Opinion in Structural Biology|Coated pits and coated vesicles  sorting it all out
+1994|121.0|8.0|Current Opinion in Cell Biology|The role of clathrin, adaptors and dynamin in endocytosis
+1995|20.0|5.5|Gene|An oligodeoxyribonucleotide-directed dual amber method for site-directed mutagenesis
+1996|38.0|3.0|Neuroscience|Expression of the glutamate transporter GLT1 in neural cells of the rat central nervous system: Non-radioactive in situ hybridization and comparative immunocytochemistry
+1997|14.0|5.0|Journal of Dairy Science|Milk Urea Nitrogen as a Tool to Monitor the Protein Nutrition of Dairy Cows
+1998|113.0|9.5|Gastroenterology|Leukocyte-endothelial cell interactions: Molecular mechanisms and implications in gastrointestinal disease
+1999|45.0|9.0|Neuroscience|Temporal and spatial relationships between lipopolysaccharide-induced expression of fos, interleukin-1  and inducible nitric oxide synthase in rat brain
+2000|85.0|5.0|Modern Pathology|Cytokeratin 7 and Cytokeratin 20 Expression in Epithelial Neoplasms: A Survey of 435 Cases
+2001|36.0|5.0|Modern Pathology|Quantitative Pathology of Inhalational Anthrax I: Quantitative Microscopic Findings
+2002|84.0|7.0|Modern Pathology|Monoclonal Antibody D2-40, a New Marker of Lymphatic Endothelium, Reacts with Kaposi's Sarcoma and a Subset of Angiosarcomas
+2003|62.0|7.0|Modern Pathology|Current Perspectives on HER2 Testing: A Review of National Testing Guidelines
+2004|156.0|8.0|The American Journal of Surgical Pathology|An illustrated consensus on the classification of pancreatic intraepithelial neoplasia and intraductal papillary mucinous neoplasms
+2005|170.0|9.0|Journal of the American College of Cardiology|Normal vascular aging: differential effects on wave reflection and aortic pulse wave velocity: the Anglo-Cardiff Collaborative Trial (ACCT)
+2006|278.0|11.0|Modern Pathology|Phenotypic evaluation of the basal-like subtype of invasive breast carcinoma
+2007|155.0|11.0|American Journal of Pathology|Linking of autophagy to ubiquitin-proteasome system is important for the regulation of endoplasmic reticulum stress and cell viability
+2008|259.0|12.0|Neuropsychopharmacology|Drug Addiction as a Pathology of Staged Neuroplasticity
+2009|101.0|11.0|Coordination Chemistry Reviews|Transition metal complexes with bulky 4,6-di- tert -butyl- N -aryl(alkyl)- o -iminobenzoquinonato ligands: Structure, EPR and magnetism
+2010|264.0|13.0|The Journal of Allergy and Clinical Immunology|Guidelines for the Diagnosis and Management of Food Allergy in the United States: Report of the NIAID-Sponsored Expert Panel

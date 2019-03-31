@@ -1,0 +1,33 @@
+----  Field Name Hybrid material: 
+----  Field Level 2.0: 
+----  Field Papers Number 3391:
+----  All time max citation paper: Controlled/living radical polymerization: Features, developments, and perspectives, 2007, (1274.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1961|0|0.0|Chromosoma|Hybridisation in a wild population of eleocharis palustris
+1971|1.0|1.0|Contributions to Mineralogy and Petrology|Calcareous inclusions in lavas and agglomerates of Santorini volcano
+1981|2.0|2.0|Biochemical Genetics|Polypeptide Composition of Fraction 1 Protein of the Somatic Hybrid Between Petunia parodii and Petunia parviflora
+1984|1.0|1.0|Composites|Amplitude distribution acoustic emission signatures of unidirectional fibre composite hybrid materials
+1986|8.0|7.0|Theoretical and Applied Genetics|Field performance of lines derived from haploid and diploid tissues of Hordeum vulgare
+1989|10.0|10.0|Dental Materials|Properties of a glass-ionomer/resin-composite hybrid material.
+1990|1.0|1.0|Composites|A simple laminate theory approach to the prediction of the tensile impact strength of woven hybrid composites
+1991|1.0|1.0|Journal of Inorganic and Organometallic Polymers and Materials|Structure-Property Behavior of Novel Ti/Poly(tetramethylene oxide) (PTMO) and Zr)PTMO Hybrid CERAMER Materials Prepared by the Sol Gel Method
+1992|16.0|6.0|Journal of Materials Chemistry|Feature article. Preparation of new polyimidesilica hybrid materials via the solgel process
+1993|4.0|4.0|Polymer Bulletin|A polyamide-silica composite prepared by the sol-gel process
+1994|3.0|1.0|Journal of Non-crystalline Solids|Structural characterization of hybrid materials obtained from zirconium n-propoxide and 1,2-ethanediol
+1995|25.0|3.0|Progress in Polymer Science|Reaction-induced phase decomposition in polymer blends
+1996|5.0|1.0|Genetica|A comparison of apomictic reproduction in eastern gamagrass (Tripsacum dactyloides (L.) L.) and maize-Tripsacum hybrids
+1997|16.0|4.5|Polymer|The effects of interactions on the properties of acrylic polymers/silica hybrid materials prepared by the in situ sol-gel process
+1998|25.0|5.0|Polyhedron|A new trend in metal-alkoxide chemistry: the elaboration of monophasic organic-inorganic hybrid materials
+1999|105.0|2.0|Nature|Periodic mesoporous organosilicas with organic groups inside the channel walls
+2000|145.0|4.5|Biomaterials|Osteoblast adhesion on biomaterials
+2001|94.0|4.0|Nature Biotechnology|Single-mismatch detection using gold-quenched fluorescent oligonucleotides
+2002|207.0|5.0|Nature|An ordered mesoporous organosilica hybrid material with a crystal-like wall structure
+2003|200.0|6.0|Progress in Polymer Science|Concepts for the incorporation of inorganic building blocks into organic polymers on a nanoscale
+2004|56.0|7.0|Polymer|In situ crosslinking of chitosan and formation of chitosansilica hybrid membranes with using -glycidoxypropyltrimethoxysilane as a crosslinking agent
+2005|330.0|7.0|Journal of Materials Chemistry|Applications of hybrid organicinorganic nanocomposites
+2006|103.0|5.0|Progress in Polymer Science|Polymers from triglyceride oils
+2007|733.0|7.0|Progress in Polymer Science|Controlled/living radical polymerization: Features, developments, and perspectives
+2008|214.0|6.0|Science|Bioinspired Design and Assembly of Platelet Reinforced Polymer Films
+2009|314.0|6.0|Advanced Materials|A Graphene Hybrid Material Covalently Functionalized with Porphyrin: Synthesis and Optical Limiting Property
+2010|1024.0|9.0|Nature|Simultaneous phase and size control of upconversion nanocrystals through lanthanide doping.

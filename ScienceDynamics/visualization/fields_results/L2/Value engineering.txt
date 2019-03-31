@@ -1,0 +1,30 @@
+----  Field Name Value engineering: 
+----  Field Level 2.0: 
+----  Field Papers Number 1327:
+----  All time max citation paper: KQML as an agent communication language, 1994, (734.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1983|0|0.0||Modeling Coalitional Values
+1988|20.0|10.0|Cirp Annals-manufacturing Technology|Computer-Aided Process Planning: The Present and the Future
+1989|2.0|2.0||Next-Cut: A second generation framework for concurrent engineering
+1990|17.0|11.0|Artificial Intelligence in Engineering|Conflict resolution in cooperative design
+1991|4.0|2.0||Concurrent Engineering through Product Data Standards
+1992|6.0|2.0|IEEE Spectrum|The art of systems architecting
+1993|46.0|3.0|Automatica|Industrial applications of model based predictive control
+1994|123.0|2.0|conference on information and knowledge management|KQML as an agent communication language
+1995|24.0|1.0|Information & Computation|Reactive, generative, and stratified models of probabilistic processes
+1996|34.0|2.0|hawaii international conference on system sciences|Shifting perspectives on organizational memory: from storage to active remembering
+1997|51.0|2.0|Management Science|A Model-Based Framework to Overlap Product Development Activities
+1998|26.0|2.0|Management Science|Communication and Uncertainty in Concurrent Engineering
+1999|16.0|3.0|Computers in Industry|Design for manufacture and assembly on the Internet
+2000|26.0|3.0|international conference on software engineering|Software configuration management: a roadmap
+2001|50.0|3.0|IEEE Intelligent Systems|Designing and evaluating e-business models
+2002|53.0|4.0|international conference on software engineering|Expertise Browser: a quantitative approach to identifying expertise
+2003|50.0|2.0|IEEE Computer|Value-based software engineering: a case study
+2004|68.0|3.0|programming language design and implementation|KISS: keep it simple and sequential
+2005|51.0|3.0|Journal of Operations Management|Product architecture assessment: a tool to link product, process, and supply chain design decisions
+2006|65.0|3.0||Breaking the Biological barriers to Cellulosic Ethanol: A Joint Research Agenda
+2007|62.0|4.0|Iie Transactions|AN AHP FRAMEWORK FOR PRIORITIZING CUSTOMER REQUIREMENTS IN QFD: AN INDUSTRIALIZED HOUSING APPLICATION
+2008|133.0|3.0|architectural support for programming languages and operating systems|Learning from mistakes: a comprehensive study on real world concurrency bug characteristics
+2009|27.0|2.0|Cirp Journal of Manufacturing Science and Technology|Service CAD system to integrate product and human activity for total value
+2010|126.0|3.5|Bioresource Technology|Techno-economic analysis of lignocellulosic ethanol: A review

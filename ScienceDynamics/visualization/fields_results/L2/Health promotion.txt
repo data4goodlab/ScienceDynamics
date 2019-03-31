@@ -1,0 +1,37 @@
+----  Field Name Health promotion: 
+----  Field Level 2.0: 
+----  Field Papers Number 12751:
+----  All time max citation paper: Regulation to create environments conducive to physical activity: understanding the barriers and facilitators at the Australian state government level., 2012, (1950.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1980|4.0|2.0|Journal of Chronic Diseases|Health promotion and maintenance for patients with chronic obstructive pulmonary disease: A review
+1981|3.0|3.0|Preventive Medicine|Is health promotion cost effective?
+1982|0|0.0||Beneficence and Health Policy: Reduction of Risk-Taking
+1983|5.0|2.5|Preventive Medicine|Physical fitness programming for health promotion at the worksite
+1984|6.0|0.0|Preventive Medicine|Prevention and health promotion in primary care: Baseline results on physicians from the INSURE project on lifecycle preventive health services
+1985|19.0|3.0|Journal of Behavioral Medicine|Are social-psychological smoking prevention programs effective? The waterloo study
+1986|14.0|6.0|JAMA|A Public Health Intervention Model for Work-Site Health Promotion: Impact on Exercise and Physical Fitness in a Health Promotion Plan After 24 Months
+1987|18.0|1.5|Preventive Medicine|Physician-delivered interventions for smoking cessation: Strategies for increasing effectiveness
+1988|20.0|2.0|JAMA Internal Medicine|A Residents' Training Program for the Development of Smoking Intervention Skills
+1989|42.0|1.5|The Lancet|HEALTH PROMOTION AND THE COMPRESSION OF MORBIDITY
+1990|24.0|2.0|Epilepsia|Psychosocial WeilBeing and Epilepsy: An Empirical Study
+1991|14.0|1.0|Journal of Clinical Epidemiology|Data analysis and sample size issues in evaluations of community-based health promotion and disease prevention programs: a mixed-model analysis of variance approach.
+1992|27.0|2.0|American Journal of Public Health|Factors Associated with AIDS Risk Behaviors among High School Students in an AIDS Epicenter.
+1993|22.0|3.0|Social Science & Medicine|The promotion of health through planned sociopolitical change: Challenges for research and policy
+1994|31.0|1.0|BMJ|Prevention of suicide: aspirations and evidence.
+1995|54.0|2.0|Psychosomatic Medicine|The role of social relations in health promotion.
+1996|31.0|3.0|BMJ|Has mortality from melanoma stopped rising in Australia? Analysis of trends between 1931 and 1994
+1997|52.0|4.0|BMJ|SYSTEMATIC REVIEW OF RANDOMISED CONTROLLED TRIALS OF MULTIPLE RISK FACTOR INTERVENTIONS FOR PREVENTING CORONARY HEART DISEASE
+1998|64.0|4.0|Review of General Psychology|What Good Are Positive Emotions?
+1999|46.0|5.0|Preventive Medicine|Physical activity patterns in a diverse population of women.
+2000|141.0|6.0|BMJ|Framework for design and evaluation of complex interventions to improve health
+2001|94.0|6.0|Diabetes Care|Interventions to Improve the Management of Diabetes in Primary Care, Outpatient, and Community Settings A systematic review
+2002|176.0|6.0|American Journal of Preventive Medicine|Environmental factors associated with adults' participation in physical activity : A review
+2003|95.0|7.0|American Psychologist|What works in prevention. Principles of effective prevention programs.
+2004|295.0|6.0|Health Education & Behavior|Health Promotion by Social Cognitive Means
+2005|168.0|8.0|Psychological Bulletin|Anger, Anxiety, and Depression as Risk Factors for Cardiovascular Disease: The Problems and Implications of Overlapping Affective Dispositions.
+2006|255.0|7.0|Annual Review of Public Health|AN ECOLOGICAL APPROACH TO CREATING ACTIVE LIVING COMMUNITIES
+2007|276.0|7.0|Psychology & Health|Health promotion from the perspective of social cognitive theory
+2008|405.0|8.0|The Lancet|What works? Interventions for maternal and child undernutrition and survival
+2009|397.0|10.0|JAMA|Neuroscience, Molecular Biology, and the Childhood Roots of Health Disparities: Building a New Framework for Health Promotion and Disease Prevention
+2010|583.0|9.0|Circulation|Defining and Setting National Goals for Cardiovascular Health Promotion and Disease Reduction The American Heart Associations Strategic Impact Goal Through 2020 and Beyond

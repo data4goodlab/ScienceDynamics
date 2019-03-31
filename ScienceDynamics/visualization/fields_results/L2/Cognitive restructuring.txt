@@ -1,0 +1,34 @@
+----  Field Name Cognitive restructuring: 
+----  Field Level 2.0: 
+----  Field Papers Number 1201:
+----  All time max citation paper: Does changing behavioral intentions engender behavior change? A meta-analysis of the experimental evidence., 2006, (719.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1983|1.0|1.0|Journal of Employment Counseling|Career Counseling and Reality Therapy: A Conceptual Flowchart.
+1984|7.0|2.0||Cognitive Methods in Counselor Training
+1985|13.0|4.0|Journal of Vocational Behavior|Cognitive Structures in Vocational Development.
+1986|13.0|2.0|Language Learning|Restructuring or Automaticity? Reading in a Second Language.
+1987|14.0|4.0|Journal of Consulting and Clinical Psychology|Cognitive-Behavioral Treatment of Women's Body-Image Dissatisfaction.
+1988|21.0|2.0|Journal of Consulting and Clinical Psychology|Comparison of Operant Behavioral and Cognitive-Behavioral Group Treatment for Chronic Low Back Pain.
+1989|16.0|8.0|Personnel Psychology|THE INFLUENCE OF TRAINING METHOD ON SELFEFFICACY AND IDEA GENERATION AMONG MANAGERS
+1990|26.0|2.0|Developmental Psychology|Cognitive mediators of aggression in adolescent offenders: II. Intervention
+1991|17.0|3.0|Journal of Consulting and Clinical Psychology|Comparison of behavior therapy and cognitive behavior therapy in the treatment of generalized anxiety disorder.
+1992|35.0|2.0|Journal of Consulting and Clinical Psychology|Cognitive problem-solving skills training and parent management training in the treatment of antisocial behavior in children.
+1993|34.0|12.5|Journal of Consulting and Clinical Psychology|Group cognitive-behavioral therapy and group interpersonal psychotherapy for the nonpurging bulimic individual: a controlled comparison.
+1994|10.0|4.0|Journal of Consulting and Clinical Psychology|The Treatment of Recurrent Abdominal Pain in Children: A Controlled Comparison of Cognitive-Behavioral Family Intervention and Standard Pediatric Care
+1995|18.0|2.0|Journal of Consulting and Clinical Psychology|Hypnosis as an Adjunct to Cognitive-Behavioral Psychotherapy: A Meta-Analysis.
+1996|23.0|3.5|Journal of Consulting and Clinical Psychology|Cognitive-Behavior Therapy versus Pharmacotherapy: Now That the Jury's Returned Its Verdict, It's Time to Present the Rest of the Evidence.
+1997|18.0|3.0|Educational Psychology|On the Nature of Cognitive Style.
+1998|7.0|3.0|Acta Psychiatrica Scandinavica|The treatment of social phobia: a critical assessment
+1999|15.0|3.0|Journal of Learning Disabilities|Reading Research for Students with LD A Meta-Analysis of Intervention Outcomes
+2000|2.0|2.0|Journal of Creative Behavior|Promoting Insightful Problem Solving
+2001|27.0|3.0|Applied Developmental Science|3-Year Iatrogenic Effects Associated With Aggregating High-Risk Adolescents in Cognitive-Behavioral Preventive Interventions
+2002|8.0|3.0|Journal of Research in Science Teaching|Promoting understanding of chemical bonding and spontaneity through student explanation and integration of ideas
+2003|14.0|5.5|School Psychology International|Effective Interventions on Test Anxiety Reduction A Meta-Analysis
+2004|75.0|8.5|Behavior Therapy|Acceptance and commitment therapy, relational frame theory, and the third wave of behavioral and cognitive therapies
+2005|45.0|8.0|Journal of Consulting and Clinical Psychology|Randomized Trial of Prolonged Exposure for Posttraumatic Stress Disorder with and without Cognitive Restructuring: Outcome at Academic and Community Clinics.
+2006|265.0|11.5|Psychological Bulletin|Does changing behavioral intentions engender behavior change? A meta-analysis of the experimental evidence.
+2007|77.0|7.0|Behavior Modification|A randomized controlled effectiveness trial of acceptance and commitment therapy and cognitive therapy for anxiety and depression.
+2008|174.0|9.0|Journal of Consulting and Clinical Psychology|Mindfulness-Based Cognitive Therapy to Prevent Relapse in Recurrent Depression.
+2009|162.0|9.0|Journal of Child Psychology and Psychiatry|Cognitive behavioral therapy for anxiety in children with autism spectrum disorders: a randomized, controlled trial
+2010|111.0|9.0|Journal of Child Psychology and Psychiatry|Research Review: attention bias modification (ABM): a novel treatment for anxiety disorders

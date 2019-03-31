@@ -1,0 +1,54 @@
+----  Field Name Safety engineering: 
+----  Field Level 2.0: 
+----  Field Papers Number 20819:
+----  All time max citation paper: Regression Models and Life-Tables, 1992, (11495.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1962|0|0.0|Ire Transactions on Reliability and Quality Control|On Models for Reliability Prediction
+1964|3.0|3.0|IEEE Transactions on Reliability|Digital Circuit Redundancy
+1965|1.0|1.0|IEEE Transactions on Information Theory|Step-by-step decoding of the Bose-Chaudhuri- Hocquenghem codes
+1966|3.0|1.5|IEEE Transactions on Information Theory|Generalized minimum distance decoding
+1967|1.0|0.5|Proceedings of the IEEE|A bound on signal-to-quantizing noise ratios for digital encoding systems
+1968|3.0|1.5|IEEE Transactions on Information Theory|Exponential error bounds for erasure, list, and decision feedback schemes
+1969|2.0|0.5|IEEE Transactions on Information Theory|Space-filling curves: Their generation and their application to bandwidth reduction
+1970|10.0|1.0|Journal of Experimental Child Psychology|Newborn Attention: Differential Response Decrement to Visual Stimuli.
+1971|12.0|1.0|IEEE Transactions on Reliability|A Method of Solving Redundancy Optimization Problems
+1972|11.0|2.0|IEEE Transactions on Information Theory|Computation of channel capacity and rate-distortion functions
+1973|15.0|1.0|Journal of Experimental Child Psychology|Developmental trends in children's component selection
+1974|9.0|3.5|Proceedings of the IEEE|The reliability of semiconductor devices in the bell system
+1975|12.0|3.0|Sigplan Notices|The impact of language design on the production of reliable software
+1976|26.0|1.5|IEEE Transactions on Reliability|A New Algorithm for Symbolic System Reliability Analysis
+1977|32.0|2.0|Applied Physics Letters|1500h continuous cw operation of doubleheterostructure GaInAsP/InP lasers
+1978|18.0|2.0|IEEE Transactions on Software Engineering|An Analysis of Competing Software Reliability Models
+1979|15.0|2.0|IEEE Transactions on Reliability|An Improved Algorithm for Network Reliability
+1980|65.0|2.0|Journal of Experimental Psychology: General|Dividing attention without alternation or automaticity
+1981|20.0|2.0|Solar Cells|Review of conductor-insulator-semiconductor (CIS) solar cells
+1982|39.0|2.0|Annals of Statistics|Cox's Regression Model for Counting Processes: A Large Sample Study
+1983|22.0|2.0|American Journal of Cardiology|Long-term failure rate and morphologic correlations in porcine bioprosthetic heart valves
+1984|14.0|2.0|Journal of Electroanalytical Chemistry|The analysis of electrode impedances complicated by the presence of a constant phase element
+1985|58.0|3.0|Proceedings of the IEEE|Vector quantization in speech coding
+1986|32.0|3.0|Philosophical Transactions of the Royal Society A|Brittle Failure in Compression: Splitting, Faulting and Brittle-Ductile Transition
+1987|29.0|2.0|IEEE Transactions on Information Theory|An updated table of minimum-distance bounds for binary linear codes
+1988|65.0|3.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Complete discrete 2-D Gabor transforms by neural networks for image analysis and compression
+1989|36.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Motion and structure from two perspective views: algorithms, error analysis, and error estimation
+1990|37.0|2.0|Journal of Interpersonal Violence|A Follow-Up of Rapists Assessed in a Maximum-Security Psychiatric Facility
+1991|79.0|2.0|Review of Scientific Instruments|Using diode lasers for atomic physics
+1992|1801.0|2.0||Regression Models and Life-Tables
+1993|98.0|2.0|Artificial Intelligence|Interpretation as abduction
+1994|154.0|2.0|ACM Computing Surveys|RAID: high-performance, reliable secondary storage
+1995|147.0|2.0|IEEE Transactions on Software Engineering|Formal verification for fault-tolerant architectures: prolegomena to the design of PVS
+1996|68.0|2.0|IEEE Transactions on Information Theory|Fisher information and stochastic complexity
+1997|52.0|2.0|IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems|Crosstalk reduction for VLSI
+1998|149.0|3.0|Proceedings of the IEEE|Error control and concealment for video communication: a review
+1999|154.0|3.0|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|Simplifying decision trees
+2000|109.0|4.0|international conference on robotics and automation|Collaborative multi-robot exploration
+2001|157.0|4.0|Journal of Hepatology|Rates and risk factors of liver fibrosis progression in patients with chronic hepatitis C
+2002|121.0|4.0|IEEE Transactions on Circuits and Systems for Video Technology|Hexagon-based search pattern for fast block motion estimation
+2003|375.0|5.0|IEEE Transactions on Communications|Achieving near-capacity on a multiple-antenna channel
+2004|96.0|5.0|dependable systems and networks|Characterizing the effects of transient faults on a high-performance processor pipeline
+2005|234.0|4.0|Methods in Enzymology|Isolating Microsatellite DNA Loci
+2006|228.0|4.0|IEEE Transactions on Image Processing|Image Denoising Via Sparse and Redundant Representations Over Learned Dictionaries
+2007|261.0|4.0|computer vision and pattern recognition|Saliency Detection: A Spectral Residual Approach
+2008|347.0|3.0|Quarterly Journal of Economics|Five Facts about Prices: A Reevaluation of Menu Cost Models
+2009|219.0|3.0|acm special interest group on data communication|BCube: a high performance, server-centric network architecture for modular data centers
+2010|233.0|4.0|IEEE Transactions on Industrial Electronics|A Survey on Cascaded Multilevel Inverters

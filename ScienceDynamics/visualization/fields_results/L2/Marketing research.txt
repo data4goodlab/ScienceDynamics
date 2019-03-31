@@ -1,0 +1,39 @@
+----  Field Name Marketing research: 
+----  Field Level 2.0: 
+----  Field Papers Number 1662:
+----  All time max citation paper: Conjoint Analysis in Consumer Research: Issues and Outlook, 1978, (1292.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1978|39.0|39.0|Journal of Consumer Research|Conjoint Analysis in Consumer Research: Issues and Outlook
+1979|1.0|0.5|Papers in Regional Science|THE USE OF PSYCHOMETRIC TECHNIQUES IN EVALUATION PROCEDURES: METHODOLOGY AND APPLICATION
+1980|3.0|3.0|Decision Sciences|AN INFORMATION PROCESSING PROBE INTO CONJOINT ANALYSIS*
+1981|14.0|0.5|Management Science|Profit Maximizing Perceptual Positions: An Integrated Theory for the Selection of Product Features and Price
+1982|15.0|5.0|Journal of Marketing|Commercial use of conjoint analysis: A survey
+1983|6.0|6.0|Journal of Business & Economic Statistics|A Comparison of the Predictive Validity of Procedures for Analyzing Binary Data
+1984|3.0|0.5|The Journal of Business|Conjoint Analysis of Price Premiums for Hotel Amenities
+1985|6.0|0.5|Marketing Science|Nonisomorphism, Shadow Features and Imputed Preferences
+1986|14.0|3.0|Marketing Science|The Choice Theory Approach to Market Research
+1987|7.0|4.0|Management Science|A heuristic approach to product design
+1988|10.0|4.0|Marketing Science|An Integer Programming Approach to the Optimal Product Line Selection Problem
+1989|31.0|2.0|Journal of Marketing|Commercial Use of Conjoint Analysis: An Update
+1990|7.0|0.5|Management Science|Heuristics for product-line design using conjoint analysis
+1991|7.0|1.0|Information & Management|The status of marketing information systems, decision support systems and expert systems in the marketing function of U.S. firms
+1992|11.0|3.0|Marketing Letters|Latent class metric conjoint analysis
+1993|13.0|5.0|Management Science|Heuristics for pricing and positioning a product-line using conjoint and cost data
+1994|24.0|4.0|International Journal of Research in Marketing|Commercial use of conjoint analysis in Europe: Results and critical reflections
+1995|13.0|1.5|ACM Sigmis Database|Adoption intention in GSS: relative importance of beliefs
+1996|20.0|4.5|Management Science|Genetic algorithms for product design
+1997|20.0|5.0|Management Science|Using computers to realize joint gains in negotiations: toward an electronic bargaining table
+1998|74.0|4.0||Agent-Mediated Integrative Negotiation for Retail Electronic Commerce
+1999|35.0|6.0|Social Science & Medicine|Using conjoint analysis to take account of patient preferences and go beyond health outcomes: an application to in vitro fertilisation.
+2000|61.0|6.0|BMJ|Using conjoint analysis to elicit preferences for health care
+2001|52.0|4.0|Journal of Agricultural and Resource Economics|Consumer Response To Genetically Modified Foods: Market Segment Analysis And Implications For Producers And Policy Makers
+2002|50.0|4.5|Journal of Environmental Economics and Management|Alternative Non-market Value-Elicitation Methods: Are the Underlying Preferences the Same?
+2003|28.0|3.0|Health Economics|Threats to the estimation of benefit: are preference elicitation methods accurate?
+2004|61.0|5.0|Marketing Science|A Choice Model with Conjunctive, Disjunctive, and Compensatory Screening Rules
+2005|59.0|5.0|Food Quality and Preference|Consumer research in the early stages of new product development: a critical review of methods and techniques
+2006|37.0|5.5|International Journal of Forecasting|Findings from evidence-based forecasting: Methods for reducing forecast error
+2007|60.0|7.0|Appetite|Influence of gender, age and motives underlying food choice on perceived healthiness and willingness to try functional foods
+2008|130.0|4.0|PharmacoEconomics|Conducting Discrete Choice Experiments to Inform Healthcare Decision Making: A User's Guide
+2009|63.0|5.0|Land Use Policy|Public preferences for landscape features: The case of agricultural landscape in mountainous Mediterranean areas
+2010|74.0|6.0|BMC Cancer|Gene expression analysis of cell death induction by Taurolidine in different malignant cell lines

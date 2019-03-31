@@ -1,0 +1,60 @@
+----  Field Name Animal science: 
+----  Field Level 1.0: 
+----  Field Papers Number 7477:
+----  All time max citation paper: Biodiesel production: a review, 1999, (1896.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1950|4.0|3.5|Australian Veterinary Journal|The relation of the type and quantity of roughage and grazing to the fat content of milk.
+1955|1.0|1.0|The Journal of Agricultural Science|Studies on milk production of Large White pigs.
+1957|7.0|0.5|Journal of Dairy Science|Comparison of Antibiotics for Dairy Calves on Two Levels of Milk Feeding
+1958|0|0.0|The Journal of Agricultural Science|The effect of hexoestrol implantation on growth, efficiency of food utilization and carcass quality in pigs.
+1959|0|0.0|New Zealand Journal of Agricultural Research|The yield and composition of milk from sows fed varying proportions of separated milk and concentrates
+1960|18.0|4.5|Journal of Dairy Science|Structure and Synthesis of Milk Fat. II. Fatty Acid Distribution in the Triglycerides of Milk and Other Animal Fats1,2
+1962|4.0|4.0||The effect of variation of protein quality and protein level in diets on the performance of young pigs.
+1963|27.0|17.0|Journal of Dairy Science|Ruminant Fat Metabolism with Particular Reference to Factors Affecting Low Milk Fat and Feed Efficiency. A Review
+1964|4.0|2.0||The plane of nutrition and compensatory growth in pigs
+1965|6.0|5.0|Journal of Dairy Science|Effects of Zinc Deficiency per se on Feed Efficiency, Serum Alkaline Phosphatase, Zinc in Skin, Behavior, Greying, and other Measurements in the Holstein Calf1
+1967|5.0|3.5|Journal of Dairy Science|Effect of Feeding Broken Rice Grains and Decorticated Cottonseed Meal on Feed Efficiency, Ruminal Activity, and Blood Constituents of Early Weaned Buffalo Calves
+1968|12.0|3.0|Journal of Dairy Science|Genetic and Environmental Relationships Among Efficiency, Yield, Consumption and Weight of Holstein Cows
+1969|10.0|2.5|Journal of Nutrition|Effect of dietary protein on hepatic lipogenesis in the growing chick.
+1970|17.0|1.0|Journal of Dairy Science|Methionine Hydroxy Analog: Varying Levels for Lactating Cows
+1971|9.0|3.0|Journal of Dairy Science|Effects of Whey Components and Methionine Analog on Bovine Milk Fat Production
+1972|2.0|2.0|Journal of Dairy Science|Relationships Among Whole-and Part-Lactation Gross Feed Efficiency, Feed Consumption, and Milk Yield
+1973|1.0|0.0|Journal of Dairy Science|Usefulness of Periodic Body Weights to Predict Yield, Intake, and Feed Efficiency of Lactating Cows
+1974|3.0|2.0|Evolutionary Biology-new York|Five-Kingdom Classification and the Origin and Evolution of Cells
+1975|7.0|1.0|Journal of Dairy Science|Paraformaldehyde Compared with Formic Acid As a Direct-Cut Silage Preservative
+1976|14.0|4.0|Journal of Dairy Science|Performance of Calves Fed Fermented Colostrum or Colostrum with Additives During Warm Ambient Temperatures1,2
+1977|11.0|1.0|Journal of Dairy Science|Potential of Chemical Preservation and Improvement of Forages
+1978|5.0|1.0|Biotechnology and Bioengineering|Alkali treatment and fermentation of straw for animal feed
+1979|7.0|1.0|Physiology & Behavior|Feed efficiency in growth-retarded rats with ventromedial and dorsomedial hypothalamic lesions produced shortly after weaning
+1980|12.0|2.5|Physiology & Behavior|Role of gonadal hormones in diet selection and food utilization in female rats
+1981|8.0|4.5|Journal of Dairy Science|Effect of Nicotinic Acid on Microbial Protein Synthesis In Vitro and on Dairy Cattle Growth and Milk Production1,2
+1982|31.0|4.0|Journal of Dairy Science|Alteration of Rumen Fermentation, Milk Fat Synthesis, and Nutrient Utilization with Mineral Salts in Dairy Cows1
+1983|10.0|2.0|Journal of Dairy Science|Relationships between Measures of Feed Efficiency and Transmitting Ability for Milk of Holstein Cows1
+1984|6.0|1.5|Journal of Dairy Science|Feed Efficiency: A Composite Trait of Dairy Cattle1
+1985|9.0|1.0|Journal of the American Oil Chemists' Society|Dry bean tannins: A review of nutritional implications
+1986|4.0|1.0|Journal of Dairy Science|Correlated Response in Feed Efficiency Accompanying Selection for Milk Yield in Jerseys
+1987|22.0|2.0|Aquaculture|Ration level for salmonids: II. Growth, feed intake, protein digestibility, body composition, and feed conversion in rainbow trout weighing 0.51.0 kg
+1988|19.0|1.0|Livestock Production Science|Genetic aspects of feed intake and feed efficiency in dairy cattle: A review
+1989|10.0|3.0|Journal of Dairy Science|High Amounts of Soyhulls for Pelleted Concentrate Diets1
+1990|17.0|2.0|Atherosclerosis|Effect of a high fat/cholesterol diet with or without eicosapentaenoic acid on plasma lipids, lipoproteins and lipid transfer protein activity in the marmoset
+1991|9.0|2.0|Aquaculture|Optimum dietary protein level for growth of bighead carp (Aristichthys nobilis) fry in a static water system.
+1992|25.0|3.0|Journal of Dairy Science|Effects of Feeding Lactating Dairy Cows Diets Containing Whole Soybeans and Tallow1
+1993|10.0|1.0|Fish Physiology and Biochemistry|Essential fatty acid requirement of juvenile red drum (Sciaenops ocellatus).
+1994|14.0|1.0|Plant Physiology|Iron Inefficiency in Maize Mutant ys1 (Zea mays L. cv Yellow-Stripe) Is Caused by a Defect in Uptake of Iron Phytosiderophores
+1995|24.0|2.0|Metabolism-clinical and Experimental|Differential effects of fat and sucrose on the development of obesity and diabetes in C57BL/6J and A J mice
+1996|21.0|2.0|Aquaculture|Diel feeding activity and the effect of time-restricted self-feeding on growth and feed conversion in European sea bass
+1997|32.0|3.0|Aquaculture Nutrition|Dietary protein/energy ratios for Atlantic salmon in relation to fish size: growth, feed utilization and slaughter quality
+1998|54.0|3.0|Lipids|Conjugated linoleic acids alter bone fatty acid composition and reduce ex vivo prostaglandin E2 biosynthesis in rats fed n-6 or n-3 fatty acids.
+1999|34.0|5.0|Aquaculture|Growth performance and adiposity in gilthead sea bream ( Sparus aurata ): risks and benefits of high energy diets
+2000|32.0|4.0|Animal Reproduction Science|Epidemiology of reproductive performance in dairy cows.
+2001|180.0|4.0|Progress in Lipid Research|The biologically active isomers of conjugated linoleic acid
+2002|74.0|3.0|Aquaculture|Impact of different dietary lipid sources on growth, lipid digestibility, tissue fatty acid composition and histology of rainbow trout, Oncorhynchus mykiss
+2003|53.0|5.0|Aquaculture|Rapeseed oil as an alternative to marine fish oil in diets of post-smolt Atlantic salmon ( Salmo salar ): changes in flesh fatty acid composition and effectiveness of subsequent fish oil wash out
+2004|89.0|4.0|Clinical Microbiology Reviews|Foot-and-Mouth Disease
+2005|437.0|4.0|Journal of Geophysical Research|Synthesis of iron fertilization experiments : from the Iron Age in the Age of Enlightenment
+2006|225.0|4.0|Chemosphere|A global perspective on the use, sales, exposure pathways, occurrence, fate and effects of veterinary antibiotics (VAs) in the environment
+2007|125.0|5.0|Bioresource Technology|The potential of restaurant waste lipids as biodiesel feedstocks
+2008|176.0|5.0|Journal of Industrial Microbiology & Biotechnology|Biodiesel production--current state of the art and challenges.
+2009|332.0|5.0|Biotechnology Advances|Glycerol: A promising and abundant carbon source for industrial microbiology
+2010|212.0|5.0|Livestock Science|Comparing environmental impacts for livestock products: A review of life cycle assessments

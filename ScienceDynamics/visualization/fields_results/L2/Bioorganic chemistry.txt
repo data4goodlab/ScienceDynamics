@@ -1,0 +1,25 @@
+----  Field Name Bioorganic chemistry: 
+----  Field Level 2.0: 
+----  Field Papers Number 1049:
+----  All time max citation paper: Graphene oxide as a chemically tunable platform for optical applications, 2010, (299.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1972|0|0.0|Journal of Bioenergetics and Biomembranes|Accumulation of calcium and phosphate stimulated by carboxylic antibiotics into mitochondria
+1973|6.0|6.0|Journal of Bioenergetics and Biomembranes|On the meaning of effects of substrate structure on biological transport
+1990|0|0.0|Journal of Protein Chemistry|Identification of a new site of conformational heterogeneity in unfolded ribonuclease A
+1992|4.0|3.0|Biotechnology Letters|Observations consistent with autocrine stimulation of hybridoma cell growth and implications for large-scale antibody production
+1993|2.0|2.0|Journal of Protein Chemistry|Predicting cleavability of peptide sequences by HIV protease via correlation-angle approach
+1994|34.0|34.0|Journal of Bioenergetics and Biomembranes|The role of ascorbate in antioxidant protection of biomembranes: Interaction with vitamin E and coenzyme Q
+1997|2.0|1.0|Liebigs Annalen|Enzymatic synthesis of peptide conjugates: Tools for the study of biological signal transduction
+1999|0|0.0|European Journal of Organic Chemistry|Origin of the SlowBinding Inhibition of Aldolase by DglyceroTetrulose 1Phosphate (DErythrulose 1Phosphate) from the Comparison with the Isosteric Phosphonate Analog
+2000|57.0|4.0|Current Opinion in Chemical Biology|Metallothioneins: new functional and structural insights
+2001|14.0|2.0|Angewandte Chemie|Turning On Cell Migration with Electroactive Substrates
+2002|7.0|3.5|Angewandte Chemie|A (64) Photolyase Model: Repair of DNA (64) Lesions Requires a Reduced and Deprotonated Flavin
+2003|32.0|4.5|ChemBioChem|AzideAlkyne Coupling: A Powerful Reaction for Bioconjugate Chemistry
+2004|40.0|5.5|Angewandte Chemie|cRGDFunctionalized Polymer Micelles for Targeted Doxorubicin Delivery
+2005|46.0|5.0|Angewandte Chemie|A DNAzyme That Walks Processively and Autonomously along a OneDimensional Track
+2006|56.0|6.5|Angewandte Chemie|SiteSelective Protein Immobilization by Staudinger Ligation
+2007|42.0|15.0|ChemBioChem|Biosynthesis of a Fully Functional Cyclotide inside Living Bacterial Cells
+2008|43.0|8.5|Angewandte Chemie|NTerminal Protein Modification through a Biomimetic Transamination Reaction
+2009|228.0|10.0|Nature Chemistry|New insights into the structure and reduction of graphite oxide
+2010|299.0|8.0|Nature Chemistry|Graphene oxide as a chemically tunable platform for optical applications

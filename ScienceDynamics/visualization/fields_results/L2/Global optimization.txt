@@ -1,0 +1,44 @@
+----  Field Name Global optimization: 
+----  Field Level 2.0: 
+----  Field Papers Number 7781:
+----  All time max citation paper: Differential Evolution  A Simple and Efficient Heuristic for Global Optimization over Continuous Spaces, 1997, (3512.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|7.0|3.5|Bellman Prize in Mathematical Biosciences|A method of unconstrained global optimization
+1971|0|0.0|Communications of The ACM|Conversion of limited-entry decision tables to computer programsa proposed modification to Pollack's algorithm
+1974|2.0|2.0|Communications of The ACM|Extending the infomation theory approach to converting limited-entry decision tables to computer programs
+1976|13.0|6.5|ACM Computing Surveys|Data Flow Analysis in Software Reliability
+1977|0|0.0|symposium on principles of programming languages|A new strategy for code generation: the general purpose optimizing compiler
+1978|9.0|3.5|design automation conference|A Technology-Relative Computer-Aided Design System: Abstract Representations, Transformations, and Design Tradeoffs
+1979|4.0|3.0|Communications of The ACM|Global optimization by suppression of partial redundancies
+1980|11.0|3.5|ACM Sigmicro Newsletter|Heuristics for the global optimization of microprograms
+1981|6.0|4.0|Journal of Theoretical Biology|Calculation of the minimum energy conformation of biomolecules using a global optimization technique I. Methodology and application to a model molecular fragment (Normal pentane)
+1982|21.0|7.0|compiler construction|An overview of the PL.8 compiler
+1983|3.0|1.0|International Journal of Quantum Chemistry|Calculation of the minimum energy conformations of Di, Tri, and tetrapeptides of glycine using a global optimization technique
+1984|13.0|2.5|Mathematics and Computers in Simulation|A general-purpose global optimizer: implementation and applications
+1985|23.0|2.0|Journal of Logic Programming|Some global optimizations for a PROLOG compiler
+1986|13.0|4.0|ACM Transactions on Database Systems|A state transition model for distributed query processing
+1987|20.0|4.0|international conference on robotics and automation|Local versus global torque optimization of redundant manipulators
+1988|16.0|4.0|international conference on robotics and automation|Global time optimal motions of robotic manipulators in the presence of obstacles
+1989|21.0|1.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A renormalization group approach to image processing problems
+1990|36.0|2.5|IEEE Transactions on Pattern Analysis and Machine Intelligence|Using dynamic programming for solving variational problems in vision
+1991|20.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Optimal partitioning for classification and regression trees
+1992|37.0|4.0|Water Resources Research|Effective and efficient global optimization for conceptual rainfallrunoff models
+1993|105.0|3.0|programming language design and implementation|Global optimizations for parallelism and locality on scalable parallel machines
+1994|60.0|4.0|Journal of Econometrics|GLOBAL OPTIMIZATION OF STATISTICAL FUNCTIONS WITH SIMULATED ANNEALING
+1995|52.0|2.0|Protein Science|De novo design of the hydrophobic cores of proteins
+1996|55.0|2.0|Artificial Intelligence|Optimal composition of real-time systems
+1997|47.0|2.0|international joint conference on artificial intelligence|Numerica: a modeling language for global optimization
+1998|45.0|4.0|international conference on computer graphics and interactive techniques|Non-distorted texture mapping for sheared triangulated meshes
+1999|60.0|5.0|Geophysical Journal International|Geophysical inversion with a neighbourhood algorithmI. Searching a parameter space
+2000|69.0|4.0|programming language design and implementation|A certifying compiler for Java
+2001|112.0|3.0|international conference on computer vision|Interactive graph cuts for optimal boundary & region segmentation of objects in N-D images
+2002|255.0|4.0|NeuroImage|IMPROVED OPTIMIZATION FOR THE ROBUST AND ACCURATE LINEAR REGISTRATION AND MOTION CORRECTION OF BRAIN IMAGES
+2003|116.0|5.0|international conference on computer vision|Multiclass spectral clustering
+2004|137.0|5.0|computer vision and pattern recognition|Detecting unusual activity in video
+2005|148.0|4.0|Artificial Intelligence|Adopt: asynchronous distributed constraint optimization with quality guarantees
+2006|305.0|3.5|IEEE Transactions on Evolutionary Computation|Comprehensive learning particle swarm optimizer for global optimization of multimodal functions
+2007|309.0|4.0|Proceedings of the IEEE|Layering as Optimization Decomposition: A Mathematical Theory of Network Architectures
+2008|218.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Stereo Processing by Semiglobal Matching and Mutual Information
+2009|280.0|3.0|Progress in Aerospace Sciences|Recent advances in surrogate-based optimization
+2010|565.0|4.0|Journal of Statistical Software|Zero-Coupon Yield Curve Estimation with the Package termstrc

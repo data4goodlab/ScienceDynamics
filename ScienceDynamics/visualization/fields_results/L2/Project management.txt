@@ -1,0 +1,65 @@
+----  Field Name Project management
+----  Field Level 2.0
+----  Field Papers Number 89940
+----  All time max citation paper Posttraumatic Stress Disorder in the National Comorbidity Survey, 1995, (3364.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1932|1.0|1.0|Electrical Engineering|The Time Factor in Telephone Transmission
+1948|1.0|1.0|American Journal of Public Health|International Trends in Health Care
+1950|1.0|1.0|Mathematical Proceedings of the Cambridge Philosophical Society|A stable ninety-nine channel pulse amplitude analyser for slow counting
+1952|2.0|2.0|JAMA|Cure of Subacute Bacterial Endocarditis with Penicillin and Chloramphenicol. Report of a Treatment Resistant Case.
+1953|9.0|2.0|Geochimica et Cosmochimica Acta|THE GEOCHEMISTRY OF THE STABLE CARBON ISOTOPES
+1957|3.0|3.0|Journal of Applied Physics|DESIGN AND EVALUATION OF AN S-BAND REBATRON
+1958|0|0.0||PULSE COLUMN DESIGN
+1959|0|0.0||Radio-frequency aspects of electro-nuclear accelerators
+1960|1.0|0.0|Nuclear Instruments and Methods|THE ELECTROMAGNETIC ISOTOPE SEPARATOR IN PRETORIA
+1961|2.0|1.0|Pure and Applied Geophysics|THE TRANSPORT OF TRACE SUBSTANCES IN THE ATMOSPHERE AND THEIR IMPLICATIONS FOR THE GENERAL CIRCULATION OF THE STRATOSPHERE
+1962|5.0|3.5|Journal of Chemical Physics|QUENCHING INTERACTIONS BETWEEN RARE-EARTH IONS
+1963|5.0|2.0|IEEE Transactions on Information Theory|On the effectiveness of receptors in recognition systems
+1964|0|0.0|Journal of the Operational Research Society|Operational Research and the Behavioural Sciences
+1965|22.0|1.5|Photochemistry and Photobiology|THEORY AND DESIGN OF HIGH INTENSITY U.V MONOCHROMATORS FOR PHOTOBIOLOGY AND PHOTOCHEMISTRY
+1966|1.0|0.0|IEEE Transactions on Communications|Multiplexing of Asynchronous Digital Signals Using Pulse Stuffing with Added-Bit Signaling
+1967|9.0|1.5|Attention Perception & Psychophysics|Signal recognition as influenced by presentation schedules.
+1968|4.0|0.0|Mathematical Proceedings of the Cambridge Philosophical Society|The weak convergence of the empirical process with random sample size
+1969|25.0|4.0|Computers and Biomedical Research|Design and implementation of a clinical data management system
+1970|15.0|1.5|Comparative Biochemistry and Physiology|The desaturase activity of goat and sow mammary tissue
+1971|31.0|2.5|Communications of The ACM|Proof of a program: FIND
+1972|34.0|2.0|Communications of The ACM|Curriculum recommendations for graduate professional programs in information systems
+1973|27.0|1.0|Communications of The ACM|A data definition and mapping language
+1974|15.0|1.0||Access control in a relational data base management system by query modification
+1975|25.0|2.5|international conference on management of data|The relational and network approaches: Comparison of the application programming interfaces
+1976|44.0|2.0|ACM Computing Surveys|Relational Data-Base Management Systems
+1977|128.0|1.0|Communications of The ACM|Abstraction mechanisms in CLU
+1978|12.0|1.0|Review of World Economics|Export incentives and export performance in developing countries : a comparative analysis
+1979|38.0|2.0|Journal of the Operational Research Society|The Future of Operational Research is Past
+1980|147.0|2.0|The New England Journal of Medicine|Hepatitis B vaccine. Demonstration of efficacy in a controlled clinical trial in a high-risk population in the United States.
+1981|51.0|2.0|Management Science|Forecasting and Planning: An Evaluation
+1982|35.0|2.0|Communications of The ACM|The future of programming
+1983|43.0|1.0|International Journal of Radiation Oncology Biology Physics|Accelerated fractionation vs hyperfractionation: Rationales for several treatments per day
+1984|81.0|2.0|Artificial Intelligence|Domain-independent planning: representation and plan generation
+1985|60.0|2.0|IEEE Journal on Robotics and Automation|Navigation for an intelligent mobile robot
+1986|46.0|2.0|foundations of computer science|Approximate and exact parallel scheduling with applications to list, tree and graph problems
+1987|172.0|2.0|Artificial Intelligence|Planning for conjunctive goals
+1988|125.0|2.0|IEEE Computer|Self-organization in a perceptual network
+1989|84.0|2.0|ACM Computing Surveys|Human-computer interface development: concepts and systems for its management
+1990|156.0|2.0|ACM Computing Surveys|Federated database systems for managing distributed, heterogeneous, and autonomous databases
+1991|109.0|2.0||HITEC: a test generation package for sequential circuits
+1992|100.0|2.5|The Lancet|Mortality from tobacco in developed countries: indirect estimation from national vital statistics
+1993|255.0|3.0|Artificial Intelligence|Agent-oriented programming
+1994|147.0|2.0|IEEE Transactions on Software Engineering|A metrics suite for object oriented design
+1995|290.0|2.0|international symposium on computer architecture|The SPLASH-2 programs: characterization and methodological considerations
+1996|95.0|2.0|Neuropsychologia|Neural systems engaged by planning: A PET study of the Tower of London task
+1997|129.0|2.0|international symposium on microarchitecture|MediaBench: a tool for evaluating and synthesizing multimedia and communicatons systems
+1998|153.0|3.0|Journal of the Operational Research Society|Rate control for communication networks: shadow prices, proportional fairness and stability
+1999|230.0|4.0|international conference on software engineering|N degrees of separation: multi-dimensional separation of concerns
+2000|531.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Statistical pattern recognition: a review
+2001|172.0|4.0|symposium on operating systems principles|Managing energy and server resources in hosting centers
+2002|301.0|4.0|operating systems design and implementation|Fine-grained network time synchronization using reference broadcasts
+2003|470.0|4.0|programming language design and implementation|The nesC language: A holistic approach to networked embedded systems
+2004|348.0|4.0|grid computing|BOINC: a system for public-resource computing and storage
+2005|389.0|4.0|Concurrency and Computation: Practice and Experience|Distributed computing in practice: the Condor experience
+2006|777.0|3.0|PLOS Medicine|Projections of Global Mortality and Burden of Disease from 2002 to 2030
+2007|708.0|3.0|Computer Graphics Forum|A Survey of GeneralPurpose Computation on Graphics Hardware
+2008|1227.0|2.0|Ecology|TOWARD A METABOLIC THEORY OF ECOLOGY
+2009|1033.0|2.0|Future Generation Computer Systems|Cloud computing and emerging IT platforms: Vision, hype, and reality for delivering computing as the 5th utility
+2010|1339.0|3.0|PLOS ONE|A climatic stability approach to prioritizing global conservation investments

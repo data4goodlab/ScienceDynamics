@@ -1,0 +1,58 @@
+----  Field Name Crystal chemistry: 
+----  Field Level 2.0: 
+----  Field Papers Number 1130:
+----  All time max citation paper: Filled Skutterudite Antimonides: A New Class of Thermoelectric Materials, 1996, (818.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1958|2.0|1.0|Journal of the American Ceramic Society|Crystal Chemistry of Hydrous Calcium Silicates: III, Morphology and Other Properties of Tobermorite and Related Phases
+1960|4.0|2.5|Geochimica et Cosmochimica Acta|The distribution of certain elements among coexisting calcic pyroxenes, calcic amphiboles and biotites in skarns
+1961|0|0.0|Journal of Physics and Chemistry of Solids|The crystal chemistry of some germanium garnets
+1962|4.0|3.0|Journal of the American Ceramic Society|Crystal Chemistry of Pyrochlore
+1963|1.0|1.0|Journal of the American Ceramic Society|Crystal Chemistry of Some AB2O4 Compounds
+1964|4.0|2.0|Journal of Applied Physics|EFFECT OF TRIVALENT MANGANESE ON THE CRYSTAL CHEMISTRY OF SOME LITHIUM SPINELS,
+1965|3.0|2.5|Archives of Oral Biology|Crystal chemistry of hydroxyapatite: Its relation to bone mineral
+1966|1.0|0.0|Nature|Effect of co-ordination number on lanthanide abundance variation.
+1967|4.0|0.0|Geochimica et Cosmochimica Acta|Distribution of chlorine in terrestrial rocks
+1968|5.0|2.5|Zeitschrift Fur Kristallographie|Crystal chemistry of scandium as a trace element in minerals
+1969|4.0|3.0|Materials Science and Engineering|Magnetism, microstructure, and crystal chemistry of spinel ferrites
+1970|37.0|3.0|Geochimica et Cosmochimica Acta|Ionic radii for use in geochemistry
+1971|3.0|1.0|Geochimica et Cosmochimica Acta|Geochemistry and bonding of thiospinel minerals
+1972|7.0|2.0|Journal of Geophysical Research|Oneparameter characterization of the average Al/Si distribution in plagioclase feldspars
+1973|4.0|4.0|Earth Moon and Planets|Progress in remote optical analysis of lunar surface composition
+1974|6.0|5.0|Earth and Planetary Science Letters|The crystal chemistry of armalcolites from Apollo 17
+1975|3.0|0.0|Coordination Chemistry Reviews|The jahn-teller effect in crystal chemistry and spectroscopy
+1976|20.0|5.0|Geochimica et Cosmochimica Acta|Thermochemistry of some pyroxenes and related compounds
+1977|8.0|0.0|Journal of Solid State Chemistry|The crystal chemistry of the M + VO 3 ( M + = Li, Na, K, NH 4 , Tl, Rb, and Cs) pyroxenes
+1978|8.0|2.0|Geochimica et Cosmochimica Acta|Clinopyroxene-orthopyroxene major and rare earth elements partitioning in spinel peridotite xenoliths from Assab (Ethiopia)
+1979|4.0|1.0|Tectonophysics|Superplastic flow and changes in crystal chemistry of feldspars
+1980|6.0|0.0|Lithos|Crystal-chemistry of a unique jadeite-rich acmite-poor omphacite from the Nyb eclogite pod, Srpollen, Nordfjord, Norway
+1981|9.0|4.0|Contributions to Mineralogy and Petrology|Mechanism of the water and carbon dioxide solubility in oxides and silicates and the role of O -
+1982|3.0|3.0|Journal of Solid State Chemistry|Preparation and crystal structures of technetium phosphides
+1983|6.0|0.5|Contributions to Mineralogy and Petrology|Crystal-Chemistry and Cation Ordering in the System Diopside- Jadeite: A Detailed Study by Crystal Structure Refinement
+1984|47.0|2.0|Journal of Solid State Chemistry|Crystal chemistry and magnetic properties of layered metal oxides possessing the K2NiF4 or related structures
+1985|7.0|1.5|Contributions to Mineralogy and Petrology|Evolution of coronas in Norwegian anorthosites: re-evaluation based on crystal-chemistry and microstructures
+1986|5.0|2.0|Journal of Applied Physics|Highpressure and hightemperature crystal chemistry of beryllium oxide
+1987|16.0|2.0|Geochimica et Cosmochimica Acta|Enthalpy of mixing of synthetic almandine-grossular and almandine-pyrope garnets from high-temperature solution calorimetry
+1988|30.0|2.5|Geochimica et Cosmochimica Acta|Mantle metasomatism beneath western Victoria, Australia: I. Metasomatic processes in Cr-diopside lherzolites
+1989|19.0|3.5|Journal of Solid State Chemistry|Compounds and phase compatibilities in the system La 2 O 3 SrOCuO at 950C
+1990|60.0|2.0|Journal of Solid State Chemistry|Crystal chemistry and superconductivity of the copper oxides
+1991|34.0|3.0|Geochimica et Cosmochimica Acta|Crystal-chemical controls on the partitioning of Sr and Ba between plagioclase feldspar, silicate melts and hydrothermal solutions
+1992|11.0|1.0|Journal of Solid State Chemistry|Structural chemistry and magnetic behavior of binary uranium silicides
+1993|9.0|1.0|Journal of Materials Science|Chemical and structural properties of the system Fe2O3-Cr2O3
+1994|20.0|1.0|Geochimica et Cosmochimica Acta|Zero-point-of-charge prediction from crystal chemistry and solvation theory
+1995|20.0|2.0|Earth and Planetary Science Letters|Phase relations, structure and crystal chemistry of some aluminous silicate perovskites
+1996|87.0|3.0|Science|Filled Skutterudite Antimonides: A New Class of Thermoelectric Materials
+1997|25.0|3.0|Journal of Nuclear Materials|Incorporation mechanisms of actinide elements into the structures of U 6+ phases formed during the oxidation of spent nuclear fuel
+1998|40.0|1.0|Geochimica et Cosmochimica Acta|Mineral-aqueous fluid partitioning of trace elements at 9001200C and 3.05.7 GPa: new experimental data for garnet, clinopyroxene, and rutile, and implications for mantle metasomatism
+1999|39.0|2.0|Geochimica et Cosmochimica Acta|The role of clinopyroxene in generating U-series disequilibrium during mantle melting
+2000|23.0|2.5|Nature|Pressure-induced changes in the compression mechanism of aluminous perovskitein the Earth's mantle
+2001|39.0|3.0|Paleoceanography|Kinetic control of skeletal Sr/Ca in a symbiotic coral: Implications for the paleotemperature proxy
+2002|24.0|4.5|Geochimica et Cosmochimica Acta|Melt composition control of Zr/Hf fractionation in magmatic processes
+2003|39.0|6.0|Applied Clay Science|Clay and iron oxide pigments in the history of painting
+2004|36.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Electronic spin state of iron in lower mantle perovskite
+2005|39.0|5.5|Journal of Geophysical Research|Influence of protons on FeMg interdiffusion in olivine
+2006|38.0|3.0|Geophysical Research Letters|Olivine hydration in the deep upper mantle: Effects of temperature and silica activity
+2007|281.0|5.0|Journal of the American Ceramic Society|Refractory Diborides of Zirconium and Hafnium
+2008|36.0|4.0|Soft Matter|Control of morphology in pattern directed dewetting of thin polymer films
+2009|49.0|4.5|Journal of Colloid and Interface Science|The effects of nanoparticle aggregation processes on aggregate structure and metal uptake.
+2010|50.0|2.0|Acta Biomaterialia|Octacalcium phosphate: Osteoconductivity and crystal chemistry

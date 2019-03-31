@@ -1,0 +1,63 @@
+----  Field Name Radiobiology: 
+----  Field Level 2.0: 
+----  Field Papers Number 2914:
+----  All time max citation paper: Relative biological effectiveness (RBE) values for proton beam therapy, 2002, (562.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1951|2.0|2.0||Electromagnetic Radiation Fundamentals and their Applications in Food Technology
+1954|6.0|6.0|Journal of Cellular and Comparative Physiology|An analysis of the changing radiation response of the developing mouse embryo
+1955|3.0|3.0|Annals of the New York Academy of Sciences|FACTORS IN THE RADIOSENSITIVITY OF MAMMALIAN CELLS
+1957|4.0|4.0|Radiation Research|THE RELATIVE BIOLOGICAL EFFECTIVENESS OF VARIOUS IONIZING RADIATIONS IN MAMMALIAN SYSTEMS
+1958|1.0|0.5|The Journal of Pediatrics|X-IRRADIATION EFFECTS ON THE HUMAN FETUS
+1959|0|0.0|Journal of Genetic Psychology|TRANSFER BY NORMAL AND CHRONIC FOCAL-HEAD IRRADIATED MONKEYS OF A SINGLE LEARNED DISCRIMINATION ALONG A PERIPHERAL CUE GRADIENT,
+1960|22.0|4.0|Archives of Biochemistry and Biophysics|NEUTRON ACTIVATION PAPER CHROMATOGRAPHIC ANALYSIS OF PHOSPHATIDES IN MAMMALIAN CELL FRACTIONS
+1961|1.0|1.0|Annals of the New York Academy of Sciences|ATTEMPTS AT INFLUENCING THE RADIATION RESPONSE OF HUMAN TUMOR STRAINS A. Fi. AND HELA IN CONTINUOUS CULTURES: A TEST OF SYNKAVIT (SYNTHETIC VITAMIN K) AS RADIOSENSITIZER*
+1962|16.0|2.0|Radiation Botany|PREDICTION OF THE SENSITIVITY OF PLANTS TO CHRONIC GAMMA IRRADIATION
+1963|19.0|1.0|Photochemistry and Photobiology|MECHANISM OF ENZYME INACTIVATION BY ULTRAVIOLET LIGHT AND THE PHOTOCHEMISTRY OF AMINO ACIDS (AT 2537 )*
+1964|10.0|1.5|Mutation Research|X-RAY INDUCED MUTABILITY IN MALE GERM CELLS OF DROSOPHILA MELANOGASTER
+1965|20.0|2.0|Journal of Molecular Biology|Comparison of ultraviolet sensitivity of Bacillus subtilis bacteriophage SPO2 and its infectious DNA
+1966|22.0|2.0|Journal of Molecular Biology|EFFECTS OF ULTRAVIOLET RADIATION ON MACROMOLECULAR SYNTHESIS IN ESCHERICHIA COLI.
+1967|16.0|2.0|Mutation Research|Two types of radiation-sensitive mutant in yeast
+1968|11.0|1.0|Photochemistry and Photobiology|EFFECTS OF DOSE FRACTIONATION ON ULTRAVIOLET SURVIVAL OF ESCHERICHIA COLI
+1969|11.0|2.0|Genetics|Locus for radiation resistance in Escherichia coli strain B-r.
+1970|6.0|3.0|Mutation Research|Dose-response curve for the yield of translocations in mouse-spermatogonia after repeated small radiation doses
+1971|17.0|2.0|Mutation Research|ALLELISM TESTS OF MUTANTS AFFECTING SENSITIVITY TO RADIATION IN YEAST AND A PROPOSED NOMENCLATURE.
+1972|8.0|2.0|Journal of Molecular Biology|Mutagenic effects of thymine dimers in bacteriophage T4
+1973|14.0|2.0|Journal of Molecular Biology|Involvement of bacteriophage T4 genes in radiation repair
+1974|34.0|4.0|Journal of Molecular Biology|Specificity and frequency of ultraviolet-induced reversion of an iso-1- cytochrome c ochre mutant in radiation-sensitive strains of yeast
+1975|16.0|2.0|Cancer Research|Repair of Radiation Damage in Lewis Lung Carcinoma Cells following in Situ Treatment with Fast Neutrons and -rays
+1976|3.0|1.5|International Journal of Radiation Oncology Biology Physics|Radiation response of artificial pulmonary metastases of the EMT6 tumor
+1977|7.0|2.0|Journal of Neuroscience Research|Nuclear, nucleolar repair, or turnover of DNA in adult rat brain
+1978|55.0|2.5|Journal of Clinical Periodontology|Effect of controlled oral hygiene procedures on caries and periodontal disease in adults
+1979|5.0|1.0|Oral Surgery, Oral Medicine, Oral Pathology|Leaded shields for thyroid dose reduction in intraoral dental radiography
+1980|9.0|1.5|International Journal of Radiation Oncology Biology Physics|Studies on fractionated hyperthermia in experimental animal systems I. The foot reaction after equal doses: Heat resistance and repopulation
+1981|23.0|2.5|Cancer Research|Fluorometric Method for Rapid Detection of DNA Strand Breaks in Human White Blood Cells Produced by Low Doses of Radiation
+1982|64.0|3.0|International Journal of Radiation Oncology Biology Physics|Changes in early and late radiation responses with altered dose fractionation: Implications for dose-survival relationships
+1983|12.0|3.0|Archives of Ophthalmology|Failure of Choroidal Melanoma to Respond to Helium Ion Therapy
+1984|43.0|4.5|Radiotherapy and Oncology|The radioresponsiveness of human tumours and the initial slope ofthe cell survival curve
+1985|33.0|3.0|International Journal of Radiation Oncology Biology Physics|Intrinsic radiosensitivity of human cell lines is correlated with radioresponsiveness of human tumors: analysis of 101 published survival curves.
+1986|28.0|3.0|Radiotherapy and Oncology|Dose-rate effects and the repair of radiation damage.
+1987|39.0|2.0|Radiotherapy and Oncology|The dose-rate effect in human tumour cells
+1988|18.0|3.0|International Journal of Radiation Oncology Biology Physics|Applicability of animal tumor data to cancer therapy in humans
+1989|43.0|2.0|Radiotherapy and Oncology|Repair capacity and kinetics of human skin during fractionated radiotherapy: Erythema, desquamation, and telangiectasia after 3 and 5 year's follow-up
+1990|18.0|2.0|Mutation Research-dna Repair|Restoration of radiation resistance in ataxia telangiectasia cells by the introduction of normal human chromosome 11
+1991|19.0|3.0|Radiotherapy and Oncology|Relationship between early and late normal-tissue injury after postmastectomy radiotherapy
+1992|17.0|3.0|Radiotherapy and Oncology|Overview of animal studies comparing radioimmunotherapy with dose equivalent external beam irradiation
+1993|26.0|3.0|International Journal of Radiation Oncology Biology Physics|Prospective comparison of in vitro normal cell radiosensitivity and normal tissue reactions in radiotherapy patients
+1994|15.0|2.0|Advances in Space Research|Dose rate and repair effects on cell damage in earth orbit
+1995|36.0|3.0|Radiotherapy and Oncology|Apoptosis, intrinsic radiosensitivity and prediction of radiotherapy response in cervical carcinoma
+1996|41.0|2.0|Radiotherapy and Oncology|The p53 gene as a modifier of intrinsic radiosensitivity: implications for radiotherapy
+1997|65.0|4.5|The EMBO Journal|Identification of Saccharomyces cerevisiae DNA ligase IV: involvement in DNA doublestrand break repair
+1998|41.0|4.0|Archives of General Psychiatry|Phenotypic and Genetic Structure of Traits Delineating Personality Disorder
+1999|36.0|3.5|American Journal of Human Genetics|Heritability of Cellular Radiosensitivity: A Marker of Low-Penetrance Predisposition Genes in Breast Cancer?
+2000|32.0|6.0|Japanese Journal of Cancer Research|Survivin as a Radioresistance Factor in Pancreatic Cancer
+2001|55.0|4.5|International Journal of Radiation Oncology Biology Physics|EGFR overexpression and radiation response in glioblastoma multiforme
+2002|42.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|Bystander effect produced by radiolabeled tumor cells in vivo.
+2003|156.0|5.0|Annual Review of Immunology|The genetic defect in ataxia-telangiectasia.
+2004|102.0|4.5|DNA Repair|Ataxia-telangiectasia, an evolving phenotype.
+2005|59.0|7.0|International Journal of Radiation Oncology Biology Physics|Predicting age of ovarian failure after radiation to a field that includes the ovaries.
+2006|115.0|8.0|Lung Cancer|Stereotactic hypofractionated radiotherapy for stage I non-small cell lung cancer--mature results for medically inoperable patients.
+2007|154.0|7.0|Photochemical and Photobiological Sciences|Terrestrial ecosystems, increased solar ultraviolet radiation, and interactions with other climate change factors
+2008|176.0|9.0|American Journal of Epidemiology|Immortal Time Bias in Pharmacoepidemiology
+2009|223.0|6.0|Acta Oncologica|The hazard of accelerated tumor clonogen repopulation during radiotherapy
+2010|254.0|9.0|International Journal of Radiation Oncology Biology Physics|Use of normal tissue complication probability models in the clinic.

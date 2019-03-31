@@ -1,0 +1,37 @@
+----  Field Name Organizational learning: 
+----  Field Level 2.0: 
+----  Field Papers Number 3903:
+----  All time max citation paper: Absorptive Capacity: A New Perspective on Learning and Innovation, 1990, (9897.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1974|2.0|2.0|Decision Sciences|MODIFICATIONS IN DECISION STRUCTURE IN ADAPTING TO THE ENVIRONMENT: SOME IMPLICATIONS FOR ORGANIZATIONAL LEARNING*
+1981|1.0|1.0|The Journal of Primary Prevention|Student team learning: Preventing the flocking and feathering of delinquents
+1982|0|0.0|ACM Sigmis Database|Organizational learning and management information systems
+1983|9.0|7.0|Journal of Management Studies|A TYPOLOGY OF ORGANIZATIONAL LEARNING SYSTEMS
+1984|6.0|6.0|American Educational Research Journal|Mastery Learning and Student Teams: A Factorial Experiment in Urban General Mathematics Classes
+1985|1.0|1.0|Human Relations|A Dissipative Structure Model of Organization Transformation
+1986|37.0|1.5|Administrative Science Quarterly|Technological Discontinuities and Organizational Environments.
+1987|8.0|7.0|Management Information Systems Quarterly|An organizational learning approach to information systems development
+1988|0|0.0||The Effect of Cooperative Learning on Test Performance
+1989|4.0|0.0|hawaii international conference on system sciences|Concurrent problem solving and organizational learning
+1990|106.0|5.0|Administrative Science Quarterly|Absorptive Capacity: A New Perspective on Learning and Innovation
+1991|63.0|15.0|Organization Science|Organizational Learning: The Contributing Processes and the Literatures
+1992|34.0|8.0|Organization Science|Technology Diffusion and Organizational Learning: The Case of Business Computing
+1993|53.0|2.5|Strategic Management Journal|The myopia of learning
+1994|132.0|3.0|Organization Science|A Dynamic Theory of Organizational Knowledge Creation
+1995|66.0|4.0|Information Systems Research|Actualizing Organizational Memory with Information Systems
+1996|99.0|2.5|Organization Science|Prospering in Dynamically-Competitive Environments: Organizational Capability as Knowledge Integration
+1997|74.0|3.5|Journal of Economic Literature|Entrepreneurial Discovery and the Competitive Market Process: An Austrian Approach
+1998|258.0|3.0|Academy of Management Review|SOCIAL CAPITAL, INTELLECTUAL CAPITAL, AND THE ORGANIZATIONAL ADVANTAGE
+1999|119.0|3.0|Administrative Science Quarterly|Psychological Safety and Learning Behavior in Work Teams
+2000|64.0|4.0|Administrative Science Quarterly|Aging, Obsolescence, and Organizational Innovation
+2001|64.0|5.0|Strategic Management Journal|Entrepreneurship in the large corporation: a longitudinal study of how established firms create breakthrough inventions
+2002|252.0|4.0|Organization Science|Deliberate Learning and the Evolution of Dynamic Capabilities
+2003|127.0|5.0|Management Science|A Relational View of Information Seeking and Learning in Social Networks
+2004|177.0|7.0|Strategic Management Journal|Exploration and exploitation alliances in biotechnology: a system of new product development
+2005|134.0|4.0|Autonomous Agents and Multi-Agent Systems|Cooperative Multi-Agent Learning: The State of the Art
+2006|119.0|4.0|Academy of Management Journal|BALANCING EXPLORATION AND EXPLOITATION IN ALLIANCE FORMATION
+2007|76.0|4.0|Organization Science|Building Dynamic Capabilities: Innovation Driven by Individual-, Firm-, and Network-Level Effects
+2008|100.0|3.0|Journal of Management Studies|InterOrganizational Knowledge Transfer: Current Themes and Future Prospects
+2009|115.0|5.0|Strategic Management Journal|Exploration, exploitation, and financial performance : analysis of S&P 500 corporations
+2010|586.0|5.0|Journal of Education and Work|Expansive Learning at Work: Toward an activity theoretical reconceptualization

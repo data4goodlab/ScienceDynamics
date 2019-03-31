@@ -1,0 +1,79 @@
+----  Field Name Anatomy: 
+----  Field Level 1.0: 
+----  Field Papers Number 40951:
+----  All time max citation paper: Stable Isotope Labeling by Amino Acids in Cell Culture, SILAC, as a Simple and Accurate Approach to Expression Proteomics, 2002, (2473.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1930|0|0.0|British Journal of Obstetrics and Gynaecology|The Nature and Sources of Infection in Puerperal Sepsis.
+1931|3.0|3.0|Parasitology|Studies on Trypanosoma grayi . III. Life-Cycle in the Tsetse-fly and in the Crocodile
+1932|5.0|5.0|Protoplasma|THE INFLUENCE OF SULFHYDRYL AND SULFOXIDE ON DIFFERENTIAL GROWTH WITHIN THE REGENERATING CHELA OF THE HERMIT CRAB (PAGURUS LONGICARPUS)
+1933|1.0|0.5|JAMA Pediatrics|Tetany in very young infants with special reference to etiology.
+1935|2.0|2.0|Archives of Surgery|EFFECT OF CARBON ARC RADIATION ON HEALING OF BONE
+1937|3.0|3.0|The Lancet|EFFECTS OF PROLONGED STRIN-STIMULATION ON THE CERVIX UTERI
+1939|3.0|3.0|JAMA|Experimental and Clinical Granuloma Inguinale.
+1940|5.0|1.0|Anatomical Record-advances in Integrative Anatomy and Evolutionary Biology|The time and sequence of preovulatory changes in the cat ovary after mating or mechanical stimulation of the cervix uteri
+1941|1.0|1.0|American Heart Journal|The effect of chronic cardiac compression on the size of the heart muscle fibers  
+1942|2.0|2.0|JAMA|The treatment of peptic ulcer without alkalis.
+1945|1.0|1.0|American Journal of Obstetrics and Gynecology|Squamous metaplasia of the cervix uteri
+1948|1.0|1.0|Journal of Cellular and Comparative Physiology|Protoplasmic clotting in isolated muscle fibers
+1949|2.0|2.0|Annals of Applied Biology|OBSERVATIONS ON APPLE CANKER III. THE ANATOMY OF THE STEM CANKER
+1950|6.0|1.0|JAMA|Reversal of aminopterin and amethopterin toxicity by citrovorum factor.
+1951|0|0.0|Anatomical Record-advances in Integrative Anatomy and Evolutionary Biology|The vascular system of the rabbit ovary and its relationship to ovulation
+1952|7.0|3.5|The American Journal of Medicine|American Mucocutaneous Leishmaniasis successfully treated with 2-Hydroxystilbamidine.
+1954|2.0|2.0|JAMA|ACUTE BRONCHOPNEUMONIC HISTOPLASMOSIS FOLLOWING EXPOSURE TO INFECTED GARDEN SOIL
+1955|11.0|4.0|JAMA Internal Medicine|SYSTEMIC MONILIASIS AND ASPERGILLOSIS COMPLICATING CORTICOTROPIN THERAPY
+1956|4.0|1.5|Journal of Cell Biology|The sarcoplasmic reticulum in muscle cells of Amblysloma larvae
+1957|1.0|1.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|Transmission of Plasmodium knowlesi by Anopheles stephensi.
+1958|2.0|1.0|Annals of the New York Academy of Sciences|SOME CHEMICAL AND BIOLOGICAL PROPERTIES OF 19NOR17ETHYNYLTESTOSTERONE
+1959|1.0|1.0|Nature|Monosaccharide Transport in Rat Diaphragm Muscle
+1960|5.0|1.5|Biochimica et Biophysica Acta|Effect of some contracture-producing agents on glycerol-extracted muscle fiber relaxed with relaxing factor
+1961|0|0.0|British Journal of Surgery|Tuberculous epididymitis: a review of 170 patients.
+1962|21.0|5.0|Biochimica et Biophysica Acta|The mechanism of muscle-fiber relaxation adenosine triphosphatase and relaxing activity of the sarcotubular system
+1963|12.0|2.5|Cell and Tissue Research|The fine structure of differentiating muscle in the salamander tail
+1964|10.0|1.0|Experimental Neurology|Quantitative changes in cholinesterase activity of denervated muscle fibers and sole plates
+1965|14.0|2.5|Journal of Cell Biology|A SPECIAL FIBRIL OF THE DERMIS
+1966|16.0|1.5|Progress in Biophysics & Molecular Biology|The organization and function of the sarcoplasmic reticulum and T-system of muscle cells
+1967|20.0|2.5|Experimental Neurology|Neural regulation of enzymes in muscle fibers of red and white muscle
+1968|23.0|2.5|The Journal of General Physiology|The Relationship between Caffeine Contracture of Intact Muscle and the Effect of Caffeine on Reticulum
+1969|38.0|3.0|Journal of Cell Biology|THE ULTRASTRUCTURE OF THE CAT MYOCARDIUM I. Ventricular Papillary Muscle
+1970|41.0|2.0|The Journal of General Physiology|The optics of the compound eye of the honeybee (Apis mellifera).
+1971|28.0|2.0|Journal of Cell Biology|THE SMOOTH MUSCLE CELL: II. Growth of Smooth Muscle in Culture and Formation of Elastic Fibers
+1972|65.0|2.0|Developmental Biology|Synapse formation between dissociated nerve and muscle cells in low density cell cultures
+1973|26.0|2.0|Developmental Biology|The distribution of acetylcholine sensitivity over uninnervated and innervated muscle fibers grown in cell culture
+1974|29.0|2.0|Brain Research|Transmitter sensitivities of some nerve and muscle cells in culture
+1975|42.0|3.0|Journal of Cell Biology|Acetylcholine receptor turnover in membranes of developing muscle fibers
+1976|29.0|2.5|Experimental Neurology|Delayed degeneration of dystrophic and normal muscle cell cultures treated with pepstatin, leupeptin, and antipain
+1977|48.0|2.0|Journal of Molecular Biology|Actin polymerizability is influenced by profilin, a low molecular weight protein in non-muscle cells
+1978|68.0|2.0|Cell|Specificity of desmin to avian and mammalian muscle cells
+1979|39.0|3.0|Geochimica et Cosmochimica Acta|The behaviour of dissolved organic material, iron and manganese in estuarine mixing
+1980|68.0|2.0|Annals of Neurology|Immunocytochemical observations on the distribution of myelinassociated glycoprotein and myelin basic protein in multiple sclerosis lesions
+1981|45.0|3.0|Annals of Neurology|18FDG positron emission computed tomography in a study of aphasia
+1982|81.0|3.0|Journal of Neurochemistry|MyelinAssociated Glycoprotein Is the Antigen for a Monoclonal IgM in Polyneuropathy
+1983|75.0|3.0|Nature|Recognition of myelin-associated glycoprotein by the monoclonal antibody HNK-1
+1984|86.0|3.0|Experimental Neurology|Somatotopic relations between the motor nucleus and its innervated muscle fibers in the cat tibialis anterior
+1985|171.0|3.0|Muscle & Nerve|Invited review: Neural control of phenotypic expression in mammalian muscle fibers
+1986|82.0|3.0|The Lancet|ISOLATION OF HTLV-III/LAV FROM CERVICAL SECRETIONS OF WOMEN AT RISK FOR AIDS
+1987|114.0|2.0|Journal of Morphology|Distribution and innervation of short, interdigitated muscle fibers in parallelfibered muscles of the cat hindlimb
+1988|172.0|4.0|Cell|Duchenne muscular dystrophy: Deficiency of dystrophin at the muscle cell surface
+1989|101.0|3.0|Journal of Morphology|Architecture and consequent physiological properties of the semitendinosus muscle in domestic goats
+1990|53.0|2.0|The Journal of Comparative Neurology|Burst generating and regular spiking layer 5 pyramidal neurons of rat neocortex have different morphological features
+1991|78.0|3.0|Development|Early expression of the myogenic regulatory gene, myf-5, in precursor cells of skeletal muscle in the mouse embryo
+1992|100.0|3.0|British Journal of Pharmacology|Induction and potential biological relevance of a Ca2+independent nitric oxide synthase in the myocardium
+1993|175.0|3.0|Cell|Interaction of myogenic factors and the retinoblastoma protein mediates muscle cell commitment and differentiation
+1994|152.0|3.0|Cell|-tropomyosin and cardiac troponin T mutations cause familial hypertrophic cardiomyopathy: A disease of the sarcomere
+1995|260.0|3.0|Human Brain Mapping|Spatial registration and normalization of images
+1996|187.0|4.0|Cell|Defective Neuromuscular Synaptogenesis in Agrin-Deficient Mutant Mice
+1997|188.0|4.0|Cell|MLP-Deficient Mice Exhibit a Disruption of Cardiac Cytoarchitectural Organization, Dilated Cardiomyopathy, and Heart Failure
+1998|256.0|5.0|Circulation|Inflammation, Pravastatin, and the Risk of Coronary Events After Myocardial Infarction in Patients With Average Cholesterol Levels
+1999|372.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Hematopoietic potential of stem cells isolated from murine skeletal muscle
+2000|361.0|6.0|BMJ|Low grade inflammation and coronary heart disease : prospective study and updated meta-analyses
+2001|242.0|7.0|Nature|Purification of a pluripotent neural stem cell from the adult mouse brain.
+2002|402.0|8.0|Molecular & Cellular Proteomics|Stable Isotope Labeling by Amino Acids in Cell Culture, SILAC, as a Simple and Accurate Approach to Expression Proteomics
+2003|260.0|8.0|The New England Journal of Medicine|Clinical spectrum of obesity and mutations in the melanocortin 4 receptor gene.
+2004|400.0|8.0|Cell|Foxo Transcription Factors Induce the Atrophy-Related Ubiquitin Ligase Atrogin-1 and Cause Skeletal Muscle Atrophy
+2005|228.0|8.0|Nature|A Pax3/Pax7-dependent population of skeletal muscle progenitor cells
+2006|369.0|8.0|The Lancet|Tissue-engineered autologous bladders for patients needing cystoplasty
+2007|347.0|8.0|American Journal of Pathology|The myofibroblast: one function, multiple origins.
+2008|394.0|9.0|PLOS Medicine|Inflammatory and coagulation biomarkers and mortality in patients with HIV infection.
+2009|817.0|8.0|Science|Evidence for Cardiomyocyte Renewal in Humans
+2010|375.0|8.0|Nature|Zebrafish heart regeneration occurs by cardiomyocyte dedifferentiation and proliferation.

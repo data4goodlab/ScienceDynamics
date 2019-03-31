@@ -1,0 +1,28 @@
+----  Field Name Autonomic computing: 
+----  Field Level 2.0: 
+----  Field Papers Number 1117:
+----  All time max citation paper: The vision of autonomic computing, 2003, (1351.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1983|1.0|1.0|ACM Transactions on Information Systems|An experimental distributed modeling system
+1986|1.0|1.0|Journal of Systems and Software|Solving partial differential equations on multiprocessors
+1989|8.0|8.0|ACM Transactions on Database Systems|Updating derived relations: detecting irrelevant and autonomously computable updates
+1992|3.0|2.0||Distributed Big Brother
+1993|3.0|2.0|International Journal of Climatology|An assessment of air quality variations in the southwestern USA using an upper air synoptic climatology
+1994|23.0|2.0||A learning approach to personalized information filtering
+1995|4.0|4.0|international conference on management of data|Carnot and InfoSleuth: database technology and the World Wide Web
+1996|3.0|3.0|IEEE Journal on Selected Areas in Communications|Performance analysis of the Rainbow WDM optical network prototype
+1997|13.0|7.0||Global information management via local autonomous agents
+1998|11.0|6.5||Managing heterogeneous transaction workflows with co-operating agents
+1999|9.0|2.0||A Mind Model for Multimodal Communicative Creatures & Humanoids
+2000|10.0|10.0||AgentSheets : an Interactive Simulation Environment with End-User Programmable Agents
+2001|90.0|10.0|Nature|Programmable and autonomous computing machine made of biomolecules
+2002|34.0|4.5|annual software engineering workshop|Towards autonomic computing: effective event management
+2003|611.0|10.5|IEEE Computer|The vision of autonomic computing
+2004|104.0|8.0|international conference on service oriented computing|Toward autonomic web services trust and selection
+2005|105.0|5.0|international conference on software engineering|Research challenges of autonomic computing
+2006|122.0|3.0|international conference on software engineering|Model-based development of dynamically adaptive software
+2007|99.0|3.0|International Journal of Cognitive Informatics and Natural Intelligence|The Theoretical Framework of Cognitive Informatics
+2008|187.0|2.0|ACM Computing Surveys|A survey of autonomic computingdegrees, models, and applications
+2009|50.0|2.0|International Journal of Hydrogen Energy|Optimization of hydrogen stations in Florida using the Flow-Refueling Location Model
+2010|50.0|2.0|IEEE Computer|Fulfilling the Vision of Autonomic Computing

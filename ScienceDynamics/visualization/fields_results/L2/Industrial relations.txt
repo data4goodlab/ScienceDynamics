@@ -1,0 +1,44 @@
+----  Field Name Industrial relations: 
+----  Field Level 2.0: 
+----  Field Papers Number 2264:
+----  All time max citation paper: The measurement of organizational commitment, 1979, (2651.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1957|0|0.0|Annals of The American Academy of Political and Social Science|Nationalization in Britain: A Sobering Decade
+1964|0|0.0|Journal of Industrial Relations|Psychology and Sociology in the Teaching of Industrial Relations
+1972|4.0|4.0|Organizational Behavior and Human Performance|Organizational Commitment and Managerial Turnover: A Longitudinal Study
+1973|1.0|1.0|Journal of Vocational Behavior|Workers' Central Life Interests and Personality Characteristics.
+1975|13.0|6.5|Journal of Applied Psychology|Effects of Job Enrichment and Task Goals on Satisfaction and Productivity: Implications for Job Design.
+1977|3.0|3.0|Journal of Vocational Behavior|Employee Characteristics as Predictors of Turnover Among Female Clerical Employees in Two Organizations.
+1979|26.0|14.0|Journal of Vocational Behavior|The measurement of organizational commitment
+1980|4.0|1.0|British Journal of Industrial Relations|INDUSTRIAL RELATIONS THEORY AND THE COMPARATIVE STUDY OF INDUSTRIAL RELATIONS AND INDUSTRIAL CONFLICT
+1981|0|0.0|Organizational Behavior and Human Performance|Comments on Neider: The issue of interpretation of experiments
+1982|23.0|1.0|Journal of Economic Theory|Predation, Reputation, and Entry Deterrence
+1983|1.0|1.0|Industrial Relations Journal|Industrial relations policy and managerial custom and practice
+1984|4.0|2.0|Journal of Economic Behavior and Organization|A survey of agency models of organizations
+1985|0|0.0|Industrial Relations Journal|Power in industrial relations research
+1986|13.0|1.0|international conference on robotics and automation|Object level programming of industrial robots
+1987|4.0|1.0|Economic Record|An Empirical Analysis of Australian Strike Activity: Estimating the Industrial Relations Effect of the First Three Years of the Prices and Incomes Accord
+1988|3.0|1.0|Social Science & Medicine|Occupational health and safety in South Africa: The perspectives of capital, state and unions
+1989|10.0|2.5|international conference on data engineering|Query execution for large relations on functional disk system
+1990|19.0|3.0|Journal of Applied Econometrics|Unions and the Financial Performance of British Private Sector Establishments
+1991|23.0|2.0|Journal of Management|Personnel/Human Resources Management: A Political Influence Perspective
+1992|17.0|2.0|Industrial and Labor Relations Review|The link between business strategy and industrial relations systems in American steel minimills.
+1993|24.0|1.0|Industrial and Labor Relations Review|The decentralization of collective bargaining: A literature review and comparative analysis
+1994|17.0|1.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Statistical bias of conic fitting and renormalization
+1995|47.0|1.5|Cambridge Journal of Economics|The 'National System of Innovation' in Historical Perspective
+1996|36.0|1.0|Proceedings of the IEEE|Engineering applications of the self-organizing map
+1997|20.0|2.0|Intensive Care Medicine|UK guidelines for the use of inhaled nitric oxide therapy in adult ICUs
+1998|29.0|1.0|international conference on data engineering|Flattening an object algebra to provide performance
+1999|22.0|2.0|international conference on software engineering|Product-line architectures in industry: a case study
+2000|17.0|2.0|IEEE Transactions on Electronics Packaging Manufacturing|Decomposition in data mining: an industrial case study
+2001|77.0|2.0|IEEE Transactions on Engineering Management|Applying the design structure matrix to system decomposition and integration problems: a review and new directions
+2002|34.0|2.0|Research Policy|Knowledge interactions between universities and industry in Austria: sectoral patterns and determinants
+2003|106.0|2.0|Academy of Management Review|The Cross-National Diversity of Corporate Governance: Dimensions and Determinants
+2004|128.0|2.0|Quarterly Journal of Economics|The Regulation of Labor
+2005|68.0|2.0|Research Policy|Industry funding and university professors research performance
+2006|58.0|3.0|Research Policy|Publication and patent behavior of academic researchers: Conflicting, reinforcing or merely co-existing?
+2007|65.0|2.5|Journal of Applied Psychology|On the Nature and Importance of Cultural Tightness-Looseness
+2008|72.0|2.0|Enzyme and Microbial Technology|Laccase applications in the forest products industry: A review
+2009|71.0|2.0|IEEE Transactions on Systems, Man, and Cybernetics|Experience-Based Approach to Scheduling Problems With the Learning Effect
+2010|139.0|3.0|BMC Genomics|Transcriptomic and metabolomic shifts in rice roots in response to Cr (VI) stress

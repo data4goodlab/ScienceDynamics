@@ -1,0 +1,72 @@
+----  Field Name Archaeology: 
+----  Field Level 1.0: 
+----  Field Papers Number 57923:
+----  All time max citation paper: Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources., 2009, (6860.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|0|0.0|Biometrika|THE HUMAN REMAINS OF THE IRON AGE AND OTHER PERIODS FROM MAIDEN CASTLE, DORSET
+1941|3.0|3.0|JAMA Pediatrics|DEVELOPMENTAL PATTERN OF THE CHILD AS REFLECTED IN THE CALCIFICATION PATTERN OF THE TEETH
+1942|0|0.0|Archives of Surgery|Practical Method of Predicting the Growth of the Femur and Tibia in the Child
+1944|0|0.0|American Journal of Orthodontics and Oral Surgery|Dental abnormalities as found in the American Indian
+1945|0|0.0|American Antiquity|Periods of Prehistoric Art in the Aleutian Islands
+1949|0|0.0|American Antiquity|Excavation of Tommy Tucker Cave, Lassen County, California
+1950|5.0|1.5|Journal of Chemical Physics|On the Isotopic Chemistry of Carbonates and a Paleotemperature Scale
+1951|3.0|2.0|Plant Physiology|DYE REDUCTION BY ILLUMINATED CHLOROPLAST FRAGMENTS
+1952|2.0|0.0|Journal of Chemical Physics|THE DISSOCIATION OF ETHYL BROMIDE AND IODIDE BY NEUTRON CAPTURE
+1953|3.0|1.5|Journal of Chemical Physics|The Existence of Multiply Charged Molecular Ions of HBr, HCl, and DCl
+1954|1.0|0.5|Arctic|Archaeological Research in the North American Arctic
+1955|3.0|1.0|Radiation Research|THE DIRECT ACTION OF FAST CHARGED PARTICLES ON HYALURONIC ACID, HYALURONIDASE, AND A COMBINATION OF THE ENZYME AND SUBSTRATE
+1957|9.0|3.0|Journal of Chemical Physics|Metastable Transitions and CollisionInduced Dissociations in Mass Spectra
+1958|26.0|0.0|Physics of Fluids|Properties of Gases at Very High Temperatures
+1959|27.0|1.0|Physics of Fluids|Interferometric Measurement in the Shock Tube of the Dissociation Rate of Oxygen
+1960|19.0|3.0|Journal of Chemical Physics|RADIOLYSIS OF CYCLOHEXANE. I. PURE LIQUID CYCLOHEXANE AND CYCLOHEXANE- BENZENE SOLUTIONS
+1961|6.0|1.5|Journal of Chemical Physics|VAPOR PRESSURE OF SILICON AND THE DISSOCIATION PRESSURE OF SILICON CARBIDE
+1962|18.0|2.5|Journal of Chemical Physics|ESR SPECTRUM AND STRUCTURE OF THE FORMYL RADICAL
+1963|19.0|1.0|Photochemistry and Photobiology|MECHANISM OF ENZYME INACTIVATION BY ULTRAVIOLET LIGHT AND THE PHOTOCHEMISTRY OF AMINO ACIDS (AT 2537 )*
+1964|11.0|0.0|American Journal of Orthodontics|A study of the postnatal growth of the human mandible
+1965|30.0|1.0|Journal of Geophysical Research|An evaluation of the main geomagnetic field, 19401962
+1966|12.0|2.0|JAMA|Prevalence of osteoporosis in high- and low-fluoride areas in North Dakota.
+1967|71.0|1.0|Advances in Insect Physiology|Lipid Metabolism and Function in Insects
+1968|32.0|1.0|Science|Sea Levels during the Past 35,000 Years
+1969|6.0|1.0|Journal of Geophysical Research|Elastic constants versus porosity for a highly porous ceramic, perlite
+1970|16.0|1.0|IEEE Transactions on Computers|A Generalized Technique for Spectral Analysis
+1971|20.0|2.0|Archaeometry|THERMOLUMINESCENT DATING USING FINE GRAINS FROM POTTERY*
+1972|88.0|2.0|Communications of The ACM|On the criteria to be used in decomposing systems into modules
+1973|18.0|2.0|Kidney International|Skeletal abnormalities in chronic renal insufficiency before and during maintenance hemodialysis
+1974|9.0|2.0|Nature|Seismic slip rates in the Mediterranean and Middle East
+1975|18.0|1.0|Journal of Human Evolution|Multivariate analysis in biological anthropology: Some considerations
+1976|30.0|1.5|IEEE Transactions on Software Engineering|Abstraction and Verification in Alphard: Introduction to Language and Methodology
+1977|113.0|3.0|ACM Transactions on Database Systems|Multivalued dependencies and a new normal form for relational databases
+1978|26.0|2.0|Quaternary Research|Global changes in postglacial sea level: A numerical calculation
+1979|43.0|2.0|Journal of Chemical Physics|Simple bond rupture reactions in multiphoton dissociation of molecules
+1980|21.0|2.0|Oikos|Spatial distribution of fine-root growth, mortality and decomposition in a young Scots pine stand in Central Sweden.
+1981|38.0|2.0|Journal of Geophysical Research|Tectonic setting for ophiolite obduction in Oman
+1982|26.0|2.0|ACM Transactions on Database Systems|A unifying model of physical databases
+1983|29.0|2.0|Quaternary Science Reviews|Dynamic Plant Ecology: the Spectrum of Vegetational Change in Space and Time
+1984|46.0|2.0|Automatica|Singular perturbations and time-scale methods in control theory: Survey 1976-1983
+1985|41.0|2.0|Nature|A 150,000-year climatic record from Antarctic ice
+1986|37.0|2.0|Journal of Neuroscience Methods|Bivariate linear models in neurobiology: problems of concept and methodology
+1987|34.0|2.0|Life Sciences|6-Hydroxydopamine-induced degeneration of nigral dopamine neurons: Differential effect on nigral and striatal D-1 dopamine receptors
+1988|52.0|3.0|Geophysical Journal International|The relationship between plate motions and seismic moment tensors, and the rates of active deformation in the Mediterranean and Middle East
+1989|39.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Polymorphic-torus architecture for computer vision
+1990|68.0|2.0|acm sigplan symposium on principles and practice of parallel programming|Supporting shared data structures on distributed memory architectures
+1991|82.0|2.0|Geophysical Journal International|Active tectonics of the north and central Aegean Sea
+1992|61.0|2.0|Paleoceanography|Barium in DeepSea Sediment: A Geochemical Proxy for Paleoproductivity
+1993|52.0|2.0|Journal of the American Ceramic Society|Ceramic Powder Synthesis by Spray Pyrolysis
+1994|63.0|2.0|Paleoceanography|Changes in East Atlantic Deepwater Circulation over the last 30,000 years: Eight time slice reconstructions
+1995|165.0|2.0|Archives of General Psychiatry|Posttraumatic Stress Disorder in the National Comorbidity Survey
+1996|81.0|2.0|Brain Research Reviews|Circuitry and functional aspects of the insular lobe in primates including humans
+1997|118.0|3.0|Applied and Environmental Microbiology|Inhibition and facilitation of nucleic acid amplification.
+1998|106.0|3.0|Nature|Simulation of modern and glacial climates with a coupled global model of intermediate complexity
+1999|117.0|4.0|Nature|Chronology, causes and progression of the Messinian salinity crisis
+2000|276.0|5.0|international conference on computer graphics and interactive techniques|The digital Michelangelo project: 3D scanning of large statues
+2001|163.0|5.0|international symposium on computer architecture|Cache decay: exploiting generational behavior to reduce cache leakage power
+2002|346.0|6.0|IEEE Transactions on Neural Networks|A comparison of methods for multiclass support vector machines
+2003|314.0|6.0|ad hoc networks|Secure routing in wireless sensor networks: attacks and countermeasures
+2004|183.0|6.0|NeuroImage|The neural correlates of maternal and romantic love
+2005|806.0|6.0||A preliminary study
+2006|335.0|7.0|Nature Protocols|In-gel digestion for mass spectrometric characterization of proteins and proteomes
+2007|1029.0|7.0|Nature Protocols|Locating proteins in the cell using TargetP, SignalP and related tools.
+2008|2058.0|7.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|7.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|1420.0|6.0|Nature Protocols|I-TASSER: a unified platform for automated protein structure and function prediction

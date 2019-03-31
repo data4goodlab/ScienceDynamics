@@ -1,0 +1,47 @@
+----  Field Name Impression management: 
+----  Field Level 2.0: 
+----  Field Papers Number 3194:
+----  All time max citation paper: Telling more than we can know: Verbal reports on mental processes, 1977, (3761.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1969|6.0|1.0|Journal of Personality and Social Psychology|Attribution of Responsibility and Valence of Success and Failure in Relation to Initial Confidence and Task Performance.
+1970|2.0|0.0|Journal of Educational Measurement|THE RELATION OF VOCATIONAL INTERESTS TO LIFE GOALS, SELFRATINGS OF ABILITY AND PERSONALITY TRAITS, AND POTENTIAL FOR ACHIEVEMENT
+1971|2.0|1.5|Psychological Reports|Social Desirability as a Variable in the Locus of Control Scale.
+1972|3.0|1.0|American Journal of Sociology|Social Position and Self-Evaluation: The Relative Importance of Race.
+1973|20.0|1.0|Journal of Experimental Social Psychology|Objective Self Awareness and Self Esteem.
+1974|4.0|4.0|Journal of Experimental Social Psychology|Ability evaluation through social comparison
+1975|23.0|2.0|Journal of Consulting and Clinical Psychology|Public and private self-consciousness: Assessment and theory
+1976|6.0|3.0|Journal of Research in Personality|Selective Exposure to Self.
+1977|208.0|1.5|Psychological Review|Telling more than we can know: Verbal reports on mental processes
+1978|18.0|2.0|Journal of Research in Personality|Self-Consciousness, Self-Report of Aggressiveness, and Aggression.
+1979|7.0|2.0|American Educational Research Journal|Class Size, Students' Evaluations, and Instructional Effectiveness.
+1980|4.0|4.0|Journal of Personality and Social Psychology|Two Indirect Tactics of Image Management: Basking and Blasting.
+1981|13.0|3.0|Acta Psychologica|ARE WE ALL LESS RISKY AND MORE SKILLFUL THAN OUR FELLOW DRIVERS?
+1983|4.0|2.5|Archives of Sexual Behavior|Development and use of self-report techniques for assessing sexual functioning: a review and critique
+1984|2.0|2.0|Journal of Experimental Social Psychology|Belief discrepant behavior and the bogus pipeline: Impression management or arousal attribution
+1985|13.0|0.0|Journal of Personality|Gender differences in emotional development: A review of theories and research
+1986|10.0|0.0|Journal of Consulting and Clinical Psychology|Effects of Response Styles on the Report of Psychological and Somatic Distress.
+1987|12.0|12.0|Archives of Sexual Behavior|Personality characteristics of sex offenders: a review
+1988|11.0|0.5|Journal of Management|Impression Management in Organizations
+1989|5.0|2.0|Accident Analysis & Prevention|CROSS-CULTURAL DIFFERENCES IN DRIVER SELF-ASSESSMENT
+1990|16.0|2.0|Psychological Bulletin|Impression management: A literature review and two-component model.
+1991|26.0|6.0|Organizational Behavior and Human Decision Processes|Social cognitive theory of self-regulation
+1992|6.0|2.0|Discourse & Society|Discourse and the Denial of Racism
+1993|24.0|2.5|Journal of Clinical Epidemiology|The Physical Activity Scale for the Elderly (PASE): development and evaluation.
+1994|27.0|2.5|Administrative Science Quarterly|Organizational Images and Member Identification
+1995|34.0|4.0|Journal of Personality and Social Psychology|Self-esteem as an interpersonal monitor: the sociometer hypothesis
+1996|25.0|2.0|Journal of Applied Psychology|Effects of impression management and self-deception on the predictive validity of personality constructs.
+1997|59.0|6.0|Journal of Clinical Epidemiology|A comparison of different indices of responsiveness
+1998|55.0|5.0|Journal of Personality and Social Psychology|Immune neglect : A source of durability bias in affective forecasting
+1999|68.0|5.0|Journal of Personality and Social Psychology|Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments
+2000|69.0|6.0|Personality and Social Psychology Review|Plan 9 From Cyberspace: The Implications of the Internet for Personality and Social Psychology
+2001|52.0|6.0|Nicotine & Tobacco Research|Evaluation of the brief questionnaire of smoking urges (QSU-brief) in laboratory and clinical settings
+2002|61.0|8.0|Behaviour Research and Therapy|Clinical perfectionism: a cognitivebehavioural analysis
+2003|102.0|8.0|Proceedings of the National Academy of Sciences of the United States of America|Neural correlates of interindividual differences in the subjective experience of pain
+2004|99.0|10.5|Psychological Medicine|The Inventory of Depressive Symptomatology, Clinician Rating (IDS-C) and Self-Report (IDS-SR), and the Quick Inventory of Depressive Symptomatology, Clinician Rating (QIDS-C) and Self-Report (QIDS-SR) in public sector patients with mood disorders: a psychometric evaluation
+2005|100.0|7.0|Journal of Personality and Social Psychology|Self-regulation and self-presentation: regulatory resource depletion impairs impression management and effortful self-presentation depletes regulatory resources.
+2006|156.0|9.0|NeuroImage|Building a motor simulation de novo: Observation of dance by dancers
+2007|76.0|7.0|Health and Quality of Life Outcomes|How young can children reliably and validly self-report their health-related quality of life?: An analysis of 8,591 children across age subgroups with the PedsQL 4.0 Generic Core Scales
+2008|189.0|8.0|Computers in Human Behavior|Identity construction on Facebook: Digital empowerment in anchored relationships
+2009|346.0|6.0|Journal of Personality and Social Psychology|Understanding and Using the Implicit Association Test: III. Meta-Analysis of Predictive Validity
+2010|217.0|6.0|Journal of Personality Assessment|Development and Preliminary Validation of a Self-Report Measure of Psychopathic Personality Traits in Noncriminal Population

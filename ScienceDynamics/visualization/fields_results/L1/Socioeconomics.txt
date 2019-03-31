@@ -1,0 +1,35 @@
+----  Field Name Socioeconomics: 
+----  Field Level 1.0: 
+----  Field Papers Number 3254:
+----  All time max citation paper: Systematic conservation planning., 2000, (2139.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|1.0|1.0|Archives of Dermatology|Syphilis and biologic false positive reactors among leprosy patients.
+1978|1.0|1.0|Acta Paediatrica|Observations on intrauterine growth in urban Ethiopia.
+1980|6.0|5.0|Developmental Medicine & Child Neurology|An Epidemiological Study of Cerebral Palsy in Western Australia, 19561975. II: Spastic Cerebral Palsy and Perinatal Factors
+1981|1.0|0.0|Scandinavian Journal of Haematology|Serum Ferritin in Ethiopian Mothers and their Newborn Infants. Relation to Iron Intake and SocioEconomic Conditions
+1983|0|0.0|Economic Botany|Comparative processing practices of the worlds major oilseed crops
+1984|1.0|1.0||Opportunities in Farm Management: Discussion/Challenge
+1985|0|0.0|Review of Policy Research|Water Pollution Control In Democratic Societies: A CrossNational Analysis Of Sources Of Public Beliefs In In Japan And The United States
+1989|0|0.0|Habitat International|Hausa compounds: Products of cultural, economic, social and political systems
+1990|6.0|1.0|Milbank Quarterly|The Social Impact of AIDS in Sub-Saharan Africa
+1991|5.0|5.0|Human Ecology|Indigenous Kikuyu agroforestry: a case study of Kirinyaga, Kenya.
+1992|7.0|6.0|American Journal of Kidney Diseases|Patients With a Low Income Have Reduced Renal Allograft Survival
+1993|12.0|0.0|World Development|Land reform as commenced business: The evidence against stopping
+1994|33.0|1.0|Journal of Economic Literature|The Production and Consumption of the Arts: A View of Cultural Economics
+1995|33.0|2.5|Journal of Internal Medicine|Heart failure: a growing public health problem
+1996|10.0|1.0|American Journal of Kidney Diseases|Benefits of continued cyclosporine through an indigent drug program
+1997|24.0|4.0|Transportation|A MICRO-ANALYSIS OF LAND USE AND TRAVEL IN FIVE NEIGHBORHOODS IN THE SAN FRANCISCO BAY AREA.
+1998|13.0|2.0|Social Science & Medicine|Educational differences in leisure-time physical inactivity: a descriptive and explanatory study
+1999|27.0|3.0|Pediatric Pulmonology|Race, socioeconomic factors, and area of residence are associated with asthma prevalence
+2000|275.0|4.0|Nature|Systematic conservation planning.
+2001|75.0|3.5|Journal of Environmental Management|Ecological impacts of arable intensification in Europe
+2002|33.0|2.0||Multi-agent systems and role games: collective learning processes for ecosystem management.
+2003|131.0|5.0|Annual Review of Ecology, Evolution, and Systematics|Urban Ecological Systems: Linking Terrestrial Ecological, Physical, and Socioeconomic Components of Metropolitan Areas1
+2004|55.0|6.0|Diabetes Care|A Danish Diabetes Risk Score for Targeted Screening The Inter99 study
+2005|97.0|5.0|Social Science & Medicine|Neighbourhood inequalities in physical inactivity: the role of neighbourhood attractiveness, proximity to local facilities and safety in the Netherlands
+2006|70.0|5.0|Econometrica|Culture and Institutions: Economic Development in the Regions of Europe
+2007|111.0|7.0|American Journal of Preventive Medicine|Neighborhood walkability and the walking behavior of Australian adults.
+2008|148.0|5.0|Energy and Environmental Science|Biofuels: a technological perspective
+2009|195.0|12.0|BMC Pregnancy and Childbirth|Still too far to walk: Literature review of the determinants of delivery service use
+2010|156.0|8.0|BMC Public Health|Determinants of health disparities between Italian regions

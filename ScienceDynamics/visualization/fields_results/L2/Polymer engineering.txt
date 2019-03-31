@@ -1,0 +1,60 @@
+----  Field Name Polymer engineering: 
+----  Field Level 2.0: 
+----  Field Papers Number 21319:
+----  All time max citation paper: A review of the source, behaviour and distribution of arsenic in natural waters, 2002, (2461.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1955|8.0|8.0|Journal of Applied Physics|Electron Microscopy of Monodisperse Latexes
+1956|5.0|5.0|Journal of Applied Physics|Effect of Electron Irradiation on Young's Modulus
+1959|1.0|1.0|Acta Metallurgica|Electrical resistivity recovery in cold-worked and electron-irradiated nickel
+1960|5.0|1.0|Journal of Cell Biology|Epoxy Resins in Electron Microscopy
+1961|1.0|0.5|Journal of Applied Physics|Dielectric Loss in Poly(Hexamethylene Adipamide) and Poly(Hexamethylene Sebacamide) at Low Temperatures
+1962|4.0|2.5|Journal of Applied Physics|Dislocation Pinning in Copper at 4.2K and in Stage I
+1963|18.0|2.0|Physics of Fluids|Rate of Ionization Behind Shock Waves in Air. II. Theoretical Interpretations
+1964|11.0|2.0|Journal of the American Ceramic Society|Creep, Strength, Expansion, and Elastic Moduli of Sintered BeO As a Function of Grain Size, Porosity, and Grain Orientation
+1965|9.0|0.5|Journal of Applied Physics|EFFECT OF IMPURITIES ON THE HARDENING AND COLORATION OF KCl IRRADIATED AT ROOM TEMPERATURE
+1966|1.0|0.0|Journal of the American Oil Chemists' Society|The reaction of picric acid with epoxides I. A colorimetric method
+1967|2.0|1.0|Philosophical Magazine|Anisotropy of defect production in electron irradiated iron
+1968|0|0.0|Nature|Self-trapping of Radiation Produced Electrons
+1969|5.0|1.0|Polymer Journal|A Constitutive Model for Molecular Weight and Concentration Effects in Polymer Blends
+1970|15.0|1.0|American Journal of Orthodontics|The direct bonding of orthodontic attachments to teeth by means of an epoxy resin adhesive
+1971|18.0|1.0|Journal of Geophysical Research|Measurements of highly collimated shortduration bursts of auroral electrons and comparison with existing auroral models
+1972|7.0|1.0|Polymer Journal|Crystal Structures of Three Crystalline Forms of Poly(vinylidene fluoride)
+1973|11.0|1.0|Polymer Journal|Melting and Crystallization Process of Polyethylene under High Pressure
+1974|36.0|1.0|Journal of Applied Physics|Electronirradiation effect in the Auger analysis of SiO2
+1975|9.0|1.0|Polymer Journal|X-ray scattering of synthetic poly(.ALPHA.-amino acid)s in the solid state. I. Transition Qf poly(.GAMMA.-b F040enzyl L-glutamate) and poly(.GAMMA.-methyl L-glutamate).
+1976|16.0|1.0|Journal of Applied Physics|Recombinationenhanced annealing of the E1 and E2 defect levels in 1MeVelectronirradiated nGaAs
+1977|19.0|1.0|Polymer|Stability of crack propagation in epoxy resins
+1978|18.0|1.0|Polymer|Relationship between mechanical properties of and crack progogation in epoxy resin adhesives
+1979|17.0|1.0|Polymer Journal|The Viscometric and Light-Scattering Determination of Dilute Solution Properties of Cellulose Diacetate
+1980|15.0|1.0|Journal of Applied Physics|An annealing study of electron irradiationinduced defects in GaAs
+1981|21.0|2.0|Solid State Communications|The observation of high concentrations of arsenic anti-site defects in electron irradiated n-type GaAs by X-band EPR
+1982|14.0|2.0|Polymer Journal|Liquid Crystal Polymers. V. Thermotropic Polyesters with Either Dyad or Triad Aromatic Ester Mesogenic Units and Flexible Polymethylene Spacers in the Main Chain
+1983|38.0|2.0|Polymer|Deformation and fracture behaviour of a rubber-toughened epoxy: 1. Microstructure and fracture studies
+1984|28.0|1.5|Polymer Journal|Double-stranded helix of xanthan in dilute solution: Further evidence.
+1985|24.0|2.0|Polymer Journal|Molecular theory of rubber elasticity.
+1986|25.0|2.0|IEEE Computer|An Introduction to GaAs Microprocessor Architecture for VLSI
+1987|24.0|2.0|Polymer Journal|Electrochemically prepared polypyrroles from aqueous solutions.
+1988|23.0|1.0|Journal of Applied Physics|Mechanism for radiation resistance of InP solar cells
+1989|23.0|2.0|Polymer|Structure development in epoxy resin modified with poly(ether sulphone)
+1990|23.0|2.0|Polymer Journal|Preparation of Phospholipid Polylners and Their Properties as Polymer Hydrogel Membranes
+1991|35.0|2.0|Journal of Materials Research|Growth of diamond particles in chemical vapor deposition
+1992|35.0|2.0|IEEE Transactions on Software Engineering|Structural testing of concurrent programs
+1993|18.0|2.0|Polymer Journal|Isotactic and Syndiotactic Pentacontamers (50mers) of Methyl Methacrylate Obtained by Fractionation with Preparative SFC: The GPC Analysis of the 50mers and Their Stereocomplex.
+1994|28.0|1.0|Composites Science and Technology|Improving the delamination resistance of CFRP by stitchinga review
+1995|41.0|2.0|Journal of Biomechanics|Cell shape, cytoskeletal mechanics, and cell cycle control in angiogenesis
+1996|36.0|2.0|Carbon|Mechanism of lithium insertion in hard carbons prepared by pyrolysis of epoxy resins
+1997|102.0|2.0|Applied Physics Letters|Field emission from nanotube bundle emitters at low fields
+1998|31.0|3.0|Applied Physics Letters|Octahedral boron nitride fullerenes formed by electron beam irradiation
+1999|89.0|2.0|Polymer|Development of a dispersion process for carbon nanotubes in an epoxy matrix and the resulting electrical properties
+2000|90.0|3.0|Progress in Polymer Science|Synthesis, structure and properties of polyhydroxyalkanoates: biological polyesters
+2001|129.0|3.0|Polymer|Synthesis of epoxyclay nanocomposites: influence of the nature of the clay on structure
+2002|418.0|4.0|Applied Geochemistry|A review of the source, behaviour and distribution of arsenic in natural waters
+2003|107.0|4.0|Current Biology|Bisphenol A Exposure Causes Meiotic Aneuploidy in the Female Mouse
+2004|125.0|4.0|Composites Science and Technology|Carbon nanotube-reinforced epoxy-composites: enhanced stiffness and fracture toughness at low nanotube content
+2005|193.0|5.0|Journal of Applied Physics|Electrostriction of lead zirconate titanate/polyurethane composites
+2006|195.0|4.0|Polymer|Evaluation and identification of electrical and thermal conduction mechanisms in carbon nanotube/epoxy composites
+2007|217.0|5.0|Reproductive Toxicology|Human exposure to bisphenol A (BPA).
+2008|365.0|5.0|Nature|Millennial- and orbital-scale changes in the East Asian monsoon over the past 224,000|[thinsp]|years
+2009|187.0|5.0|Science of The Total Environment|Health risk from heavy metals via consumption of food crops in the vicinity of Dabaoshan mine, South China.
+2010|282.0|5.0|Journal of Climate|Trends in Total Precipitation and Frequency of Daily Precipitation Extremes over China

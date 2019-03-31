@@ -1,0 +1,41 @@
+----  Field Name Historiography: 
+----  Field Level 2.0: 
+----  Field Papers Number 5396:
+----  All time max citation paper: Resilience: The emergence of a perspective for socialecological systems analyses, 2006, (1030.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1975|0|0.0|Comparative Studies in Society and History|Colonialism and the Two Publics in Africa: A Theoretical Statement
+1976|0|0.0|Computers and The Humanities|Quantitative Studies and the American Revolution.
+1977|5.0|4.0|Geographie Physique Et Quaternaire|Glacial style and ice limits, the Quaternary stratigraphic record, and changes of land and ocean level in the Atlantic Provinces, Canada
+1978|7.0|4.0|Review of Educational Research|In Defense of Advance Organizers: A Reply to the Critics.
+1979|0|0.0|International Review of Education|Towards an Assessment of Educational Theory: An Historical Perspective.
+1981|0|0.0|Omega-international Journal of Management Science|The bureaucratic side of computers: Memory, evocation and management information
+1982|2.0|1.5|Journal of Personality and Social Psychology|Why never forgetting a face matters: Visual imagery and social memory.
+1983|6.0|0.0|The Journal of Neuroscience|Ascending projections to the medial geniculate body of the cat: evidence for multiple, parallel auditory pathways through thalamus
+1984|1.0|0.5|Science & Justice|The Legal Impact of Psychological Research on Eyewitness Testimony: British and American Experiences
+1985|0|0.0||An Art Education Chronology: A Process of Selection and Interpretation.
+1986|4.0|2.5|American Journal of Sociology|The Matter of Habit.
+1987|25.0|2.0|Psychopharmacology|Modulation of social memory in male rats by neurohypophyseal peptides
+1988|37.0|0.5|Brain Research|Septal vasopressin modulates social memory in male rats
+1989|14.0|9.0|Water Research|Evidence for cooxidation of polynuclear aromatic hydrocarbons in soil
+1990|20.0|0.5|IEEE Transactions on Pattern Analysis and Machine Intelligence|The combination of evidence in the transferable belief model
+1991|11.0|3.0|Brain Research Bulletin|Role of the nucleus accumbens in social memory in rats
+1992|16.0|2.0|international conference on data engineering|Imprecise and uncertain information in databases: an evidential approach
+1993|10.0|0.5|Economics Letters|Common stochastic trends in European stock markets
+1994|26.0|2.5|Neural Networks|Combining the results of several neural network classifiers
+1995|21.0|2.0|Psychology, Public Policy and Law|"MEMORY WORK" AND RECOVERED MEMORIES OF CHILDHOOD SEXUAL ABUSE: Scientific Evidence and Public, Professional, and Personal Issues
+1996|90.0|3.0|World Bank Economic Review|A New Data Set Measuring Income Inequality
+1997|30.0|5.0|Reading Research Quarterly|Phonemic Segmentation, Not OnsetRime Segmentation, Predicts Early Reading and Spelling Skills
+1998|51.0|4.0|conference on computer supported cooperative work|Considering an organization's memory
+1999|79.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Type 2 diabetes: Evidence for linkage on chromosome 20 in 716 Finnish affected sib pairs
+2000|70.0|4.0|Journal of Advanced Nursing|Barriers to using research evidence in nursing practice
+2001|86.0|4.0|The Journal of Neuroscience|Oxytocin in the Medial Amygdala is Essential for Social Recognition in the Mouse
+2002|69.0|4.0|Journal of Theoretical Biology|Collective memory and spatial sorting in animal groups
+2003|70.0|5.0|Annual Review of Sociology|Social Memory Studies: From Collective Memory to the Historical Sociology of Mnemonic Practices
+2004|136.0|5.0|Journal of Child Psychology and Psychiatry|Validity of adult retrospective reports of adverse childhood experiences: review of the evidence.
+2005|103.0|5.0|Obesity Reviews|Obesity prevention: a proposed framework for translating evidence into action
+2006|294.0|7.0|Global Environmental Change-human and Policy Dimensions|Resilience: The emergence of a perspective for socialecological systems analyses
+2007|281.0|4.0|Neuropsychologia|Left ventrolateral prefrontal cortex and the cognitive control of memory.
+2008|412.0|4.0|British Journal of Educational Technology|The 'digital natives' debate: a critical review of the evidence
+2009|351.0|5.0||Evaluation of Evidence-Based Practices in Online Learning: A Meta-Analysis and Review of Online Learning Studies.
+2010|379.0|4.0|Geophysical Research Letters|Evidence of solar and tropical-ocean forcing of hydroclimate cycles in southeastern Australia for the past 6500 years

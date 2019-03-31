@@ -1,0 +1,45 @@
+----  Field Name Reproductive biology: 
+----  Field Level 2.0: 
+----  Field Papers Number 4664:
+----  All time max citation paper: Angiogenesis in cancer, vascular, rheumatoid and other disease., 1995, (4278.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1969|7.0|7.0|Botanical Journal of the Linnean Society|Reproductive biology of the Pteridophyta. II. Theoretical considerations
+1970|3.0|1.5|Marine Biology|Egg development in a littoral pycnogonid Nymphon gracile
+1972|2.0|1.0|Marine Biology|Reproduction and development in the pycnogonid Pycnogonum littorale
+1975|2.0|2.0|Journal of the Marine Biological Association of the United Kingdom|Reproductive biology of Eulalia viridis (Mller) (Polychaeta: Phyllodocidae) in the north eastern U.K.
+1976|8.0|8.0|Nature|Significance of two frequency bands in long distance vocal communication in the green treefrog
+1977|3.0|1.0|Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)|Chromosomal Changes in Vertebrate Evolution
+1978|6.0|1.0|Journal of the Marine Biological Association of the United Kingdom|Distribution and reproductive biology Of Corophium insidiosum (Amphipoda) on the north-east coast of England
+1979|9.0|3.5|Aquaculture|Controlled propagation of the African catfish, Clarias lazera (C. & V.): I. Reproductive biology and field experiments
+1980|5.0|5.0|Botanical Journal of the Linnean Society|Reproductive biology and population dynamics of wild gametophytes of Equisetum
+1981|5.0|2.0|Theoretical Population Biology|Continuous-genotype models and assortative mating
+1982|12.0|3.5|Journal of the Marine Biological Association of the United Kingdom|The Reproductive Biology of the Deep-Sea Asteroid Bathybiaster Vexillifer
+1983|8.0|2.0|Oecologia|The productive and reproductive biology of flowering plants X. Reproductive energy allocation and propagule output of five congeners of the genus Setaria (Gramineae)
+1984|5.0|2.0|Journal of Fish Biology|The reproductive biology and estuarine movements of the gizzard shad, Nematalosa vlaminghi (Munro)
+1985|14.0|2.0|Oecologia|Feeding frequencies of nestling blue tits (Parus caeruleus): costs, benefits and a model of optimal feeding frequency
+1986|7.0|2.0|Parasitology Today|The reproductive biology of schistosomes
+1987|7.0|1.0|Cellular and Molecular Life Sciences|Ontogenetic development and evolution of the worker caste in termites
+1988|13.0|2.0|Genetics|Patterns of mating and mitochondrial DNA inheritance in the agaric Basidiomycete Coprinus cinereus.
+1989|7.0|1.0|Marine Biology|Reproduction of the Antarctic fish Nototheniops nudifrons
+1990|4.0|2.0|Journal of Fish Biology|Aspects of the reproductive biology of the bass, Dicentrarchus labrax L. II. Fecundity and pattern of oocyte development
+1991|7.0|1.0|Ecology|Dissecting Factors Responsible For Individual Variation in Plant Fecundity
+1992|8.0|3.0|New Forests|Isozyme variation in tropical trees: patterns of genetic organization
+1993|15.0|1.0|Hydrobiologia|Sexual communication in copepods and rotifers
+1994|11.0|2.0|Biological Conservation|The biogeography of scarce vascular plants in Britain with respect to habitat preference, dispersal ability and reproductive biology
+1995|599.0|14.0|Nature Medicine|Angiogenesis in cancer, vascular, rheumatoid and other disease.
+1996|18.0|2.0|Review of Palaeobotany and Palynology|New insights into early land ecosystems: a glimpse of a Lilliputian world
+1997|34.0|3.0|Biochemical and Biophysical Research Communications|Cloning and Functional Expression of a Second New Aquaporin Abundantly Expressed in Testis
+1998|13.0|4.0|Forest Ecology and Management|Ecological knowledge of regeneration from seed in neotropical forest trees: implications for natural forest management
+1999|179.0|5.0|Nature|Angiosperm phylogeny inferred from multiple genes as a tool for comparative biology
+2000|28.0|4.0|Nature|Reproductive biology: Mitochondria and the death of oocytes
+2001|65.0|4.0|Journal of Animal Ecology|Lifehistory strategies in parasitoid wasps: a comparative analysis of ovigeny
+2002|39.0|4.0|Twin Research|Heritabilities of Apolipoprotein and Lipid Levels in Three Countries
+2003|65.0|5.0|Reproductive Biology and Endocrinology|Estrogen in the adult male reproductive tract: A review
+2004|272.0|5.0|Nature Medicine|VX-680, a potent and selective small-molecule inhibitor of the Aurora kinases, suppresses tumor growth in vivo.
+2005|64.0|5.0|Nature Medicine|Diverse compounds mimic Alzheimer disease|[ndash]|causing mutations by augmenting A|[beta]|42 production
+2006|258.0|5.0|Nature Medicine|Interleukin-10 determines viral clearance or persistence in vivo
+2007|472.0|9.0|Nature Medicine|MicroRNA-133 controls cardiac hypertrophy
+2008|889.0|9.0|Nature Medicine|Amyloid-beta protein dimers isolated directly from Alzheimer's brains impair synaptic plasticity and memory.
+2009|573.0|9.0|Nature Medicine|CD8+ effector T cells contribute to macrophage recruitment and adipose tissue inflammation in obesity
+2010|242.0|4.5|Nature Medicine|Identification of miR-145 and miR-146a as mediators of the 5q- syndrome phenotype

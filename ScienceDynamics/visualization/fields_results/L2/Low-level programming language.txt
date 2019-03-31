@@ -1,0 +1,60 @@
+----  Field Name Low-level programming language: 
+----  Field Level 2.0: 
+----  Field Papers Number 8299:
+----  All time max citation paper: Happiness is everything, or is it? Explorations on the meaning of psychological well-being, 1989, (2247.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|3.0|3.0|Journal of Genetics|The origin and evolution of multiple sex-chromosome mechanisms.
+1952|6.0|6.0|Genetics|The Induction of Translocations and Recessive Lethals in Drosophila under Various Oxygen Concentrations.
+1953|5.0|5.0|Journal of Clinical Investigation|THE DETERMINATION OF PLASMA VOLUME IN MAN WITH RADIOACTIVE CHROMIC CHLORIDE 1
+1954|1.0|0.0|American Journal of Anatomy|Skeletal effects of radioiodine induced thyroid deficiency in mice as influenced by sex, age and strain
+1961|1.0|1.0|Hereditas|THE EFFECT OF OXYGEN CONCENTRATION ON THE FREQUENCY OF INDUCED XO MALES AND NONDISJUNCTION FEMALES AFTER IRRADIATION OF DROSOPHILA MALES
+1962|0|0.0|Development|Radiation Malformations Belonging to the CyclopiaArrhinencephaliaOtocephalia Group in the Mouse Foetus
+1963|21.0|1.0|Communications of The ACM|Design of a separable transition-diagram compiler
+1964|10.0|2.0|Mutation Research|X-RAY INDUCED MUTABILITY IN MALE GERM CELLS OF DROSOPHILA MELANOGASTER
+1965|13.0|3.5|Experimental Neurology|Small blood vessels and the origin of phagocytes in the rat cerebral cortex following heavy particle irradiation
+1966|2.0|2.0|Mutation Research|Inheritance of radioresistance in Drosophila . I
+1967|5.0|0.5|Mutation Research|X-CHROMOSOME LOSS INDUCED BY LOW X-RAY DOSES IN MATURE AND IMMATURE OOCYTES OF DROSOPHILA MELANOGASTER.
+1968|9.0|6.0|Mutation Research|The effects of acute single or fractionated x-ray treatment on mouse spermatogonia.
+1969|6.0|4.0|Mutation Research|On the nature of Y chromosome fragments induced in Drosophila melanogaster females: I. Immature oocytes
+1970|2.0|2.0|Annals of the New York Academy of Sciences|DOWNS SYNDROME AND EXPOSURE TO XIRRADIATION*
+1971|21.0|4.0|Physiology & Behavior|Facilitation of male rat copulatory behavior by electrical stimulation of the medial preoptic area
+1972|50.0|6.0|Physiology & Behavior|Gonadal hormones and behavioral regulation of body weight
+1973|3.0|1.5|Experimental Neurology|Audiogenic seizure susceptibility of rats x-irradiated in utero late in pregnancy
+1974|7.0|5.5|Epilepsia|Epileptogenic Properties of Cobalt and Related Metals Applied Directly to Cerebral Cortex of Rat
+1975|5.0|4.0|Communications of The ACM|Programming languages, natural languages, and mathematics
+1976|47.0|5.0|Cortex|Sex Differences in Functional Brain Asymmetry.
+1977|22.0|5.0|Genetics|Electrophoretic variation for X-chromosome linked phosphoglycerate (PGK-1) in the mouse.
+1978|39.0|3.0|Psychophysiology|Functional Cerebral Asymmetry and Performance III. Reaction Time as a Function of Task, Hand, Sex, and EEG Asymmetry
+1979|11.0|3.0|Experimental Parasitology|Schistosoma mansoni: Resolution and molecular weight estimates of tegument glycoproteins by polyacrylamide gel electrophoresis
+1980|12.0|2.0|Journal of Fish Biology|Sexual differences in the incidence and severity of ectoparasitic infestation of the brown trout, Salmo trutta L.
+1981|12.0|2.0|Journal of Neurochemistry|Sex Differences in the Content of Endorphin and EnkephalinLike Peptides in the Pituitary of Obese (ob/ob) Mice
+1982|23.0|1.0|International Journal for Parasitology|Passive transfer of immunity with serum in mice infected with Nematospiroides dubius : Influence of quality and quantity of immune serum
+1983|18.0|2.0|Physiology & Behavior|Dietary obesity in golden hamsters: Reversibility and effects of sex and photoperiod
+1984|33.0|3.0|Psychoneuroendocrinology|Melatonin in relation to body measures, sex, age, season and the use of drugs in patients with major affective disorders and healthy subjects.
+1985|22.0|1.0|Environmental Mutagenesis|Sister chromatid exchanges: A reexamination of the evidence for sex and race differences in humans
+1986|18.0|3.5|Review of Educational Research|Race, Class, and Gender in Education Research: An Argument for Integrative Analysis.
+1987|20.0|1.5|Journal of Chemical Physics|Photoionization Dynamics and Abundance Patterns in Laser Vaporized Tin and Lead Clusters,
+1988|45.0|2.0|Behavioral and Brain Sciences|Sex differences in mathematical reasoning ability in intellectually talented preadolescents: their nature, effects, and possible causes
+1989|187.0|3.0|Behavioral and Brain Sciences|Sex differences in human mate preferences: evolutionary hypotheses tested in 37 cultures
+1990|107.0|2.0|Journal of Personality|Evolution, traits, and the stages of human courtship : qualifying the parental investment model
+1991|36.0|4.0|International Journal of Radiation Oncology Biology Physics|Clinical radiobiology of squamous cell carcinoma of the oropharynx
+1992|137.0|3.0|Child Abuse & Neglect|A review of the long-term effects of child sexual abuse.
+1993|38.0|2.0|Journal of Affective Disorders|Sex and depression in the National Comorbidity Survey I: Lifetime prevalence, chronicity and recurrence
+1994|60.0|4.0|architectural support for programming languages and operating systems|Fine-grain access control for distributed shared memory
+1995|87.0|3.0|Child Development|Relational Aggression, Gender, and SocialPsychological Adjustment
+1996|66.0|4.0|Brain|Brain development, gender and IQ in children. A volumetric imaging study.
+1997|115.0|5.0|The Lancet|Presence of fetal DNA in maternal plasma and serum
+1998|169.0|4.0|Proceedings of the IEEE|Blind signal separation: statistical principles
+1999|104.0|6.0|Journal of Bone and Mineral Research|A six-year longitudinal study of the relationship of physical activity to bone mineral accrual in growing children : The University of Saskatchewan Bone Mineral Accrual Study
+2000|88.0|7.0|Child Development|Parental monitoring : a reinterpretation
+2001|113.0|8.0|Journal of Personality and Social Psychology|Gender differences in personality traits across cultures: robust and surprising findings.
+2002|91.0|9.0|JAMA Internal Medicine|Predictors of sleep-disordered breathing in community-dwelling adults: the Sleep Heart Health Study.
+2003|131.0|9.0|Journal of Affective Disorders|Epidemiology of women and depression
+2004|348.0|9.0|The Lancet|Primary prevention of cardiovascular disease with atorvastatin in type 2 diabetes in the Collaborative Atorvastatin Diabetes Study (CARDS): multicentre randomised placebo-controlled trial
+2005|185.0|9.0|Journal of Vocational Behavior|Work and family research in IO/OB: Content analysis and review of the literature (19802002)
+2006|184.0|9.0|Psychoneuroendocrinology|The effects of sex and hormonal status on the physiological response to acute psychosocial stress
+2007|339.0|10.0|Archives of Biochemistry and Biophysics|Selective degradation of mitochondria by mitophagy.
+2008|223.0|8.0|The EMBO Journal|Toll-like receptors control autophagy.
+2009|130.0|8.0|Chronobiology International|GENDER DIFFERENCES IN MORNINGNESSEVENINGNESS PREFERENCE
+2010|333.0|7.0|EMBO Reports|Nix is a selective autophagy receptor for mitochondrial clearance

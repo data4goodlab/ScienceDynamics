@@ -1,0 +1,64 @@
+----  Field Name Nuclear chemistry: 
+----  Field Level 1.0: 
+----  Field Papers Number 4716:
+----  All time max citation paper: A simple efficient liquid scintillator for counting aqueous solutions in a liquid scintillation counter, 1960, (3395.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1949|5.0|5.0|Archives of Ophthalmology|Studies of the eye with radiosodium autographs
+1951|0|0.0|Nature|Emission of Slow Neutrons by a Radium-Beryllium Source
+1952|8.0|8.0|Journal of Chemical Physics|Nuclear Magnetic Resonance in Metals. I. Broadening of Absorption Lines by SpinLattice Interactions
+1954|1.0|1.0|Journal of Chemical Physics|Inter and Intramolecular Energy Transfer Processes. 2. HydrocarbonHydrocarbon Systems
+1955|0|0.0|Nature|Scintillation Techniques for the Detection of Natural Radiocarbon
+1957|5.0|5.0|The International Journal of Applied Radiation and Isotopes|Practical aspects of internal-sample liquid scintillation counting
+1958|0|0.0||STATUS REPORT ON WASTE DISPOSAL IN NATURAL SALT FORMATIONS
+1960|118.0|118.0|Analytical Biochemistry|A simple efficient liquid scintillator for counting aqueous solutions in a liquid scintillation counter
+1961|8.0|5.0|Archives of Biochemistry and Biophysics|Determination of tritium in biological material
+1962|2.0|0.5|Journal of Chemical Physics|Effect of Added Quenchers in Organic Scintillator Solutions: Organometallics
+1963|2.0|2.0|Nature|Measurement of Liquid Scintillation Counting Efficiencies
+1964|4.0|1.5|Analytical Biochemistry|LIQUID SCINTILLATION COUNTING OF C$sup 14$-LABELED AMINO ACIDS ON PAPER, USING TRINITROBENZENE-1-SULFONIC ACID, AND A MODIFIED COMBUSTION APPARATUS
+1965|14.0|5.0|Geochimica et Cosmochimica Acta|Nucleosynthesis in the early history of the solar system
+1966|45.0|1.5|Analytical Biochemistry|A simplified method of sample preparation for determination of tritium, carbon-14, or sulfur-35 in blood or tissue by liquid scintillation counting
+1967|37.0|2.0|Analytical Biochemistry|Improved solubilization procedures for liquid scintillation counting of biological materials
+1968|67.0|0.0|Analytical Biochemistry|A convenient method of preparing polyacrylamide gels for liquid scintillation spectrometry
+1969|67.0|4.0|Analytical Biochemistry|Use of the liquid scintillation spectrometer for determining adenosine triphosphate by the luciferase enzyme
+1970|6.0|4.0|The Journal of General Physiology|The Penetration of Sodium into the Epithelium of the Frog Skin
+1971|25.0|4.0|Earth and Planetary Science Letters|ISOTOPIC COMPOSITION OF XENON AND KRYPTON IN THE LUNAR SOIL AND IN THE SOLAR WIND.
+1972|12.0|2.0|Earth and Planetary Science Letters|U-Th-Pb systematics in three Apollo 14 basalts and the problem of initial Pb in lunar rocks.
+1973|90.0|3.0|Analytical Biochemistry|An improved scintillation cocktail of high-solubilizing power
+1974|13.0|4.0|Journal of Investigative Dermatology|GROWTH STIMULATION OF CULTURED POSTEMBRYONIC EPIDERMAL CELLS BY VITAMIN A ACID
+1975|25.0|2.0|Science|High speed scintillation autoradiography
+1976|21.0|1.5|Analytical Biochemistry|Liquid scintillation counting of aqueous samples using Triton-containing scintillants
+1977|40.0|2.5|Journal of Geophysical Research|Isotopic anomalies of noble gases in meteorites and their origins: 2. Separated minerals from Allende
+1978|15.0|2.0|Geochimica et Cosmochimica Acta|The cosmic ray record in the San Juan Capistrano meteorite
+1979|13.0|0.0|Journal of Investigative Dermatology|Photoinactivation of Skin Fibroblasts by Fractionated Treatment with 8-Methoxypsoralen and UVA
+1980|3.0|1.0|Life Sciences|The effects of N-dodecane pretreatment on the metabolism and distribution of benzo(A) pyrene in the isolated perfused rabbit lung
+1981|6.0|1.5|Journal of Investigative Dermatology|Distribution of 3H-8-MOP and its Metabolites in Rat Organs after a Single Oral Administration
+1982|17.0|1.0|Icarus|Noble gases in planetary atmospheres - Implications for the origin and evolution of atmospheres
+1983|18.0|1.0|Journal of Investigative Dermatology|In Vivo Correlation Between Stratum Corneum Reservoir Function and Percutaneous Absorption
+1984|14.0|1.5|Water Resources Research|An approach to modelling radionuclide migration in a medium with strongly varying velocity and block sizes along the flow path
+1985|13.0|1.0|Marine Biology|Carbon-14 labelling patterns of individual marine phytoplankton from natural populations
+1986|38.0|1.5|Analytical Biochemistry|A nonchromatographic assay for expression of the chloramphenicol acetyltransferase gene in eucaryotic cells
+1987|17.0|1.0|Journal of Materials Research|Crystal chemical incorporation of high level waste species in aluminotitanate-based ceramics: Valence, location, radiation damage, and hydrothermal durability
+1988|13.0|1.0|Analytical Biochemistry|A partition assay for the simultaneous determination of insect juvenile hormone esterase and epoxide hydrolase activity
+1989|22.0|2.0|Geochimica et Cosmochimica Acta|The in situ production of radioisotopes in rock matrices with particular reference to the Stripa granite
+1990|7.0|0.0|Cancer Chemotherapy and Pharmacology|Tissue Distribution of Doxorubicin Associated With Polyisohexylcyanoacrylate Nanoparticles
+1991|24.0|2.0|Applied and Environmental Microbiology|Metabolism of phenanthrene by Phanerochaete chrysosporium.
+1992|11.0|2.0|IEEE Journal of Quantum Electronics|Infrared cross-section measurements for crystals doped with Er 3+ , Tm 3+ , and Ho 3+
+1993|21.0|2.0|Geochimica et Cosmochimica Acta|U-Xe, U-Kr, and U-Pb systematics for dating uranium minerals and investigations of the production of nucleogenic neon and argon
+1994|19.0|1.0|Applied Geochemistry|Alteration of uraninite from the Nopal I deposit, Pena Blanca District, Chihuahua, Mexico, compared to degradation of spent nuclear fuel in the proposed U.S. high-level nuclear waste repository at Yucca Mountain, Nevada
+1995|29.0|1.0|Progress in Nuclear Energy|Radiation effects in nuclear waste forms for high-level radioactive waste
+1996|24.0|1.0|The Journal of Thoracic and Cardiovascular Surgery|Gene therapy for donor hearts: Ex vivo liposome-mediated transfection
+1997|25.0|2.0|Journal of Nuclear Materials|Incorporation mechanisms of actinide elements into the structures of U 6+ phases formed during the oxidation of spent nuclear fuel
+1998|22.0|2.0|Meteoritics & Planetary Science|Isotopic Composition of Trapped and Cosmogenic Noble Gases in Several Martian Meteorites
+1999|37.0|3.0|Journal of Contaminant Hydrology|A site-scale model for fluid and heat flow in the unsaturated zone of Yucca Mountain, Nevada
+2000|38.0|2.0|Journal of Nuclear Materials|Fuel corrosion processes under waste disposal conditions
+2001|27.0|3.0|Journal of Contaminant Hydrology|Variable-density groundwater flow and solute transport in heterogeneous porous media: approaches, resolutions and future challenges
+2002|42.0|3.0|IEEE Journal of Selected Topics in Quantum Electronics|Rare-earth-doped GaN: growth, properties, and fabrication of electroluminescent devices
+2003|43.0|2.0|Biochemical Pharmacology|Evidence of covalent binding of the dietary flavonoid quercetin to DNA and protein in human intestinal and hepatic cells
+2004|43.0|3.0|Journal of Controlled Release|In vivo release from a drug delivery MEMS device
+2005|97.0|3.0|Journal of High Energy Physics|Monochromatic neutrino beams
+2006|59.0|2.0|Fusion Engineering and Design|Conceptual design activities of FDS series fusion power plants in China
+2007|52.0|3.0|World Journal of Urology|Revolix vaporesection of the prostate : initial results of 54 patients with a 1-year follow-up
+2008|75.0|4.0|Analytica Chimica Acta|Critical comparison of radiometric and mass spectrometric methods for the determination of radionuclides in environmental, biological and nuclear waste samples
+2009|228.0|5.0|Nature Chemistry|New insights into the structure and reduction of graphite oxide
+2010|299.0|5.0|Nature Chemistry|Graphene oxide as a chemically tunable platform for optical applications

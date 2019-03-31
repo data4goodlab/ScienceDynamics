@@ -1,0 +1,54 @@
+----  Field Name Surface-water hydrology: 
+----  Field Level 2.0: 
+----  Field Papers Number 8121:
+----  All time max citation paper: LARGE AREA HYDROLOGIC MODELING AND ASSESSMENT PART I: MODEL DEVELOPMENT1, 1998, (989.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1954|1.0|1.0|Arctic|Limnology in the North American Arctic and Subarctic
+1959|0|0.0|Geochimica et Cosmochimica Acta|The geochemistry of C 14 in fresh-water systems
+1964|1.0|1.0|Acta Neurochirurgica|Flow considerations in regional cerebral hypothermia
+1966|1.0|1.0|Journal of Surgical Research|Metabolism of the fat cell in low-flow states
+1967|3.0|3.0|Limnology and Oceanography|PHYTOPLANKTON, SESTON, AND DISSOLVED ORGANIC CARBON IN THE LITTLE MIAMI RIVER AT CINCINNATI, OHIO
+1968|11.0|1.0|Water Resources Research|BaseFlow RecessionsA Review
+1969|1.0|1.0|Physiologia Plantarum|Retention and Passage of Calcium and Strontium in Stems of Phaseolus vulgaris as Mediated by Xylem Stream Flow Rate and Dinitrophenol
+1970|5.0|2.5|Water Resources Research|Effects of Forest ClearFelling on the Storm Hydrograph
+1971|4.0|4.0|Journal of Hydrology|A model for the simulation of streamflow data from climatic records
+1972|9.0|8.0|Water Resources Research|Role of subsurface flow in generating surface runoff: 2. Upstream source areas
+1973|13.0|5.5|Journal of Surgical Research|Functional preservation of the mammalian kidney I. Normothermia, low-flow perfusion
+1974|5.0|3.0|Water Resources Research|Mathematical simulation of subsurface flow contributions to snowmelt runoff, Reynolds Creek Watershed, Idaho
+1975|11.0|1.0|Documenta Ophthalmologica|The function of the retina in the perfused eye
+1976|11.0|0.0|Journal of Geophysical Research|Translational inner core oscillations of a rotating, slightly elliptical Earth
+1977|13.0|2.0|Nature|Oceanic residence times of trace metals
+1978|28.0|3.0|Water Resources Research|Stochastic analysis of spatial variability in subsurface flows: 1. Comparison of one and threedimensional flows
+1979|10.0|0.0|Water Resources Research|Chemical characteristics of small streams near Haney in southwestern British Columbia
+1980|24.0|3.0|Tectonophysics|High temperature flow and dynamic recrystallization in carrara marble
+1981|21.0|1.0|Water Resources Research|Stochastic models of subsurface flow: infinite versus finite domains and stationarity
+1982|16.0|6.0|Water Resources Research|A geomorphoclimatic theory of the instantaneous unit hydrograph
+1983|16.0|1.5|Journal of Geophysical Research|On the thermal effects of groundwater flow: 1. Regional scale systems
+1984|13.0|3.0|Water Resources Research|A Physically Based Flood Frequency Distribution
+1985|22.0|2.0|Water Resources Research|A Comparison of RainfallRunoff Modeling Techniques on Small Upland Catchments
+1986|67.0|2.0|Journal of Applied Physics|Lowtemperature deposition of highquality silicon dioxide by plasmaenhanced chemical vapor deposition
+1987|26.0|1.0|Journal of the American College of Cardiology|When should Doppler-determined valve area be better than the Gorlin formula?: Variation in hydraulic constants in low flow states.
+1988|31.0|2.0|Hepatology|Early midzonal cell death during lowflow hypoxia in the isolated, perfused rat liver: Protection by allopurinol
+1989|27.0|2.0|Water Resources Research|Implementation of the threedimensional turning bands random field generator
+1990|26.0|2.0|Journal of Hydrology|Computation of the instantaneous unit hydrograph and identifiable component flows with application to two small upland catchments
+1991|29.0|2.0|Water Resources Research|Terrainbased catchment partitioning and runoff prediction using vector elevation data
+1992|34.0|2.0|Journal of Fluid Mechanics|The three-dimensional evolution of a plane mixing layer - The Kelvin-Helmholtz rollup
+1993|19.0|2.0|Journal of Hydrology|Hydrometric and stream chemistry evidence of three storm flowpaths in Walker Branch Watershed
+1994|97.0|1.0|Climate Dynamics|Decadal atmosphere-ocean variations in the Pacific
+1995|59.0|2.0|The New England Journal of Medicine|Developmental and neurologic status of children after heart surgery with hypothermic circulatory arrest or low-flow cardiopulmonary bypass.
+1996|31.0|3.0|Geomorphology|Fluvial process and the establishment of bottomland trees
+1997|29.0|4.0|Anesthesiology|Low-flow (1 l/min) sevoflurane: is it safe?
+1998|37.0|4.0|Circulation|Ischemic Preconditioning in Pigs: A Graded Phenomenon Its Relation to Adenosine and Bradykinin
+1999|70.0|5.0|Circulation|Developmental and Neurological Status of Children at 4 Years of Age After Heart Surgery With Hypothermic Circulatory Arrest or Low-Flow Cardiopulmonary Bypass
+2000|78.0|5.0|Nature|Fractal stream chemistry and its implications for contaminant transportin catchments
+2001|75.0|4.0|Journal of Environmental Management|Ecological impacts of arable intensification in Europe
+2002|66.0|7.0|Advances in Water Resources|Statistics of extremes in hydrology
+2003|70.0|6.0|The Journal of Thoracic and Cardiovascular Surgery|Neurodevelopmental status at eight years in children with dextro-transposition of the great arteries: The Boston Circulatory Arrest Trial
+2004|116.0|6.0|Science of The Total Environment|Persistence of pharmaceutical compounds and other organic wastewater contaminants in a conventional drinking-water-treatment plant
+2005|194.0|7.0|Water Resources Research|Ensemble predictions of runoff in ungauged catchments
+2006|167.0|8.0|Journal of The Electrochemical Society|Liquid Water Removal from a Polymer Electrolyte Fuel Cell
+2007|152.0|7.0|Climate Dynamics|Past and future changes in climate and hydrological indicators in the US Northeast
+2008|218.0|8.0|Ecology|ECOHYDROLOGICAL IMPLICATIONS OF WOODY PLANT ENCROACHMENT
+2009|160.0|9.0|Journal of Hydrology|Ensemble flood forecasting: a review.
+2010|128.0|8.0|Journal of Climate|Changes in continental freshwater discharge from 1948 to 2004.

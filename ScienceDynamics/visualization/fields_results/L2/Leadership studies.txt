@@ -1,0 +1,22 @@
+----  Field Name Leadership studies: 
+----  Field Level 2.0: 
+----  Field Papers Number 1522:
+----  All time max citation paper: TEMPS-I: delineating the most discriminant traits of the cyclothymic, depressive, hyperthymic and irritable temperaments in a nonpatient population., 1998, (106.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1978|0|0.0|Academy of Management Review|A Critique of the Vroom-Yetton Contingency Model of Leadership Behavior
+1993|0|0.0|Canadian Journal on Aging-revue Canadienne Du Vieillissement|Les abus  l'endroit des personnes ges en centres d'accueil publics: une tude mene  l'aide d'une mthode qualitative
+1994|1.0|1.0|Psychiatry and Clinical Neurosciences|Development of Interview Form to Estimate the Risk of SelfDestructive Behaviors
+1998|14.0|7.5|Journal of Affective Disorders|TEMPS-I: delineating the most discriminant traits of the cyclothymic, depressive, hyperthymic and irritable temperaments in a nonpatient population.
+1999|11.0|6.0|Journal of Gerontological Nursing|Family visitation on special care units
+2000|11.0|4.5|Gerodontology|Food choice by older people: the use of semistructured interviews with open and closed questions
+2001|6.0|4.0|Systems Research and Behavioral Science|Creating transforming leadership for organizational change: the CogniScope System approach
+2002|7.0|4.0|Women & Therapy|Talking back: research as an act of resistance and healing for African American women survivors of intimate male partner violence
+2003|11.0|2.0|Scandinavian Journal of Caring Sciences|Danish research-active clinical nurses overcome barriers in research utilization.
+2004|27.0|2.0|conference on computer supported cooperative work|Putting systems into place: a qualitative study of design requirements for location-aware community systems
+2005|15.0|5.0|Information Systems Journal|The politics of postimplementation reviews
+2006|39.0|6.0|human factors in computing systems|Desperately seeking simplicity: how young adults with cognitive disabilities and their families adopt assistive technologies
+2007|35.0|6.0|Information & Software Technology|Requirements engineering challenges in market-driven software development - An interview study with practitioners
+2008|53.0|3.0|Leadership Quarterly|How leaders influence organizational effectiveness
+2009|35.0|0.0|Archives of Gerontology and Geriatrics|The home is the hub of health in very old age: Findings from the ENABLE-AGE Project
+2010|40.0|2.0|Patient Education and Counseling|They do what they think is the best for me : Frail elderly patients' preferences for participation in their care during hospitalization.

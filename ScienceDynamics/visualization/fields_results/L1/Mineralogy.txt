@@ -1,0 +1,70 @@
+----  Field Name Mineralogy: 
+----  Field Level 1.0: 
+----  Field Papers Number 14814:
+----  All time max citation paper: Diamond-like amorphous carbon, 2002, (1052.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1935|0|0.0|Protoplasma|The influence of heavy water of low concentration on Spirogyra, Planaria and on enzyme action
+1940|1.0|0.5|Digestive Diseases and Sciences|Urinary amylase: Its estimation and significance
+1942|0|0.0|Journal of Nervous and Mental Disease|WATER METABOLISM IN RELATION TO CONVULSIONS: II. SPECIFIC GRAVITY OF BLOOD AND BLOOD SERUM
+1945|3.0|3.0|American Journal of Potato Research|The influence of fertilizers on the specific gravity of potatoes grown in Minnesota
+1947|0|0.0|Analytica Chimica Acta|On the estimation of serum and plasma protein from specific gravity measurements.
+1950|4.0|2.5|Journal of Dairy Science|Properties of the Colostrum of the Dairy Cow. V. Yield, Specific Gravity and Concentrations of Total Solids and its Various Components of Colostrum and Early Milk1
+1951|2.0|1.0|American Journal of Potato Research|Changes in specific gravity, starch content, and sloughing of potatoes during storage
+1952|1.0|1.0|American Journal of Potato Research|INFLUENCE OF VINE KILLING AND 2,4-D ON YIELD, SPECIFIC GRAVITY, AND VASCULAR DISCOLORATION OF POTATOES 1
+1953|2.0|2.0|American Journal of Potato Research|Protein content and specific gravity of Red McClure potatoes increased by 2,4-D treatment
+1956|3.0|0.0|Hydrobiologia|The oxygen consumption of Artemia salina (L.) in different salinities
+1957|2.0|1.0|American Journal of Potato Research|THE RELATION OF PHYSICAL PROPERTIES AND CHEMICAL COMPOSITION TO MEALINESS IN THE POTATO. I. PHYSICAL PROPERTIES ~
+1958|2.0|1.5|Journal of Dairy Science|Effect of Variations in Fat and Temperature on the Surface Tension of Various Milks1,2
+1959|6.0|1.0|Journal of Dairy Science|Genetic and Environmental Influences upon Solids-Not-Fat Content of Cow's Milk1
+1960|0|0.0|American Journal of Potato Research|Physiological and anatomical characteristics of spindling-sprouted Potato tubers.
+1961|2.0|1.0|American Journal of Potato Research|Soil application of insecticides for the control of foliage pests of Irish potato
+1962|8.0|2.0|Virology|The specific gravity of transducing particles of bacteriophage P1
+1963|18.0|2.0|Geochimica et Cosmochimica Acta|The light-dark structure in the Pantar and Kapoeta stone meteorites
+1964|21.0|3.0|Geochimica et Cosmochimica Acta|On the unity and origin of the Australasian tektites
+1965|18.0|2.5|Journal of Geophysical Research|Cosmogenic and radiogenic helium, neon, and argon in amphoteric chondrites
+1966|32.0|2.0|Geochimica et Cosmochimica Acta|The enstatite chondrites.
+1967|21.0|4.0|Geochimica et Cosmochimica Acta|Abundances of Na, Mn, Cr, Sc and Co in ultramafic rocks
+1968|8.0|2.0|Earth and Planetary Science Letters|Geochemistry of lanthanides in basalts of central Japan.
+1969|21.0|2.0|Contributions to Mineralogy and Petrology|Rare earth contribution to the origin of Hawaiian lavas
+1970|18.0|1.0|Earth and Planetary Science Letters|Mineralogy and petrology of Apollo 12 sample no. 12013 - A progress report
+1971|29.0|5.0|Earth and Planetary Science Letters|GEOCHEMISTRY OF THREE CORES FROM THE EAST PACIFIC RISE.
+1972|31.0|3.0|Reviews of Geophysics|Formation of ordinary chondrites
+1973|24.0|3.0|Icarus|High altitude infrared spectroscopic evidence for bound water on Mars.
+1974|36.0|2.0|Journal of Geophysical Research|The formation of goethite and hydrated clay minerals on Mars
+1975|63.0|2.0|Science|Host phase of a strange xenon component in Allende
+1976|27.0|4.5|Geochimica et Cosmochimica Acta|Trace elements in the Allende meteorite. I - Coarse-grained, Ca-rich inclusions
+1977|40.0|4.0|Journal of Geophysical Research|Isotopic anomalies of noble gases in meteorites and their origins: 2. Separated minerals from Allende
+1978|105.0|5.0|Geochimica et Cosmochimica Acta|A review of experimental studies of crystal/liquid trace element partitioning
+1979|24.0|7.0|Geophysical Research Letters|The upper mantle transition region: Eclogite?
+1980|18.0|4.0|Geochimica et Cosmochimica Acta|Isotopic anomalies of noble gases in meteorites and their origins. IV - C3 /Ornans/ carbonaceous chondrites
+1981|46.0|5.5|Geochimica et Cosmochimica Acta|The matrices of unequilibrated ordinary chondrites - Implications for the origin and history of chondrites
+1982|20.0|5.0|Geochimica et Cosmochimica Acta|The Blue Angel: I. The mineralogy and petrogenesis of a hibonite inclusion from the Murchison meteorite
+1983|25.0|3.0|Geochimica et Cosmochimica Acta|Mineralogy and petrology of chondrules and inclusions in the Mokoia CV3 chondrite
+1984|42.0|5.0|Geochimica et Cosmochimica Acta|Trace element abundances in megacrysts and their host basalts - Constraints on partition coefficients and megacryst genesis
+1985|31.0|4.0|Applied Physics Letters|Characterization of amorphous carbonhydrogen films by solidstate nuclear magnetic resonance
+1986|47.0|4.0|Nature|Transition region of the Earth's upper mantle
+1987|28.0|3.0|Applied Physics Letters|Resonant Raman scattering of hydrogenated amorphous carbon: Evidence for bonded carbon clusters
+1988|34.0|4.0|Contributions to Mineralogy and Petrology|Calculation and application of clinopyroxene-garnet-plagioclase-quartz geobarometers
+1989|41.0|4.0|Journal of Applied Physics|Electron and chemical kinetics in methane rf glowdischarge deposition plasmas
+1990|33.0|4.0|Applied Physics Letters|Effect of oxygen in diamond deposition at low substrate temperatures
+1991|55.0|3.0|Journal of Applied Physics|Vapor deposition processes for amorphous carbon films with sp3 fractions approaching diamond
+1992|41.0|4.0|Applied Physics Letters|Filtered arc deposition of amorphous diamond
+1993|30.0|3.0|Applied Physics Letters|Nucleation enhancement of diamond with amorphous films
+1994|114.0|3.0|Journal of Applied Physics|Raman fingerprinting of amorphous carbon films
+1995|60.0|2.0|Solid State Ionics|High-temperature protonic conductors with perovskite-related structures
+1996|70.0|2.0|Journal of Applied Physics|Raman spectroscopy on amorphous carbon films
+1997|107.0|3.0|Journal of Applied Physics|Nitrogen modification of hydrogenated amorphous carbon films
+1998|80.0|2.0|Journal of the American Ceramic Society|Superior Perovskite OxideIon Conductor; Strontium and MagnesiumDoped LaGaO3: I, Phase Relationships and Electrical Properties
+1999|70.0|2.5|Journal of Applied Physics|Stress reduction and bond stability during thermal annealing of tetrahedral amorphous carbon
+2000|57.0|3.0|Journal of Membrane Science|Investigation of the permeation behavior and stability of a Ba 0.5 Sr 0.5 Co 0.8 Fe 0.2 O 3 oxygen membrane
+2001|85.0|3.0|Applied Physics Letters|Uniform patterned growth of carbon nanotubes without surface carbon
+2002|165.0|3.0|Materials Science & Engineering R-reports|Diamond-like amorphous carbon
+2003|82.0|4.0|Materials Chemistry and Physics|A CTAB-assisted hydrothermal orientation growth of ZnO nanorods
+2004|75.0|4.5|Global Change Biology|Variation in wood density determines spatial patterns inAmazonian forest biomass
+2005|149.0|5.0|Carbon|Hydrogen adsorption in different carbon nanostructures
+2006|255.0|4.0|Geophysical Research Letters|Mineralogical characterization of protolith and fault rocks from the SAFOD Main Hole
+2007|112.0|5.0|Journal of Membrane Science|Re-evaluation of Ba 0.5 Sr 0.5 Co 0.8 Fe 0.2 O 3 perovskite as oxygen semi-permeable membrane
+2008|403.0|6.0|Carbon|Chemical oxidation of multiwalled carbon nanotubes
+2009|161.0|6.0|Journal of Power Sources|Progress in understanding and development of Ba 0.5 Sr 0.5 Co 0.8 Fe 0.2 O 3  -based cathodes for intermediate-temperature solid-oxide fuel cells: A review
+2010|159.0|6.0|Fuel|Variables affecting the in situ transesterification of microalgae lipids

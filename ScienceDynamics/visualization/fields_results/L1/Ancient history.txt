@@ -1,0 +1,56 @@
+----  Field Name Ancient history: 
+----  Field Level 1.0: 
+----  Field Papers Number 32598:
+----  All time max citation paper: Place navigation impaired in rats with hippocampal lesions., 1982, (3600.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1950|0|0.0|Journal of Dairy Science|Inherited non-lethal anatomical characters in cattle: a review.
+1961|1.0|1.0|Annals of the New York Academy of Sciences|EXPERIMENTAL ANALYSIS OF GENETIC DETERMINANTS IN RESISTANCE TO INFECTIOUS DISEASE*
+1963|21.0|16.0|Journal of Molecular Biology|The alkaline transition of BU-containing DNA and its bearing on the replication of DNA
+1964|34.0|29.0|Journal of Molecular Biology|Fractionation of complementary RNA
+1965|15.0|4.0|Journal of Molecular Biology|Effects of cupric ions on thermal denaturation of nucleic acids
+1966|42.0|7.0|Journal of Molecular Biology|Pyrimidine dimers in ultraviolet-irradiated DNA's
+1967|14.0|9.5|Brain Research|Ascending axon degeneration following hemisection of the spinal cord in the tegu lizard ( Tupinambis nigropunctatus )
+1968|12.0|9.0|Physiology & Behavior|Dorsal and ventral hippocampal lesions and behavior
+1969|5.0|3.0|Brain Research|Simian EEG activity related to problem solving during a simulated space flight.
+1970|21.0|13.0|Physiology & Behavior|Hippocampal activity during natural behavior in the guinea pig
+1971|13.0|6.0|Physiology & Behavior|The effects of hippocampectomy on alternation behavior and response to novelty
+1972|82.0|12.0|The Journal of Comparative Neurology|Origin and termination of the hippocampal perforant path in the rat studied by silver impregnation
+1973|3.0|1.5|Physiology & Behavior|Functional significance of the hippocampus
+1974|59.0|3.5|Physiology & Behavior|Frontolimbic lesions and social behavior in the rat
+1975|76.0|4.0|Behavioral Biology|Slam on the brakes: A critique of Altman, Brunner, and Bayer's response-inhibition model of hippocampal function
+1976|103.0|3.5|Experimental Neurology|Place units in the hippocampus of the freely moving rat.
+1977|34.0|6.0|Physiology & Behavior|Disruption of rabbit ( Oryctolagus cuniculus ) nictitating membrane conditioning by posttrial electrical stimulation of hippocampus
+1978|39.0|3.0|Physiology & Behavior|Neocortical and hippocampal EEG in normal and lateral hypothalamic-damaged rats
+1979|215.0|5.0|Behavioral and Brain Sciences|Hippocampus, space, and memory
+1980|81.0|8.0|Gene|Sequence of a yeast DNA fragment containing a chromosomal replicator and the TRP1 gene
+1981|146.0|11.0|Behavioral and Brain Sciences|Reticulo-cortical activity and behavior: A critique of the arousal theory and a new synthesis
+1982|108.0|10.0|Brain Research|Voltage-clamp analysis of muscarinic excitation in hippocampal neurons
+1983|132.0|9.5|The Journal of Comparative Neurology|Topographic analysis of the innervation of the rat neocortex and hippocampus by the basal forebrain cholinergic system
+1984|188.0|9.0|Journal of Neurochemistry|Elevation of the Extracellular Concentrations of Glutamate and Aspartate in Rat Hippocampus During Transient Cerebral Ischemia Monitored by Intracerebral Microdialysis
+1985|110.0|7.0|The Journal of Comparative Neurology|An analysis of the origins of the cholinergic and noncholinergic septal projections to the hippocampal formation of the rat
+1986|145.0|9.0|Journal of Neurochemistry|Coupling of Inositol Phospholipid Metabolism with Excitatory Amino Acid Recognition Sites in Rat Hippocampus
+1987|74.0|9.0|Brain Research|Fast spiking cells in rat hippocampus (CA 1 region) contain the calcium-binding protein parvalbumin
+1988|84.0|8.0|Brain Research|The N-methyl-d-aspartate antagonists CGS 19755 and CPP reduce ischemic brain damage in gerbils
+1989|97.0|9.0|Brain Research|Hippocampal interneuron loss and plasticity in human temporal lobe epilepsy
+1990|79.0|7.0|Brain Research|'Ischemic tolerance' phenomenon found in the brain.
+1991|118.0|7.0|Hippocampus|Permanently altered hippocampal structure, excitability, and inhibition after experimental status epilepticus in the rat: The dormant basket cell hypothesis and its possible relevance to temporal lobe epilepsy
+1992|419.0|7.0|Psychological Review|Memory and the hippocampus : a synthesis from findings with rats, monkeys, and humans
+1993|99.0|7.0|Neuropharmacology|Characterisation of LTP induced by the activation of glutamate metabotropic receptors in area CA1 of the hippocampus
+1994|275.0|7.0|Behavioral and Brain Sciences|Two functional components of the hippocampal memory system
+1995|106.0|8.0|The Journal of Comparative Neurology|Characterization of inducible cyclooxygenase in rat brain
+1996|135.0|7.0|Neuroscience|The metabotropic glutamate receptors, MGLUR2 and MGLUR3, show unique postsynaptic, presynaptic and glial localizations
+1997|257.0|8.0|Trends in Neurosciences|Neurocircuitry of stress: central control of the hypothalamo-pituitary-adrenocortical axis.
+1998|172.0|9.0|Journal of Neurobiology|Multipotent progenitor cells in the adult dentate gyrus.
+1999|255.0|10.0|Behavioral and Brain Sciences|Episodic memory, amnesia, and the hippocampalanterior thalamic axis
+2000|206.0|11.0|The Journal of Comparative Neurology|Vascular niche for adult hippocampal neurogenesis
+2001|322.0|11.0|Nuclear Physics|Type IIB Green Schwarz superstring in plane wave Ramond Ramond background
+2002|418.0|11.0|Applied Geochemistry|A review of the source, behaviour and distribution of arsenic in natural waters
+2003|740.0|11.0|Annual Review of Neuroscience|AMPA RECEPTOR TRAFFICKING AND SYNAPTIC PLASTICITY
+2004|588.0|12.0|Annual Review of Neuroscience|THE MEDIAL TEMPORAL LOBE*
+2005|258.0|11.0|Annual Review of Psychology|Emotion and Cognition: Insights from Studies of the Human Amygdala
+2006|417.0|12.0|Hippocampus|Is there a link between adult neurogenesis and learning?
+2007|587.0|13.0|Annual Review of Neuroscience|The Medial Temporal Lobe and Recognition Memory
+2008|889.0|14.0|Nature Medicine|Amyloid-beta protein dimers isolated directly from Alzheimer's brains impair synaptic plasticity and memory.
+2009|1000.0|13.0|Nature Neuroscience|Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse
+2010|1340.0|14.0|PLOS ONE|Alterations in mGluR5 Expression and Signaling in Lewy Body Disease and in Transgenic Models of Alpha- Synucleinopathy  Implications for Excitotoxicity

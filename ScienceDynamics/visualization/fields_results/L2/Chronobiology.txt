@@ -1,0 +1,55 @@
+----  Field Name Chronobiology: 
+----  Field Level 2.0: 
+----  Field Papers Number 16357:
+----  All time max citation paper: Dopamine modulates the rest period length without perturbation of its power law distribution in Drosophila melanogaster., 2012, (1954.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1930|0|0.0||The carbohydrate metabolism of Stipa pulchra.
+1963|11.0|7.0|General and Comparative Endocrinology|Circadian rhythm in rat pineal serotonin and its modifications by estrous cycle and photoperiod
+1964|30.0|3.5|Geochimica et Cosmochimica Acta|On the origin of gas-rich meteorites
+1965|6.0|1.0|Photochemistry and Photobiology|PHOTIC RELATIONS AND EXPERIMENTAL DISSOCIATION OF CIRCADIAN RHYTHMS IN PINEAL COMPOSITION AND RUNNING ACTIVITY IN RATS*
+1966|13.0|4.0|JAMA Internal Medicine|Analysis of Circadian Rhythms in Human Adrenocortical Secretory Activity
+1967|11.0|3.0|Nature|Circadian Periodicity of Blood Amino-acids in Adult Men
+1968|12.0|3.0|The New England Journal of Medicine|Daily rhythms in the concentrations of various amino acids in human plasma.
+1969|16.0|3.0|Journal of Theoretical Biology|Populations of interacting oscillators and circadian rhythms
+1970|9.0|2.0|Science|Persisting Circadian Rhythm of Cell Division in a Photosynthetic Mutant of Euglena
+1971|24.0|2.0|Physiology & Behavior|Light-dark rhythms in rat eating and drinking behavior
+1972|21.0|3.0|Planta|Oscillations in Stomatal Conductance and Plant Functioning Associated with Stomatal Conductance: Observations and a Model
+1973|15.0|3.0|Physiology & Behavior|Light-dark rhythms in hamster eating, drinking and locomotor behaviors
+1974|79.0|3.5|Brain Research|Visual pathways and the central neural control of a circadian rhythm in pineal serotonin N-acetyltransferase activity
+1975|38.0|3.0|Brain Research|Loss of circadian rhythm in sleep-wakefulness cycle in the rat by suprachiasmatic nucleus lesions
+1976|59.0|4.0|Brain Research|The role of suprachiasmatic nuclei of the hypothalamus in the production of circadian rhythm
+1977|52.0|4.0|Behavioral Biology|Elimination of circadian rhythms in drinking, activity, sleep, and temperature by isolation of the suprachiasmatic nuclei
+1978|35.0|4.0|Brain Research|Effect of bilateral lesions of the suprachiasmatic nuclei on the circadian rhythm of food-intake
+1979|63.0|3.0|Brain Research|A fine-grained anatomical analysis of the role of the rat suprachiasmatic nucleus in circadian rhythms of feeding and drinking
+1980|50.0|3.0|The Journal of Comparative Neurology|In vivo metabolic activity of a putative circadian oscillator, the rat suprachiasmatic nucleus
+1981|35.0|3.0|Physiology & Behavior|Sleep-waking electrocorticographic rhythms in chronic cerveau isol rats
+1982|47.0|4.0|Brain Research|Activity of serotonin-containing neurons in the nucleus raphe pallidus of freely moving cats
+1983|35.0|3.0|Brain Research|A daily vasopressin rhythm in rat cerebrospinal fluid
+1984|62.0|4.0|Neuroscience Letters|Neuropeptide Y: Role in light-dark cycle entrainment of hamster circadian rhythms
+1985|74.0|3.0|Brain Research|The suprachiasmatic nucleus of the human brain in relation to sex, age and senile dementia.
+1986|52.0|3.0|Behavioral and Brain Sciences|Evolving concepts of sleep cycle generation: From brain centers to neuronal populations
+1987|49.0|3.0|The Journal of Comparative Neurology|Efferent projections of the suprachiasmatic nucleus: II. Studies using retrograde transport of fluorescent dyes and simultaneous peptide immunohistochemistry in the rat
+1988|65.0|3.0|Brain Research|Retinohypothalamic projections in the hamster and rat demonstrated using cholera toxin
+1989|64.0|3.0|Brain Research Bulletin|Light increases Fos-related protein immunoreactivity in the rat suprachiasmatic nuclei
+1990|56.0|4.0|Experimental Neurology|Photic regulation of c- fos expression in neural components governing the entrainment of circadian rhythms
+1991|73.0|3.0|Neuroscience Letters|Photic induction of Fos protein in the suprachiasmatic nucleus is inhibited by the NMDA receptor antagonist MK-801
+1992|46.0|3.5|European Journal of Pharmacology|Effects of 5-HT1A receptor agonists on the circadian rhythm of wheel-running activity in hamsters
+1993|125.0|3.5|Neuron|A novel adenylyl cyclase-activating serotonin receptor (5-HT7) implicated in the regulation of mammalian circadian rhythms
+1994|92.0|4.0|Brain Research Reviews|The circadian visual system
+1995|136.0|4.0|Neuron|Individual neurons dissociated from rat suprachiasmatic nucleus express independently phased circadian firing rhythms
+1996|63.0|4.0|Progress in Neurobiology|The role of glutamate in the photic regulation of the suprachiasmatic nucleus.
+1997|261.0|6.0|Cell|Positional Cloning of the Mouse Circadian Clock Gene
+1998|156.0|6.0|Cell|The cryb mutation identifies cryptochrome as a circadian photoreceptor in Drosophila.
+1999|203.0|7.0|Nature|Mammalian Cry1 and Cry2 are essential for maintenance of circadian rhythms
+2000|283.0|7.0|Science|Orchestrated Transcription of Key Pathways in Arabidopsis by the Circadian Clock
+2001|207.0|8.0|Genome Biology|Watching the hands of the Arabidopsis biological clock
+2002|572.0|8.0|Nature|Coordination of circadian timing in mammals
+2003|365.0|10.0|Annual Review of Physiology|Molecular Analysis of Mammalian Circadian Rhythms
+2004|236.0|10.0|Proceedings of the National Academy of Sciences of the United States of America|PERIOD2 :: LUCIFERASE real-time reporting of circadian dynamics reveals persistent circadian oscillations in mouse peripheral tissues
+2005|412.0|9.0|Nature|Hypothalamic regulation of sleep and circadian rhythms
+2006|180.0|9.0|Molecular Systems Biology|Experimental validation of a predicted feedback loop in the multioscillator clock of Arabidopsis thaliana
+2007|357.0|10.0|Nature Reviews Genetics|RNA regulons: coordination of post-transcriptional events
+2008|368.0|9.0|Nature Reviews Genetics|The genetics of mammalian circadian order and disorder: implications for physiology and disease
+2009|378.0|8.0|Proceedings of the National Academy of Sciences of the United States of America|Adverse metabolic and cardiovascular consequences of circadian misalignment
+2010|1330.0|11.0|PLOS ONE|Circadian Plasticity in Photoreceptor Cells Controls Visual Coding Efficiency in Drosophila melanogaster

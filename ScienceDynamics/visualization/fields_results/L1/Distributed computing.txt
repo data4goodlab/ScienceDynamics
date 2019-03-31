@@ -1,0 +1,55 @@
+----  Field Name Distributed computing: 
+----  Field Level 1.0: 
+----  Field Papers Number 43056:
+----  All time max citation paper: Ant system: optimization by a colony of cooperating agents, 1996, (3357.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1945|0|0.0|Transactions of The American Institute of Electrical Engineers|The Design of Bus-Bar Industrial Distribution Systems: an Epitomization of Available Data
+1961|1.0|1.0|Journal of Applied Physics|Generalized Coupled Mode Theory
+1962|0|0.0|Journal of Chemical Physics|Frequency Counting in Lattice Dynamics
+1965|3.0|2.0|Cell and Tissue Research|The fine structure of differentiating interstitial cells in Hydra
+1966|6.0|3.0|Proceedings of the IEEE|The spectrum of clipped noise
+1967|5.0|1.5|IEEE Spectrum|Computing reliable power spectra
+1968|3.0|0.0|IEEE Transactions on Information Theory|Estimation of probability density and distribution functions
+1969|1.0|0.5|Separation Science and Technology|Nonideal Phenomena in Countercurrent Distribution
+1970|6.0|5.0|IEEE Transactions on Information Theory|On the difficulty of computations
+1971|4.0|2.0|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|Simulating distributed computation in nervous systems
+1972|16.0|8.0|Proceedings of the IEEE|Resource-sharing computer communications networks
+1973|5.0|2.5|Automatica|On parameter identification for distributed systems using Galerkin's criterion
+1974|13.0|3.0|Management Science|Multicommodity Distribution System Design by Benders Decomposition,
+1975|36.0|2.0|ACM Computing Surveys|Computer Interconnection Structures: Taxonomy, Characteristics, and Examples
+1976|11.0|4.0||A high-level framework for network-based resource sharing
+1977|20.0|1.0|Journal of Geophysical Research|VLF wave activity during a magnetic storm: A case study of the role of power line radiation
+1978|35.0|5.5|ACM Computing Surveys|Recovery Techniques for Database Systems
+1979|61.0|1.0|Communications of The ACM|High level programming for distributed computing
+1980|56.0|4.0|ACM Transactions on Programming Languages and Systems|A Proof System for Communicating Sequential Processes
+1981|60.0|3.0|symposium on operating systems principles|Accent: A communication oriented network operating system kernel
+1982|65.0|3.0|Communications of The ACM|Grapevine: an exercise in distributed computing
+1983|230.0|2.0|Communications of The ACM|Ethernet: distributed packet switching for local computer networks
+1984|42.0|3.0|ACM Transactions on Computer Systems|Computation and communication in R*: a distributed database manager
+1985|105.0|4.0|ACM Transactions on Computer Systems|Distributed snapshots: determining global states of distributed systems
+1986|48.0|3.0|ACM Transactions on Computer Systems|A quorum-consensus replication method for abstract data types
+1987|101.0|3.0|ACM Transactions on Computer Systems|Reliable communication in the presence of failures
+1988|83.0|3.0||iWarp: an integrated solution to high-speed parallel computing
+1989|94.0|2.0|ACM Computing Surveys|Programming languages for distributed computing systems
+1990|195.0|2.0|Annals of Neurology|Largescale neurocognitive networks and distributed processing for attention, language, and memory
+1991|165.0|2.0|ACM Transactions on Computer Systems|Lightweight causal and atomic group multicast
+1992|145.0|2.0|Communications of The ACM|Compiling Fortran D for MIMD distributed-memory machines
+1993|139.0|2.0|Communications of The ACM|The process group approach to reliable distributed computing
+1994|113.0|2.0|The Journal of Neuroscience|Distributed processing of pain and vibration by the human brain
+1995|290.0|2.0|international symposium on computer architecture|The SPLASH-2 programs: characterization and methodological considerations
+1996|177.0|2.0|Journal of the ACM|Unreliable failure detectors for reliable distributed systems
+1997|180.0|2.0|international conference on computer communications|A highly adaptive distributed routing algorithm for mobile wireless networks
+1998|240.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Example-based learning for view-based human face detection
+1999|252.0|3.0|Future Generation Computer Systems|The network weather service: a distributed resource performance forecasting service for metacomputing
+2000|241.0|3.0|ACM Transactions on Computer-Human Interaction|Charting past, present, and future research in ubiquitous computing
+2001|803.0|3.0|high performance computing|The Anatomy of the Grid: Enabling Scalable Virtual Organizations
+2002|512.0|4.0|IEEE Transactions on Wireless Communications|An application-specific protocol architecture for wireless microsensor networks
+2003|687.0|4.0|international world wide web conferences|The Eigentrust algorithm for reputation management in P2P networks
+2004|740.0|4.0|IEEE Transactions on Automatic Control|Consensus problems in networks of agents with switching topology and time-delays
+2005|471.0|3.0|network and parallel computing|Globus toolkit version 4: software for service-oriented systems
+2006|582.0|3.0|IEEE Journal on Selected Areas in Communications|A simple Cooperative diversity method based on network path selection
+2007|904.0|3.0|Proceedings of the IEEE|Consensus and Cooperation in Networked Multi-Agent Systems
+2008|1145.0|2.0|Communications of The ACM|MapReduce: simplified data processing on large clusters
+2009|392.0|2.0|Journal of the American College of Cardiology|Cardiovascular magnetic resonance in myocarditis: A JACC White Paper.
+2010|345.0|3.0|Annals of Internal Medicine|International Consensus Recommendations on the Management of Patients With Nonvariceal Upper Gastrointestinal Bleeding

@@ -1,0 +1,51 @@
+----  Field Name Stereochemistry: 
+----  Field Level 1.0: 
+----  Field Papers Number 2646:
+----  All time max citation paper: Bioactive Microbial Metabolites, 2005, (568.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1963|0|0.0|Angewandte Chemie|Stereochemistry of Displacement Reactions at Phosphorus Atoms
+1964|3.0|3.0|Journal of Molecular Biology|Nucleic acid interactions. V. Effects of cyclobuxine
+1967|0|0.0|Tetrahedron|Mass spectrometry in structural and stereochemical problems. CXXII.
+1968|2.0|1.0|Analytical Biochemistry|The extent of racemization of some amino acids in dilute alkali-treated protein and soil humic and fulvic acid.
+1970|1.0|1.0|Naturwissenschaften|Origin and development of optical activity of organic compounds on the primordial earth
+1971|3.0|1.5|Talanta|U(VI) Complexes of oxine and derivatives
+1972|1.0|0.5||Stereo-enriched poly-alpha-amino acids - Synthesis under postulated prebiotic conditions.
+1973|2.0|1.0|Phytochemistry|Steric course of the tyrosine ammonia-lyase reaction
+1974|34.0|1.0|Geochimica et Cosmochimica Acta|Tri- and tetraterpenoid hydrocarbons in the Messel oil shale
+1975|4.0|2.0|Geochimica et Cosmochimica Acta|Stereoisomers of isovaline in the Murchison meteorite
+1976|11.0|11.0|Phytochemistry|(3 R ,3 R )-astaxanthin from the yeast Phaffia rhodozyma
+1977|18.0|6.0|Geochimica et Cosmochimica Acta|The stereoisomeric composition of phytanyl chains in lipids of Dead Sea sediments
+1978|18.0|6.0|Geochimica et Cosmochimica Acta|The effect of maturation on the configuration of pristane in sediments and petroleum
+1979|9.0|0.0|Journal of Molecular Biology|Visualization of drug-nucleic acid interactions at atomic resolution: VI. Structure of two drug-dinucleoside monophosphate crystalline complexes, ellipticine-5-iodocytidylyl (35) guanosine and 3,5,6,8-tetramethyl-n-methyl phenanthrolinium-5-iodocytidylyl (35) guanosine
+1980|6.0|3.5|Journal of Catalysis|Mechanism of the side-chain alkylation of toluene with methanol
+1981|4.0|3.0|Polymer Journal|Functional polymers. VII. On the C(3)-control of stereochemistry in asymmetric reactions catalyzed by polymeric cinchona alkaloids.
+1982|3.0|1.5|Angewandte Chemie|Basic Principles of the CIPSystem and Proposals for a Revision
+1983|0|0.0|FEBS Letters|Stereochemistry of an ,-elimination reaction by D-glucosaminate dehydratase
+1984|0|0.0|Enzyme and Microbial Technology|Microbial reductions of the sesquiterpene quadrone
+1985|3.0|1.0|Tetrahedron Letters|Absolute stereochemistry of the insect antifeedant cadinene from eupatorium adenophorum
+1986|6.0|1.5|Analytical Biochemistry|Determination of stereochemistry in the fatty acid hydroperoxide products of lipoxygenase catalysis
+1987|6.0|4.0|Chemistry and Physics of Lipids|Vanadium-catalyzed transformation of 13( S )-hydroperoxy-9( Z ), 11( E )-octadecadienoic acid: Structural studies on epoxy alcohols and trihydroxy acids
+1988|9.0|5.0|Phytochemistry|Regaloside A and B, acylated glycerol glucosides from Lilium regale
+1989|27.0|3.0|Magnetic Resonance in Chemistry|Effect of electron lonepairs on nuclear spinspin coupling constants
+1990|2.0|0.0|Archives of Biochemistry and Biophysics|Biosynthesis of monoterpenes: Stereochemistry of the coupled isomerization and cyclization of geranyl pyrophosphate to camphane and isocamphane monoterpenes
+1991|9.0|3.5|International Journal of Biological Macromolecules|Structure, function and flexibility of human lactoferrin
+1992|14.0|4.0|Tetrahedron Letters|A new route to 3-deoxy-d- manno 2-octulosonic acid: felkin-anh rule in radical chemistry
+1993|23.0|3.0|Science|Controlling Chemical Reactivity with Antibodies
+1994|38.0|3.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|Neurotoxicity in Animals Due to Arteether and Artemether
+1995|11.0|2.0|Archives of Biochemistry and Biophysics|Monoterpene synthases from Gymnosperms and angiosperms: Stereospecificity and inactivation by cysteinyl- and arginyl-directed modifying reagents
+1996|14.0|2.0|Organic Geochemistry|Selective biodegradation of extended hopanes to 25-norhopanes in petroleum reservoirs. Insights from molecular mechanics
+1997|12.0|1.0|Journal of Organometallic Chemistry|Cyclobutanone as an electrophile for lithiated phosphine oxides: Internal quench conditions
+1998|6.0|3.0|Phytochemistry|Sesquiterpene hydrocarbons in the liverwort dumortiera hirsuta
+1999|22.0|2.0|Structure|Structure of mammalian ornithine decarboxylase at 1.6  resolution: stereochemical implications of PLP-dependent amino acid decarboxylases
+2000|28.0|3.0|Seminars in Cell & Developmental Biology|Inter-domain crosstalk in the phytochrome molecules
+2001|21.0|3.0|Microbiology|Separation and characterization of individual mycolic acids in representative mycobacteria
+2002|11.0|4.5|Proceedings of the National Academy of Sciences of the United States of America|Configurationally homogeneous diastereomers of a linear hexa(tertiary phosphine): Enantioselective self-assembly of a double-stranded parallel helicate of the type (P)-[Cu3(hexaphos)2](PF6)3
+2003|27.0|3.0|FEBS Journal|Sidechain control of peptide secondary structures
+2004|69.0|3.0|Psychopharmacology|Escitalopram versus citalopram: the surprising role of the R-enantiomer
+2005|127.0|2.0|The Journal of Antibiotics|Bioactive Microbial Metabolites
+2006|35.0|1.0|Phosphorus Sulfur and Silicon and The Related Elements|ONE-POT STEREOSELECTIVE SYNTHESIS OF DIMETHY (2-HYDROXY-4,4-DIMETHYLCYCLOHEX-1-EN-6-ONE-1-YL)-3-(DIPHENYLPHOSPHONATO)BUTANEDIOATE
+2007|30.0|3.0|The Journal of Antibiotics|GriC and GriD Constitute a Carboxylic Acid Reductase Involved in Grixazone Biosynthesis in Streptomyces griseus
+2008|108.0|4.0|European Journal of Medicinal Chemistry|4-Thiazolidinone  A biologically active scaffold
+2009|228.0|6.0|Nature Chemistry|New insights into the structure and reduction of graphite oxide
+2010|299.0|6.0|Nature Chemistry|Graphene oxide as a chemically tunable platform for optical applications

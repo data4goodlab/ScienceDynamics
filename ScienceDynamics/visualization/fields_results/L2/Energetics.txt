@@ -1,0 +1,49 @@
+----  Field Name Energetics: 
+----  Field Level 2.0: 
+----  Field Papers Number 4474:
+----  All time max citation paper: BIOTIC INVASIONS: CAUSES, EPIDEMIOLOGY, GLOBAL CONSEQUENCES, AND CONTROL, 2000, (1577.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1954|2.0|2.0|Meteorology and Atmospheric Physics|A study of the mass, momentum and energy budget of the atmosphere
+1967|4.0|2.0|Planetary and Space Science|Energy changes of cosmic rays in the solar system.
+1970|2.0|2.0|International Journal of Biometeorology|The energy budget of man at high altitudes
+1971|28.0|1.5|Journal of the Marine Biological Association of the United Kingdom|Temperature Acclimation of Mytilus Edulis With Reference to its Energy Budget
+1972|9.0|3.0|BioScience|Stream Ecosystem: Organic Energy Budget
+1973|27.0|3.0|Journal of Geophysical Research|Twilight airglow: 1. Photoelectrons and [O I] 5577Angstrom radiation
+1974|4.0|2.5|Chesapeake Science|An alternate grazing hypothesis for the Patuxent estuary
+1975|12.0|3.0|Journal of Geophysical Research|Topographically generated internal waves in the open ocean
+1976|12.0|3.0|Journal of Applied Physics|Further consideration of the trackinteraction model for thermoluminescence in LiF(TLD100)
+1977|20.0|5.0|Journal of Geophysical Research|Noncompressive density enhancements in the solar wind
+1978|32.0|4.5|Geophysical Research Letters|Parameterized mantle convection and the Earth's thermal history
+1979|22.0|4.0|Icarus|Atmospheric thermal structures of the giant planets
+1980|30.0|5.0|Journal of Geophysical Research|Thermal histories of convective Earth models and constraints on radiogenic heat production in the Earth
+1981|33.0|4.0|Behavioral Ecology and Sociobiology|Energy budgets, risk and foraging preferences in dark-eyed juncos ( Junco hyemalis )
+1982|26.0|2.0|Reviews of Geophysics|The role of metastable species in the thermosphere
+1983|30.0|2.0|Behavioral Ecology and Sociobiology|Time and energy budgets and competition in the common shrew ( Sorex araneus L.)
+1984|33.0|3.0|Journal of Atmospheric and Solar-Terrestrial Physics|Gravity-wave motions in the mesosphere
+1985|27.0|4.5|Journal of Atmospheric and Solar-Terrestrial Physics|Neutral air turbulence in the upper atmosphere observed during the Energy Budget Campaign
+1986|12.0|5.0|Marine Biology|An energy budget for Porites porites (Scleractinia)
+1987|30.0|2.0|Journal of Neurochemistry|Relationships Among ATP Synthesis, K+ Gradients, and Neurotransmitter Amino Acid Levels in Isolated Rat Brain Synaptosomes
+1988|40.0|2.0|Journal of Fluid Mechanics|Reynolds-stress and dissipation rate budgets in a turbulent channel flow
+1989|13.0|3.0|Journal of Geophysical Research|Brittle frictional mountain building: 1. Deformation and mechanical energy budget
+1990|19.0|2.0|Oecologia|The soil fauna of a beech forest on limestone: trophic structure and energy budget.
+1991|25.0|5.0|IEEE Transactions on Vehicular Technology|The land mobile satellite communication channel-recording, statistics, and channel model
+1992|36.0|3.0|Journal of Geophysical Research|Areaaveraged surface fluxes and their timespace variability over the FIFE experimental domain
+1993|20.0|3.0|Journal of Geophysical Research|Experiments revealing small impact of turbulence on the energy budget of the mesosphere and lower thermosphere
+1994|43.0|4.0|Journal of Fluid Mechanics|Velocity measurements in a high-Reynolds-number, momentum-conserving, axisymmetric, turbulent jet
+1995|43.0|2.0|Proteins|The heat capacity of proteins.
+1996|25.0|4.0|Comparative Biochemistry and Physiology Part A: Physiology|Selective advantages conferred by the high performance physiology of tunas, billfishes, and dolphin fish
+1997|62.0|4.0|Nature|Maximal sustained energy budgets in humans and animals
+1998|99.0|4.5|Journal of Molecular Biology|Microbial genome analyses: global comparisons of transport capabilities based on phylogenies, bioenergetics and substrate specificities.
+1999|27.0|5.0|Aquaculture|Feed intake, growth and feed utilization of offspring from wild and selected Atlantic salmon ( Salmo salar )
+2000|175.0|6.0|Ecological Applications|BIOTIC INVASIONS: CAUSES, EPIDEMIOLOGY, GLOBAL CONSEQUENCES, AND CONTROL
+2001|143.0|5.0|Journal of Cerebral Blood Flow and Metabolism|An energy budget for signaling in the grey matter of the brain.
+2002|83.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Metabolic efficiency and amino acid composition in the proteomes of Escherichia coli and Bacillus subtilis
+2003|119.0|6.0|International Journal of Climatology|Two decades of urban climate research: a review of turbulence, exchanges of energy and water, and the urban heat island
+2004|88.0|6.0|Psychological Review|Predicting Risk-Sensitivity in Humans and Lower Animals: Risk as Variance or Coefficient of Variation
+2005|99.0|6.0|Biological Psychiatry|Modeling Attention-Deficit/Hyperactivity Disorder: A Critical Appraisal of the Cognitive-Energetic Model
+2006|195.0|7.0|Journal of Power Sources|High temperature PEM fuel cells
+2007|106.0|6.0|Circulation Research|Nitrite Reductase Function of Deoxymyoglobin Oxygen Sensor and Regulator of Cardiac Energetics and Function
+2008|263.0|7.0|Nature|Improved estimates of upper-ocean warming and multi-decadal sea-level rise
+2009|410.0|8.0|Advanced Materials|EnergyLevel Alignment at Organic/Metal and Organic/Organic Interfaces
+2010|173.0|7.0|Mitochondrion|Energetics, epigenetics, mitochondrial genetics

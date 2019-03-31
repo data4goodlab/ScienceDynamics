@@ -1,0 +1,76 @@
+----  Field Name Analytical chemistry: 
+----  Field Level 1.0: 
+----  Field Papers Number 60566:
+----  All time max citation paper: Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources., 2009, (6860.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1924|1.0|1.0|Journal of Dairy Science|A Quantitative Determination of the Ammonia, Amino Nitrogen, Lactose, Total Acid, and Volatile Acid Content of Cows Milk
+1928|0|0.0|Journal of the American Ceramic Society|THE USE OF 8HYDROXYQUINOLINE FOR THE CHEMICAL ANALYSIS OF SILICATES1
+1933|1.0|0.5|JAMA Pediatrics|EFFECT ON PEPTIC DIGESTION IN VITRO OF ARTIFICIAL FEEDING AS USED FOR AMERICAN INFANTS
+1938|0|0.0|JAMA Pediatrics|HUMAN PASSIVE TRANSFER ANTIBODY: IV. STUDIES ON CHILDREN HYPERSENSITIVE TO FOODS
+1939|5.0|3.0|Journal of Chemical Physics|Application of the Theory of Absolute Reaction Rates to Overvoltage
+1940|6.0|0.0|Journal of Dairy Science|The Comparative Nutritive Value of Butter Fat and Certain Vegetable Oils*
+1944|9.0|9.0|Annals of Applied Biology|Mould deterioration of feedingstuffs in relation to humidity of storage: Part I. The growth of moulds at low humidities
+1946|3.0|2.5|Journal of Chemical Physics|A Test of Langmuir's Interpretation of the JonesRay Effect
+1948|3.0|2.0|Journal of Dairy Science|Simple versus Complex Concentrate Mixtures for Young Breeding Bulls. II. Semen Production1
+1949|1.0|0.0|Analytica Chimica Acta|A review of infrared spectroscopy in analytical chemistry
+1950|7.0|2.0|Australian Veterinary Journal|The low temperature storage of ram, bull and rabbit spermatozoa.
+1951|1.0|1.0|Archives of Biochemistry and Biophysics|Heat inactivation of threonine, glycine, and the acidic amino acids
+1952|6.0|0.0|Journal of Pharmacy and Pharmacology|THE MICROBIOLOGICAL ASSAY OF VITAMIN B12 IN CRUDE LIVER EXTRACTS
+1953|7.0|1.5|Journal of Chemical Physics|The Decomposition of Nitrate Crystals by Ionizing Radiations
+1954|4.0|1.0|Archives of Biochemistry and Biophysics|Studies on biosynthesis of carotenoids in Neurospora crassa
+1955|4.0|3.0|Biochimica et Biophysica Acta|Amino-acid composition of human crystallized myoglobin and haemoglobin
+1957|10.0|2.5|Biochimica et Biophysica Acta|Identification and quantitative determination of keto acids by paper chromatography.
+1958|12.0|1.5|Journal of Chemical Physics|Kinetic Studies of Hydroxyl Radicals in Shock Waves. I. The Decomposition of Water between 2400 and 3200K
+1959|25.0|2.0|Biochimica et Biophysica Acta|Analysis of human plasma phosphatides by paper chromatography.
+1960|20.0|2.0|Nature|Gas chromatography of unesterified fatty acids using polyester columns treated with phosphoric acid.
+1961|16.0|4.0|Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy|Performance of a simple atomic absorption spectrophotometer
+1962|11.0|2.0|Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy|A review of recent work in atomic absorption spectroscopy
+1963|27.0|3.0|Virology|Biochemical studies on adenovirus multiplication: IV. Isolation, purification, and chemical analysis of adenovirus
+1964|13.0|2.0|Journal of Geophysical Research|Origin of diamonds in the canyon diablo and novo urei meteorites
+1965|27.0|2.0|Geochimica et Cosmochimica Acta|Minor and trace element abundances in chondritic meteorites.
+1966|11.0|3.0|Analytical Biochemistry|Estimation of sulfur in biological materials by atomic absorption spectrometry
+1967|29.0|2.0|Geochimica et Cosmochimica Acta|Organic constituents of meteorites - a review.
+1968|40.0|2.0|Geochimica et Cosmochimica Acta|Origin of organic matter in early solar system. I - Hydrocarbons.
+1969|33.0|2.0|Analytica Chimica Acta|Atomic absorption and fluorescence spectroscopy with a carbon filament atom reservoir: Part I. Construction and operation of atom reservoir
+1970|56.0|1.0|Geochimica et Cosmochimica Acta|Chemical fractionations in meteoritesIII. Major element fractionations in chondrites
+1971|43.0|2.0|Journal of Geophysical Research|The origin of metalbearing submarine hydrothermal solutions
+1972|27.0|2.0|Geochimica et Cosmochimica Acta|Chemical fractionations in meteorites. V - Volatile and siderophile elements in achondrites and ocean ridge basalts.
+1973|102.0|1.0|Thin Solid Films|Principles and applications of ion beam techniques for the analysis of solids and thin films
+1974|32.0|1.0|Geochimica et Cosmochimica Acta|Distribution coefficients of Eu and Sr for plagioclase-liquid and clinopyroxene-liquid equilibria in oceanic ridge basalt: an experimental study
+1975|40.0|2.0|Analytical Biochemistry|Assay of picomole amounts of ATP, ADP, and AMP using the luciferase enzyme system
+1976|86.0|2.0|Geophysical Research Letters|Nd isotopic variations and petrogenetic models
+1977|62.0|2.0|Journal of Geophysical Research|Geochemical and mineralogical interpretation of the Viking inorganic chemical results
+1978|32.0|2.0|Atmospheric Environment|Chemical properties of tropospheric sulfur aerosols
+1979|47.0|3.0|Earth and Planetary Science Letters|Effects of biological sediment mixing on the 210 Pb chronology and trace metal distribution in a Long Island Sound sediment core
+1980|57.0|3.0|Analytica Chimica Acta|Flow injection analysis. principles, applications and trends
+1981|206.0|2.0|Cell|Interaction of cytoskeletal proteins on the human erythrocyte membrane
+1982|27.0|2.0|Cell|Ds controlling elements of maize at the shrunken locus are large and dissimilar insertions
+1983|42.0|2.0|Cancer Research|Formation of DNA Adducts in Vitro and in Salmonella typhimurium upon Metabolic Reduction of the Environmental Mutagen 1-Nitropyrene
+1984|53.0|2.0|Cell|The nucleotide sequence of the maize controlling element Activator
+1985|41.0|1.0|Nature|A 150,000-year climatic record from Antarctic ice
+1986|57.0|2.0|Journal of Immunological Methods|An improved colorimetric assay for interleukin 2.
+1987|241.0|2.0|Science|Human retinoblastoma susceptibility gene: cloning, identification, and sequence
+1988|96.0|2.0|FEBS Journal|A new siliconized-glass fiber as support for protein-chemical analysis of electroblotted proteins.
+1989|214.0|2.0|Geochimica et Cosmochimica Acta|Abundances of the elements - Meteoritic and solar
+1990|46.0|2.0|Chemosphere|Determination and occurrence of AHH-active polychlorinated biphenyls, 2,3,7,8-tetrachloro-p-dioxin and 2,3,7,8-tetrachlorodibenzofuran in Lake Michigan sediment and biota. The question of their relative toxicological significance
+1991|215.0|2.0|Science|Complementary DNA sequencing: expressed sequence tags and human genome project
+1992|57.0|2.0|Journal of Catalysis|Synthesis gas formation by direct oxidation of methane over Pt monoliths
+1993|66.0|2.0|Genetics|The effect of deleterious mutations on neutral molecular variation
+1994|46.0|2.0|Geochimica et Cosmochimica Acta|Terrestrial organic carbon contributions to sediments on the Washington margin
+1995|59.0|2.0|IEEE Transactions on Software Engineering|Formal specification and analysis of software architectures using the chemical abstract machine model
+1996|174.0|3.0|Applied and Environmental Microbiology|Bias caused by template annealing in the amplification of mixtures of 16S rRNA genes by PCR.
+1997|73.0|3.0|Nucleic Acids Research|Rapid quantitation of methylation differences at specific sites using methylation-sensitive single nucleotide primer extension (Ms-SNuPE)
+1998|169.0|3.0|Proceedings of the IEEE|Blind signal separation: statistical principles
+1999|470.0|4.0|Nature Biotechnology|Quantitative analysis of complex protein mixtures using isotope-codedaffinity tags
+2000|552.0|5.0|Nature|Proteomics to study genes and genomes.
+2001|251.0|5.0|Nature Biotechnology|Quantitative profiling of differentiation-induced microsomal proteins using isotope-coded affinity tags and mass spectrometry.
+2002|135.0|5.0|mobile ad hoc networking and computing|On the minimum node degree and connectivity of a wireless multihop network
+2003|180.0|5.0|Annual Review of Biomedical Engineering|Physics and Applications of Microfluidics in Biology
+2004|276.0|6.0|Applied Physics Letters|Fabrication and ethanol sensing characteristics of ZnO nanowire gas sensors
+2005|193.0|6.0|Bioresource Technology|Coordinated development of leading biomass pretreatment technologies.
+2006|335.0|5.0|Nature Protocols|In-gel digestion for mass spectrometric characterization of proteins and proteomes
+2007|1029.0|6.0|Nature Protocols|Locating proteins in the cell using TargetP, SignalP and related tools.
+2008|2058.0|7.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|8.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|1420.0|8.0|Nature Protocols|I-TASSER: a unified platform for automated protein structure and function prediction

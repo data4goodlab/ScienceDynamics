@@ -1,0 +1,28 @@
+----  Field Name Product management: 
+----  Field Level 2.0: 
+----  Field Papers Number 1072:
+----  All time max citation paper: Developing multi-agent systems with a FIPA-compliant agent framework, 2001, (262.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1977|0|0.0|ACM Sigcpr Computer Personnel|Engineering processes in managing software system development
+1982|0|0.0|Decision Sciences|RADIOISOTOPE PRODUCTION SCHEDULING IN A NUCLEAR REACTOR
+1990|7.0|7.0|IEEE Transactions on Software Engineering|The evolution support environment system
+1991|9.0|5.0|ACM Sigsoft Software Engineering Notes|A conceptual model for megaprogramming
+1992|13.0|0.0|Communications of The ACM|A visual software process language
+1993|12.0|12.0|IEEE Software|Concurrent-development process model
+1994|3.0|1.5|Structural Safety|Reliability-based bridge design and life cycle management with Markov decision processes
+1995|0|0.0||Information Integration for Concurrent Engineering (IICE) Compendium of Methods Report
+1996|3.0|2.0||Software Risk Management.
+1997|4.0|2.0|Journal of Industrial Ecology|A Framework for Information Systems in LifeCycleOriented Environmental Management
+1999|14.0|2.0|data engineering for wireless and mobile access|MOCA: a service framework for mobile computing devices
+2000|12.0|1.0||Survivable Network Analysis Method
+2001|113.0|6.0|Software - Practice and Experience|Developing multi-agent systems with a FIPA-compliant agent framework
+2002|10.0|4.0||Guidelines for Developing a Product Line Production Plan
+2003|20.0|11.5|Advanced Engineering Informatics|Watchdog Agentan infotronics-based prognostics approach for product performance degradation assessment and prediction
+2004|44.0|9.5|Marketing Science|Growing, Growing, Gone: Cascades, Diffusion, and Turning Points in the Product Life Cycle
+2005|36.0|2.0|Journal of Cleaner Production|Assessing the sustainability performances of industries
+2006|60.0|4.0|Journal of Industrial Ecology|Sustainability Constraints as System Boundaries: An Approach to Making LifeCycle Management Strategic
+2007|56.0|3.0|Requirements Engineering|Disambiguating the Documentation of Variability in Software Product Lines: A Separation of Concerns, Formalization and Automated Analysis
+2008|37.0|4.0|Computers & Industrial Engineering|Quality function deployment implementation based on Fuzzy Kano model: An application in PLM system
+2009|118.0|4.0|Computers in Industry|Intelligent Products: A survey
+2010|70.0|6.0|Journal of Brand Management|Toward a theory of brand co-creation with implications for brand governance|[emsp]|

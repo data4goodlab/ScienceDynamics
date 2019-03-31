@@ -1,0 +1,56 @@
+----  Field Name Thin-layer chromatography: 
+----  Field Level 2.0: 
+----  Field Papers Number 5276:
+----  All time max citation paper: The Nuclear DNA Base 5-Hydroxymethylcytosine Is Present in Purkinje Neurons and the Brain, 2009, (989.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1961|21.0|14.5|Biochemical and Biophysical Research Communications|A comparison between thin-layer chromatography and paper chromatography of nucleic acid derivatives
+1962|3.0|1.5|Journal of the American Oil Chemists' Society|New methods of analyzing industrial aliphatic lipids
+1963|18.0|5.0|Journal of the American Oil Chemists' Society|Lipid composition of beef brain, beef liver, and the sea anemone: Two approaches to quantitative fractionation of complex lipid mixtures
+1964|25.0|3.0|Journal of Dairy Science|Structure of Milk Fat Triglycerides1
+1965|22.0|2.0|Analytical Biochemistry|Separation of phosphate esters by thin-layer chromatography and electrophoresis
+1966|17.0|2.0|Lipids|Reactions of dimethyl sulfoxide with sulfonate esters of fatty alcohols. I. Synthesis of higher saturated and unsaturated fatty aldehydes
+1967|18.0|2.0|Journal of Chromatography A|Quantitative thin layer chromatography of lipids
+1968|13.0|1.0|Analytical Biochemistry|Analysis of polyamines by thin-layer chromatography
+1969|26.0|1.5|Journal of Chromatography A|Quantitative densitometric thin-layer chromatography of lipids using copper acetate reagent
+1970|35.0|1.0|Histochemistry and Cell Biology|Amine mechanisms in entero-chromaffin and enterochromaffin-like cells of gastric mucosa in various mammals.
+1971|26.0|1.0|Brain Research|Quaking mouse: In vitro studies of brain sphingolipid biosynthesis
+1972|30.0|1.0|Journal of Lipid Research|Gangliosides of human, bovine, and rabbit plasma
+1973|14.0|0.0|European Journal of Clinical Investigation|Positive Correlation of Serum Lecithin: Cholesterol Acyltransferase Activity with Relative Body Weight
+1974|61.0|1.0|Analytical Biochemistry|Micropolyamide thin-layer chromatography of phenylthiohydantoin amino acids (PTH) at subnanomolar level. A rapid microtechnique for simultaneous multisample identification after automated Edman degradations
+1975|23.0|1.5|Journal of Phycology|CHLOROPLAST PIGMENT PATTERNS IN DINOFLAGELLATES1
+1976|17.0|2.0|Prostaglandins|The behaviour of the pulmonary metabolites of prostaglandins in several simple thin-layer chromatography and bioassay systems
+1977|24.0|1.0|Prostaglandins|Differential separation of thromboxanes from prostaglandins by one and two-dimensional thin layer chromatography
+1978|25.0|1.0|Journal of the Neurological Sciences|Multiple specificities of antibrain antibodies in multiple sclerosis and chronic myelopathy
+1979|25.0|1.0|Journal of Investigative Dermatology|Arachidonic Acid Transformations in Normal and Psoriatic Skin
+1980|25.0|1.0|Brain Research|TRH immunoreactivity in rat brain regions, spinal cord and pancreas: validation by high-pressure liquid chromatography and thin-layer chromatography
+1981|15.0|1.0|Analytical Biochemistry|Study of ganglioside patterns with two-dimensional thin-layer chromatography and radioautography; Detection of new fucogangliosides and other minor species in rabbit brain
+1982|29.0|1.0|The Journal of Allergy and Clinical Immunology|Measurement of plasma histamine: description of an improved method and normal values
+1983|24.0|1.0|Chemosphere|Identification of arsenobetaine in sole, lemon sole, flounder, dab, carb and shrimps by field desorption and fast atom bombardment mass spectrometry
+1984|26.0|2.0|Journal of Investigative Dermatology|Biosynthesis of Lipoxygenase Products by Enzyme Preparations from Normal and Psoriatic Skin
+1985|25.0|2.0|Analytical Biochemistry|Microanalysis of complex tissue lipids by high-performance thin-layer chromatography
+1986|37.0|2.0|Analytical Biochemistry|Reversible staining and peptide mapping of proteins transferred to nitrocellulose after separation by sodium dodecylsulfate-polyacrylamide gel electrophoresis
+1987|20.0|1.0|Lipids|Enteral absorption in man of eicosapentaenoic acid in different chemical forms.
+1988|24.0|2.0|Planta|A monoclonal antibody to (S)-abscisic acid: its characterisation and use in a radioimmunoassay for measuring abscisic acid in crude extracts of cereal and lupin leaves
+1989|20.0|1.0|Lipids|Molecular species of glycerophospholipids and sphingomyelins of human erythrocytes: improved method of analysis.
+1990|35.0|2.0|Journal of Chromatography A|Recent developments in the chromatographic analysis of carbohydrates
+1991|48.0|1.5|Journal of Investigative Dermatology|Decreased Level of Ceramides in Stratum Corneum of Atopic Dermatitis: An Etiologic Factor in Atopic Dry Skin?
+1992|14.0|2.0|Journal of Investigative Dermatology|Mechanism of Androgen Action in Cultured Dermal Papilla Cells Derived from Human Hair Follicles with Varying Responses to Androgens In Vivo
+1993|32.0|2.0|Journal of Investigative Dermatology|Characterization, Barrier Function, and Drug Metabolism of an In Vitro Skin Model
+1994|16.0|2.0|Kidney International|Nitric oxide synthase: An endogenous source of elevated nitrite in infected urine
+1995|39.0|2.0|FEBS Letters|Occurrence and postmortem generation of anandamide and other long-chain N-acylethanolamines in mammalian brain
+1996|31.0|3.0|Journal of Investigative Dermatology|Abnormal Expression of Sphingomyelin Acylase in Atopic Dermatitis: An Etiologic Factor for Ceramide Deficiency?
+1997|65.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Detecting and characterizing N-acyl-homoserine lactone signal molecules by thin-layer chromatography
+1998|34.0|3.0|Journal of Bacteriology|Effect of slow growth on metabolism of Escherichia coli, as revealed by global metabolite pool ("metabolome") analysis.
+1999|32.0|2.0|Analytical Biochemistry|An Improved Method for the Measurement of Urinary and Plasma F 2 -Isoprostanes Using Gas ChromatographyMass Spectrometry
+2000|44.0|3.5|Food and Chemical Toxicology|Analysis of 200 food items for benzo[ a ]pyrene and estimation of its intake in an epidemiologic study
+2001|68.0|5.0|Journal of Chromatography A|Chiral separations using the macrocyclic antibiotics : a review
+2002|54.0|4.0|Applied and Environmental Microbiology|Mechanisms for Accessing Insoluble Fe(III) Oxide during Dissimilatory Fe(III) Reduction by Geothrix fermentans
+2003|68.0|5.0|Analytical Biochemistry|Global metabolite analysis: the influence of extraction methodology on metabolome profiles of Escherichia coli
+2004|149.0|6.0|The Plant Cell|The Oxylipin Signal Jasmonic Acid Is Activated by an Enzyme That Conjugates It to Isoleucine in Arabidopsis
+2005|51.0|7.0|Phytotherapy Research|Metabolomics in the context of systems biology: bridging traditional Chinese medicine and molecular pharmacology
+2006|124.0|3.0|Journal of Chromatography A|Analytical separation and detection methods for flavonoids
+2007|126.0|3.5|Food Chemistry|A review: Current analytical methods for the determination of biogenic amines in foods
+2008|85.0|7.0|Journal of Chromatography A|Implementations of two-dimensional liquid chromatography
+2009|836.0|6.0|Science|The Nuclear DNA Base 5-Hydroxymethylcytosine Is Present in Purkinje Neurons and the Brain
+2010|126.0|5.0|Progress in Lipid Research|An update of MALDI-TOF mass spectrometry in lipid research

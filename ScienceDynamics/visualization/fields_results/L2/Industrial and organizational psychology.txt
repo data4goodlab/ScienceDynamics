@@ -1,0 +1,54 @@
+----  Field Name Industrial and organizational psychology: 
+----  Field Level 2.0: 
+----  Field Papers Number 25868:
+----  All time max citation paper: Dynamic capabilities and strategic management, 1997, (7974.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1951|0|0.0|Personnel Psychology|Worker Popularity and Job Satisfaction*
+1955|0|0.0|Psychological Bulletin|Employee attitudes and employee performance
+1963|1.0|0.5|Acta Psychologica|Progress and problems in the measurement of individual differences in on-the-job performance
+1966|2.0|2.0|Personnel Psychology|JOB SATISFACTION: ISSUES AND PROBLEMS1
+1967|15.0|11.0|Organizational Behavior and Human Performance|Factors contributing to job satisfaction and job dissatisfaction in six occupational groups
+1968|6.0|6.0|Personnel Psychology|A REPLICATED STUDY OF JOB SATISFACTION DIMENSIONS
+1969|10.0|6.5|Personnel Psychology|MULTIPLE IMPACTS OF ORGANIZATIONAL CLIMATE AND INDIVIDUAL VALUE SYSTEMS UPON JOB SATISFACTION
+1970|3.0|2.0|Educational and Psychological Measurement|Some Principles of Interest Measurement
+1971|12.0|5.0|Journal of Vocational Behavior|Holland's Vocational Models: A Study of Work Groups and Need Satisfaction.
+1972|6.0|2.0|Journal of Vocational Behavior|Vocational Choice, Level, and Consistency: An Investigation of Holland's Theory on an Employed Sample.
+1973|26.0|1.0|Organizational Behavior and Human Performance|The effects of organizational climate on managerial job performance and job satisfaction
+1974|11.0|1.5|Organizational Behavior and Human Performance|Toward a contingency theory of leadership based upon the consideration and initiating structure literature
+1975|14.0|3.0|Personnel Psychology|ORGANIZATIONAL CLIMATES: AN ESSAY1
+1976|65.0|2.0|Organizational Behavior and Human Performance|Motivation through the design of work: test of a theory
+1977|17.0|1.0|Psychological Bulletin|Review and Conceptual Analysis of the Employee Turnover Process.
+1978|11.0|1.0|Memory & Cognition|Detection errors on the word the : Evidence for the acquisition of reading levels
+1979|48.0|2.0|Child Development|Continuity of Individual Adaptation from Infancy to Kindergarten: A Predictive Study of Ego-Resiliency and Curiosity in Preschoolers.
+1980|15.0|2.0|Accounting Organizations and Society|The contingency theory of management accounting: achievement and prognosis
+1981|73.0|3.0|Behavioral and Brain Sciences|Can human irrationality be experimentally demonstrated?
+1982|23.0|2.0|Journal of Economic Theory|Predation, Reputation, and Entry Deterrence
+1983|58.0|2.0|Journal of Personality and Social Psychology|Assessing social support: The Social Support Questionnaire
+1984|50.0|2.0|Psychological Bulletin|Validity and utility of alternative predictors of job performance
+1985|28.0|2.0|Journal of Applied Psychology|Stability in the midst of change: A dispositional approach to job attitudes.
+1986|33.0|2.0|Journal of Vocational Behavior|Cognitive Ability, Cognitive Aptitudes, Job Knowledge, and Job Performance.
+1987|41.0|3.0|Personnel Psychology|THE PEOPLE MAKE THE PLACE
+1988|32.0|2.0|Journal of Educational and Behavioral Statistics|Educational Applications of Hierarchical Linear Models: A Review
+1989|30.0|3.0|Journal of Applied Psychology|Job Satisfaction: Environmental and Genetic Components
+1990|24.0|2.0|Leadership Quarterly|Transformational leader behaviors and their effects on followers' trust in leader, satisfaction, and organizational citizenship behaviors
+1991|92.0|2.0|Personnel Psychology|THE BIG FIVE PERSONALITY DIMENSIONS AND JOB PERFORMANCE: A METAANALYSIS
+1992|33.0|1.0|Strategic Management Journal|Organizational Alignment as Competitive Advantage
+1993|54.0|2.0|Child Development|Age and Gender Differences in Children's Self- and Task Perceptions during Elementary School.
+1994|43.0|2.0|Biometrics|A random-effects ordinal regression model for multilevel analysis.
+1995|43.0|2.0|Personnel Psychology|A METAANALYTIC REVIEW OF ATTITUDINAL AND DISPOSITIONAL PREDICTORS OF ORGANIZATIONAL CITIZENSHIP BEHAVIOR
+1996|52.0|2.0|Psychological Bulletin|An integrative framework for explaining reactions to decisions: interactive effects of outcomes and procedures.
+1997|470.0|3.0|Strategic Management Journal|Dynamic capabilities and strategic management
+1998|146.0|3.0|Psychological Bulletin|The validity and utility of selection methods in personnel psychology : Practical and theoretical implications of 85 years of research findings
+1999|107.0|4.5|Administrative Science Quarterly|Exploring the Black Box: An Analysis of Work Group Diversity, Conflict and Performance
+2000|178.0|5.0|Child Development|The Construct of Resilience: A Critical Evaluation and Guidelines for Future Work.
+2001|169.0|5.0|Journal of Applied Psychology|Justice at the millennium : A meta-analytic review of 25 years of organizational justice research
+2002|254.0|5.5|JAMA|Defining and Assessing Professional Competence
+2003|227.0|7.0|Journal of Personality and Social Psychology|The benefits of being present: mindfulness and its role in psychological well-being.
+2004|143.0|7.0|Journal of Applied Psychology|Transformational and transactional leadership: A meta-analytic test of their relative validity
+2005|133.0|7.0|Journal of Experimental Psychology: General|Moderators of the Relationship between Implicit and Explicit Evaluation.
+2006|197.0|7.0|BMC Health Services Research|The Safety Attitudes Questionnaire: psychometric properties, benchmarking data, and emerging research
+2007|323.0|7.0|Journal of Educational and Behavioral Statistics|Computational tools for probing interaction effects in multiple linear regression, multilevel modeling, and latent curve analysis
+2008|2294.0|6.0|Behavior Research Methods|Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple mediator models
+2009|345.0|7.0|Human Performance|Organizational Citizenship Behavior: It's Construct Clean-Up Time
+2010|376.0|7.0|European Journal of Work and Organizational Psychology|Two Decades of Research and Development in Transformational Leadership

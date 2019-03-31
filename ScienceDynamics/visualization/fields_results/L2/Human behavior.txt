@@ -1,0 +1,56 @@
+----  Field Name Human behavior: 
+----  Field Level 2.0: 
+----  Field Papers Number 5546:
+----  All time max citation paper: Self -Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and well-Being, 2000, (5593.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1955|0|0.0|Psychometrika|On the design of automata and the interpretation of cerebral behavior
+1960|3.0|2.0|Communications of The ACM|An introduction to information processing language V
+1961|2.0|1.0||Modeling human mental processes
+1962|1.0|1.0|Current Anthropology|Health and Human Behavior: Areas of Interest Common to the Social and Medical Sciences
+1964|0|0.0|Public Health|A pilot study of predisposing factors affecting the incidence of upper respiratory disease in a royal air force boy entrants school
+1965|1.0|1.0||Human decision making under uncertainty and risk: computer-based experiments and a heuristic simulation program
+1966|0|0.0|Pastoral Psychology|Recent empirical studies of religious conversion experiences
+1967|0|0.0||Computer applications in political science
+1969|3.0|2.0|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|Linear and nonlinear models of the human controller
+1970|6.0|3.5|JAMA|Coronary-prone individuals (type A behavior pattern). Some biochemical characteristics.
+1971|2.0|1.0||A control-theory model for human decision-making
+1972|16.0|8.5|Psychological Review|Complexity and the representation of patterned sequences of symbols
+1973|63.0|0.0|Psychological Review|Situationism in psychology: an analysis and a critique.
+1974|5.0|1.0|Psychopharmacology|Assessment of effects of ethanol self-administration on social interactions in alcoholics
+1975|30.0|2.0|Human Ecology|Is a cultural ethology possible?
+1976|27.0|2.0|International Journal of Psychology|Comparative research methodology: Crosscultural studies
+1977|15.0|3.0|Psychological Bulletin|Genotype-environment interaction and correlation in the analysis of human behavior.
+1978|18.0|1.5|Heredity|Model-fitting approaches to the analysis of human behaviour.
+1979|10.0|2.0|Human Genetics|The electroencephalogram (EEG) as a research tool in human behavior genetics: psychological examinations in healthy males with various inherited EEG variants. I. Rationale of the study. Material. Methods. Heritability of test parameters.
+1980|38.0|1.5|The Lancet|Frequency of alcohol consumption and morbidity and mortality: the Yugoslavia Cardiovascular Disease Study.
+1981|23.0|4.0|The Lancet|BIOLOGICAL EFFECTS OF SEXUAL FREEDOM
+1982|34.0|2.0|Psychological Bulletin|Control theory: a useful conceptual framework for personality-social, clinical, and health psychology.
+1983|26.0|4.0|Dialectica|Human Behaviour and Biology
+1984|23.0|2.0|Behavioral and Brain Sciences|Theories and human behavior
+1985|8.0|1.0|Journal of Experimental Child Psychology|Children's Reasoning about the Causes of Human Behavior.
+1986|11.0|2.5|Journal of Economic Psychology|Human behavior: possibilities explain action
+1987|34.0|1.0|Ethology and Sociobiology|The problem of adaptation in the study of human behavior
+1988|33.0|4.0|American Anthropologist|Does Biology Constrain Culture?
+1989|25.0|1.0|international conference on computer graphics and interactive techniques|Simulation of object and human skin formations in a grasping task
+1990|347.0|4.0|Cognitive Science|Finding Structure in Time
+1991|33.0|3.0|Artificial Intelligence|Approaches to the study of intelligence
+1992|18.0|2.0|International Journal of Eating Disorders|Body images, body-size perceptions, and eating behaviors among African-American and white college women
+1993|114.0|2.5|JAMA Neurology|Frontal-subcortical circuits and human behavior.
+1994|62.0|2.0|Behavioral and Brain Sciences|Reintroducing group selection to the human behavioral sciences
+1995|12.0|2.0|Emerging Infectious Diseases|Travel and the emergence of infectious diseases.
+1996|49.0|2.0|Journal of Personality and Social Psychology|The Ambivalent Sexism Inventory : Differentiating hostile and benevolent sexism
+1997|62.0|3.0|The Journal of Neuroscience|Recalling routes around london: activation of the right hippocampus in taxi drivers.
+1998|74.0|3.0|Journal of Economic Perspectives|Learning from the behavior of others : conformity, fads, and informational cascades
+1999|147.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Right hemispheric dominance of inhibitory control: An event-related functional MRI study
+2000|320.0|5.0|American Psychologist|Self -Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and well-Being
+2001|329.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|A default mode of brain function
+2002|128.0|4.5|American Journal of Preventive Medicine|How the built environment affects physical activity: Views from urban planning
+2003|216.0|5.0|Pattern Recognition|Recent developments in human motion analysis
+2004|459.0|6.0|BMJ|Mortality in relation to smoking: 50 years' observations on male British doctors
+2005|424.0|6.5|Neuron|Contributions of the Amygdala to Emotion Processing: From Animal Models to Human Behavior
+2006|255.0|5.0|Annual Review of Public Health|AN ECOLOGICAL APPROACH TO CREATING ACTIVE LIVING COMMUNITIES
+2007|202.0|6.0|Neuron|Intrinsic Fluctuations within Cortical Systems Account for Intertrial Variability in Human Behavior
+2008|390.0|5.0|Nature Reviews Neuroscience|A framework for studying the neurobiology of value-based decision making.
+2009|264.0|6.0|Journal of Environmental Psychology|Encouraging pro-environmental behaviour: An integrative review and research agenda
+2010|251.0|8.0|Science|A Genetic Variant BDNF Polymorphism Alters Extinction Learning in Both Mouse and Human

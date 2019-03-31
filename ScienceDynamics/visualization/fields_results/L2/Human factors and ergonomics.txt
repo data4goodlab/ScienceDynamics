@@ -1,0 +1,75 @@
+----  Field Name Human factors and ergonomics
+----  Field Level 2.0
+----  Field Papers Number 114839
+----  All time max citation paper The theory of planned behavior, 1991, (6275.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1917|0|0.0|Journal of Criminal Law & Criminology|A Bibliography on the Relations of Crime and Feeble-Mindedness
+1918|0|0.0|JAMA|Changes in the Brain in Gas (Carbon Monoxid) Poisoning
+1922|0|0.0|JAMA Internal Medicine|Biochemical Studies in a Fatal Case of Methyl Alcohol Poisoning
+1938|0|0.0|The Journal of Psychology|Imagination and Will
+1941|3.0|0.0|JAMA Pediatrics|STATURE AND WEIGHT OF CHILDREN OF THE UNITED STATES: WITH REFERENCE TO THE INFLUENCE OF RACIAL, REGIONAL, SOCIOECONOMIC AND SECULAR FACTORS
+1947|3.0|3.0|Archives of Ophthalmology|OCULAR INJURY DUE TO SULFUR DIOXIDE: II. Experimental Study and Comparison with Ocular Effects of Freezing
+1948|3.0|2.0|American Journal of Surgery|Observations of burn scars sustained by atomic bomb survivors: A preliminary study
+1949|19.0|0.0|Electroencephalography and Clinical Neurophysiology|Effect upon the EEG of acute injury to the brain stem activating system
+1950|4.0|1.0|Eos, Transactions American Geophysical Union|Nearshore water circulation related to bottom topography and wave refraction
+1951|4.0|1.5|American Heart Journal|Factors influencing the T wave of the electrocardiogram: II. Effects of drinking iced water
+1952|6.0|1.0|American Heart Journal|Isolated traumatic rupture of the interventricular septum due to blunt force
+1953|5.0|1.0|The Journal of Pediatrics|Transcutaneous absorption of boric acid
+1954|2.0|1.0|Journal of Neurosurgery|The syndrome of acute central cervical spinal cord injury; with special reference to the mechanisms involved in hyperextension injuries of cervical spine
+1955|3.0|1.0|The New England Journal of Medicine|Therapeutic factors in survival after lethal cholinesterase inhibition by phosphorus insecticides
+1956|5.0|1.0|JAMA Internal Medicine|THE MANIFESTATIONS AND TREATMENT OF POISONING DUE TO NERVE GAS AND OTHER ORGANIC PHOSPHATE ANTICHOLINESTERASE COMPOUNDS
+1957|8.0|2.0|Psychiatric Quarterly|Psychiatric implications of brain damage in children
+1958|4.0|1.0|JAMA Pediatrics|Acute poisoning with oil of wintergreen treated by exchange transfusion
+1959|3.0|1.0|American Journal of Public Health|Some Clinical Considerations in the Prevention of Suicide Based on a Study of 134 Successful Suicides
+1960|5.0|1.0|JAMA Pediatrics|Studies on Acute Iron Poisoning
+1961|9.0|1.0|The Journal of Abnormal and Social Psychology|Transmission of Aggression Through Imitation of Aggressive Models
+1962|20.0|1.0|Annals of the New York Academy of Sciences|ON CURRENT STATUS OF SEROTONIN AS A BRAIN NEUROHORMONE AND IN ACTION OF RESERPINELIKE DRUGS
+1963|7.0|2.0||The determination of organophosphate pesticides and their residues by paper chromatography
+1964|3.0|1.0|Acta Neurochirurgica|Electroencephalograms during coma
+1965|11.0|1.0|Toxicology and Applied Pharmacology|A toxicologic study of dimethyl sulfoxide
+1966|13.0|1.0|Acta Psychologica|The Stroop color-word test: a review
+1967|14.0|2.0|Acta Psychologica|Short term memory systems in human information processing
+1968|32.0|2.0|The New England Journal of Medicine|Alcohol-induced hepatic injury in nonalcoholic volunteers
+1969|15.0|2.0|Mutation Research|Factors influencing chromosome aberration yields in the human peripheral leukocyte system
+1970|59.0|1.0|Organizational Behavior and Human Performance|Comparison of Bayesian and regression approaches to the study of information processing in judgment
+1971|69.0|2.0|The New England Journal of Medicine|Digitalis intoxication. A prospective clinical study with serum level correlations.
+1972|33.0|2.0|Behavioral Biology|Intracranial chemical injection and behavior: a critical review
+1973|38.0|1.0|Archives of General Psychiatry|Alcohol problems in adoptees raised apart from alcoholic biological parents.
+1974|20.0|2.0|Journal of Neurochemistry|A STUDY OF SELECTED CATECHOLAMINE METABOLIZING ENZYMES: A COMPARISON OF DEPRESSIVE SUICIDES AND ALCOHOLIC SUICIDES WITH CONTROLS1
+1975|51.0|2.0|Acta Psychologica|Generalized and lateralized effects of concurrent verbal rehearsal upon performance of sequential movements of the fingers by the left and right hands
+1976|38.0|1.0|The New England Journal of Medicine|Effect of alcohol (ethanol) administration on sex-hormone metabolism in normal men
+1977|63.0|2.0|Animal Behaviour|Attack and defensive behaviour in the albino rat
+1978|34.0|2.0|ACM Transactions on Database Systems|Improving the human factors aspect of database interactions
+1979|37.0|2.0|Child Development|Social interactions of young abused children: approach, avoidance, and aggression
+1980|46.0|2.0|Communications of The ACM|The keystroke-level model for user performance time with interactive systems
+1981|83.0|2.0|Psychiatry Research-neuroimaging|Platelet MAO activity and monoamine metabolites in cerebrospinal fluid in depressed and suicidal patients and in healthy controls
+1982|47.0|2.0|The New England Journal of Medicine|Treatment of life-threatening digitalis intoxication with digoxin-specific Fab antibody fragments: experience in 26 cases
+1983|155.0|3.0|Acta Psychologica|Towards a model of stress and human performance
+1984|90.0|2.0|Nature|Characterization of the human factor VIII gene
+1985|43.0|2.0|ACM Transactions on Information Systems|A prototype electronic encyclopedia
+1986|39.0|3.0|Archives of General Psychiatry|Increased Serotonin2 and -Adrenergic Receptor Binding in the Frontal Cortices of Suicide Victims
+1987|77.0|3.0|Journal of Experimental Psychology: Human Perception and Performance|Visual guidance of walking through apertures: body-scaled information for affordances
+1988|108.0|2.0|The New England Journal of Medicine|Risk factors for falls among elderly persons living in the community
+1989|60.0|2.0|The New England Journal of Medicine|A case-control study of the effectiveness of bicycle safety helmets
+1990|119.0|3.0|Journal of Experimental Psychology: Human Perception and Performance|Abrupt visual onsets and selective attention: voluntary versus automatic allocation
+1991|60.0|3.0|Journal of Interpersonal Violence|Psychopathy and Violence in Criminals
+1992|157.0|2.0|Applied Physics Letters|Combined shear force and nearfield scanning optical microscopy
+1993|149.0|3.0|Psychological Review|Adolescence-limited and life-course-persistent antisocial behavior: a developmental taxonomy
+1994|108.0|3.0|ACM Computing Surveys|The interdisciplinary study of coordination
+1995|275.0|3.0|The New England Journal of Medicine|Risk factors for hip fracture in white women. Study of Osteoporotic Fractures Research Group
+1996|191.0|3.0|The Lancet|Ultrasonographic heel measurements to predict hip fracture in elderly women: the EPIDOS prospective study
+1997|148.0|3.0|Nature Genetics|Persistent and therapeutic concentrations of human factor IX in mice after hepatic gene transfer of recombinant AAV vectors.
+1998|197.0|3.0|Nucleic Acids Research|Database on the structure of small ribosomal subunit RNA
+1999|159.0|5.0|Progress in Neurobiology|The neurobiology of startle
+2000|178.0|5.0|Child Development|The Construct of Resilience: A Critical Evaluation and Guidelines for Future Work.
+2001|315.0|5.0|Nature Neuroscience|Abstract reward and punishment representations in the human orbitofrontal cortex
+2002|315.0|6.0|Clinical Neurophysiology|Braincomputer interfaces for communication and control
+2003|401.0|7.0|Annual Review of Neuroscience|MATERNAL CARE, GENE EXPRESSION, AND THE TRANSMISSION OF INDIVIDUAL DIFFERENCES IN STRESS REACTIVITY ACROSS GENERATIONS
+2004|982.0|8.0|JAMA|Actual causes of death in the United States, 2000.
+2005|410.0|7.0|programming language design and implementation|Pin: building customized program analysis tools with dynamic instrumentation
+2006|338.0|7.0|Atmospheric Chemistry and Physics|Interannual variability in global biomass burning emissions from 1997 to 2004
+2007|459.0|7.0|ubiquitous computing|A survey on context-aware systems
+2008|571.0|8.0|Biomaterials|Electrospinning: Applications in drug delivery and tissue engineering
+2009|1000.0|7.0|Nature Neuroscience|Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse
+2010|712.0|8.0|Brain Structure & Function|Saliency, switching, attention and control: a network model of insula function

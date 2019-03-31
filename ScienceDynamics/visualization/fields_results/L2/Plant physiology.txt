@@ -1,0 +1,82 @@
+----  Field Name Plant physiology: 
+----  Field Level 2.0: 
+----  Field Papers Number 49476:
+----  All time max citation paper: Chlorophyll fluorescence - a practical guide., 2000, (2499.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1914|0|0.0|New Phytologist|THE MEASUREMENT OF ELECTRICAL CONDUCTIVITY AS A METHOD OF INVESTIGATION IN PLANT PHYSIOLOGY.
+1925|0|0.0|American Journal of Botany|The Elongation of Root Hairs as Affected by Light and Temperature
+1933|1.0|0.5||A Comparison of Aonidiella aurantii and Aonidiella citrina, including a Study of the Internal Anatomy of the Latter.
+1935|4.0|3.0|Botanical Review|Auxin, the plant-growth hormone. II
+1936|4.0|4.0|American Journal of Botany|Auxins and the Growth of Roots
+1937|7.0|3.5|New Phytologist|AUXIN AND LEAF FORMATION
+1938|8.0|4.5|Plant Physiology|SPECIFIC FACTORS OTHER THAN AUXIN AFFECTING GROWTH AND ROOT FORMATION
+1939|3.0|2.0|Biological Reviews|AUXINS AND THE INHIBITION OF PLANT GROWTH
+1940|6.0|2.0|American Journal of Botany|The extraction of auxin from plant tissues.
+1942|3.0|1.5|American Journal of Botany|Total Auxin Extraction from Wheat
+1944|1.0|1.0|American Journal of Botany|Auxin, Water Uptake and Osmotic Pressure in Potato Tissue
+1945|1.0|1.0|Annals of Applied Biology|The infected root-hair count for estimating the activity of Plasmodiophora brassicae (Woron.) in the soil.
+1947|1.0|0.0|Journal of Investigative Dermatology|Generalized Bullous Dyskeratosis (Generalized Bullous Darier's Disease), with Special Reference to the Histogenesis and Metabolic Changes
+1948|1.0|0.0|American Journal of Botany|The Role of Zinc in Auxin Synthesis in the Tomato Plan
+1949|2.0|0.0|Annals of Applied Biology|OBSERVATIONS ON APPLE CANKER III. THE ANATOMY OF THE STEM CANKER
+1950|4.0|0.0|American Journal of Botany|Growth and morphogenesis of the strawberry as related to auxin.
+1951|2.0|0.0|Journal of Investigative Dermatology|The Distribution of Glycogen and Lipids in Human Skin1
+1952|6.0|0.0|Journal of Investigative Dermatology|Inhibition of Melanin Formation by Chemical Agents
+1953|5.0|0.0|Journal of Investigative Dermatology|Tissue Culture Studies on Human Skin
+1954|16.0|1.0|Archives of Biochemistry and Biophysics|The paper chromatography of indole compounds and some indole-containing auxins of plant tissues
+1955|14.0|1.0|Physiologia Plantarum|A Physiological Comparison of Gibberellic Acid with Some Auxins
+1956|4.0|0.0|Journal of Investigative Dermatology|Urticaria Pigmentosa with Bone Involvement
+1957|9.0|1.0|Journal of Investigative Dermatology|An Electron Microscope Study of Thin Sections of Human Skin
+1958|7.0|0.0|Economic Botany|The effects of gibberellin on economic crops
+1959|10.0|0.0|Journal of Investigative Dermatology|Part III: General Considerations of Skin Pigmentation: Pigment Cell Regulatory Factors1
+1960|12.0|1.0|Botanical Review|Liberation of organic substances from higher plants and their role in the soil sickness problem.
+1961|14.0|1.0|Journal of Investigative Dermatology|The Melanosome: A Distinctive Subcellular Particle of Mammalian Melanocytes and the Site of Melanogenesis1
+1962|11.0|1.0|Journal of Investigative Dermatology|Studies of Epidermal Protein Metabolism
+1963|12.0|0.5|Radiation Botany|THE STIMULATION OF PLANT GROWTH BY IONIZING RADIATION
+1964|10.0|1.0|Physiologia Plantarum|Studies on the Mechanism of Auxin Action: Auxin Regulation of Nucleic Acid Metabolism in Pea Internodes and Coconut Milk Nuclei
+1965|13.0|1.0|Journal of Cell Biology|Polyribosomes and cisternal accumulations in root cells of radish.
+1966|22.0|1.0|Protoplasma|Coated vesicles and other cytoplasmic components of growing root hairs of radish
+1967|18.0|1.0|Science|Dormin (Abscisin II), Inhibitor of Plant DNA Synthesis?
+1968|24.0|1.0|Journal of Investigative Dermatology|Abnormal Cell Proliferation in Psoriasis1
+1969|27.0|1.5|The Journal of General Physiology|Timing of the Auxin Response in Coleoptiles and Its Implications Regarding Auxin Action
+1970|31.0|2.0|Journal of Investigative Dermatology|DNA DAMAGE AND REPAIR IN LIGHT-SENSITIVE HUMAN SKIN DISEASE
+1971|16.0|2.0|Journal of Investigative Dermatology|A METHOD FOR BIOASSAY OF AN EPIDERMAL CHALONE-LIKE INHIBITOR
+1972|28.0|4.0|Journal of Investigative Dermatology|XERODERMA PIGMENTOSUM: VARIANTS WITH NORMAL DNA REPAIR AND NORMAL SENSITIVITY TO ULTRAVIOLET LIGHT
+1973|27.0|3.0|Journal of Investigative Dermatology|IDENTIFICATION OF SUBPOPULATIONS OF MONONUCLEAR CELLS IN CUTANEOUS INFILTRATES I. DIFFERENTIATION BETWEEN B CELLS, T CELLS, AND HISTIOCYTES
+1974|34.0|4.0|Journal of Investigative Dermatology|INTRADERMAL ANTI-PROSTAGLANDIN AGENTS AND SUNBURN
+1975|41.0|5.0|Journal of Investigative Dermatology|BASEMENT MEMBRANES: STRUCTURAL AND BIOSYNTHETIC CONSIDERATIONS
+1976|44.0|3.0|Journal of Investigative Dermatology|Defects in the biochemistry of collagen in diseases of connective tissue.
+1977|86.0|4.0|Nature|Epidermal growth factor and the multiplication of cultured human epidermal keratinocytes
+1978|106.0|4.0|Cell|Cyclic AMP in relation to proliferation of the Epidermal cell: a new view
+1979|65.0|5.0|FEBS Journal|PhytochromeInduced Appearance of mRNA Activity for the Apoprotein of the LightHarvesting Chlorophyll a/b Protein of Barley (Hordeum vulgare)
+1980|135.0|4.0|Cell|Calcium regulation of growth and differentiation of mouse epidermal cells in culture
+1981|92.0|5.0|Journal of Investigative Dermatology|Ultraviolet Light Depletes Surface Markers of Langerhans Cells
+1982|85.0|5.0|Journal of Investigative Dermatology|Epidermal Cell Production of Thymocyte Activating Factor (ETAF)
+1983|112.0|6.0|Journal of Investigative Dermatology|Local Effects of Synthetic Leukotrienes (LTC4, LTD4, and LTB4) in Human Skin
+1984|97.0|5.0|Journal of Investigative Dermatology|Recombinant Gamma Interferon Induces HLA-DR Expression on Cultured Human Keratinocytes
+1985|72.0|5.0|Cell|Keratinocyte-specific transglutaminase of cultured human epidermal cells: Relation to cross-linked envelope formation and terminal differentiation
+1986|84.0|5.0|Photosynthesis Research|Continuous recording of photochemical and non-photochemical chlorophyll fluorescence quenching with a new type of modulation fluorometer
+1987|99.0|4.0|Journal of Investigative Dermatology|Epidermal Langerhans Cells-A Target for HTLV-III/LAV Infection
+1988|66.0|5.0|Journal of Experimental Medicine|Adhesion of T lymphoblasts to epidermal keratinocytes is regulated by interferon gamma and is mediated by intercellular adhesion molecule 1 (ICAM-1).
+1989|146.0|5.0|Cell|Signals and transduction mechanisms for activation of plant defenses against microbial attack
+1990|81.0|4.0|Cell|Rain-, wind-, and touch-induced expression of calmodulin and calmodulin-related genes in Arabidopsis
+1991|121.0|5.0|The Plant Cell|Coordinate gene activity in response to agents that induce systemic acquired resistance.
+1992|73.0|5.0|Journal of Investigative Dermatology|Cloning and primary structural analysis of the bullous pemphigoid autoantigen BP180.
+1993|80.0|5.0|Global Biogeochemical Cycles|Terrestrial ecosystem production: A process model based on global satellite and surface data
+1994|127.0|5.0|Plant Physiology|Active Oxygen Species in Plant Defense against Pathogens
+1995|144.0|5.0|Science|The ethylene signal transduction pathway in plants
+1996|199.0|5.0|The Plant Cell|Resistance gene-dependent plant defense responses.
+1997|150.0|5.0|Cell|The Arabidopsis NPR1 Gene That Controls Systemic Acquired Resistance Encodes a Novel Protein Containing Ankyrin Repeats
+1998|196.0|7.0|Cell|Reactive Oxygen Intermediates Mediate a Systemic Signal Network in the Establishment of Plant Immunity
+1999|246.0|7.0|Journal of Experimental Medicine|Mice Lacking Expression of Secondary Lymphoid Organ Chemokine Have Defects in Lymphocyte Homing and Dendritic Cell Localization
+2000|312.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|Coordinated plant defense responses in Arabidopsis revealed by microarray analysis.
+2001|245.0|8.0|Proceedings of the National Academy of Sciences of the United States of America|p63 identifies keratinocyte stem cells
+2002|247.0|10.0|Nature|Lateral relocation of auxin efflux regulator PIN3 mediates tropism in Arabidopsis
+2003|553.0|10.0|Annual Review of Plant Biology|SALT AND DROUGHT STRESS SIGNAL TRANSDUCTION IN PLANTS
+2004|238.0|10.0|Annual Review of Phytopathology|TYPE III SECRETION SYSTEM EFFECTOR PROTEINS: Double Agents in Bacterial Disease and Plant Defense
+2005|685.0|9.0|Nature Materials|Nanowire dye-sensitized solar cells.
+2006|178.0|9.0|Proceedings of the National Academy of Sciences of the United States of America|An auxin-driven polarized transport model for phyllotaxis
+2007|421.0|10.0|Annals of Botany|Jasmonates: an update on biosynthesis, signal transduction and action in plant stress response, growth and development.
+2008|1220.0|10.0|Annual Review of Plant Biology|Mechanisms of Salinity Tolerance
+2009|677.0|11.0|Annual Review of Plant Biology|A Renaissance of Elicitors: Perception of Microbe-Associated Molecular Patterns and Danger Signals by Pattern-Recognition Receptors
+2010|464.0|10.0|Nature|Coherently wired light-harvesting in photosynthetic marine algae at ambient temperature

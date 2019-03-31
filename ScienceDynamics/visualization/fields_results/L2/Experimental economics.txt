@@ -1,0 +1,32 @@
+----  Field Name Experimental economics: 
+----  Field Level 2.0: 
+----  Field Papers Number 1484:
+----  All time max citation paper: A Theory of Fairness, Competition and Cooperation, 1998, (1527.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1985|8.0|8.0|The American Economic Review|Experimental Economics: Reply
+1986|9.0|9.0|Public Choice|The application of laboratory experimental economics to the contingent valuation of public goods
+1987|2.0|1.5|Canadian Journal of Agricultural Economics-revue Canadienne D Agroeconomie|Price Reporting in Experimental Markets
+1988|41.0|5.0|Journal of Risk and Uncertainty|Status Quo Bias in Decision Making
+1989|28.0|6.5|Management Science|Modeling managerial behavior: misperceptions of feedback in a dynamic decision making experiment
+1990|25.0|15.5|Journal of Risk and Uncertainty|Testing between Alternative Models of Choice Under Uncertainty: Some Initial Results
+1991|2.0|1.0|Public Choice|Anomalies in Political Economy
+1992|5.0|3.0|Journal of Risk and Uncertainty|Different Frames for the Independence Axiom: An Experimental Investigation in Individual Decision Making under Risk
+1993|25.0|3.0|Economic Inquiry|Monetary Rewards and Decision Cost in Experimental Economics
+1994|5.0|1.0|Journal of Economic Behavior and Organization|Testing choquet expected utility
+1995|7.0|2.0|Computers and Electronics in Agriculture|Economic value of management information systems in agriculture: a review of evaluation approaches
+1996|15.0|3.0|Economics Letters|Voluntary Contributions to a Public Good When Partial Contribution is a Dominant Strategy
+1997|20.0|4.0|Journal of Economics and Management Strategy|Laboratory Experimental Testbeds: Application to the PCS Auction
+1998|135.0|6.0|Ssrn Electronic Journal|A Theory of Fairness, Competition and Cooperation
+1999|32.0|2.0|Journal of Risk and Uncertainty|The Effects of Financial Incentives in Experiments: A Review and Capital-Labor-Production Framework
+2000|33.0|5.0|decision support systems|An experimental analysis of multi-attribute auctions
+2001|50.0|5.0|American Journal of Agricultural Economics|In-Store Valuation of Steak Tenderness
+2002|48.0|5.0|Econometrica|An Experimental Study of Belief Learning Using Elicited Beliefs
+2003|46.0|4.0|Journal of Financial Economics|The "make or take" decision in an electronic market: Evidence on the evolution of liquidity
+2004|124.0|3.5|Games and Economic Behavior|How to identify trust and reciprocity
+2005|142.0|6.0|Behavioral and Brain Sciences|Economic man in cross-cultural perspective: Behavioral experiments in 15 small-scale societies
+2006|96.0|3.0|Nature|The efficient interaction of indirect reciprocity and costly punishment
+2007|75.0|3.0|Games and Economic Behavior|A tractable model of reciprocity and fairness
+2008|126.0|3.0|Journal of Public Economics|Punishment and Counter-Punishment in Public Good Games: Can We Really Govern Ourselves?
+2009|75.0|4.0|Experimental Economics|Would I lie to you? On social preferences and lying aversion
+2010|153.0|5.0|Games and Economic Behavior|A within-subject analysis of other-regarding preferences

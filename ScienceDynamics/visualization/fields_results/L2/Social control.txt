@@ -1,0 +1,46 @@
+----  Field Name Social control: 
+----  Field Level 2.0: 
+----  Field Papers Number 1992:
+----  All time max citation paper: Social Capital: Its Origins and Applications in Modern Sociology, 2003, (2834.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|2.0|1.0|Social Problems|Social Control: A Reformulation
+1967|2.0|2.0|Journal of Communication|THE SOCIAL CONTROL OF SYMBOLIC SYSTEMS
+1972|2.0|1.0|Social Psychiatry and Psychiatric Epidemiology|Theories of behavior and the social control of alcoholism
+1974|7.0|2.0|Journal of Experimental Child Psychology|Social Control by Adult Preference in Operant Conditioning with Children.
+1975|1.0|0.5|American Journal of Sociology|Sociological Theory and Social Control
+1976|5.0|2.0|Criminology|SOCIAL CONTROL AND SOCIAL LEARNING MODELS OF DELINQUENT BEHAVIOR A Synthesis
+1977|5.0|1.0|Journal of Personality and Social Psychology|Social Roles, Social Control and Biases in Social Perception Processes
+1978|3.0|0.5|Sociological Quarterly|Deviant Acts by Complex Organizations: Deviance and Social Control at the Organizational Level of Analysis1
+1979|2.0|1.0|Early Childhood Education Journal|The social organization of sexual risk
+1980|6.0|2.0|Biological Reviews|SOCIAL CONTROL OVER SEX AND CASTE IN BEES, WASPS AND ANTS
+1981|17.0|6.0|Journal of Social Issues|The Fear of Rape: A Study in Social Control
+1982|5.0|2.0|Journal of Economic Psychology|Tax evasion and mechanisms of social control: A comparison with grand and petty theft
+1983|4.0|2.0|Social Problems|Private Security: Implications for Social Control
+1984|8.0|1.0|Sociological Quarterly|Sanctions Peers, and Deviance: Preliminary Models Of A Social Control Process*
+1985|20.0|2.0|Psychology of Women Quarterly|THE HIDDEN RAPE VICTIM: PERSONALITY, ATTITUDINAL, AND SITUATIONAL CHARACTERISTICS
+1986|12.0|2.0|Social Science & Medicine|Breaking the circuit of social control: Lessons in public psychiatry from Italy and Franco Basaglia
+1987|9.0|1.0|Social Science & Medicine|Heavy and problem drinking in an American blue-collar population: Implications for prevention
+1988|10.0|2.0|Physiological Entomology|Social control of egglaying rate in queens of the fire ant, Solenopsis invicta*
+1989|12.0|2.0|Journal of Health and Social Behavior|A Critical Theory of Medical Discourse: Ideology, Social Control, and the Processing of Social Context in Medical Encounters
+1990|14.0|1.0|Journal of Neurobiology|Social control of neuronal soma size
+1991|11.0|1.0|Sex Roles|Perceptions of date and stranger rape : a difference in sex role expectations and rape-supportive beliefs
+1992|17.0|2.0|Social Science & Medicine|Gender, marital status and the social control of health behavior
+1993|43.0|2.0|Psychological Bulletin|Drugs and the law: a psychological analysis of drug prohibition.
+1994|17.0|2.0|Journal of Quantitative Criminology|Linking Self- and Social Control with Deviance: Illuminating the Structure Underlying a General Theory of Crime and Its Relation to Deviant Activity
+1995|41.0|1.0|Academy of Management Review|INSTRUMENTAL STAKEHOLDER THEORY: A SYNTHESIS OF ETHICS AND ECONOMICS
+1996|19.0|1.0|new security paradigms workshop|Simulated social control for secure Internet commerce
+1997|15.0|2.0|Behaviour Research and Therapy|Strategies of thought control in obsessive-compulsive disorder.
+1998|23.0|2.0|Political Geography|Restructuring the local state: economic governance or social regulation?
+1999|77.0|3.0|American Journal of Sociology|Systematic Social Observation of Public Spaces: A New Look at Disorder in Urban Neighborhoods
+2000|40.0|3.0|Journal of Abnormal Psychology|The effects of familial risk, personality, and expectancies on alcohol use and abuse
+2001|52.0|2.5|Cellular and Molecular Life Sciences|Arabinogalactan-proteins: structure, expression and function.
+2002|53.0|4.0|American Journal of Sociology|Gender, Crime, and Desistance: Toward a Theory of Cognitive Transformation
+2003|919.0|9.0|Annual Review of Sociology|Social Capital: Its Origins and Applications in Modern Sociology
+2004|47.0|6.0|Experimental Gerontology|Hormonal control of the yolk precursor vitellogenin regulates immune function and longevity in honeybees
+2005|135.0|6.0|Journal of Consulting and Clinical Psychology|The characteristics of persistent sexual offenders : A meta-analysis of recidivism studies
+2006|80.0|6.0|Justice Quarterly|The deterrent effect of the perceived certainty and severity of punishment: A review of the evidence and issues
+2007|48.0|6.0|Drug and Alcohol Dependence|Theory-based active ingredients of effective treatments for substance use disorders
+2008|66.0|4.0|The Journal of Experimental Biology|Fish and chips: functional genomics of social plasticity in an African cichlid fish
+2009|190.0|5.0|Organizational Behavior and Human Decision Processes|How low does ethical leadership flow? Test of a trickle-down model
+2010|113.0|4.0|Review of Sociology|Social Relationships and Health Behavior Across the Life Course

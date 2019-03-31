@@ -1,0 +1,37 @@
+----  Field Name Financial accounting: 
+----  Field Level 2.0: 
+----  Field Papers Number 2135:
+----  All time max citation paper: Financial Intermediation and Growth: Causality and Causes, 1999, (712.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1974|9.0|9.0|Journal of Financial Economics|International capital market equilibrium with investment barriers
+1979|0|0.0|Journal of Business Research|Market-based and accounting standards for public utility rate regulation
+1981|26.0|4.0|Journal of Accounting and Economics|An income strategy approach to the positive theory of accounting standard setting/choice
+1982|4.0|1.5|Instructional Science|Using First Order Cognitive Analysis to Understand Problem Solving Behavior: An Example from Accounting.
+1984|5.0|3.0|Accounting Organizations and Society|Lobbying of accounting standard-setting bodies in the U.K. and the U.S.A.: A Downsian analysis
+1985|1.0|0.5|data and knowledge engineering|The design of entity-relationship models for general ledger systems
+1986|2.0|1.5|Journal of Business Ethics|Ethics and financial reporting in the United States
+1987|1.0|0.5|Journal of Business Finance & Accounting|Corporate Demands and Changes In Gpla
+1988|0|0.0|Journal of Business Finance & Accounting|The Pip Grant Accounting Controversy In Canada: A Study of the Economic Consequences of Accounting Standards
+1989|0|0.0|Accounting and Business Research|Ex ante testing of accounting standards using stochastic models
+1990|5.0|1.0|Journal of Business Finance & Accounting|CRITICAL RESEARCH ISSUES IN ACCOUNTING STANDARD SETTING
+1991|3.0|1.0|Journal of Accounting and Public Policy|Accounting standards-setting in the U.S.: An analysis of power and social exchange
+1992|14.0|0.0|World Bank Research Observer|Private investment and macroeconomic adjustment : a survey
+1993|3.0|1.0|Accounting Organizations and Society|Professional judgment and accounting standards
+1994|28.0|0.5|Journal of Accounting and Economics|Accounting earnings and cash flows as measures of firm performance : The role of accounting accruals
+1995|27.0|1.0|Journal of Accounting and Economics|Additional evidence on bonus plans and income management
+1996|30.0|2.0|Journal of Accounting and Economics|Employee stock option exercises an empirical analysis
+1997|30.0|2.0|Journal of Accounting and Economics|Smoothing income in anticipation of future earnings
+1998|20.0|1.0|Journal of Accounting and Economics|The relation between earnings and cash flows
+1999|103.0|1.0|Journal of Monetary Economics|Financial Intermediation and Growth: Causality and Causes
+2000|48.0|3.0|World Bank Economic Review|Productivity and turnover in the export market : micro-level evidence from the Republic of Korea and Taiwan (China)
+2001|53.0|4.0|Journal of Financial Intermediation|Bank Regulation and Supervision: What Works Best?
+2002|153.0|3.0|Educational Researcher|Accountability Systems: Implications of Requirements of the No Child Left Behind Act of 2001
+2003|131.0|5.0|Journal of Accounting and Economics|Incentives versus standards: properties of accounting income in four East Asian countries
+2004|112.0|3.0|Journal of International Economics|Information costs and home bias: an analysis of US holdings of foreign equities
+2005|151.0|3.0|Journal of Accounting and Economics|Earnings quality in UK private firms: comparative loss recognition timeliness
+2006|94.0|4.0|Journal of Accounting and Economics|Asymmetric Timeliness of Earnings, Market-to-Book and Conservatism in Financial Reporting
+2007|93.0|4.0|Journal of Accounting Research|The Use of Unsigned Earnings Quality Measures in Tests of Earnings Management
+2008|124.0|5.0|European Accounting Review|IFRS Adoption and Accounting Quality: A Review
+2009|163.0|3.0||Financial institutions and markets across countries and over time - data and analysis
+2010|397.0|4.5|Journal of Accounting and Economics|Understanding Earnings Quality: A Review of the Proxies, Their Determinants and Their Consequences

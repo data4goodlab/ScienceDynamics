@@ -1,0 +1,43 @@
+----  Field Name Competitor analysis: 
+----  Field Level 2.0: 
+----  Field Papers Number 6419:
+----  All time max citation paper: Mental Accounting and Consumer Choice, 2008, (1182.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|2.0|2.0|Communications of The ACM|The allocation of computer resourcesis pricing the answer?
+1972|0|0.0|Journal of Transport Economics and Policy|THE TIMING OF INVESTMENTS IN AIRPORT CAPACITY. THE CASE OF LONDON
+1973|2.0|2.0|Journal of Transport Economics and Policy|THE ECONOMICS OF AIRPORT DEVELOPMENT AND CONTROL
+1974|22.0|11.0|IEEE Transactions on Computers|The Cost of Developing Large-Scale Software
+1977|0|0.0|Land Economics|INSTITUTIONAL IMPEDIMENTS TO EFFICIENCY: THE CASE OF RAIL FREIGHT CAR SUPPLY
+1979|5.0|2.0|The American Economic Review|Optimal Pricing with Intermodal Competition
+1980|2.0|2.0|Transportation Research Part B-methodological|Types of transportation supply functions and their applications
+1981|1.0|0.0|Transportation|FLAT VERSUS DIFFERENTIATED TRANSIT PRICING: WHAT'S A FAIR FARE?
+1982|3.0|1.0|Transportation Research Part B-methodological|The effects of non-optimal pricing and investment policies for transportation facilities
+1983|27.0|9.0|Marketing Science|Defensive Marketing Strategies
+1984|2.0|2.0|Journal of Urban Economics|The effect of population growth, the pattern of demand and of technology on the process of urbanization
+1985|3.0|0.5|Journal of Water Resources Planning and Management|Pricing and Expansion of a Water Supply System
+1986|7.0|0.0|Marketing Science|Profitable Pricing When Market Segments Overlap
+1987|9.0|3.0|Marketing Science|Quantity Discounts: Managerial Issues and Research Opportunities
+1988|16.0|4.0|Management Science|Competitive maps: the structure underlying asymmetric cross elasticities
+1989|6.0|1.0|IEEE Transactions on Power Systems|Flexible strategies for load/demand management using dynamic pricing
+1990|24.0|3.0|Management Science|The effects of brand loyalty on competitive price promotional strategies
+1991|13.0|1.0|Marketing Science|Pricing and Promotions in Asymmetric Duopolies
+1992|18.0|2.0|Operations Research|A taxonomy and research overview of perishable-asset revenue management: yield management, overbooking, and pricing
+1993|28.0|2.0|IEEE\/ACM Transactions on Networking|Pricing in computer networks: motivation, formulation, and example
+1994|8.0|3.0|international conference on computer communications|An empirical evaluation of virtual circuit holding times in IP-over-ATM networks
+1995|56.0|4.0|IEEE Journal on Selected Areas in Communications|Pricing congestible network resources
+1996|20.0|2.0|IEEE Software|A framework for evaluating software technology
+1997|30.0|2.0|Mathematical Finance|Backward Stochastic Differential Equations in Finance
+1998|22.0|3.5|Management Science|Note. the Role of Returns Policies in Pricing and Inventory Decisions for Catalogue Goods
+1999|386.0|4.0|IEEE\/ACM Transactions on Networking|Promoting the use of end-to-end congestion control in the Internet
+2000|138.0|4.0|Management Science|Frictionless Commerce? A Comparison of Internet and Conventional Retailers
+2001|54.0|3.0|Management Science|Coordination Mechanisms for a Distribution System with One Supplier and Multiple Retailers
+2002|187.0|4.0|IEEE Transactions on Communications|Efficient power control via pricing in wireless data networks
+2003|102.0|4.0|mobile ad hoc networking and computing|A charging and rewarding scheme for packet forwarding in multi-hop cellular networks
+2004|134.0|5.0|IEEE Transactions on Communications|Simultaneous routing and resource allocation via dual decomposition
+2005|166.0|4.0|IEEE Transactions on Wireless Communications|Cross-layer optimization for OFDM wireless networks-part I: theoretical framework
+2006|183.0|3.0|IEEE Journal on Selected Areas in Communications|Distributed interference compensation for wireless networks
+2007|73.0|3.0||A General Framework for Wireless Spectrum Auctions
+2008|928.0|1.0|Marketing Science|Mental Accounting and Consumer Choice
+2009|79.0|1.0|international conference on computer communications|TRUST: A General Framework for Truthful Double Spectrum Auctions
+2010|234.0|4.0|IEEE Transactions on Smart Grid|Optimal Residential Load Control With Price Prediction in Real-Time Electricity Pricing Environments

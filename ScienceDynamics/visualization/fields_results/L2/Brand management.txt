@@ -1,0 +1,27 @@
+----  Field Name Brand management: 
+----  Field Level 2.0: 
+----  Field Papers Number 1888:
+----  All time max citation paper: Conceptualizing, measuring, and managing customer-based brand equity, 1993, (3357.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1989|20.0|20.0|Journal of Marketing|Consumer evaluations of brand extensions
+1991|17.0|9.0|Journal of Consumer Research|Evaluation of Brand Extensions: The Role of Product Feature Similarity and Brand Concept Consistency
+1992|11.0|2.0|Management Science|Brand extensions: when to use them
+1993|60.0|9.0|Journal of Marketing|Conceptualizing, measuring, and managing customer-based brand equity
+1994|2.0|1.0|Journal of Business Research|The effects of order and direction on multiple brand extensions
+1995|2.0|0.5|Journal of Business Research|Does an absence of brand equity generalize across product classes?
+1996|7.0|5.0|International Journal of Research in Marketing|Characteristics of memory associations: A consumer-based brand equity perspective
+1997|6.0|4.0|Journal of Consumer Psychology|Managing Negative Feedback Effects Associated With Brand Extensions: The Impact of Alternative Branding Strategies
+1998|18.0|4.0|Journal of Consumer Psychology|Brand Equity as a Signaling Phenomenon
+1999|33.0|13.0|Marketing Science|Commercial Use of Upc Scanner Data: Industry and Academic Perspectives
+2000|64.0|3.0|International Journal of Research in Marketing|Consumer choice behavior in online and traditional supermarkets: The effects of brand name, price, and other search attributes
+2001|22.0|3.0|Journal of Business Research|Developing and validating a multidimensional consumer-based brand equity scale
+2002|16.0|5.0|Journal of Applied Psychology|The Relationship Between Early Recruitment-Related Activities and the Application Decisions of New Labor-Market Entrants: A Brand Equity Approach to Recruitment
+2003|32.0|7.0|European Journal of Marketing|Customer repurchase intention: a general structural equation model
+2004|37.0|6.0|Journal of Business Research|Developing and validating measures of facets of customer-based brand equity
+2005|44.0|11.0|Marketing Science|Planning Marketing-Mix Strategies in the Presence of Interaction Effects
+2006|143.0|7.0|Marketing Science|Brands and Branding: Research Findings and Future Priorities
+2007|41.0|6.0|Journal of International Business Studies|Country image and consumer-based brand equity: relationships and implications for international marketing
+2008|92.0|7.0|Industrial Marketing Management|Customer relationship management: Finding value drivers
+2009|80.0|6.0|Journal of Brand Management|The specificity of luxury management: Turning marketing upside down
+2010|91.0|7.0||Brand Attachment and Brand Attitude Strength: Conceptual and Empirical Differentiation of Two Critical Brand Equity Drivers

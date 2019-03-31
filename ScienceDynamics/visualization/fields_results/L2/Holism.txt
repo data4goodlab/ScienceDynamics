@@ -1,0 +1,37 @@
+----  Field Name Holism: 
+----  Field Level 2.0: 
+----  Field Papers Number 2050:
+----  All time max citation paper: Confounding Factors in the Detection of Species Responses to Habitat Fragmentation, 2006, (694.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1977|0|0.0|Medecine Et Maladies Infectieuses|tude critique de la mise en vidence d'un effet synergique entre pnicillines et aminoglycosides par la technique en triple couche et neutralisation enzymatique de la pnicilline
+1978|1.0|1.0|Medecine Et Maladies Infectieuses|Recherche de Synergie entre la Fosfomycine et divers autres Antibiotiques
+1979|15.0|9.0|Pharmacology, Biochemistry and Behavior|2-Deoxy-D-glucose analgesia: Influences of opiate and non-opiate factors
+1980|4.0|4.0|Veterinary Parasitology|Synergistic action of mebendazole and levamisole in the treatment of a benzimidazole-resistant Haemonchus contortus in sheep
+1982|13.0|7.5|Annals of The Association of American Geographers|Structural Marxism and Human Geography: A Critical Assessment
+1983|2.0|1.0|Thrombosis Research|Synergistic interaction and platelet inhibitory agonists
+1986|7.0|7.0|Antiviral Research|Synergism between anti-rhinovirus antivirals: Various human interferons and a number of synthetic compounds
+1987|12.0|4.0|New Phytologist|COMPARISON  ITS SCOPE AND LIMITS
+1988|7.0|1.0|Immunology Letters|Interleukin 1 (IL-1) and tumour necrosis factor synergise in the induction of IL-1 synthesis by human vascular endothelial cells
+1989|7.0|0.0|Risk Analysis|Additive and Multiplicative Models and Multistage Carcinogenesis Theory
+1990|18.0|5.0|Antiviral Research|A three-dimensional model to analyze drug-drug interactions
+1991|9.0|1.5|Chemosphere|Nonadditive interactions of mixtures of 2,3,7,8-TCDD and 3,3,4,4-tetrachlorobiphenyl on aryl hydrocarbon hydroxylase induction in rainbow trout ( Oncorhynchus mykiss )
+1992|8.0|1.5|Strategic Management Journal|Sources of value in takeovers: Synergy or restructuringimplications for target and bidder firms
+1993|94.0|2.0|European Journal of Immunology|Interleukin4 and interleukin10 synergize to inhibit cellmediated immunity in vivo
+1994|21.0|1.0|Strategic Management Journal|Trading in strategic resources: Necessary conditions, transaction cost problems, and choice of exchange structure
+1995|87.0|4.0|Behavioral and Brain Sciences|The origin and use of positional frames of reference in motor control
+1996|38.0|2.5|Journal of Molecular Biology|A Model for the Cooperative Binding of Eukaryotic Regulatory Proteins to Nucleosomal Target Sites
+1997|34.0|1.0|Cancer|Doxorubicin sensitizes human bladder carcinoma cells to Fasmediated cytotoxicity
+1998|18.0|3.0|Environmental Toxicology and Chemistry|Effect of chemical synergy and larval stage on the toxicity of atrazine and alachlor to amphibian larvae
+1999|45.0|5.0|International Journal of Food Microbiology|Preservative agents in foods : Mode of action and microbial resistance mechanisms
+2000|49.0|7.0|Neuropsychopharmacology|Opioids and Their Complicated Receptor Complexes
+2001|49.0|4.0|Current Opinion in Microbiology|Multidrug resistance in Gram-negative bacteria
+2002|103.0|6.0|Organization Science|Knowledge Networks: Explaining Effective Knowledge Sharing in Multiunit Companies
+2003|54.0|9.0|Annual Review of Neuroscience|SIGNALING AND TRANSCRIPTIONAL MECHANISMS IN PITUITARY DEVELOPMENT
+2004|65.0|7.0|Life Sciences|Synergistic interactions between cannabinoid and opioid analgesics
+2005|182.0|11.0|Nature Methods|An extracellular matrix microarray for probing cellular differentiation.
+2006|320.0|9.0|Biological Reviews|Confounding Factors in the Detection of Species Responses to Habitat Fragmentation
+2007|79.0|7.0|Expert Review of Anti-infective Therapy|Alternative mechanisms of action of cationic antimicrobial peptides on bacteria.
+2008|138.0|7.0|Phytomedicine|Synergism between natural products and antibiotics against infectious diseases
+2009|98.0|8.0|Food Microbiology|Antimicrobial activity of plant essential oils using food model media: efficacy, synergistic potential and interactions with food components.
+2010|77.0|8.0|Research in Transportation Economics|Part II: Policy instruments for sustainable road transport

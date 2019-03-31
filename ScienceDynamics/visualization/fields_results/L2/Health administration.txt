@@ -1,0 +1,26 @@
+----  Field Name Health administration: 
+----  Field Level 2.0: 
+----  Field Papers Number 4174:
+----  All time max citation paper: The Safety Attitudes Questionnaire: psychometric properties, benchmarking data, and emerging research, 2006, (461.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1981|0|0.0|Decision Sciences|HOSPITAL ADMINISTRATOR FELT NEEDS FOR INTERORGANIZATIONAL COOPERATION AND ACTUAL COOPERATIVE OUTCOMES BY THEIR HOSPITALS
+1982|0|0.0|Decision Sciences|A CANONICAL ANALYSIS OF MANAGERIALENVIRONMENTAL RELATIONSHIPS: IMPLICATIONS FOR METHODOLOGY AND POLICY*
+1986|0|0.0|Journal of The Forensic Science Society|Suicide in the hospital
+1988|3.0|3.0|Decision Sciences|Capacity Management in Health Care Services: Review and Future Research Directions*
+1990|1.0|1.0|Milbank Quarterly|Population Ecology and the Racial Integration of Hospitals and Nursing Homes in the United States
+1992|17.0|17.0|Journal of Cataract and Refractive Surgery|Practice styles and preferences of ASCRS members1991 survey
+1995|1.0|1.0||Data storage and management requirements for the multimedia computer-based patient medical record
+1998|12.0|12.0|JAMA|Consolidation of medical groups into physician practice management organizations.
+1999|33.0|10.0||Beyond the center - decentralizing the State
+2000|4.0|2.0|Journal of General Internal Medicine|Fatal Distraction: Finance vs Vigilance in Our Nation's Hospitals
+2001|19.0|2.0|BMJ Quality & Safety|Management matters: the link between hospital organisation and quality of patient care
+2002|52.0|8.0|BMC Health Services Research|What kind of evidence is it that Evidence-Based Medicine advocates want health care providers and consumers to pay attention to?
+2003|41.0|7.0|Cost Effectiveness and Resource Allocation|Programme costs in the economic evaluation of health interventions.
+2004|74.0|12.0|BMC Health Services Research|Systems for grading the quality of evidence and the strength of recommendations I: critical appraisal of existing approaches The GRADE Working Group.
+2005|86.0|13.5|BMC Health Services Research|Systems for grading the quality of evidence and the strength of recommendations II: Pilot study of a new system
+2006|197.0|52.0|BMC Health Services Research|The Safety Attitudes Questionnaire: psychometric properties, benchmarking data, and emerging research
+2007|123.0|29.0|BMC Health Services Research|Patient adherence to medical treatment: a review of reviews
+2008|147.0|57.0|BMC Health Services Research|Staffing remote rural areas in middle- and low-income countries: A literature review of attraction and retention
+2009|132.0|46.5|BMC Health Services Research|Response rates in postal surveys of healthcare professionals between 1996 and 2005: An observational study
+2010|240.0|85.0|BMC Health Services Research|Barriers to the acceptance of electronic medical records by physicians from systematic review to taxonomy and interventions

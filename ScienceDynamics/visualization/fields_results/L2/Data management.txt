@@ -1,0 +1,49 @@
+----  Field Name Data management: 
+----  Field Level 2.0: 
+----  Field Papers Number 6280:
+----  All time max citation paper: Immunocontraception in wild horses (Equus caballus) extends reproductive cycling beyond the normal breeding season., 2010, (1322.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1968|3.0|3.0||Graphical data management in a time-shared environment
+1969|9.0|2.5||A comparison of file organization techniques
+1970|0|0.0|Computers and Biomedical Research|Data management in the diagnostic laboratory a data-centered approach using high-density mark sense documents for computer entry
+1971|8.0|3.0||Associative techniques in the solution of data management problems
+1972|1.0|0.5|Communications of The ACM|Computers and urban society
+1973|32.0|8.0|Communications of The ACM|Evaluation and selection of file organizationa model and system
+1974|18.0|8.0|ACM Computing Surveys|Identifier Search Mechanisms: A Survey and Generalized Model
+1975|47.0|7.0||INGRES: a relational data base system
+1976|30.0|3.0|IEEE Transactions on Software Engineering|Abstraction and Verification in Alphard: Introduction to Language and Methodology
+1977|17.0|1.0||Error Detection in Computerized Information Retrieval Data Bases,
+1978|11.0|3.0||Deductive Planning and Pathfinding for Relational Data Bases,
+1979|24.0|9.0|international conference on management of data|An optimality theory of concurrency control for databases
+1980|15.0|4.0||Design decisions for the intelligent database machine
+1981|17.0|2.5|ACM Transactions on Database Systems|Processor allocation strategies for multiprocessor database machines
+1982|17.0|7.0|symposium on principles of database systems|Sacrificing serializability to attain high availability of data in an unreliable network
+1983|26.0|2.0|Solar Energy|Terrestrial solar spectral data sets
+1984|13.0|2.0|symposium on principles of database systems|A new approach to database logic
+1985|30.0|2.0|Journal of Econometrics|Foundations of data envelopment analysis for Pareto-Koopmans efficient empirical production functions
+1986|57.0|4.0|ACM Computing Surveys|A comparative analysis of methodologies for database schema integration
+1987|95.0|6.0|ACM Transactions on Information Systems|Data model issues for object-oriented applications
+1988|45.0|3.5|international conference on management of data|The HiPAC project: combining active databases and timing constraints
+1989|61.0|3.0|Journal of Parallel and Distributed Computing|Data communication in hypercubes
+1990|89.0|2.0|IEEE Transactions on Knowledge and Data Engineering|The implementation of POSTGRES
+1991|63.0|2.5|IEEE Computer|Object-oriented database management systems: concepts and issues
+1992|82.0|4.0|international symposium on computer architecture|Lazy release consistency for software distributed shared memory
+1993|68.0|2.0|International Journal of Intelligent and Cooperative Information Systems|Retrieving and Integrating Data from Multiple Information Sources
+1994|95.0|2.0|Communications of The ACM|Mobile wireless computing: challenges in data management
+1995|81.0|3.0|symposium on operating systems principles|Informed prefetching and caching
+1996|38.0|2.0|Neural Computation|On convergence properties of the em algorithm for gaussian mixtures
+1997|228.0|3.0|international conference on database theory|Querying Semi-Structured Data
+1998|130.0|3.0|Nature Genetics|Data management and analysis for gene expression arrays
+1999|143.0|3.0|IEEE Transactions on Visualization and Computer Graphics|Edgebreaker: connectivity compression for triangle meshes
+2000|85.0|4.0|grid computing|Data Management in an International Data Grid Project
+2001|217.0|4.0|very large data bases|Answering queries using views: A survey
+2002|234.0|4.0|very large data bases|Monitoring streams: a new class of data management applications
+2003|157.0|4.0|conference on innovative data systems research|Applying Model Management to Classical Meta Data Problems
+2004|285.0|4.0|IEEE Transactions on Knowledge and Data Engineering|PeerTrust: supporting reputation-based trust for peer-to-peer electronic communities
+2005|226.0|4.0|Sigmod Record|A survey of data provenance in e-science
+2006|250.0|3.0|international conference on embedded networked sensor systems|CarTel: a distributed mobile sensor computing system
+2007|224.0|3.0|Nucleic Acids Research|ArrayExpressa public database of microarray experiments and gene expression profiles
+2008|158.0|3.0|Proceedings of The Vldb Endowment|Hexastore: Sextuple Indexing for Semantic Web Data Management
+2009|219.0|2.0|very large data bases|HadoopDB: an architectural hybrid of MapReduce and DBMS technologies for analytical workloads
+2010|1322.0|4.0|PLOS ONE|Immunocontraception in wild horses (Equus caballus) extends reproductive cycling beyond the normal breeding season.

@@ -1,0 +1,62 @@
+----  Field Name Population dynamics: 
+----  Field Level 2.0: 
+----  Field Papers Number 35748:
+----  All time max citation paper: Global cancer statistics, 2011, (11706.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1926|1.0|1.0|Biological Reviews|The mammalian sex-ratio.
+1951|0|0.0|Child Development|Trends in infant care ideas.
+1955|2.0|0.0|Geochimica et Cosmochimica Acta|Implications of the Rhodesia age pattern
+1956|1.0|1.0|Annals of Human Genetics|A CONTRIBUTION TO THE STUDY OF BIRTH WEIGHT BASED ON AN ITALIAN SAMPLE
+1957|0|0.0|The New England Journal of Medicine|Changing maternal mortality in Massachusetts.
+1958|1.0|0.5|Journal of Cellular and Comparative Physiology|Cell population dynamics and somatic change
+1959|0|0.0|American Journal of Public Health|Twenty-one years experience with a public health contraceptive service.
+1960|11.0|6.5|Cancer|A study of the epidemiology of cancer of the breast.
+1962|0|0.0|Population Ecology|POPULATION DYNAMICS OF THE CHESTNUT GALL-WASP, DR YOCOSMUS KURIPHILUS YASUMATSU (HYMENOPTERA : CYNIPIDAE) II. DISTRIBUTION OF INDIVIDUALS IN BUD OF CHESTNUT TREE
+1963|4.0|0.0|Biological Reviews|THE POPULATION DYNAMICS OF GRASSHOPPERS AND LOCUSTS
+1965|25.0|4.5|Journal of Chronic Diseases|The epidemiology of coronary heart disease: a review.
+1966|12.0|1.0|The Lancet|Serum lipids and lipoproteins during long-term administration of an oral contraceptive.
+1967|5.0|2.5|Archives of Biochemistry and Biophysics|Turnover and age distribution of a collagen fraction extractable from rat skin by mercaptoethylamine
+1968|22.0|2.5|Geochimica et Cosmochimica Acta|Ages of calcium-rich achondrites. I - Eucrites.
+1969|12.0|2.0|Geochimica et Cosmochimica Acta|Ages of calcium-rich achondrites. II - Howardites, nakhlites, and the Angra dos Reis angrite.
+1970|52.0|2.0|Geochimica et Cosmochimica Acta|Noble gases in carbonaceous chondrites
+1971|23.0|3.0|JAMA|Periodic Breast Cancer Screening in Reducing Mortality From Breast Cancer
+1972|30.0|2.0|Journal of Epidemiology and Community Health|Hypothesis: anencephaly and spina bifida are usually preventable by avoidance of a specific but unidentified substance present in certain potato tubers.
+1973|30.0|1.0|The Journal of Pediatrics|Host resistance factors in human milk
+1974|8.0|2.0|Genetics|THE EVOLUTIONARY ADVANTAGE OF RECOMBINATION
+1975|32.0|2.0|Science|Energy and land constraints in food protein production
+1976|20.0|1.5|Journal of Development Economics|Inequality, poverty and development.
+1977|13.0|2.0|Preventive Medicine|Comparative epidemiology of cancers of the United States and Japan.
+1978|22.0|2.0|Cancer|Endocrine influences on survival from malignant melanoma.
+1979|24.0|1.0|Biochimica et Biophysica Acta|Estrogen and progesterone receptor proteins in breast cancer.
+1980|33.0|2.0|The Lancet|FALTERING IN INFANT GROWTH IN LESS-DEVELOPED COUNTRIES
+1981|85.0|2.0|The Lancet|Outcome for infants of very low birthweight: survey of world literature.
+1982|188.0|2.0|The Lancet|TOXIC-SHOCK SYNDROME NOT ASSOCIATED WITH MENSTRUATION: A Review of 54 cases
+1983|94.0|2.0|The New England Journal of Medicine|Acquired immune deficiency in Haitians;: opportunistic infections in previously healthy Haitian immigrants.
+1984|57.0|2.0|Personality and Individual Differences|Subfertility among the very intelligent: An examination of the American Mensa
+1985|199.0|2.0|The New England Journal of Medicine|The inverse relation between fish consumption and 20-year mortality from coronary heart disease.
+1986|51.0|2.0|The Lancet|The AIDS problem in Africa.
+1987|78.0|2.0|JAMA|Cholesterol and Mortality: 30 Years of Follow-up From the Framingham Study
+1988|47.0|2.0|The Lancet|Alcohol and mortality in British men: explaining the U-shaped curve
+1989|41.0|2.0|Demography|Recent Trends in Marital Disruption
+1990|66.0|3.0|The New England Journal of Medicine|Ten-year mortality from cardiovascular disease in relation to cholesterol level among men with and without preexisting cardiovascular disease.
+1991|78.0|2.0|Reviews of Geophysics|Hotspots, mantle plumes, flood basalts, and true polar wander
+1992|137.0|2.0|Child Abuse & Neglect|A review of the long-term effects of child sexual abuse.
+1993|102.0|3.0|The New England Journal of Medicine|The increasing disparity in mortality between socioeconomic groups in the United States 1960 and 1986.
+1994|122.0|2.0|Nature|Biodiversity and stability in grasslands
+1995|392.0|3.0|Science|HIV population dynamics in vivo: implications for genetic variation, pathogenesis, and therapy
+1996|114.0|3.0|BMJ|Inequality in income and mortality in the United States: analysis of mortality and potential pathways
+1997|340.0|4.0|The Lancet|Mortality by cause for eight regions of the world: Global Burden of Disease Study
+1998|184.0|5.0|The New England Journal of Medicine|The effect of age on the association between body-mass index and mortality.
+1999|432.0|5.0|JAMA|Global burden of tuberculosis: estimated incidence prevalence and mortality by country.
+2000|164.0|6.0|Diversity and Distributions|Naturalization and invasion of alien plants: concepts and definitions
+2001|155.0|6.0|Stroke|Association Between Arterial Stiffness and Atherosclerosis The Rotterdam Study
+2002|427.0|6.0|The Lancet|Selected major risk factors and global and regional burden of disease
+2003|422.0|8.0|American Journal of Human Genetics|Average risks of breast and ovarian cancer associated with BRCA1 or BRCA2 mutations detected in case series unselected for family history: A combined analysis of 22 studies
+2004|459.0|8.0|BMJ|Mortality in relation to smoking: 50 years' observations on male British doctors
+2005|668.0|9.0|Ecology Letters|Predicting species distribution: offering more than simple habitat models
+2006|777.0|9.0|PLOS Medicine|Projections of Global Mortality and Burden of Disease from 2002 to 2030
+2007|1289.0|9.0|Acta Neuropathologica|The 2007 WHO classification of tumours of the central nervous system.
+2008|787.0|12.0|PLOS ONE|Measuring the Meltdown: Drivers of Global Amphibian Extinction and Decline
+2009|886.0|10.0|PLOS ONE|More than mere numbers: the impact of lethal control on the social stability of a top-order predator.
+2010|1401.0|10.0|PLOS ONE|The Spatial Expansion and Ecological Footprint of Fisheries (1950 to Present)

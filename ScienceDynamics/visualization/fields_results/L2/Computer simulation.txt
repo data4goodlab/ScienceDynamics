@@ -1,0 +1,71 @@
+----  Field Name Computer simulation: 
+----  Field Level 2.0: 
+----  Field Papers Number 360960:
+----  All time max citation paper: THE NEIGHBOR-JOINING METHOD: A NEW METHOD FOR RECONSTRUCTING PHYLOGENETIC TREES, 1987, (27549.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1936|0|0.0|Transactions of The American Institute of Electrical Engineers|A New Telephotograph System
+1944|0|0.0|Journal of Chemical Physics|Theory of Chain Copolymerization Reactions
+1948|2.0|1.0|Journal of Applied Physics|On Creep and Relaxation. II.
+1949|0|0.0|Bulletin of Mathematical Biology|Theory of the mitotic index and its application to tissue growth measurement
+1950|10.0|2.0|Journal of Chemical Physics|Kinetics of OH Radicals from Flame Emission Spectra. II. Rotational and Vibrational Distribution Functions and Temperature Determinations in the 2+2 Transition of OH
+1951|16.0|6.0|Journal of Chemical Physics|The Rate Constant of Ethane Formation from Methyl Radicals
+1952|1.0|1.0|Bulletin of Mathematical Biology|A mathematical theory of capillary exchange as a function of tissue structure
+1953|3.0|1.0|Journal of Chemical Physics|A Detailed Formulation of Kinetic Processes. II. The Role of Collision Processes
+1954|5.0|1.0|Journal of Applied Physics|Diffusion Coefficient, Solubility, and Permeability for Helium in Glass
+1955|2.0|0.0|Journal of Applied Physics|Crystallization Kinetics in High Polymers. II. PolymerDiluent Mixtures
+1956|5.0|2.0|Journal of Applied Physics|Pulsed TF Emission Electron Projection Microscopy
+1957|36.0|1.0|Journal of Chemical Physics|Reactions of Nitrogen Atoms. I. Oxygen and Oxides of Nitrogen
+1958|45.0|4.0|Journal of Applied Physics|Static and Dynamic Behavior of Thin Permalloy Films
+1959|17.0|1.0|Journal of Chemical Physics|CALCULATION OF REACTION PROFILES BEHIND STEADY STATE SHOCK WAVES. II. THE DISSOCIATION OF AIR
+1960|14.0|1.0|Physics of Fluids|Analysis of SteadyState Supported OneDimensional Detonations and Shocks
+1961|18.0|1.0|Journal of Geophysical Research|A study of the free oscillations of the Earth
+1962|31.0|2.0|Journal of Applied Physics|Effect of Impurities on the Flow Stress of LiF Crystals
+1963|13.0|2.0|Journal of Applied Physics|HighTemperature SteadyState Creep Rate in SingleCrystal MgO
+1964|145.0|2.0|Journal of Geophysical Research|Initial results of the imp 1 magnetic field experiment
+1965|45.0|3.0|Journal of Geophysical Research|Crustal structure of the midocean ridges: 2. Computed model from gravity and seismic refraction data
+1966|16.0|1.0|Journal of Geophysical Research|Trapped protons of the inner radiation belt.
+1967|35.0|2.0|Journal of the ACM|Stack automata and compiling
+1968|33.0|2.0|Journal of Geophysical Research|Plasma flow in the magnetosphere
+1969|66.0|2.0|Journal of Geophysical Research|A study of polar magnetic substorms
+1970|59.0|2.0|Journal of Geophysical Research|Inward motion of the magnetopause before a substorm
+1971|42.0|2.0|Journal of Geophysical Research|OBSERVATIONS OF THE INTERPLANETARY MEDIUM: VELA 3 AND IMP 3, 1965--1967.
+1972|37.0|1.0|Journal of Geophysical Research|Outer magnetosphere near midnight at quiet and disturbed times
+1973|47.0|2.0|Reviews of Geophysics|On the rheology of the upper mantle
+1974|107.0|2.0|Journal of Geophysical Research|Empirical model of global thermospheric temperature and composition based on data from the Ogo 6 quadrupole mass spectrometer
+1975|93.0|2.0|Journal of the ACM|Open, Closed, and Mixed Networks of Queues with Different Classes of Customers
+1976|98.0|2.0|Nature|Simple mathematical models with very complicated dynamics.
+1977|59.0|2.0|Journal of Chemical Physics|A model for unimolecular reaction of sulfur hexafluoride
+1978|147.0|2.0|Journal of Geophysical Research|Presentday plate motions
+1979|67.0|2.0|Neuroscience|Brain modeling by tensor network theory and computer simulation. The cerebellum: Distributed processor for predictive coordination
+1980|164.0|2.0|Behavioral and Brain Sciences|Computation and cognition: issues in the foundations of cognitive science
+1981|71.0|2.0|Behavioral and Brain Sciences|Modeling a paranoid mind
+1982|85.0|2.0|Cell|DNA sequence required for efficient transcription termination in yeast
+1983|77.0|2.0|Journal of Geophysical Research|A numerical model of the zonally averaged dynamical and chemical structure of the middle atmosphere
+1984|100.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images
+1985|136.0|2.0|Behavioral and Brain Sciences|Four frames suffice: A provisional model of vision and space
+1986|81.0|2.0||On the statistical analysis of dirty pictures
+1987|214.0|2.0|Molecular Biology and Evolution|THE NEIGHBOR-JOINING METHOD: A NEW METHOD FOR RECONSTRUCTING PHYLOGENETIC TREES
+1988|148.0|2.0|Journal of Molecular Biology|Predicting the secondary structure of globular proteins using neural network models
+1989|305.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A theory for multiresolution signal decomposition: the wavelet representation
+1990|130.0|2.0|Computer Methods in Applied Mechanics and Engineering|A stable and accurate convective modelling procedure based on quadratic upstream interpolation
+1991|332.0|2.0|American Journal of Physics|Solar engineering of thermal processes
+1992|137.0|2.0|IEEE Transactions on Neural Networks|Fuzzy ARTMAP: A neural network architecture for incremental supervised learning of analog multidimensional maps
+1993|162.0|2.0||Connectionist learning procedures
+1994|131.0|3.0|Psychonomic Bulletin & Review|Guided Search 2.0 A revised model of visual search
+1995|392.0|2.0|Science|HIV population dynamics in vivo: implications for genetic variation, pathogenesis, and therapy
+1996|295.0|2.0|Geology|Three-dimensional crustal structure of the southern Sierra Nevada from seismic fan profiles and gravity modeling
+1997|298.0|2.0|Information Processing and Management|Term-weighting approaches in automatic text retrieval
+1998|325.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|On combining classifiers
+1999|238.0|3.0|Nature|Reconstitution of actin-based motility of Listeria and Shigella using pure proteins
+2000|391.0|3.0|Nature|Immune control of HIV-1 after early treatment of acute infection.
+2001|1006.0|4.0|American Journal of Human Genetics|A New Statistical Method for Haplotype Reconstruction from Population Data
+2002|690.0|4.0|IEEE Transactions on Evolutionary Computation|A fast and elitist multiobjective genetic algorithm: NSGA-II
+2003|1931.0|5.0|IEEE\/ACM Transactions on Networking|Chord: a scalable peer-to-peer lookup protocol for Internet applications
+2004|747.0|5.0|Cell|Recognition of Commensal Microflora by Toll-Like Receptors Is Required for Intestinal Homeostasis
+2005|1030.0|4.0|Journal of Computational Chemistry|Scalable molecular dynamics with NAMD.
+2006|648.0|4.0|PLOS Biology|Relaxed phylogenetics and dating with confidence
+2007|1831.0|4.0|BMC Evolutionary Biology|BEAST: Bayesian evolutionary analysis by sampling trees
+2008|1733.0|3.0|Systematic Biology|A Rapid Bootstrap Algorithm for the RAxML Web Servers
+2009|1296.0|3.0|Science|Nitrogen-Doped Carbon Nanotube Arrays with High Electrocatalytic Activity for Oxygen Reduction
+2010|1420.0|5.0|Nature Protocols|I-TASSER: a unified platform for automated protein structure and function prediction

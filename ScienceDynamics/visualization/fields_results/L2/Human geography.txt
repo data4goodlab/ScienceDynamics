@@ -1,0 +1,36 @@
+----  Field Name Human geography: 
+----  Field Level 2.0: 
+----  Field Papers Number 1327:
+----  All time max citation paper: Estimation of the current global burden of cryptococcal meningitis among persons living with HIV/AIDS., 2009, (660.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1968|1.0|1.0||The human ecology of extreme geophysical events
+1979|0|0.0|New Directions for Student Services|Emergent issues of theory and practice
+1980|2.0|0.5|Arctic|Polynyas and Prehistoric Settlement Patterns
+1981|0|0.0|Social Science Research|Sources of Black-White Earnings Differences.
+1983|1.0|1.0|Population Research and Policy Review|Rethinking population distribution policies.
+1984|1.0|0.5|Studies in Comparative International Development|Development from below: neighborhood improvement associations in the Latin American squatter settlements.
+1986|6.0|0.0|Social Science & Medicine|The uses of spatial analysis in medical geography: a review.
+1987|9.0|2.0|Annals of The Association of American Geographers|Academic War Over the Field of Geography: The Elimination of Geography at Harvard, 19471951
+1989|5.0|2.5|The Professional Geographer|INTELLECTUAL COHERENCE AND THE FOUNDATIONS OF GEOGRAPHY
+1990|0|0.0|The Social Studies|Aborigines and Europeans: An Introduction to the Human Ecology of Australia.
+1991|1.0|1.0|Population Bulletin|Population: A Lively Introduction.
+1992|21.0|10.5|Journal of Rural Studies|Neglected Rural Geographies: A Review.
+1993|25.0|11.0|Journal of Rural Studies|Rural studies: Modernism, postmodernism and the post-rural
+1994|3.0|0.0|Strategic Management Journal|Choice situation, strategy, and performance: A reexamination
+1995|21.0|9.0|Journal of Rural Studies|Lay discourses of the rural: developments and implications for rural studies
+1996|5.0|1.0|Journal of Rural Studies|Young women in a male periphery  Experiences from the Scandinavian north
+1997|35.0|0.5|Science of The Total Environment|The geography of the Humber catchment
+1998|4.0|1.0|Political Geography|Mobility, racism and geopolitics
+1999|2.0|1.0|Technology in Society|Reasons to worry about the human environment
+2000|30.0|2.0|International Journal of Infectious Diseases|Treatment of visceral leishmaniasis (kala-azar): a decade of progress and future approaches.
+2001|6.0|1.0|International Journal of Population Geography|Coming of age: rethinking the role of children in population studies.
+2002|18.0|5.0|International Journal of Health Geographics|The application of geographical information systems to important public health problems in Africa.
+2003|54.0|8.5|International Journal of Health Geographics|Positional error in automated geocoding of residential addresses
+2004|95.0|7.0|Lancet Infectious Diseases|The global distribution and population at risk of malaria: past, present, and future
+2005|105.0|20.0|International Journal of Health Geographics|A flexibly shaped spatial scan statistic for detecting clusters.
+2006|92.0|20.0|Journal of Rural Studies|Impulses towards a multifunctional transition in rural Australia: Gaps in the research agenda
+2007|85.0|12.0|The Lancet|Estimates of maternal mortality worldwide between 1990 and 2005: an assessment of available data
+2008|256.0|28.0|Clinical Infectious Diseases|Plasmodium knowlesi Malaria in Humans Is Widely Distributed and Potentially Life Threatening
+2009|554.0|41.0|AIDS|Estimation of the current global burden of cryptococcal meningitis among persons living with HIV/AIDS.
+2010|163.0|15.0|International Journal of Health Geographics|The Atlas of human African trypanosomiasis: a contribution to global mapping of neglected tropical diseases

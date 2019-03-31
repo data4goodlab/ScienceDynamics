@@ -1,0 +1,20 @@
+----  Field Name Electronic business: 
+----  Field Level 2.0: 
+----  Field Papers Number 1353:
+----  All time max citation paper: Similarity flooding: a versatile graph matching algorithm and its application to schema matching, 2002, (517.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1997|8.0|8.0|Bt Technology Journal|Cryptography, trusted third parties and escrow
+1998|8.0|2.0|Computer Communication Review|On the efficient implementation of fair non-repudiation
+1999|32.0|3.5|Management Information Systems Quarterly|IT-intensive value innovation in the electronic economy: insights from Marshall industries
+2000|50.0|2.0|Communications of The ACM|Interoperation support for electronic business
+2001|57.0|3.0|data and knowledge engineering|Information agent technology for the Internet: a survey
+2002|176.0|4.0|international conference on data engineering|Similarity flooding: a versatile graph matching algorithm and its application to schema matching
+2003|80.0|3.0|Information Systems Research|XML-Based Schema Definition for Support of Interorganizational Workflow
+2004|49.0|4.0|Journal of Management Information Systems|Information Technology Payoff in E-Business Environments: An International Perspective on Value Creation of E-Business in the Financial Services Industry
+2005|112.0|4.0|Information Systems Research|Post-Adoption Variations in Usage and Value of E-Business by Organizations: Cross-Country Evidence from the Retail Industry
+2006|78.0|2.0|Management Science|The Process of Innovation Assimilation by Firms in Different Countries: A Technology Diffusion Perspective on E-Business
+2007|46.0|3.0|International Journal of Information Management|Factors affecting the adoption of Internet Banking in Hong Kong-implications for the banking sector
+2008|169.0|1.0|Tourism Management|Progress in information technology and tourism management: 20 years on and 10 years after the InternetThe state of eTourism research
+2009|57.0|1.0|Transportation Research Part C-emerging Technologies|Intelligent freight-transportation systems: Assessment and the contribution of operations research
+2010|70.0|2.0||Placing the 2006/08 Commodity Price Boom into Perspective

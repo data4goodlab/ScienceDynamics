@@ -1,0 +1,51 @@
+----  Field Name Question answering: 
+----  Field Level 2.0: 
+----  Field Papers Number 2597:
+----  All time max citation paper: Categorical Data Analysis: Away from ANOVAs (Transformation or Not) and towards Logit Mixed Models., 2008, (694.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|14.0|14.0|Communications of The ACM|Experiments with a deductive question-answering program
+1966|6.0|6.0||An approach toward answering English questions from text
+1968|24.0|24.0||The use of theorem-proving techniques in question-answering systems
+1969|18.0|10.5||Theorem proving by resolution as a basis for question-answering systems
+1970|16.0|11.0|Communications of The ACM|Natural language question-answering systems: 1969
+1971|5.0|1.5|international acm sigir conference on research and development in information retrieval|The converse natural language data management system: current status and plans
+1972|12.0|3.0|Journal of the ACM|Fuzzy Logic and the Resolution Principle
+1973|2.0|1.0||A multi-processing approach to natural language
+1974|12.0|2.5|Memory & Cognition|A propositional theory of recognition memory
+1975|2.0|2.0||The clowns microworld
+1976|12.0|3.0|Ibm Journal of Research and Development|REQUEST: a natural language question-answering system
+1977|14.0|0.0|Cognitive Science|Human and computational question answering
+1978|45.0|8.0|Communications of The ACM|An English language question answering system for a large relational database
+1979|13.0|3.0|international joint conference on artificial intelligence|Experience with the evaluation of natural language question answerers
+1980|10.0|1.0|international conference on computational linguistics|A rule-based approach to ill-formed input
+1981|18.0|2.0|international joint conference on artificial intelligence|Multi-strategy construction-specific parsing for flexible data base query and update
+1982|20.0|2.5|Computational Linguistics|An efficient easily adaptable system for interpreting natural language queries
+1983|27.0|4.0||TEAM: a transportable natural-language interface system
+1984|16.0|3.5|ACM Transactions on Information Systems|LDC-1: a transportable, knowledge-based natural language processor for office environments
+1985|14.0|1.5|Cognitive Psychology|Strategy-Selection in Question-Answering.
+1986|16.0|1.0|Journal of Experimental Psychology: Learning, Memory and Cognition|Processing information about covariations that cannot be articulated.
+1987|68.0|3.0|Artificial Intelligence|TEAM: an experiment in the design of transportable natural-language interfaces
+1988|35.0|1.5|Computational Linguistics|Tailoring object descriptions to a user's level of expertise
+1989|8.0|0.5|international acm sigir conference on research and development in information retrieval|A retrieval model based on an extended modal logic and its application to the RIME experimental approach
+1990|27.0|1.0|IEEE Transactions on Knowledge and Data Engineering|FLEX: a tolerant and cooperative user interface to databases
+1991|10.0|2.0|international joint conference on artificial intelligence|Resolving plan ambiguity for cooperative response generation
+1992|15.0|4.0||A characterization of the scientific data analysis process
+1993|8.0|2.0|international acm sigir conference on research and development in information retrieval|MURAX: a robust linguistic approach for question answering using an on-line encyclopedia
+1994|19.0|1.0|national conference on artificial intelligence|Social interaction: multimodal conversation with social agents
+1995|13.0|1.0|Journal of Memory and Language|The Feeling of Anothers Knowing: Prosody and Filled Pauses as Cues to Listeners about the Metacognitive States of Speakers
+1996|17.0|2.0|national conference on artificial intelligence|Learning to Parse Database Queries using Inductive Logic Programming
+1997|23.0|2.0|The American Journal of Medicine|Does the Chronic Fatigue Syndrome Involve the Autonomic Nervous System?
+1998|35.0|1.0|International Review of Cytology-a Survey of Cell Biology|Human Mitochondrial Diseases: Answering Questions and Questioning Answers
+1999|47.0|3.0|Cognitive Systems Research|AutoTutor: A simulation of a human tutor
+2000|56.0|4.0|Journal of Non-crystalline Solids|Dynamic and thermodynamic properties of glass-forming substances
+2001|95.0|7.0||Data-Intensive Question Answering
+2002|129.0|4.0|meeting of the association for computational linguistics|Learning surface text patterns for a Question Answering system
+2003|86.0|5.0|intelligent user interfaces|Towards a theory of natural language interfaces to databases
+2004|120.0|4.0|Journal of Web Semantics|OWL-QL-a language for deductive query answering on the Semantic Web
+2005|215.0|4.0|Artificial Intelligence|Unsupervised named-entity extraction from the web: an experimental study
+2006|91.0|3.0|international acm sigir conference on research and development in information retrieval|User performance versus precision measures for simple search tasks
+2007|172.0|3.0|international world wide web conferences|Expertise networks in online communities: structure and algorithms
+2008|402.0|2.0|Journal of Memory and Language|Categorical Data Analysis: Away from ANOVAs (Transformation or Not) and towards Logit Mixed Models.
+2009|137.0|2.0|The Journal of the Learning Sciences|Higher Levels of Agency for Children in Knowledge Building: A Challenge for the Design of New Knowledge Media
+2010|85.0|3.0|Journal of Artificial Intelligence Research|A survey of paraphrasing and textual entailment methods

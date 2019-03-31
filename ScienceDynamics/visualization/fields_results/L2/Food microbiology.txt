@@ -1,0 +1,48 @@
+----  Field Name Food microbiology: 
+----  Field Level 2.0: 
+----  Field Papers Number 2043:
+----  All time max citation paper: Foodborne illness acquired in the United States--major pathogens., 2011, (1479.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1968|0|0.0|Applied and Environmental Microbiology|Lactobacilli on Plants
+1969|0|0.0|Journal of Hygiene|Haemolytic activity of the alpha and theta toxins of Clostridium welchii
+1970|2.0|1.5|Journal of Hygiene|A survey on the occurrence of Vibrio parahaemolyticus on fish and shellfish, marketed in the Netherlands.
+1971|1.0|0.0|Journal of Hygiene|The survival of salmonellas on finger-tips and transfer of the organisms to foods
+1972|3.0|1.0|Journal of Hygiene|An evaluation of strontium chloride, Rappaport and strontium selenite enrichment for the isolation of salmonellas from man, animals, meat products and abattoir effluents.
+1973|1.0|1.0|Journal of Hygiene|The Hampshire epidemic of foot-and-mouth disease, 1967.
+1974|3.0|0.0|Journal of Hygiene|The survival and growth of Bacillus cereus in boiled and fried rice in relation to outbreaks of food poisoning
+1975|4.0|2.5|Journal of Hygiene|Trends in salmonella food poisoning in England and Wales 1941-72.
+1977|1.0|1.0|Journal of Hygiene|The reliability of the examination of foods, processed for safety, for enteric pathogens and Enterobacteriaceae: a mathematical and ecological study.
+1978|4.0|1.0|Journal of Hygiene|The sources of "OH" serotypes of Escherichia coli.
+1979|3.0|1.5|Journal of Hygiene|Nosocomial klebsiellas. II. Transfer in a hospital ward.
+1980|3.0|1.0|Journal of Hygiene|Commercial milk products and indigenous weaning foods in a rural West African environment: a bacteriological perspective
+1981|9.0|5.0|Journal of Hygiene|Comparison of selenite F, Muller-Kauffmann tetrathionate and Rappaport's medium for salmonella isolation from chicken giblets after pre-enrichment in buffered peptone water.
+1982|4.0|1.5|Journal of Hygiene|Isolations of salmonellas from human, food and environmental sources in the Manchester area: 19761980
+1983|3.0|2.5|Journal of Hygiene|Enterotoxin production, phage typing and serotyping of Staphylococcus aureus strains isolated from clinical materials and food.
+1984|5.0|2.0|Journal of Hygiene|The microbiology of selected retail food products with an evaluation of viable counting methods
+1985|5.0|1.0|Journal of Hygiene|Biotypes and serotypes of thermophilic campylobacters isolated from cattle, sheep and pig offal and other red meats.
+1986|2.0|0.0|Journal of Hygiene|International outbreak of staphylococcal food poisoning caused by contaminated lasagne
+1987|16.0|1.5|International Journal of Systematic and Evolutionary Microbiology|Classification of Lactobacillus divergens, Lactobacillus piscicola, and some catalase-negative, asporogenous, rod-shaped bacteria from poultry in a new genus, Carnobacterium.
+1988|11.0|5.0|Epidemiology and Infection|Isolation and characterization of motile Aeromonas from human, food and environmental specimens
+1989|18.0|8.0|Applied and Environmental Microbiology|Toxin production by Bacillus cereus dairy isolates in milk at low temperatures.
+1990|50.0|3.5|Epidemiology and Infection|International increase in Salmonella enteritidis: a new pandemic?
+1991|23.0|10.0|Epidemiology and Infection|Numbers of Salmonella enteritidis in the contents of naturally contaminated hens' eggs.
+1992|28.0|1.5|Cell|Assembly of the active form of the transposase-Mu DNA complex: A critical control point in Mu transposition
+1993|20.0|3.0|Epidemiology and Infection|Verotoxin producing Escherichia coli O 157 infections associated with the consumption of yoghurt.
+1994|32.0|8.0|Protein Science|G proteins: Critical control points for transmembrane signals
+1995|36.0|8.0|Applied and Environmental Microbiology|Acid tolerance of enterohemorrhagic Escherichia coli.
+1996|59.0|8.0|Journal of Experimental Medicine|Regulation of cell division cycle progression by bcl-2 expression: a potential mechanism for inhibition of programmed cell death.
+1997|118.0|12.0|Applied and Environmental Microbiology|Inhibition and facilitation of nucleic acid amplification.
+1998|92.0|9.0|Molecular Cell|Assembly of a 12/23 Paired Signal Complex: A Critical Control Point in V(D)J Recombination
+1999|38.0|9.0|Applied and Environmental Microbiology|Mechanisms of Action of Carvacrol on the Food-Borne Pathogen Bacillus cereus
+2000|201.0|12.0|BMJ|Exposure to foodborne and orofecal microbes versus airborne viruses in relation to atopy and allergic asthma: epidemiological study.
+2001|107.0|11.5|Applied and Environmental Microbiology|Microarray Analysis of Microbial Virulence Factors
+2002|57.0|16.0|Applied and Environmental Microbiology|The phenolic hydroxyl group of carvacrol is essential for action against the food-borne pathogen Bacillus cereus.
+2003|84.0|11.5|Microbiology and Molecular Biology Reviews|Surviving the Acid Test: Responses of Gram-Positive Bacteria to Low pH
+2004|165.0|20.0|Emerging Infectious Diseases|Avian influenza H5N1 in tigers and leopards.
+2005|176.0|16.0|Emerging Infectious Diseases|Epidemiology of Escherichia coli O157:H7 Outbreaks, United States, 19822002
+2006|82.0|14.0|Emerging Infectious Diseases|Fresh chicken as main risk factor for campylobacteriosis, Denmark
+2007|222.0|17.0|International Journal of Food Microbiology|Bacteriocin-based strategies for food biopreservation.
+2008|147.0|16.0|Microbiology and Molecular Biology Reviews|Genes and Molecules of Lactobacilli Supporting Probiotic Action
+2009|196.0|12.0|Nature|Sphingosine-1-phosphate mobilizes osteoclast precursors and regulates bone homeostasis
+2010|186.0|11.0|BMC Genomics|High-throughput genome sequencing of two Listeria monocytogenes clinical isolates during a large foodborne outbreak.

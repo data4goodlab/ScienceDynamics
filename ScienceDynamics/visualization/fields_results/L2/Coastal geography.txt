@@ -1,0 +1,51 @@
+----  Field Name Coastal geography: 
+----  Field Level 2.0: 
+----  Field Papers Number 2060:
+----  All time max citation paper: Estimating sediment budgets at the interface between rivers and estuaries with application to the SacramentoSan Joaquin River Delta, 2005, (545.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|2.0|2.0|Transactions of The British Mycological Society|Mycorrhiza in the Gramineae. II. Development in different habitats, particularly sand dunes.
+1963|3.0|3.0|Transactions of The British Mycological Society|Studies on fungi in coastal soils: IV. Cellulose decomposing species in sand dunes
+1967|2.0|2.0|Plant and Soil|Nodulation and nitrogen-fixation by Hippopha rhamnoides L. in the field
+1968|0|0.0|Journal of Hydrology|A study of the drainage of irrigated sand dunes using an electrical resistance analogue
+1969|2.0|1.5|Sedimentary Geology|Sediment budget along a barrier island chain
+1971|0|0.0|Plant and Soil|THE NUTRITIONAL ROLE OF LUPINUS ARBOREUS IN COASTAL SAND DUNE FORESTRY THE POTENTIAL INFLUENCE OF UNDAMAGED LUPIN PLANTS ON NITROGEN UPTAKE BY PINUS RADIATA *
+1972|2.0|2.0|Transactions of The British Mycological Society|Critical analysis of fungi in two sand-dune soils
+1973|10.0|0.0|Journal of Geophysical Research|Wind erosion in the Martian polar regions
+1974|2.0|1.0|Journal of Hydrology|Study of the infiltration and recharge through the sand dunes in arid zones with special reference to the stable isotopes and thermonuclear tritium
+1975|14.0|3.0|New Phytologist|ELECTRON MICROSCOPICAL STUDIES OF THE MICROFLORA OF ROOTS OF SAND DUNE GRASSES
+1976|10.0|10.0|Journal of Great Lakes Research|Sedimentation Rates and a Sediment Budget for Lake Superior
+1977|11.0|1.0|Oecologia|Taxonomic and Ecological Aspects of the Distribution of Glycinebetaine and Related Compounds in Plants
+1978|36.0|5.0|Nature|Sand deserts during glacial maximum and climatic optimum
+1979|14.0|9.0|Journal of Geophysical Research|Eolian features in the western desert of Egypt and some applications to Mars
+1980|5.0|1.0|Journal of Geophysical Research|Threshold velocities for input of soil particles into the air by desert soils
+1981|20.0|3.0|Estuarine Coastal and Shelf Science|Sand beach energetics: An ecosystem approach towards a high energy interface
+1982|5.0|2.0|Physiologia Plantarum|Saltspray stimulated growth in strandline species
+1983|13.0|2.0|Sedimentology|Dynamic processes acting on a longitudinal (seif) sand dune
+1984|4.0|0.5|BioScience|Are VA Mycorrhizae Required for Sand Dune Stabilization?
+1985|15.0|2.5|Plant Ecology|Ecophysiological adaptations of coastal halophytes from foredunes and salt marshes
+1986|12.0|2.0|Continental Shelf Research|Nature of sediment accumulation on the Amazon continental shelf
+1987|7.0|2.5|Geo-marine Letters|The source and origin of the 1929 grand banks turbidity current inferred from sediment budgets
+1988|6.0|2.0|Continental Shelf Research|The effects of iron reduction and nonsteady-state diagenesis on iodine, ammonium, and boron distributions in sediments from the Amazon continental shelf
+1989|12.0|2.0|Fungal Biology|Seasonal dynamics of selected species of V-A mycorrhizal fungi in a sand dune
+1990|8.0|1.0|Estuarine Coastal and Shelf Science|Wetland soil formation in the rapidly subsiding Mississippi River Deltaic Plain: Mineral and organic matter relationships
+1991|9.0|2.5|Fungal Biology|The spatial dispersion of spores of vesicular-arbuscular mycorrhizal fungi in a sand dune: microscale patterns associated with the root architecture of American beachgrass
+1992|5.0|3.0|Earth Surface Processes and Landforms|Floodplain storage of mine tailings in the belle fourche river system: A sediment budget approach
+1993|19.0|1.5|Continental Shelf Research|A preliminary study of sedimentation in the tidally dominated Fly River Delta, Gulf of Papua
+1994|12.0|2.0|Aquatic Ecology|Land reclamation as a cause of fine-grained sediment depletion in backbarrier tidal flats (Southern North Sea)
+1995|26.0|2.0|Estuaries|Natures pulsing paradigm
+1996|28.0|3.0|Physics of Plasmas|Trapping of dust and dust acoustic waves in laboratory plasmas
+1997|58.0|3.5|Applied and Environmental Microbiology|Analysis of ammonia-oxidizing bacteria of the beta subdivision of the class Proteobacteria in coastal sand dunes by denaturing gradient gel electrophoresis and sequencing of PCR-amplified 16S ribosomal DNA fragments.
+1998|22.0|4.0|Geomorphology|The recent history of erosion and sedimentation on the Southern Tablelands of southeastern Australia: sediment flux dominated by channel incision
+1999|64.0|5.0|Marine Geology|Modern accumulation rates and a sediment budget for the Eel shelf: a flood-dominated depositional environment
+2000|19.0|4.0|Oecologia|Facilitative effects of a sand dune shrub on species growing beneath the shrub canopy.
+2001|21.0|5.0|Tectonophysics|Quantifying tectonic versus erosive denudation by the sediment budget: the Miocene core complexes of the Alps
+2002|51.0|6.0|Molecular Ecology|Community analysis of arbuscular mycorrhizal fungi associated with Ammophila arenaria in Dutch coastal sand dunes.
+2003|39.0|6.0|Geomorphology|Magnitude and frequency of landsliding in a large New Zealand catchment
+2004|58.0|6.0|Quaternary International|Late Quaternary climates of the Australian arid zone: a review
+2005|181.0|8.0|Water Resources Research|Estimating sediment budgets at the interface between rivers and estuaries with application to the SacramentoSan Joaquin River Delta
+2006|68.0|7.0|Genetica|Hybridization and the colonization of novel habitats by annual sunflowers
+2007|58.0|6.0|Catena|Buffers, barriers and blankets: The (dis)connectivity of catchment-scale sediment cascades
+2008|169.0|9.0|Science|Coastal ecosystem-based management with nonlinear ecological functions and values
+2009|58.0|9.0|Molecular Biology and Evolution|The Genetic Basis of Phenotypic Convergence in Beach Mice: Similar Pigment Patterns but Different Genes
+2010|114.0|9.0|Earth Surface Processes and Landforms|Accounting for uncertainty in DEMs from repeat topographic surveys: improved sediment budgets

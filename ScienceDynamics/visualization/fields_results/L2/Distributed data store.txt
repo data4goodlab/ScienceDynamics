@@ -1,0 +1,40 @@
+----  Field Name Distributed data store: 
+----  Field Level 2.0: 
+----  Field Papers Number 14182:
+----  All time max citation paper: Chord: a scalable peer-to-peer lookup protocol for Internet applications, 2003, (3220.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|2.0|2.0|Comparative Biochemistry and Physiology|The action of cholinergic antagonists on spontaneous excitatory potentials recorded from the body wall muscles of the leech Hirudo medicinalis
+1973|3.0|3.0|Comparative Biochemistry and Physiology Part A: Physiology|The ionic mechanism for 5-hydroxytryptamine inhibition on retzius cells of the leech Hirudo medicinalis
+1975|1.0|1.0|Comparative Biochemistry and Physiology Part C: Comparative Pharmacology|5-Hydroxytryptamine as a possible inhibitory neurotransmitter in the central nervous system of the leech, Haemopis Sanguisuga
+1978|19.0|19.0|Communications of The ACM|Distributed processes: a concurrent programming concept
+1981|36.0|6.0||Crash recovery in a distributed data storage system
+1982|0|0.0|principles of distributed computing|Language concepts for distributed processing of large arrays
+1983|5.0|3.0|Brain Research|Microglial movement to sites of nerve lesion in the leech CNS
+1984|8.0|4.0|Brain Research|Retzius cells retain functional membrane properties following ablation by the neurotoxin 5,7-DHT
+1985|12.0|5.0|Journal of Neurochemistry|Elemental composition and water content of neuron and glial cells in the central nervous system of the North American medicinal leech (Macrobdella decora).
+1986|10.0|3.0|Brain Research|Probing structural homologies in cell-specific glycoproteins in the leech CNS
+1987|26.0|7.0|FEBS Letters|Antithrombin properties of C-terminus of hirudin using synthetic unsulfated N  -acetyl-hirudin 4565
+1988|18.0|2.0|ACM Transactions on Information Systems|A rule-based message filtering system
+1989|11.0|2.5|acm special interest group on data communication|A loop-free extended Bellman-Ford routing protocol without bouncing effect
+1990|10.0|6.0|acm special interest group on data communication|Design of inter-administrative domain routing protocols
+1991|258.0|3.0|Science|The medial temporal lobe memory system
+1992|15.0|2.0|international parallel and distributed processing symposium|Pipelined circuit-switching: a fault-tolerant variant of wormhole routing
+1993|58.0|5.0|Journal of Lightwave Technology|A scalable multiwavelength multihop optical network: a proposal for research on all-optical networks
+1994|61.0|6.0|acm special interest group on data communication|An architecture for wide-area multicast routing
+1995|58.0|6.0|Wireless Networks|Improving reliable transport and handoff performance in cellular wireless networks
+1996|96.0|6.0|IEEE Journal on Selected Areas in Communications|Quality-of-service routing for supporting multimedia applications
+1997|180.0|3.0|international conference on computer communications|A highly adaptive distributed routing algorithm for mobile wireless networks
+1998|422.0|5.0|acm ieee international conference on mobile computing and networking|A performance comparison of multi-hop wireless ad hoc network routing protocols
+1999|195.0|7.5|symposium on operating systems principles|The design and implementation of an intentional naming system
+2000|362.0|5.0|acm ieee international conference on mobile computing and networking|GPSR: greedy perimeter stateless routing for wireless networks
+2001|952.0|9.0||Pastry: Scalable, Decentralized Object Location, and Routing for Large-Scale Peer-to-Peer Systems
+2002|512.0|7.0|IEEE Transactions on Wireless Communications|An application-specific protocol architecture for wireless microsensor networks
+2003|1931.0|6.0|IEEE\/ACM Transactions on Networking|Chord: a scalable peer-to-peer lookup protocol for Internet applications
+2004|577.0|4.0|IEEE Wireless Communications|Routing techniques in wireless sensor networks: a survey
+2005|832.0|3.0|Computer Networks and Isdn Systems|Wireless mesh networks: a survey
+2006|840.0|3.0|Computer Networks|NeXt generation/dynamic spectrum access/cognitive radio wireless networks: a survey
+2007|359.0|3.0|Nature|Production of dimethylfuran for liquid fuels from biomass-derived carbohydrates
+2008|170.0|2.0|ACM Transactions on Computer Systems|Bigtable: A Distributed Storage System for Structured Data
+2009|270.0|1.0|ad hoc networks|CRAHNs: Cognitive radio ad hoc networks
+2010|159.0|2.0|international conference on computer communications|Improving the Scalability of Data Center Networks with Traffic-aware Virtual Machine Placement

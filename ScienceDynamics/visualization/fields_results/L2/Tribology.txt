@@ -1,0 +1,53 @@
+----  Field Name Tribology: 
+----  Field Level 2.0: 
+----  Field Papers Number 16155:
+----  All time max citation paper: Protective coatings on magnesium and its alloys  a critical review, 2002, (926.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1949|2.0|2.0|Eos, Transactions American Geophysical Union|Significance of radioactivity in geophysics  Thermal history of the Earth
+1962|1.0|1.0|Journal of the American Ceramic Society|Apparatus for Forming Small Ceramic Spheres
+1965|2.0|2.0|Wear|The wear resistance of tin bronzes and related alloys
+1966|4.0|2.5|Archive of Applied Mechanics|On the stability of equilibrium of continuous systems.
+1967|0|0.0||SURFACES AND INTERFACES IN MATERIALS TECHNOLOGY.
+1968|0|0.0|Tribology Transactions|Sliding friction of copper alloys in vacuum.
+1969|4.0|4.0|Proceedings of The Institution of Electrical Engineers|Application of linear induction motors to high-speed transport systems
+1971|6.0|2.5|Wear|A NEW THEORY OF HYSTERETIC SLIDING FRICTION
+1972|5.0|1.0|Journal of Fluid Mechanics|Non-local effects in the stability of flow between eccentric rotating cylinders
+1973|13.0|2.0|Annals of Probability|Shock Models and Wear Processes
+1974|6.0|2.0|Wear|Influence of Normal Alcohols on the Abrasive Wear of Glass.
+1975|8.0|2.0|Wear|Texturing in metals as a result of sliding
+1976|2.0|2.0|Wear|SEVERE WEAR OF ROLLING/SLIDING CONTACTS
+1977|15.0|3.0|Engineering Fracture Mechanics|Crack border stress and displacement equations revisited
+1978|7.0|1.0|Thin Solid Films|Coatings for wear and lubrication
+1979|10.0|1.5|Tribology International|Variations in wear resistance due to microstructural condition in high strength steel under repetitive impact
+1980|2.0|0.0|Wear|A study of wear rates and transfer films of friction materials.
+1981|7.0|1.0|IEEE Transactions on Components, Hybrids, and Manufacturing Technology|Sliding Wear of Metallic Contacts
+1982|9.0|1.0|Wear|Residual Stresses and Sliding Wear.
+1983|12.0|1.0|Wear|Sliding friction and wear resistance of the metallic glass Fe40Ni40B20
+1984|16.0|1.0|Journal of Dentistry|Quantitative evaluation of the wear resistance of posterior dental restorations: a new three-dimensional measuring technique
+1985|22.0|1.0|Materials Science and Engineering|Ion implantation of surgical Ti6Al4V alloy
+1986|11.0|1.0|Dental Materials|The wear of a posterior composite in an artificial mouth: a clinical correlation
+1987|28.0|1.0|Thin Solid Films|The mechanical properties of wear-resistant coatings: I: Modelling of hardness behaviour
+1988|25.0|1.0|Thin Solid Films|Fundamental aspects of the electronic structure, materials properties and lubrication performance of sputtered MoS 2 films
+1989|25.0|1.0|Journal of the American Ceramic Society|GrainSize and RCurve Effects in the Abrasive Wear of Alumina
+1990|26.0|1.5|Tribology International|A review of the influence of environmental humidity and water on friction, lubrication and wear
+1991|12.0|1.0|Journal of Structural Engineering-asce|Study of Sliding Bearing and HelicalSteelSpring Isolation System
+1992|10.0|1.0|Journal of Materials Research|Improved hardness and wear properties of B-ion implanted polycarbonate
+1993|35.0|2.0|Wear|Review of multicomponent and multilayer coatings for tribological applications
+1994|84.0|2.0|Automatica|A survey of models, analysis tools and compensation methods for the control of machines with friction
+1995|24.0|2.0|Wear|Mechanical and tribological properties of hard carbon coatings for magnetic recording heads
+1996|23.0|2.0|Wear|Quantification of fretting damage
+1997|39.0|2.0|Journal of Applied Physics|Nanocrystalline carbide/amorphous carbon composites
+1998|34.0|2.0|Journal of Fluid Mechanics|Cavitation erosion by single laser-produced bubbles
+1999|81.0|2.0|Journal of Orthopaedic Research|Development of an extremely wearresistant ultra high molecular weight polythylene for total hip replacements
+2000|64.0|3.0|Wear|On the significance of the H / E ratio in wear control: a nanocomposite coating approach to optimised tribological behaviour
+2001|52.0|3.0|Progress in Polymer Science|New developments of polymeric dental composites
+2002|136.0|3.0|Journal of Alloys and Compounds|Protective coatings on magnesium and its alloys  a critical review
+2003|78.0|4.0|Applied Physics Letters|Self-organized nanostructures in the TiAlN system
+2004|78.0|4.0|Materials Science & Engineering R-reports|Surface modification of titanium, titanium alloys, and related materials for biomedical applications
+2005|157.0|4.0|Fuel Processing Technology|Dependence of biodiesel fuel properties on the structure of fatty acid alkyl esters
+2006|128.0|5.0|Progress in Materials Science|Microstructural design of hard coatings
+2007|353.0|5.0|Progress in Energy and Combustion Science|Biofuels (alcohols and biodiesel) applications as fuels for internal combustion engines
+2008|380.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Discovery of a selective inhibitor of oncogenic B-Raf kinase with potent antimelanoma activity
+2009|77.0|5.0|Journal of Biomechanics|The role of interstitial fluid pressurization in articular cartilage lubrication
+2010|546.0|5.0|Nanoscale Research Letters|Sensitivity of Dielectric Properties to Wear Process on Carbon Nanofiber/High-Density Polyethylene Composites

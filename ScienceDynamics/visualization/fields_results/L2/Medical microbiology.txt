@@ -1,0 +1,53 @@
+----  Field Name Medical microbiology: 
+----  Field Level 2.0: 
+----  Field Papers Number 5316:
+----  All time max citation paper: HOW NEUTROPHILS KILL MICROBES, 2004, (684.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1958|5.0|5.0|Archives of Virology|Initial stages of the interaction of Hela cells with poliovirus
+1962|0|0.0|Mycopathologia|A family outbreak of tinea capitis due to Trichophyton violaceum in Michigan. Its control with griseofulvin
+1965|1.0|0.5|Journal of Experimental Medicine|Studies on the mechanism of action of Riley virus. 3. Replication of Riley's plasma enzyme-elevating virus in vitro.
+1967|7.0|5.0|Biochemical Genetics|Electrophoretic variation in human serum ceruloplasmin: A new genetic polymorphism
+1968|1.0|1.0|Biochemical Genetics|The Thai variant and the distribution of alleles of 6-phosphogluconate dehydrogenase and the distribution of glucose 6-phosphate dehydrogenase deficiency in Thailand
+1969|7.0|2.5|In Vitro Cellular & Developmental Biology  Plant|The animal cell culture collection.
+1970|12.0|7.5|Biochemical Genetics|A sex-limited serum protein variant in the mouse: inheritance and association with the H-2 region.
+1971|15.0|6.0|Biochemical Genetics|Genetic variation and evolution in the red cell carbonic anhydrase isozymes of macaque monkeys
+1972|12.0|1.0|Biochemical Genetics|Genome amplification and gene expression in the ciliate macronucleus
+1973|17.0|2.5|Journal of Experimental Medicine|PREVENTION OF CELL-TO-CELL SPREAD OF HERPES SIMPLEX VIRUS BY LEUKOCYTES
+1974|4.0|2.0|Biochemical Genetics|Nucleotide sequence divergence among DNA fractions of different syngens of Tetrahymena pyriformis
+1975|2.0|2.0|Biochemical Genetics|Citrulline metabolism in normal and citrullinemic human lymphocyte lines
+1976|29.0|8.0|Virology|Protease activation mutants of sendai virus. Activation of biological properties by specific proteases.
+1977|16.0|3.0|Virology|Oncornaviruses produced by murine leukemia cells in culture
+1978|7.0|2.0|Cancer Research|Quantitative analysis of thymus lymphoid cells during murine radioleukemogenesis
+1979|4.0|1.0|Biochimica et Biophysica Acta|Plasminogen activator from cells transformed by an oncogenic virus. Inhibitors of the activation reaction
+1980|21.0|0.5|Virology|Amino-terminal sequence of adenovirus type 2 proteins: hexon, fiber, component IX, and early protein 1B-15K
+1981|20.0|11.0|Virology|Adenovirus type 2 early proteins: Assignment of the early region 1A proteins synthesized in vivo and in vitro to specific mRNAs
+1982|6.0|2.0|Biochemical Genetics|Characterization of two new electrophoretic variants of human triosephosphate isomerase: Stability, kinetic, and immunological properties
+1983|3.0|2.0|Journal of Immunological Methods|A photometric and plaque assay for macrophage mediated tumor cell cytotoxicity
+1984|3.0|1.0|Genetics|FUNCTIONAL INTERCHANGEABILITY OF DNA REPLICATION GENES IN SALMONELLA TYPHIMURIUM AND ESCHERICHIA COLI DEMONSTRATED BY A GENERAL COMPLEMENTATION PROCEDURE
+1985|5.0|1.5|Veterinary Microbiology|Excretion and reexcretion of thermosensitive and wild-type strains of infectious bovine rhinotracheitis virus after co-infection or two successive infections.
+1986|6.0|5.0|Journal of Reproductive Immunology|Background Ig-secreting cells in pregnant germfree mice fed a chemically defined ultrafiltered diet
+1987|3.0|3.0|Virus Research|Genetic characterization of JC virus Tokyo-1 strain, a variant oncogenic in rodents
+1988|7.0|1.0|Gene|Plasmid pACYC184 contains an ssi signal for initiation of single-strand phage DNA replication
+1989|5.0|0.0|Journal of Plant Physiology|DNA synthesis and cell division in embryonic maize tissues during germination
+1990|3.0|2.0|Journal of Virological Methods|Development of a rotavirus plaque assay using Sephadex G-75
+1991|19.0|3.0|Journal of Virological Methods|Competitive polymerase chain reaction assay for quantitation of HIV-1 DNA and RNA
+1992|7.0|5.0|Journal of Virological Methods|Propagation of adenovirus types 40 and 41 in the PLC/PRF/5 primary liver carcinoma cell line
+1993|8.0|2.0|Archives of Virology|Dolphin morbillivirus infection in different parts of the Mediterranean Sea
+1994|14.0|4.0|Immunology Letters|Regulation of nitric oxide synthesis in infectious and autoimmune diseases
+1995|22.0|7.0|Journal of Clinical Microbiology|Comparison of commercial enzyme immunoassay kits with plaque reduction neutralization test for detection of measles virus antibody.
+1996|37.0|2.5|Journal of Virology|The adenovirus death protein (E3-11.6K) is required at very late stages of infection for efficient cell lysis and release of adenovirus from infected cells.
+1997|58.0|15.0|Life Sciences|Peroxynitrite: A two-faced metabolite of nitric oxide
+1998|113.0|7.5|Clinical Microbiology Reviews|Quantitation of Cytomegalovirus: Methodologic Aspects and Clinical Applications
+1999|65.0|8.0|Journal of Clinical Investigation|Surfactant protein-A enhances respiratory syncytial virus clearance in vivo
+2000|46.0|11.0|Journal of Virology|The fusion glycoprotein of human respiratory syncytial virus facilitates virus attachment and infectivity via an interaction with cellular heparan sulfate.
+2001|74.0|8.0|Journal of Virology|Human Cytomegalovirus with IE-2 (UL122) Deleted Fails To Express Early Lytic Genes
+2002|42.0|14.0|BMC Infectious Diseases|Association of circulating Chlamydia pneumoniae DNA with cardiovascular disease: a systematic review
+2003|55.0|10.5|Cancer Research|Molecular Characterization of Circulating EBV DNA in the Plasma of Nasopharyngeal Carcinoma and Lymphoma Patients
+2004|239.0|9.0|Annual Review of Immunology|HOW NEUTROPHILS KILL MICROBES
+2005|87.0|28.0|BMC Infectious Diseases|A novel pancoronavirus RT-PCR assay: frequent detection of human coronavirus NL63 in children hospitalized with respiratory tract infections in Belgium
+2006|216.0|27.0|BMC Infectious Diseases|How long do nosocomial pathogens persist on inanimate surfaces? A systematic review
+2007|94.0|16.0|BMC Infectious Diseases|Diagnostic and prognostic accuracy of clinical and laboratory parameters in community-acquired pneumonia
+2008|108.0|35.0|BMC Infectious Diseases|Frequency distribution of hepatitis C virus genotypes in different geographical regions of Pakistan and their possible routes of transmission.
+2009|300.0|23.0|The Lancet|Efficacy of human papillomavirus (HPV)-16/18 AS04-adjuvanted vaccine against cervical infection and precancer caused by oncogenic HPV types (PATRICIA): final analysis of a double-blind, randomised study in young women
+2010|358.0|55.0|Nature Reviews Cancer|Human papillomavirus oncoproteins: pathways to transformation

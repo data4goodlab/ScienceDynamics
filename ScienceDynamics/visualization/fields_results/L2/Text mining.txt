@@ -1,0 +1,56 @@
+----  Field Name Text mining: 
+----  Field Level 2.0: 
+----  Field Papers Number 16047:
+----  All time max citation paper: Phaser crystallographic software., 2007, (3999.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1926|0|0.0|Journal of Hygiene|The Measurement of Bacterial Virulence and of Certain Allied Properties, with special reference to the Virulence of B. aertrycke.
+1934|0|0.0|Journal of Hygiene|Some Fermentative Varieties of Bacillus Paratyphosus B
+1935|1.0|0.5|Journal of Hygiene|Impetigo Contagiosa, its Epidemiology and Control
+1937|1.0|1.0|Journal of Hygiene|Physical and emotional periodicity in women.
+1938|2.0|1.0|The Journal of General Physiology|LIMITING FACTORS IN PHOTOSYNTHESIS: LIGHT AND CARBON DIOXIDE.
+1940|2.0|2.0|American Journal of Ophthalmology|Experimental Acute Iridocyclitis in Rabbits Produced by Coliform Bacteria Isolated from the Upper Respiratory Tract of Man
+1941|0|0.0|The Journal of General Physiology|STUDIES ON THE LACTASE OF ESCHERICHIA COLI.
+1947|2.0|0.0|Journal of Hygiene|Phage-resistant and phage-carrying strains of lactic streptococci.
+1950|1.0|1.0|Journal of Hygiene|The survival of bacteria in dust. III. The effect of light on the survival of bacteria in dust.
+1957|0|0.0|Genetics|Cytological Analysis of X-Ray-Induced Mutations at Eight Specific Loci in the Third Chromosome of Drosophila Melanogaster.
+1960|1.0|1.0||THE ANTAGONISM OF MUSCLE RELAXANTS AMBENONIUM AND METHOXYAMBENONIUM IN THE CAT
+1961|17.0|9.0|Journal of Clinical Investigation|THE NATURE OF THE ACTION OF INTRAVENOUS ALDOSTERONE: EVIDENCE FOR A ROLE OF THE HORMONE IN URINARY DILUTION*
+1963|3.0|1.5|American Journal of Ophthalmology|Ocular Changes Due to Contact Lenses.
+1968|27.0|27.0|Journal of Applied Behavior Analysis|RULES, PRAISE, AND IGNORING: ELEMENTS OF ELEMENTARY CLASSROOM CONTROL1
+1969|0|0.0|Theoretical and Applied Genetics|The course of the first meiotic prophase in Beta procumbens and in the F1 between B. vulgaris and B. procumbens.
+1970|11.0|7.5|Journal of Cell Biology|REGULATION OF INITIATION OF DNA SYNTHESIS IN CHINESE HAMSTER CELLS II. Induction of DNA Synthesis and Cell Division by Isoleucine and Glutamine in G1-Arrested Cells in Suspension Culture
+1971|0|0.0|Journal of Cell Biology|Inhibition of emptying of skeletal muscle cell segments by adenine nucleotides and polyvalent cations.
+1973|8.0|6.0|Talanta|Determination of vanadium and molybdenum by atomic-absorption spectrophotometry.
+1975|1.0|1.0|Computers and The Humanities|On the Role of Words and Phrases in Automatic Text Analysis
+1976|0|0.0|Computers and Biomedical Research|An application-independent subsystem for free-text analysis
+1979|3.0|2.5|international acm sigir conference on research and development in information retrieval|Message extraction through estimated relevance
+1981|4.0|1.0|Theriogenology|The effect of lactation length on the circulating concentrations of progesterone and oestradiol in the early weaned sow.
+1982|8.0|0.5|IEEE Transactions on Communications|The Writer's Workbench: Computer Aids for Text Analysis
+1983|6.0|2.0|British Journal of Clinical Pharmacology|Clinical aspects of blood pressure crisis due to withdrawal of centrally acting antihypertensive drugs.
+1984|2.0|1.0|International Journal of Developmental Neuroscience|Breeding rats on amino acid imbalanced diets for three consecutive generations affects the concentrations of putative amino acid transmitters in the developing brain
+1985|42.0|22.0|Immunology Today|Transmembrane signalling by the T3-antigen receptor complex.
+1987|4.0|3.0|Cognition & Emotion|The role of affect in narrative structure
+1988|8.0|3.0|Fish Physiology and Biochemistry|Smoltification in steelhead trout (Salmo gairdneri): Developmental aspects of plasma constituents.
+1989|4.0|1.5|data and knowledge engineering|A system for text analysis and lexical knowledge acquisition
+1990|14.0|2.0|international conference on pattern recognition|A document skew detection method using run-length encoding and the Hough transform
+1991|30.0|3.0|Science|Developments in automatic text retrieval.
+1992|30.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Knowledge-directed interpretation of mechanical engineering drawings
+1993|36.0|1.0|Computational Linguistics|Empirical studies on the disambiguation of cue phrases
+1994|62.0|1.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Decision combination in multiple classifier systems
+1995|34.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Goal-directed evaluation of binarization methods
+1996|40.0|3.0|Applied and Environmental Microbiology|Distribution of bacterial populations in a stratified fjord (mariager fjord, denmark) quantified by in situ hybridization and related to chemical gradients in the water column.
+1997|66.0|3.5|Computational Linguistics|TextTiling: segmenting text into multi-paragraph subtopic passages
+1998|77.0|5.0|Applied and Environmental Microbiology|Analysis of BIOLOG GN Substrate Utilization Patterns by Microbial Communities
+1999|113.0|8.5|IEEE Intelligent Systems & Their Applications|OntoSeek: content-based access to the Web
+2000|80.0|5.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Twenty years of document image analysis in PAMI
+2001|132.0|4.0|Machine Learning|Concept decompositions for large sparse text data using clustering
+2002|264.0|4.0|knowledge discovery and data mining|Optimizing search engines using clickthrough data
+2003|158.0|4.0|international world wide web conferences|SemTag and seeker: bootstrapping the semantic web via automated semantic annotation
+2004|305.0|5.0|knowledge discovery and data mining|Mining and summarizing customer reviews
+2005|214.0|4.0|international conference on computer vision|Discovering objects and their location in images
+2006|286.0|4.0|PLOS Pathogens|Identification of a novel Gammaretrovirus in prostate tumors of patients homozygous for R462Q RNASEL variant.
+2007|1854.0|3.0|Journal of Applied Crystallography|Phaser crystallographic software.
+2008|235.0|3.0|Nucleic Acids Research|RegulonDB (version 6.0): gene regulation model of Escherichia coli K-12 beyond transcription, active (experimental) annotated promoters and Textpresso navigation
+2009|258.0|3.0|Journal of Language and Social Psychology|The Psychological Meaning of Words: LIWC and Computerized Text Analysis Methods
+2010|541.0|4.0|Nanoscale Research Letters|Discoid Bicelles as Efficient Templates for Pillared Lamellar Periodic Mesoporous Silicas at pH 7 and Ultrafast Reaction Times

@@ -1,0 +1,45 @@
+----  Field Name Facial recognition system: 
+----  Field Level 2.0: 
+----  Field Papers Number 14243:
+----  All time max citation paper: Eigenfaces for recognition, 1991, (5974.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1968|0|0.0|Neuropsychologia|Acquisition of motor skill after bilateral medial temporal-lobe excision
+1970|8.0|8.0|Neuropsychologia|Face recognition by brain-injured patients: A dissociable ability?
+1973|1.0|1.0|Attention Perception & Psychophysics|Verbal and visual training in face recognition
+1974|15.0|15.0|Journal of Experimental Psychology|Depth of Processing Pictures of Faces and Recognition Memory.
+1976|6.0|6.0|IEEE Transactions on Computers|A Tree System Approach for Fingerprint Pattern Recognition
+1977|16.0|16.0|Journal of Experimental Psychology: Human Learning & Memory|When Face Recognition Fails.
+1978|0|0.0|Attention Perception & Psychophysics|The effects of delay and exposure duration in a face recognition task
+1979|5.0|3.0|Journal of Experimental Child Psychology|Development of Voice Recognition: Parallels with Face Recognition.
+1980|14.0|14.0|Cortex|Absence of Any Developmental Trend in Right Hemisphere Superiority for Face Recognition
+1981|0|0.0|Motivation and Emotion|Anxiety, feedback, and self-reference in face recognition
+1982|11.0|1.0|Neuropsychologia|Hemispheric asymmetry for face recognition: Some effects of visual masking, hemiretinal stimulation and learning task
+1983|5.0|3.0|Cortex|The Nature of the Sex Difference in Right Hemisphere Superiority for Face Recognition
+1984|15.0|7.0|Journal of Social Issues|FaceRecognition Memory: Implications for Children's Eyewitness Testimony
+1985|48.0|3.0|Brain Research|Selectivity between faces in the responses of a population of neurons in the cortex in the superior temporal sulcus of the monkey
+1986|96.0|5.0|British Journal of Psychology|Understanding face recognition
+1987|17.0|3.0|Brain and Cognition|Hemispheric visual processing in face recognition
+1988|13.0|8.0|Behavioural Brain Research|Non-conscious face recognition in patients with face agnosia.
+1989|9.0|3.0|design automation conference|FACE Core Environment: The Model and its Application in CAE/CAD Tool Development
+1990|25.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Application of the Karhunen-Loeve procedure for the characterization of human faces
+1991|136.0|5.0|Journal of Cognitive Neuroscience|Eigenfaces for recognition
+1992|15.0|3.5|European Archives of Psychiatry and Clinical Neuroscience|Facial expression and emotional face recognition in schizophrenia and depression.
+1993|156.0|6.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Face recognition: features versus templates
+1994|155.0|3.0|computer vision and pattern recognition|View-based and modular eigenspaces for face recognition
+1995|207.0|5.0|Proceedings of the IEEE|Human and machine recognition of faces: a survey
+1996|86.0|9.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Using discriminant eigenfeatures for image retrieval
+1997|179.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Probabilistic visual learning for object representation
+1998|258.0|6.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Neural network-based face detection
+1999|152.0|10.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Classifying facial actions
+2000|181.0|6.0|Nature Neuroscience|Expertise for cars and birds recruits brain areas involved in face recognition
+2001|223.0|5.0|Computer Vision and Image Understanding|Face Detection: A Survey
+2002|697.0|7.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Detecting faces in images: a survey
+2003|1090.0|6.0|ACM Computing Surveys|Face recognition: A literature survey
+2004|494.0|5.0|IEEE Transactions on Circuits and Systems for Video Technology|An introduction to biometric recognition
+2005|503.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Face recognition using Laplacianfaces
+2006|329.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Face Description with Local Binary Patterns: Application to Face Recognition
+2007|437.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Graph Embedding and Extensions: A General Framework for Dimensionality Reduction
+2008|701.0|2.0|PLOS ONE|Insect Brains Use Image Interpolation Mechanisms to Recognise Rotated Objects
+2009|1460.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Robust Face Recognition via Sparse Representation
+2010|446.0|3.0|IEEE Transactions on Image Processing|Image Super-Resolution Via Sparse Representation

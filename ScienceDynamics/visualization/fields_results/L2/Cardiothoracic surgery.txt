@@ -1,0 +1,60 @@
+----  Field Name Cardiothoracic surgery: 
+----  Field Level 2.0: 
+----  Field Papers Number 5304:
+----  All time max citation paper: Salt Loading in Canola Oil Fed SHRSP Rats Induces Endothelial Dysfunction, 2013, (1419.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1941|0|0.0|American Journal of Surgery|The problem of wound sepsis in thoracic surgery
+1950|0|0.0|The Journal of Pediatrics|Thoracic surgery in pediatrics
+1958|2.0|2.0|Journal of Clinical Investigation|THE MEASUREMENT OF THE PULMONARY DIFFUSING CAPACITY IN THE PRESENCE OF LUNG DISEASE
+1959|2.0|2.0|Acta Medica Scandinavica|Diffusing Capacity of the Lungs as a Limiting Factor for Physical Working Capacity
+1961|4.0|3.0|The Journal of Pediatrics|Studies of respiratory physiology in children: V. Total lung diffusion, diffusing capacity of pulmonary membrane, and pulmonary capillary blood volume in normal subjects from 7 to 40 years of age
+1962|4.0|4.0|American Heart Journal|Pulmonary diffusing capacity and pulmonary capillary blood volume in normal subjects and in cardiac patients
+1963|0|0.0|Canadian Journal of Anaesthesia-journal Canadien D Anesthesie|Anaesthetic techniques in thoracic surgery
+1964|2.0|1.5|Medical & Biological Engineering & Computing|The measurement and interpretation of electric potentials from a physico-chemical point of view
+1965|1.0|1.0|Acta Physiologica Scandinavica|Steady State Diffusing Capacity during Prolonged, NonSteady State Sitting Exercise in Ordinarily Trained Young Men
+1966|6.0|1.5|Journal of Hygiene|Staphylococcal infection in thoracic surgery: experience in a subdivided ward
+1967|2.0|1.0|European Journal of Applied Physiology|Effect of physical training on single breath diffusing capacity measured at rest
+1968|2.0|1.0|Journal of Small Animal Practice|Symposium: Thoracic Surgery in the Dog and CatIII: Patent Ductus Arteriosus and Persistent Right Aortic Arch Surgery in Dogs*
+1969|5.0|1.0|Respiration Physiology|Pulmonary diffusing capacity at basal and increased O2 uptake levels in anesthetized dogs
+1970|5.0|3.0|American Heart Journal|Effects of the Valsalva maneuver on the cardiac systolic intervals - Beat-to-beat versus timed analysis
+1971|6.0|1.0|American Journal of Cardiology|Peripheral venous scintillation angiocardiography in determination of left ventricular volume in man
+1972|10.0|3.5|Respiration Physiology|Morphometrics of fish gills
+1973|9.0|0.5|Journal of Molecular and Cellular Cardiology|Phosphorylation of cardiac native tropomyosin and troponin: Inhibitory effect of actomyosin and possible presence of endogenous myofibrillar-located cyclic-AMP-dependent protein kinase
+1974|4.0|1.5|Respiration Physiology|Reaction velocity of carbon monoxide with blood cells in the chorioallantoic vascular plexus of chicken embryos
+1975|12.0|2.0|Journal of Molecular and Cellular Cardiology|Structural and functional changes associated with failure and recovery of hearts after perfusion with Ca 2+ -free medium
+1976|4.0|2.0|Nature|Relative role of environmental and genetic factors in respiratory adaptation to high altitude
+1977|5.0|1.5|Virchows Archiv|Benign pleural lesion and malignant mesothelioma.
+1978|15.0|1.5|Cancer|Chemotherapy and thoractomy for metastatic osteogenic sarcoma. A model for adjuvant chemotherapy and the rationale for the timing of thoracic surgery
+1979|16.0|1.0|Journal of Molecular and Cellular Cardiology|Calcium-activated neutral protease from bovine ventricular muscle: Isolation and some of its properties
+1980|8.0|2.0|Respiration Physiology|Single-exhalation method for study of lobar and segmental lung function by mass spectrometry in man
+1981|18.0|1.0|Respiration Physiology|Design of the mammalian respiratory system. V. Scaling morphometric pulmonary diffusing capacity to body mass: wild and domestic mammals.
+1982|31.0|1.5|Journal of Molecular and Cellular Cardiology|The cyclic AMP-dependent modulation of cardiac sarcolemmal slow calcium channels
+1983|19.0|1.0|FEBS Letters|Calcium-dependent hydrophobic interaction chromatography of calmodulin, troponin C and their proteolytic fragments
+1984|9.0|3.0|Placenta|Placental anatomy and diffusing capacity in guinea pigs following long-term maternal hypoxia
+1985|16.0|1.0|Journal of Clinical Investigation|Direct and indirect effects of calcium entry blocking agents on isovolumic left ventricular relaxation in conscious dogs.
+1986|44.0|1.0|Journal of the American College of Cardiology|Effect of coronary occlusion during percutaneous transluminal angioplasty in humans on left ventricular chamber stiffness and regional diastolic pressure-radius relations
+1987|18.0|1.0|American Journal of Cardiology|Impaired left ventricular filling dynamics during percutaneous transluminal angioplasty for coronary artery disease
+1988|7.0|2.0|FEBS Letters|Effect of troponin C on the cooperativity in Ca 2+ activation of cardiac muscle
+1989|12.0|2.0|International Journal of Radiation Oncology Biology Physics|Results of a prospective study evaluating the effects of mantle irradiation on pulmonary function
+1990|14.0|1.0|JAMA Internal Medicine|The Respiratory Effects of Cobalt
+1991|23.0|3.0|Ultrasound in Medicine and Biology|Cyclic changes of blood echogenicity in high-frequency ultrasound
+1992|13.0|2.0|Radiology|High-resolution CT diagnosis of emphysema in symptomatic patients with normal chest radiographs and isolated low diffusing capacity.
+1993|55.0|3.0|JAMA Internal Medicine|Blood pressure, systolic and diastolic, and cardiovascular risks : US population data
+1994|19.0|2.5|BMJ|Relation between birth weight at term and systolic blood pressure in adolescence.
+1995|29.0|3.0|Journal of the American Geriatrics Society|Heart failure with normal systolic function: a common disorder in older people.
+1996|49.0|3.0|The Journal of Thoracic and Cardiovascular Surgery|Unilateral thoracoscopic surgical approach for diffuse emphysema
+1997|48.0|3.0|The Journal of Thoracic and Cardiovascular Surgery|Long-term results of lung metastasectomy: Prognostic analyses based on 5206 cases
+1998|134.0|3.0|Journal of the American College of Cardiology|New Doppler echocardiographic applications for the study of diastolic function.
+1999|84.0|5.0|European Heart Journal|Prevalence of heart failure and left ventricular dysfunction in the general population; The Rotterdam Study
+2000|258.0|5.0|BMJ|Association of systolic blood pressure with macrovascular and microvascular complications of type 2 diabetes (UKPDS 36): prospective observational study
+2001|169.0|5.0|BMJ|Midlife vascular risk factors and Alzheimer's disease in later life: longitudinal, population based study.
+2002|118.0|6.0|Circulation|Doppler-Derived Myocardial Systolic Strain Rate Is a Strong Index of Left Ventricular Contractility
+2003|213.0|7.0|Heart|High prevalence of left ventricular systolic and diastolic asynchrony in patients with congestive heart failure and normal QRS duration
+2004|336.0|6.0|Annual Review of Genetics|Epigenetic Regulation of Cellular Memory by the Polycomb and Trithorax Group Proteins
+2005|176.0|7.0|The New England Journal of Medicine|High-dose acetylcysteine in idiopathic pulmonary fibrosis
+2006|144.0|6.0|JAMA|Systolic and diastolic heart failure in the community.
+2007|245.0|7.0|The New England Journal of Medicine|Rosuvastatin in older patients with systolic heart failure
+2008|743.0|8.0|Circulation|ACC/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities A Report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (Writing Committee to Revise the ACC/AHA/NASPE 2002 Guideline Update for Implantation of Cardiac Pacemakers and Antiarrhythmia Devices): Developed in Collaboration With the American Association for Thoracic Surgery and Society of Thoracic Surgeons
+2009|498.0|7.0|Nature Genetics|Genome-wide association study of blood pressure and hypertension
+2010|154.0|3.0|Annals of the Rheumatic Diseases|Causes and risk factors for death in systemic sclerosis: a study from the EULAR Scleroderma Trials and Research (EUSTAR) database

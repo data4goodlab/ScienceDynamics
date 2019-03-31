@@ -1,0 +1,66 @@
+----  Field Name Edaphology: 
+----  Field Level 2.0: 
+----  Field Papers Number 20354:
+----  All time max citation paper: Polymer/layered silicate nanocomposites: a review from preparation to processing, 2003, (3007.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1950|17.0|4.0|American Heart Journal|Cation exchangers: Their use and hazards as AIDS in managing edema
+1951|6.0|4.0|Journal of Clinical Investigation|BIOCHEMICAL CHANGES ACCOMPANYING THE INGESTION OF A CARBOXYLIC CATION EXCHANGER IN THE HYDROGEN, AMMONIUM, SODIUM, POTASSIUM, OR CALCIUM FORM
+1952|11.0|1.0|The New England Journal of Medicine|Reversible Toxic Manifestations in Patients with Cirrhosis of the Liver Given Cation-Exchange Resins
+1953|2.0|0.5|Journal of the American Ceramic Society|A Theory of Cation Exchange Reactions with Clay Minerals
+1954|0|0.0|Digestive Diseases and Sciences|Bulking resins and their potential medical application
+1955|1.0|1.0|Journal of Dairy Science|Electrochemical Behavior of Ion Exchange Resin Membrane Electrodes1
+1956|0|0.0|Acta Agriculturae Scandinavica|On the Cation Exchange Capacity of Peats and on the Factors of Influence upon Its Formation
+1958|5.0|5.0|Journal of Dairy Science|Rapid Determination of Milk Salts and Ions. I. Determination of Sodium, Potassium, Magnesium, and Calcium by Flame Spectrophotometry
+1959|15.0|1.0|Archives of Biochemistry and Biophysics|Chromatography of proteins. III. Human, horse and dog hemoglobins on cation-exchange cellulose
+1960|3.0|1.5|The Journal of Agricultural Science|Phosphate responses in relation to soil tests and organic phosphorus.
+1961|3.0|1.0|Analytica Chimica Acta|Absorption of amines on cation exchange resins
+1962|12.0|1.0|Geochimica et Cosmochimica Acta|The geochemistry of some British carboniferous sediments
+1963|1.0|0.5|Soil Science and Plant Nutrition|VERMICULITE IN SOME JAPANESE SOILS
+1964|3.0|1.5|Clays and Clay Minerals|Swelling Properties of Synthetic Smectites in Relation to Lattice Substitutions*
+1965|4.0|0.0|Analytical Biochemistry|Separation of catecholamines and metanephrine and normetanephrine using a weak cation-exchange resin
+1966|3.0|0.0|European Journal of Soil Science|THERMODYNAMICS OF CATION EXCHANGE ON CLAY: CaKMONTMORILLONITE
+1967|8.0|1.0|Journal of Dairy Science|Evaluation of Radiocerium as a Nonabsorbed Reference Material for Determining Gastrointestinal Sites of Nutrient Absorption and Excretion in Cattle1
+1968|7.0|0.0|The Journal of General Physiology|Ionic control of the reversal response of cilia in Paramecium caudatum. A calcium hypothesis.
+1969|29.0|2.0|Geochimica et Cosmochimica Acta|The partitioning of cations between coexisting single- and multi-site phases with application to the assemblages: orthopyroxene-clinopyroxene and orthopyroxene-olivine
+1970|11.0|1.0|Analytical Biochemistry|Automatic liquid chromatography of primary mono- and diamines on a cation-exchange resin
+1971|6.0|1.0|Geochimica et Cosmochimica Acta|Geochemistry and origin of formation waters in the western Canada sedimentary basinIII. Factors controlling chemical composition
+1972|34.0|0.0|Analytical Biochemistry|Simultaneous determination of indole- and catecholamines in tissues using a weak cation-exchange resin
+1973|21.0|2.0|Naunyn-schmiedebergs Archives of Pharmacology|Conjoint native and orthophthaldialdehyde-condensate assays for the fluorimetric determination of 5-hydroxyindoles in brain
+1974|275.0|2.5|Analytical Biochemistry|A highly sensitive adenylate cyclase assay.
+1975|22.0|0.0|Plant Physiology|Host-Pathogen Interactions VIII. Isolation of a Pathogen-synthesized Fraction Rich in Glucan That Elicits a Defense Response in the Pathogen's Host
+1976|22.0|1.0|Neuroscience|Simultaneous determination of indole- and catecholamines in small brain regions in the rat using a weak cation exchange resin
+1977|5.0|0.5|Netherlands Journal of Agricultural Science|Behaviour of heavy metals in soils
+1978|21.0|1.0|Pharmacology & Toxicology|A Procedure for the Isolation of Noradrenaline (together with Adrenaline), Dopamine, 5Hydroxytryptamine and Histamine from the Same Tissue Sample Using a Single Column of Strongly Acidic Cation Exchange Resin
+1979|7.0|2.0|Geochimica et Cosmochimica Acta|Cation-exchange characteristics of Amazon River suspended sediment and its reaction with seawater
+1980|41.0|1.0|Geochimica et Cosmochimica Acta|Thermochemistry of the high structural state plagioclases
+1981|13.0|2.5|Geochimica et Cosmochimica Acta|Etude exprimentale de la fixation de mtaux par un matriau sdimentaire actuel d'origine algaireII. Fixation in vitro de UO2+2, Cu2+, Ni2+, Zn2+, Pb2+, Co2+, Mn2+, ainsi que de VO3, MoO24 et GeO23
+1982|32.0|2.0|Water Resources Research|A model for streamwater chemistry at Birkenes, Norway
+1983|17.0|1.0|Nature|Polyamines regulate calcium fluxes in a rapid plasma membrane response
+1984|15.0|2.0|Chemical Geology|The group separation of the rare-earth elements and yttrium from geologic materials by cation-exchange chromatography
+1985|85.0|1.0|Water Resources Research|Modeling the Effects of Acid Deposition: Assessment of a Lumped Parameter Model of Soil Water and Streamwater Chemistry
+1986|8.0|2.0|Water Air and Soil Pollution|Comparison of Paleolimnological with Magic Model Reconstructions of Water Acidification
+1987|39.0|2.0||Cation exchange capacity.
+1988|20.0|2.0|Geoderma|Use of soil-map delineations to improve (Co-)kriging of point data on moisture deficits
+1989|11.0|2.0|Journal of the American Ceramic Society|Mullite/Alumina Particulate Composites by Infiltration Processing
+1990|63.0|3.0|Journal of Cell Biology|Scatter factor: molecular characteristics and effect on the invasiveness of epithelial cells.
+1991|52.0|2.0|Electroanalysis|An amperometric glucose electrode based on carbon paste, chemically modified with glucose dehydrogenase, nicotinamide adenine dinucleotide, and a phenoxazine mediator, coated with a poly(ester sulfonic acid) cation exchanger
+1992|20.0|2.0|European Journal of Soil Science|A continuum approach to soil classification by modified fuzzy kmeans with extragrades
+1993|31.0|1.0|Biogeochemistry|Changes in soil carbon inventories following cultivation of previously untilled soils
+1994|30.0|2.0|Journal of Geophysical Research|A simple hydrologically based model of land surface water and energy fluxes for general circulation models
+1995|43.0|3.0|Geochimica et Cosmochimica Acta|Feldspar dissolution at 25C and pH 3: Reaction stoichiometry and the effect of cations
+1996|38.0|2.0|Journal of Bacteriology|The intercellular adhesin involved in biofilm accumulation of Staphylococcus epidermidis is a linear beta-1,6-linked glucosaminoglycan: purification and structural analysis.
+1997|52.0|2.0|Applied and Environmental Microbiology|Biochemical and genetic characterization of enterocin P, a novel sec-dependent bacteriocin from Enterococcus faecium P13 with a broad antimicrobial spectrum.
+1998|41.0|4.0|Palaeogeography, Palaeoclimatology, Palaeoecology|Magnetic properties of modern soils and Quaternary loessic paleosols: paleoclimatic implications.
+1999|58.0|3.0|Journal of Catalysis|Investigations of the State of Fe in HZSM-5
+2000|115.0|5.0|Biogeochemistry|Separating root and soil microbial contributions to soil respiration: A review of methods and observations
+2001|129.0|5.0|Polymer|Synthesis of epoxyclay nanocomposites: influence of the nature of the clay on structure
+2002|602.0|5.0|Eppo Bulletin|World Reference Base for Soil Resources
+2003|783.0|6.0|Progress in Polymer Science|Polymer/layered silicate nanocomposites: a review from preparation to processing
+2004|317.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Large-scale characterization of HeLa cell nuclear phosphoproteins
+2005|271.0|7.0|Molecular & Cellular Proteomics|Quantitative Phosphoproteomics Applied to the Yeast Pheromone Signaling Pathway
+2006|182.0|6.0|Geoderma|Visible, near infrared, mid infrared or combined diffuse reflectance spectroscopy for simultaneous assessment of various soil properties
+2007|213.0|6.0|New Phytologist|Spatial separation of litter decomposition and mycorrhizal nitrogen uptake in a boreal forest.
+2008|242.0|7.0|Philosophical Transactions of the Royal Society B|Greenhouse gas mitigation in agriculture
+2009|463.0|8.0|Global Biogeochemical Cycles|Soil organic carbon pools in the northern circumpolar permafrost region
+2010|285.0|5.0|Chemical Engineering Journal|Natural zeolites as effective adsorbents in water and wastewater treatment

@@ -1,0 +1,55 @@
+----  Field Name Lambda calculus: 
+----  Field Level 2.0: 
+----  Field Papers Number 14118:
+----  All time max citation paper: Fronts propagating with curvature-dependent speed: algorithms based on Hamilton-Jacobi formulations, 1988, (4297.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1956|1.0|1.0|Transactions of the American Mathematical Society|Degrees of computability
+1962|0|0.0||Kinematic and tessellation models of self-repair
+1963|1.0|1.0|Transactions of the American Mathematical Society|Limiting distributions for critical multitype branching processes with discrete time
+1964|1.0|1.0|Journal of Mathematical Analysis and Applications|HEIGHTS OF CONVEX POLYTOPES,
+1965|3.0|3.0|Transactions of the American Mathematical Society|Products of automata and the problem of covering
+1967|6.0|3.0|Information & Computation|ALGEBRA AUTOMATA I: PARALLEL PROGRAMMING AS A PROLEGOMENA TO THE CATEGORICAL APPROACH.
+1968|15.0|12.0|Journal of Symbolic Logic|A Survey of Proof Theory
+1969|11.0|7.0|Communications of The ACM|Optimization of expressions in Fortran
+1970|25.0|3.0|Communications of The ACM|GEDANKENa simple typeless language based on the principle of completeness and the reference concept
+1971|74.0|2.0|symposium on the theory of computing|The complexity of theorem-proving procedures
+1972|16.0|2.0|Sigplan Notices|Recursive definitions of partial functions and their computations
+1973|31.0|7.0|Acta Informatica|Automatic program verification I: a logical basis and its implementation.
+1974|8.0|1.0|Information Systems|The optimal selection of secondary indices for files
+1975|6.0|3.0|international symposium on computer architecture|Reduction languages for reduction machines
+1976|48.0|5.0|Communications of The ACM|The denotational semantics of programming languages
+1977|32.0|2.0|Journal of the ACM|On Time Versus Space
+1978|12.0|8.0|Communications of The ACM|Is sometime sometimes better than always?: intermittent assertions in proving program correctness
+1979|10.0|0.0|symposium on the theory of computing|Some connections between mathematical logic and complexity theory
+1980|12.0|2.0|Acta Informatica|First-order identities as a defining language
+1981|62.0|3.5|international joint conference on artificial intelligence|REASONING ABOUT KNOWLEDGE AND ACTION
+1982|41.0|3.0|Journal of Forecasting|Prediction, diagnosis, and causal thinking in forecasting
+1983|27.0|4.5|Journal of Cellular Biochemistry|Transport of hemolysin by Escherichia coli
+1984|46.0|5.0|ACM Transactions on Programming Languages and Systems|Synthesis of Communicating Processes from Temporal Logic Specifications
+1985|36.0|3.0|symposium on principles of programming languages|Abstract types have existential types
+1986|70.0|6.0|Communications of The ACM|Data parallel algorithms
+1987|310.0|3.0|Artificial Intelligence|A logic for default reasoning
+1988|43.0|4.0|ACM Transactions on Programming Languages and Systems|Abstract types have existential type
+1989|211.0|5.0||The knowledge level
+1990|124.0|4.0|ACM Transactions on Mathematical Software|A set of level 3 basic linear algebra subprograms
+1991|70.0|4.0|Fuzzy Sets and Systems|Fuzzy sets in approximate reasoning, Part 1: Inference with possibility distributions
+1992|156.0|4.0|ACM Computing Surveys|Symbolic Boolean manipulation with ordered binary-decision diagrams
+1993|255.0|4.0|Artificial Intelligence|Agent-oriented programming
+1994|82.0|4.0|Cell|FGF5 as a regulator of the hair growth cycle: Evidence from targeted and spontaneous mutations
+1995|125.0|4.0|Journal of the ACM|Logical foundations of object-oriented and frame-based languages
+1996|170.0|4.0|Current Opinion in Cell Biology|Caveolae and caveolins.
+1997|127.0|5.0|Cell|Ancient missense mutations in a new member of the RoRet gene family are likely to cause familial Mediterranean fever
+1998|211.0|5.0|Nature|Conscious and unconscious emotional learning in the human amygdala
+1999|436.0|6.0|Nature|The tumour suppressor protein VHL targets hypoxia-inducible factors foroxygen-dependent proteolysis
+2000|312.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Coordinated plant defense responses in Arabidopsis revealed by microarray analysis.
+2001|242.0|6.0|Nature|Purification of a pluripotent neural stem cell from the adult mouse brain.
+2002|220.0|6.0|Theoretical Computer Science|Maude: specification and programming in rewriting logic
+2003|265.0|7.0|Journal of Cell Biology|VEGF guides angiogenic sprouting utilizing endothelial tip cell filopodia
+2004|183.0|7.0|Biochemical and Biophysical Research Communications|Guideline to reference gene selection for quantitative real-time PCR
+2005|412.0|7.0|The Lancet|Acquired mutation of the tyrosine kinase JAK2 in human myeloproliferative disorders
+2006|193.0|7.0|Journal of Clinical Investigation|Human CD4+ CD25hi Foxp3+ regulatory T cells are derived by rapid turnover of memory populations in vivo
+2007|488.0|6.0|Journal of Vision|The effect of viewpoint on perceived visual roughness
+2008|473.0|6.0|The New England Journal of Medicine|Intensive lipid lowering with simvastatin and ezetimibe in aortic stenosis.
+2009|749.0|6.0|Journal of Vision|Gravity and observer"s body orientation influence the visual perception of human body postures
+2010|1380.0|8.0|PLOS ONE|The Anopheles gambiae Odorant Binding Protein 1 (AgamOBP1) Mediates Indole Recognition in the Antennae of Female Mosquitoes

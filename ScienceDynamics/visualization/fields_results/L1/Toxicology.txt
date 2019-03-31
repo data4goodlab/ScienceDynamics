@@ -1,0 +1,75 @@
+----  Field Name Toxicology: 
+----  Field Level 1.0: 
+----  Field Papers Number 19538:
+----  All time max citation paper: Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources., 2009, (6860.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1936|1.0|1.0|Development Genes and Evolution|STUDIES ON THE CREEPER I~OWL X. A STUDY OF THE MODE OF ACTION OF A LETHAL I~ACTOR BY EXPLANTATION METHODS 1.
+1937|10.0|10.0|Nature|The Rate of Action of Drugs on Cells
+1939|2.0|2.0|The Lancet|COD-LIVER-OIL DRESSINGS : THEIR MODE OF ACTION
+1940|2.0|2.0||Recent Contributions of Insect Physiology to Insect Toxicology and Control.
+1942|0|0.0|Journal of Experimental Zoology|The mode of action of lithium salts in amphibian development
+1944|0|0.0|Journal of Dairy Science|Improving the Quality of Swiss Cheese by Clarification of the Milk1
+1947|2.0|1.0|Journal of Cellular and Comparative Physiology|The mode of action of certain insecticides on the arthropod nerve axon
+1949|1.0|0.5|Journal of Dairy Science|The Metabolism of the Lactogenic Hormone1
+1950|11.0|1.5|Parasitology|Sulphadiazine-resistance in Plasmodium gallinaceum and its relation to other antimalarial compounds
+1951|0|0.0|Journal of Food Science|MODE OF ACTION OF SODIUM BENZOATE
+1952|8.0|1.0|Acta Physiologica Scandinavica|Mode of Action of Warm Receptors
+1953|3.0|0.0|Experimental Parasitology|Reversal of the activity of chlorguanide against Plasmodium gallinaceum by free or conjugated p-aminobenzoic acid
+1954|0|0.0|Acta Physiologica Scandinavica|The Mode of Action of Food as a Gastric Stimulant: A Study with Some Qarternary Ammonium Derivatives.
+1955|2.0|1.0|The American Journal of Medicine|Mode of action of the antibiotics
+1956|7.0|2.0|Archives of Biochemistry and Biophysics|Studies on the mode of action of azaserine
+1957|26.0|3.0|Annals of the New York Academy of Sciences|THE CHEMISTRY AND MODE OF ACTION OF TRANQUILIZING DRUGS
+1958|5.0|1.0|Biochemical Pharmacology|Studies on the mode of action of tumour-growth-inhibiting alkylating agentsI: The fate of ethyl methanesulphonate (half myleran) in the rat
+1959|8.0|3.5|Biochimica et Biophysica Acta|The mode of action of ryegrass ribonuclease
+1960|3.0|1.0|JAMA Pediatrics|The Toxicity of Chloramphenicol in Newborns versus Adult Mice.
+1961|24.0|2.0|Biochimica et Biophysica Acta|The mode of action of phospholipase A on synthetic mixed-acid L--phosphatidyl ethanolamines
+1962|13.0|1.5|Biochemical Pharmacology|Studies related to the mode of action of actinomycin D
+1963|13.0|2.0|Psychological Review|A Threshold Theory for Simple Detection Experiments
+1964|14.0|1.0|The American Journal of Medicine|The cellular mode of action of antidiuretic hormone
+1965|15.0|1.0|Biochemical and Biophysical Research Communications|Lysostaphin: Enzymatic mode of action
+1966|9.0|0.0|Annals of the New York Academy of Sciences|ETHACRYNIC ACID: SITE AND MODE OF ACTION*
+1967|22.0|0.5|Psychopharmacology|Mode of action of apomorphine and dexamphetamine on gnawing compulsion in rats
+1968|15.0|2.0||Trimethoprim, a sulphonamide potentiator.
+1969|26.0|2.0|The Journal of Membrane Biology|Cyclodepsipeptides as chemical tools for studying ionic transport through membranes
+1970|9.0|3.0|Nature|Effects of Lithium and of pH on Synaptosomal Metabolism of Noradrenaline
+1971|19.0|2.0|Cancer|Colon carcinogens: Their metabolism and mode of action
+1972|35.0|2.0|Naunyn-schmiedebergs Archives of Pharmacology|Alpha sympathomimetic inhibition of adrenergic and cholinergic transmission in the rabbit heart
+1973|45.0|2.0|European Journal of Pharmacology|On the mode of action of apomorphine
+1974|25.0|3.0|Naunyn-schmiedebergs Archives of Pharmacology|Clonidine-Induced Inhibition of Sympathetic Nerve Activity: No Indication for a Central Presynaptic or an Indirect Sympathomimetic Mode of Action*
+1975|36.0|2.0|Experimental Neurology|Nerve growth factor and its mode of action
+1976|38.0|2.0|Immunochemistry|Mode of action of Ir genes and the nature of T cell receptors for antigen
+1977|45.0|2.0|Nature|Foreign DNA of bacterial plasmid origin is transcribed in crown gall tumours
+1978|119.0|3.0|Nature|An endogenous protein modulates the affinity of GABA and benzodiazepine receptors in rat brain
+1979|33.0|4.0|Nature|Antigen-specific suppressive factor produced by a transplantable i-j bearing t-cell hybridoma.
+1980|35.0|3.0|Psychopharmacology|Dopamine receptor binding in rat striatum: ultradian rhythm and its modification by chronic imipramine.
+1981|46.0|2.0|Basic Research in Cardiology|Calcium antagonists: definition and mode of action.
+1982|23.0|2.0|Environmental Toxicology and Chemistry|Alternative models for describing the bioconcentration of organics in fish
+1983|24.0|3.0|Genetics Selection Evolution|Sire evaluation for ordered categorical data with a threshold model
+1984|47.0|3.0|Journal of Lipid Research|Progress in understanding the LDL receptor and HMG-CoA reductase, two membrane proteins that regulate the plasma cholesterol.
+1985|42.0|2.0|Pain|PAIN RELIEF BY ANTIDEPRESSANTS - POSSIBLE MODES OF ACTION
+1986|37.0|3.0|Neuroscience|Mode of action of excitatory amino acid receptor antagonists on hippocampal long-lasting potentiation
+1987|34.0|4.0|Journal of Chemical Physics|Energy dependence, kinetic isotope effects, and thermochemistry of the nearly thermoneutral reactions N+(3P)+H2(HD,D2)NH+(ND+)+H(D)
+1988|51.0|2.0|Journal of Experimental Psychology: General|Pragmatics of measuring recognition memory: applications to dementia and amnesia.
+1989|152.0|3.0||Insecticidal crystal proteins of Bacillus thuringiensis.
+1990|92.0|2.0|Trends in Pharmacological Sciences|G protein activation: a receptor-independent mode of action for cationic amphiphilic neuropeptides and venom peptides
+1991|50.0|3.0|Environmental and Molecular Mutagenesis|Micronuclei as an index of cytogenetic damage: Past, present, and future
+1992|30.0|3.0|Immunologic Research|Tumor necrosis factor receptors--structure and function.
+1993|103.0|3.0|Journal of Neuroscience Research|Optimized survival of hippocampal neurons in B27-supplemented Neurobasal, a new serum-free medium combination.
+1994|53.0|3.0|JAMA|Health and behavioral consequences of binge drinking in college. A national survey of students at 140 campuses.
+1995|157.0|3.0|Trends in Neurosciences|Striatal interneurones: chemical, physiological and morphological characterization
+1996|90.0|4.0|Antonie Van Leeuwenhoek International Journal of General and Molecular Microbiology|The proteolytic systems of lactic acid bacteria
+1997|130.0|5.0|Cell|Visualization of ER-to-Golgi Transport in Living Cells Reveals a Sequential Mode of Action for COPII and COPI
+1998|220.0|5.0|Cell|DNA Binding of the Glucocorticoid Receptor Is Not Essential for Survival
+1999|212.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Suppression of gene silencing: A general strategy used by diverse DNA and RNA viruses of plants
+2000|239.0|6.0|Molecular and Cellular Biology|ATP-Dependent Chromatin-Remodeling Complexes
+2001|214.0|8.0|Nature|Auxin transport inhibitors block PIN1 cycling and vesicle trafficking
+2002|269.0|8.0|Genome Biology|Use of genomic data in risk assessment
+2003|745.0|8.0|Nature Reviews Cancer|ATM and related protein kinases: safeguarding genome integrity
+2004|374.0|9.0|International Journal of Food Microbiology|Essential oils: their antibacterial properties and potential applications in foods--a review.
+2005|745.0|8.0|Environmental Health Perspectives|Nanotoxicology: an emerging discipline evolving from studies of ultrafine particles.
+2006|446.0|9.0|Aquatic Toxicology|ECOTOXICOLOGY OF HUMAN PHARMACEUTICALS
+2007|1029.0|11.0|Nature Protocols|Locating proteins in the cell using TargetP, SignalP and related tools.
+2008|2058.0|11.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|11.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|1420.0|10.0|Nature Protocols|I-TASSER: a unified platform for automated protein structure and function prediction

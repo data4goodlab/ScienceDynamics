@@ -1,0 +1,39 @@
+----  Field Name Invertebrate paleontology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1375:
+----  All time max citation paper: Photodegradable hydrogels for dynamic tuning of physical and chemical properties, 2009, (508.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|3.0|2.5||Analysis and Evaluation of a Vapor-Chamber Fin-Tube Radiator for High-Power Rankine Cycles
+1970|1.0|1.0||Necessary thickness of randomly oriented armor for meteoroid protection
+1971|1.0|1.0|Comparative Biochemistry and Physiology Part A: Physiology|Relationship between the activity of Na + -Ks + -activated adenosinetriphosphatase and the number of chloride cells in eel gills with special reference to sea-water adaptation
+1974|4.0|4.0|International Journal of Solids and Structures|Experimental investigation of normal perforation of projectiles in metallic plates
+1978|5.0|5.0|International Journal of Engineering Science|Mechanics of penetration: Analysis and experiment
+1982|14.0|7.0|Mechanisms of Development|Cell shape and cartilage differentiation of early chick limb bud cells in culture
+1983|6.0|6.0||A Survey of Penetration Mechanics for Long Rods
+1984|12.0|4.0|Teratogenesis Carcinogenesis and Mutagenesis|Comparative teratogenic activities of two retinoids: Effects on palate and limb development
+1985|2.0|2.0|Histopathology|Nonconventional chondrosarcomas and chondrogenesis
+1986|8.0|6.0|Mechanisms of Development|Somite chondrogenesis in vitro: 1. Alterations in proteoglycan synthesis
+1987|1.0|1.0|Bone|In vitro chondrogenesis stimulated by extracts of gall bladder epithelium
+1989|4.0|4.0|International Journal of Impact Engineering|MESA 3-D calculations of armor penetration by projectiles with combined obliquity and yaw
+1990|3.0|1.0|Archives of Oral Biology|Chondrogenic stimulation of embryonic chick limb mesenchymal cells by factors in bovine and human dentine extracts
+1991|14.0|7.5|Journal of Cellular Biochemistry|Developmental expression and hormonal regulation of the rat matrix GLA protein (MGP) gene in chondrogenesis and osteogenesis
+1992|11.0|3.5||Cloning and developmental expression of Sna, a murine homologue of the Drosophila snail gene
+1993|23.0|2.0|Journal of Cellular Biochemistry|Cultivation of cellpolymer cartilage implants in bioreactors
+1994|26.0|4.5|Journal of Cellular Biochemistry|Mesenchymal stem cells in bone development, bone repair, and skeletal regenaration therapy
+1995|10.0|2.0|Developmental Dynamics|Experimental analysis of Msx1 and Msx2 gene expression during chick mandibular morphogenesis
+1996|8.0|1.0|Acta Materialia|Shear localization in high-strain-rate deformation of granular alumina
+1997|16.0|13.0|International Journal of Impact Engineering|Penetration of confined silicon carbide targets by tungsten long rods at impact velocities from 1.5 to 4.6 km/s
+1998|30.0|6.5|Developmental Biology|Morphological Diversity of the Avian Foot Is Related with the Pattern of msx Gene Expression in the Developing Autopod
+1999|44.0|7.0|Differentiation|Chondrogenic differentiation of murine C3H10T1/2 multipotential mesenchymal cells : I. Stimulation by bone morphogenetic protein-2 in high-density micromass cultures
+2000|97.0|8.0|Biomaterials|Review: tissue engineering for regeneration of articular cartilage
+2001|87.0|11.0|Experimental Cell Research|Chondrogenic Differentiation of Mesenchymal Stem Cells from Bone Marrow: Differentiation-Dependent Gene Expression of Matrix Components
+2002|138.0|7.5|Stem Cells|Expansion of Human Adult Stem Cells from Bone Marrow Stroma: Conditions that Maximize the Yields of Early Progenitors and Evaluate Their Quality
+2003|148.0|12.0|Development|Connective tissue growth factor coordinates chondrogenesis and angiogenesis during skeletal development
+2004|84.0|11.0|Biochemical and Biophysical Research Communications|Growth factor combination for chondrogenic induction from human mesenchymal stem cell.
+2005|155.0|17.0|Biomaterials|Multilineage differentiation of human mesenchymal stem cells in a three-dimensional nanofibrous scaffold.
+2006|132.0|14.0|Journal of Cellular Biochemistry|Biologic properties of mesenchymal stem cells derived from bone marrow and adipose tissue
+2007|97.0|13.0|Arthritis Research & Therapy|Major biological obstacles for persistent cell-based regeneration of articular cartilage.
+2008|104.0|16.0|BMC Cell Biology|Donor age and cell passage affects differentiation potential of murine bone marrow-derived stem cells
+2009|448.0|16.0|Science|Photodegradable hydrogels for dynamic tuning of physical and chemical properties
+2010|116.0|16.0|Nature Protocols|Isolation of adipose-derived stem cells and their induction to a chondrogenic phenotype

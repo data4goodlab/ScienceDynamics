@@ -1,0 +1,34 @@
+----  Field Name Computer Engineering: 
+----  Field Level 1.0: 
+----  Field Papers Number 1542:
+----  All time max citation paper: Double-slot antennas on extended hemispherical and elliptical silicon dielectric lenses, 1993, (168.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1976|3.0|3.0|IEEE Transactions on Computers|Computer Science and Engineering Education
+1983|0|0.0|Journal of Molecular Spectroscopy|Intensity of overtones in resonant Raman scattering in I2 vapor
+1984|0|0.0|Journal of The Optical Society of America A-optics Image Science and Vision|Inverting the ratio of the complex parallel and perpendicular reflection coefficients of an absorbing substrate using a transparent thin-film coating
+1985|2.0|1.0|Applied Optics|Constraint on the optical constants of a film-substrate system for operation as an external-reflection retarder at a given angle of incidence
+1986|2.0|1.5|IEEE Transactions on Electrical Insulation|Mechanisms of Surface Flashover Along Solid Dielectrics in Compressed Gases: a Review
+1988|5.0|5.0||A sequential circuit test generation using threshold-value simulation
+1989|30.0|2.5||Electrical properties and detection methods for CMOS IC defects
+1990|6.0|1.0|Journal of Electronic Testing|A hierarchical test generation methodology for digital circuits
+1991|12.0|1.0|Applied Physics Letters|Comparison of timing jitter in external and monolithic cavity modelocked semiconductor lasers
+1992|12.0|0.0|IEEE Transactions on Computers|Implementation of online distributed system-level diagnosis theory
+1993|20.0|1.0|IEEE Transactions on Microwave Theory and Techniques|Double-slot antennas on extended hemispherical and elliptical silicon dielectric lenses
+1994|8.0|0.0|IEEE Transactions on Education|A design laboratory in electrical and computer engineering for freshmen
+1995|12.0|1.0||Replication Using Group Communication Over a Partitioned Network
+1996|11.0|0.5||Time-deterministic WDM star network for massively parallel computing in radar systems
+1997|22.0|0.0|IEEE Transactions on Power Systems|Strategic bidding in an energy brokerage
+1998|9.0|1.0|Journal of Electronic Testing|Scalable Test Generators for High-Speed Datapath Circuits
+1999|37.0|1.0|Mobile Networks and Applications|Experience with adaptive mobile applications in Odyssey
+2000|21.0|1.0|Discrete Event Dynamic Systems|Simulation Budget Allocation for Further Enhancing theEfficiency of Ordinal Optimization
+2001|56.0|1.0|acm ieee international conference on mobile computing and networking|Automatic performance setting for dynamic voltage scaling
+2002|43.0|2.0|Discrete Event Dynamic Systems|A General Architecture for Decentralized Supervisory Control of Discrete-Event Systems
+2003|69.0|2.0|international conference on mobile systems, applications, and services|Full TCP/IP for 8-bit architectures
+2004|65.0|0.0||Making TCP/IP Viable for Wireless Sensor Networks
+2005|85.0|1.0|Wireless Networks|Self-tuning wireless network power management
+2006|51.0|1.0|local computer networks|Cross-Level Sensor Network Simulation with COOJA
+2007|74.0|2.0|ad hoc networks|Efficient and robust pseudonymous authentication in VANET
+2008|55.0|2.0||Architecture Design for Soft Errors
+2009|45.0|1.0|systems, man and cybernetics|Oppositional biogeography-based optimization
+2010|82.0|1.0|Iet Control Theory and Applications|Kalman filtering with state constraints: a survey of linear and nonlinear algorithms

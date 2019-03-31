@@ -1,0 +1,55 @@
+----  Field Name Infrared astronomy: 
+----  Field Level 2.0: 
+----  Field Papers Number 1896:
+----  All time max citation paper: Characteristics of shortperiod wavelike features near 87 km altitude from airglow and lidar observations over Maui, 2007, (1003.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1955|0|0.0|Review of Scientific Instruments|RECORDING INTEGRATING PHOTOELECTRIC AND RADIOACTIVE SCANNER FOR PAPER ELECTROPHORESIS AND CHROMATOGRAPHY
+1960|4.0|4.0|Journal of Geophysical Research|Origin of the sodium airglow
+1964|5.0|3.0|Icarus|A water cloud interpretation of Venus' microwave continuum
+1965|33.0|14.5|Journal of Geophysical Research|Ionospheric processes and nitric oxide
+1966|22.0|7.0|Planetary and Space Science|Rocket measurement of nitric oxide in the upper atmosphere
+1967|32.0|11.5|Journal of Geophysical Research|A theory of discrete VLF emissions from the magnetosphere
+1968|20.0|5.0|Planetary and Space Science|The atmosphere of Mars analyzed by integral inversion of the Mariner IV occultation data.
+1969|31.0|1.5|Journal of Geophysical Research|Latitudinal distribution of auroral and airglow emissions: The soft auroral zone
+1970|27.0|2.5|Planetary and Space Science|Geocoronal hydrogen: An analysis of the Lyman-alpha airglow observed from OGO-4
+1971|14.0|7.0|Journal of Geophysical Research|Observations of conjugate excitation of the O I 1304-A airglow
+1972|29.0|7.0|Radio Science|Seasonal Effects on Distributions of Minor Neutral Constituents in the Mesosphere and Lower Thermosphere
+1973|40.0|10.0|Journal of Geophysical Research|Distribution of atomic oxygen in the upper atmosphere deduced from Ogo 6 airglow observations
+1974|14.0|4.0|Journal of Geophysical Research|On the marginally stable saturation spectrum of unstable type I equatorial electrojet irregularities
+1975|39.0|8.0|Journal of Geophysical Research|atmospheric heating by solar EUV radiation
+1976|12.0|5.0|Journal of Geophysical Research|Metastable D atomic nitrogen in the midlatitude nocturnal ionosphere
+1977|50.0|4.0|Journal of Geophysical Research|Equion, an Equatorial Ionospheric Irregularity Experiment
+1978|31.0|3.0|Icarus|Near-infrared spectra of the Galilean satellites - Observations and compositional implications
+1979|20.0|4.0|Journal of Geophysical Research|Thermal mapping of the northern equatorial and temperate latitudes of Mars
+1980|18.0|3.5|Icarus|Near-infrared studies of the satellites of Saturn and Uranus
+1981|14.0|5.0|Journal of Geophysical Research|Optical observations of thermospheric dynamics at Arecibo
+1982|18.0|2.0|Icarus|Remote comets and related bodies - VJHK colorimetry and surface materials
+1983|30.0|2.0|Geophysical Research Letters|Visible glow induced by spacecraftenvironment interaction
+1984|13.0|4.0|Icarus|Sulfur dioxide on Io - Spatial distribution and physical state
+1985|27.0|2.0|Icarus|The eight-color asteroid survey - Results for 589 minor planets
+1986|19.0|3.5|Nature|Infrared sounding of comet Halley from Vega 1
+1987|25.0|4.0|Radio Science|A semiempirical lowlatitude ionospheric model
+1988|29.0|6.0|machine vision applications|Active, optical range imaging sensors
+1989|26.0|1.0|Icarus|Titan's atmosphere from voyager infrared observations: I. The gas composition of Titan's equatorial region
+1990|32.0|3.0|Journal of Geophysical Research|Atmospheric emissions and trends of nitrous oxide deduced from 10 years of ALEGAGE data
+1991|22.0|3.0|Icarus|Titan's atmosphere from voyager infrared observations: III. Vertical distributions of hydrocarbons and nitriles near Titan's North Pole
+1992|25.0|3.0|Icarus|Collision rates and impact velocities in the main asteroid belt
+1993|35.0|1.5|Journal of Geophysical Research|Auroral arc thicknesses as predicted by various theories
+1994|12.0|3.0|Journal of Geophysical Research|Io's heat flow from infrared radiometry: 19831993
+1995|32.0|6.0|Journal of Geophysical Research|Viking Lander image analysis of Martian atmospheric dust
+1996|29.0|0.0|Journal of Geophysical Research|Surface Deformation and Coherence Measurements of Kilauea Volcano, Hawaii, from SIR-C Radar Interferometry
+1997|16.0|3.0|Environmental Toxicology and Chemistry|Assessment of toxicological interactions of benzene and its primary degradation products (catechol and phenol) using a lux-modified bacterial bioassay
+1998|57.0|5.0|Fems Microbiology Letters|Construction and analysis of luxCDABEbased plasmid sensors for investigating Nacyl homoserine lactonemediated quorum sensing
+1999|34.0|2.5|Applied Physics Letters|Experimental and theoretical studies of phonons in hexagonal InN
+2000|35.0|3.0|Behavioural Brain Research|Dose-response relationship for light intensity and ocular and electroencephalographic correlates of human alertness
+2001|19.0|4.0|Journal of Applied Physics|Capture cross sections of the acceptor level of iron-boron pairs in p-type silicon by injection-level dependent lifetime measurements
+2002|43.0|2.0|Biochemical and Biophysical Research Communications|Isolation and Characterization of a GnRH-like Peptide from Octopus vulgaris
+2003|36.0|6.0|Journal of The Optical Society of America B-optical Physics|Femtosecond writing of active optical waveguides with astigmatically shaped beams
+2004|82.0|4.0|Applied Physics Letters|Depletion-mode ZnO nanowire field-effect transistor
+2005|113.0|4.0|Nature Materials|Field-effect electroluminescence in silicon nanocrystals
+2006|123.0|5.0|Journal of Molecular Biology|Environmentally Controlled Invasion of Cancer Cells by Engineered Bacteria
+2007|463.0|4.0|Journal of Geophysical Research|Characteristics of shortperiod wavelike features near 87 km altitude from airglow and lidar observations over Maui
+2008|127.0|3.0|Journal of the American College of Cardiology|Primary Prevention of Cardiovascular Mortality and Events With Statin Treatments: A Network Meta-Analysis Involving More Than 65,000 Patients
+2009|54.0|4.0|Applied Physics Letters|White phosphorescent organic light-emitting devices with dual triple-doped emissive layers
+2010|229.0|5.0|Nature|Loss-free and active optical negative-index metamaterials

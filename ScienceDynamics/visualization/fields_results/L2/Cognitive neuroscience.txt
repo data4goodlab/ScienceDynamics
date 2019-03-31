@@ -1,0 +1,56 @@
+----  Field Name Cognitive neuroscience: 
+----  Field Level 2.0: 
+----  Field Papers Number 25261:
+----  All time max citation paper: UCSF ChimeraA visualization system for exploratory research and analysis, 2004, (6417.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1961|6.0|6.0|Electroencephalography and Clinical Neurophysiology|Role of the pupillary mechanism in the process of habituation of the visual pathways
+1962|1.0|1.0|Vision Research|On the localization of troxler's effect in the visual pathway
+1963|17.0|17.0|Journal of the Optical Society of America|Integrative Processes in Central Visual Pathways of the Cat*
+1964|15.0|2.0|Experimental Neurology|Photically and electrically elicited responses in the central visual system of the squirrel monkey
+1965|12.0|1.0|Experimental Neurology|Responsiveness in the visual system during various phases of sleep and waking
+1966|2.0|1.5|Experimental Neurology|Evoked potentials from the visual system in hypothermic hibernators and nonhibernators
+1967|6.0|1.0|Vision Research|Periodic activity in the visual system of the cat
+1968|14.0|7.0|Journal of Insect Physiology|Single unit activity in the visual pathway of the butterfly Heliconius erato
+1969|21.0|4.0|Biological Cybernetics|The Electrical Responses of the Retinal Receptors and the Lamina in the Visual System of the Fly Musca
+1970|30.0|3.0|The Journal of Comparative Neurology|Thalamocortical organization of the visual system in the cat
+1971|34.0|3.0|Brain Research|Eye movement potentials in the oculomotor and visual systems of the cat: A comparison of reserpine induced waves with those present during wakefulness and rapid eye movement sleep
+1972|21.0|2.5|The Journal of General Physiology|Spectral and polarization sensitivity of the Dipteran visual system
+1973|26.0|5.5|Brain Research|Observations on the transport of radioactively labeled proteins in the visual system of the chick
+1974|116.0|4.0|The Journal of Comparative Neurology|The retrograde intraaxonal transport of horseradish peroxidase in the chick visual system: A light and electron microscopic study
+1975|50.0|7.0|The Journal of Comparative Neurology|The development of synapses in the visual system of the cat
+1976|28.0|3.0|Biological Cybernetics|Elementary movement detectors in an insect visual system
+1977|79.0|6.0|Brain Research|A new and sensitive staining method for axonally transported horseradish peroxidase (HRP) in the pigeon visual system
+1978|54.0|4.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Common strategies for light adaptation in the peripheral visual systems of fly and dragonfly
+1979|89.0|4.0|Science|Differential behavioral and biochemical effects of right and left hemispheric cerebral infarction in the rat
+1980|92.0|5.0|Vision Research|Parallel visual pathways: a review.
+1981|128.0|4.0|Behavioral and Brain Sciences|Hemispheric laterality in animals and the effects of early experience
+1982|85.0|4.0|Brain Research|WGA-HRP as a transneuronal marker in the visual pathways of monkey and rat
+1983|71.0|5.0|The Journal of Comparative Neurology|Morphology and location of tectal projection neurons in frogs: A study with hrp and cobaltfilling
+1984|70.0|4.0|Nature|Developmental biology of a neural cell adhesion molecule
+1985|80.0|4.0|Annals of Neurology|Developmental dyslexia: four consecutive patients with cortical anomalies.
+1986|68.0|5.5|Trends in Neurosciences|Cat and monkey retinal ganglion cells and their visual functional roles
+1987|128.0|4.0|Psychological Review|Seeing and Imagining in the Cerebral Hemispheres: A Computational Approach.
+1988|251.0|3.5|Biological Cybernetics|Coherent oscillations: A mechanism of feature linking in the visual cortex? Multiple electrode and correlation analyses in the cat
+1989|146.0|4.0|Child Development|Small-Scale Deceit: Deception as a Marker of Two-, Three-, and Four-Year-Olds' Early Theories of Mind.
+1990|136.0|3.0|Cognition|Components of high-level vision: A cognitive neuroscience analysis and accounts of neurological syndromes
+1991|66.0|4.0|Child Development|Young Children's Understanding of Other People's Feelings and Beliefs: Individual Differences and Their Antecedents
+1992|308.0|3.0|Trends in Neurosciences|Separate visual pathways for perception and action.
+1993|86.0|5.0|Annual Review of Neuroscience|How Parallel are the Primate Visual Pathways?
+1994|163.0|4.0|Nature|Changing subunit composition of heteromeric NMDA receptors during development of rat cortex
+1995|215.0|4.0|Science|Inhibition of ocular dominance column formation by infusion of NT-4/5 or BDNF
+1996|117.0|5.0|Cognitive Brain Research|Premotor cortex and the recognition of motor actions
+1997|277.0|5.0|The Journal of Neuroscience|The Fusiform Face Area: A Module in Human Extrastriate Cortex Specialized for Face Perception
+1998|214.0|6.0|Neuron|Cognitive Neuroscience and the Study of Memory
+1999|168.0|7.0|Trends in Cognitive Sciences|Oscillatory gamma activity in humans and its role in object representation
+2000|388.0|7.0|The Journal of Neuroscience|Pyramidal Cells, Patches, and Cortical Columns: a Comparative Study of Infragranular Neurons in TEO, TE, and the Superior Temporal Polysensory Area of the Macaque Monkey
+2001|329.0|9.0|Proceedings of the National Academy of Sciences of the United States of America|A default mode of brain function
+2002|203.0|9.0|Psychology and Aging|Hemispheric asymmetry reduction in older adults: the HAROLD model.
+2003|421.0|11.0|Annual Review of Neuroscience|Mechanisms of Visual Attention in the Human Cortex
+2004|1130.0|10.0|Journal of Computational Chemistry|UCSF ChimeraA visualization system for exploratory research and analysis
+2005|485.0|10.0|Behavioral and Brain Sciences|Understanding and sharing intentions: The origins of cultural cognition
+2006|668.0|10.0|Nature Reviews Neuroscience|Meeting of minds: the medial frontal cortex and social cognition
+2007|643.0|9.0|Nature Reviews Neuroscience|The cortical organization of speech processing
+2008|754.0|11.0|Nature|What we can do and what we cannot do with fMRI
+2009|866.0|10.0|PLOS ONE|Dissociable Perceptual Effects of Visual Adaptation
+2010|1330.0|10.0|PLOS ONE|Circadian Plasticity in Photoreceptor Cells Controls Visual Coding Efficiency in Drosophila melanogaster

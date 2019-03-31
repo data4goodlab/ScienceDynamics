@@ -1,0 +1,65 @@
+----  Field Name Psychodynamics: 
+----  Field Level 2.0: 
+----  Field Papers Number 12937:
+----  All time max citation paper: The plant immune system., 2006, (3103.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1936|2.0|2.0|Journal of Parasitology|The production of artificial immunity in dogs against Echinococcus granulosus.
+1937|0|0.0|Journal of Experimental Psychology|An experimental demonstration of regression in the rat.
+1940|1.0|1.0|JAMA Internal Medicine|RELATION BETWEEN MULTIPLE PERIPHERAL NEUROPATHY AND CIRRHOSIS OF THE LIVER
+1948|1.0|1.0|The Journal of Agricultural Science|The growth of lambs before and after birth in relation to the level of nutrition
+1949|2.0|0.0|Annals of Applied Biology|OBSERVATIONS ON APPLE CANKER III. THE ANATOMY OF THE STEM CANKER
+1950|6.0|3.0|JAMA|Reversal of aminopterin and amethopterin toxicity by citrovorum factor.
+1952|1.0|1.0|Oral Surgery, Oral Medicine, Oral Pathology|Studies on the defense mechanisms of the mucous membranes with particular reference to the oral cavity
+1953|0|0.0|British Journal of Nutrition|A Method For Determining the Nutritive Value of a Protein by its Effect on Liver Protein
+1960|18.0|2.0|Acta Medica Scandinavica|Serum Lipids in Normal Men
+1961|18.0|18.0|Journal of Geophysical Research|A study of the free oscillations of the Earth
+1962|2.0|1.5|Journal of Dairy Science|Sources of Error in Energy Utilization Studies with Lactating Dairy Cattle1
+1963|31.0|0.5|Journal of Molecular Biology|Induction of thymidine kinase by vaccinia-infected mouse fibroblasts
+1964|2.0|0.5|Physics of Fluids|END-WALL HEAT-TRANSFER EFFECTS ON THE TRAJECTORY OF A REFLECTED SHOCK WAVE,
+1965|11.0|9.5|The American Journal of Clinical Nutrition|Quantitative Effects of Dietary Fat on Serum Cholesterol in Man
+1966|5.0|4.0|Journal of Geophysical Research|On the violation of the second and third adiabatic invariants
+1967|14.0|2.5|Brain Research|Ascending axon degeneration following hemisection of the spinal cord in the tegu lizard ( Tupinambis nigropunctatus )
+1968|3.0|0.0|Marine Biology|Defensive mechanisms and ecology of some tropical holothurians
+1969|6.0|2.0|British Journal of Obstetrics and Gynaecology|MATERNAL AND FETAL PLASMA AMINO ACID CONCENTRATIONS DURING GESTATION AND IN RETARDED FETAL GROWTH
+1970|29.0|1.5|The New England Journal of Medicine|Effect on hepatic morphology of treatment of obesity by fasting, reducing diets and small-bowel bypass.
+1971|13.0|5.0|Engineering Fracture Mechanics|Finite elements for determination of crack tip elastic stress intensity factors.
+1972|13.0|6.0|Cell and Tissue Research|Structure and function of blood and connective tissue cells of the fresh water pulmonate Lymnaea stagnalis studied by electron microscopy and enzyme histochemistry.
+1973|41.0|9.5|Journal of Geophysical Research|Can the ionosphere regulate magnetospheric convection?
+1974|10.0|1.0|Journal of The Mechanics and Physics of Solids|Bifurcation analysis of the onset of necking in an elastic/plastic cylinder under uniaxial tension
+1975|19.0|3.0|The Journal of Pediatrics|The immune response in iron-deficient children: Impaired cellular defense mechanisms with altered humoral components
+1976|9.0|2.5|Atherosclerosis|Turnover of cholesterol in aorta of rabbits previously fed a cholesterol-enriched diet
+1977|9.0|5.5|Geophysical Journal International|A three-dimensional viscoelastic model of a strike slip fault
+1978|9.0|3.0|Environmental Research|The higher oxides of nitrogen: Inhalation toxicology
+1979|30.0|2.0|Histopathology|Prognostic significance of the histological features of malignant melanoma
+1980|18.0|2.0|Journal of Geophysical Research|A source for the geomagnetic storm main phase ring current
+1981|10.0|4.0|Journal of Maxillofacial Surgery|Experience with the sagittal osteotomy of the mandibular ramus: a 13-year review.
+1982|21.0|2.0|Neuroscience & Biobehavioral Reviews|The inhibitory modulation of agonistic behavior in the rat brain: A review
+1983|257.0|1.0|Science|Dietary Carcinogens and Anticarcinogens.
+1984|33.0|3.0|Journal of Metamorphic Geology|A garnethornblende geothermometer: calibration, testing, and application to the Pelona Schist, Southern California
+1985|13.0|1.0|Digestive Diseases and Sciences|The pathophysiology of peptic ulcer disease
+1986|16.0|2.0|Journal of Geophysical Research|On transient rheology and glacial isostasy
+1987|18.0|3.5|Computers & Structures|A quadrilateral shell element using a mixed formulation
+1988|58.0|2.0|Hypertension|Mediators produced by the endothelial cell.
+1989|27.0|2.0|Annals of Statistics|Linear Smoothers and Additive Models
+1990|30.0|2.0|IEEE Transactions on Computers|Executing a program on the MIT tagged-token dataflow architecture
+1991|51.0|3.0|Free Radical Biology and Medicine|Oxygen free radicals and Parkinson's disease.
+1992|35.0|2.0|Atherosclerosis|Regression of coronary atherosclerosis by combined LDL-apheresis and lipid-lowering drug therapy in patients with familial hypercholesterolemia: a multicenter study
+1993|52.0|2.0|Journal of Investigative Dermatology|Antioxidant Defense Mechanisms in Murine Epidermis and Dermis and Their Responses to Ultraviolet Light
+1994|118.0|3.0|Physiologia Plantarum|Photooxidative stress in plants
+1995|38.0|2.0|The Plant Cell|Coordinated Activation of Programmed Cell Death and Defense Mechanisms in Transgenic Tobacco Plants Expressing a Bacterial Proton Pump.
+1996|135.0|3.0|Magnetic Resonance in Medicine|Statistical methods of estimation and inference for functional MR image analysis
+1997|95.0|4.0|The Plant Cell|Salicylic acid potentiates an agonist-dependent gain control that amplifies pathogen signals in the activation of defense mechanisms.
+1998|55.0|4.0|Econometrica|Estimating labor supply responses using tax reforms
+1999|212.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Suppression of gene silencing: A general strategy used by diverse DNA and RNA viruses of plants
+2000|283.0|7.0|Cell|An RNA-Dependent RNA Polymerase Gene in Arabidopsis Is Required for Posttranscriptional Gene Silencing Mediated by a Transgene but Not by a Virus
+2001|125.0|6.0|Current Opinion in Immunology|NK cells and NKT cells in innate defense against viral infections
+2002|186.0|7.0|Ecological Modelling|Spatial prediction of species distribution: an interface between ecological theory and statistical modelling
+2003|175.0|8.0|Proceedings of the National Academy of Sciences of the United States of America|Activation of innate immunity in the CNS triggers neurodegeneration through a Toll-like receptor 4-dependent pathway
+2004|285.0|8.0|Cell|Autophagy Is a Defense Mechanism Inhibiting BCG and Mycobacterium tuberculosis Survival in Infected Macrophages
+2005|265.0|7.0|Mechanisms of Ageing and Development|Overview of caloric restriction and ageing
+2006|1283.0|7.0|Nature|The plant immune system.
+2007|472.0|6.0|Trends in Cognitive Sciences|Self-Projection and the Brain
+2008|702.0|7.0|PLOS ONE|Ixodes ricinus Tick Lipocalins: Identification, Cloning, Phylogenetic Analysis and Biochemical Characterization
+2009|677.0|7.0|Annual Review of Plant Biology|A Renaissance of Elicitors: Perception of Microbe-Associated Molecular Patterns and Danger Signals by Pattern-Recognition Receptors
+2010|758.0|7.0|Annual Review of Biochemistry|Regulation of mRNA Translation and Stability by microRNAs

@@ -1,0 +1,73 @@
+----  Field Name Crystallography: 
+----  Field Level 1.0: 
+----  Field Papers Number 99770:
+----  All time max citation paper: A short history of SHELX, 2008, (5006.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1938|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|The Raman spectrum and constitution of pentaerythritol
+1941|0|0.0|Philosophical Magazine Series 1|VI. The crystal structures of some heterocyclic organic compounds of analogous constitution.Part I. Thianthren and selenanthren
+1943|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|Luminescence spectra and vibrations in crystal lattices
+1944|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|The specific heat of metals crystallising in the cubic sytem
+1946|0|0.0|Journal of the American Oil Chemists' Society|Diffraction patterns of two crystalline forms of oleic acid
+1947|2.0|1.0|Journal of Chemical Physics|Forces between Tetrahalide Molecules
+1950|6.0|0.0|Journal of Applied Physics|Formation of Crystal Nuclei in Liquid Metals
+1951|2.0|1.0|Journal of the American Ceramic Society|Study of Particle Size of the Opacifying Phase in Titania Enamels: I, Change of Particle Size with Change of Concentration of Dissolved TiO2
+1952|6.0|6.0|Journal of Chemical Physics|The Host Crystal Luminescence of Zinc Sulfide Phosphors
+1953|3.0|1.0|Geochimica et Cosmochimica Acta|The microcline-sanidine stability relations
+1954|1.0|1.0|Nature|Crystal Structure of Benzene at 3 C.
+1955|11.0|5.0|Journal of Chemical Physics|Intermolecular Potentials of Argon, Krypton, and Xenon
+1956|10.0|5.5|Journal of Chemical Physics|Relative Magnitude of Crystalline Fields; Crystal Structure of Methyl Iodide
+1957|5.0|0.0|Journal of Chemical Physics|Vibration Spectrum and Heat Capacity of a Chain Polymer Crystal
+1958|10.0|1.0|Journal of Chemical Physics|Neutron Diffraction Study of Gypsum, CaSO42H2O
+1959|11.0|2.0|Journal of Chemical Physics|PARAMAGNETIC RESONANCE ABSORPTION IN NEPTUNIUM HEXAFLUORIDE
+1960|16.0|2.0|Journal of Applied Physics|Photoemission and Related Properties of the AlkaliAntimonides
+1961|19.0|2.0|Journal of Applied Physics|LowAngle XRay Diffraction of Crystalline Nonoriented Polyethylene and Its Relation to Crystallization Mechanisms
+1962|18.0|2.0|Journal of the American Ceramic Society|Deformation Behavior of Polycrystalline Aluminum Oxide
+1963|27.0|2.0|Journal of Chemical Physics|On the Excess Electron and Hole Band Structures and Carrier Mobility in Naphthalene, Anthracene, and Several Polyphenyls
+1964|19.0|2.0|Geochimica et Cosmochimica Acta|The growth of the Widmansttten pattern in metallic meteorites
+1965|22.0|1.0|Journal of Geophysical Research|The pressure derivatives of the sound velocities of polycrystalline magnesia
+1966|9.0|1.0|Journal of Molecular Biology|Reaction kinetics of a crystalline hemoprotein: An effect of crystal structure on reactivity of ferrimyoglobin
+1967|62.0|1.0|Icarus|Chondrites - Their metallic minerals, thermal histories, and parent planets.
+1968|16.0|0.0|Engineering Fracture Mechanics|Sub-critical flaw growth
+1969|38.0|1.0|Journal of Cell Biology|MICROTUBULAR CRYSTALS IN MAMMALIAN CELLS
+1970|35.0|1.0|Journal of Molecular Biology|A Pyrimidine nucleoside in the syn conformation: Molecular and crystal structure of 4-thiouridine-hydrate
+1971|55.0|1.0|Biopolymers|Stereochemistry of nucleic acids and their constituents. X. solidslate baseslacking patterns in nucleic acid constituents and polynucleotides
+1972|32.0|1.0|Geochimica et Cosmochimica Acta|Kinetic disequilibrium in trace element partitioning between phenocrysts and host lava
+1973|22.0|1.0|Geochimica et Cosmochimica Acta|Patterns of trace element partitioning
+1974|32.0|1.0|Geochimica et Cosmochimica Acta|Clinopyroxene-matrix partitioning of K, Rb, Cs, Sr and Ba
+1975|37.0|1.0|Journal of Molecular Biology|Crystal structure of sickle-cell deoxyhemoglobin at 5  resolution
+1976|34.0|1.0|Journal of Molecular Biology|RNA double-helical fragments at atomic resolution: II. The crystal structure of sodium guanylyl-3,5-cytidine nonahydrate
+1977|51.0|2.0|Journal of Catalysis|The conversion of methanol and other O-compounds to hydrocarbons over zeolite catalysts
+1978|69.0|2.0|Applied Physics Letters|Spatially controlled crystal regrowth of ion-implanted silicon by laser irradiation
+1979|50.0|3.0|Applied Physics Letters|Crystallographic orientation of silicon on an amorphous substrate using an artificial surfacerelief grating and laser crystallization
+1980|78.0|2.0|Journal of Applied Physics|Optically induced conductivity changes in dischargeproduced hydrogenated amorphous silicon
+1981|43.0|1.0|Journal of Geophysical Research|Melt segregation from partially molten source regions - The importance of melt density and source region size
+1982|37.0|1.0|Geochimica et Cosmochimica Acta|A Raman spectroscopic study of glasses along the joins silica-calcium aluminate, silica-sodium aluminate, and silica-potassium aluminate
+1983|53.0|2.0|Journal of Applied Physics|Optical and crystallographic properties and impurity incorporation of GaxIn1xAs (0.44<x<0.49) grown by liquid phase epitaxy, vapor phase epitaxy, and metal organic chemical vapor deposition
+1984|164.0|3.0|Journal of Applied Physics|PrFe and NdFebased materials: A new class of highperformance permanent magnets (invited)
+1985|182.0|2.0|Journal of Applied Physics|GaAs, AlAs, and AlxGa1xAs: Material parameters for use in research and device applications
+1986|76.0|3.0|Applied Physics Letters|Formation of amorphous alloys by the mechanical alloying of crystalline powders of pure metals and powders of intermetallics
+1987|118.0|2.0|Applied Physics Letters|Relaxation of strainedlayer semiconductor structures via plastic flow
+1988|253.0|3.0|Nature|A hypothetical model of the foreign antigen binding site of Class II histocompatibility molecules
+1989|110.0|3.0|Applied Physics Letters|Structural properties of As-rich GaAs grown by molecular beam epitaxy at low temperatures
+1990|179.0|3.0|Cell|Crystal structure of an engrailed homeodomain-DNA complex at 2.8  resolution: A framework for understanding homeodomain-DNA interactions
+1991|185.0|3.0|Science|Zinc finger-DNA recognition: crystal structure of a Zif268-DNA complex at 2.1 A.
+1992|120.0|2.0|Applied Physics Letters|Textured diamond growth on (100) SiC via microwave plasma chemical vapor deposition
+1993|140.0|2.0|Cell|Crystal structure of the soluble human 55 kd TNF receptor-human TNF complex: Implications for TNF receptor activation
+1994|425.0|3.0|Journal of Applied Physics|Largebandgap SiC, IIIV nitride, and IIVI ZnSebased semiconductor device technologies
+1995|206.0|2.0|Cell|The crystal structure of an AII-RNAhammerhead ribozyme: A proposed mechanism for RNA catalytic cleavage
+1996|270.0|2.0|Trends in Biochemical Sciences|Coiled coils: new structures and new functions
+1997|540.0|2.0|Nature|Molecular basis of agonism and antagonism in the oestrogen receptor.
+1998|386.0|3.0|Cell|The Structural Basis of Estrogen Receptor/Coactivator Recognition and the Antagonism of This Interaction by Tamoxifen
+1999|182.0|3.0|The EMBO Journal|Structure of the Ligand-Binding Domain of Oestrogen Receptor Beta in the Presence of a Partial Agonist and a Full Antagonist
+2000|473.0|4.0|Nature|Structure of the 30S ribosomal subunit.
+2001|448.0|4.0|Biochemical Journal|Nitric oxide synthases: structure, function and inhibition
+2002|433.0|4.0|Nature|Crystal structure and mechanism of a calcium-gated potassium channel
+2003|1186.0|5.0|Annual Review of Biochemistry|THE GREEN FLUORESCENT PROTEIN
+2004|339.0|5.0|Nature|X-ray structure of a protein-conducting channel
+2005|1266.0|4.0|Journal of Applied Physics|A comprehensive review of ZnO materials and devices
+2006|313.0|4.0|Nature|Structure of a bacterial multidrug ABC transporter
+2007|1015.0|5.0|Science|High-resolution crystal structure of an engineered human beta2-adrenergic G protein-coupled receptor.
+2008|2983.0|5.0|Acta Crystallographica Section A|A short history of SHELX
+2009|728.0|5.0|Journal of Biomolecular NMR|TALOS+: a hybrid method for predicting protein backbone torsion angles from NMR chemical shifts.
+2010|1380.0|5.0|PLOS ONE|The Anopheles gambiae Odorant Binding Protein 1 (AgamOBP1) Mediates Indole Recognition in the Antennae of Female Mosquitoes

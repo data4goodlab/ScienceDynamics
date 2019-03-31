@@ -1,0 +1,35 @@
+----  Field Name Ichthyology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1451:
+----  All time max citation paper: Wrappers for feature subset selection, 1997, (2877.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1972|0|0.0|Soil Science|Evaluation of the Filter Paper Method for Estimating Soil Water Potential
+1978|1.0|1.0|American Journal of Hematology|In vitro functional capabilities of canine polymorphonuclear neutrophils collected simultaneously by continuousflow centrifugation and continuousflow filtration leukopheresis
+1984|0|0.0|Journal of The Australian Mathematical Society|Mildly distributive semilattices
+1985|2.0|2.0|Journal of Experimental Marine Biology and Ecology|Feeding behaviour in Meganyctiphanes norvegica (M. Sars) (Crustacea: Euphausiacea)
+1986|2.0|2.0|Signal Processing|Search for periodicities by axis-crossings of filtered time series
+1987|0|0.0|Journal of Applied Ichthyology|Biochemischgenetische Untersuchungen zur Frage der genetischen Differenzierung von Blaufelchen ( Coregonus lavaretus wartmanni , Bloch) und Gangfisch ( Coregonus lavaretus macrophthalmus , Nsslin) aus dem Bodensee
+1988|8.0|3.0|Atmospheric Environment|Measurement of atmospheric nitric acid by the filter method and comparisons with the tuneable diode laser and other methods
+1989|15.0|6.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Optimal deconvolution based on polynomial methods
+1990|7.0|2.0|Journal of Waterway Port Coastal and Ocean Engineering-asce|Numerical Simulation of Irregular Wave Propagation over Shoal
+1991|5.0|2.5||Filter: an algorithm for reducing cascaded rollbacks in optimistic distributed simulations
+1992|17.0|3.0|Pattern Recognition|Gabor filter-based edge detection
+1993|15.0|2.0|Journal of Waterway Port Coastal and Ocean Engineering-asce|Alternative Form of Boussinesq Equations for Nearshore Wave Propagation
+1994|11.0|3.0|Journal of Waterway Port Coastal and Ocean Engineering-asce|Shoaling of Solitary Waves on Plane Beaches
+1995|13.0|2.0|vehicular technology conference|Adaptation behavior of a feedforward amplifier linearizer
+1996|23.0|2.0|IEEE Transactions on Medical Imaging|An adaptive density-weighted contrast enhancement filter for mammographic breast mass detection
+1997|146.0|1.0|Artificial Intelligence|Wrappers for feature subset selection
+1998|61.0|3.0||Video OCR for digital news archive
+1999|19.0|3.0|Image and Vision Computing|Genetic algorithm-based interactive segmentation of 3D medical images
+2000|37.0|5.0|JAMA Internal Medicine|A population-based study of the effectiveness of inferior vena cava filter use among patients with venous thromboembolism.
+2001|25.0|3.5|Sensors and Actuators B-chemical|Force field particle filter, combining ultrasound standing waves and laminar flow
+2002|16.0|4.0|Journal of Business & Economic Statistics|Conditional Jump Dynamics in Stock Market Returns
+2003|15.0|3.5||Coherence-enhancing shock filters
+2004|46.0|3.0|computer vision and pattern recognition|Collaborative tracking of multiple targets
+2005|165.0|5.0|Proceedings of the IEEE|SPIRAL: Code Generation for DSP Transforms
+2006|60.0|4.0|Engineering Fracture Mechanics|Glass-fibre-reinforced composites with enhanced mechanical and electrical properties  Benefits and limitations of a nanoparticle modified matrix
+2007|84.0|6.0|international world wide web conferences|Exhibit: lightweight structured data publishing
+2008|87.0|4.0|Behavioural Brain Research|Alarm substance induced behavioral responses in zebrafish (Danio rerio).
+2009|87.0|2.0|Remote Sensing of Environment|An evaluation of AMSR-E derived soil moisture over Australia
+2010|55.0|3.5|Solar Energy Materials and Solar Cells|Plasmon-enhanced optical absorption and photocurrent in organic bulk heterojunction photovoltaic devices using self-assembled layer of silver nanoparticles

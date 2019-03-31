@@ -1,0 +1,77 @@
+----  Field Name Nuclear physics: 
+----  Field Level 1.0: 
+----  Field Papers Number 90051:
+----  All time max citation paper: Significance analysis of microarrays applied to the ionizing radiation response, 2001, (6693.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1930|0|0.0|Nature|History of Research in Cosmic Rays.
+1935|4.0|4.0|Journal of Chemical Physics|The Vapor Pressures of the Isotopic Forms of Water
+1936|5.0|3.0|Physica D: Nonlinear Phenomena|Decrease of primaries, showers and ionisation of cosmic rays under layers of lead and iron
+1937|4.0|3.0|Physica D: Nonlinear Phenomena|Ionisation by gamma rays and rntgen rays in argon at high pressures an absolute dosemeter
+1938|0|0.0|Mathematical Proceedings of the Cambridge Philosophical Society|The penetrating power of cosmic-ray shower particles
+1940|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|On elementary heavy particles with any integral charge
+1945|2.0|1.0|Biological Reviews|EFFECTS OF IONIZING RADIATIONS ON CHROMOSOMES
+1947|1.0|1.0|JAMA|THE USE OF ISOTOPES IN MEDICAL RESEARCH
+1948|0|0.0|Mathematical Proceedings of the Cambridge Philosophical Society|The thick-film chamber method for the measurement of fast neutron flux
+1949|1.0|0.0|Journal of Cellular and Comparative Physiology|The relationship of the cell surface to metabolism. IV. The role of cell surface phosphatases of yeast
+1950|7.0|0.0|Journal of Chemical Physics|Quantitative Studies of RadiationInduced Reactions in Aqueous Solution. I. Oxidation of Ferrous Sulfate by X and Radiation
+1951|9.0|0.0|Journal of Chemical Physics|The Exchange of Water Between Hydrated Cations and Solvent
+1952|8.0|0.0|Journal of Chemical Physics|Nuclear Magnetic Resonance in Metals. I. Broadening of Absorption Lines by SpinLattice Interactions
+1953|7.0|0.5|Journal of Chemical Physics|The Decomposition of Nitrate Crystals by Ionizing Radiations
+1954|13.0|0.0|Archives of Biochemistry and Biophysics|The effect of ionizing radiation on deoxyribonuclease activities of body fluids. I. The effect of total body exposure on the urinary excretion of deoxyribonucleases
+1955|5.0|0.0|Review of Scientific Instruments|Stanford HighEnergy Linear Electron Accelerator (Mark III)
+1956|19.0|1.0|Journal of Chemical Physics|Luminescence of Ice Subjected to Ionizing Radiation
+1957|10.0|1.5|Journal of Geophysical Research|Disturbances in the lower ionosphere observed at VHF following the solar flare of 23 February 1956 with particular reference to auroralzone absorption
+1958|18.0|1.0|Physica D: Nonlinear Phenomena|A theorem on the single particle energy in a Fermi gas with interaction
+1959|31.0|1.0|Nuclear Physics|E2 transitions from the second 2+ level of even-even nuclei
+1960|30.0|1.0|Geochimica et Cosmochimica Acta|Determinations of concentrations of heavy elements in meteorites by activation analysis
+1961|53.0|1.5|Journal of Chemical Physics|THEORETICAL INTERPRETATION OF CARBON-13 HYPERFINE INTERACTIONS IN ELECTRON SPIN RESONANCE SPECTRA
+1962|36.0|3.0|Nuclear Physics|Trends in nuclear reaction cross sections (I) the (n, p) reaction induced by 14 MeV neutrons
+1963|91.0|3.0|Journal of Geophysical Research|The solar wind velocity and its correlation with cosmicray variations and with solar and geomagnetic activity
+1964|68.0|2.0|Nuclear Physics|THE DISTORTED-WAVES THEORY OF DIRECT NUCLEAR REACTIONS WITH SPIN-ORBIT EFFECTS
+1965|88.0|3.0|Journal of Geophysical Research|Tail of the magnetosphere
+1966|58.0|3.0|Genetics|Three loci in Escherichia coli K-12 that control the excision of pyrimidine dimers and certain other mutagen products from DNA.
+1967|46.0|1.0|Journal of Geophysical Research|Spallation and fissiogenic xenon and krypton from stepwise heating of the Pasamonte achondrite; The case for extinct plutonium 244 in meteorites; Relative ages of chondrites and achondrites
+1968|121.0|0.0||Ribonucleic acids from animal cells.
+1969|58.0|0.0|Geochimica et Cosmochimica Acta|Rare Gases in Stony Meteorites
+1970|43.0|1.0|Journal of Clinical Investigation|Formation of cholesteryl ester-rich particulate lipid during metabolism of chylomicrons
+1971|69.0|1.0|Journal of Clinical Investigation|Stimulation of intestinal mucosal adenyl cyclase by cholera enterotoxin and prostaglandins
+1972|43.0|1.0|Journal of Clinical Investigation|Phenobarbital-Induced Alterations in Vitamin D Metabolism
+1973|102.0|1.0|Thin Solid Films|Principles and applications of ion beam techniques for the analysis of solids and thin films
+1974|43.0|1.0|Earth and Planetary Science Letters|Isotopic evidence for a terminal lunar cataclysm
+1975|64.0|1.0|Physics of Fluids|Twodimensional relativistic simulations of resonance absorption
+1976|65.0|2.0|Earth and Planetary Science Letters|A classification of meteorites based on oxygen isotopes
+1977|134.0|2.0|Journal of Experimental Medicine|Functional analysis of two human T-cell subpopulations: help and suppression of B-cell responses by T cells bearing receptors for IgM or IgG.
+1978|71.0|2.0|Applied Physics Letters|Timeresolved reflectivity of ionimplanted silicon during laser annealing
+1979|94.0|2.0|Journal of Applied Physics|A melting model for pulsinglaser annealing of implanted semiconductors
+1980|88.0|2.0|Journal of Applied Physics|Supersaturated substitutional alloys formed by ion implantation and pulsed laser annealing of groupIII and groupV dopants in silicon
+1981|63.0|2.0|Geochimica et Cosmochimica Acta|Influence of diet on the distribution of nitrogen isotopes in animals
+1982|72.0|2.0|Geochimica et Cosmochimica Acta|Solar-system abundances of the elements
+1983|39.0|2.0|Geochimica et Cosmochimica Acta|Oxygen isotope fractionations involving pyroxenes: The calibration of mineral-pair geothermometers
+1984|75.0|3.0|Nature|Oxygen isotope calibration of the onset of ice-rafting and history of glaciation in the North Atlantic region
+1985|68.0|2.0|Journal of Applied Physics|Calorimetric studies of crystallization and relaxation of amorphous Si and Ge prepared by ion implantation
+1986|76.0|2.0|Nature|Oxygen isotopes and sea level
+1987|57.0|2.0|Quaternary Science Reviews|Oxygen isotopes, ice volume and sea level
+1988|75.0|2.0|Journal of Applied Physics|Rapid isothermal processing
+1989|214.0|2.0|Geochimica et Cosmochimica Acta|Abundances of the elements - Meteoritic and solar
+1990|191.0|2.0|Applied Physics Letters|ptype ZnSe by nitrogen atom beam doping during molecular beam epitaxial growth
+1991|82.0|2.0|Journal of Applied Physics|Impurity enhancement of the 1.54m Er3+ luminescence in silicon
+1992|97.0|2.0|Journal of Experimental Medicine|Crosslinking CD4 by human immunodeficiency virus gp120 primes T cells for activation-induced apoptosis.
+1993|72.0|2.0|Cancer Research|Loss of a p53-associated G1 Checkpoint Does Not Decrease Cell Survival following DNA Damage
+1994|120.0|2.0|Applied Physics Letters|Implantation and transient B diffusion in Si: The source of the interstitials
+1995|210.0|2.0|Science|DNA-dependent kinase (p350) as a candidate gene for the murine SCID defect
+1996|154.0|2.0|Cell|Acid SphingomyelinaseDeficient Human Lymphoblasts and Mice Are Defective in Radiation-Induced Apoptosis
+1997|187.0|2.0|Cell|Recruitment of p300/CBP in p53-Dependent Signal Pathways
+1998|264.0|2.0|Cell|The hMre11/hRad50 Protein Complex and Nijmegen Breakage Syndrome: Linkage of Double-Strand Break Repair to the Cellular DNA Damage Response
+1999|440.0|3.0|Journal of Applied Physics|GaN: Processing, defects, and devices
+2000|294.0|3.0|Current Biology|A critical role for histone H2AX in recruitment of repair factors to nuclear foci after DNA damage.
+2001|1703.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Significance analysis of microarrays applied to the ionizing radiation response
+2002|231.0|3.0|Nuclear Instruments & Methods in Physics Research Section A-accelerators Spectrometers Detectors and Associated Equipment|Geant4a simulation toolkit
+2003|731.0|4.0|Nature|DNA damage activates ATM through intermolecular autophosphorylation and dimer dissociation
+2004|251.0|4.0|Radiocarbon|IntCal04 terrestrial radiocarbon age calibration, 0-26 cal kyr BP.
+2005|267.0|4.0|Geophysical Research Letters|Stalagmite evidence for the onset of the Last Interglacial in southern Europe at 129  1 ka
+2006|401.0|3.0|IEEE Transactions on Automatic Control|Flocking for multi-agent dynamic systems: algorithms and theory
+2007|290.0|4.0|Science|Orchestration of the DNA-Damage Response by the RNF8 Ubiquitin Ligase
+2008|365.0|4.0|Nature|Millennial- and orbital-scale changes in the East Asian monsoon over the past 224,000|[thinsp]|years
+2009|817.0|5.0|Science|Evidence for Cardiomyocyte Renewal in Humans
+2010|538.0|5.0|PLOS ONE|Source partitioning using stable isotopes: coping with too much variation.

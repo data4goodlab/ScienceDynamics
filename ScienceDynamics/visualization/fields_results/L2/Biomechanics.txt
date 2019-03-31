@@ -1,0 +1,53 @@
+----  Field Name Biomechanics: 
+----  Field Level 2.0: 
+----  Field Papers Number 32875:
+----  All time max citation paper: Nonrigid registration using free-form deformations: application to breast MR images, 1999, (2086.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1950|5.0|5.0|British Journal of Nutrition|Copper pine of calves.
+1963|2.0|2.0|Journal of Geophysical Research|A note on the compression of the Earth's magnetic field and hypothetically related phenomena
+1965|2.0|2.0||Survey of the literature on the solar constant and the spectral distribution of solar radiant flux
+1966|5.0|2.5|International Journal of Rock Mechanics and Mining Sciences & Geomechanics Abstracts|A study of the behaviour of a broken rock under triaxial compression, and its application to mine roadways
+1967|1.0|1.0|International Journal of Rock Mechanics and Mining Sciences & Geomechanics Abstracts|FAILURE OF ROCKS UNDER TENSILE CONDITIONS
+1969|4.0|1.0||Failure Criteria for Filamentary Composites.
+1970|18.0|2.0|Nature|Long Chain Fatty Acid Formation: Key Step in Myelination studied in Mutant Mice
+1971|4.0|1.0|Engineering Geology|Stability of single openings in horizontally bedded rock
+1972|41.0|11.0|Journal of Geophysical Research|Compressions and rarefactions in the solar wind: Vela 3
+1973|4.0|1.0|Rock Mechanics and Rock Engineering|UNDRAINED SHEAR TESTING OF JOINTED ROCK
+1974|10.0|3.0|Journal of The Mechanics and Physics of Solids|Bifurcation analysis of the onset of necking in an elastic/plastic cylinder under uniaxial tension
+1975|10.0|2.0|Pharmacology, Biochemistry and Behavior|The level of GABA in the brain and locomotor behavior
+1976|5.0|0.5||Collective Choice and the Lindahl Allocation Method
+1977|16.0|4.0|Journal of Geophysical Research|Triggering of substorms by solar wind discontinuities
+1978|10.0|2.0|American Journal of Physical Anthropology|Mandibular biomechanics and temporomandibular joint function in primates
+1979|11.0|2.5|Journal of Geophysical Research|The double seismic zone in downgoing slabs and the viscosity of the mesosphere
+1980|13.0|2.0|Journal of Biomechanics|Ground reaction forces in distance running
+1981|8.0|1.5|International Journal of Rock Mechanics and Mining Sciences & Geomechanics Abstracts|EXPERIMENTAL STUDIES OF SCALE EFFECTS ON THE SHEAR BEHAVIOUR OF ROCK JOINTS
+1982|14.0|2.0|Metabolic Bone Disease and Related Research|The coupling of bone formation to bone resorption: A critical analysis of the concept and of its relevance to the pathogenesis of osteoporosis
+1983|14.0|2.0|Journal of Biomechanics|Normative data of knee joint motion and ground reaction forces in adult level walking.
+1984|115.0|3.0|Artificial Intelligence|Qualitative process theory
+1985|126.0|2.0|Behavioral and Brain Sciences|The organization of human postural movements: A formal basis and experimental synthesis
+1986|22.0|1.5|Journal of Geophysical Research|Phase transitions, Grneisen parameter, and elasticity for shocked iron between 77 GPa and 400 GPa
+1987|12.0|2.0||Adiabatic Shear Bands in Simple and Dipolar Plastic Materials
+1988|28.0|2.0|Behavioural Brain Research|Motor somatotopy in the striatum of rat: Manipulation, biting and gait
+1989|40.0|2.0|Journal of the American Ceramic Society|Cyclic Fatigue Crack Propagation in Alumina under Direct TensionCompression Loading
+1990|24.0|2.0|IEEE Transactions on Biomedical Engineering|An interactive graphics-based model of the lower extremity to study orthopaedic surgical procedures
+1991|29.0|2.0|Gene|Characterization of nucleotide sequences from European hepatitis C virus isolates
+1992|36.0|2.0|Archives of Physical Medicine and Rehabilitation|Electrogoniometric feedback: its effect on genu recurvatum in stroke.
+1993|83.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Analysis and synthesis of facial image sequences using physical and anatomical models
+1994|55.0|3.0|International Review of Cytology-a Survey of Cell Biology|Cellular tensegrity: exploring how mechanical changes in the cytoskeleton regulate cell growth, migration, and tissue pattern during morphogenesis.
+1995|49.0|3.0|Journal of Cell Biology|Myosin light chain kinase-regulated endothelial cell contraction: the relationship between isometric tension, actin polymerization, and myosin phosphorylation.
+1996|98.0|3.0|Journal of Hepatology|Sequence heterogeneity within the 5-terminal region of the hepatitis GB virus C genome and evidence for genotypes
+1997|87.0|3.0|ACM Transactions on Graphics|Multiresolution analysis for surfaces of arbitrary topological type
+1998|76.0|4.0|Biophysical Journal|The Mechanical Stability of Immunoglobulin and Fibronectin III Domains in the Muscle Protein Titin Measured by Atomic Force Microscopy
+1999|248.0|5.0|Nature Medicine|Transplanted embryonic stem cells survive, differentiate and promote recovery in injured rat spinal cord
+2000|145.0|5.0|computer vision and pattern recognition|Articulated body motion capture by annealed particle filtering
+2001|137.0|6.0|international acm sigir conference on research and development in information retrieval|Relevance based language models
+2002|178.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Fractal dynamics in physiology: Alterations with disease and aging
+2003|298.0|7.0|Annual Review of Ecology, Evolution, and Systematics|ROADS AND THEIR MAJOR ECOLOGICAL EFFECTS
+2004|132.0|7.0|IEEE Transactions on Biomedical Engineering|The BCI competition 2003: progress and perspectives in detection and discrimination of EEG single trials
+2005|258.0|7.0|IEEE Signal Processing Magazine|The dual-tree complex wavelet transform
+2006|196.0|6.0|IEEE Transactions on Information Technology in Biomedicine|Implementation of a real-time human movement classifier using a triaxial accelerometer for ambulatory monitoring
+2007|262.0|7.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|General Tensor Discriminant Analysis and Gabor Features for Gait Recognition
+2008|730.0|7.0|Journal of Vision|The statistical determinants of adaptation rate in human reaching
+2009|561.0|5.0|Journal of Vision|Adapting internal statistical models for interpreting visual cues to depth.
+2010|697.0|8.0|Journal of Vision|Humans do not have direct access to retinal flow during walking

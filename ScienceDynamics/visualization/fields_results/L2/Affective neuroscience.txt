@@ -1,0 +1,51 @@
+----  Field Name Affective neuroscience: 
+----  Field Level 2.0: 
+----  Field Papers Number 2799:
+----  All time max citation paper: Emotion Circuits in the Brain, 2003, (2351.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1959|0|0.0|The Journal of Psychology|Fear Conditioning as a Function of the Number and Timing of Reinforcements
+1963|2.0|2.0|Journal of Experimental Psychology|Increase over time in the stimulus generalization of acquired fear
+1966|0|0.0|Physiology & Behavior|Adrenocortical activity and avoidance learning as a function of time after fear conditioning
+1967|7.0|7.0|Psychopharmacology|Scopolamine, atropine and conditioned fear
+1969|5.0|5.0|Journal of Comparative and Physiological Psychology|Conditioned inhibition of fear resulting from negative CS-US contingencies
+1970|6.0|5.0|Physiology & Behavior|Fear conditioning and passive avoidance in mice with septal lesions
+1972|6.0|6.0|Physiology & Behavior|Non-appetitive passive avoidance in rats with septal lesions
+1973|1.0|1.0|Psychopharmacology|Extinction of Unsignaled Shuttlebox Avoidance and the Effect Exerted Subsequently by a Conditioned Fear Stimulus as a Function of Amobarbital
+1974|3.0|1.0|Psychopharmacology|A Comparison of the Effects of Muscarinic and Nicotinic Anticholinergic Drugs on Habituation and Fear Conditioning in Rats*
+1975|1.0|1.0|Psychopharmacology|The effects of chronic morphine administration upon a modified Sidman avoidance schedule that utilizes response-independent shock.
+1976|11.0|5.5|Pharmacology, Biochemistry and Behavior|The startle response in rats: effect of ethanol
+1977|2.0|2.0|Behavioral Biology|Effects of dexamethasone on fear conditioning in pigs
+1978|8.0|1.0|Progress in Neuro-psychopharmacology|Brainstem reticular formation mechanisms subserving generalized seizures: Effects of convulsants and anticonvulsants on sensory-evoked responses
+1979|1.0|0.5|Physiology & Behavior|Effect of hippocampal lesions on heart-rate during classical fear conditioning
+1980|0|0.0|Pharmacology, Biochemistry and Behavior|Decreased startle reactivity in the end-to-side portacaval shunted rat
+1981|27.0|6.0|Learning and Motivation|Naloxone and Pavlovian fear conditioning
+1982|1.0|1.0|Clinical Genetics|Hyperexplexia: an inherited disorder of the startle response
+1983|24.0|1.5|Brain Research|A visual pathway that mediates fear-conditioned enhancement of acoustic startle.
+1984|43.0|18.0|Brain Research|Angiotensin II immunoreactivity in the neural afferents and efferents of the subfornical organ of the rat
+1985|18.0|8.5|Behavioural Brain Research|Electrophysiological characteristics of amygdaloid central nucleus neurons during Pavlovian fear conditioning in the rabbit
+1986|22.0|16.5|Physiology & Behavior|The design and calibration of a startle measurement system
+1987|14.0|5.0|Physiology & Behavior|Fear-potentiated startle using an auditory conditioned stimulus: Effect of lesions of the amygdala
+1988|22.0|14.0|Psychopharmacology|Anxiolytic effects of buspirone and gepirone in the fear-potentiated startle paradigm
+1989|28.0|9.0|Journal of Cognitive Neuroscience|Indelibility of Subcortical Emotional Memories
+1990|18.0|3.5|The Journal of Neuroscience|The amygdala central nucleus and appetitive Pavlovian conditioning: lesions impair one class of conditioned behavior
+1991|30.0|4.5|Psychophysiology|FearPotentiated Startle in Humans: Effects of Anticipatory Anxiety on the Acoustic Blink Reflex
+1992|90.0|7.0|Behavioral Neuroscience|Differential contribution of amygdala and hippocampus to cued and contextual fear conditioning.
+1993|63.0|7.0|Behavioural Brain Research|Fear-potentiated startle: A neural and pharmacological analysis
+1994|27.0|9.0|The Journal of Comparative Neurology|Intraamygdaloid projections of the lateral nucleus in the cat: PHAL anterograde labeling combined with postembedding GABA and glutamate immunocytochemistry
+1995|61.0|14.5|Neuron|LTP is accompanied by commensurate enhancement of auditory-evoked responses in a fear conditioning circuit
+1996|85.0|6.5|Neuron|The amygdala and fear conditioning: has the nut been cracked?
+1997|189.0|17.0|Cell|Genetic Demonstration of a Role for PKA in the Late Phase of LTP and in Hippocampus-Based Long-Term Memory
+1998|167.0|14.5|Nature Neuroscience|The MAPK cascade is required for mammalian associative learning
+1999|187.0|19.0|Neuroscience & Biobehavioral Reviews|The neuroanatomical and neurochemical basis of conditioned fear
+2000|140.0|14.0|Archives of General Psychiatry|Reduced Prefrontal Gray Matter Volume and Reduced Autonomic Activity in Antisocial Personality Disorder
+2001|126.0|17.0|Trends in Neurosciences|Memory consolidation of Pavlovian fear conditioning: a cellular and molecular perspective
+2002|292.0|18.0|Nature|The endogenous cannabinoid system controls extinction of aversive memories
+2003|881.0|19.5|Annual Review of Neuroscience|Emotion Circuits in the Brain
+2004|254.0|18.0|Nature Reviews Neuroscience|Neuronal signalling of fear memory
+2005|116.0|13.0|Archives of General Psychiatry|Deficient fear conditioning in psychopathy: a functional magnetic resonance imaging study.
+2006|258.0|17.5|Proceedings of the National Academy of Sciences of the United States of America|Ablation of hippocampal neurogenesis impairs contextual fear conditioning and synaptic plasticity in the dentate gyrus.
+2007|359.0|16.0|American Journal of Psychiatry|Functional Neuroimaging of Anxiety: A Meta-Analysis of Emotional Processing in PTSD, Social Anxiety Disorder, and Specific Phobia
+2008|221.0|17.0|Nature|A role for adult TLX-positive neural stem cells in learning and behaviour.
+2009|167.0|16.0|PLOS ONE|Human Fear Conditioning and Extinction in Neuroimaging: A Systematic Review
+2010|235.0|15.0|Nature|Encoding of conditioned fear in central amygdala inhibitory circuits

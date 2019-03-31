@@ -1,0 +1,65 @@
+----  Field Name Solid-state physics: 
+----  Field Level 2.0: 
+----  Field Papers Number 50802:
+----  All time max citation paper: A comprehensive review of ZnO materials and devices, 2005, (3695.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1950|0|0.0|Philosophical Magazine Series 1|LIII. The cohesive energy of metallic magnesium
+1951|1.0|1.0|Journal of Chemical Physics|Isotope Effect in the Band Spectrum of HNO2
+1952|0|0.0|Philosophical Magazine Series 1|IX. A calculation of the elastic shear constants of -brass
+1955|2.0|1.0|Journal of Chemical Physics|Oxygen18 Isotope Effect in the Reaction of Oxygen with Copper
+1956|23.0|7.0|Journal of Applied Physics|Diffusion of Donor and Acceptor Elements in Silicon
+1957|6.0|2.0|Journal of Applied Physics|Electron Microscopy of Aluminum Crystals Deformed at Various Temperatures
+1958|4.0|0.0|Advances in Physics|Electronic Band Structures of the Alkali Metals and of the Noble Metals and their alpha-Phase Alloys
+1959|7.0|1.5|Nuclear Physics|Two particle approximations of the many body problem (II)
+1960|16.0|1.5|Journal of Applied Physics|Photoemission and Related Properties of the AlkaliAntimonides
+1961|18.0|3.0|Journal of Chemical Physics|Quantum Mechanics of Mobile Electrons in Conjugated Bond Systems. I. General Analysis in the TightBinding Formulation
+1962|9.0|1.0|Journal of Applied Physics|Diffusion, Solubility, and Electrical Behavior of Li in GaAs Single Crystals
+1963|27.0|3.0|Journal of Chemical Physics|On the Excess Electron and Hole Band Structures and Carrier Mobility in Naphthalene, Anthracene, and Several Polyphenyls
+1964|6.0|2.5|Journal of Physics and Chemistry of Solids|PARTIAL PRESSURES AND GIBBS FREE ENERGY OF FORMATION FOR CONGRUENTLY SUBLIMING CDTE(C),
+1965|18.0|1.0|Journal of Chemical Physics|Triplet Excitons in Crystals of Aromatic Molecules
+1966|6.0|2.0|Journal of Molecular Spectroscopy|Application of the INDOR technique to high resolution proton magnetic resonance spectra: A negative ring spin-spin coupling
+1967|3.0|0.0|Czechoslovak Journal of Physics|Narrow-band electrons in transition-metal oxides
+1968|13.0|0.0|Reviews of Geophysics|Coherence and band structure of inertial motion in the sea
+1969|15.0|1.0|Journal of Geophysical Research|Ion depletion in the high-latitude exosphere - Simultaneous OGO 2 observations of the light ion trough and the VLF cutoff.
+1970|15.0|1.0|Radio Science|Changes of Lower Ionosphere Electron Densities with Solar Zenith Angle
+1971|16.0|1.0|Journal of Solid State Chemistry|The two components of the crystallographic transition in VO 2
+1972|23.0|0.0|Chromosoma|Factors involved in the production of banded structures in mammalian chromosomes
+1973|11.0|1.0|Journal of Solid State Chemistry|Structural aspects of the metal-insulator transitions in Ti4O7
+1974|16.0|1.0|Journal of Applied Physics|Tunneling in leadlead oxidelead junctions
+1975|39.0|3.0|Journal of Applied Physics|The electrical properties of polycrystalline silicon films
+1976|45.0|2.0|Applied Physics Letters|Schottkybarrier characteristics of metalamorphoussilicon diodes
+1977|72.0|2.5|Journal of Applied Physics|Optical and photoconductive properties of dischargeproduced amorphous silicon
+1978|57.0|3.0|Journal of Chemical Physics|Highly conducting iodine derivatives of polyacetylene: Raman, XPS and xray diffraction studies
+1979|61.0|2.0|Journal of Chemical Physics|Chemisorption geometry of hydrogen on Ni/111/ - Order and disorder
+1980|58.0|2.0|Journal of Chemical Physics|Electrical Transport in Doped Polyacetylene.
+1981|12.0|1.0|Solid-state Electronics|Tunneling hot electron transfer amplifiers (theta): Amplifiers operating up to the infrared
+1982|39.0|1.0|Proceedings of the IEEE|Heterostructure bipolar transistors and integrated circuits
+1983|70.0|3.0|Journal of Physics and Chemistry of Solids|A Semi-empirical tight-binding theory of the electronic structure of semiconductors
+1984|67.0|4.0|Applied Physics Letters|Chemical beam epitaxy of InP and GaAs
+1985|182.0|4.0|Journal of Applied Physics|GaAs, AlAs, and AlxGa1xAs: Material parameters for use in research and device applications
+1986|81.0|5.0|Journal of Applied Physics|Energy band alignment in GaAs:(Al,Ga)As heterostructures: The dependence on alloy composition
+1987|83.0|5.0|Applied Physics Letters|Observation of Stark shifts in quantum well intersubband transitions
+1988|78.0|5.0|Journal of Applied Physics|A model for the surface chemical kinetics of GaAs deposition by chemicalbeam epitaxy
+1989|110.0|5.0|Applied Physics Letters|Structural properties of As-rich GaAs grown by molecular beam epitaxy at low temperatures
+1990|191.0|4.0|Applied Physics Letters|ptype ZnSe by nitrogen atom beam doping during molecular beam epitaxial growth
+1991|96.0|4.0|Applied Physics Letters|Heavily doped pZnSe:N grown by molecular beam epitaxy
+1992|89.0|3.0|Applied Physics Letters|Growth and strain compensation effects in the ternary Si1xyGexCy alloy system
+1993|96.0|3.0|Journal of Applied Physics|Heteroepitaxial wurtzite and zincblende structure GaN grown by reactiveion molecularbeam epitaxy: Growth kinetics, microstructure, and properties
+1994|259.0|3.0|Applied Physics Letters|Selforganized growth of regular nanometerscale InAs dots on GaAs
+1995|157.0|2.0|Physical Review Letters|Inhibited Spontaneous Emission in Solid-State Physics and Electronics
+1996|63.0|1.0|Surface Science Reports|Physical and chemical properties of bimetallic surfaces
+1997|186.0|2.0|Applied Physics Letters|Enhanced electron injection in organic electroluminescence devices using an Al/LiF electrode
+1998|169.0|2.0|Applied Physics Letters|Room-temperature ultraviolet laser emission from self-assembled ZnO microcrystallite thin films
+1999|193.0|2.0|Nature|Electrical spin injection in a ferromagnetic semiconductor heterostructure
+2000|332.0|3.0|Journal of Applied Physics|Hafnium and zirconium silicates for advanced gate dielectrics
+2001|208.0|2.0|Journal of Applied Physics|Nearly 100% internal phosphorescence efficiency in an organic light-emitting device
+2002|359.0|3.0|Advanced Materials|Emission GainNarrowing from MeltRecrystallized Organic Semiconductors
+2003|442.0|4.0|Nature|Ballistic carbon nanotube field-effect transistors
+2004|389.0|4.0|Nature|Room-temperature fabrication of transparent flexible thin-film transistors using amorphous oxide semiconductors
+2005|1266.0|4.0|Journal of Applied Physics|A comprehensive review of ZnO materials and devices
+2006|794.0|3.0|Science|Piezoelectric Nanogenerators Based on Zinc Oxide Nanowire Arrays
+2007|410.0|4.0|Nature|Ultralow-power organic complementary circuits
+2008|437.0|4.0|Science|Enhancement of Thermoelectric Efficiency in PbTe by Distortion of the Electronic Density of States
+2009|2969.0|4.0|Science|Graphene: Status and Prospects
+2010|552.0|4.0|Nanoscale Research Letters|Conductance of Graphene Nanoribbon Junctions and the Tight Binding Model

@@ -1,0 +1,58 @@
+----  Field Name Real-time computing: 
+----  Field Level 1.0: 
+----  Field Papers Number 84021:
+----  All time max citation paper: Distinctive Image Features from Scale-Invariant Keypoints, 2004, (9721.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1957|0|0.0||Communication switching systems as real-time computers
+1959|0|0.0||The role of digital computers in the dynamic optimization of chemical reactions
+1960|0|0.0||Real-time automobile ride simulation
+1962|2.0|2.0|Journal of Chemical Physics|THIRD-ORDER INTERACTION OF XENON WITH GRAPHITIC CARBON
+1963|14.0|14.0|Journal of Mathematical Physics|Bases for the Irreducible Representations of the Unitary Groups and Some Applications
+1964|79.0|6.0|Journal of Geophysical Research|HIGH-LATITUDE GEOPHYSICAL STUDIES WITH SATELLITE INJUN 3. 3. PRECIPITATION OF ELECTRONS INTO THE ATMOSPHERE
+1965|0|0.0|Radio and Electronic Engineer|The use of quantizing techniques in real time Fourier analysis
+1966|15.0|1.0|Journal of the ACM|Time-Shared Computer Operations With Both Interarrival and Service Times Exponential
+1967|7.0|1.0|IEEE Transactions on Electronic Computers|Digital Real-Time Spectral Analysis
+1968|15.0|3.0|Journal of the ACM|Queueing Analysis of the IBM 2314 Disk Storage Facility
+1969|14.0|3.0|IEEE Transactions on Microwave Theory and Techniques|Linear Signal Processing and Ultrasonic Transversal Filters
+1970|14.0|6.0|Computers and Biomedical Research|On-line real time computer algorithm for monitoring the ECG waveform
+1971|15.0|1.5|Language|The Non-Anomalous Nature of Anomalous Utterances
+1972|20.0|2.0|Communications of The ACM|A comparative analysis of disk scheduling policies
+1973|17.0|3.0|Journal of Geophysical Research|Radar observations of twodimensional turbulence in the equatorial electrojet
+1974|75.0|2.0|Journal of Geophysical Research|The planetary magnetic field and magnetosphere of Jupiter: Pioneer 10
+1975|18.0|2.0|Proceedings of the IEEE|Automated analysis of the electrical activity of the human brain (EEG): A progress report
+1976|12.0|2.0|Proceedings of the IEEE|Adaptive arrays&#8212;An introduction
+1977|74.0|1.0|The New England Journal of Medicine|Real-Time Radionuclide Cineangiography in the Noninvasive Evaluation of Global and Regional Left Ventricular Function at Rest and during Exercise in Patients with Coronary-Artery Disease
+1978|29.0|2.0|Communications of The ACM|List processing in real time on a serial computer
+1979|36.0|3.0|Communications of The ACM|Thoth, a portable real-time operating system
+1980|20.0|2.0|Information & Computation|The equivalence problem for real-time strict deterministic languages
+1981|33.0|1.0|American Heart Journal|Real time computerization of two-dimensional echocardiography
+1982|15.0|1.0|international conference on functional programming|Garbage collection and task deletion in distributed applicative processing systems
+1983|42.0|2.0|Journal of Chemical Physics|On the calculation of time correlation functions in quantum systems: Path integral techniquesa)
+1984|49.0|2.0|American Journal of Cardiology|Clinical applications of a new type of real-time two-dimensional doppler flow imaging system
+1985|29.0|2.0|Journal of Geophysical Research|The evolving structure of an upwelling filament
+1986|42.0|3.0|ACM Computing Surveys|Software safety: why, what, and how
+1987|117.0|4.0|Science of Computer Programming|Statecharts: A visual formalism for complex systems
+1988|76.0|2.5|Nuclear Physics|(2+1)-Dimensional Gravity as an Exactly Soluble System
+1989|171.0|3.0|Neural Computation|Fast learning in networks of locally-tuned processing units
+1990|173.0|3.0|IEEE Transactions on Computers|Priority inheritance protocols: an approach to real-time synchronization
+1991|163.0|2.0|IEEE Journal on Selected Areas in Communications|Equivalent capacity and its application to bandwidth allocation in high-speed networks
+1992|143.0|3.0|acm special interest group on data communication|Supporting real-time applications in an Integrated Services Packet Network: architecture and mechanism
+1993|151.0|2.0|IEEE Design & Test of Computers|Hardware-software cosynthesis for microcontrollers
+1994|124.0|2.0|International Journal in Computer Simulation|Ptolemy: A Framework for Simulating and Prototyping Heterogeneous Systems
+1995|237.0|2.0|international conference on computer graphics and interactive techniques|Plenoptic modeling: an image-based rendering system
+1996|269.0|2.0|international conference on computer graphics and interactive techniques|Light field rendering
+1997|209.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Pfinder: real-time tracking of the human body
+1998|288.0|3.0|International Journal of Computer Vision|CONDENSATION - conditional density propagation for visual tracking
+1999|212.0|3.0|Behavioral and Brain Sciences|A theory of lexical access in speech production
+2000|661.0|3.0|Journal of Molecular Endocrinology|Absolute quantification of mRNA using real-time reverse transcription polymerase chain reaction assays.
+2001|702.0|4.0|computer vision and pattern recognition|Rapid object detection using a boosted cascade of simple features
+2002|967.0|4.0|Genome Biology|Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes
+2003|279.0|5.0|IEEE Internet Computing|Amazon.com recommendations: item-to-item collaborative filtering
+2004|3212.0|5.0|International Journal of Computer Vision|Distinctive Image Features from Scale-Invariant Keypoints
+2005|551.0|4.0|Nucleic Acids Research|Real-time quantification of microRNAs by stemloop RTPCR
+2006|323.0|4.0|Nature Protocols|Quantification of mRNA using real-time RT-PCR
+2007|422.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|MonoSLAM: Real-Time Single Camera SLAM
+2008|301.0|3.0|international conference on computer graphics and interactive techniques|Larrabee: a many-core x86 architecture for visual computing
+2009|888.0|3.0|PLOS ONE|Long-Term GPS Tracking of Ocean Sunfish Mola mola Offers a New Direction in Fish Monitoring
+2010|1354.0|4.0|PLOS ONE|Quantitative analysis of lipid droplet fusion: Inefficient steady state fusion but rapid stimulation by chemical fusogens

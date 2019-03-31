@@ -1,0 +1,64 @@
+----  Field Name Lie algebra: 
+----  Field Level 2.0: 
+----  Field Papers Number 10600:
+----  All time max citation paper: Quantification of Obstructive and Nonobstructive Coronary Lesions by 64-Slice Computed Tomography: A Comparative Study With Quantitative Coronary Angiography and Intravascular Ultrasound, 2005, (722.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1949|4.0|4.0|Transactions of the American Mathematical Society|Representation of Jordan and Lie algebras
+1951|4.0|4.0|Proceedings of the American Mathematical Society|Completely reducible Lie algebras of linear transformations
+1953|3.0|3.0|Proceedings of the American Mathematical Society|Lie algebras of type
+1954|1.0|1.0|Proceedings of The Glasgow Mathematical Association|The Representations of Lie Algebras of Prime Characteristic
+1956|0|0.0|Bulletin of the American Mathematical Society|Algebraic group-varieties
+1957|0|0.0|Proceedings of the American Mathematical Society|On cohomology of Lie algebras
+1959|10.0|10.0|Journal of Chemical Physics|Configuration Interaction in the Lithium Hydride Molecule. I. A Determinantal AO Approach
+1960|2.0|0.0|Transactions of the American Mathematical Society|On automorphisms of Lie algebras of classical type. II
+1961|3.0|0.0|Bulletin of the American Mathematical Society|Lie and Jordan structures in simple associative rings
+1962|5.0|2.0|Russian Mathematical Surveys|UNITARY REPRESENTATIONS OF NILPOTENT LIE GROUPS
+1963|6.0|3.0|Journal of Chronic Diseases|Mucopolysaccharides in relation to growth and thyroid hormones
+1964|9.0|6.0|Journal of Chemical Physics|Computer Analysis of NMR Spectra: Magnetic Equivalence Factoring
+1965|0|0.0|Bulletin of the American Mathematical Society|Exponentiation of operator Lie algebras on Banach spaces
+1966|8.0|2.0|Bulletin of the American Mathematical Society|Cohomology and deformations in graded Lie algebras
+1967|5.0|2.5|Transactions of the American Mathematical Society|Cobordism operations and Hopf algebras
+1968|6.0|3.0|Journal of Algebra|Almost algebraic Lie algebras
+1969|7.0|1.0|Acta Mathematica|Locally homogeneous complex manifolds
+1970|23.0|1.0|Journal of Molecular Spectroscopy|-Resonance perturbations in infrared perpendicular bands
+1971|9.0|1.0||Singular elements of semi-simple algebraic groups
+1972|8.0|1.0|Annals of Mathematics|Quotient spaces modulo reductive algebraic groups
+1973|16.0|1.0||Lie Algebras and Lie Groups in Control Theory
+1974|4.0|0.5|Journal of Molecular Spectroscopy|Inversion and internal rotation in methyl- d -amine: Theory
+1975|9.0|1.0|Proceedings of the American Mathematical Society|Macdonald identities and Euclidean Lie algebras
+1976|17.0|0.0|Inventiones Mathematicae|Lie algebra homology and the Macdonald-Kac formulas
+1977|14.0|1.0|Mathematische Annalen|Induced modules and affine quotients
+1978|22.0|1.0|Journal of Chemical Physics|Formulation of the direct configuration interaction method for triplet spin states. Applications to glyoxal
+1979|20.0|2.0|Journal of Chemical Physics|Semiclassical Gaussian basis set method for molecular vibrational wave functions
+1980|27.0|2.0|Advances in Mathematics|Completely integrable systems, Euclidean Lie algebras, and curves
+1981|21.0|2.0|Journal of Functional Analysis|Two constructions of affine Lie algebra representations and boson-fermion correspondence in quantum field theory
+1982|13.0|1.0|Communications in Mathematical Physics|Kowalewski Asymptotic Method, Kac-moody Lie-algebras and Regularization
+1983|41.0|2.0|Communications in Mathematical Physics|Some remarks on BRS transformations, anomalies and the cohomology of the Lie algebra of the group of gauge transformations
+1984|31.0|2.0|Nuclear Physics|Kac-Moody Algebras, Conformal Symmetry and Critical Exponents
+1985|54.0|2.0|Communications in Mathematical Physics|Quantum r Matrix for the Generalized Toda System
+1986|165.0|3.0|Communications in Mathematical Physics|Unitary representations of the Virasoro and super-Virasoro algebras
+1987|86.0|2.0|Journal of Chemical Physics|Accurate localized and delocalized vibrational states of HCN/HNC
+1988|32.0|2.0|Physics Letters B|Cosmological string theories and discrete inflation
+1989|95.0|1.0|Communications in Mathematical Physics|Hidden ${\rm SL}(n)$ symmetry in conformal field theories
+1990|31.0|2.0|Communications in Mathematical Physics|Affine Kac-Moody algebras and semi-infinite flag manifolds
+1991|42.0|2.0|Nuclear Physics|Higgs fields as Yang-Mills fields and discrete symmetries
+1992|101.0|2.0|Journal of Chemical Physics|A novel discrete variable representation for quantum mechanical reactive scattering via the Smatrix Kohn method
+1993|50.0|2.0|Communications in Mathematical Physics|Quantum group gauge theory on quantum spaces
+1994|43.0|3.0|Journal of Chemical Physics|Circumventing the Heisenberg principle: A rigorous demonstration of filterdiagonalization on a LiCN model
+1995|69.0|2.0|Nuclear Physics|Algebras, BPS States, and Strings
+1996|42.0|2.0|FEBS Letters|Opening of the mitochondrial permeability transition pore by uncoupling or inorganic phosphate in the presence of Ca2+ is dependent on mitochondrial-generated reactive oxygen species
+1997|65.0|1.5|FEBS Letters|Release of apoptogenic proteins from the mitochondrial intermembrane space during the mitochondrial permeability transition
+1998|41.0|2.0|Current Opinion in Neurobiology|Mitochondrial oversight of cellular Ca 2+ signaling
+1999|96.0|2.0|Gastroenterology|An open-label pilot study of low-dose thalidomide in chronically active, steroid-dependent Crohn's disease
+2000|90.0|2.0|The Journal of Allergy and Clinical Immunology|The diverse potential effector and immunoregulatory roles of mast cells in allergic disease
+2001|80.0|2.0|Journal of High Energy Physics|Covariant Quantization of Superstrings Without Pure Spinor Constraints
+2002|150.0|2.0|Journal of High Energy Physics|A Comment on Masses, Quantum Affine Symmetries and PP-Wave Backgrounds
+2003|183.0|3.0|Journal of High Energy Physics|Higher grading conformal affine Toda theory and (generalized) sine-Gordon/massive Thirring duality
+2004|140.0|2.0|Journal of High Energy Physics|E10 and SO(9,9) invariant supergravity
+2005|521.0|3.0|Journal of the American College of Cardiology|Quantification of Obstructive and Nonobstructive Coronary Lesions by 64-Slice Computed Tomography: A Comparative Study With Quantitative Coronary Angiography and Intravascular Ultrasound
+2006|142.0|3.0|Journal of High Energy Physics|The magnon kinematics of the AdS/CFT correspondence
+2007|164.0|2.0|American Journal of Transplantation|Results of an International, Randomized Trial Comparing Glucose Metabolism Disorders and Outcome with Cyclosporine Versus Tacrolimus
+2008|351.0|2.0|Journal of The American Academy of Dermatology|Guidelines of care for the management of psoriasis and psoriatic arthritis
+2009|277.0|3.0|Journal of Molecular and Cellular Cardiology|What is the mitochondrial permeability transition pore?
+2010|130.0|2.0|Journal of High Energy Physics|Generalized metric formulation of double field theory

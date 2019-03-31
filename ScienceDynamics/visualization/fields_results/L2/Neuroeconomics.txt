@@ -1,0 +1,44 @@
+----  Field Name Neuroeconomics: 
+----  Field Level 2.0: 
+----  Field Papers Number 1529:
+----  All time max citation paper: Qualitative content analysis in nursing research: Concepts, procedures and measures to achieve trustworthiness., 2004, (1485.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1969|0|0.0|Public Choice|Some notes on voting schemes and the will of the majority
+1970|1.0|0.5|Annals of The Association of American Geographers|THE SPATIAL RESPONSE OF NEGROES AND WHITES TOWARD OPEN HOUSING: THE FLINT REFERENDUM
+1974|0|0.0|Journal of Experimental Social Psychology|Persuasion, surveillance, and voting behavior
+1976|0|0.0|Social Behavior and Personality|Personality and Attitude Determinants of Voting Behavior.
+1977|3.0|3.0|Quality & Quantity|A facet theoretical approach to voting behavior
+1978|4.0|4.0|Public Choice|The rational voter: an analysis of two Atlanta referenda on rapid transit
+1979|1.0|1.0|Journal of Environmental Economics and Management|Determinants of voting on environmental quality: a study of a New Hampshire pulp mill referendum
+1980|2.0|1.0|Public Choice|The influence of state-level economic conditions on presidential elections
+1981|7.0|2.0|Journal of Personality and Social Psychology|Prejudice and politics: Symbolic racism versus racial threats to the good life.
+1982|1.0|1.0|Political Behavior|Personalization in attributing responsibility for national problems to the president
+1983|3.0|2.5|Journal of Labor Research|The effects of right-to-work legislation on union outcomes: Additional evidence
+1984|3.0|2.0|Marketing Science|Assessing the Influence of Campaign Expenditures on Voting Behavior with a Comprehensive Electoral Market Model
+1985|4.0|3.0|The Journal of Politics|Economic Conditions, Presidential Popularity, and Voting Behavior in Midterm Congressional Elections
+1986|4.0|1.0|Public Opinion Quarterly|Do Exit Polls Influence Voting Behavior?
+1987|2.0|1.5|Political Behavior|Groups and political behavior: Legitimation, deprivation, and competing values
+1988|8.0|2.0|Journal of Personality and Social Psychology|The role of attitude importance in social evaluation: a study of policy preferences, presidential candidate evaluations, and voting behavior.
+1989|9.0|2.0|Public Choice|A test for pure or apparent ideology in congressional voting
+1990|11.0|2.0|Public Choice|The Last Period Problem in Politics: Do Congressional Representatives Not Subject to a Reelection Constraint Alter Their Voting Behavior?
+1991|3.0|1.5|Political Behavior|How to vote, whether to vote: Strategies for voting and abstaining on congressional roll calls
+1992|15.0|1.0|Public Choice|Reliable and Unreliable Partisan Appointees to the Board of Governors
+1993|22.0|1.0|Public Choice|On the (Mis)measurement of Legislator Ideology and Shirking
+1994|6.0|2.0|International Political Science Review|Is There Personalization in Politics? Candidates and Voting Behavior in Germany
+1995|3.0|1.0|Political Behavior|AsiansA monolithic voting bloc?
+1996|9.0|2.5|American Journal of Political Science|Heightening comparativists concern for model choice: voting behavior in Great Britain and the Netherlands
+1997|9.0|1.0|The Journal of Law and Economics|Do Campaign Donations Alter How a Politician Votes? Or, Do Donors Support Candidates Who Value the Same Things That They Do?
+1998|32.0|1.0|Interacting with Computers|Designing towards emotional usability in customer interfacestrustworthiness of cyber-banking system interfaces
+1999|52.0|4.0|human factors in computing systems|The elements of computer credibility
+2000|27.0|3.0|American Journal of Political Science|Partisanship and Voting Behavior, 1952-1996
+2001|42.0|2.0|human factors in computing systems|What makes Web sites credible?: a report on a large quantitative study
+2002|53.0|4.0|canadian conference on electrical and computer engineering|Evolving and managing trust in grid computing systems
+2003|82.0|4.0|Annual Review of Neuroscience|THE NEUROBIOLOGY OF VISUAL-SACCADIC DECISION MAKING
+2004|234.0|2.0|Nurse Education Today|Qualitative content analysis in nursing research: Concepts, procedures and measures to achieve trustworthiness.
+2005|129.0|4.0|Neuron|The Neural Basis of Financial Risk Taking
+2006|250.0|5.0|Annual Review of Psychology|Social Cognitive Neuroscience: A Review of Core Processes
+2007|166.0|5.0|Annual Review of Neuroscience|Orbitofrontal Cortex and Its Contribution to Decision-Making
+2008|103.0|4.0|Economics Bulletin|A disaggregate approach to economic models of voting in U.S. presidential elections: forecasts of the 2008 election
+2009|114.0|3.0|Hormones and Behavior|Oxytocin and social perception: Oxytocin increases perceived facial trustworthiness and attractiveness
+2010|134.0|4.0|Proceedings of the IEEE|Wireless Sensor Networks for Healthcare

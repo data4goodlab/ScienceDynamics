@@ -1,0 +1,40 @@
+----  Field Name Pulp and paper industry: 
+----  Field Level 1.0: 
+----  Field Papers Number 1053:
+----  All time max citation paper: Microfibrillated cellulose and new nanocomposite materials: a review, 2010, (558.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|3.0|2.0|Wood Science and Technology|The ultrastructure of cellulose from wood. Part 2. Problems of the isolation of cellulose.
+1975|2.0|1.0|Limnology and Oceanography|Horizontal distribution of planktonic diatoms in Green Bay, midJuly 19701
+1979|3.0|2.0|Biotechnology and Bioengineering|Pulp and paper mill solid wastes as substrates for singlecell protein production
+1980|7.0|7.0|Helgoland Marine Research|Marine pollution effects of pulp and paper industry wastes
+1981|1.0|1.0|Mathematics and Computers in Simulation|The use of computer simulation in the pulp and paper industry
+1982|0|0.0||Pulp and paper effluent management
+1983|3.0|2.0|Automatica|A distributed control system and its application to a board mill
+1984|6.0|0.0|Automatica|Constrained linear quadratic gaussian control with process applications
+1985|1.0|0.5|Journal of Great Lakes Research|Use of Volatile Chloroorganics as a Measure of the Rehabilitation of the St. Louis River and Bay
+1986|3.0|1.0|Social Science & Medicine|Cardiovascular mortality as it relates to the geographic distribution of employment in non-metropolitan Quebec
+1987|1.0|0.5||Absorption heat pumps
+1988|2.0|1.0|IEEE Transactions on Energy Conversion|A discussion on the diversity in the applications of photovoltaic systems
+1989|0|0.0|Journal of the Operational Research Society|INVENTORY AND TRANSPORTATION PLANNING IN THE DISTRIBUTION OF FINE PAPERS
+1990|29.0|1.0|Aquatic Toxicology|Biotransformation and other toxicological and physiological responses in rainbow trout ( Salmo gairdneri Richardson) caged in a lake receiving effluents of pulp and paper industry
+1991|3.0|1.5|Contact Dermatitis|Health aspects of carbonless copy paper*
+1992|7.0|1.0|Environmental Toxicology and Chemistry|The effect of wood species composition on the toxicity of simulated mechanical pulping effluents
+1993|15.0|1.0|Automatica|Robust performance of cross-directional basis-weight control in paper machines
+1994|13.0|1.0|Bioresource Technology|Anaerobic treatment in pulp- and paper-mill waste management: A review
+1995|6.0|2.0|Journal of Industrial Microbiology & Biotechnology|Alkaline-active xylanase produced by an alkaliphilic Bacillus sp isolated from kraft pulp
+1996|19.0|1.0|international conference on software engineering|Industrial experience with design patterns
+1997|13.0|2.0|Journal of Environmental Economics and Management|EPA Effectiveness at Reducing the Duration of Plant-Level Noncompliance
+1998|71.0|3.0|Trends in Biotechnology|Microbial lipases form versatile tools for biotechnology
+1999|40.0|5.0|Plant Science|Lignin genetic engineering revisited
+2000|43.0|2.0|Biotechnology Advances|Cellulases and related enzymes in biotechnology.
+2001|16.0|3.0|IEEE Transactions on Automatic Control|Design of fault diagnosis filters and fault-tolerant control for a class of nonlinear systems
+2002|42.0|3.0|Enzyme and Microbial Technology|Reactive oxygen species as agents of wood decay by fungi
+2003|53.0|8.0|Process Biochemistry|Microbial -amylases: a biotechnological perspective
+2004|33.0|2.5|Bioresource Technology|Production of cellulases and hemicellulases by Aspergillus niger KK2 from lignocellulosic biomass
+2005|133.0|6.0|Ecological Applications|The wildland-urban interface in the United States
+2006|184.0|5.0|Biotechnology Advances|Industrial and biotechnological applications of laccases: A review
+2007|33.0|5.0|Water Research|Pretreatment technologies for advancing anaerobic digestion of pulp and paper biotreatment residues.
+2008|96.0|5.0|Applied Microbiology and Biotechnology|An overview of mannan structure and mannan-degrading enzyme systems.
+2009|122.0|6.0|Bioresource Technology|Sulfite pretreatment (SPORL) for robust enzymatic saccharification of spruce and red pine.
+2010|558.0|8.0|Cellulose|Microfibrillated cellulose and new nanocomposite materials: a review

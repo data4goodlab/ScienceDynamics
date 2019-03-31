@@ -1,0 +1,66 @@
+----  Field Name Geodesy: 
+----  Field Level 1.0: 
+----  Field Papers Number 18276:
+----  All time max citation paper: Solar engineering of thermal processes, 1991, (2972.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1939|0|0.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|Haemoglobin and erythrocyte standards in Iraq
+1940|1.0|0.0|American Heart Journal|Trichinosis of the myocardium: Report of a case, with autopsy findings
+1946|6.0|6.0|JAMA|DERMATITIS FROM PENICILLIN
+1947|4.0|4.0|JAMA Internal Medicine|ERUPTIVE FEVER WITH INVOLVEMENT OF THE RESPIRATORY TRACT, CONJUNCTIVITIS, STOMATITIS AND BALANITIS: An Acute Clinical Entity, Probably of Infectious Origin; Report of Twenty Cases and Review of the Literature
+1950|6.0|1.0|JAMA|Unusual Reaction to Penicillin.
+1956|1.0|1.0|Archives of Dermatology|Kissing bug bite
+1957|4.0|2.0|Archives of Dermatology|An Experimental Study of Tinea Pedis and Onychomycosis of the Foot
+1958|4.0|2.5|Journal of Chemical Physics|HYDROGEN CONVERSION AND EXCHANGE REACTIONS IN AQUEOUS SOLUTIONS INDUCED BY GAMMA RAYS
+1959|1.0|1.0|British Journal of Diseases of The Chest|Safe high dosage isoniazid therapy
+1960|8.0|3.0|Journal of Dairy Science|Comparative Accuracy of the Plastic Bead Method of Golding and the Lactometer Method of Watson for Routine Determination of Solids-not-fat in Milk1
+1961|2.0|2.0|Physics of Fluids|LOW-FREQUENCY OSCILLATIONS IN CESIUM THERMIONIC CONVERTERS
+1962|1.0|1.0|Icarus|OPTICAL ELLIPTICITY AND INTERNAL STRUCTURE OF MARS
+1963|23.0|2.0|Journal of Geophysical Research|Tesseral harmonics of the gravitational field and geodetic datum shifts derived from camera observations of satellites
+1964|20.0|2.0|Icarus|Geometric and photometric parameters of the terrestrial planets
+1965|5.0|0.0|Journal of Geophysical Research|Some geophysical implications from gravity and heat flow data
+1966|6.0|1.0|Journal of Hygiene|Staphylococcal infection in thoracic surgery: experience in a subdivided ward
+1967|5.0|2.0|SIAM Journal on Numerical Analysis|Monotone iterations for nonlinear equations with application to Gauss-Seidel methods.
+1968|6.0|3.0|JAMA|Medical applications of dust-free rooms. II. Elimination of airborne bacteria from an operating theater.
+1969|9.0|9.0|Journal of Geophysical Research|Interplanetary magnetic field during the rising part of the solar cycle
+1970|11.0|0.5|Weed Research|METABOLISM OF DICHLOBENIL IN SANDY SOIL
+1971|4.0|0.0|Journal of Helminthology|Relationships of Some Species of Digenea with the Marine Prosobranch Littorina littorea (L.) III. The Effect of Larval Digenea on the Glycogen content of the Digestive Gland and Foot of L. littorea
+1972|11.0|2.0|Planetary and Space Science|SOLAR WIND OBSERVATIONS ON THE LUNAR SURFACE WITH THE APOLLO-12 ALSEP.
+1973|27.0|1.0|Journal of Geophysical Research|Dependence of the polar cusp on the northsouth component of the interplanetary magnetic field
+1974|14.0|1.0|Icarus|Phobos: Control network analysis
+1975|36.0|1.0|Journal of Geophysical Research|Polar cap currents for different directions of the interplanetary magnetic field in the YZ plane
+1976|12.0|2.5|Icarus|Radar observations at 3.5 and 12.6 cm wavelength of asteroid 433 Eros
+1977|33.0|2.5|Journal of Geophysical Research|The moment of inertia and isostasy of Mars
+1978|16.0|2.0|Cognitive Psychology|Distortions in judged spatial relations
+1979|38.0|2.0|Journal of the Operational Research Society|The Future of Operational Research is Past
+1980|13.0|1.0|Journal of Geophysical Research|Geophysical parameters of the EarthMoon System
+1981|27.0|2.0|Geophysical Journal International|The period and Q of the Chandler wobble
+1982|24.0|2.0|Journal of Geophysical Research|Gravity model improvement for SEASAT
+1983|28.0|2.0|Journal of Geophysical Research|Global mesoscale variability from collinear tracks of SEASAT altimeter data
+1984|43.0|1.0|Communications of The ACM|Dhrystone: a synthetic systems programming benchmark
+1985|22.0|2.0|international conference on computer graphics and interactive techniques|Bintrees, CSG trees, and time
+1986|15.0|2.0|Journal of Geophysical Research|Geodesy by radio interferometry: Evidence for contemporary plate motion
+1987|19.0|1.0|Psychology of Learning and Motivation|A Connectionist/Control Architecture for Working Memory
+1988|40.0|2.0|Limnology and Oceanography|In situ settling behavior of marine snow1
+1989|24.0|2.0|Human Immunology|The DR 3 (w18),DQw4 haplotype differs from DR3(w17),DQw2 haplotypes at multiple class II loci
+1990|65.0|2.0|European Journal of Pharmacology|Phosphoramidon, a metalloproteinase inhibitor, suppresses the hypertensive effect of big endothelin-1
+1991|332.0|2.0|American Journal of Physics|Solar engineering of thermal processes
+1992|29.0|2.0|Journal of the Operational Research Society|Integrating Scheduling with Batching and Lot-Sizing: A Review of Algorithms and Complexity
+1993|48.0|3.0|Hippocampus|Spatial selectivity of unit activity in the hippocampal granular layer
+1994|147.0|3.0|Applied Physics Letters|Native-Oxide Defined Ring Contact for Low Threshold Vertical-Cavity Lasers
+1995|67.0|3.0|Nature|Cell-cycle control linked to extracellular environment by MAP kinase pathway in fission yeast.
+1996|129.0|3.0|parallel computing|A high-performance, portable implementation of the MPI message passing interface standard
+1997|68.0|3.0|IEEE Transactions on Fuzzy Systems|Robust clustering methods: a unified view
+1998|153.0|3.0|Journal of the Operational Research Society|Rate control for communication networks: shadow prices, proportional fairness and stability
+1999|129.0|3.0|NeuroImage|Cortical Surface-Based Analysis: II: Inflation, Flattening, and a Surface-Based Coordinate System
+2000|133.0|4.0|World Bank Research Observer|Social Capital: Implications for Development Theory, Research, and Policy
+2001|186.0|4.0|Journal of Economic Growth|Growth is Good for the Poor
+2002|206.0|4.0|Journal of Geophysical Research|ITRF2000: A new release of the International Terrestrial Reference Frame for earth science applications
+2003|199.0|4.0|IEEE Pervasive Computing|Location privacy in pervasive computing
+2004|259.0|5.0|IEEE Transactions on Automatic Control|Control under communication constraints
+2005|242.0|5.0|JAMA|Preventing Foot Ulcers in Patients With Diabetes
+2006|409.0|6.0|Advanced Materials|New Architecture for HighEfficiency Polymer Photovoltaic Cells Using SolutionBased Titanium Oxide as an Optical Spacer
+2007|317.0|5.0|ACM Transactions on Knowledge Discovery From Data|L -diversity: Privacy beyond k -anonymity
+2008|335.0|5.0|Geophysical Research Letters|Subdaily signals in GPS observations and their effect at semiannual and annual periods
+2009|163.0|4.0||Financial institutions and markets across countries and over time - data and analysis
+2010|901.0|6.0|Renewable & Sustainable Energy Reviews|Biofuels from microalgae--A review of technologies for production, processing, and extractions of biofuels and co-products

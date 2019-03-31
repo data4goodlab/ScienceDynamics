@@ -1,0 +1,39 @@
+----  Field Name Knowledge engineering: 
+----  Field Level 2.0: 
+----  Field Papers Number 6774:
+----  All time max citation paper: Machine learning in automated text categorization, 2002, (3007.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1976|0|0.0|IEEE Transactions on Power Apparatus and Systems|The nature of A. C. machine torques
+1978|0|0.0|Proceedings of the IEEE|The impact of digital technology on electrical engineering education
+1979|33.0|32.0|Journal of Verbal Learning and Verbal Behavior|Acquisition of domain-related information in relation to high and low domain knowledge
+1981|66.0|10.0|Psychological Review|Acquisition of Cognitive Skill.
+1982|3.0|0.5|meeting of the association for computational linguistics|A knowledge engineering approach to natural language understanding
+1983|15.0|3.5|Information & Management|Knowledge engineering concepts for decision support system design and implementation
+1984|5.0|0.0|conference on scientific computing|Knowledge acquisition for classification expert systems
+1985|22.0|2.0|IEEE Computer|Enhancing Knowledge Representation in Engineering Databases
+1986|21.0|4.0|Fuzzy Sets and Systems|Induction of inference rules for expert systems
+1987|41.0|3.5|international joint conference on artificial intelligence|Towards a functional architecture for intelligence based on generic information processing tasks
+1988|89.0|3.0|Communications of The ACM|A field study of the software design process for large systems
+1989|52.0|2.0|IEEE Computer|Design recovery for maintenance and reuse
+1990|87.0|1.0|Knowledge Acquisition|A philosophical basis for knowledge acquisition
+1991|60.0|2.0|IEEE Transactions on Systems, Man, and Cybernetics|Outline for a theory of intelligence
+1992|141.0|2.5|Knowledge Acquisition|KADS: a modelling approach to knowledge engineering
+1993|33.0|2.0|IEEE Transactions on Knowledge and Data Engineering|A visual information management system for the interactive retrieval of faces
+1994|69.0|2.0|IEEE Intelligent Systems|CommonKADS: a comprehensive methodology for KBS development
+1995|57.0|2.0|Communications of The ACM|Applications of machine learning and rule induction
+1996|28.0|2.0|IEEE Transactions on Systems, Man, and Cybernetics|Behavior analysis and training-a methodology for behavior engineering
+1997|95.0|2.0|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|Using explicit ontologies in KBS development
+1998|132.0|2.0|formal ontology in information systems|Formal Ontology and Information Systems
+1999|159.0|3.0|Machine Learning|Learning Information Extraction Rules for Semi-Structured and Free Text
+2000|82.0|3.0|IEEE Transactions on Neural Networks|Neuro-fuzzy rule generation: survey in soft computing framework
+2001|224.0|3.0||Ontology Development 101: A Guide to Creating Your First Ontology
+2002|1021.0|3.0|ACM Computing Surveys|Machine learning in automated text categorization
+2003|212.0|4.0|IEEE Transactions on Knowledge and Data Engineering|Determining semantic similarity among entity classes from different ontologies
+2004|103.0|3.0|international conference on management of data|iMAP: discovering complex semantic matches between database schemas
+2005|159.0|3.0|ACM Computing Surveys|When and how to develop domain-specific languages
+2006|141.0|3.0|Trends in Cognitive Sciences|Theory-based Bayesian models of inductive learning and reasoning
+2007|186.0|3.0|IEEE Transactions on Wireless Communications|Improving amplify-and-forward relay networks: optimal power allocation versus selection
+2008|107.0|1.0|BMC Bioinformatics|New challenges for text mining: mapping between text and manually curated pathways
+2009|91.0|1.0|BMC Genomics|MINER: exploratory analysis of gene interaction networks by machine learning from expression data.
+2010|789.0|2.0|IEEE Transactions on Knowledge and Data Engineering|A Survey on Transfer Learning

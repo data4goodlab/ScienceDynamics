@@ -1,0 +1,40 @@
+----  Field Name Property law: 
+----  Field Level 2.0: 
+----  Field Papers Number 2350:
+----  All time max citation paper: Pretreatment of Lignocellulosic Wastes to Improve Ethanol and Biogas Production: A Review, 2008, (664.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|7.0|4.5|Journal of Dairy Science|Rates of Improvement by Progeny Testing in Dairy Herds of Various Sizes1
+1974|3.0|3.0|Journal of Molecular and Cellular Cardiology|Organ-cultured chick embryonic hearts of various ages II. Ultrastructure
+1975|1.0|1.0|Mathematics of Computation|A partition formula for the integer coefficients of the theta function nome
+1979|1.0|1.0|Journal of Management|Job Characteristics, Alienation, and Work-Related Behavior: A Study of Professional Employees.
+1980|3.0|1.5|Agricultural Water Management|A system for automatically measuring and recording soil water potential and rainfall
+1981|20.0|20.0|Environmental Mutagenesis|A standardized procedure for quantification of the ames salmonella/mammalianmicrosome mutagenicity test
+1983|7.0|1.0|Enzyme and Microbial Technology|The microbiological basis of process control in methanogenic fermentation of soluble wastes
+1984|6.0|0.0|Journal of Development Economics|Capital requirements, screening and interlinked sharecropping and credit contracts
+1985|14.0|2.0|International Journal for Parasitology|Selection studies on anthelmintic resistant and susceptible populations of Trichostrongylus colubriformis of sheep
+1986|21.0|5.0|Fuzzy Sets and Systems|Induction of inference rules for expert systems
+1987|4.0|1.0|Advances in Space Research|Europa, tidally heated oceans, and habitable zones around giant planets
+1988|13.0|4.0|Journal of Abnormal Child Psychology|Depression in Child Psychiatric Inpatients: Cognitive and Attributional Patterns.
+1989|4.0|2.0|Journal of Marriage and Family|Attitudes about Having Children: A Study of 600 Couples in the Early Years of Marriage.
+1990|58.0|6.0|Journal of the Neurological Sciences|Somatic reversion/suppression of the mouse mdx phenotype in vivo
+1991|11.0|0.0|Risk Analysis|Incentives Policies to Site Hazardous Waste Facilities
+1992|8.0|1.5|Bioresource Technology|Environmental impacts of on-farm poultry waste disposal - a review.
+1993|16.0|2.0|Journal of Neuroscience Research|Transient reversion of O4+ Galc oligodendrocyte progenitor development in response to the phorbol ester TPA
+1994|44.0|2.0|The Journal of Comparative Neurology|The rostral dorsal cap and ventrolateral outgrowth of the rabbit inferior olive receive a GABAergic input from dorsal group Y and the ventral dentate nucleus
+1995|47.0|3.0|Cancer Letters|Role of N-nitroso compounds (NOC) and N-nitrosation in etiology of gastric, esophageal, nasopharyngeal and bladder cancer and contribution to cancer of known exposures to NOC
+1996|30.0|1.0|Development and Change|The Evolutionary Theory of Land Rights as Applied to SubSaharan Africa: A Critical Assessment
+1997|37.0|2.0|IEEE Transactions on Image Processing|Digital color imaging
+1998|23.0|3.0|Journal of Traumatic Stress|Predicting response to exposure treatment in PTSD: The role of mental defeat and alienation
+1999|11.0|1.0|World Development|Expected Failures and Unexpected Successes of Land Titling in Africa
+2000|91.0|4.0|The American Journal of Clinical Nutrition|Undereating and underrecording of habitual food intake in obese men: selective underreporting of fat intake
+2001|31.0|2.0|Biosensors and Bioelectronics|Modulation of neural network activity by patterning
+2002|60.0|4.0|Journal of Internal Medicine|Evolution and spread of antibiotic resistance
+2003|58.0|2.0|Annual Review of Political Science|POLITICAL TRUST AND TRUSTWORTHINESS
+2004|251.0|3.0|Radiocarbon|IntCal04 terrestrial radiocarbon age calibration, 0-26 cal kyr BP.
+2005|38.0|5.0|Fish and Fisheries|Wasted fishery resources: discarded bycatch in the USA
+2006|55.0|3.5|Current Anthropology|What's a mother to do? : The division of labor among neandertals and modern humans in Eurasia
+2007|187.0|6.0|Critical Reviews in Environmental Science and Technology|Fermentative Hydrogen Production From Wastewater and Solid Wastes by Mixed Cultures
+2008|403.0|5.0|International Journal of Molecular Sciences|Pretreatment of Lignocellulosic Wastes to Improve Ethanol and Biogas Production: A Review
+2009|214.0|6.0|Clinical Neurophysiology|Event-related potentials in clinical research: guidelines for eliciting, recording, and quantifying mismatch negativity, P300, and N400.
+2010|96.0|5.0|Aquacultural Engineering|New developments in recirculating aquaculture systems in Europe: A perspective on environmental sustainability

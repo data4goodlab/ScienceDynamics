@@ -1,0 +1,42 @@
+----  Field Name Quantum dynamics: 
+----  Field Level 2.0: 
+----  Field Papers Number 1827:
+----  All time max citation paper: Extraction, through filterdiagonalization, of general quantum eigenvalues or classical normal mode frequencies from a small number of residues or a shorttime segment of a signal. I. Theory and application to a quantumdynamics model, 1995, (286.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|2.0|2.0|Transactions of the American Mathematical Society|A quantum dynamical, relativistically invariant rigid body system
+1973|2.0|2.0|Physica D: Nonlinear Phenomena|Quantum dynamics in Toeplitz hamiltonian systems
+1977|10.0|7.0|Chemical Physics Letters|Angular momentum decoupling approximations in the quantum dynamics of reactive systems
+1978|28.0|3.5|Journal of Chemical Physics|Quantum dynamics of the F+H2 reaction: Resonance models, and energy and flux distributions in the transition state
+1979|18.0|4.0|Journal of Chemical Physics|The Greens function method of sensitivity analysis in quantum dynamics
+1980|16.0|4.0|Chemical Physics Letters|Quantum dynamics in classically integrable and non-integrable regions
+1981|4.0|1.0|Surface Science|Quantum Dynamical Model of Laser/Surface-Induced Predissociation: Multiphoton-Multiphonon Processes and Photon/Phonon-Dressed States.
+1982|5.0|2.0|Communications in Mathematical Physics|On the quantization of presymplectic dynamical systems via coisotropic imbeddings
+1983|24.0|3.0|Journal of Chemical Physics|The origin of cross section thresholds in H+H2: Why quantum dynamics appears to be more vibrationally adiabatic than classical dynamics
+1984|36.0|3.0|Journal of Chemical Physics|Quantum dynamics of energy transfer between bonds in coupled Morse oscillator systems
+1985|17.0|5.5|Journal of Chemical Physics|Dynamics of a twolevel system coupled to a dissipative bath: Comparisons of analytical theories with Monte Carlo simulation
+1986|18.0|2.0|Journal of Chemical Physics|Dynamics of overtone excitation processes for a polyatomic model
+1987|38.0|6.0|Journal of Chemical Physics|Hydrogen transfer in double minimum potential: Kinetic properties derived from quantum dynamics
+1988|32.0|3.0|Journal of Chemical Physics|Quantum Monte Carlo dynamics: The stationary phase Monte Carlo path integral calculation of finite temperature time correlation functions
+1989|46.0|7.0|Journal of Chemical Physics|Use of the discrete variable representation in the quantum dynamics by a wave packet propagation: Predissociation of NaI(1+0) NaI(0+)Na(2S)+I(2P)
+1990|64.0|4.0|Journal of Chemical Physics|Role of nuclear tunneling in aqueous ferrousferric electron transfer
+1991|49.0|4.0|Surface Science|CH4 dissociation on metals: a quantum dynamics model
+1992|31.0|4.5|Journal of Chemical Physics|Multidimensional path integral calculations with quasiadiabatic propagators: Quantum dynamics of vibrational relaxation in linear hydrocarbon chains
+1993|38.0|8.0|Journal of Chemical Physics|Optical control of molecular dynamics: Molecular cannons, reflectrons, and wavepacket focusers
+1994|52.0|11.0|Journal of Chemical Physics|Solution of the Redfield equation for the dissipative quantum dynamics of multilevel systems
+1995|95.0|6.0|Journal of Chemical Physics|Extraction, through filterdiagonalization, of general quantum eigenvalues or classical normal mode frequencies from a small number of residues or a shorttime segment of a signal. I. Theory and application to a quantumdynamics model
+1996|47.0|7.5|Journal of Chemical Physics|Quantum dynamics of bond breaking in a dissipative environment: Indirect and direct photodesorption of neutrals from metals
+1997|62.0|4.5|Journal of Chemical Physics|A low-storage filter diagonalization method for quantum eigenenergy calculation or for spectral analysis of time signals
+1998|50.0|4.0|Surface Science Reports|Reactions at surfaces studied by ab initio dynamics calculations
+1999|78.0|6.0|Journal of Chemical Physics|The computer simulation of proton transport in water
+2000|53.0|3.5|Journal of Chemical Physics|6D vibrational quantum dynamics: Generalized coordinate discrete variable representation and (a)diabatic contraction
+2001|30.0|3.0|Chemical Physics|Analysis and control of laser induced fragmentation processes in CpMn(CO) 3
+2002|39.0|3.0|Journal of Chemical Physics|Multistate vibronic interactions in the benzene radical cation. II. Quantum dynamical simulations
+2003|46.0|4.0|Annual Review of Physical Chemistry|QUANTUM SCATTERING CALCULATIONS ON CHEMICAL REACTIONS
+2004|118.0|4.0|Journal of High Energy Physics|Vortex Strings and Four-Dimensional Gauge Dynamics
+2005|64.0|5.0|Journal of High Energy Physics|Necessary and sufficient conditions for non-perturbative equivalences of large Nc orbifold gauge theories
+2006|130.0|4.0|Nature Physics|Unconventional quantum Hall effect and Berry|[rsquo]|s phase of 2|[pi]| in bilayer graphene
+2007|42.0|4.0|Journal of Chemical Physics|Full dimensional (15-dimensional) quantum-dynamical simulation of the protonated water dimer. II. Infrared spectrum and vibrational dynamics
+2008|166.0|6.0|Journal of Chemical Physics|Environment-Assisted Quantum Walks in Photosynthetic Energy Transfer
+2009|159.0|3.0|Journal of Chemical Physics|Unified treatment of quantum coherent and incoherent hopping dynamics in electronic energy transfer: reduced hierarchy equation approach.
+2010|123.0|4.0|New Journal of Physics|Control of quantum phenomena: Past, present, and future

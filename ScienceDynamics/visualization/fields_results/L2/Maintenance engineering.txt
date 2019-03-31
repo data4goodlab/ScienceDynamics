@@ -1,0 +1,45 @@
+----  Field Name Maintenance engineering: 
+----  Field Level 2.0: 
+----  Field Papers Number 5054:
+----  All time max citation paper: Lean manufacturing: context, practice bundles, and performance, 2003, (587.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1964|2.0|2.0|IEEE Transactions on Circuit Theory|The Synthesis of Minimum Sensitivity Networks
+1971|3.0|3.0|IEEE Transactions on Reliability|Reliability Analysis of Systems Comprised of Units with Arbitrary Repair-Time Distributions
+1972|4.0|4.0|Proceedings of The Institution of Electrical Engineers|Computer-controlled queuing system with service interruptions
+1974|4.0|4.0|IEEE Transactions on Reliability|Some Applications of Regenerative Stochastic Processes to Reliability TheoryPart One: Tutorial Introduction
+1975|5.0|4.0|Thrombosis Research|Studies of the structure of canine fibrinogen.
+1976|3.0|2.0|IEEE Transactions on Reliability|Steady-State Profit in a 2-unit Standby System
+1977|11.0|2.0|IEEE Transactions on Reliability|Optimum Preventive Maintenance Policies for Repairable Systems
+1978|2.0|2.0|IEEE Transactions on Reliability|Stochastic Behaviour of Some 2-Unit Redundant Systems
+1980|7.0|3.0|IEEE Transactions on Reliability|System Effectiveness Models: An Annotated Bibliography
+1981|27.0|2.0|IEEE Transactions on Computers|Some Experiments in Local Microcode Compaction for Horizontal Machines
+1982|5.0|1.0|Digestive Diseases and Sciences|Relationship of Plasma Amino Acids to Nitrogen Balance and Portal-Systemic Encephalopathy in Alcoholic Liver Disease
+1983|3.0|0.0|The Journal of Allergy and Clinical Immunology|In vitro histamine release induced by radiocontrast media and various chemical analogs in reactor and control subjects
+1984|10.0|3.0|The Journal of Allergy and Clinical Immunology|Contrast media reactions
+1985|22.0|2.0|IEEE Computer|Enhancing Knowledge Representation in Engineering Databases
+1986|6.0|2.0|The Journal of Allergy and Clinical Immunology|Spontaneous histamine release after exposure to hyperosmolar solutions
+1987|10.0|0.5|design automation conference|An Automated Design of Minimum-Area IC Power/Ground Nets
+1988|7.0|2.0|IEEE Transactions on Reliability|Sequential imperfect preventive maintenance policies
+1989|26.0|1.0|Naval Research Logistics|A survey of preventive maintenance models for stochastically deteriorating singleunit systems
+1990|132.0|2.0|Biochemical and Biophysical Research Communications|C-type natriuretic peptide (CNP): a new member of natriuretic peptide family identified in porcine brain.
+1991|17.0|2.0|international conference on software engineering|User interface development and software environments: the Chiron-1 system
+1992|32.0|1.0|IEEE Transactions on Neural Networks|Optimization for training neural nets
+1993|37.0|2.0|IEEE Transactions on Systems, Man, and Cybernetics|Scheduling and rescheduling with iterative repair
+1994|9.0|2.0|Naval Research Logistics|Preventive maintenance at opportunities of restricted duration
+1995|23.0|3.0|international symposium on computer architecture|Reducing TLB and memory overhead using online superpage promotion
+1996|70.0|2.0|IEEE Journal on Selected Areas in Communications|Optical networking update
+1997|171.0|2.0|IEEE Communications Magazine|CORBA: integrating diverse applications within distributed heterogeneous environments
+1998|17.0|2.0|American Journal of Cardiology|Echocardiographic Parameters for Predicting Maintenance of Sinus Rhythm After Internal Atrial Defibrillation
+1999|68.0|2.0|Kidney International|Body weight-for-height relationships predict mortality in maintenance hemodialysis patients
+2000|41.0|2.0|IEEE Computer|Leveraging inconsistency in software development
+2001|58.0|3.0|high performance computer architecture|An integrated circuit/architecture approach to reducing leakage in deep-submicron high-performance I-caches
+2002|86.0|3.0|IEEE Transactions on Software Engineering|CCFinder: a multilinguistic token-based code clone detection system for large scale source code
+2003|78.0|5.0|Journal of Operations Management|Lean manufacturing: context, practice bundles, and performance
+2004|101.0|4.0|Cardiovascular Research|The HMG-CoA reductase inhibitor atorvastatin prevents atrial fibrillation by inhibiting inflammation in a canine sterile pericarditis model.
+2005|67.0|3.0|Mayo Clinic Proceedings|The JAK2V617F Tyrosine Kinase Mutation in Myeloproliferative Disorders: Status Report and Immediate Implications for Disease Classification and Diagnosis
+2006|89.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Activity Recognition of Assembly Tasks Using Body-Worn Microphones and Accelerometers
+2007|58.0|3.0|Journal of the American College of Cardiology|Prevalence, Clinical Significance, and Genetic Basis of Hypertrophic Cardiomyopathy With Restrictive Phenotype
+2008|80.0|1.0|IEEE Transactions on Mobile Computing|CDR-MAC: A Protocol for Full Exploitation of Directional Antennas in Ad Hoc Wireless Networks
+2009|142.0|1.0|cloud computing|Taking account of privacy when designing cloud computing services
+2010|138.0|3.0|IEEE Transactions on Information Theory|Network Coding for Distributed Storage Systems

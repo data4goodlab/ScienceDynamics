@@ -1,0 +1,72 @@
+----  Field Name Endocrinology: 
+----  Field Level 1.0: 
+----  Field Papers Number 22013:
+----  All time max citation paper: Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources., 2009, (6860.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1935|0|0.0|Journal of Dairy Science|Nutritional Anemia, Calcium Phosphorus and Nitrogen Balance and Bone Composition of Rats Fed Raw versus Pasteurized Milk*
+1938|4.0|3.0|JAMA Pediatrics|Objective ratings of the constitution of the growing child based on examination of physical development and mental expansion.
+1940|2.0|0.0|The Journal of Pediatrics|The intravenous administration of small doses of casein hydrolysate to nephrotic children and its effect upon the nitrogen balance and plasma amino acid level
+1941|0|0.0|JAMA Pediatrics|FACTORS INFLUENCING RETENTION OF NITROGEN AND CALCIUM IN PERIOD OF GROWTH: V. FURTHER EVIDENCE OF THE ANABOLIC EFFECT OF THYROID ON CALCIUM METABOLISM
+1942|0|0.0|JAMA Internal Medicine|SERUM PROTEINS IN CIRRHOSIS OF THE LIVER: II. NITROGEN BALANCE STUDIES ON FIVE PATIENTS
+1946|4.0|4.0|Annals of the New York Academy of Sciences|THE DETERMINATION OF THE NITROGEN BALANCE INDEX IN NORMAL AND HYPOPROTEINEMIC DOGS
+1949|0|0.0|Chest|The Effects of Administration of Protein Hydrolysate (Amigen), Testosterone and Folic Acid on Nitrogen Balance in Patients with Chronic Pulmonary Tuberculosis
+1950|4.0|2.0|American Heart Journal|Water and electrolyte balance during recovery from severe congestive failure on a 50 milligram sodium diet
+1951|1.0|1.0|The Journal of Agricultural Science|Nutrition of the bacon pig XIV. The determination of the relative supplemental values of vegetable protein (extracted, decorticated ground-nut meal) and animal protein (white-fish meal)
+1952|1.0|1.0|Journal of Morphology|A comparison of the histological organization and cytochemical reactions of brown and white adipose tissues
+1953|12.0|6.0|Journal of Dairy Science|Urea as a Protein Replacement for Ruminants: A Review
+1954|0|0.0|Biochimica et Biophysica Acta|The excretion of 15N in urine after administration of 15N-glycine
+1955|3.0|2.5|British Journal of Nutrition|The metabolism of nitrogen, calcium and phosphorus in human adults on a poor vegetarian diet containing ragi (Eleusine coracana).
+1958|2.0|2.0|Journal of Dairy Science|Effect of Protein Level in Calf Starters on the Growth Rate and Metabolism of Young Calves
+1959|3.0|2.5|Archives of Biochemistry and Biophysics|Quantitative nutritional studies with water-soluble, chemically defined diets. VII. Nitrogen balance in normal and tumor-bearing rats following forced feeding
+1960|2.0|2.0|The Journal of Pediatrics|Water requirements for renal excretion in full-term newborn infants and premature infants fed a variety of formulas.
+1961|3.0|1.5|Journal of Dairy Science|Nitrogen Metabolism in Dairy Cattle. II. Soybran Flakes versus Oats as Principal Sources of Digestible Carbohydrates for Nitrogen Utilization1
+1962|6.0|3.0|British Journal of Nutrition|A comparison of the body-water and nitrogen balance-sheet methods for determining the nutritive value of proteins
+1963|4.0|3.0|Cancer|The influence of thyroid hormone analogues on an isotransplanted spontaneous mammary adenocarcinoma in mice
+1964|7.0|2.5|Proceedings of The Nutrition Society|Dietary factors influencing nitrogen balance
+1965|8.0|3.0|Comparative Biochemistry and Physiology|Digestion, growth and nitrogen balance in an egg-laying mammal Tachyglossus aculeatus (Shaw).
+1966|6.0|1.0|British Journal of Nutrition|Some errors in the determination of nitrogen retention of sheep by nitrogen balance studies
+1967|12.0|3.0|British Journal of Nutrition|Nitrogen balance studies with the milk-fed lamb
+1968|8.0|3.0|Metabolism-clinical and Experimental|Insulin secretion in experimental obesity
+1969|6.0|2.5|Journal of Dairy Science|Influence of Level and Source of Nitrogen on Milk Production and Blood Components1
+1970|13.0|1.0|General and Comparative Endocrinology|Neonatal androgen administration and adult aggressiveness in female mice.
+1971|17.0|2.0|Teratology|Glucocorticoid induction of cleft palate in mice, no correlation with inhibition of mucopolysaccharide synthesis.
+1972|22.0|3.0|Biochemical and Biophysical Research Communications|Insulin receptor defect in insulin resistance: Studies in the obese-hyperglycemic mouse
+1973|8.0|1.5|Pediatric Research|Development of Methyltransferase Activities of Human Fetal Tissues
+1974|51.0|4.0|Cell|Mechanisms of steroid resistance
+1975|37.0|4.0|Annals of the New York Academy of Sciences|ISOLATION, BIOCHEMICAL CHARACTERISTICS, AND BIOLOGICAL ACTIVITY OF A CIRCULATING THYMIC HORMONE IN THE MOUSE AND IN THE HUMAN
+1976|13.0|2.0|Cellular Immunology|Augmentation of specific macrophage-mediated cytotoxicity: Correlation with agents which enhance antitumor resistance
+1977|25.0|4.5|Metabolism-clinical and Experimental|Biochemical basis of fat cell insulin resistance in obese rodents and man
+1978|53.0|4.0|Journal of Experimental Medicine|Prostaglandin E production by human blood monocytes and mouse peritoneal macrophages.
+1979|47.0|3.0|Acta Physiologica Scandinavica|The effect of ingestion of amino acids, glucose and fat on circulating neurotensinlike immunoreactivity (NTLI) in man
+1980|51.0|2.0|Nature|Stimulation of hypothalamic nuclei has differential effects on lipid synthesis in brown and white adipose tissue
+1981|41.0|3.0|Diabetologia|Central nervous system regulation of liver and adipose tissue metabolism
+1982|31.0|3.0|Peptides|Abdominal vagotomy does not block the satiety effect of bombesin in the rat
+1983|72.0|3.0|Brain Research|Corticotropin-releasing factor activates noradrenergic neurons of the locus coeruleus
+1984|23.0|2.0|Limnology and Oceanography|Activity of heterotrophic bacteria and its coupling to primary production during the spring phytoplankton bloom in the southern bight of the North Sea
+1985|20.0|2.0|Life Sciences|Analog specificity of the thyrotropin-releasing hormone receptor in the central nervous system: Possible clinical implications
+1986|17.0|1.0|Peptides|Identification of His5, Trp7, Tyr8-GnRH (chicken GnRH II) in amphibian brain
+1987|22.0|2.0|Analytical Biochemistry|Isolation and characterization of different molecular and chromatographic forms of heparin-binding growth factor 1 from bovine brain
+1988|31.0|3.0|The Lancet|POSTOPERATIVE POSITIVE NITROGEN BALANCE WITH INTRAVENOUS HYPONUTRITION AND GROWTH HORMONE
+1989|43.0|2.0|The Lancet|EFFECT OF PARENTERAL GLUTAMINE PEPTIDE SUPPLEMENTS ON MUSCLE GLUTAMINE LOSS AND NITROGEN BALANCE AFTER MAJOR SURGERY
+1990|42.0|3.0|Biochemical and Biophysical Research Communications|Identification of type I iodothyronine 5-deiodinase as a selenoenzyme
+1991|39.0|2.0||Localization of bone sialoprotein (BSP) expression to sites of mineralized tissue formation in fetal rat tissues by in situ hybridization.
+1992|58.0|4.0|Pharmacology & Therapeutics|Bradykinin receptors: Pharmacological properties and biological roles
+1993|35.0|3.0|Insect Biochemistry and Molecular Biology|The myotropic peptides of Locusta migratoria : Structures, distribution, functions and receptors
+1994|40.0|3.0|Glia|Glutamateinduced calcium signaling in astrocytes
+1995|48.0|4.0|FEBS Letters|Effects of fasting and refeeding on ob gene expression in white adipose tissue of lean and obese (ob/ob) mice
+1996|56.0|4.0|Pediatric Research|The Very Low Birth Weight Premature Infant Is Capable of Synthesizing Arachidonic and Docosahexaenoic Acids from Linoleic and Linolenic Acids
+1997|106.0|5.0|Pediatric Research|Maternal Intrauterine Infection, Cytokines, and Brain Damage in the Preterm Newborn
+1998|147.0|5.0|Journal of Clinical Investigation|Troglitazone increases the number of small adipocytes without the change of white adipose tissue mass in obese Zucker rats.
+1999|114.0|6.0|Trends in Neurosciences|Feeding and body-weight regulation by hypothalamic neuropeptidesmediation of the actions of leptin
+2000|170.0|7.0|JAMA|A 3-Level Prognostic Classification in Septic Shock Based on Cortisol Levels and Cortisol Response to Corticotropin
+2001|232.0|8.0|Trends in Neurosciences|The sleep switch: hypothalamic control of sleep and wakefulness
+2002|418.0|10.0|Applied Geochemistry|A review of the source, behaviour and distribution of arsenic in natural waters
+2003|258.0|8.0|Circulation|Reciprocal Association of C-Reactive Protein With Adiponectin in Blood Stream and Adipose Tissue
+2004|325.0|9.0|British Journal of Nutrition|Adipokines: inflammation and the pleiotropic role of white adipose tissue
+2005|444.0|10.0|The Journal of Allergy and Clinical Immunology|Adipose tissue, adipokines, and inflammation
+2006|335.0|10.0|Nature Protocols|In-gel digestion for mass spectrometric characterization of proteins and proteomes
+2007|1029.0|11.0|Nature Protocols|Locating proteins in the cell using TargetP, SignalP and related tools.
+2008|2058.0|13.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|11.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|1420.0|11.0|Nature Protocols|I-TASSER: a unified platform for automated protein structure and function prediction

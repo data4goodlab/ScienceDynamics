@@ -1,0 +1,34 @@
+----  Field Name Institutional economics: 
+----  Field Level 2.0: 
+----  Field Papers Number 1156:
+----  All time max citation paper: Social Capital: Implications for Development Theory, Research, and Policy, 2000, (916.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1976|1.0|1.0|Technological Forecasting and Social Change|Social values and the limits to growth
+1980|23.0|23.0|American Sociological Review|Bringing the Firms Back in: Stratification, Segmentation, and the Organization of Work
+1981|2.0|2.0|Explorations in Economic History|The problem with neoclassical institutional economics: A critique with special reference to the North/Thomas model of pre-1500 Europe
+1986|0|0.0|Handbook of Monetary Economics|A Game Theoretic Approach to the Theory of Money and Financial Institutions
+1987|1.0|0.0|World Development|Positional goods, conspicuous consumption and the international demonstration effect reconsidered
+1988|2.0|2.0|Human Relations|Perceptions of Injustice in a Black Community: Dimensions and Variation
+1989|3.0|1.5|Journal of Economic Psychology|Psychological antecedents of conspicuous consumption
+1990|3.0|2.5|Annals of The Association of American Geographers|Shaping the Commercial City: Retail Districts in Nineteenth-Century New York and Boston
+1991|0|0.0|Forum for Social Economics|Varieties of institutional economics: The theory of the firm
+1992|8.0|3.5|Social Science & Medicine|Women's access to health care in developing countries
+1993|8.0|4.0|Metroeconomica|INSTITUTIONAL ECONOMICS: SURVEYING THE OLD AND THE NEW
+1994|5.0|2.5|Ecological Economics|Actors, ideology, markets. Neoclassical and institutional perspectives on environmental policy
+1995|7.0|0.0||Incorporating concern for relative wealth into economic models
+1996|7.0|1.5||Choosing Environmental Policy Tools: Theoretical Cautions and Practical Considerations
+1997|19.0|5.0|Journal of Public Economics|Conspicuous consumption, snobbism and conformism
+1998|43.0|2.0|Journal of Economic Literature|The Approach of Institutional Economics
+1999|55.0|1.0|International Journal of Urban and Regional Research|An Institutionalist Perspective on Regional Economic Development
+2000|133.0|4.0|World Bank Research Observer|Social Capital: Implications for Development Theory, Research, and Policy
+2001|36.0|4.0||Modern Economic Theory and Development
+2002|32.0|2.0||Factor Endowments, Inequality, and Paths of Development among New World Economies
+2003|83.0|4.0|acm special interest group on data communication|Automatically inferring patterns of resource consumption in network traffic
+2004|27.0|2.0|Proceedings of the National Academy of Sciences of the United States of America|Geography, biogeography, and why some countries are rich and others are poor
+2005|58.0|3.0||Forms of Democracy, Policy and Economic Development
+2006|110.0|2.5|Journal of Economic Geography|Why is economic geography not an evolutionary science? Towards an evolutionary economic geography
+2007|97.0|4.0|Journal of Personality and Social Psychology|Blatant benevolence and conspicuous consumption: When romantic motives elicit strategic costly signals
+2008|63.0|3.0||Coordination in Hinterland Transport Chains: A Major Challenge for the Seaport Community
+2009|42.0|2.0|Journal of Experimental Social Psychology|Conspicuous consumption versus utilitarian ideals: How different levels of power shape consumer behavior
+2010|93.0|2.0|Journal of Business Ethics|A Positive Theory of Social Entrepreneurship

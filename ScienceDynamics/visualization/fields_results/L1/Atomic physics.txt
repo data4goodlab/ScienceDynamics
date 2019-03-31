@@ -1,0 +1,55 @@
+----  Field Name Atomic physics: 
+----  Field Level 1.0: 
+----  Field Papers Number 8768:
+----  All time max citation paper: Topological insulators in Bi2Se3, Bi2Te3 and Sb2Te3 with a single Dirac cone on the surface, 2009, (571.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1961|0|0.0|Philosophical Magazine|THE POSITIVE ION BOMBARDMENT OF EVAPORATED SINGLE CRYSTAL GOLD FILMS
+1962|17.0|14.0|Journal of Applied Physics|Sputtering of Dielectrics by HighFrequency Fields
+1963|7.0|2.0|Journal of Applied Physics|Temperature Dependence of Ejection Patterns in Ge Sputtering
+1964|5.0|1.0|Journal of Applied Physics|PREPARATION AND PROPERTIES OF THIN-FILM HARD SUPERCONDUCTORS
+1965|5.0|1.0|Journal of Chemical Physics|NUCLEAR MAGNETIC DIPOLE-DIPOLE RELAXATION IN MOLECULES WITH INTERNAL MOTION
+1966|5.0|2.5|Physica D: Nonlinear Phenomena|Structure of the spectrum of neutral terbium, Tb I
+1967|12.0|0.0|Nuclear Physics|Measurement and analysis of muonic X-ray spectra in deformed nuclei
+1969|4.0|2.0|Proceedings of the IEEE|Aluminum metallization&#8212;Advantages and limitations for integrated circuit applications
+1970|4.0|1.0|Thin Solid Films|Structure and properties of r.f. sputtered, superconducting tantalum films
+1971|9.0|1.0|Earth and Planetary Science Letters|Chemical composition of Apollo 14 soils 14163 and 14259
+1972|17.0|3.5|Thin Solid Films|X-ray analysis of sputtered films of beta-tantalum and body-centered cubic tantalum
+1973|0|0.0|Electronics Letters|Tungsten masking against boron implantation
+1974|4.0|2.0|Journal of Nuclear Materials|Surface requirements for electrostatic direct energy converters
+1975|5.0|1.0|Journal of Applied Physics|Ion implantation during film growth and its effect on the superconducting properties of niobium
+1976|3.0|1.5|Journal of Sound and Vibration|Wheel/rail noisePart III: Impact noise generation by wheel and rail discontinuities
+1977|35.0|2.0|Journal of Applied Physics|Ion-beam-induced atomic mixing
+1978|30.0|3.0|Journal of Applied Physics|Sputtering of PtSi
+1979|38.0|4.0|Nature|Volcanic resurfacing rates and implications for volatiles on Io
+1980|24.0|3.0|Journal of Applied Physics|Diffusion enhancement due to low-energy ion bombardment during sputter etching and deposition
+1981|13.0|2.0|Icarus|Effects of Io ejecta on Europa
+1982|15.0|5.0|Icarus|Thermal- and plasma-induced molecular redistribution on the icy satellites
+1983|18.0|5.0|Surface Science|Sputtering of the gallium-indium eutectic alloy in the liquid phase
+1984|15.0|4.0|Journal of Geophysical Research|Escape of sulfur and oxygen from Io
+1985|21.0|3.0|Reviews of Geophysics|Review of the critical ionization velocity effect in space
+1986|19.0|6.5|Journal of Applied Physics|dc magnetron- and diode-sputtered polycrystalline Fe and amorphous Tb(FeCo) films: Morphology and magnetic properties
+1987|33.0|2.5|Journal of Chemical Physics|Near Hartree-Fock quality GTO basis sets for the second-row atoms
+1988|28.0|6.0|Journal of Applied Physics|Preferentially oriented epitaxial Y-Ba-Cu-O films prepared by the ion beam sputtering method
+1989|27.0|1.5|Applied Physics Letters|High-efficiency indium tin oxide/indium phosphide solar cells
+1990|24.0|2.5|Advances in Space Research|Review of critical velocity experiments in the ionosphere
+1991|30.0|2.0|Proceedings of the IEEE|Thin film deposition and microelectronic and optoelectronic device fabrication and characterization in monocrystalline alpha and beta silicon carbide
+1992|19.0|2.0|Geophysical Research Letters|Evolutionary impact of sputtering of the Martian atmosphere by O(+) pickup ions
+1993|28.0|1.0|Applied Physics Letters|Thermodynamic and kinetic processes involved in the growth of epitaxial GaN thin films
+1994|22.0|3.0|Thin Solid Films|Nucleation and growth in TiO 2 films prepared by sputtering and evaporation
+1995|37.0|2.0|Thin Solid Films|Structural studies of reactively sputtered carbon nitride thin films
+1996|29.0|1.0|Computer Physics Communications|GRASP92: A package for large-scale relativistic atomic structure calculations
+1997|28.0|1.0|Journal of Applied Physics|The synthesis, characterization, and mechanical properties of thick, ultrahard cubic boron nitride films deposited by ion-assisted sputtering
+1998|46.0|1.0|Proceedings of the IEEE|Surface micromachining for microelectromechanical systems
+1999|35.0|1.0|IEEE Photonics Technology Letters|Electrically tunable power efficient dispersion compensating fiber Bragg grating
+2000|52.0|2.0|Thin Solid Films|Superhard nanocomposite Ti 1x Al x N films prepared by magnetron sputtering
+2001|65.0|2.0|Icarus|Energetic Ion and Electron Irradiation of the Icy Galilean Satellites
+2002|38.0|3.0|Journal of Power Sources|Modification of polymer electrolyte membranes for DMFCs using Pd films formed by sputtering
+2003|42.0|2.0|Materials Science and Engineering A-structural Materials Properties Microstructure and Processing|Single layer and multilayer wear resistant coatings of (Ti,Al)N: a review
+2004|137.0|2.0|Applied Physics Letters|Wide-bandgap high-mobility ZnO thin-film transistors produced at room temperature
+2005|83.0|2.0|Nature Physics|Membrane disruption by optically controlled microbubble cavitation
+2006|216.0|3.0|Nature Physics|GeV electron beams from a centimetre-scale accelerator
+2007|202.0|2.0|Nature Physics|Challenges for semiconductor spintronics
+2008|264.0|4.0|Nature Physics|Charged Impurity Scattering in Graphene
+2009|491.0|4.0|Nature Physics|Topological insulators in Bi2Se3, Bi2Te3 and Sb2Te3 with a single Dirac cone on the surface
+2010|230.0|4.0|Nature Physics|Identification of influential spreaders in complex networks

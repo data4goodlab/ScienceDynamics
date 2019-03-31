@@ -1,0 +1,64 @@
+----  Field Name Rheology: 
+----  Field Level 2.0: 
+----  Field Papers Number 37152:
+----  All time max citation paper: Polymer/layered silicate nanocomposites: a review from preparation to processing, 2003, (3007.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1951|9.0|7.0|Journal of Applied Physics|Mechanical Properties of Substances of High Molecular Weight. X. The Relaxation Distribution Function in Polyisobutylene and Its Solutions
+1953|10.0|6.5|Journal of Applied Physics|Dynamic Mechanical Properties of the System PolystyreneDecalin
+1954|20.0|11.0|Journal of Chemical Physics|The Viscoelastic Properties of Plastics
+1955|1.0|1.0|Journal of Colloid Science|Stress-relaxation of polyisobutylene in the transition region (1, 2)
+1956|23.0|1.0|Journal of Chemical Physics|Dynamics of Polymer Molecules in Dilute Solution: Viscoelasticity, Flow Birefringence and Dielectric Loss
+1957|3.0|1.5|Acta Metallurgica|Activation energies for creep of high-purity aluminum
+1959|4.0|2.5|Physics of Fluids|Thermodynamics of Viscoelasticity in Liquids
+1960|1.0|0.0||Deposition of uranium in salt-pan basins
+1961|4.0|1.0|Journal of Chemical Physics|Molecular Weight Distribution from the Normal Coordinate Theory of Viscoelasticity
+1962|18.0|2.5|Journal of the American Ceramic Society|Deformation Behavior of Polycrystalline Aluminum Oxide
+1963|1.0|1.0|Journal of Fluid Mechanics|Cavitation of a viscous fluid in narrow passages
+1964|22.0|5.0|Journal of Fluid Mechanics|Turbulent flow characteristics of viscoelastic fluids
+1965|6.0|1.0|Journal of Fluid Mechanics|The behaviour of freely falling cylinders and cones in a viscous fluid
+1966|6.0|1.0|Acta Mechanica|LINEAR NON-ISOTHERMAL VISCOELASTIC SOLIDS.
+1967|4.0|0.5|Philosophical Magazine|REBINDER EFFECTS IN MGO.
+1968|13.0|2.0|Progress in Materials Science|Mechanical Behavior of Crystalline Solids at Elevated Temperature.
+1969|9.0|1.5|Journal of Biomechanics|An analytic elastic-viscoelastic model for the shape and the forces in the left ventricle
+1970|14.0|1.0|Journal of Fluid Mechanics|The flow created by a sphere moving along the axis of a rotating, slightly-viscous fluid
+1971|20.0|1.0|Journal of Fluid Mechanics|The motion of long slender bodies in a viscous fluid. Part 2. Shear flow
+1972|10.0|1.0|Cement and Concrete Research|Mechanism of creep of hydrated portland cement paste
+1973|9.0|1.0|Journal of the American Ceramic Society|ThirdPower Stress Dependence in Creep of Polycrystalline Nonmetals
+1974|10.0|1.0|Archive of Applied Mechanics|Finite-element analysis of slow incompressible viscous fluid motion
+1975|15.0|1.0|Journal of Applied Physics|Dislocation mechanisms for stress relaxation in shocked LiF
+1976|30.0|1.0|Photochemistry and Photobiology|PHOTOSYNTHESIS AS A RESOURCE FOR ENERGY AND MATERIALS*
+1977|47.0|2.0|Journal of Geophysical Research|Viscoelastic properties of fluidsaturated cracked solids
+1978|29.0|2.0|Tectonophysics|An elastic-perfectly plastic analysis of the bending of the lithosphere at a trench
+1979|23.0|2.0|International Journal of Rock Mechanics and Mining Sciences & Geomechanics Abstracts|Crack growth and development during creep of Barre granite
+1980|24.0|2.0|Reviews of Geophysics|Gravity fields of the terrestrial planets - Long-wavelength anomalies and tectonics
+1981|21.0|1.0|The New England Journal of Medicine|Association of in vitro Escherichia coli adherence to vaginal and buccal epithelial cells with susceptibility of women to recurrent urinary-tract infections.
+1982|30.0|1.0|Journal of Cell Biology|The concept of lipid domains in membranes.
+1983|35.0|1.0|Journal of Surgical Research|The effect of occlusive dressings on collagen synthesis and re-epithelialization in superficial wounds.
+1984|69.0|2.0|Journal of Geophysical Research|Subducted slabs and the geoid: Constraints on mantle rheology and flow
+1985|27.0|2.0|Polymer|Polyblends containing a liquid crystalline polymer
+1986|24.0|2.0|Journal of Geophysical Research|Extension of continental lithosphere: A model for two scales of basin and range deformation
+1987|118.0|1.0|Applied Physics Letters|Relaxation of strainedlayer semiconductor structures via plastic flow
+1988|28.0|2.0|Journal of Geophysical Research|Dynamically supported geoid highs over hotspots: Observation and theory
+1989|34.0|1.5|International Journal of Plasticity|Constitutive equations for cyclic plasticity and cyclic viscoplasticity
+1990|36.0|2.0|Journal of the American Ceramic Society|Effect of a liquid Phase on Superplasticity of 2moI%Y203StabiIlzed Tetragonal Zirconla Polycrystals
+1991|32.0|3.0|Journal of Applied Physics|Mechanisms of thermal stress relaxation and stressinduced voiding in narrow aluminumbased metallizations
+1992|38.0|2.0|Journal of Applied Physics|Solid phase epitaxy of stressed and stressrelaxed GeSi alloys
+1993|40.0|3.0|New Phytologist|Wall extensibility: its nature, measurement and relationship to plant cell growth
+1994|46.0|2.5|Applied Physics Letters|Bandedge and deep level photoluminescence of pseudomorphic Si1xyGexCy alloys
+1995|98.0|2.0|Journal of Geophysical Research|Strength of the lithosphere: Constraints imposed by laboratory experiments
+1996|83.0|2.0|Earth and Planetary Science Letters|Water in the oceanic upper mantle: implications for rheology, melt extraction and the evolution of the lithosphere
+1997|135.0|2.0|Nature|Elasticity and unfolding of single molecules of the giant muscle protein titin
+1998|57.0|2.0|Journal of Dentistry|The clinical performance of adhesives
+1999|93.0|3.0|Progress in Polymer Science|Composites reinforced with cellulose based fibres
+2000|106.0|4.0|IEEE\/ASME Journal of Microelectromechanical Systems|Three-dimensional micro-channel fabrication in polydimethylsiloxane (PDMS) elastomer
+2001|99.0|4.0|Journal of Hydrology|Equifinality, data assimilation, and uncertainty estimation in mechanistic modelling of complex environmental systems using the GLUE methodology
+2002|165.0|4.0|Current Opinion in Cell Biology|Hard and soft principles defining the structure, function and regulation of keratin intermediate filaments
+2003|783.0|5.0|Progress in Polymer Science|Polymer/layered silicate nanocomposites: a review from preparation to processing
+2004|105.0|5.0|IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control|Supersonic shear imaging: a new technique for soft tissue elasticity mapping
+2005|142.0|5.0|Polymer|Polyethylene multiwalled carbon nanotube composites
+2006|341.0|4.0|Journal of Hydrology|A manifesto for the equifinality thesis
+2007|112.0|5.0|Journal of the Royal Society Interface|Biomimetic mushroom-shaped fibrillar adhesive microstructure.
+2008|239.0|6.0|Applied Physics Letters|Tunnel magnetoresistance of 604% at 300K by suppression of Ta diffusion in CoFeBMgOCoFeB pseudo-spin-valves annealed at high temperature
+2009|869.0|6.0|PLOS ONE|Noninvasive cardiac flow assessment using high speed magnetic resonance fluid motion tracking.
+2010|205.0|6.0|Lab on a Chip|Dynamics of microfluidic droplets

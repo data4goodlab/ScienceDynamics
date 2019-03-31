@@ -1,0 +1,50 @@
+----  Field Name Organizational behavior: 
+----  Field Level 2.0: 
+----  Field Papers Number 2782:
+----  All time max citation paper: Affective, Continuance, and Normative Commitment to the Organization: A Meta-analysis of Antecedents, Correlates, and Consequences., 2002, (1510.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1936|1.0|1.0|Biological Reviews|THE TRANSFORMATION OF ORGANIC DESIGNS: A REVIEW OF THE ORIGIN AND DEPLOYMENT OF THE EARLIER VERTEBRATES
+1967|6.0|6.0||ASP: a new concept in language and machine organization
+1968|1.0|1.0|Journal of Personality and Social Psychology|ORGANIZATIONAL BEHAVIORS AND ADAPTATIONS TO ORGANIZATIONAL CHANGE OF SENSITIZER AND REPRESSER PROBLEM-SOLVING GROUPS *
+1970|0|0.0|Organizational Behavior and Human Performance|The prediction of complex organizational behavior: A comparison of decision theory with more traditional techniques
+1971|12.0|12.0|Management Science|A Generalized Goal Decomposition Model
+1972|14.0|14.0|Organizational Behavior and Human Performance|Role conflict and ambiguity as critical variables in a model of organizational behavior
+1973|0|0.0|Business Horizons|Organizational design: A contingency approach: A model for organic management design
+1974|18.0|18.0|ACM Computing Surveys|Identifier Search Mechanisms: A Survey and Generalized Model
+1975|11.0|6.5|Omega-international Journal of Management Science|Goal programming and constrained regression--A comment
+1976|2.0|1.0|Human Relations|Participation, Organization, and Social Cohesion
+1977|6.0|2.5||Toward a theory of organizational socialization
+1978|12.0|7.0|Academy of Management Review|Information Processing as an Integrating Concept in Organizational Design.
+1979|18.0|1.0|Management Science|A Conceptual Framework for the Design of Organizational Control Mechanisms
+1980|14.0|1.0|Decision Sciences|INQUIRY METHOD, GOAL DIFFICULTY, AND CONTEXT EFFECTS ON PERFORMANCE
+1981|6.0|1.0|Communications of The ACM|Computer information systems and organization structure
+1982|15.0|1.0|Management Science|Organizational Information Systems: Determinants of Their Performance and Behavior
+1983|6.0|1.0|Management Science|The Customer Contact Model for Organization Design
+1984|36.0|7.0|Management Science|The Nature and Design of Post-Industrial Organizations
+1985|24.0|1.0|Educational Researcher|Emerging Developments in Postsecondary Organization Theory and Research: Fragmentation or Integration
+1986|22.0|9.5|Management Science|Determining organizational effectiveness: another look, and an agenda for research
+1987|29.0|3.0|IEEE Transactions on Computers|Coherent Cooperation Among Communicating Problem Solvers
+1988|4.0|1.0|Technology in Society|Technology and organization culture: The human imperative in integrating new technology into organization design
+1989|15.0|0.5|Journal of Economic Behavior and Organization|Agency Costs and Innovation
+1990|16.0|4.0|Journal of Business Research|Relationship approach to marketing in service contexts: The marketing and organizational behavior interface
+1991|19.0|3.5|Journal of Management|Emerging Theories of Communication in Organizations
+1992|29.0|4.0|Psychological Bulletin|Feeling good-doing good: a conceptual analysis of the mood at work-organizational spontaneity relationship.
+1993|34.0|2.0|Ibm Systems Journal|Software reuse: from library to factory
+1994|35.0|4.0|Journal of Management|A Review of Current Practices for Evaluating Causal Models in Organizational Behavior and Human Resources Management Research
+1995|18.0|3.0|International Journal of Information Management|Organization memory: Review of concepts and recommendations for management
+1996|38.0|3.0|Strategic Management Journal|Modularity, flexibility, and knowledge management in product and organization design
+1997|90.0|3.0|Journal of Management|What Makes Teams Work: Group Effectiveness Research from the Shop Floor to the Executive Suite
+1998|54.0|3.0|Journal of Applied Psychology|Work-family conflict, policies, and the job-life satisfaction relationship: a review and directions for organizational behavior-human resources research
+1999|49.0|5.0|Management Science|Tools for Inventing Organizations: Toward a Handbook of Organizational Processes
+2000|42.0|2.0|Organizational Behavior and Human Decision Processes|Knowledge Transfer: A Basis for Competitive Advantage in Firms
+2001|77.0|3.0|IEEE Transactions on Engineering Management|Applying the design structure matrix to system decomposition and integration problems: a review and new directions
+2002|174.0|4.0|Journal of Vocational Behavior|Affective, Continuance, and Normative Commitment to the Organization: A Meta-analysis of Antecedents, Correlates, and Consequences.
+2003|136.0|4.5|Annual Review of Psychology|Organizational Behavior: Affect in the Workplace
+2004|68.0|5.0|Journal of Operations Management|Effects of supplier trust on performance of cooperative supplier relationships
+2005|193.0|5.0|Journal of Management|Social Exchange Theory: An Interdisciplinary Review
+2006|259.0|7.0|Academy of Management Review|The Essential Impact of Context on Organizational Behavior
+2007|130.0|4.0|Journal of Management|Emerging Positive Organizational Behavior
+2008|280.0|6.0|Journal of Management|Team Effectiveness 1997-2007: A Review of Recent Advancements and a Glimpse Into the Future
+2009|246.0|4.0|R & D Management|Open R&D and open innovation: exploring the phenomenon
+2010|129.0|4.0|Journal of Management|Employee Retirement: A Review and Recommendations for Future Investigation

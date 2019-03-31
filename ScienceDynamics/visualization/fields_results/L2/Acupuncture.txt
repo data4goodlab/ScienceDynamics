@@ -1,0 +1,66 @@
+----  Field Name Acupuncture
+----  Field Level 2.0
+----  Field Papers Number 57553
+----  All time max citation paper Meta-analysis in clinical trials., 1986, (12238.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1938|2.0|2.0|The Lancet|THE CHEMOTHERAPY OF BACTERIAL INFECTIONS
+1949|2.0|2.0|JAMA|Mass Penicillin Prophylaxis : an Experiment with Negative Results.
+1950|2.0|2.0|Journal of Dairy Science|Influence of pre-milking preparations of cows' udders upon the let-down of milk.
+1951|2.0|2.0|The New England Journal of Medicine|The Antihistaminie Drugs in the Treatment of the Common Cold. A Study conducted at Boston University.
+1953|3.0|0.0|The New England Journal of Medicine|Carbomycin Therapy: Results of a Brief Clinical Trial, Chiefly in Patients with Pneumonia
+1954|0|0.0|Digestive Diseases and Sciences|Clinical comparison of four anticholinergic drugs
+1955|0|0.0|Canadian Journal of Anaesthesia-journal Canadien D Anesthesie|Methyl N-Propyl ether: A report of a clinical trial
+1956|2.0|1.0|Tubercle|British freeze dried BCG vaccine: Preliminary clinical trial
+1958|2.0|1.0|Acta Physiologica Scandinavica|A. study of rumination induced by milking in the goat.
+1960|2.0|2.0|The New England Journal of Medicine|Intravenous Urea in the Therapy of Increased Intracranial Pressure with Lead Encephalopathy.
+1961|0|0.0|Clinical Radiology|Nidoxital: A clinical trial
+1962|4.0|3.0|Journal of Chronic Diseases|Patient co-operation and the sensitivity of clinical trials
+1963|1.0|1.0|Acta Psychiatrica Scandinavica|CLINICAL TRIAL WITH THE MONOAMINO OXIDASE INHIBITOR TRANYLCYPROMINE ON A PSYCHIATRIC CLIENTELE
+1964|2.0|1.0|American Journal of Cardiology|A clinical trial of antazoline in the treatment of arrhythmias
+1965|1.0|0.0|The New England Journal of Medicine|A Clinical Trial of High Oxygen Pressure for the Respiratory-Distress Syndrome
+1966|5.0|1.0|The New England Journal of Medicine|Attenuated Rubella Virus: Production of an Experimental Live-Virus Vaccine and Clinical Trial
+1967|13.0|1.5|JAMA|Prevention of Rh Isoimmunization: Progress Report of the Clinical Trial in Mothers
+1968|29.0|2.0|Journal of Clinical Investigation|The effect of salicylates on the hemostatic properties of platelets in man
+1969|5.0|0.0|The New England Journal of Medicine|Lactulose in the treatment of chronic portal-systemic encephalopathy. A double-blind clinical trial.
+1970|24.0|3.0|The New England Journal of Medicine|Modification of chronic manganese poisoning. Treatment with L-dopa or 5-011 tryptophane.
+1971|45.0|3.0|Cancer|Clinical trials with adriamycin
+1972|14.0|4.0|British Journal of Pharmacology|Central and peripheral effects of propranolol and sotalol in normal human subjects
+1973|15.0|2.0|The New England Journal of Medicine|Intra-aortic balloon counterpulsation in cardiogenic shock. Report of a co-operative clinical trial.
+1974|19.0|1.5|The New England Journal of Medicine|Acute airway responses to hair-spray preparations.
+1975|11.0|1.5|American Journal of Surgery|High dose methotrexate as a preoperative adjuvant in the treatment of epidermoid carcinoma of the head and neck: A feasibility study and clinical trial
+1976|9.0|1.5|Cancer|A comparative clinical trial of 5azacytidine and guanazole in previously treated adults with acute nonlymphocytic leukemia
+1977|44.0|2.5|The New England Journal of Medicine|Successful chemoprophylaxis for Pneumocystis carinii pneumonitis.
+1978|55.0|2.5|Journal of Clinical Periodontology|Effect of controlled oral hygiene procedures on caries and periodontal disease in adults
+1979|49.0|2.0|The New England Journal of Medicine|Controlled clinical trial of prophylactic human-leukocyte interferon in renal transplantation. Effects on cytomegalo-virus and herpes simplex virus infections.
+1980|147.0|3.0|The New England Journal of Medicine|Hepatitis B vaccine. Demonstration of efficacy in a controlled clinical trial in a high-risk population in the United States.
+1981|23.0|3.0|Controlled Clinical Trials|Introduction to sample size determination and power analysis for clinical trials.
+1982|223.0|2.0|Nature|Alternative RNA processing in calcitonin gene expression generates mRNAs encoding different polypeptide products
+1983|237.0|2.0|Nature|Production of a novel neuropeptide encoded by the calcitonin gene via tissue-specific RNA processing
+1984|60.0|3.0|Neuroscience Letters|Immunoreactive calcitonin gene-related peptide and substance P coexist in sensory neurons to the spinal cord and interact in spinal behavioral responses of the rat
+1985|287.0|5.0|Nature|Calcitonin gene-related peptide is a potent vasodilator
+1986|113.0|6.0|Behavioral and Brain Sciences|Hypnotic behavior: A social-psychological interpretation of amnesia, analgesia, and trance logic
+1987|107.0|7.0|Peptides|Calcitonin gene-related peptide (CGRP) in capsaicin-sensitive substance P-immunoreactive sensory neurons in animals and man: Distribution and release by capsaicin
+1988|338.0|6.0|Neuroscience|Local effector functions of capsaicin-sensitive sensory nerve endings: involvement of tachykinins, calcitonin gene-related peptide and other neuropeptides.
+1989|82.0|5.0|Annals of Neurology|NmethylDaspartate antagonists: Ready for clinical trial in brain ischemia?
+1990|98.0|5.0|Cancer Research|Identification of Candidate Cancer Chemopreventive Agents and Their Evaluation in Animal Models and Human Clinical Trials: A Review
+1991|137.0|4.0|The Journal of Comparative Neurology|Localization of NADPHdiaphorasecontaining neurons in sensory ganglia of the rat
+1992|108.0|4.0|Journal of Bone and Mineral Research|Axial and appendicular bone density predict fractures in older women
+1993|122.0|4.0|JAMA|Treatment of Mild Hypertension Study: Final Results
+1994|110.0|3.0|FEBS Letters|Specific receptors for adrenomedullin in cultured rat vascular smooth muscle cells
+1995|209.0|4.0|Brain Research Reviews|The inflammatory response system of brain: implications for therapy of Alzheimer and other neurodegenerative diseases
+1996|263.0|4.0|Controlled Clinical Trials|Assessing the quality of reports of randomized clinical trials: Is blinding necessary?
+1997|154.0|5.0||Randomised, placebo-controlled trial of carvedilol in patients with congestive heart failure due to ischaemic heart disease
+1998|373.0|6.0|Nature|RAMPs regulate the transport and ligand specificity of the calcitonin-receptor-like receptor.
+1999|490.0|7.0|Kidney International|The Banff 97 working classification of renal allograft pathology
+2000|1041.0|7.0|Nature|Angiogenesis in cancer and other diseases.
+2001|326.0|8.0|JAMA Neurology|Current Concepts in Mild Cognitive Impairment
+2002|2630.0|9.0|JAMA|Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results From the Women's Health Initiative randomized controlled trial
+2003|722.0|10.0|The New England Journal of Medicine|A randomized trial of bevacizumab, an anti-vascular endothelial growth factor antibody, for metastatic renal cancer.
+2004|864.0|10.0|Nature|Haematopoietic stem cells do not transdifferentiate into cardiac myocytes in myocardial infarcts
+2005|673.0|10.0|The New England Journal of Medicine|Erlotinib in Lung Cancer  Molecular and Clinical Predictors of Outcome
+2006|646.0|9.0|Nature Reviews Cancer|Histone deacetylase inhibitors and the promise of epigenetic (and more) treatments for cancer
+2007|1181.0|10.0|Circulation|Clinical End Points in Coronary Stent Trials A Case for Standardized Definitions
+2008|512.0|11.0|Journal of the National Cancer Institute|Improved Survival of Patients With Human PapillomavirusPositive Head and Neck Squamous Cell Carcinoma in a Prospective Clinical Trial
+2009|2555.0|11.0|European Journal of Cancer|New response evaluation criteria in solid tumours: Revised RECIST guideline (version 1.1)
+2010|1341.0|12.0|PLOS ONE|Field Assessment of a Novel Household-Based Water Filtration Device: A Randomised, Placebo-Controlled Trial in the Democratic Republic of Congo

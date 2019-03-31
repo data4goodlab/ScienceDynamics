@@ -1,0 +1,53 @@
+----  Field Name Geometric algebra: 
+----  Field Level 2.0: 
+----  Field Papers Number 6807:
+----  All time max citation paper: Landscape structure shapes habitat finding ability in a butterfly, 2012, (1954.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|3.0|2.0|Geochimica et Cosmochimica Acta|Adsorption of non-ionic aliphatic molecules from aqueous solutions on montmorillonite. Clay-organic studies. II.
+1961|1.0|1.0|Archive for History of Exact Sciences|The ritual origin of geometry
+1966|1.0|1.0|Annals of Physics|Dispersion relations and higher symmetries
+1967|0|0.0|Journal of Neurology, Neurosurgery, and Psychiatry|Shrinking retrograde amnesia.
+1968|13.0|6.5|Journal of Geophysical Research|Interrelationship of cosmicray anisotropies and the interplanetary magnetic field
+1969|21.0|8.5|Journal of Experimental Child Psychology|The acquisition and violation of expectancy: An experimental paradigm
+1970|7.0|1.5|Geoderma|Some morphological aspects of regrouping phenomena in Dutch soils.
+1971|11.0|3.0|Carbon|RELATIONS BETWEEN THE STRUCTURE AND THE MECHANICAL PROPERTIES OF FLUIDIZED- BED PYROLYTIC CARBONS.
+1972|17.0|7.0|Thin Solid Films|X-ray analysis of sputtered films of beta-tantalum and body-centered cubic tantalum
+1973|6.0|1.0|Child Development|The Newborn's Response to Auditory Stimulation: A Demonstration of Orienting and Defensive Behavior.
+1974|24.0|1.5|Icarus|Four-color photometry of the Galilean satellites
+1975|14.0|1.0|Journal of Geophysical Research|Standing waves at low Mach number laminar bow shocks
+1976|103.0|6.0|Experimental Neurology|Place units in the hippocampus of the freely moving rat.
+1977|3.0|1.0|Child Development|The Development of Recognition Memory for the Left-Right Orientation of Pictures.
+1978|3.0|3.0|Sex Roles|Sex-Role Orientation, Behavioral Adaptability, and Personal Adjustment.
+1979|9.0|2.0|Journal of Insect Physiology|Search and anemotactic orientation of cockroaches
+1980|78.0|4.0|Journal of Applied Physics|Optically induced conductivity changes in dischargeproduced hydrogenated amorphous silicon
+1981|8.0|1.0|Journal of Geophysical Research|Energetic magnetosheath ions and the interplanetary magnetic field orientation
+1982|9.0|5.0|Cytometry|High resolution DNA content measurements of mammalian sperm
+1983|29.0|5.0|Journal of Applied Physics|MonteCarlo simulation of electron properties in rf parallel plate capacitively coupled discharges
+1984|23.0|3.5|Journal of Chemical Physics|A Model for Orientation Effects in ElectronTransfer Reactions
+1985|25.0|3.0|Vision Research|Spatial and temporal selectivity of the human motion detection system.
+1986|17.0|2.0|Entomologia Experimentalis Et Applicata|Masking of host plant odour in the olfactory orientation of the Colorado potato beetle
+1987|40.0|2.0|Behavioral and Brain Sciences|Relationships between the superior colliculus and hippocampus: Neural and behavioral considerations
+1988|57.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|The computation of visible-surface representations
+1989|23.0|4.0|Journal of Materials Research|Stability of CsCl-type intermetallic compounds under ball milling
+1990|27.0|4.0|IEEE Journal of Quantum Electronics|Sensitive measurement of optical nonlinearities using a single beam
+1991|16.0|2.0|Physiological Entomology|Orientation of tsetse flies to wind, within and outside host odour plumes in the field
+1992|20.0|3.0|Marine Geophysical Researches|Morphology of the Blanco Transform Fault Zone-NE Pacific : implications for its tectonic evolution
+1993|74.0|3.0|Vision Research|Contour integration by the human visual system: evidence for a local "association field".
+1994|64.0|2.0|Journal of Neurophysiology|Rapid adaptation to Coriolis force perturbations of arm trajectory.
+1995|32.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Recovering the position and orientation of free-form objects from image contours using 3D distance maps
+1996|88.0|3.0|Nuclear Physics|Comments on string dynamics in six-dimensions
+1997|34.0|3.0|Ultrasound in Medicine and Biology|Performance of a miniature magnetic position sensor for three-dimensional ultrasound imaging
+1998|139.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Frontoparietal cortical networks for directing attention and the eye to visual locations: Identical, independent, or overlapping neural systems?
+1999|34.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Flexible syntactic matching of curves and its application to automatic hierarchical classification of silhouettes
+2000|185.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Navigation-related structural change in the hippocampi of taxi drivers
+2001|158.0|5.0|The Lancet|Qualitative research: standards, challenges, and guidelines
+2002|67.0|5.0|Pain|A comparison of placebo effects in clinical analgesic trials versus studies of placebo analgesia
+2003|148.0|5.0|Cell|Structural Basis for Phosphodependent Substrate Selection and Orientation by the SCFCdc4 Ubiquitin Ligase
+2004|77.0|5.0|European Polymer Journal|Melt mixing of polycarbonate with multiwalled carbon nanotubes: microscopic studies on the state of dispersion
+2005|298.0|7.0|Nature Neuroscience|Decoding the visual and subjective contents of the human brain
+2006|390.0|6.0|Journal of Vision|Optimal observer model of single-fixation oddity search predicts a shallow set-size function.
+2007|488.0|6.0|Journal of Vision|The effect of viewpoint on perceived visual roughness
+2008|676.0|7.0|Neuron|The Reorienting System of the Human Brain: From Environment to Theory of Mind
+2009|873.0|7.0|PLOS ONE|Imagined Self-Motion Differs from Perceived Self-Motion: Evidence from a Novel Continuous Pointing Method
+2010|702.0|7.0|Journal of Vision|Orientation tuning of contrast masking caused by motion streaks

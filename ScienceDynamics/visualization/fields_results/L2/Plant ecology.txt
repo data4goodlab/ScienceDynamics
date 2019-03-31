@@ -1,0 +1,55 @@
+----  Field Name Plant ecology: 
+----  Field Level 2.0: 
+----  Field Papers Number 4507:
+----  All time max citation paper: Predictive habitat distribution models in ecology, 2000, (2890.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|0|0.0|Ecological Monographs|Site factor variations and responses in temporary forest types in Northern Idaho.
+1950|0|0.0|Plant Ecology|Geobotanical research in Palestine 1938-1950.
+1954|1.0|1.0|Ecology|A study of some of the factors affecting the natural regeneration of Tamarack (Larix laricina) in Minnesota.
+1957|5.0|5.0|Physiologia Plantarum|Studies on the Nutrition of Forest Tree Seedlings. II Mineral Nutrition of Spruce
+1958|1.0|1.0|Botanical Review|The desert grassland a history of vegetational change and an analysis of causes
+1960|6.0|0.0|Botanical Review|Biological antagonisms due to phytotoxic root exudates.
+1964|5.0|1.0|Ecological Monographs|Some vegetation of the California coastal Redwood region in relation to gradients of moisture, nutrients, light, and temperature.
+1966|1.0|1.0|Ecological Monographs|Shifting cultivation, fire, and Pine forest in the Cordillera Central, Luzon, Philippines.
+1967|4.0|4.0|Euphytica|Application of diallel analysis to experiments in plant competition
+1970|1.0|0.5|Animal Production Science|Effects of variation in density and phosphate application on growth and composition of Townsville stylo (Stylosanthes humilis).
+1971|0|0.0|New Zealand Journal of Agricultural Research|The effects of fertilizer and lime on the competitive interactions of Rumex acetosella L. with Trifolium repens L. and Lolium sp.
+1972|6.0|6.0|Biological Conservation|The relevance of seral eutrophication and plant competition to the management of successional communities
+1973|9.0|0.0|Nature|Competitive Exclusion in Herbaceous Vegetation
+1974|7.0|7.0|Microbiology|The Occurrence of Mycorrhizas in Halophytes, Hydrophytes and Xerophytes, and of Endogone Spores in Adjacent Soils
+1976|6.0|6.0|Oecologia|Nectar Characteristics and food selection by hummingbirds
+1977|0|0.0|Weed Research|Effects of competition, herbicides and activated carbon on establishment of Australian grasses.
+1978|3.0|3.0|Weed Research|Competitive growth of Echium plantagineum L. and Trifolium subterraneum L.
+1979|26.0|14.0|Botanical Review|Pattern, Process, and Natural Disturbance in Vegetation
+1980|13.0|3.5|Advances in Agronomy|Competitive Aspects of the Grass-Legume Association
+1981|9.0|3.0|Agro-ecosystems|Invasion of Bromus tectorum L. into Western North America: An ecological chronicle
+1982|0|0.0|Theoretical and Applied Genetics|Some implications of a first-order model of inter-plant competition for the means and variances of complex mixtures
+1983|29.0|3.5|Quaternary Science Reviews|Dynamic Plant Ecology: the Spectrum of Vegetational Change in Space and Time
+1984|4.0|3.0|American Journal of Potato Research|The effect of in-row spacing and seedtype on the yield and quality of a potato cultivar
+1985|10.0|1.0|Agroforestry Systems|Classification of agroforestry systems.
+1986|8.0|1.0|Oecologia|Relationship of ion absorption to growth rate in taiga trees
+1987|38.0|1.0|The American Naturalist|Plant Succession: Life History and Competition
+1988|6.0|2.0|Oecologia|Response of Solidago canadensis clones to competition
+1989|13.0|5.0|Arctic|Regional Congruence of Vegetation and Summer Climate Patterns in the Queen Elizabeth Islands, Northwest Territories, Canada
+1990|54.0|3.0|Plant Physiology|Carbon and nitrogen economy of 24 wild species differing in relative growth rate.
+1991|21.0|4.0|Global Biogeochemical Cycles|Methane consumption and emission by Taiga
+1992|25.0|3.0|Journal of Vegetation Science|Assembly and response rules: two goals for predictive community ecology
+1993|35.0|4.0|Global Biogeochemical Cycles|Observations and modeling of biomass and soil organic matter dynamics for the grassland biome worldwide
+1994|36.0|3.0|New Phytologist|Molecular markers in plant ecology
+1995|49.0|4.0|Global Biogeochemical Cycles|A global land primary productivity and phytogeography model
+1996|73.0|5.0|Global Biogeochemical Cycles|BIOME3: An equilibrium terrestrial biosphere model based on ecophysiological constraints, resource availability, and competition among plant functional types
+1997|64.0|6.0|Journal of Geophysical Research|Seasonal variation of carbon dioxide, water vapor, and energy exchanges of a boreal black spruce forest
+1998|44.0|4.0|Plant and Soil|A leaf-height-seed (LHS) plant ecology strategy scheme
+1999|37.0|6.0|Proceedings of The Royal Society B: Biological Sciences|Plant root proliferation in nitrogenrich patches confers competitive advantage
+2000|278.0|6.0|Ecological Modelling|Predictive habitat distribution models in ecology
+2001|107.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|The evolutionary impact of invasive species
+2002|178.0|5.0|Nature|Biodiversity as a barrier to ecological invasion
+2003|496.0|7.0|Annual Review of Ecology, Evolution, and Systematics|The Population Biology of Invasive Species
+2004|85.0|5.0|Australian Systematic Botany|Use of nuclear genes for phylogeny reconstruction in plants
+2005|74.0|5.0|Annual Review of Environment and Resources|FEEDBACK IN THE PLANT-SOIL SYSTEM
+2006|117.0|8.0|Trends in Ecology and Evolution|Land-plant ecology on the basis of functional traits
+2007|227.0|7.0|Oikos|Let the concept of trait be functional!
+2008|434.0|9.0|Journal of Ecology|Facilitation in plant communities: the past, the present, and the future
+2009|1392.0|9.0|Journal of Geophysical Research|Remote sensing of vegetation 3D structure for biodiversity and habitat: Review and implications for lidar and radar spaceborne missions
+2010|180.0|7.0|Annual Review of Ecology, Evolution, and Systematics|Ecosystem Consequences of Biological Invasions

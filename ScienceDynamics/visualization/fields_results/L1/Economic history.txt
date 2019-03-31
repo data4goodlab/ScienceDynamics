@@ -1,0 +1,47 @@
+----  Field Name Economic history: 
+----  Field Level 1.0: 
+----  Field Papers Number 4390:
+----  All time max citation paper: Absorptive Capacity: A New Perspective on Learning and Innovation, 1990, (9897.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1961|1.0|1.0|Journal of Pharmaceutical Sciences|RADIOISOTOPES IN THE PHARMACEUTICAL SCIENCES AND INDUSTRY
+1970|1.0|1.0|BioScience|Some Thoughts on the Nuclear Agro-Industrial Complex.
+1971|20.0|0.0|Environmental Research|Hazards of Mercury. Special Report to the Secretary's Pesticide Advisory Committee, Department of Health, Education, and Welfare, November 1970
+1972|0|0.0|Journal of Aerosol Science|A note on the measurement of radioactive aerosols
+1974|3.0|1.5|Occupational and Environmental Medicine|Impairment of nasal mucociliary clearance in woodworkers in the furniture industry
+1975|0|0.0|Journal of Colloid and Interface Science|Adsorption and catalysis at the solid/sulfur dioxide interface in the atmosphere. An examination of statistical data
+1976|4.0|0.5|Long Range Planning|Managerial Attitudes Towards Computer Models for Planning and Control.
+1977|3.0|1.0|Journal of Regional Science|Shift-share analysis revisited: the allocation effect and the stability of regional structure
+1978|6.0|1.0|Journal of Environmental Economics and Management|Firm behavior under imperfectly enforceable pollution standards and taxes
+1979|5.0|3.0|Environmental Research|Duplicate diet study on fishing communities in the United Kingdom: Mercury exposure in a critical group
+1980|12.0|4.0|Physics Today|Analysis of Thin Films and Interfaces.
+1981|12.0|1.5|Journal of Social Issues|Nonauditory Effects of Noise on Behavior and Health
+1982|8.0|3.0|Journal of Social Issues|Black Residential Mobility: Trends and Characteristics
+1983|7.0|2.0|Journal of Economic Literature|ON THE EXISTENCE OF A COMPETITIVE-EQUILIBRIUM - 1930-1954
+1984|59.0|1.5|Demography|Children and the elderly: Divergent paths for Americas dependents
+1985|6.0|0.5|Journal of Environmental Economics and Management|Assessing the benefits of alternative ozone standards on agriculture: the role of response information
+1986|37.0|1.0|Administrative Science Quarterly|Technological Discontinuities and Organizational Environments.
+1987|13.0|1.0|Administrative Science Quarterly|Leading Workers to Lead Themselves: The External Leadership of Self-Managing Work Teams.
+1988|7.0|1.0|American Journal of Industrial Medicine|Leukemias and occupation in Sweden: A registrybased analysis
+1989|87.0|1.0|The Economic Journal|Competing Technologies, Increasing Returns, and Lock-In by Historical Events
+1990|106.0|2.0|Administrative Science Quarterly|Absorptive Capacity: A New Perspective on Learning and Innovation
+1991|26.0|1.0|Science|Nylon Production: An Unknown Source of Atmospheric Nitrous Oxide
+1992|17.0|3.0|Journal of Chemical Physics|Predicted bond energies in peroxides and disulfides by density functional methods
+1993|39.0|3.0|Administrative Science Quarterly|Tightening the iron cage: Concertive control in self-managing teams
+1994|44.0|0.0|Environmental Toxicology and Chemistry|Survey of receivingwater environmental impacts associated with discharges from pulp mills: 2. Gonad size, liver size, hepatic erod activity and plasma sex steroid levels in white sucker
+1995|37.0|2.0|Administrative Science Quarterly|Interdependence and Group Effectiveness
+1996|17.0|1.0|Human Ecology|The Ecological Basis of Hunter-Gatherer Subsistence in African Rain Forests: The Mbuti of Eastern Zaire
+1997|60.0|2.0|Microbiology and Molecular Biology Reviews|Microbial production of surfactants and their commercial potential.
+1998|57.0|1.0|Proceedings of the National Academy of Sciences of the United States of America|Climate forcings in the Industrial era
+1999|48.0|5.0|The Review of Economic Studies|Market share, market value and innovation in a panel of British manufacturing firms
+2000|43.0|3.0|Safety Science|Measuring safety climate: identifying the common features
+2001|52.0|2.0|Journal of Clinical Microbiology|Microsatellite Typing as a New Tool for Identification of Saccharomyces cerevisiae Strains
+2002|114.0|4.0|Journal of Economic Perspectives|Transition Economies: Performance and Challenges
+2003|265.0|3.0|Nucleic Acids Research|Evaluation of gene expression measurements from commercial microarray platforms
+2004|59.0|3.0|Chemosphere|The European Dioxin Air Emission Inventory ProjectFinal Results
+2005|71.0|5.0|World Bank Economic Review|The Varieties of Resource Experience: Natural Resource Export Structures and the Political Economy of Economic Growth
+2006|93.0|3.0|Conservation Biology|Globalization of the Amazon Soy and Beef Industries: Opportunities for Conservation
+2007|101.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|82,000-year-old shell beads from North Africa and implications for the origins of modern human behavior
+2008|114.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Germ-line mutations, DNA damage, and global hypermethylation in mice exposed to particulate air pollution in an urban/industrial location.
+2009|205.0|3.0|Water International|Appraisal and Assessment of World Water Resources
+2010|273.0|3.0|Ecological Economics|The history of ecosystem services in economic theory and practice: From early notions to markets and payment schemes

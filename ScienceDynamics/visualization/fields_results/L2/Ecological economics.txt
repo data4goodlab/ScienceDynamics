@@ -1,0 +1,33 @@
+----  Field Name Ecological economics: 
+----  Field Level 2.0: 
+----  Field Papers Number 3665:
+----  All time max citation paper: Breaking the Link between Environmental Degradation and Oil Palm Expansion: A Method for Enabling Sustainable Oil Palm Expansion, 2013, (1425.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1984|4.0|4.0|Biochemical and Biophysical Research Communications|Influence of ethanol on fatty acid composition of phospholipids in cultured neurons
+1985|4.0|4.0|Futures|The new post-industrial state
+1986|7.0|4.5|The Journal of Allergy and Clinical Immunology|Effect of respiratory and other virus infections on IgE immunoregulation
+1987|12.0|12.0|Ecological Modelling|Foundations of an ecological economics
+1988|3.0|3.0|Environmental Management|Self-organization theories and environmental management: The case of South Moresby, Canada
+1989|13.0|8.0|Ecological Economics|Historical roots for ecological economics -- Biophysical versus allocative approaches
+1990|8.0|5.5|Annals of The Association of American Geographers|Restructured Regions and Families: The Feminization of Poverty in the U.S.
+1991|33.0|3.0|Journal of Dairy Science|Effect of Feed on the Composition of Milk Fat
+1992|42.0|3.5|Ecological Economics|Towards an ecological economics of sustainability
+1993|14.0|2.0|BioScience|Modeling complex ecological economic systems
+1994|26.0|2.0|Ecological Economics|The worth of a songbird: ecological economics as a post-normal science
+1995|45.0|3.0|Ecological Economics|Preferences, information and biodiversity preservation
+1996|23.0|3.0|Population and Environment|Revisiting carrying capacity: area-based indicators of sustainability.
+1997|44.0|4.0|Ecological Economics|Spatial landscape indices in a hedonic framework: an ecological economics analysis using GIS
+1998|60.0|6.0|Journal of Dairy Science|Trans-Octadecenoic Acids and Milk Fat Depression in Lactating Dairy Cows1
+1999|43.0|4.0|World Bank Economic Review|Genuine Savings Rates in Developing Countries
+2000|177.0|5.0|Journal of Ecology|Fluctuating resources in plant communities: a general theory of invasibility
+2001|44.0|5.0|Ecological Economics|A modified ecological footprint method and its application to Australia
+2002|111.0|8.0|Ecological Economics|A typology for the classification, description and valuation of ecosystem functions, goods and services
+2003|131.0|8.0|Annual Review of Ecology, Evolution, and Systematics|Urban Ecological Systems: Linking Terrestrial Ecological, Physical, and Socioeconomic Components of Metropolitan Areas1
+2004|112.0|8.0|Research Policy|The market economy, and the scientific commons
+2005|262.0|10.0|Bioinformatics|PSORTb v.2.0: Expanded prediction of bacterial protein subcellular localization and insights gained from comparative proteome analysis
+2006|93.0|7.0|Ecological Economics|Allocating Ecological Footprints to Final Consumption Categories with Input-Output Analysis.
+2007|268.0|9.0|IEEE Computer|Steps toward a science of service systems
+2008|423.0|11.0|Ecological Economics|Designing payments for environmental services in theory and practice: An overview of the issues
+2009|378.0|8.0|Journal of Environmental Management|Recent developments in Life Cycle Assessment
+2010|1401.0|9.0|PLOS ONE|The Spatial Expansion and Ecological Footprint of Fisheries (1950 to Present)

@@ -1,0 +1,58 @@
+----  Field Name Phonology: 
+----  Field Level 2.0: 
+----  Field Papers Number 14552:
+----  All time max citation paper: Building a large annotated corpus of English: the penn treebank, 1993, (2171.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1941|0|0.0|American Journal of Botany|The species concept in Fusarium with reference to section Martiella.
+1945|2.0|2.0||Additional ornamental flowering plants naturally infected with California Aster yellows.
+1950|0|0.0|American Journal of Botany|Arachis hypogaea. Aerial flower and subterranean fruit.
+1957|8.0|8.0|The American Naturalist|Self fertilization and population variability in the higher plants.
+1960|11.0|6.5|Virology|An analytical approach to the problems of phage recombination and reproduction. I. Multiplicity reactivation and the nature of radiation damages.
+1963|21.0|1.0|Journal of Molecular Biology|The alkaline transition of BU-containing DNA and its bearing on the replication of DNA
+1965|15.0|7.5|Journal of Molecular Biology|Effects of cupric ions on thermal denaturation of nucleic acids
+1966|23.0|13.0|Journal of Molecular Biology|Cohesive sites on the deoxyribonucleic acids from several temperate coliphages
+1967|3.0|0.0|International Journal of Solids and Structures|Random vibration of linear structures
+1968|4.0|2.5|Attention Perception & Psychophysics|The recognition of geometrically transformed text
+1969|3.0|3.0|Virology|Electron microscopic evidence for the presence of Barley stripe mosaic virus in cells of Barley embryos.
+1970|24.0|3.0|Cognitive Psychology|The grammars of speech and language
+1971|14.0|1.0|Child Development|Consonant Cue Perception by Twenty- to Twenty-Four-Week-Old Infants.
+1972|8.0|1.0|Journal of Verbal Learning and Verbal Behavior|Two factors in perceptual segmentation of speech
+1973|23.0|2.0||Production Systems: Models of Control Structures
+1974|21.0|3.0|Journal of Verbal Learning and Verbal Behavior|Comprehension and semantic flexibility
+1975|21.0|2.0|Journal of Verbal Learning and Verbal Behavior|Understanding what is meant from what is said: A study in conversationally conveyed requests
+1976|30.0|2.0|IEEE Transactions on Software Engineering|Abstraction and Verification in Alphard: Introduction to Language and Methodology
+1977|7.0|1.5|Language Learning|ATTITUDES AND ATTAINED PROFICIENCY IN ESL: A SOCIOLINGUISTIC STUDY OF NATIVE SPEAKERS OF CHINESE IN THE UNITED STATES
+1978|41.0|4.0|Cognition|The sausage machine: A new two-stage parsing model
+1979|46.0|5.0|Cognition|The cognitive and neurological basis of developmental dyslexia: A theoretical framework and review
+1980|63.0|2.0|Cognition|The Temporal Structure of Spoken Language Understanding.
+1981|37.0|2.0|Computers & Structures|A FAST INCREMENTAL/ITERATIVE SOLUTION PROCEDURE THAT HANDLES SNAP-THROUGH
+1982|46.0|2.0|American Psychologist|On Finding that Speech Is Special.
+1983|48.0|1.0|Cognitive Science|StructureMapping: A Theoretical Framework for Analogy *
+1984|23.0|2.0|Language in Society|Language style as audience design
+1985|32.0|1.0|Cell|Two Lyt-2 polypeptides arise from a single gene by alternative splicing patterns of mRNA
+1986|35.0|3.0|Cell|Organization, structure and symbiotic function of Rhizobium meliloti nodulation genes determining host specificity for alfalfa.
+1987|67.0|2.0|Journal of Plant Physiology|Developing Cell and Tissue Culture Systems for the Improvement of Cereal and Grass Crops
+1988|89.0|3.0|Reading Research Quarterly|Effects of an Extensive Program for Stimulating Phonological Awareness in Preschool Children.
+1989|275.0|3.0|Psychological Review|A Distributed, Developmental Model of Word Recognition and Naming.
+1990|176.0|3.0|neural information processing systems|The cascade-correlation learning architecture
+1991|86.0|3.0|Cognition|Implementations are not Conceptualizations: Revising the Verb Learning Model
+1992|156.0|2.0|ACM Computing Surveys|Symbolic Boolean manipulation with ordered binary-decision diagrams
+1993|87.0|3.0|Computational Linguistics|Building a large annotated corpus of English: the penn treebank
+1994|70.0|2.0|Developmental Psychology|Development of Reading-Related Phonological Processing Abilities: New Evidence of Bidirectional Causality from a Latent Variable Longitudinal Study.
+1995|79.0|3.0|The New England Journal of Medicine|Mutations in the genes for cardiac troponin T and alpha-tropomyosin in hypertrophic cardiomyopathy
+1996|135.0|3.0|Human Molecular Genetics|Human Y Chromosome Azoospermia Factors (AZF) Mapped to Different Subregions in Yq11
+1997|179.0|4.0|Nature|Presenilin 1 is required for Notch 1 and Dll1 expression in the paraxial mesoderm
+1998|138.0|3.0|Nature|Evidence for evolutionary conservation of sex-determining genes
+1999|259.0|5.0|Nature|Cell transformation by the superoxide-generating oxidase Mox1
+2000|171.0|6.0|Nature|B and C floral organ identity functions require SEPALLATA MADS-box genes
+2001|213.0|5.0|Nature|The RNA component of telomerase is mutated in autosomal dominant dyskeratosis congenita.
+2002|326.0|6.0|Nature Genetics|Fundamentals of experimental design for cDNA microarrays
+2003|317.0|9.0|Nature|Recurrent de novo point mutations in lamin A cause Hutchinson|[ndash]|Gilford progeria syndrome
+2004|223.0|8.0|Journal of Child Psychology and Psychiatry|Specific Reading Disability (Dyslexia): What Have We Learned in the Past Four Decades?.
+2005|329.0|8.0|Psychological Bulletin|Reading acquisition, developmental dyslexia, and skilled reading across languages: a psycholinguistic grain size theory.
+2006|155.0|8.0|Survey of Ophthalmology|The Role of Inflammation in the Pathogenesis of Age-related Macular Degeneration
+2007|226.0|7.0|The Modern Language Journal|On Discourse, Communication, and (Some) Fundamental Concepts in SLA Research.
+2008|238.0|6.0|Journal of Bone and Mineral Research|Targeted Deletion of the Sclerostin Gene in Mice Results in Increased Bone Formation and Bone Strength
+2009|167.0|7.0|Nature|Human DAZL, DAZ and BOULE genes modulate primordial germ-cell and haploid gamete formation
+2010|302.0|6.0|Bioresource Technology|Hemicelluloses for fuel ethanol: a review.

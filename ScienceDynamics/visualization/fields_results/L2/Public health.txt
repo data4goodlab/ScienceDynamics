@@ -1,0 +1,89 @@
+----  Field Name Public health
+----  Field Level 2.0
+----  Field Papers Number 126663
+----  All time max citation paper Regression Models and Life-Tables, 1992, (11495.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1921|0|0.0|Annals of The American Academy of Political and Social Science|Fundamental Factors in Infant Mortality
+1922|0|0.0|Parasitology|Recent progress in our knowledge of Parasitic Worms and their relation to the public health
+1927|5.0|5.0|American Heart Journal|Heart disease from the point of view of the public health
+1928|0|0.0|Journal of Hygiene|The Decline in Infant Mortality
+1929|0|0.0|American Journal of Public Health|Selected Public Health Bibliography
+1930|0|0.0|Journal of The American Pharmaceutical Association|The teaching of public health
+1932|0|0.0|Public Health|Is pasteurisation the solution of the milk problem ?
+1933|0|0.0|Journal of Chemical Technology & Biotechnology|The chemist and the public health
+1934|2.0|1.0|Journal of Dairy Science|Laboratory Methods for the Detection of Milk from Cows Infected with Mastitis
+1935|7.0|3.5|Parasitology|A Description of a Necrotic Virus Disease affecting Tobacco and Other Plants.
+1936|0|0.0|Digestive Diseases and Sciences|On the possible relation of bacillary dysentery to non-specific ulcerative colitis
+1937|2.0|1.0|The Journal of Pediatrics|A shift in the infant mortality rate in Durham county, North Carolina
+1938|2.0|0.5|The Lancet|THE CHEMOTHERAPY OF BACTERIAL INFECTIONS
+1939|3.0|2.0|Digestive Diseases and Sciences|Gross hemorrhage as a complication of peptic ulcer
+1940|2.0|0.0|JAMA Pediatrics|Relation of dental caries in rural children to sex, age and environment.
+1942|4.0|2.5|Parasitology|The inactivation of plant viruses by radiations.
+1943|2.0|1.0|JAMA Pediatrics|EFFECTS OF DISEASE ON NUTRITION: I. ABSORPTION, STORAGE AND UTILIZATION OF VITAMIN A IN THE PRESENCE OF DISEASE
+1945|0|0.0|American Journal of Surgery|Acute cholecystitis: A comparative study of the mortality rate after immediate and delayed operations
+1946|3.0|1.0|JAMA Internal Medicine|SULFADIAZINE AND PENICILLIN FOR HEMOLYTIC STREPTOCOCCUS INFECTIONS OF THE UPPER RESPIRATORY TRACT: An Evaluation in Tonsillitis, Nasopharyngitis and Scarlet Fever
+1947|2.0|1.0|Journal of Genetics|Observed spontaneous mutation rates in relation to experimental technique
+1948|1.0|0.0|Annals of Applied Biology|Observations on a Virus Disease of certain Crucifers in Trinidad.
+1949|1.0|0.5|The New England Journal of Medicine|Public-Health Aspects of the Virus Encephalitides
+1950|6.0|1.0|Microbiology|The Mechanical Transmission and some Properties of Potato Paracrinkle Virus
+1951|3.0|0.0|American Heart Journal|Reduction of mortality rate in coronary atherosclerosis by a low cholesterol-low fat diet
+1952|1.0|0.0|Biometrics|INVERSE, MULTIPLE AND SEQUENTIAL SAMPLE CENSUSES
+1953|1.0|1.0|Digestive Diseases and Sciences|Public health aspects of the new insecticides
+1954|4.0|3.0|Annals of Applied Biology|THE DIFFERENT DISTRIBUTION OF TWO BRASSICA VIRUSES IN THE PLANT AND ITS INFLUENCE ON SPREAD IN THE FIELD
+1955|4.0|1.0|Microbiology|Biochemical Classification of Proteus and Providence Cultures
+1956|5.0|1.5||Group A Beta Hemolytic Streptococci in relation to Rheumatic Fever. Study of School Children in Miami, Fla.
+1957|12.0|1.0|Virology|Transduction and segregation in Escherichia coli K12
+1958|14.0|2.0|Annals of Applied Biology|FURTHER STUDIES ON RASPBERRY RINGSPOT AND TOMATO BLACK RING, SOILBORNE VIRUSES THAT AFFECT RASPBERRY
+1959|26.0|1.0|Virology|Studies of the biosynthesis of protein and ribonucleic acid in HeLa cells infected with poliovirus
+1960|21.0|1.5|Archives of Biochemistry and Biophysics|Interaction between myosin and its substrates
+1961|15.0|1.0|Journal of Dairy Science|Method for Removing Cationic Radionuclides from Milk
+1962|10.0|1.0|General and Comparative Endocrinology|Electrophysiology of caudal neurosecretory cells in the skate and fluke
+1963|29.0|1.0|The Lancet|FARMER'S LUNG THERMOPHILIC ACTINOMYCETES AS A SOURCE OF "FARMER'S LUNG HAY" ANTIGEN
+1964|15.0|2.5|Journal of Dairy Science|Ion Exchange Processes for Removing Radioactive Contamination from Milk1
+1965|25.0|2.0|Journal of Chronic Diseases|The epidemiology of coronary heart disease: a review.
+1966|28.0|2.0|Brain Research|Chemical studies on memory fixation in goldfish
+1967|48.0|2.0|Virology|A phage P22 gene controlling integration of prophage
+1968|23.0|2.0|Virology|Defective phage formation by lysogens of integration deficient phage P22 mutants
+1969|31.0|2.0|Brain Research|Lactosylceramide galactosidase: Comparison with other sphingolipid hydrolases in developing rat brain
+1970|28.0|2.0|Archives of Biochemistry and Biophysics|The biosynthesis by brain microsomes of cerebrosides containing nonhydroxy fatty acids
+1971|17.0|2.0|The Lancet|SERUM-LIPIDS IN WOMEN ON ORAL CONTRACEPTIVES
+1972|30.0|3.0|Journal of Epidemiology and Community Health|Hypothesis: anencephaly and spina bifida are usually preventable by avoidance of a specific but unidentified substance present in certain potato tubers.
+1973|30.0|2.0|The Journal of Pediatrics|Host resistance factors in human milk
+1974|21.0|2.0|Immunogenetics|Evidence for a third, Ir -associated histocompatibility region in the H-2 complex of the mouse
+1975|18.0|2.0|Water Research|Characterization of trace metal species and measurement of trace metal stability constants by electrochemical techniques
+1976|48.0|2.0|Archives of Biochemistry and Biophysics|Studies on hydroperoxide-dependent substrate hydroxylation by purified liver microsomal cytochrome P -450
+1977|123.0|3.0|American Psychologist|Toward an Experimental Ecology of Human Development.
+1978|53.0|2.0|In Vitro Cellular & Developmental Biology  Plant|Selection and characterization of bovine aortic endothelial cells.
+1979|44.0|2.0|Physiology & Behavior|Individual behavioral responses to hypothalamic stimulation persist despite destruction of tissue surrounding electrode tip
+1980|72.0|2.0|Brain Research Reviews|Hippocampal rhythmic slow activity (RSA, theta): A critical analysis of selected studies and discussion of possible species-differences
+1981|85.0|3.0|The Lancet|Outcome for infants of very low birthweight: survey of world literature.
+1982|75.0|2.0|Peptides|Dynorphin immunocytochemistry in the rat central nervous system
+1983|104.0|2.0|The Lancet|PERTUSSIS: HERD IMMUNITY AND VACCINATION COVERAGE IN ST LUCIA
+1984|57.0|2.0|Personality and Individual Differences|Subfertility among the very intelligent: An examination of the American Mensa
+1985|130.0|2.0|The New England Journal of Medicine|Five-year results of a randomized clinical trial comparing total mastectomy and segmental mastectomy with or without radiation in the treatment of breast cancer.
+1986|127.0|2.0|Molecular Brain Research|Nerve growth factor increases choline acetyltransferase activity in developing basal forebrain neurons
+1987|90.0|2.0|JAMA|Evaluation of heterosexual partners children and household contacts of adults with AIDS.
+1988|127.0|2.0|Brain Research|Normalization of extracellular dopamine in striatum following recovery from a partial unilateral 6-OHDA lesion of the substantia nigra: a microdialysis study in freely moving rats
+1989|118.0|2.0|Neurobiology of Aging|Excitatory amino acids and Alzheimer's disease.
+1990|107.0|3.0|Brain Research Reviews|Physiological and pathophysiological roles of excitatory amino acids during central nervous system development
+1991|79.0|2.0|Mutation Research|Endogenous mutagens and the causes of aging and cancer.
+1992|1801.0|2.0||Regression Models and Life-Tables
+1993|310.0|2.0|Brain Research Reviews|The neural basis of drug craving: An incentive-sensitization theory of addiction
+1994|136.0|3.0|JAMA|Forecasting the effects of health reform on US physician workforce requirement. Evidence from HMO staffing patterns.
+1995|225.0|3.0|Science|Massive cell death of immature hematopoietic cells and neurons in Bcl-x-deficient mice
+1996|141.0|4.0|The Lancet|Prevalence and cost of alternative medicine in Australia
+1997|229.0|4.0|The Lancet|Global mortality disability and the contribution of risk factors: Global Burden of Disease Study.
+1998|256.0|5.0|Current Biology|Reconstitution of telomerase activity in normal human cells leads to elongation of telomeres and extended replicative life span
+1999|672.0|6.0|The Journal of Pathology|Human papillomavirus is a necessary cause of invasive cervical cancer worldwide.
+2000|515.0|6.0|Nature|Oxidants, oxidative stress and the biology of ageing
+2001|759.0|7.0|Critical Care Medicine|Epidemiology of severe sepsis in the United States: analysis of incidence, outcome, and associated costs of care.
+2002|512.0|8.0|JAMA|Hospital nurse staffing and patient mortality, nurse burnout, and job dissatisfaction.
+2003|811.0|8.0|Proceedings of the National Academy of Sciences of the United States of America|Repeated observation of breast tumor subtypes in independent gene expression data sets
+2004|539.0|8.0|Obesity Reviews|Obesity in children and young people: a crisis in public health
+2005|806.0|8.0||A preliminary study
+2006|1535.0|8.0|Nature|Global variation in copy number in the human genome
+2007|1209.0|9.0|Annals of Oncology|Estimates of the cancer incidence and mortality in Europe in 2006.
+2008|1227.0|9.0|Ecology|TOWARD A METABOLIC THEORY OF ECOLOGY
+2009|1356.0|9.0|The New England Journal of Medicine|Dabigatran versus warfarin in patients with atrial fibrillation.
+2010|1338.0|8.0|PLOS ONE|The prevalence of sexually transmitted infections in Papua New Guinea: a systematic review and meta-analysis.

@@ -1,0 +1,36 @@
+----  Field Name Criminal law: 
+----  Field Level 2.0: 
+----  Field Papers Number 1526:
+----  All time max citation paper: Causation and Effectuation: Toward a Theoretical Shift from Economic Inevitability to Entrepreneurial Contingency, 2001, (705.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1975|0|0.0|Journal of Social Issues|Research Directions Suggested by the ACLU
+1979|2.0|2.0|Social Problems|The Coming Redefinitions of Crime: An Anarchist Perspective.
+1981|7.0|3.5|American Journal of Medical Genetics|The genetic dynamics of disease
+1983|3.0|3.0|Communication Monographs|Methodological Issues in Legal Communication Research: What Can Trial Simulations Tell Us?.
+1985|7.0|4.5|Journal of Social Issues|The Role of Experience and Contact in the Recognition of Faces Of Own and OtherRace Persons
+1986|6.0|6.0|Journal of Plant Physiology|Cadmium-Induced Decrease of Water Stress Resistance in Bush Bean Plants (Phaseolus vulgaris L. cv. Contender) I. Effects of Cd on Water Potential, Relative Water Content, and Cell Wall Elasticity
+1987|7.0|6.0|Ecological Entomology|Causation, fitness effects and morphology of macropterism in Chorthippus parallelus (Orthoptera: Acrididae)
+1988|4.0|1.0|Social Forces|Murder and Capital Punishment in the Evolving Context of the Post-Furman Era
+1989|0|0.0|Journal of Medical Ethics|Legal AIDS: implications of AIDS and HIV for British and American law.
+1990|2.0|2.0|Social Philosophy & Policy|Getting Even: The Role of the Victim
+1991|12.0|2.0|Brain Research|Elemental composition and water content of myelinated axons and glial cells in rat central nervous system
+1992|23.0|4.5|Criminology|THE NEW PENOLOGY: NOTES ON THE EMERGING STRATEGY OF CORRECTIONS AND ITS IMPLICATIONS*
+1993|6.0|2.0|Journal of Neurochemistry|Ganglioside Treatment Modifies Abnormal Elemental Composition in Peripheral Nerve Myelinated Axons of Experimentally Diabetic Rats
+1994|32.0|3.5|Social Science & Medicine|Religion and health: is there an association, is it valid, and is it causal?
+1995|87.0|6.0|Behavioral and Brain Sciences|Self-control: Beyond commitment
+1996|9.0|3.0||A conceptual framework for classification of construction works
+1997|11.0|2.0|Science of The Total Environment|Toxic trace element reference levels in blood and urine: influence of gender and lifestyle factors
+1998|16.0|1.0|Journal of Monetary Economics|Money and output viewed through a rolling window
+1999|37.0|2.0|Statistical Science|Confounding and Collapsibility in Causal Inference
+2000|14.0|1.0|Journal of Law Medicine & Ethics|Defining and Describing Benefit Appropriately in Clinical Trials
+2001|44.0|1.5|Academy of Management Review|Causation and Effectuation: Toward a Theoretical Shift from Economic Inevitability to Entrepreneurial Contingency
+2002|77.0|2.5|Cardiovascular Research|Mitochondrial K(ATP) channels: role in cardioprotection.
+2003|58.0|4.0|Contributions to Mineralogy and Petrology|Dating high-grade metamorphism: constraints from rare-earth elements in zircon and garnet
+2004|157.0|4.0|Psychological Review|A Theory of Causal Learning in Children: Causal Maps and Bayes Nets.
+2005|45.0|5.0||Unravelling the SES health connection
+2006|58.0|4.0|Biomaterials|The response of osteoblasts to nanocrystalline silicon-substituted hydroxyapatite thin films
+2007|190.0|3.0|Journal of Financial Economics|Private credit in 129 countries
+2008|90.0|3.0|Cognition|Crime and punishment: Distinguishing the roles of causal and intentional analyses in moral judgment
+2009|49.0|3.0|Cognition & Emotion|Theories of emotion causation: A review
+2010|142.0|2.0|Review of Sociology|Causal Mechanisms in the Social Sciences

@@ -1,0 +1,61 @@
+----  Field Name Computer vision: 
+----  Field Level 1.0: 
+----  Field Papers Number 116498:
+----  All time max citation paper: Distinctive Image Features from Scale-Invariant Keypoints, 2004, (9721.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1951|3.0|3.0|Journal of Applied Physics|Scattering Phenomena in Electron Microscope Image Formation
+1954|0|0.0|Transactions of The Ire Professional Group on Circuit Theory|The Approximation Problem of Network Synthesis
+1957|14.0|3.0|Journal of Chemical Physics|Nuclear Magnetic Relaxation in Polytetrafluoroethylene and Polyethylene
+1959|6.0|3.0|Journal of Applied Physics|New Mechanism of Noise Reduction in Electron Beams
+1960|4.0|4.0|Journal of Physics and Chemistry of Solids|Anisotropic diffusion of copper into bismuth telluride
+1961|3.0|3.0|Journal of Applied Physics|Transmission Electron Microscope Observations of Magnetic Domain Walls
+1962|2.0|1.5|Proceedings of The Institute of Radio Engineers|From Circuit Theory to System Theory
+1963|0|0.0|IEEE Transactions on Circuit Theory|The Role of Network Theory in Solid-State Electronics-Accomplishments and Future Challenges
+1964|9.0|3.0|Journal of Chemical Physics|Alternating Linewidths and Related Phenomena in the Electron Spin Resonance Spectra of NitroSubstituted Benzene Anions
+1965|13.0|4.0|Journal of Chemical Physics|FLUORINE NMR SPECTRA AND CONFORMATIONAL ISOMERIZATION OF 1,1-DIFLUOROCYCLOHEXANE.
+1966|55.0|3.0|Journal of Geophysical Research|Observations of the solar wind during the flight of Imp 1
+1967|28.0|2.0|Journal of Geophysical Research|Observations of the Earth's magnetic tail and neutral sheet at 510,000 kilometers by Explorer 33
+1968|8.0|1.0|Vision Research|Spatial sine-wave responses of the human visual system.
+1969|53.0|2.0|ACM Computing Surveys|Picture Processing by Computer
+1970|7.0|1.0|Biological Cybernetics|Models of the processing of quantum signals by the human peripheral retina
+1971|21.0|2.0|Science|Color- and Edge-Sensitive Channels in the Human Visual System: Tuning for Orientation
+1972|23.0|1.5|Vision Research|Spatial frequency channels in the human visual system: Effects of luminance and pattern drift rate
+1973|39.0|2.0|Vision Research|Meridional amblyopia: Evidence for modification of the human visual system by early visual experience
+1974|32.0|2.0|Journal of Geophysical Research|The protons and electrons trapped in the Jovian dipole magnetic field region and their interaction with Io
+1975|20.0|2.0|Journal of Geophysical Research|Vertical structure of the VHF backscattering region in the equatorial electrojet and the gradient drift instability
+1976|29.0|1.5|Pattern Recognition|Approaches to chinese character recognition
+1977|16.0|2.0|Journal of Geophysical Research|Seismology on Mars
+1978|14.0|2.0|Communications of The ACM|Using synthetic images to register real images with surface models
+1979|50.0|2.0|Biological Cybernetics|EEG Analysis Gives Model of Neuronal Template-Matching Mechanism for Sensory Search with Olfactory Bulb*
+1980|24.0|2.0|Journal of Chemical Physics|Anisotropic rotational diffusion studied by passage saturation transfer electron paramagnetic resonance
+1981|22.0|2.0|Pattern Recognition|Generalizing the Hough transform to detect arbitrary shapes
+1982|71.0|2.0|Nature|Flow-field variables trigger landing in flies
+1983|107.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|On the Foundations of Relaxation Labeling Processes
+1984|100.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images
+1985|126.0|2.0|Vision Research|Contour, color and shape analysis beyond the striate cortex.
+1986|160.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A Computational Approach to Edge Detection
+1987|125.0|3.0|Artificial Intelligence|Three-dimensional object recognition from single two-dimensional images
+1988|139.0|3.0|International Journal of Computer Vision|Snakes : Active contour models
+1989|305.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A theory for multiresolution signal decomposition: the wavelet representation
+1990|197.0|3.0|Proceedings of the IEEE|Networks for approximation and learning
+1991|101.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|The design and use of steerable filters
+1992|130.0|2.0|IEEE Transactions on Information Theory|Singularity detection and processing with wavelets
+1993|156.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Face recognition: features versus templates
+1994|248.0|3.0|Signal Processing|Independent component analysis, a new concept?
+1995|207.0|3.0|Proceedings of the IEEE|Human and machine recognition of faces: a survey
+1996|188.0|3.0|Medical Image Analysis|Deformable models in medical image analysis: a survey
+1997|179.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Probabilistic visual learning for object representation
+1998|258.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Neural network-based face detection
+1999|237.0|4.0|international conference on computer graphics and interactive techniques|A morphable model for the synthesis of 3D faces
+2000|560.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Content-based image retrieval at the end of the early years
+2001|374.0|4.0|IEEE Personal Communications|Pervasive computing: vision and challenges
+2002|967.0|5.0|Genome Biology|Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes
+2003|1090.0|5.0|ACM Computing Surveys|Face recognition: A literature survey
+2004|3212.0|4.0|International Journal of Computer Vision|Distinctive Image Features from Scale-Invariant Keypoints
+2005|551.0|4.0|Nucleic Acids Research|Real-time quantification of microRNAs by stemloop RTPCR
+2006|900.0|4.0|computer vision and pattern recognition|Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories
+2007|472.0|3.0|Journal of Vision|The perception of suprathreshold contrast and fast adaptive filtering
+2008|963.0|3.0|Computer Vision and Image Understanding|Speeded-Up Robust Features (SURF)
+2009|1460.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Robust Face Recognition via Sparse Representation
+2010|1355.0|4.0|Genome Biology|Differential expression analysis for sequence count data

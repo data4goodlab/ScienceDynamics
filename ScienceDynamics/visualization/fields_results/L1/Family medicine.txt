@@ -1,0 +1,42 @@
+----  Field Name Family medicine: 
+----  Field Level 1.0: 
+----  Field Papers Number 2495:
+----  All time max citation paper: Factors Considered Important at the End of Life by Patients, Family, Physicians, and Other Care Providers, 2000, (876.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1934|1.0|1.0|Digestive Diseases and Sciences|Diabetic coma in children
+1969|3.0|3.0|JAMA|A Study of Family Medicine in Upstate New York
+1972|1.0|1.0|International Journal of Psychiatry in Medicine|Chronic factitious fever in puberty and adolescence: a diagnostic challenge to the family physician.
+1973|0|0.0|Medical Education|Teaching family medicine at the Rotterdam Medical Faculty
+1975|6.0|6.0|The New England Journal of Medicine|Family Medicine in Perspective
+1978|12.0|2.0|Culture, Medicine and Psychiatry|"Feed a cold, starve a fever"--folk models of infection in an English suburban community, and their relation to medical treatment.
+1981|5.0|1.0|JAMA|Benzodiazepine Prescribing in a Family Medicine Center
+1982|3.0|2.0|Health Policy and Education|Improving the selection of family medicine residents through development of multi-dimensional policy models
+1983|4.0|1.0|JAMA|Family Medicine Research: Status at the End of the First Decade
+1984|7.0|4.0|Social Science & Medicine|What is a successful doctor-patient interview? a study of interactions and outcomes
+1985|8.0|5.0|Social Science & Medicine|Primary medical care and coping with stress and disease: The inclination of primary care practitioners to demonstrate affective behavior
+1986|2.0|1.0|Social Science & Medicine|The plight of primary medical care: The problematics of 'committedness' to the practice
+1987|8.0|1.5|JAMA Internal Medicine|Drug-Related Admissions to a Family Medicine Inpatient Service
+1988|36.0|3.0|JAMA|A Randomized Trial of a Family Physician Intervention for Smoking Cessation
+1989|20.0|7.0|JAMA|Public Policy and the Supply of Primary Care Physicians
+1990|1.0|1.0|Journal of General Internal Medicine|Medical student interest in combined internal medicine-pediatrics
+1991|10.0|1.5|Journal of General Internal Medicine|Can residents be trained to counsel patients about quitting smoking? Results from a randomized trial.
+1992|106.0|1.0|JAMA|Variations in Resource Utilization Among Medical Specialties and Systems of Care: Results From the Medical Outcomes Study
+1993|13.0|8.5|Archives of Family Medicine|Indicators of woman abuse based on a chart review at a family practice center
+1994|7.0|2.0|Journal of General Internal Medicine|Addressing Alcohol Use among Primary Care Patients: Differences between Family Medicine and Internal Medicine Residents
+1995|42.0|3.0|General Hospital Psychiatry|Nondetection of depression by primary care physicians reconsidered
+1996|24.0|2.0|The Lancet|Age at menopause as a risk factor for cardiovascular mortality
+1997|44.0|4.0|Biochemical Pharmacology|Plant-derived anticancer agents
+1998|25.0|3.0|Archives of Family Medicine|Religious Commitment and Health Status: A Review of the Research and Implications for Family Medicine
+1999|45.0|5.0|Archives of Family Medicine|Primary care physicians' approach to depressive disorders effects of physician specialty and practice structure
+2000|169.0|5.0|JAMA|Factors Considered Important at the End of Life by Patients, Family, Physicians, and Other Care Providers
+2001|50.0|5.0|JAMA|Critical Factors for Designing Programs to Increase the Supply andRetention of Rural Primary Care Physicians
+2002|64.0|4.0|BMJ|Treating Helicobacter pylori infection in primary care patients with uninvestigated dyspepsia: the Canadian adult dyspepsia empiric treatment-Helicobacter pylori positive (CADET-Hp) randomised controlled trial.
+2003|65.0|5.0|Archives of General Psychiatry|Increased Medical Costs of a Population-Based Sample of Depressed Elderly Patients
+2004|161.0|5.0|Annals of Family Medicine|The Future of Family Medicine: a collaborative project of the family medicine community.
+2005|164.0|7.0|Medical Care|Impact of Medication Adherence on Hospitalization Risk and Healthcare Cost
+2006|89.0|5.0|JAMA Internal Medicine|Physician Communication When Prescribing New Medications
+2007|76.0|7.0|Health and Quality of Life Outcomes|Multimorbidity and quality of life: a closer look
+2008|140.0|5.0|Journal of the American Board of Family Medicine|The Medical Home: Growing Evidence to Support a New Approach to Primary Care
+2009|278.0|5.0|Nature Genetics|Variants in MTNR1B influence fasting glucose levels
+2010|223.0|5.0|The New England Journal of Medicine|Childhood obesity, other cardiovascular risk factors, and premature death.

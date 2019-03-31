@@ -1,0 +1,61 @@
+----  Field Name Special education: 
+----  Field Level 2.0: 
+----  Field Papers Number 28853:
+----  All time max citation paper: Does the autistic child have a "theory of mind"?, 1985, (2168.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1949|4.0|4.0|JAMA Pediatrics|MEASLES ENCEPHALITIS: Study of Fifty Cases
+1952|0|0.0|The Journal of Pediatrics|Experimental glutamic acid treatment in mentally retarded children
+1953|0|0.0||A Study of Public School Children with Severe Mental Retardation.
+1959|0|0.0|Psychiatric Quarterly|Treatment by hemispherectomy of nine cases of spastic hemiplegia, severe mental retardation and intractable epilepsy
+1960|13.0|0.0|The New England Journal of Medicine|Evaluation of familial biochemically determined mental retardation in children, with special reference to aminoaciduria.
+1961|0|0.0|The Journal of Pediatrics|Studies on 5-hydroxyindole metabolism in autistic and other mentally retarded children
+1962|4.0|4.0|The Journal of Pediatrics|Mental retardation, absence of patellae, other malformations with chromosomal mosaicism
+1963|1.0|0.0|Nature|Excretion of Indolyl Acids in Phenylketonuric Monkeys
+1964|23.0|1.0|American Journal of Cardiology|The syndrome of supravalvular aortic stenosis, peripheral pulmonary stenosis, mental retardation and similar facial appearance
+1965|7.0|1.5|The New England Journal of Medicine|Mental Retardation in Methemoglobinemia Due to Diaphorase Deficiency
+1966|5.0|0.0|The New England Journal of Medicine|Mental Retardation in Children of Phenylketonuric Mothers
+1967|95.0|0.5|Science|Enzyme Defect Associated with a Sex-Linked Human Neurological Disorder and Excessive Purine Synthesis
+1968|5.0|1.0|Electroencephalography and Clinical Neurophysiology|An investigation of auditory evoked responses of mentally retarded adults during sleep
+1969|19.0|1.0|Harvard Educational Review|How Much Can We Boost IQ and Scholastic Achievement?.
+1970|16.0|1.0|Journal of Clinical Investigation|DNA polymerase activity as an index of lymphocyte stimulation: studies in Down's syndrome
+1971|8.0|1.0|Epilepsia|Anticonvulsant Drugs and Folic Acid in Young Mentally Retarded Epileptic Patients
+1972|15.0|1.0|Cortex|Pathological Left-Handedness: An Explanatory Model.
+1973|11.0|2.0|Journal of Child Psychology and Psychiatry|SPECIAL EDUCATIONAL TREATMENT OF AUTISTIC CHILDREN: A COMPARATIVE STUDYII. FOLLOWUP FINDINGS AND IMPLICATIONS FOR SERVICES
+1974|14.0|1.0|Journal of Learning Disabilities|Peer Popularity of Learning Disabled Children
+1975|11.0|1.0|Clinical Genetics|Mental retardation and congenital malformations associated with a ring chromosome 6
+1976|24.0|2.0|Journal of Experimental Child Psychology|Verbal rehearsal and selective attention in children with learning disabilities: A developmental lag
+1977|32.0|2.0||Pregnancy and leukaemia.
+1978|78.0|2.0|Psychological Review|Mechanics of Verbal Ability.
+1979|50.0|2.0|Journal of Autism and Developmental Disorders|Autism and Unfavorable Left-Right Asymmetries of the Brain.
+1980|49.0|2.0|Journal of Experimental Child Psychology|The Development of Grapheme-Phoneme Correspondence in Normal and Dyslexic Readers.
+1981|29.0|2.0|Schizophrenia Bulletin|Infantile autism reviewed: a decade of research.
+1982|21.0|1.0|American Journal of Medical Genetics|The cytogenetic controversy in the PraderLabhartWilli syndrome
+1983|58.0|2.0|Nature|Close linkage of fragile X-mental retardation syndrome to haemophilia B and transmission through a normal male
+1984|43.0|1.0|Nature|Somatic deletion and duplication of genes on chromosome 11 in Wilms' tumours
+1985|53.0|2.0|Cognition|Does the autistic child have a "theory of mind"?
+1986|39.0|1.0|American Journal of Medical Genetics|Gardner syndrome in a man with an interstitial deletion of 5q.
+1987|40.0|2.0|Drug and Alcohol Dependence|Incidence of fetal alcohol syndrome and economic impact of FAS-related anomalies
+1988|47.0|2.0|Journal of Autism and Developmental Disorders|The Understanding and Use of Interpersonal Gestures by Autistic and Down's Syndrome Children.
+1989|275.0|2.0|Psychological Review|A Distributed, Developmental Model of Word Recognition and Naming.
+1990|132.0|1.0|Biochemical and Biophysical Research Communications|C-type natriuretic peptide (CNP): a new member of natriuretic peptide family identified in porcine brain.
+1991|137.0|1.0|Psychological Review|Lesioning an Attractor Network: Investigations of Acquired Dyslexia.
+1992|65.0|1.0|Reading Research Quarterly|The Nonword Reading Deficit in Developmental Dyslexia: A Review.
+1993|165.0|2.0|Cell|Trinucleotide repeat amplification and hypermethylation of a CpG island in FRAXE mental retardation
+1994|101.0|2.0|Magnetic Resonance in Medicine|Water diffusion and acute stroke
+1995|149.0|2.0|Nature|Apoptosis and increased generation of reactive oxygen species in Down's syndrome neurons in vitro
+1996|96.0|2.0|Cell|Three-Dimensional Structure and Stability of the KH Domain: Molecular Insights into the Fragile X Syndrome
+1997|71.0|2.0|Current Opinion in Cell Biology|The complex pathology of trinucleotide repeats
+1998|136.0|3.0|Trends in Genetics|Conjunction dysfunction: CBP/p300 in human disease
+1999|263.0|3.0|Nature Genetics|Rett syndrome is caused by mutations in X-linked MECP2, encodingmethyl-CpG-binding protein 2
+2000|406.0|4.0|Nature|The DNA sequence of human chromosome 21
+2001|222.0|4.0|Nature Reviews Genetics|To err (meiotically) is human: the genesis of human aneuploidy
+2002|270.0|5.0|Genome Biology|Targeting fragile X
+2003|223.0|6.0|Brain|Theories of developmental dyslexia: Insights from a multiple case study of dyslexic adults
+2004|523.0|6.0|Nature|Epigenetics in human disease and prospects for epigenetic therapy
+2005|329.0|6.0|Psychological Bulletin|Reading acquisition, developmental dyslexia, and skilled reading across languages: a psycholinguistic grain size theory.
+2006|409.0|5.0|Global Environmental Change-human and Policy Dimensions|Adaptation, adaptive capacity and vulnerability
+2007|757.0|6.0|Science|Switching from Repression to Activation: MicroRNAs Can Up-Regulate Translation
+2008|717.0|6.0|Nature|Large recurrent microdeletions associated with schizophrenia
+2009|314.0|6.0|Journal of the American College of Cardiology|Percutaneous mitral repair with the MitraClip system: safety and midterm durability in the initial EVEREST (Endovascular Valve Edge-to-Edge REpair Study) cohort.
+2010|529.0|5.0|Journal of the American College of Cardiology|Transcatheter Aortic Valve Implantation for the Treatment of Severe Symptomatic Aortic Stenosis in Patients at Very High or Prohibitive Surgical Risk: Acute and Late Outcomes of the Multicenter Canadian Experience

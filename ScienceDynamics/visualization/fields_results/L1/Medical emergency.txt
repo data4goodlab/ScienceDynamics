@@ -1,0 +1,69 @@
+----  Field Name Medical emergency: 
+----  Field Level 1.0: 
+----  Field Papers Number 9928:
+----  All time max citation paper: Dopamine Modulates Metabolic Rate and Temperature Sensitivity in Drosophila melanogaster, 2012, (1958.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|1.0|1.0|JAMA|ANOREXIA NERVOSA OR HYPOPITUITARISM?
+1942|0|0.0|Biological Reviews|BODY TEMPERATURE IN POIKILOTHERMAL ANIMALS
+1946|6.0|6.0|Journal of Dairy Science|The Relative Importance of High Temperature and High Humidity as Factors Influencing Respiration Rate, Body Temperature, and Pulse Rate of Dairy Cows
+1947|2.0|2.0|Cellular and Molecular Life Sciences|Hormonal and nervous factors in the regulation of the body temperature
+1949|0|0.0|The Journal of Pediatrics|Effect of terminal disinfection and other factors on the stability of ascorbic acid in reliquefied milk products used in infant feeding
+1950|15.0|4.0|Biochimica et Biophysica Acta|Body size and tissue respiration.
+1952|0|0.0|Psychiatry and Clinical Neurosciences|STUDIES ON THE FUNCTIONS AND FIBER CONNECTIONS OF THE AMYGDALOID NUCLEI AND PERIAMYGDALOID CORTEX. EXPERIMENTS ON GASTROINTESTINAL MOTILITY AND BODY TEMPERATURE IN CAT
+1953|1.0|1.0|Journal of Dairy Science|Effects of Seasonal Climatic Changes on Certain Physiological Reactions, Semen Production and Fertility of Dairy Bulls
+1955|6.0|3.0|Journal of Dairy Science|The Effect of Various Restricted Diets on the Growth and on Certain Blood Components of Young Dairy Calves1,2
+1957|5.0|5.0|Journal of Dairy Science|Factors Influencing Metabolic Activity of Bull Spermatozoa. I. 37, 21, and 5 C
+1958|3.0|2.5|Journal of Dairy Science|Body Temperature Variations in Dairy Cattle during the Estrous Cycle and Pregnancy
+1959|6.0|2.0|Psychopharmacology|Comparison of the reactions induced by psilocybin and LSD-25 in man
+1960|4.0|2.0|Acta Physiologica Scandinavica|Observations on Central Regulation of Body: Temperature and of Food and Water Intake in the Pigeon (Columba livia)
+1961|18.0|2.0|Acta Physiologica Scandinavica|Influence of Local Temperature Changes in the Preoptic Area and Rostral Hypothalamus on the Regulation of Food and Water Intake
+1962|9.0|1.5|Psychopharmacology|Cross tolerance between mescaline and LSD-25, with a comparison of the mescaline and LSD reactions.
+1963|5.0|0.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Temperaturregulation bei Flughunden der Gattung Rousettus Gray
+1964|21.0|3.0|Metabolism-clinical and Experimental|Metabolic observations during the treatment of obese patients by periods of total starvation
+1965|6.0|1.0|American Midland Naturalist|Body temperatures of reptiles
+1966|11.0|5.0|Acta Physiologica Scandinavica|Regulation of Body Temperature and Heat Dissipation at Different Levels of Energyand Heat Production in Man
+1967|101.0|2.0|Geochimica et Cosmochimica Acta|Chemical fractionations in meteoritesII. Abundance patterns and their interpretation
+1968|4.0|1.0|Biochemical Pharmacology|The influence of body temperature on the elimination of oxotremorine in the mouse
+1969|14.0|2.0|Comparative Biochemistry and Physiology|Thermal balance of the macropodid marsupial Macropus eugenii Desmarest.
+1970|17.0|3.0|The Journal of Experimental Biology|Body weight and the energetics of temperature regulation.
+1971|53.0|3.0|Journal of Geophysical Research|The adiabatic gradient and the melting point gradient in the core of the Earth
+1972|21.0|2.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Anaerobic metabolism during activity in lizards
+1973|15.0|1.0|European Journal of Pharmacology|Possible involvement of brain serotonin in apomorphine-induced hypothermia
+1974|12.0|2.0|Psychopharmacology|Influence of Midbrain Raphe Lesion on Some Pharmacological and Biochemical Effects of Apomorphine in Rats
+1975|61.0|2.0|Biological Cybernetics|A model of the central and reflex inhibition of inspiration in the cat
+1976|21.0|3.0|Comparative Biochemistry and Physiology Part A: Physiology|Body temperatures of behaviorally thermoregulating largemouth blackbass ( Micropterus salmoides )
+1977|34.0|3.0|Journal of Geophysical Research|Meteorological results from the surface of Mars: Viking 1 and 2
+1978|31.0|3.0|Pflgers Archiv: European Journal of Physiology|The Influence of High Ambient Temperature on Thermoregulatory Response to Intrahypothalamic Injections of Noradrenaline and Serotonin in the Pigeon
+1979|30.0|2.0|Psychopharmacology|Conditioned temperature effects using amphetamine as the unconditioned stimulus
+1980|43.0|3.0|Neuroscience & Biobehavioral Reviews|Food availability and daily biological rhythms
+1981|23.0|3.0|Brain Research Bulletin|Alcohol's effect on body temperature: Hypothermia, hyperthermia or poikilothermia?
+1982|36.0|3.0|Physiology & Behavior|Pancreatic glucagon and postprandial satiety in the rat
+1983|23.0|2.5|International Journal of Radiation Oncology Biology Physics|Tumor control and therapeutic gain with different schedules of combined radiotherapy and local external hyperthermia in human cancer
+1984|29.0|2.0|Journal of Clinical Investigation|Mechanisms of fever induced by recombinant human interferon.
+1985|56.0|3.0|British Journal of Pharmacology|A behavioural and biochemical study in mice and rats of putative selective agonists and antagonists for 5HT1 and 5HT2 receptors
+1986|56.0|2.0|Neuropharmacology|Thermoregulatory responses to serotonin (5-HT) receptor stimulation in the rat: Evidence for opposing roles of 5-HT2 and 5-HT1A receptors
+1987|66.0|2.0|Life Sciences|Effect of an imidazobenzodiazepine, Ro15-4513, on the incoordination and hypothermia produced by ethanol and pentobarbital
+1988|54.0|3.0|Journal of Dairy Science|Effects of Recombinant Bovine Somatotropin on Milk Production, Body Composition, and Physiological Parameters1
+1989|48.0|2.0|Journal of Thermal Biology|Tympanic temperature is a core temperature in humans
+1990|67.0|2.0|The Journal of Neuroscience|Hypothermia but not the N-methyl-D-aspartate antagonist, MK-801, attenuates neuronal damage in gerbils subjected to transient global ischemia
+1991|39.0|3.0|Pharmacology, Biochemistry and Behavior|Phentolamine and thermoregulation in rats
+1992|37.0|3.0|Physics of the Earth and Planetary Interiors|Multiple phase transitions and the style of mantle convection
+1993|43.0|2.0|Psychopharmacology|Ritanserin attenuates anorectic, endocrine and thermic responses to d-fenfluramine in human volunteers.
+1994|15.0|2.0|Brain Research|The influence of body temperature on infarct volume and thrombolytic therapy in a rat embolic stroke model
+1995|62.0|3.0|Psychopharmacology|Review of the pharmacology and clinical pharmacology of 3,4-methylenedioxymethamphetamine (MDMA or "Ecstasy").
+1996|104.0|3.0|The Lancet|Body temperature in acute stroke: relation to stroke severity, infarct size, mortality, and outcome
+1997|106.0|4.0|BMJ|Reliability of health information for the public on the World Wide Web: systematic survey of advice on managing fever in children at home.
+1998|83.0|4.0|Stroke|Combating Hyperthermia in Acute Stroke A Significant Clinical Concern
+1999|169.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Increased mortality, hypoactivity, and hypoalgesia in cannabinoid CB1 receptor knockout mice
+2000|153.0|5.0|Genes & Development|Restricted feeding uncouples circadian oscillators in peripheral tissues from the central pacemaker in the suprachiasmatic nucleus.
+2001|184.0|6.0|Nature|Structural basis of water-specific transport through the AQP1 water channel.
+2002|142.0|6.0|Nature Neuroscience|Ethanol elicits and potentiates nociceptor responses via the vanilloid receptor-1
+2003|114.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|Mammalian basal metabolic rate is proportional to body mass2/3
+2004|125.0|8.0|European Journal of Pharmaceutics and Biopharmaceutics|In situ-forming hydrogelsreview of temperature-sensitive systems
+2005|133.0|7.0|Molecular Pain|Sensitization of TRPV1 by EP1 and IP reveals peripheral nociceptive mechanism of prostaglandins
+2006|198.0|7.0|JAMA|Effect of 6-Month Calorie Restriction on Biomarkers of Longevity, Metabolic Adaptation, and Oxidative Stress in Overweight Individuals: A Randomized Controlled Trial
+2007|158.0|8.0|Nature|Transcriptional coactivator PGC-1|[agr]| integrates the mammalian clock and energy metabolism
+2008|186.0|9.0|Nature|An internal thermal sensor controlling temperature preference in Drosophila
+2009|207.0|8.0|Diabetes|Reduced adipose tissue oxygenation in human obesity: evidence for rarefaction, macrophage chemotaxis, and inflammation without an angiogenic response.
+2010|1326.0|8.0|PLOS ONE|Ambient temperature influences Australian native stingless bee (Trigona carbonaria) preference for warm nectar.

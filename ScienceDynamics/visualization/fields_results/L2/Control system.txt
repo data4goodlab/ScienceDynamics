@@ -1,0 +1,65 @@
+----  Field Name Control system
+----  Field Level 2.0
+----  Field Papers Number 78650
+----  All time max citation paper Identification and control of dynamical systems using neural networks, 1990, (2831.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1935|0|0.0||A method of exciting the aerial system of a rotating radio beacon
+1947|0|0.0|Transactions of The American Institute of Electrical Engineers|An Improved Cable Carrier System
+1950|0|0.0||A new precision a.c. voltage stabilizer
+1952|5.0|4.0|Journal of Chemical Physics|CRITICAL PHENOMENA IN THE CYCLOHEXANE-ANILINE SYSTEM
+1953|3.0|3.0|Journal of Dairy Science|A Semi-Automatic Cryoscope for Determining the Freezing Point of Milk
+1957|5.0|2.5|Journal of Dairy Science|Factors Influencing Metabolic Activity of Bull Spermatozoa. I. 37, 21, and 5 C
+1958|12.0|5.0|Physica D: Nonlinear Phenomena|The viscosity of gaseous He, Ne, H 2 and D 2 below 80K
+1959|3.0|0.0|Journal of The Franklin Institute-engineering and Applied Mathematics|A class of optimum control systems
+1960|4.0|3.0|Solar Energy|Optical characteristics of silicon solar cells and of coatings for temperature control
+1961|19.0|1.0|Journal of Mathematical Analysis and Applications|VARIATIONAL METHODS IN PROBLEMS OF CONTROL AND PROGRAMMING
+1962|4.0|1.0|Journal of The Franklin Institute-engineering and Applied Mathematics|CONTRIBUTIONS TO THE THEORY OF TIME-OPTIMAL CONTROL
+1963|158.0|1.0|Journal of Molecular Biology|Allosteric proteins and cellular control systems
+1964|5.0|1.0|Journal of Mathematical Analysis and Applications|A general theory of nonlinear estimation problems in control systems
+1965|8.0|2.5|Journal of Differential Equations|Stability in general control systems.
+1966|5.0|0.0|Journal of The Franklin Institute-engineering and Applied Mathematics|Stability of control systems with multiple nonlinearities
+1967|6.0|1.0|Proceedings of the IEEE|Linear and adaptive delta modulation
+1968|11.0|2.0|Proceedings of the IEEE|The oculomotor control system: A review
+1969|14.0|1.0|IEEE Transactions on Power Apparatus and Systems|Concepts of Synchronous Machine Stability as Affected by Excitation Control
+1970|6.0|1.0|Attention Perception & Psychophysics|Model of visual adaptation and contrast detection
+1971|17.0|1.0|IEEE Transactions on Automatic Control|Status of noninteracting control
+1972|18.0|1.0|Vision Research|Corrective movements following refixation saccades: Type and control system analysis
+1973|23.0|1.0||Production Systems: Models of Control Structures
+1974|28.0|1.0|Journal of Geophysical Research|Initial ion composition results from the Isis 2 satellite
+1975|16.0|2.0|FEBS Letters|Lipogenesis in maintenance cultures of rat hepatocytes
+1976|30.0|1.5|Artificial Intelligence|Viewing control structures as patterns of passing messages
+1977|11.0|1.0|IEEE Transactions on Computers|On the Effective Bandwidth of Parallel Memories
+1978|66.0|1.0|Psychological Review|Quantitative analysis of purposive systems: Some spadework at the foundations of scientific psychology.
+1979|24.0|1.0|international conference on management of data|An optimality theory of concurrency control for databases
+1980|32.0|1.0|The Journal of General Physiology|Some Properties of Potassium-stimulated Calcium Influx in Presynaptic Nerve Endings
+1981|53.0|2.0|IEEE Transactions on Communications|Local-Area Subnetworks: A Performance Comparison
+1982|133.0|1.0|Behavioral and Brain Sciences|Prcis of The neuropsychology of anxiety: An enquiry into the functions of the septo-hippocampal system
+1983|74.0|1.0|Cell|A short nucleotide sequence required for regulation of HIS4 by the general control system of yeast
+1984|46.0|2.5|Automatica|Singular perturbations and time-scale methods in control theory: Survey 1976-1983
+1985|29.0|1.0|Atmospheric Environment|A programmable exposure control system for determination of the effects of pollutant exposure regimes on plant growth
+1986|68.0|2.0|Applied Physics Letters|High quality SionSiO2 films by large dose oxygen implantation and lamp annealing
+1987|65.0|1.0|IEEE Intelligent Systems|Validating Expert System Performance
+1988|61.0|2.0|architectural support for programming languages and operating systems|Firefly: a multiprocessor workstation
+1989|41.0|1.0|Journal of Catalysis|Elementary steps in the formation of highly dispersed palladium in NaY: II. Particle formation and growth
+1990|324.0|2.0|IEEE Transactions on Neural Networks|Identification and control of dynamical systems using neural networks
+1991|89.0|2.0|IEEE Transactions on Computers|Neural-network-based fuzzy logic control and decision system
+1992|179.0|2.0|Automatica|Neural networks for control systems: a survey
+1993|161.0|2.0|Automatica|The complex structured singular value
+1994|104.0|2.0|IEEE Transactions on Software Engineering|Requirements specification for process-control systems
+1995|138.0|2.0|Artificial Intelligence|Learning to act using real-time dynamic programming
+1996|153.0|2.0|IEEE Transactions on Robotics and Automation|A tutorial on visual servo control
+1997|150.0|2.0|Cell|The Arabidopsis NPR1 Gene That Controls Systemic Acquired Resistance Encodes a Novel Protein Containing Ankyrin Repeats
+1998|129.0|2.0|IEEE Transactions on Automatic Control|Multiple Lyapunov functions and other analysis tools for switched and hybrid systems
+1999|212.0|3.0|Behavioral and Brain Sciences|A theory of lexical access in speech production
+2000|285.0|3.0|IEEE Transactions on Communications|Ultra-wide bandwidth time-hopping spread-spectrum impulse radio for wireless multiple-access communications
+2001|228.0|3.0|acm ieee international conference on mobile computing and networking|A transmission control scheme for media access in sensor networks
+2002|301.0|3.0|operating systems design and implementation|Fine-grained network time synchronization using reference broadcasts
+2003|534.0|4.0|IEEE Transactions on Automatic Control|Coordination of groups of mobile autonomous agents using nearest neighbor rules
+2004|690.0|4.0|international conference on embedded networked sensor systems|Versatile low power media access for wireless sensor networks
+2005|482.0|3.0|Trends in Cognitive Sciences|The cognitive control of emotion
+2006|423.0|3.0|Nature|Hypoxia signalling in cancer and approaches to enforce tumour regression
+2007|904.0|3.0|Proceedings of the IEEE|Consensus and Cooperation in Networked Multi-Agent Systems
+2008|345.0|2.0|Water Research|Antimicrobial nanomaterials for water disinfection and microbial control: Potential applications and implications
+2009|466.0|2.0|cluster computing and the grid|The Eucalyptus Open-Source Cloud-Computing System
+2010|241.0|4.0|General and Comparative Endocrinology|Spermatogenesis in fish

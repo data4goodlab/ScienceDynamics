@@ -1,0 +1,77 @@
+----  Field Name Gas chromatography: 
+----  Field Level 2.0: 
+----  Field Papers Number 40182:
+----  All time max citation paper: On the Isotopic Chemistry of Carbonates and a Paleotemperature Scale, 1950, (1847.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1931|0|0.0|Transactions of The Optical Society|The C.I.E. colorimetric standards and their use
+1932|0|0.0|Mikrochemie|Micro vapor density determination method
+1935|4.0|4.0|Journal of Chemical Physics|The Vapor Pressures of the Isotopic Forms of Water
+1938|4.0|4.0|Journal of Chemical Physics|Free Volumes and Free Angle Ratios of Molecules in Liquids
+1940|1.0|0.5|Annals of Applied Biology|The Moisture Balance of the Living Fleece in Relation to Blowfly Myiasis, with some Remarks on the Australian and British Conceptions of Susceptibility.
+1944|1.0|1.0|Journal of Chemical Physics|Vapor Pressures, Heats of Vaporization, and Entropies of Some Alkali Halides
+1945|4.0|4.0|Journal of Chemical Physics|Free Volume and Entropy in Condensed Systems I. General Principles. Fluctuation Entropy and Free Volume in Some Monatomic Crystals
+1946|0|0.0|Journal of Hygiene|The Significance of Volatility and Water Solubility in Disinfection Processes.
+1947|1.0|1.0|Vitamins and Hormones Series|Physiological Availability of the Vitamins
+1948|1.0|0.5|Journal of Chemical Physics|The Vapor Pressures of Some Alkali Halides
+1949|7.0|2.0|Journal of Chemical Physics|Hindered Rotation in Ethyl Alcohol
+1950|5.0|2.0|Journal of Chemical Physics|On the Isotopic Chemistry of Carbonates and a Paleotemperature Scale
+1951|0|0.0|Journal of the American Oil Chemists' Society|Correlation of vegetable oil-hexane solution vapor pressures
+1952|5.0|4.0|Journal of Applied Physics|The Reliability of Internal Standards for Calibrating Electron Microscopes
+1953|5.0|5.0|Journal of Applied Physics|DIFFUSION IN BIMETAL VAPOR-SOLID COUPLES
+1954|2.0|1.0|Journal of Chemical Physics|The Vapor Pressure of Zinc between 150 and 350C
+1955|11.0|3.0|Journal of Applied Physics|Study of the Initial Stages of Sintering Solids by Viscous Flow, EvaporationCondensation, and SelfDiffusion
+1956|8.0|4.0|Journal of Chemical Physics|EVAPORATION OF METAL CRYSTALS
+1957|17.0|2.0|Journal of Chemical Physics|Mobility and Adsorption of Hydrogen on Tungsten
+1959|15.0|6.0|Journal of the American Oil Chemists' Society|Quantitative fatty acid analysis of vegetable oils by gas-liquid chromatography
+1960|22.0|3.0|Journal of Dairy Science|Structure and Synthesis of Milk Fat. I. Gas Chromatographic Analysis1,2
+1961|40.0|2.0|Journal of Dairy Science|Quantitative Fatty Acid Analysis of Milk Fat by Gas-Liquid Chromatography
+1962|19.0|4.0|Journal of Dairy Science|Analysis of Milk Fatty Acids by Gas-Liquid Chromatography1
+1963|23.0|2.0|Analytical Biochemistry|Quantitative analysis of fecal bile acids by gas-liquid chromatography
+1964|14.0|1.0|Steroids|Measurement of urinary testosterone by gas-liquid chromatography
+1965|18.0|2.0|Geochimica et Cosmochimica Acta|Geochemical analysis by spark source mass spectrography
+1966|18.0|2.0|Lipids|Isomeric monoethylenic fatty acids in herring oil
+1967|33.0|2.0|Analytical Biochemistry|Analysis of neutral sugars by gas-liquid chromatography of alditol acetates: Application to thyrotropic hormone and other glycoproteins
+1968|22.0|1.0|Clinica Chimica Acta|Gas chromatographic measurement of phenolic acids and alcohols in human urine
+1969|24.0|2.0|Clinica Chimica Acta|Further observations on the gas-chromatographic measurement of urinary phenolic and indolic metabolites
+1970|36.0|1.0|Marine Biology|Hydrocarbon pollution of edible shellfish by an oil spill
+1971|40.0|1.0|Journal of Clinical Investigation|Serum triiodothyronine: measurements in human serum by radioimmunoassay with corroboration by gas-liquid chromatography
+1972|17.0|2.0|Phytochemistry|Triparanol inhibition of sterol biosynthesis in Chlorella emersonii
+1973|38.0|2.0|Geochimica et Cosmochimica Acta|Fine structures of mutually normalized rare-earth patterns of chondrites
+1974|34.0|1.0|Geochimica et Cosmochimica Acta|Tri- and tetraterpenoid hydrocarbons in the Messel oil shale
+1975|21.0|2.0|Biochemical and Biophysical Research Communications|Modification of glycerolipid metabolism in L-M fibroblasts by an unnatural amino-alcohol, N-isopropylethanolamine
+1976|29.0|1.0|Psychopharmacology|Simultaneous Determination of the Three Major Monoamine Metabolites in Brain Tissue and Body Fluids by a Mass Fragmentographic Method
+1977|42.0|2.0|Geochimica et Cosmochimica Acta|Geochemical application of spark source mass spectrographyIII. Element sensitivity, precision and accuracy
+1978|26.0|1.0|Archives of Toxicology|Pharmacokinetics of halogenated ethylenes in rats
+1979|25.0|1.0|Journal of Aerosol Science|Measurement of sulfuric acid saturation vapor pressure; Implications for aerosol formation by heteromolecular nucleation
+1980|63.0|2.0|Geochimica et Cosmochimica Acta|Molecular parameters of maturation in the Toarcian shales, Paris Basin, FranceI. Changes in the configurations of acyclic isoprenoid alkanes, steranes and triterpanes
+1981|25.0|2.0|Analytical Biochemistry|Gas-liquid chromatography and mass spectrometry of methylated and acetylated methyl glycosides. Application to the structural analysis of glycoprotein glycans
+1982|38.0|2.0|Geophysical Research Letters|Methane: The record in polar ice cores
+1983|27.0|1.0|Cytometry|Limits of detection of nuclear DNA abnormalities by flow cytometric DNA analysis. Results obtained by a set of methods for samplestorage, staining and internal standardization
+1984|21.0|1.0|Icarus|Nitrogen on Triton
+1985|27.0|2.0|Chemosphere|Polychlorinated phenols, guaiacols and catechols in environment
+1986|36.0|2.0|Chemosphere|Determination of the strong mutagen 3-chloro-4-(dichloromethyl)-5-hydroxy-2(5H)-furanone in chlorinated drinking and humic waters
+1987|79.0|1.0|Computer Networks and Isdn Systems|Introduction to the ISO specification language LOTOS
+1988|38.0|2.0|Geochimica et Cosmochimica Acta|Molecular aspects of the peatification and early coalification of angiosperm and gymnosperm woods
+1989|44.0|2.0|Journal of Geophysical Research|In situ measurements of total reactive nitrogen, total water, and aerosol in a polar stratospheric cloud in the Antarctic
+1990|35.0|2.0|Journal of Chromatography A|Recent developments in the chromatographic analysis of carbohydrates
+1991|50.0|1.0|Geochimica et Cosmochimica Acta|Di- or polysulphide-bound biomarkers in sulphur-rich geomacromolecules as revealed by selective chemolysis
+1992|38.0|2.0|FEBS Letters|The presence of free D-serine in rat brain
+1993|46.0|2.0|Magnetic Resonance Imaging|In vivo quantification of brain metabolites by 1H-MRS using water as an internal standard.
+1994|54.0|2.0|Journal of Geophysical Research|The growth rate and distribution of atmospheric methane
+1995|47.0|2.0|Cancer Letters|Role of N-nitroso compounds (NOC) and N-nitrosation in etiology of gastric, esophageal, nasopharyngeal and bladder cancer and contribution to cancer of known exposures to NOC
+1996|64.0|2.0|Journal of Atmospheric Chemistry|Water-Soluble Organics in Atmospheric Particles: A Critical Review of the Literature and Application of Thermodynamics to Identify Candidate Compounds
+1997|74.0|2.0|Nature|Activation of peripheral CB1 cannabinoid receptors in haemorrhagic shock
+1998|149.0|3.0|Proceedings of the IEEE|Error control and concealment for video communication: a review
+1999|131.0|3.0|Atherosclerosis|Oxysterols and atherosclerosis
+2000|255.0|4.0|Nature Biotechnology|Metabolite profiling for plant functional genomics
+2001|138.0|4.0|Radio Science|International Reference Ionosphere 2000
+2002|265.0|5.0|Journal of Agricultural and Food Chemistry|Analysis of acrylamide, a carcinogen formed in heated foodstuffs
+2003|248.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Absolute quantification of proteins and phosphoproteins from cell lysates by tandem MS
+2004|251.0|6.0|Radiocarbon|IntCal04 terrestrial radiocarbon age calibration, 0-26 cal kyr BP.
+2005|390.0|7.0|The Lancet|Secondary prevention of macrovascular events in patients with type 2 diabetes in the PROactive Study (PROspective pioglitAzone Clinical Trial In macroVascular Events): a randomised controlled trial
+2006|358.0|5.0|Journal of Chromatography A|Determination of organic compounds in water using dispersive liquid-liquid microextraction.
+2007|204.0|6.0|Journal of Clinical Microbiology|Discovery of a New Capsular Serotype (6C) within Serogroup 6 of Streptococcus pneumoniae
+2008|327.0|7.0|The Lancet|Effectiveness of antipsychotic drugs in first-episode schizophrenia and schizophreniform disorder: an open randomised clinical trial
+2009|749.0|7.0|Nature|Metabolomic profiles delineate potential role for sarcosine in prostate cancer progression
+2010|539.0|7.0|Nanoscale Research Letters|Nanospiral Formation by Droplet Drying: One Molecule at a Time

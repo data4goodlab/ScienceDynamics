@@ -1,0 +1,27 @@
+----  Field Name Evidence-based medicine: 
+----  Field Level 2.0: 
+----  Field Papers Number 9112:
+----  All time max citation paper: Evidence based medicine: what it is and what it isn't., 1996, (4140.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1976|0|0.0||Cr-Releasing Cytotoxicity Tests: Study of Parameters Influencing their Reliability
+1977|0|0.0|Psychopharmacology|Behavioural antagonism between chlorpromazine and noise in man
+1987|7.0|7.0|Journal of Chronic Diseases|Guidelines for reading case-control studies
+1989|2.0|2.0|International Political Science Review|Presidential Personality and National Security Leadership: A Comparative Analysis of Vietnam Decision-making
+1991|5.0|5.0|Journal of Clinical Epidemiology|Methodological standards for assessing therapeutic equivalence
+1995|109.0|20.0|The Lancet|Grey zones of clinical practice: some limits to evidence-based medicine
+1996|348.0|4.0|BMJ|Evidence based medicine: what it is and what it isn't.
+1997|31.0|3.0|BMJ|Personal paper: Beliefs and evidence in changing clinical practice
+1998|66.0|5.0|BMJ|General practitioners' perceptions of the route to evidence based medicine: a questionnaire survey
+1999|152.0|4.0|Gut|An evidence-based appraisal of reflux disease management  the Genval Workshop Report
+2000|118.0|7.0|Annals of the Rheumatic Diseases|EULAR recommendations for the management of knee osteoarthritis: report of a task force of the Standing Committee for International Clinical Studies Including Therapeutic Trials (ESCISIT)
+2001|432.0|6.0|Nucleic Acids Research|RefSeq and LocusLink: NCBI gene-centered resources
+2002|146.0|7.0|American Journal of Preventive Medicine|The effectiveness of interventions to increase physical activity
+2003|206.0|6.0|BMC Medical Research Methodology|The development of QUADAS: a tool for the quality assessment of studies of diagnostic accuracy included in systematic reviews
+2004|507.0|9.0|Intensive Care Medicine|Surviving Sepsis Campaign guidelines for management of severe sepsis and septic shock
+2005|280.0|8.0|BMJ|Improving clinical practice using clinical decision support systems: a systematic review of trials to identify features critical to success
+2006|210.0|10.0|Journal of Epidemiology and Community Health|Indicators of socioeconomic position (part 1)
+2007|264.0|9.0|Annals of the Rheumatic Diseases|EULAR recommendations for the management of early arthritis: report of a task force of the European Standing Committee for International Clinical Studies Including Therapeutics (ESCISIT)
+2008|2009.0|9.0|Intensive Care Medicine|Surviving Sepsis Campaign: international guidelines for management of severe sepsis and septic shock: 2008.
+2009|1815.0|11.0|BMJ|The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate healthcare interventions: explanation and elaboration
+2010|859.0|11.0|Annals of the Rheumatic Diseases|EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs

@@ -1,0 +1,33 @@
+----  Field Name Occupational therapy: 
+----  Field Level 2.0: 
+----  Field Papers Number 2246:
+----  All time max citation paper: Early physical and occupational therapy in mechanically ventilated, critically ill patients: a randomised controlled trial, 2009, (412.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1979|2.0|1.0|Psychopharmacology|A comparative trial of the decanoates of flupenthixol and fluphenazine
+1982|0|0.0|Australian Occupational Therapy Journal|The Use of Activities in the Treatment and Rehabilitation of Psychiatric Patients: An Overview
+1986|1.0|1.0|Remedial and Special Education|Training and Staff Development Issues in Developmental Disabilities
+1987|7.0|2.0|Stroke|Motor and perceptual impairments in acute stroke patients : effects on self-care ability
+1988|1.0|0.0|Clinical Rehabilitation|Computers as treatment: the use of the computer as an occupational therapy medium
+1989|1.0|0.0|Irish Journal of Medical Science|Severe disability in rheumatoid arthritis: Assessment following comprehensive rehabilitation
+1990|4.0|2.5|Australian Occupational Therapy Journal|Occupational Therapy in Australia  Where Are We Going and How do We Get There
+1991|9.0|1.0|Studies in Higher Education|Evaluating the Quality of Student Learning, II--Study Orchestration and the Curriculum.
+1992|4.0|3.0|Australian Occupational Therapy Journal|Understanding and Assessing Handwriting Difficulty: Perspectives from the Literature
+1993|4.0|1.0|Spinal Cord|Assistive technology in the rehabilitation of patients with high spinal cord lesions.
+1994|2.0|1.5|Australian Occupational Therapy Journal|Definitions of research by occupational therapy clinicians: An exploratory study
+1995|7.0|1.5|Behaviour Research and Therapy|The effect of cognitive behavior therapy in patients with rheumatoid arthritis
+1996|17.0|1.0|BMJ|Misdiagnosis of the vegetative state: retrospective study in a rehabilitation unit
+1997|6.0|0.0|Journal of Advanced Nursing|Therapeutic activities for people with dementia  what, why and why not?
+1998|11.0|1.5|Movement Disorders|Assessment of ability/disability in patients treated with chronic thalamic stimulation for tremor
+1999|54.0|2.0|Journal of the American Geriatrics Society|Home Visits by an Occupational Therapist for Assessment and Modification of Environmental Hazards: A Randomized Trial of Falls Prevention
+2000|45.0|2.0|Journal of Rehabilitation Research and Development|Development of robots for rehabilitation therapy: the Palo Alto VA/Stanford experience.
+2001|25.0|3.0|Psychonomic Bulletin & Review|Directing attention to movement effects enhances learning: A review
+2002|34.0|4.0|International Journal of Epidemiology|The search for new risk factors for coronary heart disease: occupational therapy for epidemiologists?
+2003|51.0|3.0|Schizophrenia Research|Are the effects of cognitive remediation therapy (CRT) durable? Results from an exploratory trial in schizophrenia
+2004|30.0|3.0|Spine|Effects of functional restoration versus 3 hours per week physical therapy: a randomized controlled study.
+2005|38.0|3.0|Gerontologist|A Long-Term Perspective on PersonEnvironment Fit and ADL Dependence Among Older Swedish Adults
+2006|64.0|3.5|BMJ|Community based occupational therapy for patients with dementia and their care givers: randomised controlled trial.
+2007|76.0|4.0|Developmental Medicine & Child Neurology|The Assisting Hand Assessment : current evidence of validity, reliability, and responsiveness to change
+2008|84.0|3.0|BMC Public Health|Process factors explaining the ineffectiveness of a multidisciplinary fall prevention programme: a process evaluation.
+2009|338.0|3.0|The Lancet|Early physical and occupational therapy in mechanically ventilated, critically ill patients: a randomised controlled trial
+2010|152.0|4.0|BMC Public Health|Effectiveness of adjuvant occupational therapy in employees with depression: design of a randomized controlled trial

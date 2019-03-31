@@ -1,0 +1,81 @@
+----  Field Name Palynology: 
+----  Field Level 2.0: 
+----  Field Papers Number 8817:
+----  All time max citation paper: QIIME allows analysis of high-throughput community sequencing data, 2010, (2576.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1920|0|0.0|The Lancet|Medical Experiences in Macedonia and the Caucasus. A Lecture Delivered before a Meeting of the Royal Society of Medicine.
+1923|0|0.0|JAMA Internal Medicine|LAMBLIA (GIARDIA) INFECTION ASSOCIATED WITH CHOLECYSTITIS: REPORT OF A CASE TREATED WITH NEO-ARSPHENAMIN
+1930|3.0|2.5|JAMA Pediatrics|Minimum Requirement of Calcium and Phosphorus in Children.
+1931|3.0|1.5|Parasitology|Studies on Trypanosoma grayi . III. Life-Cycle in the Tsetse-fly and in the Crocodile
+1933|0|0.0|The Journal of Agricultural Science|Observations on the Mineral Metabolism of Pullets
+1935|0|0.0||Border Pining in SheepII
+1938|4.0|1.0|JAMA|POLIOMYELITIS VIRUS IN HUMAN STOOLS
+1939|0|0.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|An Explanation for the Occurrence of Capillaria hepatica Ova in Human Faeces suggested by the Finding of Three New Hosts used as Food.
+1940|3.0|0.0|Journal of Dairy Science|Rumen digestion in the bovine with some observations on the digestibility of alfalfa hay.
+1941|0|0.0|The Journal of Agricultural Science|Studies on the excretion of copper in the rabbit
+1942|1.0|1.0|The Lancet|NEONATAL THRUSH IN A MATERNITY HOSPITAL
+1943|1.0|0.0|Acta Paediatrica|The Metabolism of Bile Pigments in Infants, with Special Regard to Icterus Neonatorum
+1945|0|0.0|Journal of Hygiene|The influence of Salmonella typhi-murium infection in rats on vitamin A metabolism
+1946|8.0|4.0|JAMA Internal Medicine|Absorption, Distribution and Excretion of Streptomycin.
+1948|2.0|1.0|The American Journal of Medicine|Effects of immobilization upon various metabolic and physiologic functions of normal men
+1949|0|0.0|Tubercle|Childhood tuberculosis in Middlesbrough 1947 and 1948
+1950|5.0|1.0|British Journal of Nutrition|Copper pine of calves.
+1951|1.0|1.0|Journal of Dairy Science|The effect of substituting colostrum for whole milk in the ration of dairy calves.
+1953|4.0|2.5|British Journal of Nutrition|Antibiotics in the diet of the fattening pig.
+1954|2.0|2.0|Experimental Parasitology|Observations on immunity to superinfection with Schistosoma mansoni and S. haematobium in monkeys
+1955|7.0|3.0|JAMA Internal Medicine|Fecal Flora of Man after Oral Administration of Chlortetracycline or Oxytetracycline.
+1956|3.0|3.0|The New England Journal of Medicine|Absorption, elimination and excretion of orally administered vitamin B12 in normal subjects and in patients with pernicious anemia.
+1958|5.0|0.0|Archives of Biochemistry and Biophysics|Studies on absorption and metabolism of propylene glycol distearate
+1959|1.0|0.0|British Journal of Nutrition|The diet of sledge dogs.
+1960|12.0|1.0|British Journal of Nutrition|Excretion of chromium sesquioxide administered as a component of paper to sheep.
+1961|6.0|1.5||The feed intake of grazing cattle. II. The influence of size of animal on feed intake
+1962|5.0|1.5|Journal of Nutrition|Effect of threonine-induced amino acid imbalance on the excretion of tryptophan metabolites by the rat.
+1963|12.0|1.0|Journal of Clinical Investigation|Quantitation of calcium metabolism. Theory.
+1964|8.0|2.0|The New England Journal of Medicine|Low-fat diet in intestinal lymphangiectasia. Its effect on albumin metabolism.
+1965|8.0|3.0|Comparative Biochemistry and Physiology|Digestion, growth and nitrogen balance in an egg-laying mammal Tachyglossus aculeatus (Shaw).
+1966|14.0|2.0|Journal of Clinical Investigation|Medium and long chain fat absorption in patients with cirrhosis.
+1967|17.0|4.0|The Lancet|UTILISATION OF AMMONIA NITROGEN FOR PROTEIN SYNTHESIS IN MAN, AND THE EFFECT OF PROTEIN RESTRICTION AND URMIA
+1968|9.0|2.0|Clinica Chimica Acta|Fecal steroid excretion during weight reduction in obese patients with hyperlipidemia.
+1969|15.0|1.0|Journal of Clinical Investigation|The quantitative relationship of urinary peptide hydroxyproline excretion to collagen degradation
+1970|18.0|2.0|Journal of Experimental Medicine|THE TOXOPLASMA GONDII OOCYST FROM CAT FECES
+1971|10.0|4.0|Journal of Clinical Investigation|Fecal excretion of bile acids: a new technique for studying bile acid kinetics in patients with ileal resection
+1972|9.0|2.0|Biochimica et Biophysica Acta|Adaptive changes of the rat small intestine in response to a high fat diet
+1973|28.0|2.5|Journal of Clinical Investigation|Effect of Oral Chenodeoxycholic Acid on Bile Acid Kinetics and Biliary Lipid Composition in Women with Cholelithiasis
+1974|10.0|3.0|The Journal of Pediatrics|Nosocomial colonization with Klebsiella, type 26, in a neonatal intensive-care unit associated with an outbreak of sepsis, meningitis, and necrotizing enterocolitis
+1975|4.0|1.0|Acta Pathologica Microbiologica Scandinavica Section B Microbiology|ESCHERICHIA COLI SEROGROUPS IN BREASTFED AND BOTTLEFED INFANTS
+1976|6.0|2.0|JAMA|Resistance to Nalidixic Acid: A Misconception Due to Underdosage
+1977|16.0|6.0|Gut|Giardiasis: clinical and therapeutic aspects.
+1978|18.0|1.5|Current Microbiology|Toxigenicity and antimicrobial susceptibility of Clostridium difficile, a cause of antimicrobial agent-associated colitis.
+1979|15.0|3.0|Journal of Clinical Pathology|Viruses in the stools.
+1980|30.0|2.0|The Lancet|COMPARISON OF TRIMETHOPRIM ALONE WITH TRIMETHOPRIM SULPHAMETHOXAZOLE IN THE TREATMENT OF RESPIRATORY AND URINARY INFECTIONS WITH PARTICULAR REFERENCE TO SELECTION OF TRIMETHOPRIM RESISTANCE
+1981|10.0|2.0|Journal of Clinical Investigation|Cholesterol and bile acid balance in Macaca fascicularis. Effects of alfalfa saponins.
+1982|6.0|2.5|Mutation Research|Mutagens in human faeces: are they relevant to cancer of the large bowel?
+1983|9.0|2.0|Physiology & Behavior|The maternal pheromone of the rat: Testing some assumptions underlying a hypothesis
+1984|10.0|2.0|Journal of Hygiene|Methods for the isolation of Aeromonas hydrophila and Plesiomonas shigelloides from faeces.
+1985|17.0|1.5|Toxicology and Applied Pharmacology|Uptake and excretion of [14C]methyl bromide as influenced by exposure concentration
+1986|34.0|2.0|Environmental Health Perspectives|Metabolism and possible health effects of aluminum
+1987|16.0|2.0|Epidemiology and Infection|Predisposition to Trichuris trichiura infection in humans.
+1988|27.0|3.0|International Journal of Food Microbiology|Detection of Listeria spp. in faeces from animals, in feeds, and in raw foods of animal origin.
+1989|26.0|2.0|Environmental Toxicology and Chemistry|Bioconcentration of polybrominated benzenes and biphenyls and related superhydrophobic chemicals in fish: Role of bioavailability and elimination into the feces
+1990|41.0|2.0|Journal of Clinical Microbiology|Rotavirus serotypes 6 and 10 predominate in cattle.
+1991|15.0|4.0|Theriogenology|Pregnancy determination in uncaptured feral horses by means of fecal steroid conjugates
+1992|21.0|3.0|Parasitology|Coproantigen detection for immunodiagnosis of echinococcosis and taeniasis in dogs and humans
+1993|30.0|2.5|Advances in Agronomy|Nutrient cycling and soil fertility in the grazed pasture ecosystem
+1994|41.0|3.0|Epidemiology and Infection|The prevalence of Escherichia coli O157.H7 in dairy and beef cattle in Washington State.
+1995|47.0|5.0|Infection and Immunity|Effect of oral immunization with recombinant urease on murine Helicobacter felis gastritis.
+1996|59.0|4.0|Antimicrobial Agents and Chemotherapy|Vancomycin-resistant enterococci from nosocomial, community, and animal sources in the United States.
+1997|134.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Limited oral bioavailability and active epithelial excretion of paclitaxel (Taxol) caused by P-glycoprotein in the intestine
+1998|143.0|7.0|Journal of Medical Virology|Fecal excretion of a nonenveloped DNA virus (TTV) associated with posttransfusion nonAG hepatitis
+1999|78.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|Molecular characterization of H9N2 influenza viruses: Were they the donors of the internal genes of H5N1 viruses in Hong Kong?
+2000|201.0|7.0|BMJ|Exposure to foodborne and orofecal microbes versus airborne viruses in relation to atopy and allergic asthma: epidemiological study.
+2001|117.0|9.5|Applied and Environmental Microbiology|Bifidobacterial Diversity in Human Feces Detected by Genus-Specific PCR and Denaturing Gradient Gel Electrophoresis
+2002|128.0|8.0|Applied and Environmental Microbiology|Microbial Source Tracking: Current Methodology and Future Directions
+2003|230.0|11.0|Cancer|Progress in cancer screening practices in the United States: results from the 2000 National Health Interview Survey.
+2004|211.0|14.0|Gut|Once daily high dose probiotic therapy (VSL#3) for maintaining remission in recurrent or refractory pouchitis.
+2005|99.0|10.0|Applied and Environmental Microbiology|Persistence and Differential Survival of Fecal Indicator Bacteria in Subtropical Waters and Sediments
+2006|729.0|12.0|Science|Metagenomic Analysis of the Human Distal Gut Microbiome
+2007|464.0|12.0|PLOS Biology|Development of the Human Infant Intestinal Microbiota
+2008|635.0|12.0|Science|Evolution of Mammals and Their Gut Microbes
+2009|1667.0|10.0|Nature|A core gut microbiome in obese and lean twins.
+2010|2576.0|11.0|Nature Methods|QIIME allows analysis of high-throughput community sequencing data

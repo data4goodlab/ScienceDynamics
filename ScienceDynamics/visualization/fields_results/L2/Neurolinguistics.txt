@@ -1,0 +1,51 @@
+----  Field Name Neurolinguistics: 
+----  Field Level 2.0: 
+----  Field Papers Number 7529:
+----  All time max citation paper: Cognitive and emotional influences in anterior cingulate cortex, 2000, (2771.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1966|23.0|23.0|Electroencephalography and Clinical Neurophysiology|Motivational determinants of the contingent negative variation
+1967|9.0|9.0|Electroencephalography and Clinical Neurophysiology|Contingent negative variation and evoked responses recorded by radio-telemetry in free-ranging subjects
+1968|24.0|24.0|Electroencephalography and Clinical Neurophysiology|The effects of attention and distraction on the contingent negative variation in normal and neurotic subjects
+1969|17.0|15.0|Physiology & Behavior|Relationships between the contingent negative variation (CNV) and reaction time
+1970|15.0|10.0|Experimental Brain Research|Differentiation between slow cortical potentials associated with motor and mental acts in man
+1971|13.0|6.0|Electroencephalography and Clinical Neurophysiology|Readiness potential, vertex positive wave, contingent negative variation and accuracy of perception
+1972|12.0|9.0|Psychophysiology|Is the contingent negative variation contingent on a motor response?
+1973|27.0|4.5|Journal of Verbal Learning and Verbal Behavior|Lexical access and naming time
+1974|16.0|7.5|Biological Psychology|Selective attention, contingent negative variation and the evoked potential
+1975|31.0|6.0|Biological Psychology|The impact of warning signal intensity on reaction time and components of the contingent negative variation
+1976|49.0|2.0|Cognitive Psychology|Eye fixations and cognitive processes
+1977|58.0|2.0|Journal of Experimental Psychology: General|Semantic Priming and Retrieval from Lexical Memory: Roles of Inhibitionless Spreading Activation and Limited-Capacity Attention.
+1978|13.0|8.0|Biological Psychology|The effect of warning stimulus novelty on the P300 and components of the contingent negative variation
+1979|46.0|5.0|Behavioral and Brain Sciences|Neurolinguistics must be computational
+1980|6.0|1.0|Psychophysiology|Heart Rate, Contingent Negative Variation, and Evoked Potentials during Anticipation of Affective Stimulation
+1981|8.0|3.0|Psychophysiology|Normalizing Effects of Methylphenidate on Hyperactive Children's Vigilance Performance and Evoked Potentials
+1982|195.0|2.0|Psychological Review|How Does a Brain Build a Cognitive Code?
+1983|57.0|5.0|Journal of Theoretical Biology|A Stone's Throw and its Launch Window: Timing Precision and its Implications for Language and Hominid Brains
+1984|56.0|4.0|Nature|Brain potentials during reading reflect word expectancy and semantic association.
+1985|57.0|2.0|Electroencephalography and Clinical Neurophysiology|Auditory frequency discrimination and event-related potentials
+1986|158.0|4.0|Behavioral and Brain Sciences|Semantic activation without conscious identification in dichotic listening, parafoveal vision, and visual masking: A survey and appraisal
+1987|163.0|18.0|Psychophysiology|The N1 Wave of the Human Electric and Magnetic Response to Sound: A Review and an Analysis of the Component Structure
+1988|48.0|4.5|Psychophysiology|EventRelated Potentials to TimeDeviant and PitchDeviant Tones
+1989|54.0|5.0|Neuroscience Letters|Do event-related potentials reveal the mechanism of the auditory sensory memory in the human brain?
+1990|53.0|5.5|Psychophysiology|Relationships Between N1, P300, and Contingent Negative Variation Recorded at Age 15 and Criminal Behavior at Age 24
+1991|49.0|5.0|Psychophysiology|The Effects of ChannelSelective Attention on the Mismatch Negativity Wave Elicited by Deviant Tones
+1992|47.0|6.0|Journal of Cognitive Neuroscience|Priming and Multiple Memory Systems: Perceptual Mechanisms of Implicit Memory
+1993|57.0|7.0|Psychophysiology|Semantic priming and stimulus degradation: Implications for the role of the N400 in language processing
+1994|50.0|6.0|Journal of Cognitive Neuroscience|Language-related erps: Scalp distributions and modulation by word type and semantic priming
+1995|60.0|7.0|Electroencephalography and Clinical Neurophysiology|Intracerebral potentials to rare target and distractor auditory and visual stimuli. I. Superior temporal plane and parietal lobe
+1996|43.0|6.0|Journal of Personality and Social Psychology|Automatic and controlled processes in stereotype priming
+1997|54.0|6.0|Neuroscience|Low-frequency (< 1 Hz) oscillations in the human sleep electroencephalogram.
+1998|153.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|The role of left prefrontal cortex in language and memory.
+1999|68.0|7.0|Psychophysiology|Combining electrophysiological and hemodynamic measures of the auditory oddball
+2000|492.0|9.0|Trends in Cognitive Sciences|Cognitive and emotional influences in anterior cingulate cortex
+2001|194.0|9.0|Behavioral and Brain Sciences|A sensorimotor account of vision and visual consciousness.
+2002|292.0|9.0|Psychological Review|The neural basis of human error processing: reinforcement learning, dopamine, and the error-related negativity.
+2003|343.0|11.0|Annual Review of Psychology|Implicit Measures in Social Cognition Research: Their Meaning and Use
+2004|288.0|10.0|Psychological Review|The neural basis of error detection: conflict monitoring and the error-related negativity.
+2005|231.0|12.0|Behavioral and Brain Sciences|From monkey-like action recognition to human language: An evolutionary framework for neurolinguistics
+2006|668.0|12.0|Nature Reviews Neuroscience|Meeting of minds: the medial frontal cortex and social cognition
+2007|724.0|11.0|Clinical Neurophysiology|Updating P300: An integrative theory of P3a and P3b
+2008|402.0|11.0|Journal of Memory and Language|Categorical Data Analysis: Away from ANOVAs (Transformation or Not) and towards Logit Mixed Models.
+2009|224.0|10.0|Science|Priming in Systemic Plant Immunity
+2010|553.0|10.0|Annual Review of Psychology|Thirty years and counting: finding meaning in the N400 component of the event-related brain potential (ERP).

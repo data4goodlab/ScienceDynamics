@@ -1,0 +1,43 @@
+----  Field Name Industrial engineering: 
+----  Field Level 1.0: 
+----  Field Papers Number 2510:
+----  All time max citation paper: Bond Pricing and the Term Structure of Interest Rates: A New Methodology for Contingent Claims Valuation, 1992, (1160.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1969|0|0.0||A system for network picture processing with interactive computer graphics
+1970|4.0|4.0|IEEE Transactions on Reliability|Renewal Theoretic Aspects of Two-Unit Redundant Systems
+1971|3.0|3.0|IEEE Transactions on Reliability|Reliability Analysis of Systems Comprised of Units with Arbitrary Repair-Time Distributions
+1974|10.0|6.5||Measuring Power in Weighted Voting Systems
+1976|3.0|1.5||The Empirical Distribution Function with Arbitrarily Grouped, Censored, and Truncated Data
+1978|5.0|5.0|Operations Research|Internal Telephone Billing RatesA Novel Application of Non-Atomic Game Theory
+1979|8.0|8.0|Journal of Econometrics|Market Analysis with Rational Expectations: Theory and Estimation.
+1980|0|0.0|Computers & Industrial Engineering|Speech synthesizers-talking computers: development and impact on industrial engineering
+1982|6.0|3.0|Journal of Operations Management|Case studies of computer integrated manufacturing systems: A view of uncertainty and innovation processes
+1983|6.0|3.0||Quality control and learning in productive systems
+1984|29.0|2.0|Journal of Manufacturing Systems|Decision support requirements in flexible manufacturing
+1985|10.0|2.0|decision support systems|Decision support in computer-integrated manufacturing
+1986|10.0|2.0|Mathematics of Operations Research|A 98%-effective lot-sizing rule for a multi-product, multi-stage production/inventory system
+1987|22.0|2.0|Communications of The ACM|An experimental procedure for simulation response surface model identification
+1988|20.0|1.0|Cirp Annals-manufacturing Technology|Computer-Aided Process Planning: The Present and the Future
+1989|9.0|1.0|symposium on computational geometry|On monotone paths among obstacles with applications to planning assemblies
+1990|16.0|1.0|Statistical Science|Statistical Approaches to Interim Monitoring of Medical Trials: A Review and Commentary
+1991|24.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|An efficiently computable metric for comparing polygonal shapes
+1992|132.0|2.0|Econometrica|Bond Pricing and the Term Structure of Interest Rates: A New Methodology for Contingent Claims Valuation
+1993|38.0|1.5|Mathematics of Operations Research|On adaptive-step primal-dual interior-point algorithms for linear programming
+1994|19.0|2.0|Advances in Engineering Software|Building MRSEV models for CAM applications
+1995|21.0|2.0|IEEE Transactions on Robotics and Automation|Synthesis using resource control nets for modeling shared-resource systems
+1996|24.0|1.0|formal methods in computer-aided design|ACL2 Theorems About Commercial Microprocessors
+1997|51.0|2.0|Mathematics of Operations Research|Self-scaled barriers and interior-point methods for convex programming
+1998|41.0|1.0|ACM Transactions on Software Engineering and Methodology|Discovering models of software processes from event-based data
+1999|29.0|2.0|IEEE Transactions on Robotics and Automation|Deadlock avoidance for production systems with flexible routing
+2000|32.0|2.0|IEEE Transactions on Education|Defining the outcomes: a framework for EC-2000
+2001|20.0|2.0|Annals of Probability|The Euler scheme for Levy driven stochastic differential equations
+2002|45.0|2.0|Behavior Research Methods|A breadth-first survey of eye-tracking applications
+2003|38.0|2.0|Computers in Industry|Fuzzy group decision making for selection among computer integrated manufacturing systems
+2004|77.0|3.0|Applied Microbiology and Biotechnology|Biotechnological advantages of laboratory-scale solid-state fermentation with fungi.
+2005|101.0|3.0|hawaii international conference on system sciences|Exploiting Sink Mobility for Maximizing Sensor Networks Lifetime
+2006|40.0|2.0|IEEE Transactions on Fuzzy Systems|A new version of 2-tuple fuzzy linguistic representation model for computing with words
+2007|91.0|2.0|IEEE Transactions on Electron Devices|Magnetic Tunnel Junctions for Spintronic Memories and Beyond
+2008|92.0|1.0|Iie Transactions|Appointment scheduling in health care: Challenges and opportunities
+2009|61.0|1.0|Computers & Industrial Engineering|Economic production quantity with rework process at a single-stage manufacturing system with planned backorders
+2010|247.0|2.0|Journal of Environmental Management|Environmentally conscious manufacturing and product recovery (ECMPRO): A review of the state of the art.

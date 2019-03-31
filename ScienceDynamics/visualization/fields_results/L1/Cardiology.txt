@@ -1,0 +1,60 @@
+----  Field Name Cardiology: 
+----  Field Level 1.0: 
+----  Field Papers Number 25065:
+----  All time max citation paper: Angiogenesis in cancer, vascular, rheumatoid and other disease., 1995, (4278.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1949|1.0|1.0|The Lancet|THE CARDIOLOGY OF OLD AGE
+1958|2.0|2.0|Journal of Clinical Investigation|THE MEASUREMENT OF THE PULMONARY DIFFUSING CAPACITY IN THE PRESENCE OF LUNG DISEASE
+1959|2.0|1.0|Acta Medica Scandinavica|Diffusing Capacity of the Lungs as a Limiting Factor for Physical Working Capacity
+1960|2.0|2.0|American Journal of Cardiology|Theoretic background of therapy with monoamine oxidase inhibitors in cardiology
+1961|4.0|2.0|The Journal of Pediatrics|Studies of respiratory physiology in children: V. Total lung diffusion, diffusing capacity of pulmonary membrane, and pulmonary capillary blood volume in normal subjects from 7 to 40 years of age
+1962|4.0|2.0|American Heart Journal|Pulmonary diffusing capacity and pulmonary capillary blood volume in normal subjects and in cardiac patients
+1963|13.0|13.0|Progress in Cardiovascular Diseases|Applications of ultrasound in cardiology and cardiovascular physiology
+1964|7.0|3.0|American Journal of Cardiology|Hazards of electric shock in cardiology
+1965|1.0|1.0|Acta Physiologica Scandinavica|Steady State Diffusing Capacity during Prolonged, NonSteady State Sitting Exercise in Ordinarily Trained Young Men
+1966|13.0|1.5|Nuclear Physics|L -space localization in deuteron stripping reactions
+1967|4.0|2.0|The Journal of General Physiology|Pacemaker Potentials for the Periodic Burst Discharge in the Heart Ganglion of a Stomatopod, Squilla oratoria
+1968|16.0|1.0|Journal of Geophysical Research|Temperature and pressure derivatives of isotropic sound velocities of  quartz
+1969|7.0|3.0|Earth and Planetary Science Letters|COMPARISON OF THE 1968 P TABLES WITH TIMES FROM NUCLEAR EXPLOSIONS. II. THE MARSHALL ISLANDS AND SAHARA SERIES.
+1970|37.0|5.0|Circulation Research|Patterns of atrioventricular conduction in the human heart
+1971|6.0|2.5|American Journal of Cardiology|Peripheral venous scintillation angiocardiography in determination of left ventricular volume in man
+1972|24.0|3.0|The Journal of General Physiology|Conduction of the Cardiac Impulse : III. Characteristics of very slow conduction
+1973|19.0|3.0|IEEE Transactions on Computers|Waveform Segmentation Through Functional Approximation
+1974|46.0|1.0|The Journal of General Physiology|Effects of Epinephrine on the Pacemaker Potassium Current of Cardiac Purkinje Fibers
+1975|27.0|6.0|The Journal of General Physiology|Multiple effects of calcium antagonists on plateau currents in cardiac Purkinje fibers.
+1976|19.0|2.0|The Journal of General Physiology|Control of action potential duration by calcium ions in cardiac Purkinje fibers.
+1977|12.0|2.0|Seminars in Nuclear Medicine|Radiocardiography in clinical cardiology
+1978|8.0|2.0|Cellular and Molecular Life Sciences|Neuronal responses to extracellularly applied cyclic AMP: Role of the adenosine receptor
+1979|84.0|2.0|American Journal of Cardiology|Sudden cardiac death: The major challenge confronting contemporary cardiology
+1980|42.0|3.0|American Journal of Cardiology|Exercise radionuclide imaging approaches to coronary artery disease
+1981|174.0|2.5|Life Sciences|Adenosine receptors in the central nervous system: Relationship to the central actions of methylxanthines
+1982|55.0|7.0|The Journal of Neuroscience|Autoradiographic localization of adenosine receptors in rat brain using [3H]cyclohexyladenosine
+1983|40.0|4.0|Cellular and Molecular Neurobiology|Subclasses of adenosine receptors in the central nervous system: interaction with caffeine and related methylxanthines.
+1984|47.0|3.0|Journal of Molecular and Cellular Cardiology|Regulation of cardiac calcium channel current and contractile activity by the dihydropyridine Bay K 8644 is voltage-dependent.
+1985|27.0|3.0|Journal of Neurochemistry|Barbiturates Are Selective Antagonists at A1 Adenosine Receptors
+1986|66.0|2.0|Pflgers Archiv: European Journal of Physiology|On the mechanism of activation of muscarinic K + channels by adenosine in isolated atrial cells: involvement of GTP-binding proteins
+1987|55.0|3.0|Neuroscience Letters|An adenosine analogue, 2-chloroadenosine, protects against long term development of ischaemic cell loss in the rat hippocampus
+1988|102.0|1.0|Journal of the American College of Cardiology|Thrombolysis in myocardial infarction (TIMI) trialPhase I: Hemorrhagic manifestations and changes in plasma fibrinogen and the fibrinolytic system in patients treated with recombinant tissue plasminogen activator and streptokinase
+1989|50.0|2.0|American Journal of Cardiology|Use of technetium-99m isonitrile (RP-30A) in assessing left ventricular perfusion and function at rest and during exercise in coronary artery disease, and comparison with coronary arteriography and exercise thallium-201 SPECT imaging
+1990|64.0|2.0|Journal of the American College of Cardiology|Guidelines for the early management of patients with acute myocardial infarction: A report of the American College of Cardiology/American Heart Association Task Force on Assessment of Diagnostic and Therapeutic Cardiovascular Procedures (subcommittee to develop guidelines for the early management of patients with acute myocardial infarction)
+1991|23.0|3.0|Ultrasound in Medicine and Biology|Cyclic changes of blood echogenicity in high-frequency ultrasound
+1992|106.0|2.0|JAMA|Variations in Resource Utilization Among Medical Specialties and Systems of Care: Results From the Medical Outcomes Study
+1993|134.0|2.0|Trends in Pharmacological Sciences|Adenosine receptor subtypes
+1994|55.0|3.0|European Journal of Pharmacology|Adenosine A 3 receptor stimulation and cerebral ischemia
+1995|599.0|6.0|Nature Medicine|Angiogenesis in cancer, vascular, rheumatoid and other disease.
+1996|91.0|4.0|Current Opinion in Neurobiology|Purinergic receptors: Their role in nociception and primary afferent neurotransmission
+1997|121.0|4.0|Trends in Neurosciences|Adenosinedopamine receptorreceptor interactions as an integrative mechanism in the basal ganglia
+1998|134.0|4.5|Journal of the American College of Cardiology|New Doppler echocardiographic applications for the study of diastolic function.
+1999|276.0|5.0|Progress in Neurobiology|The induction of pain: an integrative review.
+2000|258.0|6.0|BMJ|Association of systolic blood pressure with macrovascular and microvascular complications of type 2 diabetes (UKPDS 36): prospective observational study
+2001|285.0|5.0|Circulation|Lack of Neointimal Proliferation After Implantation of Sirolimus-Coated Stents in Human Coronary Arteries A Quantitative Coronary Angiography and Three-Dimensional Intravascular Ultrasound Study
+2002|315.0|7.0|Journal of the American College of Cardiology|ACC/AHA 2002 guideline update for the management of patients with unstable angina and non-ST-segment elevation myocardial infarction--summary article: a report of the American College of Cardiology/American Heart Association task force on practice guidelines (Committee on the Management of Patients With Unstable Angina).
+2003|385.0|6.5|Annual Review of Neuroscience|THE ROLE AND REGULATION OF ADENOSINE IN THE CENTRAL NERVOUS SYSTEM
+2004|391.0|6.0|Journal of the American College of Cardiology|Transplantation of progenitor cells and regeneration enhancement in acute myocardial infarction: Final one-year results of the TOPCARE-AMI Trial
+2005|694.0|7.0|Journal of the American College of Cardiology|Diagnostic accuracy of noninvasive coronary angiography using 64-slice spiral computed tomography
+2006|530.0|6.0|Diabetic Medicine|Metabolic syndrome--a new world-wide definition. A Consensus Statement from the International Diabetes Federation.
+2007|472.0|7.0|Nature Medicine|MicroRNA-133 controls cardiac hypertrophy
+2008|1486.0|7.0|Statistics in Medicine|Evaluating the added predictive ability of a new marker: From area under the ROC curve to reclassification and beyond
+2009|949.0|6.0|European Journal of Echocardiography|Recommendations for the evaluation of left ventricular diastolic function by echocardiography
+2010|256.0|6.0|European Heart Journal|Expert review document on methodology, terminology, and clinical applications of optical coherence tomography: physical principles, methodology of image acquisition, and clinical application for assessment of coronary arteries and atherosclerosis

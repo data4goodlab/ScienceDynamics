@@ -1,0 +1,39 @@
+----  Field Name Systems biology: 
+----  Field Level 2.0: 
+----  Field Papers Number 22784:
+----  All time max citation paper: Initial sequencing and analysis of the human genome, 2001, (10313.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1966|1.0|1.0|Separation Science and Technology|Separation, Identification, and Estimation of Human Steroid Hormones and Their Metabolites: Applications to Adrenocortical Steroids
+1969|19.0|19.0|Nature|Recognition of Bacterial Initiator tRNA by Initiation Factors
+1971|30.0|2.0|Nature|Estimation of Secondary Structure in Ribonucleic Acids
+1972|12.0|12.0|Nature|Spontaneous Release of Type C Viruses from Clonal Lines of Spontaneously Transformed Balb/3T3 Cells
+1974|19.0|10.0|Nature|Stratospheric sink for chlorofluoromethanes: chlorine atomc-atalysed destruction of ozone
+1975|557.0|13.0|Nature|Identification of two related pentapeptides from the brain with potent opiate agonist activity
+1976|168.0|12.5|Nature|C fragment of lipotropin has a high affinity for brain opiate receptors
+1977|67.0|9.0|Nature|Role of prostaglandin endoperoxide PGG2 in inflammatory processes
+1979|0|0.0|Energy and Buildings|Towards a systems biology of the built environment
+1980|406.0|46.5|Nature|The role of hormone receptors and GTP-regulatory proteins in membrane transduction.
+1982|8.0|4.0|Journal of Theoretical Biology|Metabolic network sensitivity analysis
+1984|11.0|7.5|Journal of Theoretical Biology|Mathematical modelling of dynamics and control in metabolic networks. I. On michaelis-menten kinetics
+1985|6.0|1.0|Journal of Theoretical Biology|Mathematical modelling of dynamics and control in metabolic networks. III. Linear reaction sequences
+1987|6.0|6.0|Plant Growth Regulation|Plant Growth Regulators in Cell and Tissue Culture of Woody Perennials
+1988|4.0|3.0|FEBS Journal|Control analysis of metabolic networks. 2. Total differentials and general formulation of the connectivity relations
+1991|63.0|33.5|Science|Toward a science of metabolic engineering
+1992|6.0|3.0|Biotechnology and Bioengineering|Optimization in integrated biochemical systems
+1995|19.0|5.0|Biotechnology and Bioengineering|A metabolic network stoichiometry analysis of microbial growth and product formation
+1996|14.0|1.5|Antonie Van Leeuwenhoek International Journal of General and Molecular Microbiology|Physiology of pyruvate metabolism in Lactococcus lactis.
+1997|1035.0|50.0|Nature|Functional rafts in cell membranes
+1998|2478.0|52.0|Nature|Dendritic cells and the control of immunity
+1999|798.0|53.0|Nature|Molecular characterization of mitochondrial apoptosis-inducing factor
+2000|1400.0|54.0|Nature|Distinct types of diffuse large B-cell lymphoma identified by gene expressionprofiling
+2001|4579.0|51.0|Nature|Initial sequencing and analysis of the human genome
+2002|1438.0|48.0|Nature|Pluripotency of mesenchymal stem cells derived from adult marrow
+2003|1006.0|53.0|Nature|The International HapMap Project
+2004|1050.0|43.0|Nature|Identification of human brain tumour initiating cells
+2005|1559.0|41.0|Nature|MicroRNA expression profiles classify human cancers.
+2006|1988.0|31.0|Nature|Reciprocal developmental pathways for the generation of pathogenic effector TH17 and regulatory T cells
+2007|1465.0|29.0|Nature|A second generation human haplotype map of over 3.1 million SNPs.
+2008|2058.0|32.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|35.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|2096.0|24.0|Nature|A human gut microbial gene catalogue established by metagenomic sequencing

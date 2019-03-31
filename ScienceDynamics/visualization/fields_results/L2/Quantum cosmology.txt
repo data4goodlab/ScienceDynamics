@@ -1,0 +1,32 @@
+----  Field Name Quantum cosmology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1530:
+----  All time max citation paper: Background Independent Quantum Gravity: A Status Report, 2004, (207.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1979|0|0.0|General Relativity and Gravitation|On Wheeler's rule of unanimity in quantum cosmology
+1984|1.0|1.0|Physics Letters A|Cosmology and the pilot wave interpretation of quantum mechanics
+1986|2.0|2.0|Physics Reports|Interpreting the wave function of the universe
+1988|3.0|2.0|Physics Letters B|On the beginning and the end of classical evolution in quantum cosmology
+1989|4.0|2.5|Nuclear Physics|Exactly solvable quantum cosmologies from two killing field reductions of general relativity
+1990|6.0|3.5|Physics Letters B|Quantum cosmology with antisymmetric tensor fields
+1991|11.0|0.0||INTRODUCTORY LECTURES ON QUANTUM COSMOLOGY 
+1992|3.0|1.0||Quantum origin of noise and fluctuations in cosmology
+1993|2.0|0.0|Physics Reports|Unitarity approach to quantum cosmology
+1994|10.0|1.0|Journal of Statistical Physics|On the consistent histories approach to quantum mechanics
+1995|8.0|1.0||Spin Networks in Nonperturbative Quantum Gravity
+1996|8.0|1.0||On the Gauge Aspects of Gravity
+1997|14.0|2.0|Journal of Functional Analysis|Functional integration on spaces of connections
+1998|16.0|1.0|Journal of Mathematical Physics|Multidimensional Classical and Quantum Cosmology with Intersecting p-branes
+1999|11.0|1.0|Advances in Theoretical and Mathematical Physics|Domain walls of gauged supergravity, M-branes, and algebraic curves
+2000|13.0|1.0||Notes for a brief history of quantum gravity
+2001|11.0|3.0|Living Reviews in Relativity|The Thermodynamics of Black Holes
+2002|33.0|1.0|Physics Reports|The pre-big bang scenario in string cosmology
+2003|89.0|1.0|Journal of High Energy Physics|Multi-dimensional classical and quantum cosmology: Exact solutions, signature transition and stabilization
+2004|95.0|2.0|Journal of High Energy Physics|Classical Stability of Black D3-branes
+2005|15.0|1.0||Lectures on fuzzy and fuzzy SUSY physics
+2006|56.0|2.0|Journal of High Energy Physics|Quantum cosmology aspects of D3 branes and tachyon dynamics
+2007|35.0|2.0|Journal of High Energy Physics|Moduli flow and non-supersymmetric AdS attractors
+2008|93.0|2.0|Physical Review D|The Kerr/CFT Correspondence
+2009|151.0|2.0|Physics Today|Alternatives to Cosmological Inflation
+2010|123.0|2.0||Introduction to Holographic Superconductors

@@ -1,0 +1,45 @@
+----  Field Name Physical education: 
+----  Field Level 2.0: 
+----  Field Papers Number 6230:
+----  All time max citation paper: Putting like a pro: the role of positive contagion in golf performance and perception., 2011, (1821.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1968|0|0.0|Planta|EFFECT OF HEAVY WATER ON THE GERMINATION OF A NUMBER OF SPECIES OF SEEDS.
+1969|1.0|1.0|Experimental Parasitology|Chromosome analysis of Hymenolepis microstoma
+1973|0|0.0|Phytochemistry|Properties of ascorbate oxidase isozymes
+1974|3.0|0.0|Phytochemistry|De novo synthesis and hormonal regulation of a dipeptidase in Cucurbita maxima
+1976|0|0.0||Urinary epinephrine and norepinephrine levels in women athletes during training and competition
+1977|5.0|5.0|Phytochemistry|Multiple forms of -galactosidase in mature leaves of Cucurbita pepo
+1978|0|0.0|Sex Roles|Sex-role prescriptions and attitudes of physical educators
+1979|3.0|2.0|Journal of Experimental Education|The Attitudes of Elementary School Children toward School and Subject Matters.
+1980|2.0|1.5||Force-, power-, and elasticity-velocity relationships in walking, running, and jumping.
+1981|7.0|3.5|Ophthalmology|Sports Eye Injuries A Preventable Disease
+1982|3.0|1.0|Research Quarterly for Exercise and Sport|The Dynamics of Leisure Motivation: The Effects of Outcome on Leisure Needs
+1983|5.0|0.5||Mechanical power test and fiber composition of human leg extensor muscles
+1984|12.0|2.0|Instructional Science|From Behaviourism to Cognitive Behaviourism to Cognitive Development: Steps in the Evolution of Instructional Design.
+1985|1.0|1.0|Educational Theory|The Public School and Social Services: Reassessing the Progressive Legacy
+1986|2.0|1.0|Sex Roles|Competitiveness among females and males in physical activity classes.
+1987|6.0|2.0||Relative body fat and anthropometric prediction of body density of female athletes.
+1988|8.0|1.5|FEBS Letters|Cloning and nucleotide sequence of cDNA for the plastid glycerol-3-phosphate acyltransferase from squash
+1989|9.0|0.0|Research Quarterly for Exercise and Sport|Qualitative research as a form of scientific inquiry in sport and physical education.
+1990|4.0|0.0|Quest|The scientization of physical education: discourses of performance.
+1991|15.0|1.0|American Journal of Public Health|Promoting Physical Activity and a Healthful Diet among Children: Results of a School-Based Intervention Study.
+1992|6.0|1.0|Journal of School Health|Adolescents' perceptions of relative weight and self-reported weight loss activities.
+1993|18.0|1.0|The New England Journal of Medicine|Sudden death in young athletes. Lessons from the Hank Gathers affair.
+1994|15.0|2.0|Physiologia Plantarum|Boron uptake by sunflower, squash and cultured tobacco cells
+1995|47.0|2.0|Bone|Bone mineral density in female athletes representing sports with different loading characteristics of the skeleton.
+1996|57.0|3.5|The Journal of Allergy and Clinical Immunology|Leukotriene antagonists and synthesis inhibitors: New directions in asthma therapy
+1997|23.0|1.0|Bone|Bone mass and bone turnover in power athletes, endurance athletes, and controls: A 12-month longitudinal study
+1998|18.0|2.0|British Journal of Sports Medicine|Sport and active recreation injuries in Australia: evidence from emergency department presentations
+1999|52.0|2.0|JAMA|Traumatic brain injury in high school athletes.
+2000|39.0|3.0|The Journal of Pediatrics|Augmented trochanteric bone mineral density after modified physical education classes: A randomized school-based exercise intervention study in prepubescent and early pubescent children
+2001|49.0|3.0|American Journal of Preventive Medicine|Parental provision of transportation for adolescent physical activity
+2002|31.0|3.0|Spine|Individual factors, occupational loading, and physical exercise as predictors of sciatic pain.
+2003|85.0|5.0|The Journal of Allergy and Clinical Immunology|Roles of cysteinyl leukotrienes in airway inflammation, smooth muscle function, and remodeling
+2004|129.0|5.0|human factors in computing systems|The perfect search engine is not enough: a study of orienteering behavior in directed search
+2005|72.0|4.0|British Journal of Educational Psychology|A Test of Self-Determination Theory in School Physical Education.
+2006|115.0|5.0|The Future of Children|The Role of Schools in Obesity Prevention.
+2007|179.0|5.0|PLOS Genetics|A Mutation in the Myostatin Gene Increases Muscle Mass and Enhances Racing Performance in Heterozygote Dogs
+2008|126.0|6.0|International Journal of Behavioral Nutrition and Physical Activity|Physical education, school physical activity, school sports and academic performance
+2009|120.0|5.0|Journal of School Health|IS THERE A RELATIONSHIP BETWEEN PHYSICAL FITNESS AND ACADEMIC ACHIEVEMENT? POSITIVE RESULTS FROM PUBLIC SCHOOL CHILDREN IN THE NORTHEASTERN UNITED STATES
+2010|1087.0|6.0|European Heart Journal|Guidelines for the management of atrial fibrillation : the Task Force for the Management of Atrial Fibrillation of the European Society of Cardiology (ESC).

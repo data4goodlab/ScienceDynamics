@@ -1,0 +1,51 @@
+----  Field Name Mainstream economics: 
+----  Field Level 2.0: 
+----  Field Papers Number 2572:
+----  All time max citation paper: Combinatorial Auctions: A Survey, 2003, (351.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1949|0|0.0|Journal of Dairy Science|Venous Catheterization of Dairy Cows
+1962|3.0|3.0|Nature|Energy to Form and to Move Vacant Lattice Sites in Graphite
+1965|22.0|22.0|Photochemistry and Photobiology|THEORY AND DESIGN OF HIGH INTENSITY U.V MONOCHROMATORS FOR PHOTOBIOLOGY AND PHOTOCHEMISTRY
+1967|0|0.0|Euphytica|Mutations in potatoes induced by gamma irradiation
+1968|1.0|1.0|Journal of Dairy Science|New Method for Stripping Iodine-131 from the Anion Exchange Resin Used to Remove Radionuclides from Milk
+1970|0|0.0|Studies in Comparative International Development|Managerial versus cooperative decision making in Israel
+1971|3.0|3.0|Journal of Dairy Science|Associations Among Measures of Economic Efficiency
+1972|8.0|8.0|Journal of Public Economics|The structure of indirect taxation and economic efficiency
+1974|7.0|3.5|Solar Energy|Simulation of a solar heating and cooling system
+1975|1.0|0.0|Papers in Regional Science|GROWTH POLE THEORY, TECHNOLOGICAL CHANGE, AND REGIONAL ECONOMIC GROWTH
+1976|3.0|1.0|Journal of Environmental Economics and Management|Emission control policies under uncertainty
+1977|4.0|1.0|Transportation Research|Towards an integrated approach to the identification and evaluation of the transport determinants of travel choices
+1978|3.0|1.0|Journal of Environmental Economics and Management|A social benefit-cost analysis of mandatory deposits on beverage containers
+1979|10.0|2.5|Journal of Public Economics|Property values, local public expenditure and economic efficiency
+1980|11.0|1.0|Water Resources Research|Linear decision rule in reservoir design and management: 6. Incorporation of economic efficiency benefits and hydroelectric energy generation
+1981|4.0|1.0|Accident Analysis & Prevention|THE INFLUENCE OF INSTRUCTIONAL VARIABLES ON THE EFFECTIVENESS OF TRAFFIC EDUCATION
+1982|6.0|1.0|Water Resources Research|Reliability programing in reservoir management: 3. System of multipurpose reservoirs
+1983|7.0|3.0|Transportation Research Part A: General|The effect of government ownership and subsidy on performance: Evidence from the bus transit industry
+1984|13.0|1.0|Transportation Research Part B-methodological|COMPARATIVE TESTS OF MULTIMODAL TRAFFIC EQUILIBRIUM METHODS
+1985|12.0|2.0|Accident Analysis & Prevention|Perceived driving safety and seatbelt usage
+1986|5.0|1.5|Transportation Research Part B-methodological|Computational comparisons of algorithms for general asymmetric traffic equilibrium problems with fixed and elastic demands
+1987|9.0|1.0|Management Science|Cost Allocation and Opportunity Costs
+1988|9.0|1.5|Strategic Management Journal|The economic efficiency of corporate culture
+1989|15.0|4.0|International Journal of Industrial Organization|Mergers, takeovers, and economic efficiency: Foresight vs. hindsight
+1990|7.0|1.0|Journal of Applied Econometrics|On measuring economic efficiency
+1991|8.0|3.0|Journal of Economic Perspectives|EFFICIENT TRANSPORTATION INFRASTRUCTURE POLICY
+1992|13.0|1.0|Journal of Dairy Science|Genetic Value of Herd Life Adjusted for Milk Production1
+1993|15.0|1.0||Efficiency Analysis Of Developing Country Agriculture: A Review Of The Frontier Function Literature
+1994|8.0|1.0|Urban Policy and Research|Durd Revisited? Federal Policy Initiatives For Urban and Regional Planning 199194
+1995|12.0|2.0||Parental Leave Policies in Europe and North America
+1996|53.0|2.0|World Bank Research Observer|Some lessons from the East Asian miracle
+1997|21.0|1.5|Journal of Financial Economics|Privatization and efficiency: Industry effects of the sale of British Airways
+1998|29.0|2.0||The POPCORN marketan online market for computational resources
+1999|59.0|4.0|Tetrahedron|Microwave activation in phase transfer catalysis
+2000|22.0|3.0|Ssrn Electronic Journal|Priorities and Sequencing in Privatization: Theory and Evidence from the Czech Republic
+2001|77.0|4.0|American Journal of Preventive Medicine|REVIEWS OF EVIDENCE REGARDING INTERVENTIONS TO REDUCE ALCOHOL-IMPAIRED DRIVING
+2002|89.0|3.0|American Journal of Preventive Medicine|The effectiveness of disease and case management for people with diabetes: A systematic review
+2003|178.0|3.5|Informs Journal on Computing|Combinatorial Auctions: A Survey
+2004|65.0|3.0||Reforming infrastructure : privatization, regulation, and competition
+2005|114.0|3.0|Ecological Applications|Federal forest-fire policy in the United States
+2006|54.0|4.0||Health Financing Revisited : A Practitioner's Guide
+2007|88.0|4.0|Marine Policy|Defining success in fisheries and conflicts in objectives
+2008|244.0|3.0|Nature Methods|SNP discovery and allele frequency estimation by deep sequencing of reduced representation libraries.
+2009|140.0|6.0|British Journal of Industrial Relations|Institutional Change in Advanced Political Economies
+2010|53.0|5.0|Agricultural Economics|A speculative bubble in commodity futures prices? Crosssectional evidence

@@ -1,0 +1,35 @@
+----  Field Name Gender studies: 
+----  Field Level 1.0: 
+----  Field Papers Number 1335:
+----  All time max citation paper: Cultural myths and supports for rape, 1980, (915.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1980|29.0|29.0|Journal of Personality and Social Psychology|Cultural myths and supports for rape
+1981|0|0.0|Sex Roles|Apprehension and fear: Learning a sense of sexual vulnerability
+1983|2.0|2.0|Womens Studies International Forum|Anatomy of Difference: Toward a Classification of Feminist Theory.
+1985|0|0.0|Womens Studies International Forum|Compulsory heterosexuality and psych/atrophy: Some thoughts on lesbian feminist theory
+1986|5.0|3.5|Sociological Inquiry|Social Theory and Feminist Theory: The Need for Dialogue
+1987|5.0|3.0|Womens Studies International Forum|Feminist theory and the challenge to knowledges
+1988|2.0|0.5|Canadian Review of Sociology-revue Canadienne De Sociologie|Women and the illness role: rethinking feminist theory
+1989|9.0|1.5|Criminology|FEMINIST THEORY, CRIME, AND JUSTICE*
+1990|0|0.0|Womens Studies International Forum|Feminist theory as practice: Italian feminism and the work of Teresa de Lauretis and Dacia Maraini
+1991|15.0|1.0|Geoforum|The baby and the bath water: Diversity, deconstruction and feminist theory in geography
+1992|4.0|1.0|Higher Education|New Perspectives on an Old Problem: The Position of Women Academics in British Higher Education.
+1993|8.0|5.0|Journal of Professional Nursing|Perspectives on critical and feminist theory in developing nursing praxis
+1994|4.0|0.0|Health Education & Behavior|Empowerment through Photo Novella: Portraits of Participation
+1995|6.0|2.0|World Development|Toward a greater integration of gender in economics
+1996|6.0|1.5|Sociology of Health and Illness|What is gender? Feminist theory and the sociology of human reproduction
+1997|6.0|2.0|Gender & Society|DECODING FEMININITY Advertisements and Their Teenage Readers
+1998|6.0|2.0|Entrepreneurship and Regional Development|Does gender affect business performance? A study of microbusinesses in business services in the UK
+1999|11.0|1.0|IEEE Transactions on Professional Communication|The gender impact of temporary virtual work groups
+2000|10.0|1.0|Organization|Moving out of the `Armchair': Developing a Framework to Bridge the Gap between Feminist Theory and Practice
+2001|31.0|3.0|Cultural Anthropology|Feminist Theory, Embodiment, and the Docile Agent: Some Reflections on the Egyptian Islamic Revival
+2002|16.0|1.0|Criminology|TENUOUS BORDERS: GIRLS TRANSFERRED TO ADULT COURT *
+2003|36.0|2.0|Annual Review of Sociology|The Intersection of Gender and Race in the Labor Market
+2004|40.0|2.0|Gender & Society|Gender As a Social Structure Theory Wrestling with Activism
+2005|40.0|4.0|Aggression and Violent Behavior|The gender paradigm in domestic violence research and theory: Part 1--The conflict of theory and data
+2006|52.0|2.5|Quarterly Journal of Economics|Gender Differences in Mate Selection: Evidence From a Speed Dating Experiment
+2007|104.0|2.0|Perspectives on Politics|When Multiplication Doesn't Equal Quick Addition: Examining Intersectionality as a Research Paradigm
+2008|119.0|2.0|Review of Sociology|Gender Inequalities in Education
+2009|222.0|2.0|Computers in Education|Digital Game-Based Learning in high school Computer Science education: Impact on educational effectiveness and student motivation
+2010|60.0|3.0|Cambridge Journal of Economics|Feminist theories of technology

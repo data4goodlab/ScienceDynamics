@@ -1,0 +1,58 @@
+----  Field Name Structural geology: 
+----  Field Level 2.0: 
+----  Field Papers Number 21257:
+----  All time max citation paper: SCOP: a structural classification of proteins database for the investigation of sequences and structures., 1995, (3852.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1931|0|0.0||Structural geology of the Adirondack anorthosite
+1935|1.0|1.0|Proceedings of The Geologists Association|Structural geology of Stainmore, Westmorland, and notes on the late-Palozoic (late-Variscan) tectonics of the North of England
+1959|1.0|1.0||The charnockitic rocks of Australia
+1961|7.0|7.0|Geophysical Journal International|Upper Mantle Structure under Oceans and Continents from Rayleigh Waves*
+1963|0|0.0|Progress in Oceanography|The Molokai fracture zone
+1964|0|0.0|Geophysical Prospecting|REFRACTION SEISMICS WITH AN ANISOTROPIC OVERBURDEN: A GRAPHICAL METHOD OF INTERPRETATION*
+1965|3.0|3.0|Journal of Geophysical Research|Mesozoiccenozoic tectonic history of the southwestern Oregon coast in relation to cordilleran orogenesis
+1966|5.0|2.0|International Journal of Rock Mechanics and Mining Sciences & Geomechanics Abstracts|A study of the behaviour of a broken rock under triaxial compression, and its application to mine roadways
+1967|3.0|3.0|Geophysical Journal International|Seismic Damping and Creep in the Mantle
+1968|60.0|4.0|Journal of Geophysical Research|Seismic moment, seismicity, and rate of slip along major fault zones
+1969|62.0|14.0|Journal of Geophysical Research|Fine structure of the upper mantle
+1970|10.0|0.0|Journal of Geophysical Research|Threedimensional seismic ray tracing in a laterally heterogeneous spherical Earth
+1971|3.0|2.0|Geophysical Prospecting|REFLECTIONS ON AMPLITUDES*
+1972|57.0|0.0|Lethaia|A Cenozoic timescale  some implications for regional geology and paleobiogeography
+1973|7.0|2.0|Geochimica et Cosmochimica Acta|A model discussing the early history of the Earth based on a study of lead isotope ratios from veins in some Archean cratons of Africa
+1974|1.0|1.0|Polymer Journal|Conformation of the Fold of Trans-1,4-PoIybutadiene
+1975|34.0|1.0|Journal of Geophysical Research|Plate motion and structure of the continental asthenosphere: A realistic model of the upper mantle
+1976|15.0|2.0|Tectonophysics|Thermal and mechanical structure of the upper mantle: A comparison between continental and oceanic models
+1977|20.0|5.5|Pure and Applied Geophysics|Theory and Applicability of a Recrystallized Grain Size Paleopiezometer
+1978|34.0|1.5|Journal of Geophysical Research|Paleomagnetism of the Devonian Catskill Red Beds: Evidence for Motion of the Coastal New England-Canadian Maritime Region Relative to Cratonic North America
+1979|31.0|4.0|Journal of Structural Geology|Orthogneiss, mylonite and non coaxial deformation of granites: the example of the South Armorican Shear Zone
+1980|50.0|5.0|Journal of Structural Geology|On mylonites in ductile shear zones
+1981|20.0|2.5|Journal of Geophysical Research|The accommodation of relative motion at depth on the San Andreas fault system in California
+1982|21.0|3.0|Earth and Planetary Science Letters|Sense of nappe emplacement from quartz c-axis fabrics; an example from the Betic Cordilleras (Spain)
+1983|38.0|4.0|Polymer|Deformation and fracture behaviour of a rubber-toughened epoxy: 1. Microstructure and fracture studies
+1984|92.0|2.0|Journal of Structural Geology|S-C Mylonites
+1985|39.0|5.0|Tectonophysics|Rock mechanics observations pertinent to the rheology of the continental lithosphere and the localization of strain along shear zones
+1986|27.0|5.0|Reviews of Geophysics|Strainmeters and tiltmeters
+1987|60.0|5.0|Reviews of Geophysics|Rheology of the lithosphere: Selected topics
+1988|43.0|5.0|Contributions to Mineralogy and Petrology|Chronology of the pressure-temperature history recorded by a granulite terrain
+1989|50.0|4.5|The Journal of Comparative Neurology|Peripheral patterns of calcitoningenerelated peptide general somatic sensory innervation: Cutaneous and deep terminations
+1990|154.0|3.0|Journal of the American Ceramic Society|Perspective on the Development of HighToughness Ceramics
+1991|107.0|4.0|Journal of the American Ceramic Society|Theory of Mechanical Properties of CeramicMatrix Composites
+1992|51.0|4.5|Bone|The success and failure of the adaptive response to functional load-bearing in averting bone fracture
+1993|58.0|5.0|Bone|Basic biomechanical measurements of bone: A tutorial
+1994|37.0|3.0|Geophysical Journal International|A geodynamic framework for interpreting crustalscale seismicreflectivity patterns in compressional orogens
+1995|413.0|4.0|Journal of Molecular Biology|SCOP: a structural classification of proteins database for the investigation of sequences and structures.
+1996|69.0|4.0|Reviews of Geophysics|Metastable mantle phase transformations and deep earthquakes in subducting oceanic lithosphere
+1997|65.0|3.0|Reviews of Geophysics|The physics of debris flows
+1998|242.0|4.0|JAMA|Effect of Alendronate on Risk of Fracture in Women With Low Bone Density but Without Vertebral Fractures: Results From the Fracture Intervention Trial
+1999|268.0|4.0|JAMA|Effects of Risedronate Treatment on Vertebral and Nonvertebral Fractures in Women With Postmenopausal Osteoporosis: A Randomized Controlled Trial
+2000|85.0|4.0|Journal of The American College of Nutrition|Calcium, dairy products and osteoporosis.
+2001|265.0|5.0|JAMA|Risk of New Vertebral Fracture in the Year Following a Fracture
+2002|419.0|5.0|Journal of Geophysical Research|Crustal fissuring on the crest of the southern East Pacific Rise at 171540S
+2003|229.0|6.0|JAMA|Effects of Estrogen Plus Progestin on Risk of Fracture and Bone Mineral Density: The Women's Health Initiative Randomized Trial
+2004|166.0|6.0|JAMA Internal Medicine|Bone Mineral Density Thresholds for Pharmacological Intervention to Prevent Fractures
+2005|407.0|6.0|JAMA|Fracture Prevention With Vitamin D Supplementation: A Meta-analysis of Randomized Controlled Trials
+2006|255.0|7.0|Geophysical Research Letters|Mineralogical characterization of protolith and fault rocks from the SAFOD Main Hole
+2007|494.0|6.0|Journal of Bone and Mineral Research|Incidence and Economic Burden of OsteoporosisRelated Fractures in the United States, 20052025
+2008|489.0|7.0|Osteoporosis International|FRAX and the assessment of fracture probability in men and women from the UK.
+2009|322.0|7.0|JAMA Internal Medicine|Prevention of nonvertebral fractures with oral vitamin D and dose dependency: a meta-analysis of randomized controlled trials.
+2010|370.0|7.0|JAMA|Annual high-dose oral vitamin D and falls and fractures in older women : a randomized controlled trial

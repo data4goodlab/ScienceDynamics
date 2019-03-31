@@ -1,0 +1,70 @@
+----  Field Name Environmental law: 
+----  Field Level 2.0: 
+----  Field Papers Number 41965:
+----  All time max citation paper: Historical overfishing and the recent collapse of coastal ecosystems, 2001, (2428.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1930|2.0|2.0|Journal of Dairy Research|Methods of Determining the Numbers of Bacteria in Milk
+1937|0|0.0||Detection and measurement of stream pollution
+1938|4.0|2.5|JAMA|POLIOMYELITIS VIRUS IN HUMAN STOOLS
+1939|0|0.0|Journal of Hygiene|Incubation at 44C. as a test for faecal coli
+1940|2.0|0.5|Journal of Dairy Science|Some Factors Affecting Certain Milk Properties. III. Effect of Roughages on Ascorbic Acid*
+1942|0|0.0|The Journal of Pediatrics|Human milk technology.
+1943|2.0|2.0|JAMA|HUMAN INFECTION WITH VENEZUELAN EQUINE ENCEPHALOMYELITIS VIRUS: A REPORT ON EIGHT CASES OF INFECTION ACQUIRED IN THE LABORATORY
+1948|1.0|1.0|American Journal of Public Health|Problem of Dust Control for the Disinfection of Air.
+1950|4.0|0.0|Journal of Dairy Science|The Development of Calves Raised without Protozoa and Certain other Characteristic Rumen Microorganisms
+1954|2.0|2.0|JAMA|ACUTE BRONCHOPNEUMONIC HISTOPLASMOSIS FOLLOWING EXPOSURE TO INFECTED GARDEN SOIL
+1955|0|0.0|Transactions of The British Mycological Society|Notes on the technique of handling predacious fungi.
+1957|3.0|3.0|Annals of Applied Biology|WILT OF LUCERNE CAUSED BY SPECIES OF VERTICILLIUM
+1958|0|0.0|Journal American Water Works Association|DISPERSION OF RADIOACTIVE MATERIALS BY STREAMS
+1960|4.0|0.5|The New England Journal of Medicine|The Significance of Candida albicans in Human Sputum.
+1961|8.0|4.0|Microbiology|Spore Formation and "Dimorphism" in the Mycobacteria.
+1962|5.0|1.0|Journal of Insect Physiology|Nutrition of the pale western cutworm, Agrotis orthogonia Morr. (Lepidoptera, Noctuidae)IV: Amino acid requirements determined with glucose-U-C14
+1963|6.0|0.5|Annals of the New York Academy of Sciences|FURTHER OBSERVATIONS ON THE PROPERTIES OF THE ORGANIZED ELEMENTS IN CARBONACEOUS CHONDRITES
+1964|6.0|6.0|Archives of Virology|Problems of Laboratory Diagnosis of Respiratory Syncytial Virus Infection in Childhood.
+1965|19.0|0.5|Geochimica et Cosmochimica Acta|THE ISOTOPIC COMPOSITION OF STRONTIUM IN SURFACE WATER FROM THE NORTH ATLANTIC OCEAN
+1966|6.0|2.0|Geochimica et Cosmochimica Acta|Electron Microprobe Study of Spherules from Atlantic Ocean Sediments
+1967|10.0|1.0|Journal of Geophysical Research|Protonirradiation darkening of rock powders: Contamination and temperature effects, and applications to solarwind darkening of the Moon
+1968|12.0|2.0|Journal of Geophysical Research|Oxygen isotope behavior in the SulfateWater System
+1969|14.0|1.0|Geochimica et Cosmochimica Acta|Porphyrins in meteorites - Metal complexes in Orgueil, Murray, Cold Bokkeveld, and Mokoia carbonaceous chondrites.
+1970|16.0|2.0|Marine Biology|A polyunsaturated hydrocarbon (3, 6, 9, 12, 15, 18-heneicosahexaene) in the marine food web.
+1971|38.0|4.0|Science|DDT in the Biosphere: Where Does It Go?
+1972|20.0|1.0|Journal of Geophysical Research|Our knowledge of the physicochemistry of aerosols in the undisturbed marine environment
+1973|15.0|1.5|Journal of Geophysical Research|Background trace gas concentrations in the central United States
+1974|21.0|2.0|Water Research|EFFECTS OF OIL ON MARINE ORGANISMS: A CRITICAL ASSESSMENT OF PUBLISHED DATA
+1975|15.0|3.0|Veterinary Parasitology|Equine hydatidosis: A review of the current status in great britain and the results of an epidemiological survey
+1976|22.0|1.0|Reviews of Geophysics|Global air pollution and climatic change
+1977|29.0|2.0|Estuarine and Coastal Marine Science|Pollution history of Narragansett Bay as recorded in its sediments
+1978|32.0|1.0|Atmospheric Environment|Chemical properties of tropospheric sulfur aerosols
+1979|15.0|1.5|Environmental Research|Significance of cadmium concentration in blood and in urine in workers exposed to cadmium
+1980|76.0|2.0|Atmospheric Environment|Particle and gas dry deposition: a review.
+1981|33.0|1.0|Journal of Geophysical Research|The temporal and spatial distribution of tropospheric nitrous oxide
+1982|73.0|2.0|Journal of Geophysical Research|The composition of precipitation in remote areas of the world
+1983|35.0|1.5|Environmental Science & Technology|Acid generation in the troposphere by gas-phase chemistry
+1984|41.0|2.0|Journal of Hydraulic Engineering|Organic Pollutant Sorption in Aquatic Systems
+1985|98.0|2.0|Nature|Education policy and the heritability of educational attainment
+1986|21.0|1.0|Journal of Geophysical Research|Photochemical formation of peroxides in the boundary layer
+1987|46.0|2.0|Water Resources Research|A parametric model for constitutive properties governing multiphase flow in porous media
+1988|176.0|2.0|Global Biogeochemical Cycles|Biogeochemical aspects of atmospheric methane
+1989|62.0|2.0|BioScience|Nitrogen Saturation in Northern Forest Ecosystems
+1990|49.0|3.0||The Potential effects of global climate change on the United States
+1991|51.0|2.0|Marine and Freshwater Research|Beyond BACI: Experimental designs for detecting human environmental impacts on temporal variations in natural populations
+1992|111.0|2.0|Aquatic Toxicology|The cytochrome P -450 system in fish, aquatic toxicology and environmental monitoring
+1993|55.0|2.0|Austral Ecology|The mechanics of spatially replicated sampling programmes to detect environmental impacts in a variable world
+1994|99.0|3.0|Reviews of Geophysics|Large igneous provinces: crustal structure, dimensions, and external consequences
+1995|49.0|3.0|Global Biogeochemical Cycles|A global land primary productivity and phytogeography model
+1996|73.0|2.0|Biogeochemistry|Regional nitrogen budgets and riverine N & P fluxes for the drainages to the North Atlantic Ocean: Natural and human influences
+1997|68.0|3.0|IEEE Transactions on Fuzzy Systems|Robust clustering methods: a unified view
+1998|104.0|3.0|Gastroenterology|A placebo-controlled trial of ICAM-1 antisense oligonucleotide in the treatment of Crohn's disease
+1999|76.0|4.0|Journal of Geophysical Research|Dust sources and deposition during the last glacial maximum and current climate: A comparison of model results with paleodata from ice cores and marine sediments
+2000|192.0|5.0|Nature|Effect of aquaculture on world fish supplies.
+2001|434.0|5.0|Science|Historical overfishing and the recent collapse of coastal ecosystems
+2002|428.0|6.0|JAMA|Lung cancer, cardiopulmonary mortality, and long-term exposure to fine particulate air pollution.
+2003|205.0|6.0|Annual Review of Ecology, Evolution, and Systematics|STREAMS IN THE URBAN LANDSCAPE
+2004|213.0|7.0|Atmospheric Environment|A European aerosol phenomenology2: chemical characteristics of particulate matter at kerbside, urban, rural and background sites in Europe
+2005|278.0|7.0|Nature|Potential impacts of a warming climate on water availability in snow-dominated regions
+2006|512.0|7.0|Applied and Environmental Microbiology|Greengenes, a chimera-checked 16S rRNA gene database and workbench compatible with ARB.
+2007|260.0|8.0|Water Research|Occurrence and removal of pharmaceuticals and endocrine disruptors in South Korean surface, drinking, and waste waters
+2008|646.0|7.0||Climate change and water.
+2009|550.0|9.0|Proceedings of the National Academy of Sciences of the United States of America|Accelerating loss of seagrasses across the globe threatens coastal ecosystems
+2010|901.0|9.0|Renewable & Sustainable Energy Reviews|Biofuels from microalgae--A review of technologies for production, processing, and extractions of biofuels and co-products

@@ -1,0 +1,64 @@
+----  Field Name Dentistry: 
+----  Field Level 1.0: 
+----  Field Papers Number 13913:
+----  All time max citation paper: A 15-year study of osseointegrated implants in the treatment of the edentulous jaw, 1981, (1315.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|1.0|0.5|JAMA Internal Medicine|Basal secretion of digestive enzymes in old age.
+1942|3.0|3.0|American Journal of Orthodontics and Oral Surgery|Familial factors in diagnosis, treatment, and prognosis of dentofacial disturbances
+1944|0|0.0|American Journal of Orthodontics and Oral Surgery|The dentist's responsibility in the management of the patient with rheumatic heart disease
+1947|4.0|4.0|JAMA Internal Medicine|ERUPTIVE FEVER WITH INVOLVEMENT OF THE RESPIRATORY TRACT, CONJUNCTIVITIS, STOMATITIS AND BALANITIS: An Acute Clinical Entity, Probably of Infectious Origin; Report of Twenty Cases and Review of the Literature
+1950|2.0|1.5|Journal of the American Dental Association|Dental Caries Experience in the Virgin Islands
+1951|1.0|1.0|Archives of Biochemistry and Biophysics|Heat inactivation of threonine, glycine, and the acidic amino acids
+1955|7.0|7.0|Annals of the New York Academy of Sciences|LOCAL FACTORS IN THE MECHANISM OF CALCIFICATION
+1960|1.0|1.0|New Zealand Journal of Agricultural Research|Bloat in cattle. XVII. A technique for recording pressure changes in the reticulo-rumen of cattle, using small electrical pressure transducers and a four-channel recorder.
+1961|4.0|3.5|Journal of Dental Research|The Formation of Collagen Fibrils in the Dental Pulp
+1962|2.0|1.0|Journal of Prosthetic Dentistry|SAM CONTOURATOR, MODEL B-AN INSTRUMENT FOR MEASURING CHANGES OF SURFACE CONTOURS
+1963|4.0|2.0|American Journal of Orthodontics|The three M's: Muscles, malformation, and malocclusion
+1964|3.0|0.0|Journal of Dairy Science|Salivation in Cattle. I. Feed and Animal Factors Affecting Salivation and Its Relation to Bloat1
+1965|4.0|3.0|Archives of Oral Biology|Immunofluorescent investigation of Candida albicans antibodies in human saliva.
+1966|7.0|3.5|American Journal of Orthodontics|A morphogenetic analysis of facial growth
+1967|15.0|2.0|The Lancet|Chronic mucocutaneous candidiasis, deficiency of delayed hypersensitivity, and selective local antibody defect.
+1968|8.0|2.0|Archives of Oral Biology|The effect of formocresol on hamster connective tissue cells, a histologic and quantitative radioautographic study with proline-H 3
+1969|10.0|8.0|Gastroenterology|Vitamin B12 Uptake by Human Small Bowel Homogenate and its Enhancement by Intrinsic Factor
+1970|5.0|1.0|Journal of Hygiene|Inhalation, persistence and dispersal of foot-and-mouth disease virus by man.
+1971|7.0|3.0|The Journal of Infectious Diseases|Growth of Candida albicans in saliva: stimulation by glucose associated with antibiotics, corticosteroids, and diabetes mellitus.
+1972|11.0|0.0|Archives of Oral Biology|The predominant cultivable flora of tooth surface plaque removed from institutionalized subjects
+1973|6.0|1.0|Archives of Oral Biology|Negro-Caucasoid differences in permanent tooth emergence at a constant income level
+1974|9.0|1.0|Journal of Periodontal Research|Rabbit polymorphonuclear leukocyte migration in vitro in response to dental plaque
+1975|21.0|3.0|Epilepsia|Diphenylhydantoin, Phenobarbital, and Primidone in Saliva, Plasma, and Cerebrospinal Fluid
+1976|7.0|1.0|Archives of Oral Biology|Electrodiagnosis at median occlusal position for human subjects with mandibular joint syndrome
+1977|33.0|3.0|Journal of Clinical Periodontology|Microscopic evaluation of clinical measurements of connective tissue attachment levels
+1978|8.0|2.0|Archives of Oral Biology|Implantation of Streptococcus mutans on tooth surfaces in man
+1979|19.0|1.0|American Journal of Orthodontics and Dentofacial Orthopedics|Quantitative analysis of temporomandibular joint adaptations to protrusive function
+1980|30.0|2.0|The Lancet|COMPARISON OF TRIMETHOPRIM ALONE WITH TRIMETHOPRIM SULPHAMETHOXAZOLE IN THE TREATMENT OF RESPIRATORY AND URINARY INFECTIONS WITH PARTICULAR REFERENCE TO SELECTION OF TRIMETHOPRIM RESISTANCE
+1981|37.0|5.0|Journal of Clinical Periodontology|Treatment of periodontal infections due to anaerobic bacteria with short-term treatment with metronidazole
+1982|22.0|3.0|Muscle & Nerve|Traininginduced increase in myofibrillar ATPase intermediate fibers in human skeletal muscle
+1983|26.0|2.0|Acta Physiologica Scandinavica|Muscle fibre type distribution, muscle crosssectional area and maximal voluntary strength in humans
+1984|14.0|1.0|Neuroscience Letters|Immunohistochemical localization of adenosine deaminase in primary afferent neurons of the rat
+1985|34.0|2.0|Analytical Biochemistry|Protein blotting: detection of proteins with colloidal gold, and of glycoproteins and lectins with biotin-conjugated and enzyme probes.
+1986|18.0|2.0|Journal of Clinical Periodontology|Longterm evaluation of root surface caries in periodontally treated patients
+1987|16.0|2.0|Infection and Immunity|Inhibition of gingival fibroblast growth by Bacteroides gingivalis.
+1988|25.0|2.0|Journal of Clinical Periodontology|Guided tissue regeneration in degree II furcation-involved mandibular molars. A clinical study.
+1989|17.0|2.0|Experimental Mycology|Survival of anaerobic fungi in feces, in saliva, and in pure culture
+1990|14.0|2.0|Experimental Parasitology|Saliva of the tick Ixodes dammini inhibits neutrophil function.
+1991|16.0|2.0|Thrombosis Research|Functionally active protein C inhibitor/plasminogen activator inhibitor-3 (PCI/PAI-3) is secreted in seminal vesicles, occurs at high concentrations in human seminal plasma and complexes with prostate-specific antigen.
+1992|22.0|2.0|Journal of Periodontal Research|Predominant obligate anaerobes in human periodontal pockets
+1993|23.0|2.0|Journal of Medical Virology|Frequent isolation of human herpesvirus 7 from saliva samples.
+1994|52.0|3.0|Psychoneuroendocrinology|Salivary cortisol in psychoneuroendocrine research : recent developments and applications
+1995|43.0|3.0|Infection and Immunity|Porphyromonas gingivalis invasion of gingival epithelial cells.
+1996|63.0|3.0|Life Sciences|Stress- and treatment-induced elevations of cortisol levels associated with impaired declarative memory in healthy adults
+1997|50.0|4.0|Journal of Virology|Transmissible Kaposi's sarcoma-associated herpesvirus (human herpesvirus 8) in saliva of men with a history of Kaposi's sarcoma.
+1998|47.0|4.0|Dysphagia|Predictors of aspiration pneumonia: how important is dysphagia?
+1999|119.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Bacterial diversity within the human subgingival crevice
+2000|117.0|4.0|The New England Journal of Medicine|Mucosal shedding of human herpesvirus 8 in men.
+2001|284.0|3.0|Journal of Bacteriology|Bacterial Diversity in Human Subgingival Plaque
+2002|194.0|5.0|Journal of Clinical Investigation|Association of BAFF/BLyS overexpression and altered B cell differentiation with Sjogren's syndrome.
+2003|96.0|6.0|Neuron|Sonic Hedgehog Is Required for Progenitor Cell Maintenance in Telencephalic Stem Cell Niches
+2004|96.0|6.0|Biomaterials|Improved biological performance of Ti implants due to surface modification by micro-arc oxidation
+2005|111.0|6.0|Gut|When saliva meets acid: chemical warfare at the oesophagogastric junction
+2006|110.0|7.0|Arthritis Research & Therapy|Epratuzumab (humanised anti-CD22 antibody) in primary Sjogren's syndrome: an open-label phase I/II study.
+2007|288.0|8.0|Dental Materials|Surface treatments of titanium dental implants for rapid osseointegration
+2008|224.0|8.0|Hypertension|Acute Blood Pressure Lowering, Vasoprotective, and Antiplatelet Properties of Dietary Nitrate via Bioconversion to Nitrite
+2009|190.0|8.0|Nicotine & Tobacco Research|The accuracy of self-reported smoking: a systematic review of the relationship between self-reported and cotinine-assessed smoking status.
+2010|235.0|9.0|Journal of Endodontics|Mineral Trioxide Aggregate: A Comprehensive Literature ReviewPart III: Clinical Applications, Drawbacks, and Mechanism of Action

@@ -1,0 +1,30 @@
+----  Field Name Multi-agent system: 
+----  Field Level 2.0: 
+----  Field Papers Number 13554:
+----  All time max citation paper: Consensus and Cooperation in Networked Multi-Agent Systems, 2007, (1694.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1985|0|0.0|Management Science|Multi-Agent Customer Allocation in a Stochastic Service System
+1986|21.0|21.0|ACM Transactions on Information Systems|The integration of computing and routine work
+1987|0|0.0||Directions for Logic Programming
+1990|5.0|5.0||An investigation into distributed constraint-directed factory scheduling
+1991|7.0|3.5|automated software engineering|Composite System Design: The Good News And The Bad News
+1992|8.0|2.5|Intelligent Systems Engineering|GRATE: a general framework for co-operative problem solving
+1993|39.0|5.5|Knowledge Engineering Review|Commitments and conventions: The foundation of coordination in multi-agent systems
+1994|11.0|1.0|national conference on artificial intelligence|Exploiting meta-level information in a distributed scheduling system
+1995|90.0|2.0|Artificial Intelligence|Controlling cooperative problem solving in industrial multi-agent systems using joint intentions
+1996|62.0|3.0|IEEE Intelligent Systems|Distributed intelligent agents
+1997|60.0|4.0|Iee Proceedings-software|Agent-based software engineering
+1998|275.0|3.0|Autonomous Agents and Multi-Agent Systems|A Roadmap of Agent Research and Development
+1999|96.0|4.0||A methodology for agent-oriented analysis and design
+2000|408.0|3.0|Autonomous Agents and Multi-Agent Systems|The Gaia Methodology for Agent-Oriented Analysis and Design
+2001|196.0|3.0|IEEE Intelligent Systems|Agents and the Semantic Web
+2002|271.0|4.0|Artificial Intelligence|Algorithm for optimal winner determination in combinatorial auctions
+2003|534.0|3.0|IEEE Transactions on Automatic Control|Coordination of groups of mobile autonomous agents using nearest neighbor rules
+2004|178.0|4.0|IEEE Transactions on Automatic Control|Cooperative control of mobile sensor networks:Adaptive gradient climbing in a distributed environment
+2005|437.0|2.0|IEEE Transactions on Automatic Control|Stability of multiagent systems with time-dependent communication links
+2006|405.0|2.0|IEEE Intelligent Systems|The Semantic Web Revisited
+2007|904.0|2.0|Proceedings of the IEEE|Consensus and Cooperation in Networked Multi-Agent Systems
+2008|187.0|2.0|ACM Computing Surveys|A survey of autonomic computingdegrees, models, and applications
+2009|170.0|1.0|IEEE Transactions on Automatic Control|Flocking of Multi-Agents With a Virtual Leader
+2010|273.0|2.0|IEEE Transactions on Circuits and Systems I-regular Papers|Consensus of Multiagent Systems and Synchronization of Complex Networks: A Unified Viewpoint

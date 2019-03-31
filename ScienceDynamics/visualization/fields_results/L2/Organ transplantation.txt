@@ -1,0 +1,54 @@
+----  Field Name Organ transplantation
+----  Field Level 2.0
+----  Field Papers Number 91206
+----  All time max citation paper Immunobiology of Dendritic Cells, 2003, (3825.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1958|7.0|7.0|Journal of Allergy|Experimental depletion of mononuclear cells for the purpose of investigating reactions of the allergic contact type
+1959|7.0|7.0|Annals of the New York Academy of Sciences|DYNAMICS OF HEMOPOIETIC PROLIFERATION IN MAN AND MICE STUDIED BY H3THYMIDINE INCORPORATION INTO DNA*
+1962|4.0|2.0|Journal of Surgical Research|The homograft response to whole-organ transplantation of the canine spleen
+1966|16.0|2.0|Immunology and Cell Biology|The growth of mouse bone marrow cells in vitro.
+1967|5.0|1.0|Developmental Biology|Hemopoietic spleen colony studies: I. Growth and differentiation
+1968|6.0|2.0|American Journal of Anatomy|The fine structure of corpora lutea in ovarian transplants of mice following luteotrophin stimulation
+1969|8.0|2.0|The American Journal of Medicine|Chronic reticulolymphocytic leukemia: Reclassification of leukemic reticuloendotheliosis through functional characterization of the circulating mononuclear cells
+1970|16.0|4.5|Developmental Biology|The development of transplantable teratocarcinomas from intratesticular grafts of pre- and postimplantation mouse embryos.
+1971|19.0|4.0|The Lancet|CYCLOPHOSPHAMIDE AND HUMAN ORGAN TRANSPLANTATION
+1972|18.0|3.5|Journal of Experimental Medicine|SEROLOGICALLY DEMONSTRABLE ALLOANTIGENS OF MOUSE EPIDERMAL CELLS
+1973|27.0|7.0|Journal of Investigative Dermatology|IDENTIFICATION OF SUBPOPULATIONS OF MONONUCLEAR CELLS IN CUTANEOUS INFILTRATES I. DIFFERENTIATION BETWEEN B CELLS, T CELLS, AND HISTIOCYTES
+1974|38.0|7.0|Journal of Experimental Medicine|EVIDENCE FOR LINKAGE BETWEEN HL-A HISTOCOMPATIBILITY GENES AND THOSE INVOLVED IN THE SYNTHESIS OF THE SECOND COMPONENT OF COMPLEMENT
+1975|50.0|5.0|Journal of Experimental Medicine|Cell-mediated lympholysis of trinitrophenyl-modified autologous lymphocytes. Effector cell specificity to modified cell surface components controlled by H-2K and H-2D serological regions of the murine major histocompatibility complex.
+1976|62.0|5.0|Nature|Differential function of major histocompatibility complex antigens in t-lymphocyte activation.
+1977|47.0|6.0|Nature|Long term culture of tumour-specific cytotoxic T cells
+1978|120.0|5.0|Immunological Reviews|The Immune Response Genes of the Major Histocompatibility Complex
+1979|99.0|4.0|Immunological Reviews|Fine Specificity Analysis with Monoclonal Antibodies of Antigens Controlled by the Major Histocompatibility Complex and by the Qa/TL Region in Mice
+1980|63.0|4.0|Immunological Reviews|TT Cell Interactions during Cytotoxic T Lymphocyte (CTL) Responses: T Cell Derived Helper Factor (Interleukin 2) as a Probe to Analyze CTL Responsiveness and Thymic Maturation of CTL Progenitors
+1981|97.0|3.0|European Journal of Immunology|Cyclosporin A mediates immunosuppression of primary cytotoxic T cell responses by impairing the release of interleukin 1 and interleukin 2
+1982|155.0|3.0|Immunological Reviews|The biochemistry, biology, and role of interleukin 2 in the induction of cytotoxic t cell and antibody-forming b cell responses.
+1983|82.0|3.0|Nature|Expression of class I major histocompatibility antigens switched off by highly oncogenic adenovirus 12 in transformed rat cells
+1984|189.0|3.0|Cell|The class II molecules of the human and murine major histocompatibility complex
+1985|97.0|3.0|Cell|Cytotoxic T cells recognize fragments of the influenza nucleoprotein
+1986|276.0|3.0|Cell|The epitopes of influenza nucleoprotein recognized by cytotoxic T lymphocytes can be defined with short synthetic peptides
+1987|182.0|3.0|Science|The relation between major histocompatibility complex (MHC) restriction and the capacity of Ia to bind immunogenic peptides
+1988|200.0|3.0|Cell|The CD4 and CD8 T cell surface antigens are associated with the internal membrane tyrosine-protein kinase p56lck
+1989|92.0|3.0|The New England Journal of Medicine|The effect of dietary supplementation with n-3 polyunsaturated fatty acids on the synthesis of interleukin-1 and tumor necrosis factor by mononuclear cells
+1990|132.0|3.0|Immunology Today|The costimulatory function of antigen-presenting cells
+1991|87.0|4.0|Science|Depletion of CD4+ T cells in major histocompatibility complex class II-deficient mice
+1992|140.0|4.0|Nature|Molecular analysis of the association of HLA-B53 and resistance to severe malaria
+1993|153.0|4.0|Hepatology|Cell migration and chimerism after wholeorgan transplantation: The basis of graft acceptance
+1994|151.0|5.0|Cell|Liddle's syndrome: Heritable human hypertension caused by mutations in the  subunit of the epithelial sodium channel
+1995|337.0|5.0|Science|Inhibition of proteasome activities and subunit-specific amino-terminal threonine modification by lactacystin
+1996|886.0|5.0|Immunology Today|The expanding universe of T-cell subsets: Th1, Th2 and more
+1997|473.0|8.0|Nature|A human homologue of the Drosophila Toll protein signals activation of adaptive immunity
+1998|700.0|9.0|Nature|Dendritic cells acquire antigen from apoptotic cells and induce class I-restricted CTLs.
+1999|396.0|8.0|Nature Medicine|Natural adjuvants: Endogenous activators of dendritic cells
+2000|459.0|10.0|Journal of Experimental Medicine|Cytotoxic T LymphocyteAssociated Antigen 4 Plays an Essential Role in the Function of Cd25+Cd4+ Regulatory Cells That Control Intestinal Inflammation
+2001|396.0|10.0|Genes & Development|Cell cycle checkpoint signaling through the ATM and ATR kinases
+2002|481.0|12.0|Nature Medicine|Memory CD8+ T cells vary in differentiation phenotype in different persistent virus infections
+2003|2194.0|11.0|Annual Review of Immunology|Immunobiology of Dendritic Cells
+2004|655.0|11.0|Nature|Sequence and comparative analysis of the chicken genome provide unique perspectives on vertebrate evolution
+2005|953.0|11.0|Journal of Experimental Medicine|IL-23 drives a pathogenic T cell population that induces autoimmune inflammation
+2006|666.0|11.0|Nature|PD-1 expression on HIV-specific T cells is associated with T-cell exhaustion and disease progression
+2007|710.0|11.0|Nature|IL-21 initiates an alternative pathway to induce proinflammatory TH17 cells
+2008|691.0|12.0|The Journal of Pathology|Cellular and molecular mechanisms of fibrosis.
+2009|1794.0|11.0|Nature|Genetic variation in IL28B predicts hepatitis C treatment-induced viral clearance
+2010|1350.0|12.0|PLOS ONE|Proteomics comparison of cerebrospinal fluid of relapsing remitting and primary progressive multiple sclerosis.

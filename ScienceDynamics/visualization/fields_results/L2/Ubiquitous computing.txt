@@ -1,0 +1,38 @@
+----  Field Name Ubiquitous computing: 
+----  Field Level 2.0: 
+----  Field Papers Number 11908:
+----  All time max citation paper: Context-Aware Computing Applications, 1994, (1524.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1966|4.0|4.0|Proceedings of the IEEE|Very high-speed computing systems
+1968|0|0.0|IEEE Transactions on Antennas and Propagation|A simple formula of current in dipole antennas
+1976|1.0|1.0|IEEE Transactions on Biomedical Engineering|A First Look at the Application of Signal Extraction Techniques to the Analysis of Body Surface Potential Maps
+1978|0|0.0|IEEE Computer|The Oregon Report Computer Science and Computer Engineering Education in the 80's
+1979|16.0|16.0|design automation conference|The CMU Design Automation System - An Example of Automated Data Path Design
+1981|4.0|2.0|IEEE Transactions on Communications|Methods, Tools, and Observations on Flow Control in Packet-Switched Data Networks
+1982|5.0|3.5|IEEE Transactions on Biomedical Engineering|Talking with Computers: Synthesis and Recognition of Speech by Machines
+1983|10.0|5.0|design automation conference|Improved Compaction by Minimized Length of Wires
+1985|36.0|6.0|IEEE Journal of Solid-state Circuits|The TimberWolf placement and routing package
+1988|4.0|2.0|International Journal for Parasitology|Patterns of caudal papillae in Contracaecum osculatum (Nematoda) and some related species from different regions of the world
+1989|3.0|1.5|IEEE Transactions on Computers|Importance sampling for Ising computers using one-dimensional cellular automata
+1990|6.0|2.0|Journal of the American Academy of Child and Adolescent Psychiatry|The DSM-III-R Field Trial of Pervasive Developmental Disorders
+1991|4.0|4.0||ECG classification with neural networks and cluster analysis
+1992|15.0|0.0|conference on computer supported cooperative work|Ubiquitous audio: capturing spontaneous collaboration
+1993|95.0|7.0|Communications of The ACM|Some computer science issues in ubiquitous computing
+1994|51.0|7.0||Context-Aware Computing Applications
+1995|91.0|2.5|human factors in computing systems|Bricks: laying the foundations for graspable user interfaces
+1996|104.0|7.0|IEEE Computer Graphics and Applications|Video mosaics for virtual environments
+1997|265.0|4.5|human factors in computing systems|Tangible bits: towards seamless interfaces between people, bits and atoms
+1998|224.0|5.0|IEEE Transactions on Software Engineering|Understanding code mobility
+1999|191.0|10.0|IEEE Network|Internet QoS: a big picture
+2000|241.0|5.0|ACM Transactions on Computer-Human Interaction|Charting past, present, and future research in ubiquitous computing
+2001|442.0|5.0|IEEE Computer|Location systems for ubiquitous computing
+2002|207.0|6.5|IEEE Pervasive Computing|The Interactive Workspaces project: experiences with ubiquitous computing rooms
+2003|611.0|5.0|IEEE Computer|The vision of autonomic computing
+2004|285.0|5.0|Personal and Ubiquitous Computing|What we talk about when we talk about context
+2005|287.0|4.0|IEEE Pervasive Computing|Energy scavenging for mobile and wireless electronics
+2006|129.0|3.0|IEEE Pervasive Computing|The smart phone: a ubiquitous input device
+2007|90.0|2.0|Mobile Networks and Applications|Pervasive healthcare and wireless health monitoring
+2008|200.0|2.0|Nature Nanotechnology|Superwetting nanowire membranes for selective absorption
+2009|172.0|2.0|human factors in computing systems|UbiGreen: investigating a mobile tool for tracking and supporting green transportation habits
+2010|1333.0|2.0|PLOS ONE|Identification of pathway-biased and deleterious melatonin receptor mutants in autism spectrum disorders and in the general population.

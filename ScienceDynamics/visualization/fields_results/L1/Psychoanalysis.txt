@@ -1,0 +1,57 @@
+----  Field Name Psychoanalysis: 
+----  Field Level 1.0: 
+----  Field Papers Number 12404:
+----  All time max citation paper: The plant immune system., 2006, (3103.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1936|2.0|2.0|Journal of Parasitology|The production of artificial immunity in dogs against Echinococcus granulosus.
+1949|2.0|0.0|Annals of Applied Biology|OBSERVATIONS ON APPLE CANKER III. THE ANATOMY OF THE STEM CANKER
+1952|1.0|1.0|Oral Surgery, Oral Medicine, Oral Pathology|Studies on the defense mechanisms of the mucous membranes with particular reference to the oral cavity
+1960|1.0|1.0|Psychopharmacology|Language and psychopharmacology
+1962|1.0|1.0|Perceptual and Motor Skills|Predictions of success of Danish attack divers by the defense mechanism test (DMT)
+1963|31.0|1.0|Journal of Molecular Biology|Induction of thymidine kinase by vaccinia-infected mouse fibroblasts
+1964|0|0.0|Bulletin of Entomological Research|The insecticidal potency of -BHC and the chlorinated cyclodiene compounds and the significance of resistance to them
+1967|14.0|3.0|Brain Research|Ascending axon degeneration following hemisection of the spinal cord in the tegu lizard ( Tupinambis nigropunctatus )
+1968|3.0|0.5|Marine Biology|Defensive mechanisms and ecology of some tropical holothurians
+1969|3.0|2.5|Journal of Consulting and Clinical Psychology|An Objective Instrument for Measuring Defense Mechanisms.
+1970|5.0|0.5|Biology of Reproduction|Gamete aging and its consequences.
+1971|6.0|3.0|Physiology & Behavior|Actinomycin D injected into the hippocampus of chicks: Effects upon imprinting
+1972|13.0|1.0|Cell and Tissue Research|Structure and function of blood and connective tissue cells of the fresh water pulmonate Lymnaea stagnalis studied by electron microscopy and enzyme histochemistry.
+1973|7.0|0.0|The Journal of Pediatrics|Infections in children caused by the HB group of bacteria
+1974|2.0|1.0||Hemagglutinins: Primitive Receptor Molecules Operative in Invertebrate Defense Mechanisms
+1975|19.0|1.0|The Journal of Pediatrics|The immune response in iron-deficient children: Impaired cellular defense mechanisms with altered humoral components
+1976|8.0|1.0|The New England Journal of Medicine|Lung defense mechanisms: Pt I.
+1977|6.0|3.0|Journal of Consulting and Clinical Psychology|Patterns of Appropriate and Deviant Sexual Arousal: The Behavioral Treatment of Multiple Sexual Deviations.
+1978|21.0|1.0|Behavioral and Brain Sciences|Toward a general theory of infantile attachment: a comparative review of aspects of the social bond
+1979|7.0|1.0|Journal of The Institute of Brewing|SPHEROPLAST FUSION OF BREWER'S YEAST STRAINS
+1980|46.0|2.0|Behavioral and Brain Sciences|Prcis of The evolution of human sexuality
+1981|19.0|2.5|Journal of Research in Personality|The Effects of Mass Media Exposure on Acceptance of Violence Against Women: A Field Experiment
+1982|21.0|3.0|Neuroscience & Biobehavioral Reviews|The inhibitory modulation of agonistic behavior in the rat brain: A review
+1983|257.0|2.0|Science|Dietary Carcinogens and Anticarcinogens.
+1984|16.0|2.0|Experimental Eye Research|Species differences in the responses of the eye to irritation and trauma: a hypothesis of divergence in ocular defense mechanisms, and the choice of experimental animals for eye research
+1985|13.0|1.0|Digestive Diseases and Sciences|The pathophysiology of peptic ulcer disease
+1986|33.0|2.0|American Psychologist|A Conception of Adult Development.
+1987|65.0|2.0|Journal of Consulting and Clinical Psychology|The Scope of Rape: Incidence and Prevalence of Sexual Aggression and Victimization in a National Sample of Higher Education Students.
+1988|58.0|2.0|Hypertension|Mediators produced by the endothelial cell.
+1989|187.0|3.0|Behavioral and Brain Sciences|Sex differences in human mate preferences: evolutionary hypotheses tested in 37 cultures
+1990|85.0|3.0|American Journal of Public Health|Beliefs about AIDS, use of alcohol and drugs, and unprotected sex among Massachusetts adolescents.
+1991|132.0|4.0|Child Development|Childhood Experience, Interpersonal Development, and Reproductive Strategy: An Evolutionary Theory of Socialization
+1992|137.0|2.0|Child Abuse & Neglect|A review of the long-term effects of child sexual abuse.
+1993|52.0|3.0|Journal of Investigative Dermatology|Antioxidant Defense Mechanisms in Murine Epidermis and Dermis and Their Responses to Ultraviolet Light
+1994|118.0|3.0|Physiologia Plantarum|Photooxidative stress in plants
+1995|39.0|3.0|Maturitas|Testosterone enhances estradiol's effects on postmenopausal bone density and sexuality
+1996|103.0|3.0|Trends in Neurosciences|Nerve growth factor: from neurotrophin to neurokine
+1997|95.0|4.0|The Plant Cell|Salicylic acid potentiates an agonist-dependent gain control that amplifies pathogen signals in the activation of defense mechanisms.
+1998|136.0|5.0|Trends in Genetics|Imprinting in PraderWilli and Angelman syndromes
+1999|212.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Suppression of gene silencing: A general strategy used by diverse DNA and RNA viruses of plants
+2000|283.0|7.0|Cell|An RNA-Dependent RNA Polymerase Gene in Arabidopsis Is Required for Posttranscriptional Gene Silencing Mediated by a Transgene but Not by a Virus
+2001|125.0|6.0|Current Opinion in Immunology|NK cells and NKT cells in innate defense against viral infections
+2002|227.0|9.0|Journal of School Health|Youth Risk Behavior Surveillance  United States, 2001
+2003|179.0|8.0||Breaking the conflict trap : civil war and development policy
+2004|285.0|8.0|Cell|Autophagy Is a Defense Mechanism Inhibiting BCG and Mycobacterium tuberculosis Survival in Infected Macrophages
+2005|265.0|7.0|Mechanisms of Ageing and Development|Overview of caloric restriction and ageing
+2006|1283.0|7.0|Nature|The plant immune system.
+2007|472.0|7.0|Trends in Cognitive Sciences|Self-Projection and the Brain
+2008|702.0|7.0|PLOS ONE|Ixodes ricinus Tick Lipocalins: Identification, Cloning, Phylogenetic Analysis and Biochemical Characterization
+2009|677.0|8.0|Annual Review of Plant Biology|A Renaissance of Elicitors: Perception of Microbe-Associated Molecular Patterns and Danger Signals by Pattern-Recognition Receptors
+2010|524.0|7.0|Science|CRISPR/Cas, the Immune System of Bacteria and Archaea

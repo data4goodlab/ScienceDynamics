@@ -1,0 +1,78 @@
+----  Field Name Geotechnical engineering: 
+----  Field Level 1.0: 
+----  Field Papers Number 84257:
+----  All time max citation paper: A review of the source, behaviour and distribution of arsenic in natural waters, 2002, (2461.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1937|0|0.0|American Journal of Potato Research|Cultural and storage research with potatoes during 1936
+1938|4.0|2.0|Digestive Diseases and Sciences|Karaya gum as a mechanical laxative an experimental study on animals and man
+1939|0|0.0|Journal of The American Pharmaceutical Association|Changes in ergot with various moisture contents under different conditions of storage
+1940|1.0|0.5|Annals of Applied Biology|The Moisture Balance of the Living Fleece in Relation to Blowfly Myiasis, with some Remarks on the Australian and British Conceptions of Susceptibility.
+1941|2.0|2.0|American Journal of Botany|Soil Moisture as a Limiting Factor for Active Absorption and Root Pressure
+1942|5.0|5.0|Journal of Dairy Research|293. Bacteriological aspects of the manufacture of spray-dried milk and whey powders, including some observations concerning moisture content and solubility
+1943|0|0.0|American Journal of Potato Research|The effect of moisture and other factors on potato scab
+1944|2.0|1.5|Journal of the American Oil Chemists' Society|Effect of relative humidity on the determination of oil in soybeans
+1945|3.0|2.0|American Journal of Potato Research|The influence of fertilizers on the specific gravity of potatoes grown in Minnesota
+1947|11.0|11.0|Journal of the American Oil Chemists' Society|Processin$. of Cottonseed 1. Pigment Distribution in Oils and Meals Produced by Hydraulic and Screw Press Methods 1
+1948|5.0|1.0|Journal of the American Oil Chemists' Society|Pilot-plant fractionation of cottonseed. I. Disintegration of cottonseed meats
+1949|0|0.0|Annals of Applied Biology|VIRUS DISEASES OF CACAO IN WEST AFRICA: IV. EFFECT OF VIRUS INFECTION ON GROWTH AND WATER CONTENT OF CACAO SEEDLINGS
+1950|8.0|4.0|Journal of Experimental Zoology|Humidity reactions of Tribolium castaneum (Herbst)
+1951|1.0|1.0|Journal of Chemical Physics|Equivalent and Ionic Conductances for Sodium and Potassium Chlorides in Anhydrous Methanol at 25C
+1952|0|0.0|The Journal of Geology|Use of Soil Mechanics Data in Correlation and Interpretation of Lake Agassiz Sediments
+1953|5.0|1.0|Journal of Applied Physics|DIFFUSION IN BIMETAL VAPOR-SOLID COUPLES
+1955|2.0|0.0|Journal of Colloid Science|Studies in water-in-oil emulsions. IV. The influence of the emulsifying agent on the viscosity of water-in-oil emulsions of high water content
+1956|2.0|0.5|Geochimica et Cosmochimica Acta|Silica in hot-spring waters
+1957|2.0|0.5|Colloid and Polymer Science|The fine structure and properties of fibrous alumina
+1958|8.0|1.0|Journal of the American Oil Chemists' Society|Separation and determination of mono-, Di-, and triglycerides in monoglyceride concentrates
+1959|4.0|2.0|Journal of Dairy Science|Distribution of Natural and Added Copper and Iron in Milk1
+1960|5.0|1.0|Journal of Neurochemistry|SODIUM, POTASSIUM, CHLORIDE AND WATER CONTENT OF SIX DISCRETE PARTS OF THE MAMMALIAN BRAIN*
+1961|11.0|1.0|Radiation Botany|The time-intensity factor in dry seed irradiation
+1962|8.0|1.0|Journal of Chemical Physics|GASEOUS DIFFUSION IN POROUS MEDIA. II. EFFECT OF PRESSURE GRADIENTS
+1963|8.0|2.0|Journal of Chemical Physics|GASEOUS DIFFUSION IN POROUS MEDIA. III. THERMAL TRANSPIRATION
+1964|14.0|0.0|Journal of Applied Physics|Influence of Temperature, Strain Rate, Surface Condition, and Composition on the Plasticity of TransitionMetal Carbide Crystals
+1965|23.0|2.5|Journal of Geophysical Research|The bulk modulusvolume relationship for oxide compounds and related geophysical problems
+1966|26.0|2.0|Journal of Geophysical Research|Heat flow through the Arctic Ocean floor: The Canada BasinAlpha Rise Boundary
+1967|8.0|1.0||A comparison of the body size, fleece weight and maternal performance of five breeds of sheep kept in one environment.
+1968|12.0|1.0|Journal of Geophysical Research|Brittleductile transition in rocks
+1969|22.0|1.0|Water Resources Research|The Mechanism of Natural GroundWater Recharge and Discharge: 1. Onedimensional, Vertical, Unsteady, Unsaturated Flow above a Recharging or Discharging GroundWater Flow System
+1970|59.0|1.0|Journal of Geophysical Research|Tectonic stress and the spectra of seismic shear waves from earthquakes
+1971|28.0|1.0|The Journal of General Physiology|The permeability of the sodium channel to organic cations in myelinated nerve
+1972|21.0|2.0|Planta|Oscillations in Stomatal Conductance and Plant Functioning Associated with Stomatal Conductance: Observations and a Model
+1973|31.0|2.0|Journal of Geophysical Research|Water and processes of degradation in the Martian landscape
+1974|22.0|2.0|Journal of Geophysical Research|The Effect of Oriented Cracks on Seismic Velocities
+1975|26.0|1.0|Journal of Geophysical Research|Timedependent seismology
+1976|46.0|2.0|Journal of Geophysical Research|Volcanic explosions and climatic change: A theoretical assessment
+1977|34.0|3.0|Physiology & Behavior|Disruption of rabbit ( Oryctolagus cuniculus ) nictitating membrane conditioning by posttrial electrical stimulation of hippocampus
+1978|63.0|2.0|Geochimica et Cosmochimica Acta|Uranium solution-mineral equilibria at low temperatures with applications to sedimentary ore deposits
+1979|75.0|3.0|Geochimica et Cosmochimica Acta|Early oxidation of organic matter in pelagic sediments of the eastern equatorial Atlantic: suboxic diagenesis
+1980|71.0|3.0|Journal of Geophysical Research|Sensitivity of a global climate model to an increase of CO2 concentration in the atmosphere
+1981|39.0|3.0|Reviews of Geophysics|Chemistry within aqueous atmospheric aerosols and raindrops
+1982|36.0|3.0|Water Resources Research|Porous media equivalents for networks of discontinuous fractures
+1983|54.0|2.0|Reviews of Geophysics|Rheology of the lithosphere
+1984|61.0|3.0|Journal of Geophysical Research|Seasonal cycle experiment on the climate sensitivity due to a doubling of CO2 with an atmospheric general circulation model coupled to a simple mixedlayer ocean model
+1985|85.0|2.0|Water Resources Research|Modeling the Effects of Acid Deposition: Assessment of a Lumped Parameter Model of Soil Water and Streamwater Chemistry
+1986|56.0|2.0|Water Resources Research|Water flow and solute transport processes in the unsaturated zone
+1987|107.0|3.0|Reviews of Geophysics|Climate model simulations of the equilibrium climatic response to increased carbon dioxide
+1988|36.0|3.0|Earth and Planetary Science Letters|Infrared spectroscopic measurements of CO 2 and H 2 O in Juan de Fuca Ridge basaltic glasses
+1989|73.0|2.0|Geochimica et Cosmochimica Acta|Reactive iron in marine sediments
+1990|77.0|3.0|Journal of Geophysical Research|Hotspots and mantle plumes: Some phenomenology
+1991|55.0|2.0|Contributions to Mineralogy and Petrology|Partial melting of two amphibolites: contrasting experimental results under fluid-absent conditions
+1992|58.0|3.0|Geochimica et Cosmochimica Acta|A unifying model of cation binding by humic substances
+1993|48.0|2.0|Magnetic Resonance in Medicine|Development of the human brain: In vivo quantification of metabolite and water content with proton magnetic resonance spectroscopy
+1994|68.0|2.0|Water Resources Research|An experimental investigation of nonaqueous phase liquid dissolution in saturated subsurface systems: Steady state mass transfer rates
+1995|98.0|2.0|Journal of Geophysical Research|Strength of the lithosphere: Constraints imposed by laboratory experiments
+1996|83.0|3.0|Earth and Planetary Science Letters|Water in the oceanic upper mantle: implications for rheology, melt extraction and the evolution of the lithosphere
+1997|65.0|3.0|Reviews of Geophysics|The physics of debris flows
+1998|115.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Measurement of cytosolic, mitochondrial, and Golgi pH in single living cells with green fluorescent proteins
+1999|120.0|4.0|Science of The Total Environment|Behavior and occurrence of estrogens in municipal sewage treatment plants  I. Investigations in Germany, Canada and Brazil
+2000|147.0|4.0|Nature Medicine|Aquaporin-4 deletion in mice reduces brain edema after acute water intoxication and ischemic stroke
+2001|286.0|5.0|Journal of Membrane Science|On the development of proton conducting polymer membranes for hydrogen and methanol fuel cells
+2002|418.0|5.0|Applied Geochemistry|A review of the source, behaviour and distribution of arsenic in natural waters
+2003|126.0|6.0|Annual Review of Plant Biology|AQUAPORINS AND WATER PERMEABILITY OF PLANT MEMBRANES
+2004|376.0|6.0|Journal of Geophysical Research|Effective stress law for the permeability of clayrich sandstones
+2005|806.0|6.0||A preliminary study
+2006|437.0|6.0|Biomaterials|Biodegradable and bioactive porous polymer/inorganic composite scaffolds for bone tissue engineering
+2007|166.0|6.0|Nature|Drought sensitivity shapes species distribution patterns in tropical forests
+2008|698.0|7.0|Science|High-Throughput Synthesis of Zeolitic Imidazolate Frameworks and Application to CO2 Capture
+2009|368.0|7.0|Nature|Satellite-based estimates of groundwater depletion in India.
+2010|437.0|7.0|Nature|High-water-content mouldable hydrogels by mixing clay and a dendritic molecular binder

@@ -1,0 +1,64 @@
+----  Field Name Chemical Engineering: 
+----  Field Level 1.0: 
+----  Field Papers Number 32393:
+----  All time max citation paper: Apoptosis in the pathogenesis and treatment of disease, 1995, (4008.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1941|0|0.0||The problem of cooling an air-cooled cylinder on an aircraft engine
+1952|0|0.0|Archives of Biochemistry and Biophysics|Sarcosine oxidase activity of rat liver tissue: Effect of folic acid deficiency and induced hyperthyroidism
+1955|1.0|1.0|Archives of Biochemistry and Biophysics|The effect of tryptophan analogs on the induced synthesis of maltase and protein synthesis in yeast
+1956|1.0|1.0|Archives of Biochemistry and Biophysics|The metabolism of Brucellae: The oxidation of succinate as a function of pH and concentration
+1957|0|0.0|Archives of Biochemistry and Biophysics|Peptic hydrolysis of ovalbumin modified by acetylation,
+1958|5.0|5.0|Angewandte Chemie|Chemische Analyse durch Neutronenreaktionen
+1959|4.0|4.0|Archives of Biochemistry and Biophysics|A method for the determination of guanidoacetic acid and arginine in biological fluids.
+1960|21.0|4.0|Archives of Biochemistry and Biophysics|Interaction between myosin and its substrates
+1961|3.0|0.0|Archives of Biochemistry and Biophysics|A comparison of the properties of two forms of tyrosinase from Neurospora crassa
+1962|5.0|2.0|Journal of Chemical Physics|Mass Spectrometry of Ions in Glow Discharges. III. Nitrogen and Its Mixtures with Hydrogen and Oxygen
+1963|16.0|2.0|Biochimica et Biophysica Acta|The incorporation of citrate carbon into fatty acids
+1964|14.0|2.0|Journal of Geophysical Research|Uranium and thorium series inequilibrium in sea water
+1965|3.0|1.0|Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy|Vibrational spectra and assignments for (CH3)2NPF2
+1966|7.0|1.0|Journal of Geophysical Research|Calcium carbonate precipitation on the Bahama Banks
+1967|11.0|2.0|Proceedings of the IEEE|Computer-aided network optimization the state-of-the-art
+1968|11.0|3.0|Journal of Geophysical Research|Radiocarbon from nuclear weapons tests
+1969|9.0|1.0|Analytical Biochemistry|Autoradiography with acrylamide gel slab electrophoresis
+1970|28.0|2.0|Archives of Biochemistry and Biophysics|The biosynthesis by brain microsomes of cerebrosides containing nonhydroxy fatty acids
+1971|9.0|1.0|Biochimica et Biophysica Acta|Biosynthesis, in vitro, of "histidine-protein" -- A biochemical marker in epidermal differentiation
+1972|20.0|1.0|Biopolymers|Effwct of temperature on the circular dichroism spectra of polypeptides in the extended state
+1973|18.0|1.0|Earth and Planetary Science Letters|The residence time of thorium in surface sea water and its implications regarding the rate of reactive pollutants
+1974|27.0|1.0|Earth and Planetary Science Letters|Geosecs North Atlantic radiocarbon and tritium results
+1975|30.0|2.0|Reviews of Geophysics|Chlorofluoromethanes in the environment
+1976|48.0|2.5|Archives of Biochemistry and Biophysics|Studies on hydroperoxide-dependent substrate hydroxylation by purified liver microsomal cytochrome P -450
+1977|48.0|3.0|Earth and Planetary Science Letters|The distribution of dissolved copper in the Pacific
+1978|30.0|2.0|Analytical Biochemistry|Lipid extraction of tissues with a low-toxicity solvent
+1979|30.0|4.0|Earth and Planetary Science Letters|The isotopic composition of Nd in different ocean masses
+1980|44.0|5.0|Earth and Planetary Science Letters|The distribution of manganese in the Pacific Ocean
+1981|50.0|3.0|Earth and Planetary Science Letters|Lead concentrations in the northeast Pacific: evidence for global anthropogenic perturbations
+1982|75.0|2.0|Peptides|Dynorphin immunocytochemistry in the rat central nervous system
+1983|32.0|3.0|Analytical Biochemistry|Reverse-phase high-performance liquid chromatography of hydrophobic proteins and fragments thereof
+1984|39.0|3.0|IEEE Design & Test of Computers|A Survey of Hardware Accelerators Used in Computer-Aided Design
+1985|46.0|3.0|Journal of Geophysical Research|Thermohaline circulation in the Arctic Mediterranean Seas
+1986|54.0|3.0|Archives of Biochemistry and Biophysics|Evidence that isoniazid and ethanol induce the same microsomal cytochrome P-450 in rat liver, an isozyme homologous to rabbit liver cytochrome P-450 isozyme 3a
+1987|58.0|2.0|Geochimica et Cosmochimica Acta|The contrasting biogeochemistry of iron and manganese in the Pacific Ocean
+1988|176.0|3.0|Global Biogeochemical Cycles|Biogeochemical aspects of atmospheric methane
+1989|52.0|2.0|IEEE Computer|Design recovery for maintenance and reuse
+1990|96.0|2.0|IEEE Transactions on Knowledge and Data Engineering|Prototyping Bubba, a highly parallel database system
+1991|42.0|2.0|Journal of Chemical Physics|On the nature of trapping and desorption at high surface temperatures. Theory and experiments for the ArPt(111) system
+1992|57.0|2.0|IEEE Software|Definitions of tool integration for environments
+1993|46.0|3.0|Earth and Planetary Science Letters|238U/204Pb in MORB and open system evolution of the depleted mantle
+1994|77.0|3.0|Fems Microbiology Reviews|Xylanases in bleaching: From an idea to the industry
+1995|1358.0|3.0|Science|Apoptosis in the pathogenesis and treatment of disease
+1996|63.0|3.0|international symposium on microarchitecture|Subword parallelism with MAX-2
+1997|237.0|3.0|Nature|Storage of Hydrogen in Single-Walled Carbon Nanotubes
+1998|407.0|3.0|Nature|HLA-E binds to natural killer cell receptors CD94/NKG2A, B and C
+1999|96.0|4.0|design, automation, and test in europe|EXPRESSION: a language for architecture exploration through compiler/simulator retargetability
+2000|467.0|4.0|international symposium on computer architecture|Wattch: a framework for architectural-level power analysis and optimizations
+2001|1222.0|4.0|Journal of Applied Physics|High- gate dielectrics: Current status and materials properties considerations
+2002|446.0|5.0|IEEE Computer|Networks on chips: a new SoC paradigm
+2003|149.0|5.0|Annual Review of Ecology, Evolution, and Systematics|Plant Ecological Strategies: Some Leading Dimensions of Variation Between Species
+2004|261.0|6.0|Nature|Collapse and rapid resumption of Atlantic meridional circulation linked to deglacial climate changes
+2005|748.0|5.0|Nature|Silencing of microRNAs in vivo with 'antagomirs'.
+2006|235.0|6.0|Progress in Physical Geography|Plant invasions: merging the concepts of species invasiveness and community invasibility
+2007|201.0|5.0|Bioresource Technology|Fuel ethanol production: process design trends and integration opportunities.
+2008|176.0|6.0|Pharmaceutical Research|Pharmaceutical Quality by Design: Product and Process Development, Understanding, and Control
+2009|502.0|6.0|Journal of Computational Chemistry|CHARMM: The biomolecular simulation program
+2010|547.0|8.0|Advanced Materials|Blue photoluminescence from chemically derived graphene oxide.

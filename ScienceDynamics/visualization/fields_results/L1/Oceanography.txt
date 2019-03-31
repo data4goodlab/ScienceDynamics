@@ -1,0 +1,81 @@
+----  Field Name Oceanography: 
+----  Field Level 1.0: 
+----  Field Papers Number 177738:
+----  All time max citation paper: The Pittsburgh sleep quality index: A new instrument for psychiatric practice and research, 1989, (4633.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1922|0|0.0|Journal of the Marine Biological Association of the United Kingdom|The Hydrogen Ion Concentration of Sea Water in its Biological Relations
+1929|4.0|4.0|Protoplasma|The effects of acids and alkalies on the viscosity of protoplasm
+1930|0|0.0|Journal of the Marine Biological Association of the United Kingdom|Seasonal Variations in the Phosphate and Silicate Content of Sea-Water in Relation to the Phyto-plankton Crop. Part V. November 1927 to April 1929, Compared with Earlier Years from 1923
+1932|0|0.0|Journal of the Marine Biological Association of the United Kingdom|Nitrate in Sea-water and its Estimation by means of Diphenylbenzidine
+1937|4.0|2.0|Journal of Chemical Physics|On Transitions in Condensed Systems
+1938|1.0|1.0|Journal of the Marine Biological Association of the United Kingdom|Salt Error in Determinations of Phosphate in Sea Water
+1939|5.0|2.5|Journal of Chemical Physics|The Low Temperature Gaseous Heat Capacities of C2H6
+1940|1.0|1.0|Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)|On the Function of Chlorocruorin
+1941|1.0|1.0|Journal of Chemical Physics|Optical Sensitizing of Silver Halides by Dyes III. The Relation of Sensitizing to the Absorption Spectra and Constitution of Dyes
+1945|2.0|1.0|Journal of Chemical Physics|The Mercury Photosensitized Reactions of Propane at Low Pressures
+1946|8.0|3.0|Journal of Chemical Physics|Statistical Mechanics of Multimolecular Adsorption II. Localized and Mobile Adsorption and Absorption
+1947|4.0|0.5|Journal of Chemical Physics|The Study of Reaction Intermediates by Means of a Mass Spectrometer Part I. Apparatus and Method
+1948|1.0|1.0|Journal of the Marine Biological Association of the United Kingdom|The Estimation of Phosphate and of Total Phosphorus in Sea Waters
+1949|0|0.0|Microbiology|Development of Bacteria in Waters Stored in Glass Containers
+1950|0|0.0||Glacial Sluiceways and Lacustrine Plains of Southern Indiana
+1951|2.0|1.5|Journal of Chemical Physics|The Thermal HydrogenOxygen Reaction at Relatively Low Temperatures
+1952|6.0|2.0|Journal of Chemical Physics|Kinetics of OH Radicals from Flame Emission Spectra V. A Study of the AcetyleneOxygen Flame
+1953|8.0|1.0|Journal of Chemical Physics|Rotational ``Temperatures'' of OH in Diluted Flames
+1954|8.0|1.0|Geochimica et Cosmochimica Acta|The transport and deposition of uranium, ionium and radium in rivers, oceans and ocean sediments
+1955|12.0|2.5|Journal of Chemical Physics|Molecular Calculations. I. LCAO MO SelfConsistent Field Treatment of the Ground State of H2O
+1956|7.0|2.0|Geochimica et Cosmochimica Acta|Untersuchungen zur Geochemie des Bleis
+1957|36.0|2.0|Journal of Chemical Physics|Reactions of Nitrogen Atoms. I. Oxygen and Oxides of Nitrogen
+1958|25.0|2.0|Geochimica et Cosmochimica Acta|Chemistry of Pacific pelagic sediments
+1959|12.0|4.0|Journal of Chemical Physics|Molecular Dissociation and Reconstitution on Solids
+1960|14.0|0.5|Journal of Chemical Physics|Some Considerations of Unimolecular Rate Theory
+1961|13.0|3.0|Geochimica et Cosmochimica Acta|Chemical and mineralogical studies of deep-sea sediments
+1962|25.0|3.0|Geochimica et Cosmochimica Acta|On the chemical evolution of the carbonaceous chondrites
+1963|21.0|2.0|Journal of Geophysical Research|The association of planewave electrondensity irregularities with the equatorial electrojet
+1964|88.0|2.5|Journal of Geophysical Research|Deformation of the geomagnetic field by the solar wind
+1965|35.0|3.0|Journal of Geophysical Research|Dynamical heating of the upper atmosphere
+1966|22.0|2.5|Earth and Planetary Science Letters|Paleomagnetic stratigraphy, rates of deposition and tephrachronology in North Pacific deep-sea sediments
+1967|94.0|4.0|Journal of Geophysical Research|OGOA magnetic field observations
+1968|198.0|4.0|Journal of Geophysical Research|Marine magnetic anomalies, geomagnetic field reversals, and motions of the ocean floor and continents
+1969|39.0|3.0|Journal of Geophysical Research|Bow shock associated waves observed in the far upstream interplanetary medium
+1970|43.0|3.0|Journal of Geophysical Research|Characteristics of transverse magnetic disturbances observed at 1100 kilometers in the auroral oval
+1971|66.0|3.0|Journal of Geophysical Research|Average and unusual locations of the earth's magnetopause and bow shock
+1972|54.0|3.0|Icarus|Investigation of the Martian environment by infrared spectroscopy on Mariner 9
+1973|41.0|2.0|Journal of Geophysical Research|Atmospheric and surface properties of Mars obtained by infrared spectroscopy on Mariner 9
+1974|29.0|3.0|Journal of Geophysical Research|Whistler waves observed upstream from collisionless shocks
+1975|48.0|3.0|Journal of Fluid Mechanics|Progress in the development of a Reynolds-stress turbulence closure
+1976|67.0|4.0|Geochimica et Cosmochimica Acta|Flocculation of dissolved organic and inorganic matter during the mixing of river water and seawater
+1977|58.0|4.0|Journal of Geophysical Research|Cenozoic evolution of Antarctic glaciation, the circumAntarctic Ocean, and their impact on global paleoceanography
+1978|77.0|4.0|Geophysical Research Letters|Observations of two distinct populations of bow shock ions in the upstream solar wind
+1979|64.0|4.0|Geophysical Research Letters|Association of lowfrequency waves with suprathermal ions in the upstream solar wind
+1980|71.0|4.0|Journal of Geophysical Research|Sensitivity of a global climate model to an increase of CO2 concentration in the atmosphere
+1981|83.0|4.0|Psychiatry Research-neuroimaging|Platelet MAO activity and monoamine metabolites in cerebrospinal fluid in depressed and suicidal patients and in healthy controls
+1982|133.0|3.0|Behavioral and Brain Sciences|Prcis of The neuropsychology of anxiety: An enquiry into the functions of the septo-hippocampal system
+1983|60.0|4.0|Behavioral and Brain Sciences|Problems with current catecholamine hypotheses of antidepressant agents: Speculations leading to a new hypothesis
+1984|75.0|3.0|Nature|Oxygen isotope calibration of the onset of ice-rafting and history of glaciation in the North Atlantic region
+1985|59.0|3.0|Journal of Geophysical Research|The effect of breaking gravity waves on the dynamics and chemical composition of the mesosphere and lower thermosphere
+1986|82.0|3.0|Behavioral and Brain Sciences|Reconciling the role of central serotonin neurons in human and animal behavior
+1987|104.0|4.0|Behavioral and Brain Sciences|Dopamine, schizophrenia, mania, and depression: Toward a unified hypothesis of cortico-striatopallido-thalamic function
+1988|98.0|3.0|Journal of Geophysical Research|Global climate changes as forecast by Goddard Institute for Space Studies threedimensional model
+1989|76.0|3.0|Paleoceanography|Late Pliocene variation in northern hemisphere ice sheets and North Atlantic deep water circulation
+1990|83.0|3.0|Nature|Ice-core record of atmospheric methane over the past 160,000 years
+1991|68.0|3.0|Earth and Planetary Science Letters|Hydrothermal vent distribution along the East Pacific Rise crest (90954N) and its relationship to magmatic and tectonic processes on fast-spreading mid-ocean ridges
+1992|165.0|3.0|Cognition|Domain specificity in conceptual development: neuropsychological evidence from autism.
+1993|70.0|3.0|Applied Physics Letters|Metal semiconductor field effect transistor based on single crystal GaN
+1994|97.0|3.0|Climate Dynamics|Decadal atmosphere-ocean variations in the Pacific
+1995|164.0|3.0|Science|Iceberg discharges into the north atlantic on millennial time scales during the last glaciation.
+1996|141.0|4.0|Neuropsychopharmacology|Radioreceptor binding profile of the atypical antipsychotic olanzapine
+1997|219.0|4.0|Journal of Computational Physics|A numerical method for the study of the circulation of the world ocean
+1998|224.0|4.0|Molecular Ecology|Comparative phylogeography and postglacial colonization routes in Europe
+1999|224.0|5.0|Gastroenterology|Nonalcoholic fatty liver disease: A spectrum of clinical and pathological severity
+2000|249.0|6.0|Neuropsychopharmacology|The Corticosteroid Receptor Hypothesis of Depression
+2001|409.0|6.0|Neuropsychopharmacology|Drug Addiction, Dysregulation of Reward, and Allostasis
+2002|588.0|6.0|Geology|Integrated chronostratigraphic calibration of the Oligocene-Miocene boundary at 24.0 +/- 0.1 MA from the CRP-2A drill core, Ross Sea, Antarctica
+2003|557.0|7.0|Annual Review of Plant Biology|PLANT CELLULAR AND MOLECULAR RESPONSES TO HIGH SALINITY
+2004|388.0|7.0|Journal of Geophysical Research|Eulerian flow velocities in the swash zone: Field data and model predictions
+2005|828.0|8.0|Applied and Environmental Microbiology|Introducing DOTUR, a Computer Program for Defining Operational Taxonomic Units and Estimating Species Richness
+2006|881.0|7.0|Annual Review of Ecology, Evolution, and Systematics|Ecological and Evolutionary Responses to Recent Climate Change
+2007|558.0|8.0|Gastroenterology|Hepatocellular Carcinoma: Epidemiology and Molecular Carcinogenesis
+2008|980.0|8.0|Nature Reviews Neuroscience|From inflammation to sickness and depression: when the immune system subjugates the brain
+2009|878.0|8.0|PLOS ONE|Spatio-Temporal Transmission Patterns of Black-Band Disease in a Coral Community
+2010|1437.0|9.0|PLOS ONE|Marine Reserves Enhance the Recovery of Corals on Caribbean Reefs

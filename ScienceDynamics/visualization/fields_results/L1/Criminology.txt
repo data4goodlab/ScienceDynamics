@@ -1,0 +1,55 @@
+----  Field Name Criminology: 
+----  Field Level 1.0: 
+----  Field Papers Number 8122:
+----  All time max citation paper: Adolescence-limited and life-course-persistent antisocial behavior: a developmental taxonomy, 1993, (3212.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1955|0|0.0|Journal of Clinical Psychology|Directive therapy with female juvenile delinquents
+1957|1.0|1.0|Social Problems|A Critique of the Psychiatric Approach to the Prevention of Juvenile Delinquency
+1961|1.0|0.5|Child Development|Personality factors related to juvenile delinquency
+1962|1.0|1.0|Journal of The American Academy of Child Psychiatry|THE PSYCHIATRIST AND JUVENILE DELINQUENCY
+1963|2.0|2.0|Journal of The American Academy of Child Psychiatry|DELINEATION OF TWO DIAGNOSTIC GROUPS AMONG JUVENILE DELINQUENTS: THE SCHIZOPHRENIC AND THE IMPULSE-RIDDEN CHARACTER DISORDER
+1965|4.0|2.5|Journal of Experimental Social Psychology|Collective behavior in a simulated panic situation
+1967|1.0|1.0||Prediction of Recidivism among Juvenile Delinquents with the Hand Test
+1969|10.0|0.5|JAMA|A Study of the XYY Syndrome in Tall Men and Juvenile Delinquents
+1970|3.0|1.5|Social Psychiatry and Psychiatric Epidemiology|Social Disorganization and Completed Suicide
+1971|15.0|0.5|Journal of Behavior Therapy and Experimental Psychiatry|Behavioral Contracting Within the Families of Delinquents.
+1972|6.0|0.0|Social Problems|From Delinquent Behavior to Official Delinquency.
+1973|10.0|0.0|Social Problems|The Influence of Funding Agencies on Juvenile Delinquency Research
+1974|14.0|1.0|Psychological Bulletin|Studies of behavior modification and juvenile delinquency: a review, methodological critique, and social perspective.
+1975|39.0|2.5|IEEE Transactions on Acoustics, Speech, and Signal Processing|Organization of the Hearsay II speech understanding system
+1976|10.0|1.5|Journal of Consulting and Clinical Psychology|Systems-Behavioral Intervention with Families of Delinquents: Therapist Characteristics, Family Behavior, and Outcome.
+1977|2.0|0.0|IEEE Transactions on Circuits and Systems|The interactive-graphic man-computer dialogue in computer-aided circuit design
+1978|9.0|2.5|American Sociological Review|The Myth of Social Class and Criminality: An Empirical Assessment of the Empirical Evidence.
+1979|16.0|1.0|Behaviour Research and Therapy|Social skills training for juvenile delinquents
+1980|8.0|1.0|IEEE Transactions on Reliability|Reliability Evaluation of a Flow Network
+1981|14.0|1.0|American Sociological Review|Social Control Theory and Delinquency
+1982|10.0|1.0|American Journal of Sociology|Community Change and Patterns of Delinquency.
+1983|107.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|On the Foundations of Relaxation Labeling Processes
+1984|64.0|2.0|Analytical Biochemistry|Europium as a label in time-resolved immunofluorometric assays
+1985|21.0|2.5|Criminology|ARE UNIFORM CRIME REPORTS A VALID INDICATOR OF THE INDEX CRIMES? AN AFFIRMATIVE ANSWER WITH MINOR QUALIFICATIONS*
+1986|20.0|2.0|foundations of computer science|An efficient parallel algorithm for planarity
+1987|18.0|2.0|foundations of computer science|Cascading divide-and-conquer: A technique for designing parallel algorithms
+1988|82.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Segmentation through variable-order surface fitting
+1989|34.0|1.0|Child Development|Economic Hardship, Parenting, and Distress in Adolescence.
+1990|54.0|3.0|Child Development|Juvenile delinquency and attention deficit disorder: boys' developmental trajectories from age 3 to age 15.
+1991|18.0|3.0|Child Abuse & Neglect|Verbal aggression by parents and psychosocial problems of children
+1992|121.0|2.0|Ecology|The Problem of Pattern and Scale in Ecology
+1993|149.0|2.0|Psychological Review|Adolescence-limited and life-course-persistent antisocial behavior: a developmental taxonomy
+1994|32.0|3.0|Child Development|Urban Poverty and the Family Context of Delinquency: A New Look at Structure and Process in a Classic Study
+1995|26.0|2.5|Criminology|LIFECOURSE TRAJECTORIES OF DIFFERENT TYPES OF OFFENDERS*
+1996|73.0|3.0|logic in computer science|The theory of hybrid automata
+1997|32.0|2.0|Child Abuse & Neglect|Physical Punishment/Maltreatment during Childhood and Adjustment in Young Adulthood.
+1998|60.0|3.0|IEEE Transactions on Software Engineering|Managing conflicts in goal-driven requirements engineering
+1999|129.0|4.0|Applied Physics Letters|Highly-ordered carbon nanotube arrays for electronics applications
+2000|88.0|3.0|Child Development|Parental monitoring : a reinterpretation
+2001|193.0|3.0|The New England Journal of Medicine|A national survey of stress reactions after the September 11, 2001, terrorist attacks.
+2002|80.0|4.0|IEEE Transactions on Medical Imaging|A modified fuzzy c-means algorithm for bias field estimation and segmentation of MRI data
+2003|229.0|5.0|Nature Reviews Genetics|The human Y chromosome: an evolutionary marker comes of age.
+2004|111.0|5.0|systems man and cybernetics|Stability analysis of social foraging swarms
+2005|135.0|5.0|Journal of Consulting and Clinical Psychology|The characteristics of persistent sexual offenders : A meta-analysis of recidivism studies
+2006|401.0|5.0|IEEE Transactions on Automatic Control|Flocking for multi-agent dynamic systems: algorithms and theory
+2007|260.0|5.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Supervised Learning of Semantic Classes for Image Annotation and Retrieval
+2008|154.0|3.0|computer vision and pattern recognition|Utility data annotation with Amazon Mechanical Turk
+2009|190.0|4.0|Organizational Behavior and Human Decision Processes|How low does ethical leadership flow? Test of a trickle-down model
+2010|181.0|5.0|computer vision and pattern recognition|P-N learning: Bootstrapping binary classifiers by structural constraints

@@ -1,0 +1,65 @@
+----  Field Name Nanotechnology: 
+----  Field Level 1.0: 
+----  Field Papers Number 387402:
+----  All time max citation paper: Initial sequencing and analysis of the human genome, 2001, (10313.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1934|0|0.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|Lange's colloidal gold reaction and the estimation of total proteins in the cerebrospinal fluid of rhodesian sleeping sickness, and their significance in prognosis
+1940|0|0.0|Journal of Dairy Research|265. On the use of various sera for the determination of the soluble calcium and phosphorus of milk
+1949|8.0|8.0|Journal of Applied Physics|Particle Size Determination by Soft XRay Scattering
+1950|7.0|7.0|Journal of Dairy Science|The Reducing Capacity of Milk as Measured by an Iodimetric Titration1
+1952|2.0|1.0|Journal of Chemical Physics|Isotopic Composition of Oxygen in the Catalytic Decomposition of Hydrogen Peroxide
+1954|0|0.0|Journal of the American Ceramic Society|ParticleSizeDistribution Analysis by a Modification of the Turbidimetric Procedure of Musgrave and Harner
+1955|8.0|4.0|Journal of Applied Physics|Electron Microscopy of Monodisperse Latexes
+1957|3.0|3.0|Geochimica et Cosmochimica Acta|Lognormal-type distributionsIII
+1959|3.0|1.0|Colloid and Polymer Science|Statistical theory of parcticle size distributions in emulsions and suspensions
+1960|34.0|3.0|Physics of Fluids|Irreversible Processes in Ionized Gases
+1962|2.0|2.0|Rheologica Acta|Relative viscosity of suspensions of rigid spheres in Newtonian liquids
+1963|11.0|9.5|Journal of Applied Physics|Structure Defects in Pyrolytic Silicon Epitaxial Films
+1964|7.0|0.5|Clinica Chimica Acta|Paper electrophoretic analysis of b12 binding in human gastric juice
+1965|3.0|3.0|Experimental and Molecular Pathology|Experimental amyloidosis. IV. Effect of colloidal gold on the development of amyloidosis.
+1966|10.0|1.0|Journal of Clinical Investigation|Binding of sulfobromophthalein (BSP) sodium by plasma albumin. Its role in hepatic BSP extraction.
+1967|52.0|4.5|Virology|A study of the self-assembly process in a small spherical virus formation of organized structures from protein subunits in vitro
+1968|11.0|3.5|Virology|The self-assembly of spherical viruses with mixed coat proteins
+1969|19.0|2.0|Nature|Recognition of Bacterial Initiator tRNA by Initiation Factors
+1970|17.0|1.0|Journal of Clinical Investigation|Urinary polypeptides related to collagen synthesis.
+1971|30.0|1.0|Nature|Estimation of Secondary Structure in Ribonucleic Acids
+1972|31.0|2.0|Icarus|Variable features on Mars - Preliminary Mariner 9 television results.
+1973|49.0|2.0|Journal of Experimental Medicine|IDENTIFICATION OF HUMAN B AND T LYMPHOCYTES BY SCANNING ELECTRON MICROSCOPY
+1974|23.0|2.0|American Journal of Anatomy|A scanning electron microscopic study of the nephron
+1975|557.0|4.0|Nature|Identification of two related pentapeptides from the brain with potent opiate agonist activity
+1976|168.0|3.0|Nature|C fragment of lipotropin has a high affinity for brain opiate receptors
+1977|72.0|3.0|Journal of Applied Physics|Optical and photoconductive properties of dischargeproduced amorphous silicon
+1978|30.0|2.0|Applied Physics Letters|Solid-phase epitaxy of implanted silicon by cw Ar ion laser irradiation
+1979|38.0|2.0|Nature|Volcanic resurfacing rates and implications for volatiles on Io
+1980|406.0|2.0|Nature|The role of hormone receptors and GTP-regulatory proteins in membrane transduction.
+1981|49.0|1.0|Journal of Applied Toxicology|The role of nitroaromatic compounds in the directacting mutagenicity of diesel particle extracts
+1982|42.0|2.0|Analytica Chimica Acta|Isolation and identification of mutagenic nitro-pah in diesel-exhaust particulates
+1983|57.0|2.0|Journal of Investigative Dermatology|Calcium-Regulated Differentiation of Normal Human Epidermal Keratinocytes in Chemically Defined Clonal Culture and Serum-Free Serial Culture
+1984|59.0|2.0|Journal of Molecular and Cellular Cardiology|Calcium out of control.
+1985|54.0|2.0|Journal of Investigative Dermatology|Bullous pemphigoid antigen localization suggests an intracellular association with hemidesmosomes.
+1986|120.0|2.0|Cell|Beyond self-assembly: From microtubules to morphogenesis
+1987|66.0|2.0|Journal of Applied Physics|Atomic resolution imaging of a nonconductor by atomic force microscopy
+1988|127.0|2.0|Brain Research|Normalization of extracellular dopamine in striatum following recovery from a partial unilateral 6-OHDA lesion of the substantia nigra: a microdialysis study in freely moving rats
+1989|205.0|3.0|Journal of the American Ceramic Society|DiamondCeramic Coating of the Future
+1990|127.0|3.0|Synapse|Effect of acute and daily cocaine treatment on extracellular dopamine in the nucleus accumbens
+1991|126.0|2.0|Cell|Ras C-terminal processing enzymesNew drug targets?
+1992|157.0|3.0|Applied Physics Letters|Combined shear force and nearfield scanning optical microscopy
+1993|121.0|3.0|Applied Physics Letters|Textured growth of diamond on silicon via in situ carburization and biasenhanced nucleation
+1994|259.0|3.0|Applied Physics Letters|Selforganized growth of regular nanometerscale InAs dots on GaAs
+1995|133.0|3.0|International Journal for Parasitology|Cryptosporidium and Cryptosporidiosis in Man and Animals
+1996|103.0|2.0|Science|Self-Assembling Dendrimers
+1997|1035.0|3.0|Nature|Functional rafts in cell membranes
+1998|2478.0|4.0|Nature|Dendritic cells and the control of immunity
+1999|798.0|5.0|Nature|Molecular characterization of mitochondrial apoptosis-inducing factor
+2000|1400.0|5.0|Nature|Distinct types of diffuse large B-cell lymphoma identified by gene expressionprofiling
+2001|4579.0|5.0|Nature|Initial sequencing and analysis of the human genome
+2002|1438.0|6.0|Nature|Pluripotency of mesenchymal stem cells derived from adult marrow
+2003|1006.0|6.0|Nature|The International HapMap Project
+2004|1413.0|6.0|Cheminform|Gold Nanoparticles: Assembly, Supramolecular Chemistry, QuantumSizeRelated Properties, and Applications Toward Biology, Catalysis, and Nanotechnology.
+2005|1559.0|6.0|Nature|MicroRNA expression profiles classify human cancers.
+2006|1988.0|6.0|Nature|Reciprocal developmental pathways for the generation of pathogenic effector TH17 and regulatory T cells
+2007|4087.0|6.0|Nature Materials|The rise of graphene
+2008|2243.0|7.0|Science|Measurement of the Elastic Properties and Intrinsic Strength of Monolayer Graphene
+2009|5660.0|7.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|2096.0|7.0|Nature|A human gut microbial gene catalogue established by metagenomic sequencing

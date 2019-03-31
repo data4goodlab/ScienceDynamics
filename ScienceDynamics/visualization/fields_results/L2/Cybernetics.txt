@@ -1,0 +1,68 @@
+----  Field Name Cybernetics: 
+----  Field Level 2.0: 
+----  Field Papers Number 31471:
+----  All time max citation paper: Mean shift: a robust approach toward feature space analysis, 2002, (3663.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1936|0|0.0|Transactions of The American Institute of Electrical Engineers|Tensor Analysis of Multielectrode-Tube Circuits
+1945|0|0.0||Pulse Response: A New Approach to A.C. Electric-Network Theory and Measurement
+1946|16.0|16.0|The Journal of Pediatrics|The retention of electrolyte during recovery fromsevere dehydration due to diarrhea
+1948|0|0.0||Network analysis by the chain-relaxation method
+1950|1.0|1.0|Journal of Clinical Investigation|THE PARATHYROID GLANDS AND PHOSPHORUS HOMEOSTASIS 12
+1952|4.0|0.0|Review of Educational Research|The School as a Social System
+1954|0|0.0||The solution of a certain differential equation. Its usefulness in a particular application of silicon-carbide resistors
+1956|1.0|1.0|Proceedings of The Iee Part C: Monographs|Electromagnetic momentum and electron inertia in a current circuit
+1957|1.0|1.0|Child Development|THE PARENT-CHILD RELATION AS A SOCIAL SYSTEM: I. PARENT AND CHILD ROLES1
+1958|2.0|1.0|Proceedings of The Iee Part C: Monographs|Tensor analysis of electrical machine hunting
+1959|2.0|2.0|JAMA Pediatrics|The Association of Various Factors and Hypernatremic Diarrheal Dehydration
+1960|1.0|0.5|Proceedings of The Iee Part B: Electronic and Communication Engineering|Fundamental and harmonic distortion of waves, frequency-modulated with a single tone
+1961|3.0|2.0|Proceedings of The Iee Part C: Monographs|The algebra and topology of electrical networks
+1962|2.0|0.0||AUGMENTING HUMAN INTELLECT: A CONCEPTUAL FRAMEWORK
+1963|2.0|0.5|Proceedings of The Institution of Electrical Engineers|Notes on the use of matrix theory in the analysis of linear feedback circuits
+1964|6.0|1.0|Annals of the New York Academy of Sciences|CONTROL IN BIOLOGICAL SYSTEMS  A PHYSICAL REVIEW *
+1965|5.0|1.0|Proceedings of The Institution of Electrical Engineers|Sensitivity in some simple RC active networks
+1966|9.0|1.0|Proceedings of the IEEE|AEDNET: A simulator for nonlinear networks
+1967|12.0|3.0|Communications of The ACM|A computer system for inference execution and data retrieval
+1968|14.0|1.0|Journal of Clinical Investigation|The mechanisms of sodium absorption in the human small intestine
+1969|18.0|1.0|Journal of Clinical Investigation|The role of aminogenic glucagon secretion in blood glucose homeostasis
+1970|13.0|1.0|JAMA Internal Medicine|A Possible Mechanism for Hypertension Induced by Oral Contraceptives: Diminished Feedback Suppression of Renin Release
+1971|17.0|2.0|Journal of Clinical Investigation|On the Mechanism of Inhibition in Fluid Reabsorption by the Renal Proximal Tubule of the Volume-Expanded Rat
+1972|20.0|1.0|Communications of The ACM|A study of storage partitioning using a mathematical model of locality
+1973|27.0|1.0|Journal of Clinical Investigation|The Effect of Chronic Sodium Loading and Sodium Restriction on Plasma Prostaglandin A, E and F Concentrations in Normal Humans
+1974|28.0|1.0|Journal of Clinical Investigation|Somatostatin-induced changes in insulin and glucagon secretion in normal and diabetic dogs.
+1975|14.0|2.0|IEEE Transactions on Circuits and Systems|The modified nodal approach to network analysis
+1976|62.0|2.0|Science|Cooperative Computation of Stereo Disparity
+1977|19.0|1.5|Physiology & Behavior|Set points, settling points, and the control of body weight.
+1978|32.0|1.0||On The Epistemological Status of Semantic Networks.
+1979|50.0|2.0|Behavioral and Brain Sciences|Homeostasis and drinking
+1980|17.0|0.0|Journal of Applied Physics|Microwave oscillators based on the resonant propagation of fluxons in long Josephson junctions
+1981|40.0|2.0|Journal of the ACM|The Area-Time Complexity of Binary Multiplication
+1982|31.0|1.0|The Lancet|Rice-powder electrolyte solution as oral therapy in diarrhoea due to Vibrio cholerae and Escherichia coli.
+1983|41.0|2.0|American Journal of Medical Genetics|Down syndromea disruption of homeostasis
+1984|36.0|2.0|Management Science|The Nature and Design of Post-Industrial Organizations
+1985|54.0|2.0||Regulation of cytoplasmic pH in bacteria.
+1986|27.0|2.0|Psychobiology|Isolating attentional systems: A cognitive-anatomical analysis
+1987|157.0|2.0||Some philosophical problems from the standpoint of artificial intelligence
+1988|89.0|2.0|Communications of The ACM|A field study of the software design process for large systems
+1989|29.0|2.0|Brain Topography|Dynamics of brain electrical activity
+1990|61.0|2.0|Pain|A novel behavioral model of neuropathic pain disorders produced in rats by partial sciatic nerve injury
+1991|75.0|2.0|Proceedings of the IEEE|Tutorial on higher-order statistics (spectra) in signal processing and system theory: theoretical results and some applications
+1992|96.0|2.0|Annals of Neurology|Functional reorganization of the brain in recovery from striatocapsular infarction in man
+1993|54.0|2.0|Development|Involvement of Leukemia Inhibitory Factor and Nerve Growth-Factor in the Development of Dorsal-Root Ganglion Neurons
+1994|69.0|3.0|IEEE Transactions on Software Engineering|Inconsistency handling in multiperspective specifications
+1995|90.0|3.0|Psychological Review|A Cognitive-Affective System Theory of Personality: Reconceptualizing Situations, Dispositions, Dynamics, and Invariance in Personality Structure.
+1996|143.0|2.0|ACM Transactions on Software Engineering and Methodology|The STATEMATE semantics of statecharts
+1997|238.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Hypolipidemic drugs, polyunsaturated fatty acids, and eicosanoids are ligands for peroxisome proliferator-activated receptors  and 
+1998|148.0|3.0|Genes & Development|Cellular and developmental control of O2 homeostasis by hypoxia-inducible factor 1
+1999|187.0|5.0|Neuroscience & Biobehavioral Reviews|The neuroanatomical and neurochemical basis of conditioned fear
+2000|188.0|4.0|Brain Research|The neurobiology of stress: from serendipity to clinical relevance
+2001|447.0|4.0|Cell|C. elegans EGL-9 and mammalian homologs define a family of dioxygenases that regulate HIF by prolyl hydroxylation.
+2002|724.0|5.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Mean shift: a robust approach toward feature space analysis
+2003|553.0|6.0|Annual Review of Plant Biology|SALT AND DROUGHT STRESS SIGNAL TRANSDUCTION IN PLANTS
+2004|295.0|6.0|Health Education & Behavior|Health Promotion by Social Cognitive Means
+2005|437.0|6.0|IEEE Transactions on Automatic Control|Stability of multiagent systems with time-dependent communication links
+2006|880.0|7.0|Molecular Systems Biology|Construction of Escherichia coli K12 inframe, singlegene knockout mutants: the Keio collection
+2007|412.0|6.0|Nature Protocols|Integration of biological networks and gene expression data using Cytoscape
+2008|392.0|4.0|Nature Genetics|Bmi1 is expressed in vivo in intestinal stem cells
+2009|908.0|6.0|PLOS ONE|The HIF-1 hypoxia-inducible factor modulates lifespan in C. elegans.
+2010|1343.0|8.0|PLOS ONE|NPY neuron-specific Y2 receptors regulate adipose tissue and trabecular bone but not cortical bone homeostasis in mice

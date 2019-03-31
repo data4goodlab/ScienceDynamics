@@ -1,0 +1,62 @@
+----  Field Name Cell biology: 
+----  Field Level 1.0: 
+----  Field Papers Number 45223:
+----  All time max citation paper: Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources., 2009, (6860.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1925|3.0|3.0|Development Genes and Evolution|Colloidal change and mitosis
+1928|3.0|3.0||Duration of light and the wings op the aphid macrosiphum solanifolii
+1940|0|0.0|Biological Reviews|FLUORESCENCE MICROSCOPY IN BIOLOGY
+1955|0|0.0|Antonie Van Leeuwenhoek International Journal of General and Molecular Microbiology|A roll-tube technic for the study by fluorescence-microscopy of the growth of mycobacteria
+1958|18.0|10.0|Cancer|A new and rapid method for diagnosis of vaginal and cervical cancer by fluorescence microscopy
+1960|7.0|2.5|Annals of the New York Academy of Sciences|POSSIBLE RELATIONSHIPS BETWEEN THE CYTOTOXIC EFFECTS OF ISOANTIBODY AND HOST CELL FUNCTION *
+1961|14.0|1.0|Journal of Investigative Dermatology|The Melanosome: A Distinctive Subcellular Particle of Mammalian Melanocytes and the Site of Melanogenesis1
+1962|6.0|2.0|Virology|Further studies on superinfection of polyoma-induced mouse tumors with polyoma virus in vitro
+1963|44.0|1.0|Annals of the New York Academy of Sciences|SUBCELLULAR LOCALIZATION OF MELANIN BIOSYNTHESIS
+1964|24.0|4.5|Neuropharmacology|Adrenergic innervation of the intestinal wall studied by fluorescence microscopy
+1965|14.0|2.0|Acta Physiologica Scandinavica|The Adrenergic Innervation of the Eye as Demonstrated by Fluorescence Microscopy
+1966|39.0|2.5|Journal of Cell Biology|PRACTICAL STEREOLOGICAL METHODS FOR MORPHOMETRIC CYTOLOGY
+1967|15.0|2.0|Hereditas|DOUBLEMINUTES  A CHROMOSOMAL ABERRATION IN ROUS SARCOMAS IN MICE
+1968|16.0|3.0|European Journal of Cancer|Control of mitosis in mouse and hamster melanomata by means of the melanocyte chalone.
+1969|25.0|3.0|Cancer Research|A comparison of cell proliferation parameters in solid and ascites ehrlich tumors.
+1970|19.0|3.0|Nature|Parthenogenetic mouse blastocysts.
+1971|26.0|4.5|Experimental Cell Research|Density gradient analysis of newly replicated DNA from synchronized mouse lymphoma cells
+1972|91.0|3.0|European Journal of Immunology|The dynamic state of the lymphocyte membrane. Factors affecting the distribution and turnover of surface immunoglobulins
+1973|27.0|2.0|Nature|Muscular Contraction and Cell Motility
+1974|71.0|3.0|Chromosoma|Differential Giemsa Staining of Sister Chromatids and the Study of Sister Chromatid Exchanges without Autoradiography
+1975|104.0|3.0|Nature|Mammalian plasma membranes
+1976|141.0|3.0|European Journal of Immunology|Derivation of specific antibodyproducing tissue culture and tumor lines by cell fusion
+1977|72.0|4.0|Cell|Microfilament bundles and cell shape are related to adhesiveness to substratum and are dissociable from growth control in cultured fibroblasts
+1978|97.0|3.0|Cell|Role of carbohydrates in protein secretion and turnover: Effects of tunicamycin on the major cell surface glycoprotein of chick embryo fibroblasts
+1979|50.0|3.0|Cell|Multiple new phenotypes induced in 10T1/2 and 3T3 cells treated with 5-azacytidine.
+1980|53.0|4.0|Nature|The mechanism of protein secretion across membranes
+1981|36.0|4.0|Cell|Nuclear transplantation in mus musculus: Developmental potential of nuclei from preimplantation embryos
+1982|69.0|4.0|Cell|Sex reversal in the mouse (Mus musculus) is caused by a recurrent nonreciprocal crossover involving the X and an aberrant Y chromosome
+1983|41.0|4.0|Nature|L1 mono- and polyclonal antibodies modify cell migration in early postnatal mouse cerebellum.
+1984|198.0|4.0|Cell|Cell-cycle control of c-myc but not c-ras expression is lost following chemical transformation
+1985|103.0|5.0|Cell Calcium|Measurement of cytosolic free Ca 2+ in individual small cells using fluorescence microscopy with dual excitation wavelengths
+1986|224.0|4.0|Nature|GTP-binding proteins mediate transmitter inhibition of voltage-dependent calcium channels
+1987|89.0|4.0|Biochemical Pharmacology|The cell biology of multiple drug resistance
+1988|156.0|5.0|Human Genetics|Delineation of individual human chromosomes in metaphase and interphase cells by in situ suppression hybridization using recombinant DNA libraries
+1989|224.0|4.0|Advances in Immunology|Antinuclear Antibodies: Diagnostic Markers for Autoimmune Diseases and Probes for Cell Biology
+1990|58.0|2.0|Journal of Cell Biology|Loss of BiP/GRP78 function blocks translocation of secretory proteins in yeast.
+1991|118.0|3.0|Journal of the American College of Cardiology|A paradigm for restenosis based on cell biology: clues for the development of new preventive therapies.
+1992|53.0|4.0|Neuron|Pertussis toxin and voltage dependence distinguish multiple pathways modulating calcium channels of rat sympathetic neurons
+1993|76.0|3.0|Vaccine|Adjuvants  a balance between toxicity and adjuvanticity
+1994|64.0|3.0|Structure|The crystal structure of pertussis toxin.
+1995|93.0|4.0|Immunity|Modulation of cytokine patterns of human autoreactive T cell clones by a single amino acid substitution of their peptide ligand
+1996|307.0|5.0|FEBS Journal|Connections with Connexins: the Molecular Basis of Direct Intercellular Signaling
+1997|182.0|7.0|Journal of Experimental Medicine|The chemokine SDF-1 is a chemoattractant for human CD34+ hematopoietic progenitor cells and provides a new mechanism to explain the mobilization of CD34+ progenitors to peripheral blood.
+1998|404.0|8.0|Microbiology and Molecular Biology Reviews|Type III Protein Secretion Systems in Bacterial Pathogens of Animals and Plants
+1999|318.0|13.0|Trends in Biochemical Sciences|PSORT: a program for detecting sorting signals in proteins and predicting their subcellular localization
+2000|474.0|13.0|Current Opinion in Neurobiology|Neurotrophin signal transduction in the nervous system
+2001|720.0|16.0|Nature|Biochemistry and molecular cell biology of diabetic complications
+2002|973.0|17.0|Nature|Rho GTPases in cell biology
+2003|1186.0|13.0|Annual Review of Biochemistry|THE GREEN FLUORESCENT PROTEIN
+2004|361.0|12.0|Trends in Cell Biology|A trip to the ER: coping with stress
+2005|608.0|13.0|Nature Biotechnology|Synthetic biomaterials as instructive extracellular microenvironments for morphogenesis in tissue engineering
+2006|1283.0|12.0|Nature|The plant immune system.
+2007|1029.0|14.0|Nature Protocols|Locating proteins in the cell using TargetP, SignalP and related tools.
+2008|2058.0|14.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|14.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|1420.0|14.0|Nature Protocols|I-TASSER: a unified platform for automated protein structure and function prediction

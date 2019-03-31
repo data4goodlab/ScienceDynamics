@@ -1,0 +1,62 @@
+----  Field Name Social relation: 
+----  Field Level 2.0: 
+----  Field Papers Number 48963:
+----  All time max citation paper: Collective dynamics of 'small-world' networks, 1998, (10030.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1939|6.0|6.0|American Journal of Sociology|The Development of Social Behavior
+1955|9.0|9.0|Behaviour|Hostile, Sexual, and Other Social Behaviour Patterns of the Spice Finch (Lonchura Punctulata) in Captivity
+1957|2.0|2.0|Child Development|An Evaluation of Sociometric - Social Behavior Research with Preschool Children
+1958|4.0|0.0|Journal of Zoology|AN ANALYSIS OF SOCIAL BEHAVIOUR IN WILD RATS
+1959|2.0|2.0|Social Problems|Social Isolation and Difficulties in Social Interaction of Residents of a Home for Aged
+1960|7.0|7.0|Behaviour|Studies On the Social Behaviour of Quelea Q. Quelea (Linn.) in French West Africa
+1961|1.0|1.0|Journal of Psychiatric Research|Modification of affect, social behavior and performance by sleep deprivation and drugs
+1962|1.0|1.0|Educational Technology Research and Development|What do the eyes contribute?
+1963|10.0|3.0|Behaviour|An Analysis of the Social Behaviour of the Male Laboratory Rat
+1964|5.0|3.0|American Anthropologist|Linguistic and Social Interaction in Two Communities
+1965|3.0|0.0|Journal of Insect Physiology|Chemical releasers of social behaviourV. Source, specificity, and properties of the odour trail pheromone of Tetramorium guineense (F.) (Formicidae: Myrmicinae)
+1966|5.0|1.0|Animal Behaviour|Approach/withdrawal variables in the development of social behaviour in the dog
+1967|15.0|7.5|Acta Psychologica|Some functions of gaze-direction in social interaction
+1968|28.0|4.0|Psychometrika|A general nonmetric technique for finding the smallest coordinate space for a configuration of points
+1969|7.0|1.0|Journal of Experimental Marine Biology and Ecology|The microdistribution and social behavior of some pelagic mysid shrimps
+1970|4.0|1.0|Social Psychiatry and Psychiatric Epidemiology|The value of work in psychiatric rehabilitation
+1971|27.0|1.0|Animal Behaviour|Effects of female urine upon the social behaviour of adult male mice
+1972|23.0|3.0|Cancer Research|Effects of Protease Inhibitors on Growth of Hamster Tumor Cells in Culture
+1973|53.0|3.0|Journal of Personality and Social Psychology|Social Psychology As History
+1974|59.0|1.0|Physiology & Behavior|Frontolimbic lesions and social behavior in the rat
+1975|21.0|2.0|Journal of Abnormal Psychology|Anxiety, Restraint, and Eating Behavior.
+1976|64.0|1.0|Human Ecology|The adaptive significance of cultural behavior
+1977|44.0|2.0|Animal Behaviour|The social behaviour of anuran amphibians
+1978|40.0|2.0|Child Development|Social Behavior at Thirty-Three Months in Same-Sex and Mixed-Sex Dyads.
+1979|42.0|3.0|Journal of Social Issues|Play and Social Interaction in Children Following Divorce.
+1980|64.0|2.0|Journal of Neuroscience Methods|The use of social interaction as a method for detecting anxiolytic activity of chlordiazepoxide-like drugs
+1981|44.0|3.0|Animal Behaviour|Song learning and social interaction in indigo buntings
+1982|39.0|3.0|The Lancet|RISK FACTORS FOR KAPOSI'S SARCOMA IN HOMOSEXUAL MEN
+1983|72.0|2.0|The New England Journal of Medicine|Immunodeficiency in female sexual partners of men with the acquired immunodeficiency syndrome.
+1984|84.0|2.0|Animal Behaviour|Social interaction, sensitive phases and the song template hypothesis in the white-crowned sparrow
+1985|196.0|2.0|Psychological Bulletin|Stress, social support, and the buffering hypothesis
+1986|59.0|2.0|Developmental Psychology|Ecology of the family as a context for human development: research perspectives
+1987|43.0|2.0|Journal of Personality and Social Psychology|Dominance and heterosexual attraction.
+1988|81.0|3.0|Journal of Autism and Developmental Disorders|Social and pragmatic deficits in autism: cognitive or affective?
+1989|54.0|2.0|Journal of Personality and Social Psychology|Conflict between the sexes: strategic interference and the evocation of anger and upset
+1990|86.0|2.0|Child Development|The Impact of Economic Hardship on Black Families and Children: Psychological Distress, Parenting, and Socioemotional Development
+1991|121.0|2.0|Trends in Neurosciences|The cognitive basis of a biological disorder: autism
+1992|70.0|2.0|conference on computer supported cooperative work|Learning from Notes: organizational issues in groupware implementation
+1993|72.0|2.0|The EMBO Journal|Caveolae and Sorting in the Trans-Golgi Network of Epithelial-Cells
+1994|132.0|2.0|Organization Science|A Dynamic Theory of Organizational Knowledge Creation
+1995|147.0|3.0|Cell|A novel family of genes encoding putative pheromone receptors in mammals
+1996|80.0|3.0|Psychological Bulletin|The Relationship Between Social Support and Physiological Processes: A Review With Emphasis on Underlying Mechanisms and Implications for Health
+1997|103.0|4.0|Nature|Evidence from Turner's syndrome of an imprinted X-linked locus affecting cognitive function
+1998|406.0|4.0|Nature|Collective dynamics of 'small-world' networks
+1999|324.0|4.0|Nature Neuroscience|Running increases cell proliferation and neurogenesis in the adult mousedentate gyrus
+2000|302.0|5.0|Artificial Intelligence|On agent-based software engineering
+2001|170.0|6.0|American Journal of Tropical Medicine and Hygiene|The ears of the hippopotamus: manifestations, determinants, and estimates of the malaria burden.
+2002|388.0|7.0|Academy of Management Review|Social Capital: Prospects for a New Concept
+2003|452.0|8.0|Annual Review of Sociology|Birds of a Feather: Homophily in Social Networks
+2004|431.0|7.0|Trends in Cognitive Sciences|Conflict monitoring and anterior cingulate cortex: an update
+2005|3454.0|8.0||Data Mining: Concepts and Techniques
+2006|3129.0|7.0|Siam Review|The Structure and Function of Complex Networks
+2007|1914.0|8.0|Behavior Research Methods|G*Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences
+2008|1399.0|7.0|Annals of the New York Academy of Sciences|The brains default network: Anatomy, function, and relevance to disease
+2009|903.0|7.0|PLOS ONE|Chimpanzees Help Each Other upon Request
+2010|1055.0|7.0|international world wide web conferences|What is Twitter, a social network or a news media?

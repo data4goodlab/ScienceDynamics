@@ -1,0 +1,55 @@
+----  Field Name Electronic engineering: 
+----  Field Level 1.0: 
+----  Field Papers Number 36132:
+----  All time max citation paper: Bootstrap Methods: Another Look at the Jackknife, 1979, (5087.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|3.0|3.0|American Heart Journal|Spatial patterns of ventricular repolarization in arterial hypertension
+1963|1.0|0.0|Journal of the ACM|On a Weight Distribution Problem, with Application to the Design of Stochastic Generators
+1964|15.0|4.0|Journal of the ACM|Derivatives of Regular Expressions
+1965|12.0|3.0|Radio and Electronic Engineer|Some aspects of Gunn effect oscillators
+1966|4.0|3.0|Electronics Letters|Diagram of Gunn-effect phenomena
+1967|5.0|1.0|Electronics Letters|Determination of current waveform and efficiency of Gunn diodes
+1968|12.0|2.0|Journal of Geophysical Research|Determination of earthquake fault parameters from longperiod P waves
+1969|11.0|0.5|Journal of Geophysical Research|Acceleration of trapped electrons and protons through bimodal diffusion in the Earth's radiation belts
+1970|14.0|2.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Comparative auditory neurophysiology of neotropical bats employing different echolocation signals
+1971|104.0|1.5|Journal of Theoretical Biology|Positional information and the spatial pattern of cellular differentiation
+1972|39.0|1.5|Biological Cybernetics|A theory of biological pattern formation.
+1973|14.0|2.0|Vision Research|Evoked potentials specific to spatial patterns of luminance and colour
+1974|11.0|3.0|IEEE Journal of Solid-state Circuits|Design of ion-implanted MOSFET's with very small physical dimensions
+1975|42.0|4.5|Journal of Applied Physics|Gaininduced guiding and astigmatic output beam of GaAs lasers
+1976|31.0|4.0|Journal of Geophysical Research|Solar wind stream evolution at large heliocentric distances: Experimental demonstration and the test of a model
+1977|12.0|2.0|design automation conference|A logic design structure for LSI testability
+1978|18.0|2.0||Temporal and spatial patterns of the synthesis of tissue-specific polypeptides in the preimplantation mouse embryo.
+1979|64.0|1.5|Annals of Statistics|Bootstrap Methods: Another Look at the Jackknife
+1980|22.0|3.0|design automation conference|Verification of Timing Constraints on Large Digital Systems
+1981|28.0|4.0|Annals of Statistics|Some Asymptotic Theory for the Bootstrap
+1982|75.0|3.0|Psychophysiology|Changes in Spatial Patterns of Rabbit Olfactory EEG with Conditioning to Odors
+1983|15.0|1.0|principles of distributed computing|An interval logic for higher-level temporal reasoning
+1984|70.0|4.0|IEEE Transactions on Computers|A Switch-Level Model and Simulator for MOS Digital Systems
+1985|31.0|3.0|Applied Physics Letters|3pJ, 82MHz optical logic gates in a roomtemperature GaAsAlGaAs multiplequantumwell talon
+1986|40.0|4.0|Cell|Transposable elements generate novel spatial patterns of gene expression in antirrhinum majus
+1987|51.0|4.0|Journal of Geophysical Research|Monsoon variability over the past 150,000 years
+1988|62.0|3.0|IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems|Multi-level logic minimization using implicit don't cares
+1989|91.0|2.0|Cell|Genetic control of cell division patterns in the Drosophila embryo
+1990|164.0|3.0|Proceedings of the IEEE|The high-level synthesis of digital systems
+1991|109.0|2.5||HITEC: a test generation package for sequential circuits
+1992|234.0|2.0|IEEE Journal of Solid-state Circuits|Low-power CMOS digital design
+1993|50.0|3.0|IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems|COMPACTEST: a method to generate compact test sets for combinational circuits
+1994|148.0|3.0|Cladistics|BRANCH SUPPORT AND TREE STABILITY
+1995|106.0|3.0|Molecular Brain Research|Mechanisms of delayed cell death following hypoxic-ischemic injury in the immature rat: evidence for apoptosis during selective neuronal loss
+1996|47.0|3.0|Cell|HOOKLESS1, an ethylene response gene, is required for differential cell elongation in the Arabidopsis hypocotyl.
+1997|94.0|3.0|Molecular Ecology|RST Calc: a collection of computer programs for calculating estimates of genetic differentiation from microsatellite data and determining their significance
+1998|75.0|3.0|Ecosystems|Quantifying Landscape Spatial Pattern: What Is the State of the Art?
+1999|642.0|4.0|Nature Genetics|High density synthetic oligonucleotide arrays
+2000|190.0|4.0|Nature|Global patterns in biodiversity
+2001|170.0|4.0|Nature Neuroscience|Subunit-specific temporal and spatial patterns of AMPA receptor exocytosis in hippocampal neurons
+2002|166.0|5.0|dependable systems and networks|Modeling the effect of technology trends on the soft error rate of combinational logic
+2003|321.0|6.0|international conference on computer communications|Ad hoc positioning system (APS) using AOA
+2004|374.0|6.0|Journal of Geophysical Research|Analysis of process controls in land surface hydrological cycle over the continental United States
+2005|801.0|6.0|International Journal of Climatology|Very high resolution interpolated climate surfaces for global land areas
+2006|488.0|6.0|Machine Learning|Markov logic networks
+2007|695.0|5.0|Nature|Coaxial silicon nanowires as solar cells and nanoelectronic power sources
+2008|918.0|3.0|Nature|Global trends in emerging infectious diseases
+2009|497.0|2.0||The use of partial least squares path modeling in international marketing
+2010|935.0|4.0|Journal of Statistical Software|grofit: Fitting Biological Growth Curves with R

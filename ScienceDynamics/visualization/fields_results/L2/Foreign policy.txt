@@ -1,0 +1,47 @@
+----  Field Name Foreign policy: 
+----  Field Level 2.0: 
+----  Field Papers Number 2096:
+----  All time max citation paper: A new foreign policy: MHC class I molecules monitor the outside world, 1996, (306.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1959|0|0.0|Journal of Conflict Resolution|The foreign-policy consensus: an interim research report
+1962|0|0.0|Journal of Conflict Resolution|Calculation and emotion in foreign policy: the Cuban case
+1966|0|0.0||The USSR and The National Liberation Movement
+1967|1.0|1.0|Journal of Conflict Resolution|Psychological constructs in foreign policy prediction
+1972|1.0|1.0|Public Choice|Consensus or conflict: Alternative strategies for the bureaucratic bargainer
+1974|8.0|1.0||The Soviet Naval Presence during the Iraq-Kuwaiti Border Dispute: March-April 1973
+1975|0|0.0|Studies in Comparative Communism|Foreign policy issues within conceptual frameworks
+1976|0|0.0|International Studies Quarterly|The Measurement of International Military Commitments for Crisis Early Warning
+1977|7.0|0.0|Studies in Comparative Communism|The Cuban Military in Africa and the Middle East: from Algeria to Angola,
+1978|5.0|0.0|Journal of Conflict Resolution|Systemic Polarization and the Occurrence and Duration of War
+1979|2.0|0.0|Journal of Personality and Social Psychology|Identifying victims of groupthink from public statements of decision makers
+1980|1.0|0.0|International Political Science Review|The Geographical "Mental Maps" of American Foreign Policy Makers
+1981|0|0.0|The Journal of Higher Education|On Reviewing International Studies.
+1982|2.0|0.5|International Studies Quarterly|Cooperation and Conflict in Foreign Policy Behavior: Reaction and Memory
+1983|7.0|2.0|Political Geography Quarterly|An excess of national exceptionalism: towards a new political geography of american foreign policy
+1984|1.0|0.0|African Studies Review|Global Economy and African Foreign Policy: The Algerian Model
+1985|1.0|0.5|Journal of Peace Research|Capabilities in Context: National Attributes and Foreign Policy in the Middle East
+1987|0|0.0|Cooperation and Conflict|The Paramount Importance of Cultural Sources: American Foreign Policy and Comparative Foreign Policy Research Reconsidered
+1988|12.0|1.0|Journal of Conflict Resolution|Foreign Policy and the Rational Public
+1989|1.0|0.0|Politikon|Some elite perceptions and South Africa's bilateral relations: a comparison of two surveys
+1990|10.0|0.5|International Studies Quarterly|Evolving Foreign Policy Norms: Reciprocity in the Superpower Triad
+1991|10.0|2.0|Journal of Conflict Resolution|The Influence of Domestic and International Politics on the President's Use of Force
+1992|32.0|1.5|Journal of Conflict Resolution|Domestic Discontent and the External Use of Force
+1993|11.0|1.0|Communication Research|News Coverage of the Gulf Crisis and Public Opinion: A Study of Agenda-Setting, Priming, and Framing
+1994|13.0|1.0|Annals of The Association of American Geographers|Present at the (Dis)integration: Deterritorialization and Reterritorialization in the New Wor(l)d Order
+1995|3.0|0.5|International Interactions|Political structure and foreign policy learning: Are democracies more likely to act on the lessons of history?
+1996|190.0|1.0|Immunology Today|A new foreign policy: MHC class I molecules monitor the outside world
+1997|14.0|1.0|Journal of Conflict Resolution|Domestic Political Vulnerability and International Disputes
+1998|13.0|1.0||Defining the American Public Opinion/Foreign Policy Nexus
+1999|22.0|1.0|International Studies Quarterly|Taub or Not Taub: Measuring the Similarity of Foreign Policy Positions
+2000|26.0|0.0|Tobacco Control|Globalisation of tobacco industry influence and new global responses
+2001|13.0|0.0|International Studies Review|How Decision Units Shape Foreign Policy: A Theoretical Framework
+2002|26.0|2.0|American Political Science Review|Sex, Lies, and War: How Soft News Brings Foreign Policy to the Inattentive Public
+2003|26.0|1.0||Bounding the Global War on Terrorism
+2004|19.0|1.0|American Journal of Political Science|Political Sophistication and Policy Reasoning: A Reconsideration
+2005|16.0|1.0|Journal of Democracy|The Case for Shared Sovereignty
+2006|56.0|1.0|Journal of Common Market Studies|New Wine in Old Wineskins: Promoting Political Reforms through the New European Neighbourhood Policy*
+2007|41.0|1.0|Journal of Conflict Resolution|Why Do Countries Commit to Human Rights Treaties?
+2008|38.0|2.0|Journal of Conflict Resolution|Bones of Contention Comparing Territorial, Maritime, and River Issues
+2009|65.0|2.0|Journal of European Public Policy|EU rules beyond EU borders: theorizing external governance in European politics
+2010|95.0|2.0|Political Communication|Cascading Activation: Contesting the White House's Frame After 9/11

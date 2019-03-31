@@ -1,0 +1,38 @@
+----  Field Name Parasitology: 
+----  Field Level 2.0: 
+----  Field Papers Number 11018:
+----  All time max citation paper: Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources., 2009, (6860.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|2.0|2.0|Advances in Parasitology|The relationship between circulating antibodies and immunity to helminthic infections.
+1971|3.0|3.0|Experimental Parasitology|Echinostoma lindoense: larval antigens from the snail intermediate host, Biomphalaria glabrata.
+1972|0|0.0|International Journal for Parasitology|The refractory responses of the White Swiss strain of Mus musculus to infection with Taenia taeniaeformis
+1973|2.0|2.0|Journal of Invertebrate Pathology|Histopathology of Aedes aegypti (Diptera: Culicidae) larvae parasitized by Reesimermis nielseni (Nematoda: Mermithidae)
+1975|2.0|2.0|International Journal for Parasitology|The host specificity of Moniliformis dubius (Acanthocephala), a parasite of cockroaches
+1978|3.0|3.0|Experimental Parasitology|Biomphalaria glabrata: Lysozyme activities in the hemolymph, digestive gland, and headfoot of the intermediate host of Schistosoma mansoni
+1983|3.0|3.0|Australian and New Zealand Journal of Surgery|HYDATID DISEASE: EPIDEMIOLOGY AND PATHOLOGY
+1986|5.0|4.0|Bulletin of The World Health Organization|Correlation of survival rates of Anopheles dirus A (diptera : culicidae with different infection densities of Plasmodium cynomolgi
+1987|3.0|3.0|Journal of Infection|Infection with human parvovirus (B19), aplasia of the bone marrow and a rash in hereditary spherocytosis
+1988|4.0|4.0|Journal of Parasitology|Diagnostic medical parasitology.
+1989|3.0|3.0|Journal of Infection|Intradermal hepatitis B vaccination for mentally retarded patients
+1990|3.0|3.0|Preventive Veterinary Medicine|Subclinical parasitism in calves: biochemical and serological evaluation of preventive treatment against gastroenteritis and husk.
+1991|1.0|1.0|Medical and Veterinary Entomology|The louse Trinoton anserinum (Amblycera: Phthiraptera), an intermediate host of Sarconema eurycerca (Filarioidea: Nematoda), a heartworm of swans
+1992|10.0|0.0|African Journal of Ecology|Trypanosomiasis and the conservation of black rhinoceros (Diceros bicornis) at the Ngulia Rhino Sanctuary, Tsavo West National Park, Kenya
+1993|8.0|5.0|Journal of Infection|Improved detection of antibodies to hepatitis C virus by the second-generation assay in patients with chronic non-A, non-B liver disease
+1994|6.0|4.5|Australian Veterinary Journal|Intake of trichostrongylid larvae by goats and sheep grazing together
+1995|17.0|8.0|Journal of Clinical Microbiology|Comparison of four different methods for detection of Cryptosporidium species.
+1996|16.0|5.0|World Bank Research Observer|The Impact of Health and Nutrition on Education
+1997|14.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Continuous in vitro propagation of the malaria parasite Plasmodium vivax
+1998|14.0|2.5|Trends in Microbiology|Endosymbioses: cyclical and permanent in evolution
+1999|70.0|10.0|Trends in Plant Science|Defense on multiple fronts: how do plants cope with diverse enemies?
+2000|62.0|12.0|Parasitology Today|Nomenclature and Genetic Groupings of Giardia Infecting Mammals
+2001|118.0|11.0|Trends in Ecology and Evolution|The problems with hybrids: setting conservation guidelines
+2002|132.0|14.0|Clinical Microbiology Reviews|Rapid Diagnostic Tests for Malaria Parasites
+2003|65.0|10.0|Malaria Journal|Sub-grouping of Plasmodium falciparum 3D7 var genes based on sequence analysis of coding and non-coding regions
+2004|76.0|10.5|Parasitology|Epidemiological and molecular evidence supports the zoonotic transmission of Giardia among humans and dogs living in the same community.
+2005|152.0|30.0|BMC Microbiology|A census of membrane-bound and intracellular signal transduction proteins in bacteria: Bacterial IQ, extroverts and introverts
+2006|335.0|23.0|Nature Protocols|In-gel digestion for mass spectrometric characterization of proteins and proteomes
+2007|1029.0|19.0|Nature Protocols|Locating proteins in the cell using TargetP, SignalP and related tools.
+2008|2058.0|39.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|16.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|1420.0|55.0|Nature Protocols|I-TASSER: a unified platform for automated protein structure and function prediction

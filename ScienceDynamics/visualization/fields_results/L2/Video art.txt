@@ -1,0 +1,32 @@
+----  Field Name Video art: 
+----  Field Level 2.0: 
+----  Field Papers Number 2791:
+----  All time max citation paper: Overview of the Scalable Video Coding Extension of the H.264/AVC Standard, 2007, (1056.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1983|6.0|1.0|Physiology & Behavior|A telerecording analysis of reaching disruptions in rats after stimulation or lesion
+1984|0|0.0||Real Time Pattern Recognition And Feature Analysis From Video Signals Applied To Eye Movement And Pupillary Reflex Monitoring
+1987|1.0|1.0|Journal of the Marine Biological Association of the United Kingdom|Comparisons of Herring Behaviour in the Light and Dark: Changes in Activity and Responses to Sound
+1988|41.0|8.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|VITS-a vision system for autonomous land vehicle navigation
+1989|0|0.0|international conference on computer communications|A characterization of telecommunication services in the 1990s
+1990|46.0|32.5|Applied Linguistics|The Role of Consciousness in Second Language Learning.
+1991|12.0|3.0|international conference on computer communications|Duration-limited statistical multiplexing of delay-sensitive traffic in packet networks
+1992|53.0|26.5|human factors in computing systems|Realizing a video environment: EuroPARC's RAVE system
+1993|31.0|5.0|acm multimedia|Image processing on compressed data for large video databases
+1994|81.0|3.0|IEEE Computer|MBone provides audio and video across the Internet
+1995|17.0|2.0|IEEE Personal Communications|System design choices in personal communications
+1996|58.0|4.5|IEEE\/ACM Transactions on Networking|The Tenet real-time protocol suite: design, implementation, and experiences
+1997|38.0|3.0|network and operating system support for digital audio and video|Toward a common infrastructure for multimedia-networking middleware
+1998|157.0|8.5|Proceedings of the IEEE|Multimedia data-embedding and watermarking technologies
+1999|185.0|5.0|Proceedings of the IEEE|Multimedia watermarking techniques
+2000|118.0|3.0|acm multimedia|Automatically extracting highlights for TV Baseball programs
+2001|79.0|4.0|IEEE Transactions on Image Processing|Rotation, scale, and translation resilient watermarking for images
+2002|41.0|6.0||Gait-based recognition of humans using continuous HMMs
+2003|96.0|4.0|American Political Science Review|The Strategic Logic of Suicide Terrorism
+2004|122.0|4.5|Journal of Biomedical Optics|Appearance of enhanced tissue features in narrow-band endoscopic imaging
+2005|142.0|3.0|Nature|Non-equilibration of hydrostatic pressure in blebbing cells
+2006|153.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Individual recognition using gait energy image
+2007|720.0|3.0|IEEE Transactions on Circuits and Systems for Video Technology|Overview of the Scalable Video Coding Extension of the H.264/AVC Standard
+2008|282.0|3.0|Australian Journal of Botany|'Breathing' of the terrestrial biosphere: lessons learned from a global network of carbon dioxide flux measurement systems
+2009|73.0|3.0|The Visual Computer|Optimising engagement for stroke rehabilitation using serious games
+2010|138.0|3.0|human factors in computing systems|Characterizing debate performance via aggregated twitter sentiment

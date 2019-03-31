@@ -1,0 +1,53 @@
+----  Field Name Molecular genetics: 
+----  Field Level 2.0: 
+----  Field Papers Number 23052:
+----  All time max citation paper: A New Statistical Method for Haplotype Reconstruction from Population Data, 2001, (4476.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1964|7.0|7.0|Virology|Studies on the tumorigenic properties of baby hamster kidney cell lines and a method of selection of high and low tumorigenic clones
+1965|5.0|5.0|Archives of Virology|Density gradient centrifugation studies of vesicular stomatitis virus
+1966|21.0|1.5|Comparative Biochemistry and Physiology|Molecular genetics of avian proteinsV. Egg, blood and tissue proteins of the ring-necked pheasant, Phasianus colchicus L.
+1967|12.0|7.0|Virology|Foot-and-mouth disease virus-induced ribonucleic acid polymerase in baby hamster kidney cells
+1968|3.0|1.5|Archives of Virology|The Nature of Toxins of Herpes Simplex Virus (. Syncytial Giant Ceil Producing Components in Tissue Culture 1
+1969|29.0|1.0|Virology|Nonproductive infection of baby hamster kidney cells (BHK21) with adenovirus type 12
+1970|3.0|2.0|Bellman Prize in Mathematical Biosciences|Comments on Smith's article "The genetic code, information density, and evolution".
+1971|1.0|0.5|Comparative Biochemistry and Physiology B|Molecular genetics of avian proteinsX. Egg white protein polymorphism of indigenous Indian chickens
+1972|17.0|3.5|Developmental Biology|External potassium and baby hamster kidney cells: Intracellular ions, ATP, growth, DNA synthesis and membrane potential
+1973|0|0.0|Archives of Virology|Haemadsorption-negative assay of rubella virus in baby hamster kidney cells
+1974|14.0|4.0|Virology|Reversion and induction of Rous sarcoma virus expression in virus-transformed baby hamster kidney cells
+1975|40.0|3.0|Journal of Cellular Physiology|The molecular genetics of mammalian glucuronidase
+1976|41.0|2.5|Experimental Cell Research|The serum dependence of baby hamster kidney cell attachment to a substratum
+1977|9.0|0.0|Journal of Medical Virology|A persistent infection of baby hamster kidney21 cells with mumps virus and the role of temperaturesensitive variants
+1978|18.0|1.0|Journal of Cell Biology|Analogous ultrastructure and surface properties during capping and phagocytosis in leukocytes
+1979|68.0|1.0|Cell|Recent developments in the molecular genetics of human hemoglobin
+1980|52.0|1.0|Molecular Genetics and Genomics|Vicia faba chloroplast DNA has only one set of ribosomal RNA genes as shown by partial denaturation mapping and R-loop analysis.
+1981|43.0|1.5|The Lancet|Antenatal diagnosis of sickle cell anaemia by direct analysis of the sickle mutation.
+1982|88.0|3.0|The Lancet|CYTOMEGALOVIRUS AND KAPOSI'S SARCOMA IN YOUNG HOMOSEXUAL MEN
+1983|15.0|1.0|Journal of Cell Biology|Adhesion of cells to polystyrene surfaces.
+1984|43.0|1.5|Nature|Somatic deletion and duplication of genes on chromosome 11 in Wilms' tumours
+1985|54.0|2.0|Nature|Decreased virulence of recombinant vaccinia virus expression vectors is associated with a thymidine kinase-negative phenotype.
+1986|103.0|1.0|Nature|Loss of genes on chromosome 22 in tumorigenesis of human acoustic neuroma
+1987|79.0|2.0|Arthritis & Rheumatism|The shared epitope hypothesis. an approach to understanding the molecular genetics of susceptibility to rheumatoid arthritis
+1988|63.0|4.0|Journal of General Virology|The N and C termini of the coat proteins of potyviruses are surface-located and the N terminus contains the major virus-specific epitopes.
+1989|152.0|5.0||Insecticidal crystal proteins of Bacillus thuringiensis.
+1990|183.0|6.0|The Plant Cell|Transformation of maize cells and regeneration of fertile transgenic plants.
+1991|108.0|5.0|Trends in Genetics|Development and applications of a molecular genetic linkage map of the mouse genome
+1992|118.0|3.0|Human Mutation|Molecular genetics of the LDL receptor gene in familial hypercholesterolemia
+1993|113.0|4.0|Nature Biotechnology|Field Performance of Elite Transgenic Maize Plants Expressing an Insecticidal Protein Derived from Bacillus thuringiensis
+1994|139.0|4.0|Cell|The product of the tobacco mosaic virus resistance gene N: Similarity to toll and the interleukin-1 receptor
+1995|227.0|5.0|Science|Molecular genetics of plant disease resistance
+1996|294.0|4.0|Science|Diversity and Pattern in the Developing Spinal Cord
+1997|192.0|6.0|Journal of Virology|Construction of adenovirus vectors through Cre-lox recombination.
+1998|252.0|7.0|Nature|Genetic basis and molecular mechanism for idiopathic ventricular fibrillation
+1999|212.0|9.0|Proceedings of the National Academy of Sciences of the United States of America|Suppression of gene silencing: A general strategy used by diverse DNA and RNA viruses of plants
+2000|424.0|10.0|Nature|DNA sequence of both chromosomes of the cholera pathogen Vibrio cholerae
+2001|1006.0|9.0|American Journal of Human Genetics|A New Statistical Method for Haplotype Reconstruction from Population Data
+2002|377.0|10.0|Genome Biology|Finishing a whole-genome shotgun: Release 3 of the Drosophila melanogaster euchromatic genome sequence
+2003|557.0|10.0|Annual Review of Plant Biology|PLANT CELLULAR AND MOLECULAR RESPONSES TO HIGH SALINITY
+2004|286.0|11.0|Cell|Principles of Tumor Suppression
+2005|331.0|10.0|Biological Psychiatry|Molecular Genetics of Attention-Deficit/Hyperactivity Disorder
+2006|737.0|9.0|Biomaterials|How useful is SBF in predicting in vivo bone bioactivity?
+2007|316.0|10.0|Acta Neuropathologica|Neuropathologic diagnostic and nosologic criteria for frontotemporal lobar degeneration: consensus of the Consortium for Frontotemporal Lobar Degeneration.
+2008|1220.0|11.0|Annual Review of Plant Biology|Mechanisms of Salinity Tolerance
+2009|581.0|12.0|Nature Genetics|Common variants at 30 loci contribute to polygenic dyslipidemia
+2010|1350.0|10.0|PLOS ONE|Proteomics comparison of cerebrospinal fluid of relapsing remitting and primary progressive multiple sclerosis.

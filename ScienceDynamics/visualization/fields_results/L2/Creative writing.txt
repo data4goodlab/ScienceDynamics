@@ -1,0 +1,41 @@
+----  Field Name Creative writing: 
+----  Field Level 2.0: 
+----  Field Papers Number 1429:
+----  All time max citation paper: The Rise of Competitive Authoritarianism, 2002, (405.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1974|0|0.0|Journal of Literacy Research|Creativeness: Its Meaning and Measurement
+1975|0|0.0|Research in The Teaching of English|Creative Expression in the English Curriculum: An Historical Perspective.
+1976|1.0|1.0|Research in The Teaching of English|The Effects of Reality Perception and Fantasy on Response to Literature: Two Case Studies.
+1978|1.0|1.0|Journal of Communication|The Labor Force in Fiction
+1979|0|0.0|Social Problems|Changes in Women's Status in Women's Magazine Fiction: Differences by Social Class.
+1981|0|0.0|The Journal of Higher Education|College and University Presidents in Fiction.
+1982|28.0|0.0|Journal of Pragmatics|Stories are to entertain : a structural-affect theory of stories
+1983|2.0|2.0|Journal of Personality and Social Psychology|Motivation and Creativity: Effects of Motivational Orientation on Creative Writers.
+1984|11.0|0.0|Information Processing and Management|The value of information and computer-aided information seeking: problem formulation and application to fiction retrieval
+1985|1.0|1.0|Research in The Teaching of English|The Relationship between the Originality of Essays and Variables in the Problem-Discovery Process: A Study of Creative and Noncreative Middle School Students.
+1986|3.0|1.0|English for Specific Purposes|Essay examination prompts and the teaching of academic writing
+1987|0|0.0|Applied Psycholinguistics|Development in Story Writing.
+1988|8.0|0.0|Research in The Teaching of English|Invented Versus Traditional Spelling in First Graders' Writings: Effects on Learning to Spell and Read.
+1989|5.0|1.0|Journal of Child Language|Rhyme and alliteration in poems elicited from young children
+1990|1.0|1.0|Journal of Counseling and Development|The Uses of Juvenile Fiction and Self-Help Books with Stepfamilies.
+1991|18.0|0.0|Journal of Economic Education|The Status and Prospects of the Economics Major.
+1992|8.0|0.0|Language and Cognitive Processes|Knowledge activation versus sentence mapping when representing fictional characters' emotional states
+1993|4.0|1.0|Cognition and Instruction|Collaboration Between Children Learning to Write: Can Novices Be Masters?
+1994|9.0|0.0|English for Specific Purposes|Hedging in academic writing and EAF textbooks
+1995|5.0|2.0|English for Specific Purposes|The effect of genre awareness on linguistic transfer
+1996|19.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Using generative models for handwritten digit recognition
+1997|64.0|2.0|Journal of Economic Perspectives|Distinguished Lecture on Economics in Government: What Central Bankers Could Learn from Academics--And Vice Versa
+1998|7.0|2.0|Journal of Second Language Writing|Transitions: The balancing act of bilingual academics
+1999|26.0|4.5|Journal of Second Language Writing|Individualism, academic writing, and ESL writers
+2000|38.0|2.0|Reading Research Quarterly|3.6 Minutes per Day: The Scarcity of Informational Texts in First Grade.
+2001|19.0|2.0||Card shark and thespis: exotic tools for hypertext narrative
+2002|79.0|4.0|Journal of Democracy|The Rise of Competitive Authoritarianism
+2003|20.0|3.0|Journal of Memory and Language|Learning facts from fiction
+2004|17.0|2.0|Computers and Composition|The impact of e-feedback on the revisions of L2 writers in an academic writing course
+2005|24.0|3.5|Suicide and Life Threatening Behavior|Suicide in the Media: A Quantitative Review of Studies Based on Nonfictional Stories
+2006|30.0|3.5|English for Specific Purposes|A corpus-based EAP course for NNS doctoral students: Moving from available specialized corpora to self-compiled corpora
+2007|75.0|2.0|Reading Research Quarterly|Exploring the Online Reading Comprehension Strategies Used by Sixth-Grade Skilled Readers to Search for and Locate Information on the Internet.
+2008|65.0|4.0|System|Using wikis to enhance and develop writing skills among secondary school students in Hong Kong
+2009|44.0|4.0|Learning, Media and Technology|Using Wikis to Promote Quality Learning in Teacher Training
+2010|73.0|4.0|Journal of Adolescent & Adult Literacy|Disciplinary Literacies Across Content Areas: Supporting Secondary Reading Through Functional Language Analysis

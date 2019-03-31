@@ -1,0 +1,41 @@
+----  Field Name Pathophysiology: 
+----  Field Level 2.0: 
+----  Field Papers Number 5914:
+----  All time max citation paper: Evaluation of IL-28B Polymorphisms and Serum IP-10 in Hepatitis C Infected Chimpanzees, 2012, (1946.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|9.0|6.5|Blood|Analytic Review: Disorders of Phagocyte Function
+1972|0|0.0|Vision Research|An analytical description of the line element in the zone-fluctuation model of colour vision. Part II. The derivation of the line element
+1974|10.0|10.0|International Journal for Parasitology|Pathophysiology of cestode infections: Effect of Hymenolepis diminuta on oxygen tensions, pH and gastrointestinal function
+1977|0|0.0|Experimental Parasitology|Protein metabolism: IV. Altered protein synthesis in hosts infected with Eimeria tenella or bacteria compared to synthesis in hosts infected with intestinal nematodes
+1980|5.0|5.0|Allergy|The Pharmacological Basis of Drug Treatment in Bronchial Asthma
+1981|0|0.0|Surgical Neurology|Traumatic occlusion in fibromuscular dysplasia of the carotid artery
+1982|5.0|3.5|Journal of Neurochemistry|Alterations of Nuclear Thyroid Hormone Receptors in Cerebral Cortex In Vivo
+1983|22.0|10.5|The Lancet|HAEMORRHAGIC SHOCK AND ENCEPHALOPATHY: A NEW SYNDROME WITH A HIGH MORTALITY IN YOUNG CHILDREN
+1984|17.0|10.5|Cancer Research|Quantitation of the Number of Cells within Tumor Colonies in Semisolid Medium and Their Growth as Oblate Spheroids
+1985|5.0|2.0|Acta Anaesthesiologica Scandinavica|Pathophysiology of ShockInduced Disturbances in Tissue Homeostasis
+1986|22.0|6.0||Pathophysiology of Campylobacter enteritis.
+1987|6.0|2.0|Journal of Invertebrate Pathology|Hymenolepis diminuta : Effect of infection upon the patency of the follicular epithelium in the intermediate host, Tenebrio molitor
+1988|29.0|7.0|Acta Neurologica Scandinavica|Mechanisms of brain damage in focal cerebral ischemia
+1989|21.0|2.5|American Journal of Obstetrics and Gynecology|Treatments of preterm premature rupture of the membranes: A meta-analysis
+1990|44.0|4.0|Epilepsia|Ketamine, phencyclidine, and Mk-801 protect against kainic acid-induced seizure-related brain damage
+1991|36.0|2.0|Blood|Beyond hemoglobin polymerization: the red blood cell membrane and sickle disease pathophysiology.
+1992|87.0|6.0|American Journal of Obstetrics and Gynecology|A review of premature birth and subclinical infection
+1993|101.0|4.5|FEBS Journal|Protein glycosylation : structural and functional aspects
+1994|30.0|4.0|Brain Research|Causes of calcium accumulation in rat cortical brain slices during hypoxia and ischemia: role of ion channels and membrane damage
+1995|98.0|3.0|The Lancet|Particulate air pollution and acute health effects
+1996|96.0|4.0|Archives of General Psychiatry|A Symptom Provocation Study of Posttraumatic Stress Disorder Using Positron Emission Tomography and Script-Driven Imagery
+1997|112.0|5.0|Biological Psychiatry|The anatomy of mood disordersreview of structural neuroimaging studies
+1998|309.0|4.0|Blood|Endothelial Cells in Physiology and in the Pathophysiology of Vascular Disorders
+1999|72.0|7.5|Journal of Hepatology|Non-alcoholic steatohepatitis and iron: increased prevalence of mutations of the HFE gene in non-alcoholic steatohepatitis.
+2000|116.0|8.0|Clinical Microbiology Reviews|Update on Meningococcal Disease with Emphasis on Pathogenesis and Clinical Management
+2001|272.0|7.0|Circulation|Genotype-Phenotype Correlation in the Long-QT Syndrome Gene-Specific Triggers for Life-Threatening Arrhythmias
+2002|302.0|7.0|Circulation|Prognostic Value of Coronary Vascular Endothelial Dysfunction
+2003|551.0|9.0|Annual Review of Immunology|Human Chemokines: An Update
+2004|166.0|9.0|Circulation|Randomized, Placebo-Controlled Trial of Dalteparin for the Prevention of Venous Thromboembolism in Acutely Ill Medical Patients
+2005|225.0|8.0|Clinical Microbiology Reviews|Melioidosis: epidemiology, pathophysiology, and management.
+2006|673.0|8.0|European Heart Journal|Expert consensus document on arterial stiffness: methodological issues and clinical applications
+2007|492.0|11.0|Physiological Reviews|Physiology and Pathophysiology of Purinergic Neurotransmission
+2008|209.0|7.5|PLOS ONE|The SIRT1 deacetylase suppresses intestinal tumorigenesis and colon cancer growth.
+2009|869.0|13.0|PLOS ONE|Noninvasive cardiac flow assessment using high speed magnetic resonance fluid motion tracking.
+2010|220.0|8.5|Archives of Dermatological Research|Skin photoprotection by natural polyphenols: anti-inflammatory, antioxidant and DNA repair mechanisms.

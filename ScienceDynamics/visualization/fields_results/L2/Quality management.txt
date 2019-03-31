@@ -1,0 +1,43 @@
+----  Field Name Quality management: 
+----  Field Level 2.0: 
+----  Field Papers Number 17850:
+----  All time max citation paper: A conceptual model of service quality and its implications for future research, 1984, (5380.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|3.0|3.0|Journal of the ACM|Is Automatic Classification a Reasonable Application of Statistical Analysis of Text?
+1970|4.0|4.0|American Journal of Potato Research|Anatomy and compositional variations within potatoes. III. Gross compositional gradients.
+1971|2.0|2.0|Journal of the American Oil Chemists' Society|Agricultural and genetic potentials of cruciferous oilseed crops
+1975|1.0|1.0|Fett-lipid|Oil Quality Improvement in SoybeansGlycine max (L.) Merr.
+1977|3.0|1.5|Social Indicators Research|The quality of municipal service: Concept, measure and results
+1979|17.0|8.0|ACM Computing Surveys|Models and Measurements for Quality Assessment of Software
+1980|18.0|1.0|Proceedings of the IEEE|The impact of abstraction concerns on modern programming languages
+1981|1.0|0.0|Nuclear Instruments and Methods|Crystalline quality improvement of SOS films by SI implantation and subsequent annealing
+1982|0|0.0|conference on decision and control|Multilevel planning and control: A non-iterative approach and its application to water quality management
+1983|2.0|1.0|Transportation Research Part A: General|A service quality model of air travel demand: An empirical study
+1984|21.0|10.5|Journal of Marketing|A conceptual model of service quality and its implications for future research
+1985|7.0|0.0|Applied Physics A|Photothermal effect contribution on film quality improvement in excimer-laser induced metal CVD
+1986|22.0|3.0|Operations Research|Optimal lot sizing, process quality improvement and setup cost reduction
+1987|4.0|1.0|Journal of Urban Economics|The cost of quality in existing housing: Estimates from an implicit markets model
+1988|52.0|1.0|IEEE Transactions on Software Engineering|Understanding and controlling software costs
+1989|49.0|3.0|JAMA|The Case for Using Industrial Quality Management Science in Health Care Organizations
+1990|27.0|2.0|IEEE Transactions on Software Engineering|QBD*: a graphical query language with recursion
+1991|42.0|1.0|Journal of Consumer Research|A Multistage Model of Customers' Assessments of Service Quality and Value
+1992|35.0|2.0|Technometrics|Taguchi's parameter design: a panel discussion
+1993|39.0|1.0|Journal of Retailing|Improving the measurement of service quality
+1994|70.0|1.0|Medical Care|Comparisons of the costs and quality of norms for the SF-36 health survey collected by mail versus telephone interview: results from a national survey
+1995|59.0|1.0|IEEE MultiMedia|Distributed multimedia and QOS: a survey
+1996|50.0|2.0|Decision Sciences|Development and Validation of TQM Implementation Constructs
+1997|55.0|2.0|JAMA|Statewide quality improvement initiatives and mortality after cardiac surgery.
+1998|78.0|2.0|BMJ|Clinical governance and the drive for quality improvement in the new NHS in England
+1999|61.0|2.0|Surgery|The incidence and nature of surgical adverse events in Colorado and Utah in 1992
+2000|245.0|3.0|JAMA|Impact of disseminating quality improvement programs for depression in managed primary care: a randomized controlled trial.
+2001|123.0|4.0|JAMA|Improving the quality of medical care: building bridges among professional pride, payer profit, and patient satisfaction.
+2002|124.0|4.0|IEEE Transactions on Parallel and Distributed Systems|Performance guarantees for Web server end-systems: a control-theoretical approach
+2003|414.0|5.0|Journal of Management Information Systems|The DeLone and McLean Model of Information Systems Success: A Ten-Year Update
+2004|113.0|5.0|Kidney International|Spectrum of acute renal failure in the intensive care unit: The PICARD experience
+2005|202.0|4.0||Handbook of Economic Growth
+2006|128.0|5.0|international conference on computer communications|AnySee: Peer-to-Peer Live Streaming
+2007|227.0|5.0|Forensic Science International|Validation of new methods
+2008|256.0|4.0|JAMA|The Science of Improvement
+2009|222.0|5.0|Medical Teacher|A best evidence systematic review of interprofessional education: BEME Guide no. 9
+2010|470.0|6.0|Methods in Ecology and Evolution|A protocol for data exploration to avoid common statistical problems

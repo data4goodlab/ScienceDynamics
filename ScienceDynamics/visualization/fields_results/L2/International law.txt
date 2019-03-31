@@ -1,0 +1,41 @@
+----  Field Name International law: 
+----  Field Level 2.0: 
+----  Field Papers Number 2319:
+----  All time max citation paper: Breaking the conflict trap : civil war and development policy, 2003, (418.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|0|0.0|Journal of Conflict Resolution|Some basic theoretical concepts about international law: a policy-oriented framework of inquiry
+1968|0|0.0|Journal of Peace Research|The Place of International Law in Peace Research
+1973|0|0.0|Science|Racial Aspects of Zero Population Growth.
+1977|0|0.0||International and marine pollution
+1979|12.0|12.0|Journal of Chemical Ecology|Chemical defense by termite soldiers
+1981|2.0|0.0|Papers in Regional Science|FISHERIES EXPLOITATION OFF CANADA'S WEST COAST: THE EFFECTS OF NATIONAL POLICY
+1982|0|0.0|Marine Policy|Resource allocation in Antarctica,: A review
+1983|1.0|1.0|Journal of Black Studies|Genocide Fears in a Rural Black Community: An Empirical Examination.
+1984|5.0|5.0||The UN convention on the law of the sea: an inefficient public good supplied by an inefficient organization
+1985|2.0|1.0|Forensic Science International|Psychical and physical symptoms after torture. A prospective controlled study
+1986|2.0|0.0|Arctic|Ocean Development and Management in the Arctic: Issues in American and Canadian Relations
+1987|2.0|1.0|Marine Policy|Piracy: Past, present and future
+1988|4.0|3.0|Journal of Hazardous Materials|Assessing ecosystem impacts from simulant and decontaminant use
+1989|7.0|2.0|JAMA|Disposing of the US Chemical Weapons Stockpile: An Approaching Reality
+1990|7.0|1.0|JAMA|Global health interdependence and the international physicians' movement.
+1991|2.0|0.0|international conference on artificial intelligence and law|A goal driven knowledge based system for a domain of private international law
+1992|6.0|0.5|Forensic Science International|Medical appraisal of allegations of torture and the involvement of doctors in torture
+1993|1.0|0.5|History of European Ideas|Self-determination in political philosophy and international law
+1994|2.0|0.0|Social Science & Medicine|Stress disorders of families of the disappeared: A controlled study in Honduras
+1995|20.0|2.0|Journal of Banking and Finance|The implementation of prompt corrective action: An assessment
+1996|9.0|2.0|Emerging Infectious Diseases|Globalization, international law, and emerging infectious diseases.
+1997|8.0|1.0|international conference on artificial intelligence and law|The exploration of legal text corpora with hierarchical neural networks: a guided tour in public international law
+1998|32.0|3.0|JAMA|Impact of Torture on Refugees Displaced Within the Developing World: Symptomatology Among Bhutanese Refugees in Nepal
+1999|11.0|2.0|Journal of International Economics|Are Weak Patent Rights a Barrier to U.S. Exports?
+2000|17.0|2.0|Bulletin of The World Health Organization|WHO Framework Convention on Tobacco Control : a global "good" for public health
+2001|23.0|2.0|Archives of General Psychiatry|Psychiatric Disorders Among Tortured Bhutanese Refugees in Nepal
+2002|57.0|2.0|Bulletin of The World Health Organization|A global response to a global problem: the epidemic of overnutrition
+2003|179.0|2.0||Breaking the conflict trap : civil war and development policy
+2004|27.0|3.0|European Journal of Radiology|Bronchiolitis obliterans following exposure to sulfur mustard: chest high resolution computed tomography
+2005|51.0|2.0|Ecological Economics|Intergenerational discounting: a new intuitive approach
+2006|46.0|2.0|Antimicrobial Agents and Chemotherapy|VP35 Knockdown Inhibits Ebola Virus Amplification and Protects against Lethal Infection in Mice
+2007|65.0|2.5|Judgment and Decision Making|"If I look at the mass I will never act": Psychic numbing and genocide
+2008|56.0|2.0|International Organization|Why Comply? The Domestic Constituency Mechanism
+2009|188.0|3.0|JAMA|Association of torture and other potentially traumatic events with mental health outcomes among populations exposed to mass conflict and displacement: a systematic review and meta-analysis.
+2010|162.0|2.0|British Journal of Sociology|Unpacking cosmopolitanism for the social sciences: a research agenda

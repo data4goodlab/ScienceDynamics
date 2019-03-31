@@ -1,0 +1,45 @@
+----  Field Name Accounting: 
+----  Field Level 1.0: 
+----  Field Papers Number 14029:
+----  All time max citation paper: Strategic factor markets: expectations, luck, and business strategy, 1986, (1902.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|2.0|1.0|Communications of The ACM|The allocation of computer resourcesis pricing the answer?
+1973|8.0|5.0|Journal of Human Resources|The Economics of Group Practice.
+1974|9.0|9.0|Journal of Financial Economics|International capital market equilibrium with investment barriers
+1975|16.0|8.0||Economic analysis of projects
+1976|10.0|5.0|Journal of Dairy Science|Relationship of Age at First Calving, Days Open, Days Dry, and Herdlife to a Profit function for Dairy Cattle1
+1977|3.0|1.0|IEEE Transactions on Reliability|System Availability and Optimum Spare Units
+1978|13.0|6.0|Accounting Organizations and Society|A contingency framework for management accounting systems research
+1979|2.0|1.0|Information Processing and Management|Design of a model-based online management information system for interlibrary loan networks
+1980|15.0|1.0|Accounting Organizations and Society|The contingency theory of management accounting: achievement and prognosis
+1981|26.0|3.0|Journal of Accounting and Economics|An income strategy approach to the positive theory of accounting standard setting/choice
+1982|6.0|2.0|Decision Sciences|REPORTING OF MANAGEMENT FORECASTS: AN EIGENVECTOR MODEL FOR ELICITATION AND REVIEW OF FORECASTS
+1983|12.0|1.0|Accounting Organizations and Society|Towards a descriptive theory of management accounting
+1984|22.0|2.5||The evolution of management accounting
+1985|46.0|3.0|Journal of Accounting and Economics|The effect of bonus schemes on accounting decisions
+1986|25.0|2.0|ACM Transactions on Computer Systems|Low cost management of replicated data in fault-tolerant distributed systems
+1987|9.0|1.0|Management Science|Cost Allocation and Opportunity Costs
+1988|6.0|0.0|Theoretical and Applied Genetics|Predictive and postdictive success of statistical analyses of yield trials
+1989|35.0|1.0|Journal of Accounting and Economics|An analysis of intertemporal and cross-sectional determinants of earnings response coefficients
+1990|24.0|2.0|international test conference|A design-for-test methodology for active analog filters
+1991|4.0|1.0|Journal of Economic Theory|On the competitive pressure created by the diffusion of innovations
+1992|24.0|1.0|Journal of Accounting and Economics|Information in prices about future earnings: Implications for earnings response coefficients
+1993|41.0|1.0|international conference on distributed computing systems|Proxy-based authorization and accounting for distributed systems
+1994|41.0|2.0|Water Resources Research|Using genetic algorithms to solve a multiple objective groundwater pollution containment problem
+1995|56.0|2.0|IEEE Journal on Selected Areas in Communications|Pricing congestible network resources
+1996|90.0|2.0|World Bank Economic Review|A New Data Set Measuring Income Inequality
+1997|74.0|2.0|World Bank Economic Review|Openness and wage inequality in developing countries : the Latin American challenge to east Asian conventional wisdom
+1998|29.0|3.0|World Bank Economic Review|A panel data analysis of the fungibility of foreign aid
+1999|110.0|4.0|Journal of International Economics|Rational contagion and the globalization of securities markets
+2000|102.0|3.0|computer vision and pattern recognition|Optimizing learning in image retrieval
+2001|67.0|3.0|World Bank Economic Review|Infrastructure, geographical disadvantage, transport costs, and trade
+2002|187.0|4.0|IEEE Transactions on Communications|Efficient power control via pricing in wireless data networks
+2003|131.0|5.0|Journal of Accounting and Economics|Incentives versus standards: properties of accounting income in four East Asian countries
+2004|112.0|5.0|Journal of International Economics|Information costs and home bias: an analysis of US holdings of foreign equities
+2005|220.0|5.0|The American Economic Review|The Variety and Quality of a Nation's Exports
+2006|183.0|4.0|European Journal of Information Systems|Doing interpretive research
+2007|140.0|4.0|Journal of Information Technology|IT alignment: what have we learned?
+2008|167.0|4.0|European Journal of Information Systems|Measuring information systems success: models, dimensions, measures, and interrelationships
+2009|305.0|3.0||Conditional cash transfers : reducing present and future poverty
+2010|397.0|4.0|Journal of Accounting and Economics|Understanding Earnings Quality: A Review of the Proxies, Their Determinants and Their Consequences

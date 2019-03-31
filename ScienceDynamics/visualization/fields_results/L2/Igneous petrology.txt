@@ -1,0 +1,64 @@
+----  Field Name Igneous petrology: 
+----  Field Level 2.0: 
+----  Field Papers Number 3163:
+----  All time max citation paper: Chemical differentiation of the Earth: the relationship between mantle, continental crust, and oceanic crust, 1988, (1591.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1944|6.0|6.0|Journal of the American Oil Chemists' Society|Purification of oleic acid, methyl oleate, and oleyl alcohol for use as chemical intermediates
+1945|3.0|3.0|Journal of Dairy Science|The Fatty-Acid Composition of Glyceride Fractions Separated from Milk Fat
+1946|7.0|6.5|Journal of the American Oil Chemists' Society|Fractionation of lard and tallow by systematic crystallization
+1951|15.0|15.0|Geochimica et Cosmochimica Acta|The distribution of trace elements during strong fractionation of basic magmaa further study of the Skaergaard intrusion, East Greenland
+1953|6.0|1.0|Geochimica et Cosmochimica Acta|Trace elements in a suite of Hawaiian lavas
+1954|2.0|1.0|Geochimica et Cosmochimica Acta|Trace element variation during fractional crystallization as calculated from the distribution law
+1955|3.0|3.0|Journal of the American Oil Chemists' Society|The Reaction of Beta-Propiolactone with Alpha-and Beta- Eleostearates and Plasticizer Properties of Derived Esters 1
+1958|3.0|3.0|Journal of the American Oil Chemists' Society|Cocoa butter-like fats from domestic oils
+1959|4.0|4.0|Geochimica et Cosmochimica Acta|The geochemistry of a differentiated teschenite sill near Gunnedah, New South Wales
+1960|1.0|1.0|Nature|Isotopic Composition of Potassium
+1963|10.0|9.0|Geochimica et Cosmochimica Acta|The chromium and nickel distribution in basaltic rocks and eclogites
+1964|12.0|0.0|Geochimica et Cosmochimica Acta|Lead isotope composition in volcanic rocks of Japan
+1965|0|0.0|Journal of the American Oil Chemists' Society|The chemical and physical properties of interesterified milk fat fractions
+1966|10.0|1.0|Geochimica et Cosmochimica Acta|The behaviour of some elements during fractional crystallization of magma
+1967|16.0|7.0|Geochimica et Cosmochimica Acta|The Bununu meteorite, and a discussion of the pyroxene-plagioclase achondrites.
+1968|105.0|15.0|Geochimica et Cosmochimica Acta|Trace element fractionation and the origin of tholeiitic and alkaline magma types
+1969|12.0|1.0|Geochimica et Cosmochimica Acta|The complementariness of orogenic andesite and alpine peridotite
+1970|70.0|14.5|Geochimica et Cosmochimica Acta|Phenocryst-matrix partition coefficients for K, Rb, Sr and Ba, with applications to anorthosite and basalt genesis
+1971|24.0|5.0|Contributions to Mineralogy and Petrology|Crystallization of abyssal tholeiites
+1972|7.0|1.0|Geochimica et Cosmochimica Acta|Compositional characteristics of olivines from Apollo 12 samples.
+1973|25.0|13.5|Journal of Geophysical Research|Temperatures and compositions of magmas ascending along midocean ridges
+1974|110.0|3.5|Journal of Geophysical Research|Atlantic ocean floor: Geochemistry and petrology of basalts from legs 2 and 3 of the DeepSea Drilling Project
+1975|99.0|3.5|Geochimica et Cosmochimica Acta|Geochemistry and origin of the early Precambrian crust of northeastern Minnesota
+1976|17.0|7.5|Contributions to Mineralogy and Petrology|Oxygen isotope studies of potassic volcanic rocks of the Roman Province, Central Italy
+1977|98.0|6.0|Earth and Planetary Science Letters|Petrogenesis of basalts from the FAMOUS area: Mid-Atlantic Ridge
+1978|75.0|7.0|Earth and Planetary Science Letters|Nickel partitioning between olivine and silicate melt
+1979|90.0|6.0|Contributions to Mineralogy and Petrology|Petrogenetic implications of Ti, Zr, Y, and Nb variations in volcanic rocks
+1980|26.0|3.0|Earth and Planetary Science Letters|Nd and Sr isotopic compositions and REE abundances of cretaceous MORB (Holes 417D and 418A, Legs 51, 52 and 53)
+1981|110.0|6.0|Earth and Planetary Science Letters|Trace element and isotopic effects of combined wallrock assimilation and fractional crystallization
+1982|39.0|8.0|Contributions to Mineralogy and Petrology|Origin of Calc-Alkaline Series Lavas at Medicine Lake Volcano by Fractionation, Assimilation and Mixing
+1983|27.0|6.0|Contributions to Mineralogy and Petrology|Fractionation of pyroxene-phyric MORB at low pressure: An experimental study
+1984|34.0|4.0|Journal of Geophysical Research|Petrology of Young Pacific Seamounts
+1985|36.0|8.0|Journal of Geophysical Research|Trace element and isotopic geochemistry of lavas from Haleakala Volcano, east Maui, Hawaii: Implications for the origin of Hawaiian basalts
+1986|33.0|5.0|Earth-Science Reviews|Convection and mixing in magma chambers
+1987|26.0|6.0|Contributions to Mineralogy and Petrology|Experimental petrology of normal MORB near the Kane Fracture Zone: 2225 N, mid-Atlantic ridge
+1988|107.0|4.0|Earth and Planetary Science Letters|Chemical differentiation of the Earth: the relationship between mantle, continental crust, and oceanic crust
+1989|44.0|5.0|Journal of Geophysical Research|Migration of fluid phases and genesis of basalt magmas in subduction zones
+1990|67.0|4.0|Journal of Geophysical Research|Melting in the oceanic upper mantle: An ion microprobe study of diopsides in abyssal peridotites
+1991|51.0|5.0|Journal of Geophysical Research|Basic magmatism associated with Late Cenozoic extension in the western United States: Compositional variations in space and time
+1992|60.0|3.5|Journal of Geophysical Research|Physical model of source region of subduction zone volcanics
+1993|46.0|4.0|Earth and Planetary Science Letters|238U/204Pb in MORB and open system evolution of the depleted mantle
+1994|21.0|3.5|Earth and Planetary Science Letters|Os isotopic variation in basalts from Haleakala Volcano, Maui, Hawaii: A record of magmatic processes in oceanic mantle and crust
+1995|64.0|5.0|Contributions to Mineralogy and Petrology|Chemical mass transfer in magmatic processes IV. A revised and internally consistent thermodynamic model for the interpolation and extrapolation of liquid-solid equilibria in magmatic systems at elevated temperatures and pressures
+1996|48.0|4.0|Geophysical Prospecting|Rapid leastsquares inversion of apparent resistivity pseudosections by a quasiNewton method1
+1997|54.0|4.0|Journal of Geophysical Research|Melting of mantle peridotite at pressures approaching the spinel to garnet transition: Application to midocean ridge basalt petrogenesis
+1998|34.0|4.0|Precambrian Research|Unraveling the record of successive high grade events in the Central Zone of the Limpopo Belt using Pb single phase dating of metamorphic minerals
+1999|35.0|5.0|Geochimica et Cosmochimica Acta|Volatiles (He, C, N, Ar) in mid-ocean ridge basalts: assesment of shallow-level fractionation and characterization of source composition
+2000|35.0|5.0|Precambrian Research|Late Archaean (25502520 Ma) juvenile magmatism in the Eastern Dharwar craton, southern India: constraints from geochronology, NdSr isotopes and whole rock geochemistry
+2001|64.0|5.0|Journal of Petrology|A Geochemical Classification for Granitic Rocks
+2002|62.0|7.0|Nature|Vapour undersaturation in primitive mid-ocean-ridge basalt and the volatile content of Earth's upper mantle
+2003|59.0|7.0|Contributions to Mineralogy and Petrology|Fractional crystallization and mantle-melting controls on calc-alkaline differentiation trends
+2004|48.0|8.0|Geochimica et Cosmochimica Acta|Formation of monazite via prograde metamorphic reactions among common silicates: implications for age determinations
+2005|86.0|8.0|Lithos|TTGs and adakites: are they both slab melts?
+2006|74.0|7.0|Precambrian Research|The Yanbian Terrane (Southern Sichuan Province, SW China): A Neoproterozoic arc assemblage in the western margin of the Yangtze Block
+2007|112.0|7.0|Nature|A crystallizing dense magma ocean at the base of the Earth|[rsquo]|s mantle
+2008|88.0|8.0|Basin Research|Late Cretaceous to Miocene sea-level estimates from the New Jersey and Delaware coastal plain coreholes: an error analysis
+2009|151.0|8.0|Lithos|High Sr/Y and La/Yb ratios: The meaning of the adakitic signature
+2010|115.0|8.0|Lithos|Petrogenesis and tectonic significance of the ~850 Ma Gangbian alkaline complex in South China: Evidence from in situ zircon U-Pb dating, Hf-O isotopes and whole-rock geochemistry

@@ -1,0 +1,69 @@
+----  Field Name Condensed matter physics: 
+----  Field Level 1.0: 
+----  Field Papers Number 66631:
+----  All time max citation paper: The rise of graphene, 2007, (9404.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1935|0|0.0|Transactions of The American Institute of Electrical Engineers|Present Status of Ferromagnetic Theory
+1946|7.0|7.0|Journal of Dairy Science|Vitamin C, Hydrogen Peroxide, Copper and the Tallowy Flavor in Milk
+1949|3.0|3.0|Journal of Applied Physics|The Compatibility, Efficiency and Permanence of Plasticizers
+1950|20.0|20.0|Journal of Chemical Physics|LennardJones and Devonshire Equation of State of Compressed Gases and Liquids
+1951|5.0|5.0|Journal of Chemical Physics|Contribution to the Theory of Critical Phenomena
+1952|3.0|3.0|Journal of Chemical Physics|Kinetics of Solidification of Supercooled Liquid Mercury Droplets
+1953|1.0|1.0|Journal of Chemical Physics|The Total Energy of Substances at the Critical Point
+1954|0|0.0|Journal of Chemical Physics|Addendum: Critical Temperature and Pressure of Normal Paraffins
+1956|0|0.0|Journal of Chemical Physics|Some Physical Properties of Pure Liquid Ozone and OzoneOxygen Mixtures
+1957|2.0|0.0|Journal of Chemical Physics|Theory of Dilute Polymer Solutions
+1958|1.0|0.5|Analytica Chimica Acta|DETERMINATION OF URANIUM, ZIRCONIUM, MAGNESIUM AND IRON IN BISMUTH ALLOYS
+1959|4.0|1.0|Journal of Chemical Physics|NUCLEAR QUADRUPOLE RESONANCES USING IMPURITY MOLECULES AS PROBES
+1960|17.0|0.5|Journal of Chemical Physics|On the Theory of the Critical Point of a Simple Fluid
+1961|17.0|2.5|Journal of Applied Physics|DISLOCATION CONTRIBUTIONS TO THE MODULUS AND DAMPING IN COPPER AT MEGACYCLE FREQUENCIES
+1962|9.0|2.0|Journal of Applied Physics|Pyrolytic Graphites: Their Description as Semimetallic Molecular Solids
+1963|23.0|2.0|Journal of Chemical Physics|Pad Approximant Studies of the Lattice Gas and Ising Ferromagnet below the Critical Point
+1964|26.0|2.0|Journal of Mathematical Physics|Correlation Functions and the Critical Region of Simple Fluids
+1965|13.0|2.0|Journal of Chemical Physics|Measurements of the Viscosity of Parahydrogen
+1966|3.0|0.0|International Journal of Heat and Mass Transfer|Forced convection heat transfer to carbon dioxide near the critical point
+1967|32.0|1.0|Journal of Molecular Biology|Studies of the temperature-dependent conformation and phase separation of polyriboadenylic acid solutions at neutral pH
+1968|9.0|0.0|Carbon|The influence of crystal perfection on defect nucleation in graphite irradiated at high temperatures
+1969|21.0|0.5|Journal of Geophysical Research|Whistlermode emissions on the OGO 1 satellite
+1970|19.0|0.0|Archives of Biochemistry and Biophysics|Calcium phosphate formation in vitro : I. Factors affecting initial phase separation
+1971|11.0|1.0|Carbon|RELATIONS BETWEEN THE STRUCTURE AND THE MECHANICAL PROPERTIES OF FLUIDIZED- BED PYROLYTIC CARBONS.
+1972|21.0|1.0|Journal of Geophysical Research|Solarwind structure determined by corotating coronal inhomogeneities: 2. Arbitrary perturbations
+1973|41.0|1.0|Biochemical and Biophysical Research Communications|Lateral phase separations in binary mixtures of cholesterol and phospholipids
+1974|18.0|1.0|Chemistry and Physics of Lipids|Differential scanning calorimetry on mixtures of lecithin, lysolecithin and cholesterol
+1975|36.0|2.0|Journal of Chemical Physics|Reactions of modulated molecular beams with pyrolytic graphite. III. Hydrogen
+1976|41.0|2.0|Contributions to Mineralogy and Petrology|Two-liquid partition coefficients: Experimental data and geochemical implications
+1977|36.0|2.0|Geochimica et Cosmochimica Acta|Thermochemistry of high pressure garnets and clinopyroxenes in the system CaO-MgO-Al 2 O 3 -SiO 2
+1978|27.0|2.0|Journal of Applied Physics|Tindoping effects in GaAs films grown by molecular beam epitaxy
+1979|26.0|2.0|Communications in Mathematical Physics|Sensitive dependence to initial conditions for one-dimensional maps
+1980|33.0|3.0|Journal of Applied Physics|Shallow junctions by highdose As implants in Si: experiments and modeling
+1981|25.0|1.0|Contributions to Mineralogy and Petrology|On the crystallinity, probability of occurrence, and rheology of lava and magma
+1982|19.0|1.0|Social Science & Medicine|Social factors in the etiology of chronic disease: An overview
+1983|51.0|2.0|Thin Solid Films|Growth of IIIV semiconductors by molecular beam epitaxy and their properties
+1984|67.0|3.0|Applied Physics Letters|Chemical beam epitaxy of InP and GaAs
+1985|59.0|4.0|Journal of Applied Physics|Growth and properties of GaAs/AlGaAs on nonpolar substrates using molecular beam epitaxy
+1986|75.0|4.0|Journal of Applied Physics|Material properties of highquality GaAs epitaxial layers grown on Si substrates
+1987|81.0|4.0|Applied Physics Letters|Variation of the critical layer thickness with In content in strained InxGa1xAsGaAs quantum wells grown by molecular beam epitaxy
+1988|100.0|4.0|Communications in Mathematical Physics|$C=1$ conformal field theories on Riemann surfaces
+1989|110.0|4.0|Applied Physics Letters|Structural properties of As-rich GaAs grown by molecular beam epitaxy at low temperatures
+1990|191.0|3.0|Applied Physics Letters|ptype ZnSe by nitrogen atom beam doping during molecular beam epitaxial growth
+1991|96.0|3.0|Applied Physics Letters|Heavily doped pZnSe:N grown by molecular beam epitaxy
+1992|89.0|3.0|Applied Physics Letters|Growth and strain compensation effects in the ternary Si1xyGexCy alloy system
+1993|96.0|3.0|Journal of Applied Physics|Heteroepitaxial wurtzite and zincblende structure GaN grown by reactiveion molecularbeam epitaxy: Growth kinetics, microstructure, and properties
+1994|259.0|3.0|Applied Physics Letters|Selforganized growth of regular nanometerscale InAs dots on GaAs
+1995|94.0|2.0|international symposium on computer architecture|Simultaneous multithreading: maximizing on-chip parallelism
+1996|142.0|2.0||Tasi lectures on D-branes
+1997|180.0|2.0|Applied Physics Letters|Optically pumped lasing of ZnO at room temperature
+1998|169.0|2.0|Applied Physics Letters|Room-temperature ultraviolet laser emission from self-assembled ZnO microcrystallite thin films
+1999|193.0|2.0|Nature|Electrical spin injection in a ferromagnetic semiconductor heterostructure
+2000|541.0|3.0|Acta Materialia|Stabilization of metallic supercooled liquid and bulk amorphous alloys
+2001|212.0|2.0|Applied Physics Letters|Room temperature ferromagnetic properties of (Ga, Mn)N
+2002|347.0|3.0|Applied Physics Letters|Unusual properties of the fundamental band gap of InN
+2003|278.0|4.0|Journal of Applied Physics|Wide band gap ferromagnetic semiconductors and oxides
+2004|193.0|3.0|European Physical Journal B|Detecting community structure in networks
+2005|266.0|3.0|Geophysical Research Letters|Seismic precursory patterns before a cliff collapse and critical point phenomena
+2006|357.0|3.0|Nature Nanotechnology|Sorting carbon nanotubes by electronic structure using density differentiation.
+2007|4087.0|4.0|Nature Materials|The rise of graphene
+2008|1906.0|4.0|Nature Nanotechnology|Processable aqueous dispersions of graphene nanosheets
+2009|1995.0|4.0|Nature Nanotechnology|Chemical methods for the production of graphenes
+2010|543.0|5.0|Nanoscale Research Letters|The Investigation of Intermediate Stage of Template Etching with Metal Droplets by Wetting Angle Analysis on (001) GaAs Surface

@@ -1,0 +1,48 @@
+----  Field Name Membrane biophysics: 
+----  Field Level 2.0: 
+----  Field Papers Number 1135:
+----  All time max citation paper: Migration of plutonium in ground water at the Nevada Test Site, 1999, (416.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|4.0|4.0|Journal of Theoretical Biology|Facilitated transport of oxygen through solutions of hemoglobin
+1966|5.0|5.0|American Heart Journal|An effect of quinidine sulfate on the lipid-facilitated transport of calcium ions in cardiac muscle
+1970|10.0|8.0|Respiration Physiology|Facilitated diffusion of oxygen in the presence of hemoglobin
+1971|4.0|4.0|Chemical Engineering Science|The facilitated transport of carbon dioxide through bicarbonate solutions
+1972|20.0|4.5|Brain Research|Facilitated transport of amino acids through the blood-brain barrier of the dog studied in a single capillary circulation
+1973|1.0|1.0|Irish Journal of Medical Science|Action of histone on neoplastic and normal growth
+1974|3.0|3.0|Respiration Physiology|Evidence of carbonic anhydrase activity in skeletal muscle: A role for facilitative carbon dioxide transport
+1975|0|0.0|The Journal of Membrane Biology|Reversible permeability changes in the membrane of a yeast cell sugar compartment
+1976|2.0|1.0|Biochimica et Biophysica Acta|Facilitated transport of di- and trinitrophenolate ions across lipid membranes by valinomycin and nonactin
+1977|0|0.0|Journal of Supramolecular Structure|On the rate limiting step in downhill transport via the LacY permease of Escherichia coli
+1978|4.0|3.0|Journal of Theoretical Biology|Chemical reactions and membranes: A macroscopic basis for facilitated transport, chemiosmosis and active Transport part I: Linear analysis
+1980|20.0|7.0|Acta Physiologica Scandinavica|Rapid steadystate analysis of bloodbrain glucose transfer in rat
+1981|7.0|2.0|Experimental Eye Research|Characterization of glucose transport by cultured chick pigmented epithelium
+1982|11.0|2.0|FEBS Letters|Cubic liquid crystalline phase with phosphatidyl-ethanolamine from Bacillus megaterium containing branched acyl chains
+1983|8.0|3.0|Journal of Membrane Science|Transient response of facilitated transport membranes
+1984|7.0|3.0|Journal of Membrane Science|Facilitated transport from ternary cation mixtures through waterchloroformwater membrane systems containing macrocyclic ligands
+1985|10.0|1.5|Journal of Neurochemistry|Facilitated Transport of Glucose from Blood into Peripheral Nerve
+1986|29.0|4.0|Chemistry and Physics of Lipids|Lipid polymorphism and the roles of lipids in membranes.
+1987|14.0|1.0|Cancer Research|Facilitated Transport of Melphalan at the Rat Blood-Brain Barrier by the Large Neutral Amino Acid Carrier System
+1988|7.0|0.5|Gas Separation & Purification|Relationship of system properties to performance in facilitated transport systems
+1989|11.0|2.5|Journal of Membrane Science|Competitive facilitated transport of acid gases in perfluorosulfonic acid membranes
+1990|28.0|3.0|The Plant Cell|An intrinsic tonoplast protein of protein storage vacuoles in seeds is structurally related to a bacterial solute transporter (GlpF).
+1991|14.0|4.0|Chemistry and Physics of Lipids|General features of phospholipid phase transitions
+1992|20.0|4.5|Journal of Membrane Science|Supported liquid membranes: instability effects
+1993|15.0|6.0|Journal of Contaminant Hydrology|Colloid-facilitated transport of radionuclides through fractured media
+1994|20.0|6.0|Journal of Membrane Science|Facilitated Transport of Olefins in Ag+-Containing Polymer Membranes
+1995|35.0|3.0|Journal of Virology|The Epstein-Barr virus (EBV) BZLF2 gene product associates with the gH and gL homologs of EBV and carries an epitope critical to infection of B cells but not of epithelial cells.
+1996|20.0|5.0|Colloids and Surfaces A: Physicochemical and Engineering Aspects|Colloid mobilization and transport in groundwater
+1997|80.0|3.0|FEBS Journal|Recognition and Cleavage of DNA by TypeII Restriction Endonucleases
+1998|52.0|2.0|FEBS Letters|Interactions between synthetic vanilloids and the endogenous cannabinoid system
+1999|88.0|4.0|Nature|Migration of plutonium in ground water at the Nevada Test Site
+2000|88.0|5.0|FEBS Letters|Overlap between the ligand recognition properties of the anandamide transporter and the VR1 vanilloid receptor: inhibitors of anandamide uptake with negligible capsaicin-like activity.
+2001|57.0|4.0|Biochimica et Biophysica Acta|Cellular cholesterol efflux
+2002|59.0|5.5|Proceedings of the National Academy of Sciences of the United States of America|Population genomics of drug resistance in Candida albicans
+2003|131.0|7.0|Annual Review of Biochemistry|MOLECULAR BASIS FOR MEMBRANE PHOSPHOLIPID DIVERSITY:Why Are There So Many Lipids?
+2004|140.0|8.0|Annual Review of Nutrition|MAMMALIAN ZINC TRANSPORTERS
+2005|96.0|7.0|Cell|Facilitated Transport of a Dpp/Scw Heterodimer by Sog/Tsg Leads to Robust Patterning of the Drosophila Blastoderm Embryo
+2006|85.0|7.0|European Journal of Pharmaceutical Sciences|Regional levels of drug transporters along the human intestinal tract: co-expression of ABC and SLC transporters and comparison with Caco-2 cells.
+2007|98.0|7.5|Philosophical Transactions of the Royal Society B|Marine pelagic ecosystems: the West Antarctic Peninsula
+2008|78.0|11.5|Journal of Membrane Science|CO 2 separation facilitated by task-specific ionic liquids using a supported liquid membrane
+2009|124.0|12.0|Desalination|Application of membrane separation processes in petrochemical industry: a review
+2010|313.0|11.0|Journal of Membrane Science|Power plant post-combustion carbon dioxide capture: An opportunity for membranes

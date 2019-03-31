@@ -1,0 +1,57 @@
+----  Field Name Pattern recognition: 
+----  Field Level 1.0: 
+----  Field Papers Number 32590:
+----  All time max citation paper: Support-Vector Networks, 1995, (7931.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|7.0|3.5|Communications of The ACM|Proving theorems by pattern recognition I
+1961|3.0|2.0||A pattern recognition program that generates, evaluates, and adjusts its own operators
+1962|10.0|4.0|Biological Cybernetics|Zur Theorie der lateralen Inhibition
+1963|8.0|6.5|Journal of the ACM|A Heuristic Program that Solves Symbolic Integration Problems in Freshman Calculus
+1964|2.0|0.5||Systematic design of cryogenic logic circuits
+1965|1.0|1.0|IEEE Spectrum|Machine recognition of human language Part I - Automatic speech recognition
+1966|9.0|3.0|Annals of the New York Academy of Sciences|HUMAN CHROMOSOME ANALYSIS BY COMPUTERAN OPTICAL PATTERN RECOGNITION PROBLEM*
+1967|8.0|4.0|Journal of Psychiatric Research|Individual thinking and family interactionII. A study of pattern recognition and hypothesis testing in families of normals, character disorders and schizophrenics
+1968|38.0|3.0|Proceedings of the IEEE|State of the art in pattern recognition
+1969|53.0|1.0|ACM Computing Surveys|Picture Processing by Computer
+1970|22.0|3.0|Icarus|Lunar Maria and circular basins-a review
+1971|14.0|2.0|Journal of Experimental Child Psychology|Recognition Memory For Pictures in Preschool Children.
+1972|26.0|2.5|Neuropsychologia|Right-hemisphere superiority in tactile pattern-recognition after cerebral commissurotomy: Evidence for nonverbal memory
+1973|19.0|4.0|IEEE Transactions on Computers|Waveform Segmentation Through Functional Approximation
+1974|15.0|2.0|Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing|Experiments on Picture Representation Using Regular Decomposition.
+1975|10.0|2.0|Cognitive Psychology|Spatial and ordinal components of form perception and literacy
+1976|29.0|2.0|Pattern Recognition|Approaches to chinese character recognition
+1977|47.0|3.0|Journal of Geophysical Research|Classification and time of formation of Martian channels based on Viking data
+1978|35.0|3.0|Psychological Bulletin|Eye movements in reading and information processing.
+1979|28.0|2.0|Proceedings of the IEEE|Knowledge engineering for medical decision making: A review of computer-based clinical decision aids
+1980|46.0|3.5|Vision Research|Computational anatomy and functional architecture of striate cortex: A spatial mapping approach to perceptual coding
+1981|65.0|3.0|Philosophical Transactions of the Royal Society B|A Computer Implementation of a Theory of Human Stereo Vision
+1982|47.0|2.5|ACM Computing Surveys|Computational Approaches to Image Understanding
+1983|83.0|2.5|Biopolymers|Dictionary of protein secondary structure: Pattern recognition of hydrogenbonded and geometrical features
+1984|111.0|2.0|ACM Computing Surveys|The Quadtree and Related Hierarchical Data Structures
+1985|70.0|2.0|Biological Cybernetics|A Model of the Neural Mechanisms Responsible for Pattern Recognition and Stimulus Specific Habituation in Toads
+1986|81.0|3.0||On the statistical analysis of dirty pictures
+1987|144.0|3.0|Psychological Review|Recognition-by-components: a theory of human image understanding.
+1988|125.0|3.0|IEEE Computer|Self-organization in a perceptual network
+1989|305.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A theory for multiresolution signal decomposition: the wavelet representation
+1990|114.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Scale-space and edge detection using anisotropic diffusion
+1991|116.0|3.0|Proteins|A workbench for multiple alignment construction and analysis
+1992|137.0|3.0|IEEE Transactions on Neural Networks|Fuzzy ARTMAP: A neural network architecture for incremental supervised learning of analog multidimensional maps
+1993|82.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Comparing images using the Hausdorff distance
+1994|93.0|2.0|Immunity|CD14 Is a pattern recognition receptor
+1995|153.0|2.0|IEEE Computer|Chabot: retrieval from a relational database of images
+1996|168.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Texture features for browsing and retrieval of image data
+1997|232.0|3.0|Current Opinion in Immunology|Innate immunity: impact on the adaptive immune response
+1998|325.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|On combining classifiers
+1999|349.0|4.0|Nature Structural & Molecular Biology|Automated protein model building combined with iterative structure refinement
+2000|560.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Content-based image retrieval at the end of the early years
+2001|968.0|4.0|Nature Immunology|Toll-like receptors: critical proteins linking innate and acquired immunity
+2002|724.0|5.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Mean shift: a robust approach toward feature space analysis
+2003|1622.0|5.0|Annual Review of Immunology|INNATE IMMUNE RECOGNITION
+2004|414.0|5.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Two-dimensional PCA: a new approach to appearance-based face representation and recognition
+2005|348.0|4.0|Nature|Recognition of bacterial glycosphingolipids by natural killer T cells
+2006|523.0|4.0|european conference on computer vision|SURF : Speeded up robust features
+2007|682.0|4.0|Nature Reviews Neuroscience|Microglia-mediated neurotoxicity: uncovering the molecular mechanisms
+2008|935.0|2.0|ACM Computing Surveys|Image retrieval: Ideas, influences, and trends of the new age
+2009|1460.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Robust Face Recognition via Sparse Representation
+2010|2080.0|4.0|Nature Immunology|The role of pattern-recognition receptors in innate immunity: update on Toll-like receptors

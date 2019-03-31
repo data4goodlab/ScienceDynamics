@@ -1,0 +1,55 @@
+----  Field Name Statistical classification
+----  Field Level 2.0
+----  Field Papers Number 80629
+----  All time max citation paper Mining association rules between sets of items in large databases, 1993, (5016.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1939|1.0|1.0|Transactions of the American Mathematical Society|A study of curved surfaces by means of certain associated ruled surfaces
+1956|0|0.0||Theoretical pressure distributions for some slender wing-body combinations at zero lift
+1963|13.0|6.5|Psychological Review|A Threshold Theory for Simple Detection Experiments
+1964|3.0|1.5||The use of context for correcting garbled English text
+1966|2.0|2.0||A concept of the vortex lift of sharp-edge delta wings based on a leading-edge-suction analogy
+1967|9.0|6.0|Attention Perception & Psychophysics|Factors affecting the slope of empirical ROC curves: Comparison of binary and rating responses
+1968|6.0|3.0|Journal of Mathematical Psychology|Maximum-likelihood estimation of receiver operating characteristic curve parameters
+1969|3.0|1.5|Attention Perception & Psychophysics|Detection models: Experimental tests with electrocutaneous stimuli
+1970|9.0|1.5|IEEE Transactions on Information Theory|Likelihood ratios for Gaussian processes
+1971|9.0|4.0|Attention Perception & Psychophysics|Theoretical analysis of an alphabetic confusion matrix
+1972|12.0|4.0|Journal of Mathematical Psychology|Some aspects of ROC curve-fitting: Normal and logistic models
+1973|5.0|2.5|IEEE Transactions on Computers|Pattern Recognition by Piecewise Linear Discriminant Functions
+1974|6.0|1.0|Journal of Political Economy|A Conditional Logit Model of Occupational Choice
+1975|6.0|1.5|Journal of Mathematical Psychology|The area above the ordinal dominance graph and the area below the receiver operating characteristic graph
+1976|2.0|2.0|Attention Perception & Psychophysics|Rhesus monkey ( Macaca mulatta ) cool sensitivity measured by a signal detection method
+1977|10.0|1.0|Oecologia|A model of renewable resources and limitation of deposit-feeding benthic populations
+1978|32.0|2.0|Seminars in Nuclear Medicine|Basic principles of ROC analysis.
+1979|10.0|1.0|Transportation Research Part B-methodological|THE DOGIT MODEL
+1980|14.0|3.0|American Journal of Cardiology|Prevalence of coronary heart disease in the framingham offspring study: Role of lipoprotein cholesterols
+1981|29.0|1.0|Journal of Geophysical Research|Plasma Density Features Associated with Strong Convection in the Winter High-Latitude F Region
+1982|22.0|2.0|European Journal of Operational Research|Assessing a set of additive utility functions for multicriteria decision-making, the UTA method
+1983|63.0|3.0|Journal of the American College of Cardiology|Prognostic value of exercise thallium-201 imaging in patients presenting for evaluation of chest pain
+1984|28.0|1.0|Biometrics|Random-effects models for serial observations with binary response.
+1985|28.0|2.0|Psychological Medicine|A comparison of the validity of two psychiatric screening questionnaires (GHQ-12 and SRQ-20) in Brazil, using Relative Operating Characteristic (ROC) analysis.
+1986|73.0|3.5|JAMA|Tumor DNA Content in the Prognosis of Colorectal Carcinoma
+1987|49.0|2.0|JAMA|Patterns of Care Related to Age of Breast Cancer Patients
+1988|28.0|3.0|Cancer|Prognostic factors in advanced nonseminomatous testicular cancer a multivariate logistic regression analysis
+1989|52.0|3.0|Journal of the American College of Cardiology|Improved diagnostic performance of exercise thallium-201 single photon emission computed tomography over planar imaging in the diagnosis of coronary artery disease: a receiver operating characteristic analysis
+1990|55.0|2.0|Journal of the American College of Cardiology|Prognostic value of dipyridamole thallium scintigraphy for evaluation of ischemic heart disease.
+1991|49.0|3.0|Computer-aided Design|Assessment of features technology
+1992|87.0|3.0|IEEE Transactions on Neural Networks|Learning and tuning fuzzy logic controllers through reinforcements
+1993|149.0|3.0|international conference on management of data|Mining association rules between sets of items in large databases
+1994|159.0|3.0|very large data bases|Fast Algorithms for Mining Association Rules in Large Databases
+1995|140.0|4.0|international conference on management of data|An effective hash-based algorithm for mining association rules
+1996|171.0|4.0|international conference on management of data|Mining quantitative association rules in large relational tables
+1997|213.0|4.0|Future Generation Computer Systems|Mining generalized association rules
+1998|152.0|5.0||A comparison of event models for Naive Bayes text classification
+1999|257.0|7.0|Machine Learning|An Empirical Comparison of Voting Classification Algorithms: Bagging, Boosting, and Variants
+2000|311.0|7.0|Machine Learning|Text Classification from Labeled and Unlabeled Documents using EM
+2001|293.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|Predicting the clinical status of human breast cancer by using gene expression profiles.
+2002|433.0|7.0|Annals of the Rheumatic Diseases|Classification criteria for Sjgren's syndrome: a revised version of the European criteria proposed by the American-European Consensus Group
+2003|611.0|8.0|computer vision and pattern recognition|Object class recognition by unsupervised scale-invariant learning
+2004|379.0|8.0|The New England Journal of Medicine|Efficacy of MRI and mammography for breast-cancer screening in women with a familial or genetic predisposition
+2005|503.0|7.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Face recognition using Laplacianfaces
+2006|1123.0|8.0|Pattern Recognition Letters|An introduction to ROC analysis
+2007|763.0|7.0|Science|Genome-Wide Mapping of in Vivo Protein-DNA Interactions
+2008|1486.0|5.0|Statistics in Medicine|Evaluating the added predictive ability of a new marker: From area under the ROC curve to reclassification and beyond
+2009|1460.0|5.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Robust Face Recognition via Sparse Representation
+2010|1614.0|8.0|Journal of Statistical Software|Regularization Paths for Generalized Linear Models via Coordinate Descent

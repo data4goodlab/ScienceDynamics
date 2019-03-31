@@ -1,0 +1,84 @@
+----  Field Name Chemical kinetics
+----  Field Level 2.0
+----  Field Papers Number 141572
+----  All time max citation paper Quantifying heterogeneity in a metaanalysis, 2002, (5959.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1929|0|0.0|Philosophical Magazine Series 1|XLIX. The effects of magnetic field on certain chemical reactions
+1930|8.0|8.0|Protoplasma|The natural chemical equilibrium regulative of growth by increase in cell number
+1933|0|0.0|Protoplasma|Germ layer origin and mitotic potentiality of regenerating tissues iuClymenella torquata
+1934|3.0|3.0|Journal of Chemical Physics|The InterRelations of Hydrogen and Deuterium Molecules
+1935|1.0|1.0|Journal of Chemical Physics|Addition of Symmetrical Diatomic Molecules to Benzene
+1936|5.0|2.0|Journal of Chemical Physics|Kinetics of OH Radicals as Determined by Their Absorption Spectrum I. The Electric Discharge Through Water Vapor
+1937|11.0|1.5|Journal of Chemical Physics|The Deduction of Reaction Mechanisms from the Theory of Absolute Rates
+1938|6.0|4.0|Journal of Chemical Physics|The Decomposition of Mercury Dimethyl
+1939|7.0|3.0|Journal of Chemical Physics|Reactions Involving Hydrogen and the Hydrocarbons
+1940|6.0|1.0|Annals of Internal Medicine|HEMOLYTIC REACTIONS FOLLOWING TRANSFUSIONS OF BLOOD OF THE HOMOLOGOUS GROUP, WITH THREE CASES IN WHICH THE SAME AGGLUTINOGEN WAS RESPONSIBLE
+1941|2.0|1.0|Journal of Chemical Physics|Theory of Acid Strength. Temperature Effect
+1943|1.0|1.0|Journal of Cellular and Comparative Physiology|The application of the theory of absolute reaction rates to the action of narcotics
+1944|11.0|7.0|Journal of Chemical Physics|Thermodynamics of Heterogeneous Polymers and Their Solutions
+1945|3.0|3.0|Journal of Dairy Science|The Methylene-Blue Reduction Test and its Relation to Other Measures of Quality in Bull Semen
+1947|9.0|4.0|Journal of Chemical Physics|Calculation of Equilibrium Constants for Isotopic Exchange Reactions
+1948|3.0|1.5|Journal of Chemical Physics|The Reaction of Hydrogen Atoms with the Paraffin Hydrocarbons
+1949|14.0|1.0|Journal of Chemical Physics|The Relative Reaction Velocities of Isotopic Molecules
+1950|16.0|3.0|Experimental Cell Research|Studies on mitochondria: II. The structure of mitochondria in relation to enzymatic activity
+1951|16.0|3.0|Journal of Chemical Physics|The Rate Constant of Ethane Formation from Methyl Radicals
+1952|9.0|3.0|Journal of Chemical Physics|Free Radicals by Mass Spectrometry. I. The Measurement of Methyl Radical Concentrations
+1953|12.0|3.0|Journal of Chemical Physics|Photoelectric Observation of the Rate of Recombination of Iodine Atoms
+1954|20.0|3.0|Analytica Chimica Acta|Heterometric micro-determination of uranium (vi) by precipitation as phosphate
+1955|11.0|2.0|Geochimica et Cosmochimica Acta|Synthetic and natural muscovites
+1956|26.0|2.0|Journal of Chemical Physics|Rate Processes and Nuclear Magnetic Resonance Spectra. II. Hindered Internal Rotation of Amides
+1957|36.0|3.0|Journal of Chemical Physics|Reactions of Nitrogen Atoms. I. Oxygen and Oxides of Nitrogen
+1958|25.0|2.0|Journal of Chemical Physics|Reaction Rates by Nuclear Magnetic Resonance
+1959|27.0|3.0|Physics of Fluids|Interferometric Measurement in the Shock Tube of the Dissociation Rate of Oxygen
+1960|29.0|2.0|Journal of Chemical Physics|SelfDiffusion of Oxygen in Single Crystal and Polycrystalline Aluminum Oxide
+1961|32.0|3.0|Journal of Chemical Physics|Photoionization of Alkanes. Dissociation of Excited Molecular Ions
+1962|57.0|3.0|Nuclear Physics|A POTENTIAL MODEL REPRESENTATION OF TWO-NUCLEON DATA BELOW 315 Mev
+1963|66.0|2.0|Journal of Chemical Physics|Electron Spin Resonance Studies of Transient Alkyl Radicals
+1964|79.0|2.0|Journal of Molecular Biology|Evidence for repair-replication of ultraviolet damaged DNA in bacteria
+1965|45.0|2.0|Nuclear Physics|Excitation of collective states by the inelastic scattering of 14 MeV neutrons
+1966|42.0|1.0|Journal of Molecular Biology|Pyrimidine dimers in ultraviolet-irradiated DNA's
+1967|39.0|1.0|Reviews of Geophysics|Ionospheric ionmolecule reaction rates
+1968|40.0|1.0|Geochimica et Cosmochimica Acta|Origin of organic matter in early solar system. I - Hydrocarbons.
+1969|29.0|1.0|Geochimica et Cosmochimica Acta|Chemical concentrations of pollutant lead aerosols, terrestrial dusts and sea salts in Greenland and Antarctic snow strata
+1970|55.0|1.0|Journal of Geophysical Research|A model calculation of the diurnal variation in minor neutral constituents in the mesosphere and lower thermosphere including transport effects
+1971|111.0|1.0|Journal of Geophysical Research|Rocket measurements of upper atmospheric nitric oxide and their consequences to the lower ionosphere
+1972|91.0|1.0|Geochimica et Cosmochimica Acta|Condensation in the primitive solar nebula
+1973|36.0|1.0|Journal of Geophysical Research|Incompatibility of solar EUV fluxes and incoherent scatter measurements at Arecibo
+1974|47.0|2.0|Journal of Geophysical Research|Temperature dependence of some ionospheric ionneutral reactions from 300900K
+1975|87.0|2.5|Brain Research|Selective uptake of [3H]-alanine by glia: Association with the glial uptake system for GABA
+1976|39.0|2.0|Biochemical and Biophysical Research Communications|Host-symbiont interactions.I. The lectins of legumes interact with the O-antigen-containing lipopolysaccharides of their symbiont Rhizobia
+1977|59.0|4.0|Journal of Chemical Physics|A model for unimolecular reaction of sulfur hexafluoride
+1978|82.0|3.0|Journal of Chemical Physics|Theory of unimolecular reactions induced by monochromatic infrared radiation
+1979|61.0|3.0|Journal of Chemical Physics|Chemisorption geometry of hydrogen on Ni/111/ - Order and disorder
+1980|58.0|3.0|Journal of Chemical Physics|Reaction path Hamiltonian for polyatomic molecules
+1981|49.0|2.0|Journal of Catalysis|On the catalytic significance of a CoMoS phase in CoMoAl2O3 hydrodesulfurization catalysts: Combined in situ Mssbauer emission spectroscopy and activity studies
+1982|71.0|2.0|Archives of General Psychiatry|Increased Brain Dopamine and Dopamine Receptors in Schizophrenia
+1983|58.0|3.0|Journal of Chemical Physics|Solvent influence on photoisomerization dynamicsa)
+1984|79.0|3.0|Journal of Chemical Physics|Nuclear and electron dynamics in the photodissociation of water
+1985|85.0|3.0|Water Resources Research|Modeling the Effects of Acid Deposition: Assessment of a Lumped Parameter Model of Soil Water and Streamwater Chemistry
+1986|119.0|3.0|Cell|Expression and structure of the human NGF receptor
+1987|111.0|3.0|Journal of Chemical Physics|Quantum reactive scattering in three dimensions using hyperspherical (APH) coordinates. Theory
+1988|176.0|3.0|Global Biogeochemical Cycles|Biogeochemical aspects of atmospheric methane
+1989|188.0|3.0|Biochemical and Biophysical Research Communications|Identification of angiotensin II receptor subtypes
+1990|114.0|3.0|Applied Physics Letters|Mechanism for diamond growth from methyl radicals
+1991|143.0|3.0|Life Sciences|Modulation of the NMDA receptor by polyamines
+1992|233.0|3.0|Journal of Chemical Physics|Density functional Gaussiantypeorbital approach to molecular geometries, vibrations, and reaction energies
+1993|96.0|3.0|Journal of Applied Physics|Heteroepitaxial wurtzite and zincblende structure GaN grown by reactiveion molecularbeam epitaxy: Growth kinetics, microstructure, and properties
+1994|195.0|3.0|Journal of Geophysical Research|Degree 12 model of shear velocity heterogeneity in the mantle
+1995|73.0|2.0|Journal of Geophysical Research|IMAGES: A threedimensional chemical transport model of the global troposphere
+1996|214.0|2.0|Tetrahedron|Solid-phase organic reactions: A review of the recent literature
+1997|228.0|3.0|international conference on database theory|Querying Semi-Structured Data
+1998|231.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|The interaction of Arp2/3 complex with actin: nucleation, high affinity pointed end capping, and formation of branching networks of filaments.
+1999|164.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|UmuD2C is an error-prone DNA polymerase, Escherichia coli pol V
+2000|234.0|3.0|JAMA|Meta-analysis of Observational Studies in Epidemiology: A Proposal for Reporting
+2001|568.0|4.0|Reviews of Modern Physics|Statistical mechanics of complex networks
+2002|431.0|5.0|Statistics in Medicine|Quantifying heterogeneity in a metaanalysis
+2003|484.0|5.0|Nucleic Acids Research|BINDThe Biomolecular Interaction Network Database
+2004|291.0|5.0|Nature|Summing up the noise in gene networks
+2005|449.0|5.0|Bioresource Technology|Features of promising technologies for pretreatment of lignocellulosic biomass.
+2006|276.0|4.0|Nature|Control and detection of chemical reactions in microfluidic systems
+2007|487.0|5.0|Molecular Cell|P Bodies and the Control of mRNA Translation and Degradation
+2008|1227.0|6.0|Ecology|TOWARD A METABOLIC THEORY OF ECOLOGY
+2009|570.0|6.0|Nature|Low-temperature oxidation of CO catalysed by Co3O4 nanorods
+2010|1323.0|6.0|PLOS ONE|A Geometrical Perspective for the Bargaining Problem

@@ -1,0 +1,44 @@
+----  Field Name Medical ethics: 
+----  Field Level 2.0: 
+----  Field Papers Number 8199:
+----  All time max citation paper: How important is 'accuracy' of surrogate decision-making for research participation?, 2013, (1419.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1967|0|0.0|Medical Education|Teaching Medical EthicsEmpirical or Rational?
+1974|4.0|2.5|Canadian Journal of Anaesthesia-journal Canadien D Anesthesie|Butorphanol: a double-blind evaluation in postoperative patients with moderate or severe pain
+1975|4.0|2.0|The New England Journal of Medicine|Medical ethics: some uses, abuses, and limitations.
+1976|5.0|2.0|JAMA|The Fiction of Informed Consent
+1977|3.0|0.0|Canadian Journal of Anaesthesia-journal Canadien D Anesthesie|Comparison of analgesia by intravenous butorphanol and meperidine in patients with post-operative pain
+1978|4.0|1.0|Behavior Therapy|Protection of the right to informed consent to participate in research
+1979|5.0|4.0|Medical and Pediatric Oncology|Patient recall of informed consent
+1980|3.0|1.0|The New England Journal of Medicine|Informed Consent by Well-Nigh Abject Adults
+1981|14.0|2.0|JAMA|What we do and do not know about informed consent.
+1982|5.0|1.5|American Psychologist|Ethical and legal considerations in marital and family therapy.
+1983|14.0|1.0|Social Science & Medicine|The communication process in clinical settings.
+1984|14.0|1.0|JAMA|The Elderly Patient and Informed Consent: Empirical Findings
+1985|13.0|2.0|JAMA|Hospital Medical Ethics Committees: A Review of Their Development
+1986|75.0|1.0|Journal of the American College of Cardiology|Early thrombolysis in acute myocardial infarction: limitation of infarct size and improved survival
+1987|9.0|2.5|Social Science & Medicine|Informed consent: The physicians' perspective
+1988|11.0|1.0|Journal of Medical Ethics|The autonomy of demented patients: interviews with caregivers.
+1989|9.0|1.0|Psychophysiology|The effects of consent procedures on the psychophysiological assessment of anxiety: a methodological inquiry.
+1990|26.0|1.0|American Journal of Surgery|Risks, options, and informed consent for blood transfusion in elective surgery.
+1991|21.0|2.0|The New England Journal of Medicine|Of Mice but Not Men: Problems of the Randomized Clinical Trial
+1992|21.0|1.0|Brain Research|Human auditory primary and association cortex have differing lifetimes for activation traces
+1993|14.0|2.0|JAMA|The metamorphosis of medical ethics. A 30-year retrospective.
+1994|14.0|2.0|The New England Journal of Medicine|Informed consent, cancer, and truth in prognosis.
+1995|50.0|2.0|American Journal of Obstetrics and Gynecology|Adjusting the risk for trisomy 21 on the basis of second-trimester ultrasonography
+1996|30.0|2.0|Carcinogenesis|Nitric oxide synthase activity and expression in human colorectal cancer
+1997|55.0|3.0|JAMA|Genetic Testing for Susceptibility to Adult-Onset Cancer: The Process and Content of Informed Consent
+1998|74.0|4.0|American Journal of Obstetrics and Gynecology|The fetal inflammatory response syndrome
+1999|62.0|3.0|Journal of General Internal Medicine|Attitudes and Beliefs of African Americans Toward Participation in Medical Research
+2000|73.0|5.0|The American Journal of Medicine|Thalidomide: current and potential clinical applications.
+2001|59.0|6.0|JAMA|Informed Consent for Population-Based Research Involving Genetics
+2002|103.0|5.0|Circulation|Identification of Fibrous Cap Rupture With Magnetic Resonance Imaging Is Highly Associated With Recent Transient Ischemic Attack or Stroke
+2003|77.0|5.0|Social Science & Medicine|The new subjective medicine: taking the patient's point of view on health care and health
+2004|113.0|5.0|Kidney International|Spectrum of acute renal failure in the intensive care unit: The PICARD experience
+2005|94.0|5.0|PLOS Medicine|Are racial and ethnic minorities less willing to participate in health research?
+2006|377.0|5.0|Journal of Clinical Oncology|American Society of Clinical Oncology Recommendations on Fertility Preservation in Cancer Patients
+2007|152.0|4.0|The New England Journal of Medicine|The Quality of Ambulatory Care Delivered to Children in the United States
+2008|142.0|5.0|Human Reproduction|A two-step serum-free culture system supports development of human oocytes from primordial follicles in the presence of activin.
+2009|256.0|5.0|The Journal of Pain|Clinical Guidelines for the Use of Chronic Opioid Therapy in Chronic Noncancer Pain
+2010|338.0|5.0|The Lancet|Multidrug-resistant and extensively drug-resistant tuberculosis: a threat to global control of tuberculosis

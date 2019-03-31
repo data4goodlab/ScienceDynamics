@@ -1,0 +1,50 @@
+----  Field Name Horology: 
+----  Field Level 2.0: 
+----  Field Papers Number 15399:
+----  All time max citation paper: Movement Patterns for a Critically Endangered Species, the Leatherback Turtle (Dermochelys coriacea), Linked to Foraging Success and Population Status, 2012, (1958.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1962|0|0.0|Acta Metallurgica|The zener relaxation and a new magnetic relaxation effect in Fe-rich Fe-Al alloys
+1964|1.0|1.0|Arctic|Tundra Rodents in a Late Pleistocene Fauna from the Tofty Placer District, Central Alaska
+1966|0|0.0||Pyscho-sedative properties of three indolyl-ethyl-piperazine derivatives.
+1969|1.0|1.0|The Journal of General Physiology|Energy Conversion in Bull Sperm Flagella
+1970|4.0|2.0|Physiology & Behavior|The thermoregulatory behavior of young pigs in a natural environment
+1971|31.0|16.5|Experimental Neurology|Relation of contraversive turning to unilateral release of dopamine from the nigrostriatal pathway in rats.
+1973|1.0|0.5|Polymer Journal|Relaxation Behaviour of Poly(methacrylic acid) and Its Copolymers with 2-Hydroxyethyl Methacrylate
+1974|4.0|1.0|The Journal of General Physiology|Potassium flux and leaf movement in Samanea saman. I. Rhythmic movement.
+1975|2.0|1.0||Factors influencing the movement of nematodes in soil.
+1976|5.0|4.0|Journal of Experimental Medicine|Antigen recognition. IV. Discrimination by antigen-binding immunocompetent B cells between immunity and tolerance is determined by adherent cells.
+1977|12.0|1.0||Physiology and evolution of spirochetes.
+1978|2.0|0.0|Physiology & Behavior|Locomotor response to changes in food intake and ambient temperature in rats with hypothalamic lesions
+1979|34.0|4.0|Progress in Neurobiology|A review of the hippocampal place cells.
+1980|27.0|3.0|Brain Research|Reserpine Abolishes Movement-correlated atropine-resistant neocortical low voltage fast activity
+1981|12.0|2.5|Brain Research|Functional organization of the motor process underlying the transition from movement to posture
+1982|79.0|3.0|Behavioral and Brain Sciences|What muscle variable(s) does the nervous system control in limb movements?
+1983|25.0|3.0|Journal of Geophysical Research|An icewater vortex at the edge of the East Greenland Current
+1984|32.0|2.0|IEEE Transactions on Biomedical Engineering|Effect of External Viscous Load on Head Movement
+1985|126.0|5.0|Behavioral and Brain Sciences|The organization of human postural movements: A formal basis and experimental synthesis
+1986|14.0|4.0|Ecological Entomology|The effects of foliage damage on casebearing moth larvae, Coleophora serratella, feeding on birch
+1987|21.0|3.0|International Journal of Radiation Oncology Biology Physics|Optimization of radiation therapy, III: A method of assessing complication probabilities from dose-volume histograms
+1988|29.0|5.0|Journal of the American College of Cardiology|Current complications of diagnostic and therapeutic cardiac catheterization.
+1989|30.0|1.0|IEEE Control Systems Magazine|Learning to control an inverted pendulum using neural networks
+1990|63.0|2.0|Neuroscience Research|Spinal sensorimotor systems and their supraspinal control.
+1991|78.0|2.0|Hepatology|Kupffer cell activation and endothelial cell damage after storage of rat livers: effects of reperfusion.
+1992|27.0|3.5|design automation conference|Iterative and adaptive slack allocation for performance-driven layout and FPGA routing
+1993|28.0|2.0|Ophthalmology|The Casebeer System for Predictable Keratorefractilove Surgery: One-year Evaluation of 205 Consecutive Eyes
+1994|48.0|3.0|Gastroenterology|The prevalence of gut translocation in humans
+1995|70.0|3.0|Journal of Fluid Mechanics|On the identification of a vortex
+1996|64.0|4.0|JAMA Internal Medicine|Gastrointestinal tract complications of nonsteroidal anti-inflammatory drug treatment in rheumatoid arthritis : A prospective observational cohort study
+1997|93.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|The origin and evolution of animal appendages
+1998|96.0|5.0|Hepatology|Upregulation of the multidrug resistance genes, Mrp1 and Mdr1b, and downregulation of the organic anion transporter, Mrp2, and the bile salt transporter, Spgp, in endotoxemic rat liver
+1999|490.0|6.0|Kidney International|The Banff 97 working classification of renal allograft pathology
+2000|501.0|6.0|The Lancet|Irinotecan combined with fluorouracil compared with fluorouracil alone as first-line treatment for metastatic colorectal cancer: a multicentre randomised trial.
+2001|121.0|6.0|Journal of the American Geriatrics Society|Reducing Delirium After Hip Fracture: A Randomized Trial
+2002|512.0|7.0|JAMA|Hospital nurse staffing and patient mortality, nurse burnout, and job dissatisfaction.
+2003|290.0|8.0|JAMA Internal Medicine|Updating the Beers Criteria for Potentially Inappropriate Medication Use in Older Adults: Results of a US Consensus Panel of Experts
+2004|218.0|8.0|Proceedings of the National Academy of Sciences of the United States of America|Control of a two-dimensional movement signal by a noninvasive brain-computer interface in humans
+2005|142.0|9.0|Nature|Non-equilibration of hydrostatic pressure in blebbing cells
+2006|224.0|8.0|Journal of the National Cancer Institute|Randomized multicenter trial of sentinel node biopsy versus standard axillary treatment in operable breast cancer: the ALMANAC trial
+2007|327.0|8.0|Biological Psychiatry|Resting-State Functional Connectivity in Major Depression: Abnormally Increased Contributions from Subgenual Cingulate Cortex and Thalamus
+2008|191.0|8.0|Nature|Sparse optical microstimulation in barrel cortex drives learned behaviour in freely moving mice
+2009|873.0|9.0|PLOS ONE|Imagined Self-Motion Differs from Perceived Self-Motion: Evidence from a Novel Continuous Pointing Method
+2010|390.0|9.0|Nature|Measuring mechanical tension across vinculin reveals regulation of focal adhesion dynamics

@@ -1,0 +1,54 @@
+----  Field Name Natural language processing: 
+----  Field Level 1.0: 
+----  Field Papers Number 19746:
+----  All time max citation paper: Building a large annotated corpus of English: the penn treebank, 1993, (2171.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1962|1.0|1.0|Proceedings of The Institute of Radio Engineers|Introduction to the Theory of VLF Propagation
+1964|11.0|7.0|Experimental Neurology|Evoked responses from the auditory cortex.
+1965|16.0|9.0|Experimental Neurology|The spinocervical tract- dorsal column linkage, conduction velocity, primary afferent spectrum
+1966|10.0|3.5|Electroencephalography and Clinical Neurophysiology|Relationships of neuronal spike populations and EEG activity in chronic cats.
+1967|12.0|0.5|Theory of Computing Systems \/ Mathematical Systems Theory|CONTROL SETS ON GRAMMARS.
+1968|24.0|12.5||The use of theorem-proving techniques in question-answering systems
+1969|36.0|7.0|Communications of The ACM|The teachable language comprehender: a simulation program and theory of language
+1970|36.0|8.0|Communications of The ACM|Transition network grammars for natural language analysis
+1971|6.0|1.0|Brain Research|Conduction velocity as a parameter in the organisation of the afferent relay in the cat's lateral geniculate nucleus
+1972|15.0|3.0|Communications of The ACM|Generating English discourse from semantic networks
+1973|21.0|1.5|international joint conference on artificial intelligence|Natural semantics in artificial intelligence
+1974|17.0|3.0|Proceedings of the IEEE|The art of natural graphic man&#8212;Machine conversation
+1975|19.0|4.0|Artificial Intelligence|Case Systems for Natural Language
+1976|12.0|3.0|Ibm Journal of Research and Development|REQUEST: a natural language question-answering system
+1977|17.0|1.5|Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing|A Syntactic Approach to Texture Analysis.
+1978|45.0|5.0|Communications of The ACM|An English language question answering system for a large relational database
+1979|55.0|3.0|symposium on the theory of computing|Area-time complexity for VLSI
+1980|60.0|3.0|Artificial Intelligence|Definite clause grammars for language analysisA survey of the formalism and a comparison with augmented transition networks
+1981|27.0|3.0|Acta Physiologica Scandinavica|Tissue concentration and release of substance Plike immunoreactivity in the dental pulp
+1982|31.0|4.0|Neuroscience Letters|The distribution of serotonin, met-enkephalin and -lipotropin-like immunoreactivity in neuronal perikarya of the cat brainstem
+1983|34.0|4.5|Brain Research|Serotonergic excitation of sympathetic preganglionic neurons: a microiontophoretic study
+1984|63.0|5.0|Brain Research|Site-specific enhancement and suppression of desynchronized sleep signs following cholinergic stimulation of three brainstem regions
+1985|52.0|3.0|Neuroscience Letters|Perivascular peptides relax cerebral arteries concomitant with stimulation of cyclic adenosine monophosphate accumulation or release of an endothelium-derived relaxing factor in the cat
+1986|47.0|3.0|Brain Research|Neuropeptide Y-immunoreactive neurons in the striatum of cat and monkey: Morphological characteristics, intrinsic organization and co-localization with somatostatin
+1987|78.0|4.0|Animal Genetics|DNA fingerprints of dogs and cats.
+1988|84.0|4.0|Behavioural Brain Research|Rubrospinal and rubrobulbospinal influences on dynamic and static -motoneurones
+1989|55.0|3.0|Brain Research Reviews|Animal models of the epilepsies.
+1990|74.0|3.0|Computational Linguistics|A statistical approach to machine translation
+1991|40.0|2.5|Neuroscience Letters|Excitatory amino acid receptors mediate synaptic responses to visual stimuli in superior colliculus neurones of the rat
+1992|50.0|3.0|Vision Research|Directionally selective complex cells and the computation of motion energy in cat visual cortex
+1993|87.0|3.0|Computational Linguistics|Building a large annotated corpus of English: the penn treebank
+1994|40.0|2.0|international acm sigir conference on research and development in information retrieval|A sequential algorithm for training text classifiers
+1995|108.0|3.0|Computational Linguistics|Transformation-based error-driven learning and natural language processing: a case study in part-of-speech tagging
+1996|114.0|3.0|IEEE Computer|Role-based access control models
+1997|143.0|3.0|adaptive agents and multi-agents systems|A scalable comparison-shopping agent for the World-Wide Web
+1998|58.0|3.0||Implementing multiple protection domains in java
+1999|159.0|4.0|Machine Learning|Learning Information Extraction Rules for Semi-Structured and Free Text
+2000|198.0|4.0|IEEE Computer|The real-time specification for Java
+2001|162.0|4.0|Machine Learning|Unsupervised learning by probabilistic latent semantic analysis
+2002|162.0|4.5|Sigmod Record|A brief survey of web data extraction tools
+2003|95.0|5.0|Computational Linguistics|The Web as a parallel corpus
+2004|272.0|5.0|IEEE Transactions on Information Theory|Greed is good: algorithmic results for sparse approximation
+2005|465.0|4.0|computer vision and pattern recognition|Overview of the face recognition grand challenge
+2006|228.0|4.0|IEEE Transactions on Image Processing|Image Denoising Via Sparse and Redundant Representations Over Learned Dictionaries
+2007|260.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Supervised Learning of Semantic Classes for Image Annotation and Retrieval
+2008|403.0|2.0|empirical methods in natural language processing|Cheap and fast---but is it good?: evaluating non-expert annotations for natural language tasks
+2009|285.0|2.0|Machine Learning|Cutting-plane training of structural SVMs
+2010|446.0|3.0|IEEE Transactions on Image Processing|Image Super-Resolution Via Sparse Representation

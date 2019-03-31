@@ -1,0 +1,70 @@
+----  Field Name Composite material: 
+----  Field Level 1.0: 
+----  Field Papers Number 131984:
+----  All time max citation paper: Polymer/layered silicate nanocomposites: a review from preparation to processing, 2003, (3007.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1938|1.0|1.0|Digestive Diseases and Sciences|The nutritional value of soybeans.
+1942|1.0|1.0|Journal of Hygiene|Comparative digestibility of wholemeal and white breads and the effect of the degree of fineness of grinding on the former
+1944|9.0|9.0|Annals of Applied Biology|Mould deterioration of feedingstuffs in relation to humidity of storage: Part I. The growth of moulds at low humidities
+1948|1.0|1.0|Journal of Applied Physics|Measurement by Radioactive Tracers of Diffusion in Liquids
+1950|4.0|2.5|Journal of Dairy Science|Influence of Crude Fiber in the Ration on Efficiency of Feed Utilization by Dairy Cows1
+1952|4.0|4.0|Journal of Chemical Physics|Specific Heat of Synthetic High Polymers. I. A Study of Polyethylene Including a Statistical Theory of Crystallite Length
+1953|2.0|2.0||Charts relating the compressive buckling stress of longitudinally supported plates to the effective deflectional and rotational stiffness of the supports
+1954|0|0.0|Colloid and Polymer Science|Rheology of adhesives
+1955|8.0|2.0|Journal of Applied Physics|Electron Microscopy of Monodisperse Latexes
+1956|5.0|4.0|Journal of Applied Physics|Effect of Electron Irradiation on Young's Modulus
+1957|17.0|1.5|Journal of Chemical Physics|Mobility and Adsorption of Hydrogen on Tungsten
+1958|2.0|1.0|The Journal of General Physiology|THE THERMAL STABILITY OF RHODOPSIN AND OPSIN
+1959|16.0|4.0|Journal of Applied Physics|Growth of Silicon Crystals Free from Dislocations
+1960|5.0|1.0|Journal of Cell Biology|Epoxy Resins in Electron Microscopy
+1961|5.0|1.0|Journal of Applied Physics|Fracture of Brittle Solids. II. Distribution Function for Fragment Size in Single Fracture (Experimental)
+1962|6.0|1.0|Journal of Applied Physics|Mechanical Behavior of Sapphire Whiskers at Elevated Temperatures
+1963|18.0|0.5|Physics of Fluids|Rate of Ionization Behind Shock Waves in Air. II. Theoretical Interpretations
+1964|11.0|0.0|Journal of the American Ceramic Society|Creep, Strength, Expansion, and Elastic Moduli of Sintered BeO As a Function of Grain Size, Porosity, and Grain Orientation
+1965|10.0|1.0|Polymer|The use of frictional coefficients to evaluate unperturbed dimensions in dilute polymer solutions
+1966|5.0|1.0|Journal of Geophysical Research|Earth's zonal deformations
+1967|50.0|1.0|Journal of Geophysical Research|Some remarks on heat flow and gravity anomalies
+1968|12.0|0.0|Journal of Geophysical Research|Brittleductile transition in rocks
+1969|24.0|1.0|Journal of Geophysical Research|Wind stress and surface roughness at airsea interface
+1970|15.0|1.0|American Journal of Orthodontics|The direct bonding of orthodontic attachments to teeth by means of an epoxy resin adhesive
+1971|18.0|1.0|Journal of Geophysical Research|Measurements of highly collimated shortduration bursts of auroral electrons and comparison with existing auroral models
+1972|15.0|1.0|International Journal of Engineering Science|Stresses in bonded materials with a crack perpendicular to the interface.
+1973|19.0|1.0|Cryobiology|Thermal shock and dilution shock as the causes of freezing injury
+1974|36.0|1.0|Journal of Applied Physics|Electronirradiation effect in the Auger analysis of SiO2
+1975|21.0|1.0|Thin Solid Films|Special aspects of diffusion in thin films
+1976|30.0|1.0|Photochemistry and Photobiology|PHOTOSYNTHESIS AS A RESOURCE FOR ENERGY AND MATERIALS*
+1977|64.0|1.0|Journal of Fluid Mechanics|The role of shear-layer instability waves in jet exhaust noise
+1978|20.0|1.0|Journal of Applied Physics|The influence of quenching procedures on the kinetics of embrittlement in a Fe40Ni40B20 metallic glass
+1979|38.0|2.0|Journal of Catalysis|Infrared, microcalorimetric, and electron spin resonance investigations of the acidic properties of the H-ZSM-5 zeolite
+1980|25.0|1.0|Journal of Geophysical Research|Pioneer Venus Radar results altimetry and surface properties
+1981|34.0|2.0|Engineering Fracture Mechanics|An empirical stress-intensity factor equation for the surface crack
+1982|27.0|2.0|Journal of Investigative Dermatology|Isolation and Lipid Biochemical Characterization of Stratum Corneum Membrane Complexes: Implications for the Cutaneous Permeability Barrier
+1983|60.0|2.0|Journal of Geophysical Research|Mechanics of foldandthrust belts and accretionary wedges
+1984|49.0|2.0|Journal of Geophysical Research|Geoid anomalies in a dynamic Earth
+1985|88.0|2.0|Acta Metallurgica|Effect of boron on grain-boundaries in Ni 3 Al
+1986|28.0|2.0|Journal of Materials Research|Formation of Lanxide TM ceramic composite materials
+1987|64.0|2.0|Journal of The Mechanics and Physics of Solids|Small-Scale Crack Bridging and the Fracture Toughness of Particulate-Reinforced Ceramics,
+1988|96.0|2.0|FEBS Journal|A new siliconized-glass fiber as support for protein-chemical analysis of electroblotted proteins.
+1989|71.0|2.0|Journal of Applied Physics|Effect of silver and silver oxide additions on the mechanical and superconducting properties of YBa2Cu3O7 superconductors
+1990|88.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Multichannel texture analysis using localized spatial filters
+1991|107.0|2.0|Journal of the American Ceramic Society|Theory of Mechanical Properties of CeramicMatrix Composites
+1992|45.0|2.0|Journal of Applied Physics|Resistance and structural stabilities of epitaxial CoSi2 films on (001) Si substrates
+1993|152.0|2.0|Journal of the American Ceramic Society|Ceramic Fuel Cells
+1994|425.0|2.0|Journal of Applied Physics|Largebandgap SiC, IIIV nitride, and IIVI ZnSebased semiconductor device technologies
+1995|101.0|2.0|Structure|The structure of Pyrococcus furiosus glutamate dehydrogenase reveals a key role for ion-pair networks in maintaining enzyme stability at extreme temperatures
+1996|61.0|2.0|Journal of the American Ceramic Society|Synthesis and Characterization of a Remarkable Ceramic: Ti3SiC2
+1997|216.0|2.0|Applied Physics Letters|Lateral epitaxy of low defect density GaN layers via organometallic vapor phase epitaxy
+1998|122.0|2.0|Applied Physics Letters|A nanotube-based field-emission flat panel display
+1999|176.0|3.0|Applied Clay Science|Polymer-layered silicate nanocomposites: an overview
+2000|332.0|3.0|Journal of Applied Physics|Hafnium and zirconium silicates for advanced gate dielectrics
+2001|288.0|3.0|Composites Science and Technology|Advances in the science and technology of carbon nanotubes and their composites: a review
+2002|418.0|4.0|Applied Geochemistry|A review of the source, behaviour and distribution of arsenic in natural waters
+2003|783.0|5.0|Progress in Polymer Science|Polymer/layered silicate nanocomposites: a review from preparation to processing
+2004|199.0|4.0|Nature|Conformational variations in an infectious protein determine prion strain differences
+2005|269.0|5.0|Cell|Stem cell function, self-renewal, and behavioral heterogeneity of cells from the adult muscle satellite cell niche
+2006|437.0|4.0|Biomaterials|Biodegradable and bioactive porous polymer/inorganic composite scaffolds for bone tissue engineering
+2007|260.0|5.0|Journal of Power Sources|A review of polymer electrolyte membranes for direct methanol fuel cells
+2008|783.0|5.0|Journal of Applied Physics|Multiferroic magnetoelectric composites: Historical perspective, status, and future directions
+2009|963.0|5.0|Nature|Longitudinal unzipping of carbon nanotubes to form graphene nanoribbons
+2010|577.0|6.0|Small|Graphene Oxide, Highly Reduced Graphene Oxide, and Graphene: Versatile Building Blocks for CarbonBased Materials

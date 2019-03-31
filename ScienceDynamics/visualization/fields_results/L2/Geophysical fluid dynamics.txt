@@ -1,0 +1,51 @@
+----  Field Name Geophysical fluid dynamics: 
+----  Field Level 2.0: 
+----  Field Papers Number 3317:
+----  All time max citation paper: Shearwater Foraging in the Southern Ocean: The Roles of Prey Availability and Winds, 2010, (1339.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1956|0|0.0|Monthly Weather Review|A COOL, DAMP PERIOD ASSOCIATED WITH THE SPRING-LIKE FRONTAL WAVES OVER THE EASTERN UNITED STATES, JULY 18-25, 1956
+1965|1.0|1.0||A survey of the methods developed for the inversion of the radiative transfer problem for planetary atmospheres
+1967|1.0|1.0||THE DYNAMICS OF SOLID PROPELLANT ROCKET MOTORS
+1969|2.0|2.0|IEEE Transactions on Circuit Theory|Continued Fraction Inversion by Routh's Algorithm
+1970|2.0|2.0|Molecular Crystals and Liquid Crystals|The absence of helical inversion in single component cholesteric liquid crystals
+1971|0|0.0|Geophysical and Astrophysical Fluid Dynamics|The langevin model for turbulent diffusion
+1972|19.0|1.0|Deep Sea Research and Oceanographic Abstracts|Southward penetrations of the North Atlantic polar front: faunal and floral evidence of large-scale surface water mass movements over the last 225,000 years
+1973|0|0.0|Transactions of the American Mathematical Society|Hankel transforms and GASP
+1974|0|0.0|Mathematics of Computation|Inversion of Toeplitz band matrices
+1975|12.0|7.5|Tellus A|Turbulent entrainment across stable density step structures
+1976|15.0|10.0|Marine Micropaleontology|Late Quaternary fluctuations of the Polar Front and Subtropical Convergence in the southeast Indian Ocean
+1977|12.0|0.0|Journal of Geophysical Research|Late Quaternary surface ocean kinematics and climatic change in the highlatitude North Atlantic
+1978|7.0|3.5|Journal of Geophysical Research|Climatic characteristics of the Antarctic Polar Front zone
+1979|8.0|3.5|Polymer Journal|Thermally Induced Inversion of the Cholesteric Sense in Lyotropic Polypeptide Liquid Crystals
+1980|8.0|3.0|Journal of Geophysical Research|A surface wave dispersion study of the crustal and upper mantle structure of China
+1981|39.0|4.0|Geochimica et Cosmochimica Acta|The supply and accumulation of silica in the marine environment
+1982|9.0|2.0|Bulletin of the Seismological Society of America|Worldwide distribution of group velocity of mantle Rayleigh waves as determined by spherical harmonic inversion
+1983|25.0|5.0|Journal of Geophysical Research|An icewater vortex at the edge of the East Greenland Current
+1984|11.0|5.0|Polar Biology|The distribution and nutrient status of phytoplankton in the Southern Ocean between 20 and 70 W
+1985|34.0|5.0|Earth and Planetary Science Letters|North Atlantic surface-ocean control of Pleistocene deep-ocean circulation
+1986|19.0|6.0|Reviews of Geophysics|The physics of the Antarctic Circumpolar Current
+1987|15.0|3.0|Current Genetics|Chloroplast DNA evolution among legumes: Loss of a large inverted repeat occurred prior to other sequence rearrangements
+1988|18.0|4.0|Journal of Molecular Evolution|Plant mitochondrial DNA evolved rapidly in structure, but slowly in sequence
+1989|20.0|3.0|American Journal of Medical Genetics|Waardenburg syndrome type I in a child with de novo inversion (2)(q35q37.3)
+1990|25.0|5.0|Chirality|Stereoselective arylpropionylCoA thioester formation in vitro
+1991|30.0|3.0|Journal of Chemical Physics|Dynamic solvent effects on electron transfer rates in the inverted regime: Ultrafast studies on the betaines
+1992|66.0|3.0|Geophysical Journal International|Seismic traveltime inversion for 2D crustal velocity structure
+1993|84.0|3.0|Paleoceanography|Patterns of IceRafted Detritus in the Glacial North Atlantic (4055N)
+1994|53.0|4.0|Earth and Planetary Science Letters|The North Atlantic atmosphere-sea surface 14 C gradient during the Younger Dryas climatic event
+1995|56.0|5.0|Deep-sea Research Part I-oceanographic Research Papers|On the meridional extent and fronts of the Antarctic Circumpolar Current
+1996|35.0|3.0|Journal of Geophysical Research|Southern Ocean fronts from the Greenwich meridian to Tasmania
+1997|87.0|4.0|Nature|Contribution of Southern Ocean surface-water stratification to low atmospheric CO2 concentrations during the last glacial period
+1998|124.0|4.0|Trends in Genetics|Genomic disorders: structural features of the genome can lead to DNA rearrangements and human disease traits.
+1999|41.0|4.0|Marine Chemistry|Low dissolved Fe and the absence of diatom blooms in remote Pacific waters of the Southern Ocean
+2000|111.0|5.0|Journal of Geophysical Research|Accuracy assessments of aerosol optical properties retrieved from Aerosol Robotic Network (AERONET) Sun and sky radiance measurements
+2001|124.0|6.0|Geophysics|Nonlinear conjugate gradients algorithm for 2-D magnetotelluric inversion
+2002|61.0|6.0|Geophysical Journal International|A model of the geomagnetic field and its secular variation for epoch 2000 estimated from rsted data
+2003|58.0|6.0|Strategic Management Journal|WHICH TIES MATTER WHEN? THE CONTINGENT EFFECTS OF INTERORGANIZATIONAL PARTNERSHIPS ON IPO SUCCESS
+2004|86.0|6.0|Nature|A newly discovered Roseobacter cluster in temperate and polar oceans
+2005|100.0|8.0|Genome Research|Comparative genome sequencing of Drosophila pseudoobscura: Chromosomal, gene, and cis-element evolution
+2006|252.0|6.0|Nature Genetics|Discovery of previously unidentified genomic disorders from the duplication architecture of the human genome
+2007|111.0|6.0|Geophysical Journal International|Inference of mantle viscosity from GRACE and relative sea level data
+2008|233.0|6.0|International Journal of Climatology|Physiographically sensitive mapping of climatological temperature and precipitation across the conterminous United States
+2009|94.0|5.0|Journal of Marine Systems|The importance of oceanographic fronts to marine birds and mammals of the southern oceans
+2010|1339.0|7.0|PLOS ONE|Shearwater Foraging in the Southern Ocean: The Roles of Prey Availability and Winds

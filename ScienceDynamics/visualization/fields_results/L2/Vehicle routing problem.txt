@@ -1,0 +1,40 @@
+----  Field Name Vehicle routing problem: 
+----  Field Level 2.0: 
+----  Field Papers Number 2207:
+----  All time max citation paper: Algorithms for the vehicle routing and scheduling problems with time window constraints, 1987, (932.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1975|2.0|2.0|Toxicology and Applied Pharmacology|Distribution studies of [ 14 C]delta-9-tetrahydrocannabinol in mice: Effect of vehicle, route of administration, and duration of treatment
+1977|15.0|15.0|Networks|Implementing vehicle routing algorithms
+1978|5.0|5.0|Decision Sciences|A SIMULATION AND STATISTICAL ANALYSIS OF STOCHASTIC VEHICLE ROUTING WITH TIMING CONSTRAINTS
+1979|6.0|3.0|Journal of the Operational Research Society|A SURVEY OF LOCAL DELIVERY VEHICLE ROUTING METHODOLOGY
+1980|13.0|13.0|Management Science|Solving Large-Scale Symmetric Travelling Salesman Problems to Optimality
+1981|10.0|10.0|Networks|Classification in vehicle routing and scheduling
+1983|8.0|6.0|European Journal of Operational Research|Stochastic vehicle routing: A comprehensive approach
+1984|9.0|3.0|Operations Research|A Combined Vehicle Routing and Inventory Allocation Problem
+1985|6.0|1.0|Transportation Research Part B-methodological|A WAREHOUSE LOCATION-ROUTING PROBLEM
+1986|20.0|1.5|Management Science|A multiplier adjustment method for the generalized assignment problem
+1987|15.0|7.5|North-holland Mathematics Studies|Exact Algorithms for the Vehicle Routing Problem
+1988|5.0|2.5|European Journal of Operational Research|Vehicle routing considerations in distribution system design
+1989|7.0|2.0|European Journal of Operational Research|Models and exact solutions for a class of stochastic location-routing problems
+1990|9.0|8.0|European Journal of Operational Research|A classification scheme for vehicle routing and scheduling problems
+1991|6.0|3.5||GIDEON: a genetic algorithm system for vehicle routing with time windows
+1992|40.0|3.0|European Journal of Operational Research|The vehicle routing problem: An overview of exact and approximate algorithms
+1993|51.0|6.0|Annals of Operations Research|Metastrategy simulated annealing and tabu search algorithms for the vehicle routing problem
+1994|37.0|3.0|Operations Research|Optimal Solution of Vehicle Routing Problems Using Minimum K-Trees
+1995|54.0|3.0|Journal of Heuristics|PROBABILISTIC DIVERSIFICATION AND INTENSIFICATION IN LOCAL SEARCH FOR VEHICLE ROUTING.
+1996|13.0|3.0||A Parallel Tabu Search Algorithm Using Ejection Chains for the Vehicle Routing Problem
+1997|58.0|1.5|Artificial Intelligence|Coalitions among computationally bounded agents
+1998|49.0|3.5|principles and practice of constraint programming|Using Constraint Programming and Local Search Methods to Solve Vehicle Routing Problems
+1999|38.0|4.0||Applying the ANT System to the Vehicle Routing Problem
+2000|28.0|4.0|Journal of Heuristics|Solving Vehicle Routing Problems Using Constraint Programming and Metaheuristics
+2001|50.0|7.0|Journal of the Operational Research Society|A unified tabu search heuristic for vehicle routing problems with time windows
+2002|62.0|10.5|Journal of the Operational Research Society|A guide to vehicle routing heuristics
+2003|50.0|7.0|European Journal of Operational Research|Real-time vehicle routing: Solution concepts, algorithms and parallel computing strategies
+2004|105.0|7.5|Computers & Operations Research|A simple and effective evolutionary algorithm for the vehicle routing problem
+2005|133.0|9.0|Transportation Science|Vehicle Routing Problem with Time Windows, Part I: Route Construction and Local Search Algorithms
+2006|60.0|7.0|Operations Research|A Branch-and-Cut Algorithm for the Dial-a-Ride Problem
+2007|194.0|6.0|Computers & Operations Research|A general heuristic for vehicle routing problems
+2008|74.0|5.0|European Journal of Operational Research|Time dependent vehicle routing problem with a multi ant colony system
+2009|138.0|5.0|Transportation Science|Fifty Years of Vehicle Routing
+2010|132.0|9.0|European Journal of Operational Research|Dynamic pickup and delivery problems

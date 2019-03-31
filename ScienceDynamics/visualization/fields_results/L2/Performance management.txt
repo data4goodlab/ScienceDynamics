@@ -1,0 +1,41 @@
+----  Field Name Performance management: 
+----  Field Level 2.0: 
+----  Field Papers Number 5141:
+----  All time max citation paper: Attentional requirements of learning: Evidence from performance measures, 1987, (1248.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|16.0|16.0|Communications of The ACM|The instrumentation of multics
+1972|32.0|4.0|Communications of The ACM|Trace-driven modeling and analysis of CPU scheduling in a multiprogramming system
+1974|13.0|2.0|Communications of The ACM|A simple linear model of demand paging performance
+1976|5.0|5.0|international conference on software engineering|The dimensions of maintenance
+1978|0|0.0|winter simulation conference|ANSWERS: A hydrologic / water quality simulator for watershed research
+1979|2.0|2.0|Compensation & Benefits Review|A Performance Management System: Research, Design, Introduction, and Evaluation
+1981|1.0|1.0|Management Science|Multiple Unit Dispatches in Emergency Services: Models to Estimate System Performance
+1982|0|0.0|Journal of Economics and Business|Vertical performance management: Strategic implications for financial service
+1983|6.0|1.5|ACM Transactions on Computer Systems|PACS: a parallel microprocessor array for scientific calculations
+1984|3.0|2.0|Performance Evaluation|Response time sensitivity measurement for computer systems and general closed queuing networks
+1985|14.0|7.0|Journal of Financial Economics|Performance Measurement with the Arbitrage Pricing Theory: A New Framework for Analysis
+1987|79.0|40.0|Cognitive Psychology|Attentional requirements of learning: Evidence from performance measures
+1988|19.0|19.0|very large data bases|Distributed Concurrency Control Performance: A Study of Algorithms, Distribution, and Replication
+1989|7.0|1.0|Artificial Intelligence in Medicine|Models for measuring performance of medical expert systems
+1990|5.0|0.5|international conference on communications|Monitoring integrated networks for performance management
+1991|6.0|3.0|international conference on data engineering|Performance measurement of some main memory database recovery algorithms
+1992|19.0|3.0|IEEE Transactions on Parallel and Distributed Systems|Performance measurement intrusion and perturbation analysis
+1993|35.0|0.0|Management Science|Manufacturing flexibility: a strategic perspective
+1994|38.0|6.0|Management Information Systems Quarterly|Business reengineering at CIGNA Corporation: experiences and lessons learned from the first five years
+1995|14.0|3.0|integrated network management|An architecture for performance management of multimedia networks
+1996|40.0|2.0|Journal of Finance|Of Tournaments and Temptations: An Analysis of Managerial Incentives in the Mutual Fund Industry
+1997|18.0|2.0|Journal of Lightwave Technology|Automatic fault detection, isolation, and recovery in transparent all-optical networks
+1998|23.0|2.0|Management Science|Structural Comparison of Data Envelopment Analysis and Multiple Objective Linear Programming
+1999|54.0|3.5|Management Accounting Research|Performance management: a framework for management control systems research
+2000|24.0|3.0|Ssrn Electronic Journal|The Determinants of the Flow of Funds of Managed Portfolios: Mutual Funds versus Pension Funds
+2001|62.0|5.0|Journal of Accounting and Economics|Assessing empirical research in managerial accounting: a value-based management perspective
+2002|52.0|3.5|Group & Organization Management|A typology of virtual teams: Implications for effective leadership
+2003|292.0|5.0|international conference on embedded networked sensor systems|Understanding packet delivery performance in dense wireless sensor networks
+2004|120.0|3.0|operating systems design and implementation|Correlating instrumentation data to system states: a building block for automated diagnosis and control
+2005|92.0|4.0|Accounting Organizations and Society|Integrative strategic performance measurement systems, strategic alignment of manufacturing, learning and strategic outcomes: an exploratory study
+2006|98.0|3.0|Expert Systems With Applications|Fuzzy TOPSIS method based on alpha level sets with an application to bridge risk assessment
+2007|76.0|4.0|Computers & Industrial Engineering|Performance measurement of supply chain management: A balanced scorecard approach
+2008|544.0|4.0|international conference on parallel architectures and compilation techniques|The PARSEC benchmark suite: characterization and architectural implications
+2009|142.0|4.0|Management Accounting Research|The design and use of performance management systems: an extended framework for analysis
+2010|104.0|3.0|international symposium on computer architecture|Debunking the 100X GPU vs. CPU myth: an evaluation of throughput computing on CPU and GPU

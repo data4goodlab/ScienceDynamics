@@ -1,0 +1,57 @@
+----  Field Name Health education: 
+----  Field Level 2.0: 
+----  Field Papers Number 9444:
+----  All time max citation paper: Suicide prevention strategies: a systematic review, 2005, (850.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1943|0|0.0|Review of Educational Research|Chapter XII: Health Education
+1948|1.0|1.0|American Journal of Public Health|International Trends in Health Care
+1949|0|0.0|Public Health|Health and health education
+1953|0|0.0|Journal of School Health|HEALTH EDUCATION AT THE COLLEGE LEVEL With particular reference to a course of study offered at the University of California, Berkeley
+1960|1.0|1.0|The Journal of Pediatrics|The Pattern of Malnutrition in Early Childhood in Southern Trinidad.
+1962|0|0.0|Review of Educational Research|Chapter VI: Health Education
+1963|5.0|2.5||Echinococcus Infections in Man and Animals in Kenya
+1965|0|0.0|Journal of School Health|PROBLEMS AND NEEDS IN COLLEGE HEALTH EDUCATION*
+1967|0|0.0|Health Education & Behavior|The Open Society: Its Implications for Health Educators*
+1968|0|0.0|Review of Educational Research|Chapter V: Health Education
+1970|1.0|1.0|Journal of Experimental Education|Effect of Precise Objectives Upon Student Achievement in Health Education.
+1971|5.0|0.0|American Journal of Public Health|Fear appeals and persuasion: the differentiation of a motivational construct.
+1972|1.0|0.5|Journal of School Health|HEALTH ETHICS AND RELEVANT ISSUES
+1973|8.0|1.0|Journal of Geophysical Research|Carbon monoxide in the biosphere: Sources, distribution, and concentrations
+1974|1.0|0.5|Journal of Public Health Dentistry|QUALITY OF INFORMATION IN MASS MEDIA: A BARRIER TO THE DENTAL HEALTH EDUCATION OF THE PUBLIC*
+1975|9.0|2.5|Preventive Medicine|Clinical trials of health education for hypertensive outpatients: Design and baseline data
+1976|3.0|1.5|Preventive Medicine|Primary and secondary prevention among adults: An analysis with comments on screening and health education
+1977|6.0|2.0|Health Education & Behavior|Patient Participation in the Patient-Provider Interaction: The Effects of Patient Question Asking on the Quality of Interaction, Satisfaction and Compliance
+1978|5.0|1.0|The New England Journal of Medicine|Health Education: Panacea, Pernicious or Pointless?
+1979|24.0|1.0|JAMA|Health Education for Hypertensive Patients
+1980|23.0|1.0|Journal of Behavioral Medicine|Prevention of cigarette smoking in seventh grade students
+1981|6.0|1.0|Journal of Nutrition Education|Strategies and Their Rationale for Changing People's Eating Habits.
+1982|13.0|2.0|Social Science & Medicine|Concepts of illness causation and responsibility: Some preliminary data from a sample of working class mothers
+1983|43.0|2.0|The Lancet|BELGIAN HEART DISEASE PREVENTION PROJECT: INCIDENCE AND MORTALITY RESULTS
+1984|16.0|1.0|Journal of Youth and Adolescence|Incidence and Correlates of Bulimic Behavior in a Female High School Population.
+1985|13.0|1.0|The New England Journal of Medicine|Cigarette advertising and media coverage of smoking and health.
+1986|40.0|1.0|Health Education & Behavior|The Role of Self-Efficacy in Achieving Health Behavior Change
+1987|14.0|2.5|JAMA|The Prevention of Acquired Immunodeficiency Syndrome in the United States: An Objective Strategy for Medicine, Public Health, Business, and the Community
+1988|42.0|1.0|JAMA|Preventing the heterosexual spread of AIDS. Are we giving our patients the best advice?
+1989|16.0|2.0|Milbank Quarterly|Epidemiological, Demographic, and Social Correlates of Disability among the Elderly
+1990|33.0|1.0|JAMA|Effects of Communitywide Education on Cardiovascular Disease Risk Factors: The Stanford Five-City Project
+1991|15.0|2.0|American Journal of Public Health|Promoting Physical Activity and a Healthful Diet among Children: Results of a School-Based Intervention Study.
+1992|20.0|2.0|Aids Care-psychological and Socio-medical Aspects of Aids\/hiv|Impediments to safer heterosexual sex: a review of research with young people
+1993|62.0|2.0|Arthritis & Rheumatism|Evidence suggesting that health education for selfmanagement in patients with chronic arthritis has sustained health benefits while reducing health care costs
+1994|32.0|2.0|Health Education & Behavior|Health Education and Community Empowerment: Conceptualizing and Measuring Perceptions of Individual, Organizational, and Community Control
+1995|28.0|2.0|BMJ|Sexual health education interventions for young people: a methodological review.
+1996|37.0|3.0|BMJ|Factor V Leiden: should we screen oral contraceptive users and pregnant women?
+1997|108.0|3.0|JAMA|A randomized trial comparing aerobic exercise and resistance exercise with a health education program in older adults with knee osteoarthritis. The Fitness Arthritis and Seniors Trial (FAST).
+1998|72.0|3.0|Thorax|Smoking Cessation Guidelines for Health ProfessionalsA guide to effective smoking cessation interventions for the health care system
+1999|95.0|6.0|JAMA Pediatrics|Preventing Adolescent Health-Risk Behaviors by Strengthening Protection during Childhood.
+2000|144.0|6.0|Thorax|Smoking cessation guidelines for health professionals: an update
+2001|205.0|6.0|JAMA|Health Information on the Internet: Accessibility, Quality, and Readability in English and Spanish
+2002|195.0|6.0|Thorax|Relationship between exacerbation frequency and lung function decline in chronic obstructive pulmonary disease
+2003|104.0|7.0|Thorax|Bronchodilator reversibility testing in chronic obstructive pulmonary disease
+2004|199.0|7.0|Econometrica|Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities
+2005|299.0|8.0|JAMA|Suicide prevention strategies: a systematic review
+2006|164.0|6.0|Annals of Behavioral Medicine|A systematic review of randomized trials on the effectiveness of computer-tailored education on physical activity and dietary behaviors
+2007|166.0|7.0|Canadian Medical Association Journal|2006 Canadian clinical practice guidelines on the management and prevention of obesity in adults and children [summary]
+2008|405.0|7.0|The Lancet|What works? Interventions for maternal and child undernutrition and survival
+2009|241.0|8.0|Thorax|BTS guidelines for the management of community acquired pneumonia in adults: update 2009
+2010|167.0|7.0|Thorax|Vitamin D deficiency is highly prevalent in COPD and correlates with variants in the vitamin D-binding gene

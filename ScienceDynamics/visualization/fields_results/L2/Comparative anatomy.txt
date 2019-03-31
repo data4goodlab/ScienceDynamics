@@ -1,0 +1,37 @@
+----  Field Name Comparative anatomy: 
+----  Field Level 2.0: 
+----  Field Papers Number 1318:
+----  All time max citation paper: Prevalence and Extent of Atherosclerosis in Adolescents and Young Adults: Implications for Prevention From the Pathobiological Determinants of Atherosclerosis in Youth Study, 1999, (406.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1974|2.0|1.5|British Journal of Pharmacology|THE USE OF STEREOTACTIC DISSECTION FOLLOWED BY FLUORIMETRIC ASSAY, TO DETERMINE THE DISTRIBUTION OF NORADRENALINE, DOPAMINE AND 5HYDROXYTRYPTAMINE IN THE PREOPTIC HYPOTHALAMIC AREA OF RABBIT BRAIN: AN ALTERNATIVE APPROACH TO HISTOCHEMISTRY
+1978|1.0|1.0|Computers & Mathematics With Applications|Analysis of dissection algorithms for vector computers
+1979|1.0|1.0|Zoological Journal of the Linnean Society|The braincase of Typhlops and Leptotyphlops (Reptilia: Serpentes)
+1980|7.0|3.5|Zoological Journal of the Linnean Society|A reconsideration of the reptilian relationships of Archaeopteryx
+1981|22.0|12.5|Brain Research|Topographical localization of choline acetyltransferase within the human spinal cord and a comparison with some other species
+1984|9.0|9.0|Brain Research|Muscarinic binding sites in small homogenates and in autoradiographic sections from rat and human spinal cord
+1986|14.0|3.0|The Journal of Comparative Neurology|Comparative anatomy of the ventromedial mesencephalic tegmentum in the rat, cat, monkey and human
+1987|2.0|2.0|Experimental Eye Research|Specular microscopy of vertebrate corneal endothelium: a comparative study
+1988|7.0|7.0|The Journal of Comparative Neurology|A cytoarchitectonic atlas of the medial geniculate body of the opossum, Didelphys virginiana, with a comment on the posterior intralaminar nuclei of the thalamus
+1989|14.0|11.0|The Journal of Comparative Neurology|Anatomy of the auditory thalamocortical system of the guinea pig
+1990|14.0|5.0|The Journal of Comparative Neurology|Cytoarchitectonic atlas of the cochlear nucleus of the chinchilla, Chinchilla laniger
+1991|4.0|1.0|American Biology Teacher|Hi-Tech Alternatives to Dissection
+1992|11.0|4.0|Clinical Anatomy|The dissecting room: Reactions of first year medical students
+1993|26.0|1.0|The Journal of Comparative Neurology|Connections of somatosensory cortex in megachiropteran bats: The evolution of cortical fields in mammals
+1994|8.0|4.0|Clinical Anatomy|Human dissection and attitudes of preclinical students to death and bereavement
+1995|8.0|5.0|The Lancet|Donors' attitudes towards body donation for dissection
+1996|42.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A survey of methods and strategies in character segmentation
+1997|27.0|1.5|Surgery|Two types of mucin-producing cystic tumors of the pancreas: diagnosis and treatment.
+1998|25.0|2.0|Hypertension|Uncoupling of the Baroreflex by NN-Cholinergic Blockade in Dissecting the Components of Cardiovascular Regulation
+1999|109.0|3.0|JAMA|Prevalence and Extent of Atherosclerosis in Adolescents and Young Adults: Implications for Prevention From the Pathobiological Determinants of Atherosclerosis in Youth Study
+2000|49.0|5.5|Journal of Clinical Pathology|Laser capture microdissection in pathology.
+2001|123.0|3.5|Annals of Surgery|Multicenter Trial of Sentinel Node Biopsy for Breast Cancer Using Both Technetium Sulfur Colloid and Isosulfan Blue Dye
+2002|77.0|5.0|BMJ|Randomised trials in surgery: problems and possible solutions
+2003|105.0|3.0|Annual Review of Physiology|Genetic Dissection of Cardiac Growth Control Pathways
+2004|42.0|7.0|BJUI|The technique of apical dissection of the prostate and urethrovesical anastomosis in robotic radical prostatectomy
+2005|57.0|3.0|BJUI|Anatomical radical retropubic prostatectomy: curtain dissection of the neurovascular bundle
+2006|60.0|4.0|European Journal of Vascular and Endovascular Surgery|Great Vessel Management for Endovascular Exclusion of Aortic Arch Aneurysms and Dissections
+2007|44.0|5.0|World Journal of Surgery|Risk factors for recurrence to the lymph node in papillary thyroid carcinoma patients without preoperatively detectable lateral node metastasis: validity of prophylactic modified radical neck dissection.
+2008|164.0|6.0|Nature Genetics|Hypomorphic mutations in syndromic encephalocele genes are associated with Bardet-Biedl syndrome
+2009|136.0|4.0|Nature Protocols|Quantification of oxygen-induced retinopathy in the mouse: a model of vessel loss, vessel regrowth and pathological angiogenesis.
+2010|108.0|4.0|BMC Genomics|Dynamic, mating-induced gene expression changes in female head and brain tissues of Drosophila melanogaster.

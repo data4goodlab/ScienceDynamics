@@ -1,0 +1,53 @@
+----  Field Name Control engineering: 
+----  Field Level 1.0: 
+----  Field Papers Number 5908:
+----  All time max citation paper: Supervisory control of a class of discrete event processes, 1987, (1171.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1962|1.0|1.0|IEEE Transactions on Information Theory|Zero-crossing intervals of Gaussian processes
+1963|5.0|5.0||Generalized multiprocessing and multiprogramming systems
+1966|1.0|1.0|Electronics Letters|Extension of the state-space method to the analysis of discrete systems with finite delays
+1967|1.0|1.0|Journal of Spacecraft and Rockets|Sensitivity of manned planetary spacecraft design to radiation uncertainties.
+1968|0|0.0|Proceedings of The Institution of Electrical Engineers|Dynamic performance of a turboalternator utilising 3-term governor control and voltage regulation
+1969|3.0|1.5|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|Linear and nonlinear models of the human controller
+1970|6.0|2.0|ACM Computing Surveys|Digital control of industrial processes
+1971|7.0|1.0|Proceedings of the IEEE|Separation of estimation and control for discrete time systems
+1972|4.0|3.0|Journal of Aircraft|Automated procedures for sizing aerospace vehicle structures /SAVES/
+1973|1.0|0.5||Orbiting Astronomical Observatory heat pipe flight performance data.
+1974|0|0.0||The definition and specification of the near earth environmental criteria for spacecraft thermal design
+1975|7.0|0.0|IEEE Transactions on Information Theory|Process definitions of distortion-rate functions and source coding theorems
+1976|13.0|4.5||On The Consistency of Prediction Error Identification Methods
+1977|61.0|16.5|Automatica|Theory and Applications of Self-Tuning Regulators
+1978|6.0|4.0|International Journal of Control|Convergence of an Adaptive Filter Algorithm
+1979|23.0|12.5|Linear Algebra and its Applications|New inversion formulas for matrices classified in terms of their distance from Toeplitz matrices
+1980|5.0|2.5|Automatica|Microcomputer based self-tuning and self-selecting controllers
+1981|17.0|3.0|Automatica|Analysis of a general recursive prediction error identification algorithm
+1982|6.0|3.0|Water Resources Research|Reliability programing in reservoir management: 3. System of multipurpose reservoirs
+1983|9.0|3.0|Automatica|PERSPECTIVES ON HUMAN PERFORMANCE MODELLING
+1984|9.0|2.5|international conference on robotics and automation|ARM: An algebraic robot dynamic modeling program
+1985|10.0|3.5|Mechanism and Machine Theory|Properties and structure of dynamic robot models for control engineering applications
+1986|21.0|4.0|Combustion and Flame|Chemical kinetics of the high pressure oxidation of n-butane and its relation to engine knock
+1987|81.0|1.0|Siam Journal on Control and Optimization|Supervisory control of a class of discrete event processes
+1988|14.0|1.0|Information Sciences|Decentralized supervisory control of discrete-event systems
+1989|15.0|1.0|Management Information Systems Quarterly|Linking the information technology structure with organizational competitive strategy: a survey
+1990|29.0|2.0|Automatica|Adaptation and tracking in system identificationa survey
+1991|82.0|2.0|IEEE Transactions on Automatic Control|Systematic design of adaptive controllers for feedback linearizable systems
+1992|34.0|2.0|IEEE Transactions on Automatic Control|Hard frequency-domain model error bounds from least-squares like identification techniques
+1993|66.0|2.0|IEEE Transactions on Fuzzy Systems|Stable adaptive fuzzy control of nonlinear systems
+1994|29.0|2.0|IEEE Transactions on Automatic Control|Supervisory control of timed discrete-event systems
+1995|96.0|2.0|Automatica|Nonlinear black-box modeling in system identification: a unified overview
+1996|44.0|2.0|IEEE Transactions on Automatic Control|Supervisory control of families of linear set-point controllers - Part I. Exact matching
+1997|64.0|2.0|Protein Science|Taxonomy and function of C1 protein kinase C homology domains.
+1998|85.0|2.0|IEEE Transactions on Automatic Control|Computation of piecewise quadratic Lyapunov functions for hybrid systems
+1999|69.0|2.0|IEEE Transactions on Control Systems and Technology|A control engineer's guide to sliding mode control
+2000|71.0|2.0|Nature|Performance monitoring by the supplementary eye field
+2001|34.0|3.0|systems man and cybernetics|Experiments in adjustable autonomy
+2002|100.0|3.0|IEEE Transactions on Signal Processing|Particle filters for positioning, navigation, and tracking
+2003|106.0|4.0|Physics Today|Quantum physics under control
+2004|178.0|3.0|IEEE Transactions on Automatic Control|Cooperative control of mobile sensor networks:Adaptive gradient climbing in a distributed environment
+2005|93.0|2.0|IEEE Signal Processing Magazine|Mobile positioning using wireless networks: possibilities and fundamental limitations based on available wireless network measurements
+2006|122.0|3.0|international conference on software engineering|Model-based development of dynamically adaptive software
+2007|94.0|3.0|NeuroImage|Prefrontal involvement in imitation learning of hand actions: Effects of practice and expertise
+2008|102.0|3.0|Chemical Engineering Science|Model-based design of experiments for parameter precision: State of the art
+2009|173.0|2.0|IEEE Transactions on Industrial Electronics|From PID to Active Disturbance Rejection Control
+2010|131.0|3.0|Behaviour & Information Technology|User involvement: A review of the benefits and challenges

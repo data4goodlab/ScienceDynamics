@@ -1,0 +1,43 @@
+----  Field Name Etymology: 
+----  Field Level 2.0: 
+----  Field Papers Number 5456:
+----  All time max citation paper: To each plutonic rock its proper name, 1976, (885.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1961|0|0.0|Journal of the ACM|A Study of Methods for Systematically Abbreviating English Words and Names
+1969|0|0.0|international joint conference on artificial intelligence|A lifelike model for associative relevance
+1975|16.0|16.0||Economic analysis of projects
+1976|36.0|36.0|Earth-Science Reviews|To each plutonic rock its proper name
+1978|1.0|0.0|American Speech|American Lexicology, 1942-1973.
+1979|1.0|1.0|Memory & Cognition|Retrieval processes in distance cognition
+1980|0|0.0||Imprecation and righteousness in Psalm 35
+1981|3.0|3.0|Philosophical Studies|Demonstrative reference and definite descriptions
+1982|9.0|1.0|ACM Transactions on Database Systems|Read-only transactions in a distributed database
+1983|0|0.0|Poetics|Proper names, definite descriptions and the intensional structure of Kafka's the trial
+1984|26.0|6.0|Journal of Verbal Learning and Verbal Behavior|A characteristic-to-defining shift in the development of word meaning
+1985|25.0|3.0|Allergy|Cytokines cause functional and structural damage to isolated islets of Langerhans.
+1986|11.0|6.0|New Phytologist|STOMATALDEPENDENT AND STOMATALINDEPENDENT UPTAKE OF NOx
+1987|15.0|5.0|Journal of Experimental Psychology: General|References in conversation between experts and novices
+1988|3.0|1.0||Intraday Yen/Dollar Exchange Rate Movements: News or Noise?
+1989|8.0|2.0|Carbon|Effect of -FeOOH dispersion on adsorption characteristics of pitch-based activated carbon fibers against NO, SO 2 , and NH 3
+1990|6.0|4.5|Carbon|A spectroscopic and gravimetric study of the soot-NO2N2O4 reaction at various temperatures
+1991|115.0|4.0|FEBS Letters|Widespread tissue distribution, species distribution and changes in activity of Ca(2+)-dependent and Ca(2+)-independent nitric oxide synthases.
+1992|50.0|4.0|FEBS Letters|NO, CO and OH Endogenous soluble guanylyl cyclase-activating factors
+1993|76.0|8.0|Neuroscience|The localization of nitric oxide synthase in the rat eye and related cranial ganglia
+1994|64.0|3.0|The Journal of Pediatrics|Inhaled nitric oxide in infants referred for extracorporeal membrane oxygenation: Dose response
+1995|32.0|6.5|Advances in Neuroimmunology|Cytokines in sleep regulation.
+1996|49.0|7.0|FEBS Letters|Molecular cloning of cDNA for nonhepatic mitochondrial arginase (arginase II) and comparison of its induction with nitric oxide synthase in a murine macrophage-like cell line
+1997|74.0|7.0|Trends in Pharmacological Sciences|Soluble guanylate cyclase: the forgotten sibling
+1998|151.0|6.0|Trends in Pharmacological Sciences|Role of poly(ADP-ribose) synthetase in inflammation and ischaemiareperfusion
+1999|117.0|4.0|Gastroenterology|Increased expression and cellular localization of inducible nitric oxide synthase and cyclooxygenase 2 in Helicobacter pylori gastritis
+2000|100.0|7.0|Gastroenterology|Nonsteroidal anti-inflammatory drug gastropathy
+2001|77.0|7.0|Anatomical Record-advances in Integrative Anatomy and Evolutionary Biology|Vagal-enteric interface: vagal activation-induced expression of c-Fos and p-CREB in neurons of the upper gastrointestinal tract and pancreas.
+2002|100.0|5.0|Journal of Psychosomatic Research|Stress, inflammation and cardiovascular disease
+2003|100.0|6.0|Gastroenterology|Oxidants and antioxidants in alcohol-induced liver disease
+2004|167.0|8.0|Journal of the American College of Cardiology|Multiple, brief coronary occlusions during early reperfusion protect rabbit hearts by targeting cell signaling pathways
+2005|143.0|7.0|Journal of the American College of Cardiology|Sirolimus-Eluting Stents Associated With Paradoxic Coronary Vasoconstriction
+2006|188.0|7.0|Plant Journal|ABAinduced NO generation and stomatal closure in Arabidopsis are dependent on H2O2 synthesis
+2007|244.0|7.0|Journal of the American College of Cardiology|Role of Endothelial Shear Stress in the Natural History of Coronary Atherosclerosis and Vascular Remodeling: Molecular, Cellular, and Vascular Behavior
+2008|155.0|7.0|FEBS Letters|The antioxidant properties of serum albumin
+2009|259.0|6.0|Journal of the American College of Cardiology|Cellular and molecular basis of pulmonary arterial hypertension
+2010|163.0|7.0|Hypertension|Inorganic Nitrate Supplementation Lowers Blood Pressure in Humans Role for Nitrite-Derived NO

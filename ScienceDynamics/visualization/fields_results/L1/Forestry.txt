@@ -1,0 +1,53 @@
+----  Field Name Forestry: 
+----  Field Level 1.0: 
+----  Field Papers Number 15340:
+----  All time max citation paper: Historical overfishing and the recent collapse of coastal ecosystems, 2001, (2428.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1954|1.0|1.0|Arctic|Limnology in the North American Arctic and Subarctic
+1959|0|0.0|Journal of Dairy Science|Tritium RadioactiveCasein and Cheese Ripening
+1960|1.0|1.0|Ecology|Factors important to yellow birch establishment in Upper Michigan.
+1967|0|0.0|Theoretical and Applied Genetics|Modern problems of population genetics in animal husbandry
+1968|0|0.0|Journal of Dairy Science|Environmental Influences on Production in 100 Dairy Herds1,2
+1969|4.0|2.5|Planta|Ethylene and carbon dioxide as mediators in the response of the bean hypocotyl hook to light and auxins
+1970|19.0|3.0|European Journal of Plant Pathology|On the specificity of the in vitro and in vivo antifungal activity of benomyl.
+1971|9.0|9.0|Planta|A model describing photosynthesis in terms of gas diffusion and enzyme kinetics
+1972|0|0.0||Seed eluates on the germination blotter : a germinability test?
+1973|5.0|5.0|Cell and Tissue Research|A scanning electron microscopic study of secondary lamellae and chloride cells of rainbow trout ( Salmo gairdneri )
+1974|2.0|1.5|Biocontrol|Effectiveness of supervised control practices in lowering population densities of synanthropic flies on poultry ranches.
+1975|11.0|6.0|International Review of Neurobiology|Aggression and Central Neurotransmitters
+1976|2.0|1.0|Planta|Cell elongation in the grass pulvinus in response to geotropic stimulation and auxin application
+1977|23.0|1.0|Neuroscience|Immunohistochemical evidence of vasoactive intestinal polypeptide-containing neurons and nerve fibers in sympathetic ganglia
+1978|29.0|2.0||Pharmacology and Neurochemistry of Apomorphine
+1979|73.0|3.0|Neuroscience|Enkephalin immunoreactive nerve fibres and cell bodies in sympathetic ganglia of the guinea-pig and rat
+1980|41.0|3.5|Neuroscience|The locus coeruleus in the rat: An immunohistochemical delineation
+1981|9.0|1.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Dendritic impulse initiation in an epithelial sensory neuron
+1982|42.0|1.0|Neuroscience|Co-storage of enkephalins and adrenaline in the bovine adrenal medulla
+1983|9.0|0.5|Psychoneuroendocrinology|Molecular mechanisms of neuroendocrine integration in the central nervous system: An approach through the study of the pineal gland and its innervating sympathetic pathway
+1984|42.0|2.0|Gastroenterology|Origins of Peptide and Norepinephrine Nerves in the Mucosa of the Guinea Pig Small Intestine
+1985|6.0|1.0|Planta|Interactive effects of light, leaf temperature, CO 2 and O 2 on photosynthesis in soybean
+1986|33.0|3.0|Neuroscience|Efferent projections of nucleus locus coeruleus: Morphologic subpopulations have different efferent targets
+1987|29.0|4.0|Neuroscience|Gamma-aminobutyrate-like immunoreactivity in the thalamus of the cat
+1988|22.0|4.0|Neuroscience|Studies on dopamine-, tyrosine hydroxylase-and aromatic l-amino acid decarylase-containing cells in the rat diencephalon: Comparison between formaldehyde-induced histofluorescence and immunofluorescence
+1989|48.0|1.0|Neuroscience|Co-release of neuropeptide Y and noradrenaline from pig spleen in vivo: importance of subcellular storage, nerve impulse frequency and pattern, feedback regulation and resupply by axonal transport.
+1990|19.0|2.0|Journal of Hydrology|Modelling stream acidification in afforested catchments: An assessment of the relative effects of acid deposition and afforestation
+1991|27.0|2.0|Neuroscience|A comparative analysis of neurons containing catecholamine-synthesizing enzymes and neuropeptide Y in the ventrolateral medulla of rats, guinea-pigs and cats
+1992|52.0|3.0|Neuroscience|Behaviour-dependent changes in acetylcholine release in normal and graft-reinnervated hippocampus: Evidence for host regulation of grafted cholinergic neurons
+1993|41.0|2.0|Neuroscience|Decreased density of forebrain cholinergic neurons in experimental autoimmune dementia
+1994|40.0|4.0|Journal of Geophysical Research|An improved model for estimating emissions of volatile organic compounds from forests in the eastern United States
+1995|74.0|3.0|Fems Microbiology Letters|vanAmediated highlevel glycopeptide resistance in Enterococcus faecium from animal husbandry
+1996|56.0|3.0|Immunology Today|IL-4 and IL-13 receptors: are they one and the same?
+1997|375.0|3.0|Nature|A family of cytokine-inducible inhibitors of signalling
+1998|90.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Gene discovery in the wood-forming tissues of poplar: Analysis of 5,692 expressed sequence tags
+1999|60.0|4.0|Remote Sensing of Environment|Use of Large-Footprint Scanning Airborne Lidar To Estimate Forest Stand Characteristics in the Western Cascades of Oregon
+2000|113.0|5.0|Gastroenterology|Genotypic analysis of thiopurine S-methyltransferase in patients with Crohn's disease and severe myelosuppression during azathioprine therapy
+2001|434.0|5.0|Science|Historical overfishing and the recent collapse of coastal ecosystems
+2002|155.0|5.0|American Heart Journal|Tako-tsubo-like left ventricular dysfunction with ST-segment elevation: A novel cardiac syndrome mimicking acute myocardial infarction
+2003|119.0|6.0||Good practice guidance for land use, land-use change and forestry.
+2004|124.0|7.0|BioScience|A Continuous Satellite-Derived Measure of Global Terrestrial Primary Production
+2005|178.0|7.0|Water Resources Research|Surface water acidification responses and critical loads of sulfur and nitrogen deposition in Loch Vale watershed, Colorado
+2006|231.0|8.0|Nature|Modelling conservation in the Amazon basin
+2007|406.0|7.0|Biological Reviews|Integrating animal temperament within ecology and evolution
+2008|242.0|7.0|Philosophical Transactions of the Royal Society B|Greenhouse gas mitigation in agriculture
+2009|492.0|7.0|Science|Widespread increase of tree mortality rates in the western United States.
+2010|1401.0|8.0|PLOS ONE|The Spatial Expansion and Ecological Footprint of Fisheries (1950 to Present)

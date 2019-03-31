@@ -1,0 +1,44 @@
+----  Field Name Spatial ecology: 
+----  Field Level 2.0: 
+----  Field Papers Number 9588:
+----  All time max citation paper: Long-term species, sexual and individual variations in foraging strategies of fur seals revealed by stable isotopes in whiskers., 2012, (1961.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1964|3.0|3.0|Physics of Fluids|Kolmogorov's Hypotheses and Eulerian Turbulence Theory
+1972|13.0|13.0|Journal of Geophysical Research|Analysis of threestation interplanetary scintillation
+1975|11.0|11.0|Marine Biology|Environmental grain and polychaete species' diversity in a bathyal benthic community
+1976|5.0|1.0|Journal of Geophysical Research|Planetary scale wave response to auroral heating of the neutral atmosphere
+1977|4.0|1.0|Journal of Atmospheric and Solar-Terrestrial Physics|E-region dynamics
+1978|21.0|8.0|Journal of Atmospheric and Solar-Terrestrial Physics|Microscopic plasma processes related to reconnection
+1979|11.0|6.0|Physics of Fluids|Possible inverse cascade behavior for driftwave turbulence
+1980|25.0|8.0|Geophysical Research Letters|Mantle plumes and the thermal stability of the D layer
+1981|35.0|6.0|Journal of Geophysical Research|Upstream particles observed in the Earth's foreshock region
+1982|21.0|6.0|Journal of Geophysical Research|Nonlocal plasma turbulence associated with interplanetary shocks
+1983|33.0|4.0|Journal of Fluid Mechanics|Scaling of the bursting frequency in turbulent boundary layers
+1984|10.0|2.5|Journal of Geophysical Research|Particle acceleration parallel and perpendicular to the magnetic field observed by DE2
+1985|14.0|5.0|Icarus|Voyager 1 imaging and IRIS observations of Jovian methane absorption and thermal emission: Implications for cloud structure
+1986|36.0|5.5|Journal of Geophysical Research|Signatures in the dayside aurora of plasma transfer from the magnetosheath
+1987|27.0|5.0|Journal of Fluid Mechanics|The growth and breakdown of streamwise vortices in the presence of a wall
+1988|40.0|1.0|Journal of Geophysical Research|Electron density depletions in the nightside auroral zone
+1989|30.0|3.5|Journal of Geophysical Research|Ozone in rural areas of the United States
+1990|30.0|4.0|Journal of Geophysical Research|Midday auroral breakup events and related energy and momentum transfer from the magnetosheath
+1991|78.0|5.5|Reviews of Geophysics|Approaches to the simulation of regional climate change: A review
+1992|51.0|4.0|Image and Vision Computing|Scale and the differential structure of images
+1993|84.0|4.0|Paleoceanography|Patterns of IceRafted Detritus in the Glacial North Atlantic (4055N)
+1994|33.0|6.0|Catena|Effects of rock fragments on soil erosion by water at different spatial scales: a review
+1995|54.0|3.0|Agroforestry Systems|Science in agroforestry
+1996|65.0|3.0|Oikos|The species pool and its relation to species richness: Evidence from Estonian plant communities
+1997|77.0|5.0|Journal of Geophysical Research|Precise point positioning for the efficient and robust analysis of GPS data from large networks
+1998|67.0|6.0|Oecologia|A comparative analysis of nested subset patterns of species composition
+1999|109.0|6.0|Nature|The arrangement of the three cone classes in the living human eye
+2000|128.0|6.0|Trends in Ecology and Evolution|Spatial patterns of seed dispersal, their determinants and consequences for recruitment
+2001|123.0|6.5|Proceedings of the National Academy of Sciences of the United States of America|Multiscale assessment of patterns of avian species richness
+2002|178.0|8.0|Nature|Biodiversity as a barrier to ecological invasion
+2003|328.0|9.0|Annual Review of Ecology, Evolution, and Systematics|Effects of Habitat Fragmentation on Biodiversity
+2004|346.0|11.0|Ecology Letters|The metacommunity concept: a framework for multiscale community ecology
+2005|197.0|10.0|Trends in Ecology and Evolution|Using the satellite-derived NDVI to assess ecological responses to environmental change
+2006|687.0|9.0|Science|Impacts of Biodiversity Loss on Ocean Ecosystem Services
+2007|384.0|10.0|Journal of Statistical Software|The ecodist Package for Dissimilarity-based Analysis of Ecological Data
+2008|224.0|11.0|Ecological Monographs|Cross-Scale Morphology, Geometry, and Dynamics of Ecosystems
+2009|888.0|11.0|PLOS ONE|Long-Term GPS Tracking of Ocean Sunfish Mola mola Offers a New Direction in Fish Monitoring
+2010|1437.0|9.0|PLOS ONE|Marine Reserves Enhance the Recovery of Corals on Caribbean Reefs

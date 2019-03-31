@@ -1,0 +1,65 @@
+----  Field Name Computed tomography
+----  Field Level 2.0
+----  Field Papers Number 60583
+----  All time max citation paper Quantification of coronary artery calcium using ultrafast computed tomography., 1990, (2902.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|1.0|1.0|JAMA|TUBERCULOSIS IN HOSPITAL PERSONNEL
+1946|12.0|12.0|American Journal of Orthodontics and Oral Surgery|The frankfort-mandibular plane angle in orthodontic diagnosis, classification, treatment planning, and prognosis
+1950|2.0|1.0|JAMA|Diagnosis of Pulmonary Lesions discovered by Mass Roentgenographic Survey.
+1952|0|0.0|Journal of Prosthetic Dentistry|Treatment planning for adjusting articulation
+1954|2.0|2.0|JAMA|ACUTE BRONCHOPNEUMONIC HISTOPLASMOSIS FOLLOWING EXPOSURE TO INFECTED GARDEN SOIL
+1955|0|0.0|British Journal of Tuberculosis and Diseases of The Chest|The control of pulmonary tuberculosis in a group of industrial establishments
+1956|11.0|6.0|JAMA|LONGEVITY AND CAUSES OF DEATH FROM IRRADIATION IN PHYSICIANS
+1958|3.0|1.0|American Journal of Orthodontics|Diagnosis and treatment planning via roentgenographic cephalometry
+1959|0|0.0|Journal of Prosthetic Dentistry|Treatment planning for occlusal rehabilitation
+1960|5.0|1.0|American Journal of Orthodontics|Development of a treatment plan in the light of one's concept of treatment objectives
+1961|0|0.0|JAMA Pediatrics|Histoplasma meningitis. Recovery following amphotericin B therapy.
+1962|2.0|1.0|Oral Surgery, Oral Medicine, Oral Pathology|A new device to reduce patient irradiation and improve dental film quality
+1964|2.0|1.0|American Journal of Anatomy|Persistent stunting following xirradiation of the fetus
+1965|10.0|5.5|Journal of Geophysical Research|Balloon observations of auroral zone X rays in conjugate regions: 1. Slow time variations
+1966|3.0|1.5|Journal of the American Dental Association|THE OPEN-ENDED METAL COLUMN FOR THE DENTAL X-RAY MACHINE.
+1967|20.0|1.0|Journal of Geophysical Research|Spatial characteristics of auroralzone Xray microbursts
+1968|2.0|1.0|Oral Surgery, Oral Medicine, Oral Pathology|RADIATION DOSIMETRY IN PANOREX ROENTGENOGRAPHY. PART III. RADIATION DOSE MEASUREMENTS.
+1969|10.0|2.0|American Journal of Anatomy|Uptake and storage of thorotrast by the rodent yolk sac placenta: An electron microscopic study
+1970|13.0|3.0|Clinica Chimica Acta|A rapid enzymic method for glycogen estimation in very small tissue samples
+1971|19.0|0.0|Cancer|Response of lymphocytes from patients with gastrointestinal cancer to the carcinoembryonic antigen of the human digestive system
+1972|9.0|7.5|Journal of Geophysical Research|Auroral Xray and conjugate ionospheric absorption observations of an electron precipitation event accompanying a sudden impulse in the geomagnetic field
+1973|13.0|0.5|Journal of Experimental Medicine|Activation of Hageman factor in solid and fluid phases. A critical role of kallikrein.
+1974|31.0|3.5|Cancer|Carcinoembryonic antigen: Clinical correlation with chemotherapy for metastatic gastrointestinal cancer
+1975|22.0|3.0|Cancer|Clinical management of advanced gastrointestinal cancer
+1976|48.0|2.0|Cancer|Phase III comparison of the treatment of advanced gastrointestinal cancer with bolus weekly 5FU vs. methylCCNU plus bolus weekly 5FU. A southwest oncology group study
+1977|23.0|3.0|Neuroradiology|Age and sex dependence of the size of normal ventricles on computed tomography
+1978|20.0|2.0|The New England Journal of Medicine|Medical Implications of Computed Tomography (Cat Scanning)
+1979|20.0|3.0|Psychiatry Research-neuroimaging|Sulcal prominence in young chronic schizophrenic patients: CT scan findings associated with impairment on neuropsychological tests
+1980|32.0|2.0|The Journal of Comparative Neurology|Subcortical afferent connections of the amygdala in the monkey
+1981|45.0|2.0|Annals of Neurology|18FDG positron emission computed tomography in a study of aphasia
+1982|63.0|2.0|The Journal of Allergy and Clinical Immunology|Allergen-induced increase in bronchial responsiveness to histamine: relationship to the late asthmatic response and change in airway caliber
+1983|52.0|2.0|Schizophrenia Bulletin|Neuropathological Studies of Schizophrenia: A Selective Review
+1984|50.0|2.0|Annals of Neurology|A quantitative model for the in vivo assessment of drug binding sites with positron emission tomography.
+1985|73.0|2.0|Bone|Quantitative computed tomography for prediction of vertebral fracture risk
+1986|63.0|1.0|The New England Journal of Medicine|Reversibility of cardiac wall-motion abnormalities predicted by positron tomography.
+1987|63.0|2.0|Journal of the American College of Cardiology|Positron emission tomography detects tissue metabolic activity in myocardial segments with persistent thallium perfusion defects
+1988|96.0|2.0|Archives of General Psychiatry|Central D2-Dopamine Receptor Occupancy in Schizophrenic Patients Treated With Antipsychotic Drugs
+1989|61.0|2.0|American Journal of Cardiology|Positron emission tomography using fluorine-18 deoxyglucose in evaluation of coronary artery bypass grafting
+1990|56.0|2.0|Archives of General Psychiatry|D2 Dopamine Receptors in Neuroleptic-Naive Schizophrenic Patients: A Positron Emission Tomography Study With [11C]Raclopride
+1991|112.0|2.0|Annals of Vascular Surgery|Transfemoral intraluminal graft implantation for abdominal aortic aneurysms.
+1992|54.0|2.0|Echocardiography-a Journal of Cardiovascular Ultrasound and Allied Techniques|ThreeDimensional and FourDimensional Transesophageal Echocardiographic Imaging of the Heart and Aorta in Humans Using a Computed Tomographic Imaging Probe
+1993|101.0|2.0|IEEE Engineering in Medicine and Biology Magazine|Medical image matching-a review with classification
+1994|109.0|2.0|IEEE Transactions on Medical Imaging|Accelerated image reconstruction using ordered subsets of projection data
+1995|109.0|2.0|The Journal of Nuclear Medicine|Automatic Quantification of Ejection Fraction from Gated Myocardial Perfusion SPECT
+1996|137.0|2.0|The Lancet|15-year longitudinal study of blood pressure and dementia
+1997|166.0|3.0|IEEE Transactions on Medical Imaging|Multimodality image registration by maximization of mutual information
+1998|110.0|3.0|Journal of the American College of Cardiology|Arterial Calcification and Not Lumen Stenosis Is Highly Correlated With Atherosclerotic Plaque Burden in Humans: A Histologic Study of 723 Coronary Artery Segments Using Nondecalcifying Methodology
+1999|150.0|4.0|Hepatology|Independent predictors of liver fibrosis in patients with nonalcoholic steatohepatitis
+2000|218.0|4.0|Journal of the American College of Cardiology|Prediction of coronary events with electron beam computed tomography
+2001|178.0|4.0|Journal of the American College of Cardiology|Noninvasive detection and evaluation of atherosclerotic coronary plaques with multislice computed tomography
+2002|468.0|5.0|Circulation|Reliable Noninvasive Coronary Angiography With Fast Submillimeter Multislice Spiral Computed Tomography
+2003|506.0|5.0|Circulation|Detection of Coronary Artery Stenoses With Thin-Slice Multi-Detector Row Spiral Computed Tomography and Multiplanar Reconstruction
+2004|267.0|5.0|Circulation|Detection of Calcified and Noncalcified Coronary Atherosclerotic Plaque by Contrast-Enhanced, Submillimeter Multidetector Spiral Computed Tomography A Segment-Based Comparison With Intravascular Ultrasound
+2005|694.0|6.0|Journal of the American College of Cardiology|Diagnostic accuracy of noninvasive coronary angiography using 64-slice spiral computed tomography
+2006|507.0|6.0|European Radiology|First performance evaluation of a dual-source CT (DSCT) system.
+2007|981.0|5.0|The New England Journal of Medicine|Computed tomography--an increasing source of radiation exposure.
+2008|409.0|5.0|Journal of the American College of Cardiology|Diagnostic Accuracy of 64-Slice Computed Tomography Coronary Angiography: A Prospective, Multicenter, Multivendor Study
+2009|438.0|5.0|The Journal of Urology|Guideline for Management of the Clinical T1 Renal Mass
+2010|458.0|5.0|IEEE Transactions on Medical Imaging|elastix : A Toolbox for Intensity-Based Medical Image Registration

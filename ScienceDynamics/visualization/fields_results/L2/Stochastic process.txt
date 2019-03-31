@@ -1,0 +1,80 @@
+----  Field Name Stochastic process: 
+----  Field Level 2.0: 
+----  Field Papers Number 351999:
+----  All time max citation paper: Densityfunctional thermochemistry. III. The role of exact exchange, 1993, (36896.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1927|0|0.0|Philosophical Magazine Series 1|XLV. Application of Schrdinger's wave functions to the calculation of transition probabilities for the principal series of sodium
+1934|3.0|3.0|Journal of Chemical Physics|The InterRelations of Hydrogen and Deuterium Molecules
+1937|5.0|2.5|Transactions of the American Mathematical Society|Stochastic processes depending on a continuous parameter
+1938|9.0|5.5|Journal of Chemical Physics|A Kinetic Approach to the Theory of Conductance of Infinitely Dilute Solutions, Based on the ``Cage'' Model of Liquids
+1939|1.0|1.0|Botanical Review|Injuries to plants caused by insect toxins. II.
+1940|1.0|1.0|Journal of Dairy Science|The Effect of Phosphoric Acid Silage on the Acid-Base Balance in Dairy Cows
+1941|0|0.0|Bulletin of Mathematical Biology|Statistical distribution of impedance elements in biological systems
+1943|2.0|2.0|Physica D: Nonlinear Phenomena|Determination of the relative transition probabilities of some triplet lines in the atomic spectra of calcium and strontium
+1944|0|0.0|Annals of Mathematical Statistics|On the Probability Theory of Linkage in Mendelian Heredity
+1946|5.0|1.0|Psychometrika|Variation in test validity with variation in the distribution of item difficulties, number of items, and degree of their intercorrelation
+1947|3.0|3.0|Annals of Mathematical Statistics|On Optimum Tests of Composite Hypotheses With one Constraint
+1948|4.0|1.0|Transactions of the American Mathematical Society|Asymptotic properties of Markoff transition prababilities
+1949|13.0|0.5|Journal of Chemical Physics|TripletSinglet Transitions in Organic Molecules. Lifetime Measurements of the Triplet State
+1950|10.0|1.0|Journal of Chemical Physics|Kinetics of OH Radicals from Flame Emission Spectra. II. Rotational and Vibrational Distribution Functions and Temperature Determinations in the 2+2 Transition of OH
+1951|9.0|1.0|Journal of Chemical Physics|The Exchange of Water Between Hydrated Cations and Solvent
+1952|9.0|5.0|Journal of Chemical Physics|Gaseous Detonations. III. Dissociation Energies of Nitrogen and Carbon Monoxide
+1953|22.0|1.0|Journal of Chemical Physics|A Theory of the Linear Viscoelastic Properties of Dilute Solutions of Coiling Polymers
+1954|10.0|3.0|Bulletin of the American Mathematical Society|The theory of dynamic programming
+1955|8.0|1.0|Journal of Applied Physics|Electron Microscopy of Monodisperse Latexes
+1956|10.0|1.0|Journal of Chemical Physics|Statistical Mechanical Theory of Transport Processes. IX. Contribution to the Theory of Brownian Motion
+1957|21.0|2.0|Journal of Chemical Physics|Relationship of the Second Virial Coefficient to Polymer Chain Dimensions and Interaction Parameters
+1958|22.0|1.0|Journal of Physics and Chemistry of Solids|Theory of diffusion-limited precipitation
+1959|35.0|1.0|Journal of Chemical Physics|Measurement of the Rate of Dissociation of Oxygen
+1960|29.0|2.0|Journal of Chemical Physics|SelfDiffusion of Oxygen in Single Crystal and Polycrystalline Aluminum Oxide
+1961|26.0|1.0|Journal of Chemical Physics|On the Theory of HelixCoil Transition in Polypeptides
+1962|20.0|1.0|Journal of Chemical Physics|Chemically Induced Vibrational Excitation : Hydroxyl Radical Emission in the 13Micron Region Produced by the H + O3 Atomic Flame
+1963|23.0|2.0|Journal of Geophysical Research|Tesseral harmonics of the gravitational field and geodetic datum shifts derived from camera observations of satellites
+1964|18.0|3.0|Journal of Chemical Physics|Microwave Spectrum of NO2: Fine Structure and Magnetic Coupling
+1965|38.0|1.0|Journal of Geophysical Research|Diffusion of protons in the outer radiation belt
+1966|47.0|1.0|Nuclear Physics|Systematics of absolute gamma-ray transition probabilities in deformed odd-mass nuclei
+1967|59.0|1.0|Journal of Geophysical Research|On the adiabatic motion of energetic particles in a model magnetosphere
+1968|33.0|1.0|Journal of Geophysical Research|Plasma flow in the magnetosphere
+1969|38.0|1.0|Geochimica et Cosmochimica Acta|An accurate X-ray spectrographic method for the analysis of a wide range of geological samples
+1970|70.0|2.0|Geochimica et Cosmochimica Acta|Phenocryst-matrix partition coefficients for K, Rb, Sr and Ba, with applications to anorthosite and basalt genesis
+1971|28.0|1.0|Journal of Geophysical Research|Mechanism of underthrusting in southwest Japan: A model of convergent plate interactions
+1972|88.0|1.5|Communications of The ACM|On the criteria to be used in decomposing systems into modules
+1973|52.0|1.0|Journal of Geophysical Research|Electric field observations by incoherent scatter radar in the auroral zone
+1974|40.0|1.0|Journal of Theoretical Biology|The theory of games and the evolution of animal conflicts
+1975|93.0|2.0|Journal of the ACM|Open, Closed, and Mixed Networks of Queues with Different Classes of Customers
+1976|73.0|2.0|Journal of Geophysical Research|Ion convection velocity reversals in the dayside cleft
+1977|51.0|2.0|Journal of Catalysis|The conversion of methanol and other O-compounds to hydrocarbons over zeolite catalysts
+1978|147.0|2.0|Journal of Geophysical Research|Presentday plate motions
+1979|105.0|2.0|Psychological Review|Chunking and Consolidation: A Theoretical Synthesis of Semantic Networks, Configuring in Conditioning, S--R Versus Cognitive Learning, Normal Forgetting, the Amnesic Syndrome, and the Hippocampal Arousal System.
+1980|72.0|2.0|Acta Psychologica|The base-rate fallacy in probability judgments
+1981|92.0|2.0|Journal of Investigative Dermatology|Ultraviolet Light Depletes Surface Markers of Langerhans Cells
+1982|98.0|2.0|Journal of Clinical Investigation|Selective Cumulative Inhibition of Platelet Thromboxane Production by Low-dose Aspirin in Healthy Subjects
+1983|111.0|2.0|Behavioral Ecology and Sociobiology|White-crowned sparrows ( Zonotrichia leucophrys ): foraging preferences in a risky environment
+1984|149.0|2.0|Ecological Monographs|PSEUDOREPLICATION AND THE DESIGN OF ECOLOGICAL FIELD EXPERIMENTS
+1985|126.0|2.0|Vision Research|Contour, color and shape analysis beyond the striate cortex.
+1986|138.0|2.0|Psychological Review|An Attributional Theory of Achievement Motivation and Emotion
+1987|230.0|2.0|Artificial Intelligence|Diagnosing multiple faults
+1988|128.0|2.0|Psychological Review|Optimality in human motor performance: Ideal control of rapid aimed movements.
+1989|179.0|2.0|Econometrica|The Great Crash, the Oil Price Shock, and the Unit Root Hypothesis
+1990|114.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Scale-space and edge detection using anisotropic diffusion
+1991|262.0|2.0|Journal of Chemical Physics|Gaussian2 theory for molecular energies of first and secondrow compounds
+1992|1801.0|2.0||Regression Models and Life-Tables
+1993|986.0|2.0|Journal of Chemical Physics|Densityfunctional thermochemistry. III. The role of exact exchange
+1994|368.0|2.0|Archives of General Psychiatry|Lifetime and 12-month prevalence of DSM-III-R psychiatric disorders in the United States: Results from the National Comorbidity Survey
+1995|192.0|2.0|Cell|Protein import into nuclei: association and dissociation reactions involving transport substrate, transport factors, and nucleoporins
+1996|912.0|2.0|Science|Complete Genome Sequence of the Methanogenic Archaeon, Methanococcus jannaschii
+1997|298.0|2.0|Information Processing and Management|Term-weighting approaches in automatic text retrieval
+1998|325.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|On combining classifiers
+1999|661.0|3.0|Fuzzy Sets and Systems|Fuzzy sets as a basis for a theory of possibility
+2000|1035.0|4.0|Nucleic Acids Research|The Pfam protein families database
+2001|1703.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Significance analysis of microarrays applied to the ionizing radiation response
+2002|734.0|4.0|Nature|Ecological responses to recent climate change
+2003|881.0|5.0|Annual Review of Neuroscience|Emotion Circuits in the Brain
+2004|3212.0|5.0|International Journal of Computer Vision|Distinctive Image Features from Scale-Invariant Keypoints
+2005|527.0|4.0|IEEE Transactions on Neural Networks|Survey of clustering algorithms
+2006|1330.0|4.0|IEEE Transactions on Information Theory|Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information
+2007|1146.0|4.0|Nature Reviews Molecular Cell Biology|Signal integration in the endoplasmic reticulum unfolded protein response.
+2008|927.0|4.0|Genome Biology|Model-based Analysis of ChIP-Seq (MACS)
+2009|2934.0|3.0|Nature|Large-scale pattern growth of graphene films for stretchable transparent electrodes
+2010|2461.0|5.0|Journal of Chemical Physics|A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu

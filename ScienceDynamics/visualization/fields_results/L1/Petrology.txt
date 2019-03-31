@@ -1,0 +1,54 @@
+----  Field Name Petrology: 
+----  Field Level 1.0: 
+----  Field Papers Number 2236:
+----  All time max citation paper: Rapid leastsquares inversion of apparent resistivity pseudosections by a quasiNewton method1, 1996, (680.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|1.0|1.0|Nature|Isotopic Composition of Potassium
+1963|25.0|25.0|Journal of Geophysical Research|A PROCEDURE FOR GEOCHEMICAL INTERPRETATION OF TERRESTRIAL RARE-EARTH ABUNDANCE PATTERNS,
+1964|19.0|0.0|Geochimica et Cosmochimica Acta|The growth of the Widmansttten pattern in metallic meteorites
+1966|7.0|7.0|Reviews of Geophysics|Some geological implications of equilibrium between graphite and a CHO gas phase at high temperatures and pressures
+1967|42.0|7.5|Geochimica et Cosmochimica Acta|Petrology of eucrites, howardites and mesosiderites
+1968|12.0|7.0|Geochimica et Cosmochimica Acta|Experimental studies on the system Fe-MgO-SiO sub 2 -O sub 2 and their bearing on the petrology of chondritic meteorites.
+1969|4.0|3.0|Geochimica et Cosmochimica Acta|Petrology and chemistry of mesosiderites. I - Textures and composition of nickel-iron.
+1970|26.0|8.0|Journal of Geophysical Research|Petrology of the lunar soil and geophysical implications.
+1971|45.0|4.0|Geochimica et Cosmochimica Acta|Chemical fractionations in meteoritesIV abundances of fourteen trace elements in L-chondrites; implications for cosmothermometry
+1972|18.0|4.5|Earth and Planetary Science Letters|Petrology of a portion of the Mare Fecunditatis regolith.
+1973|25.0|5.0|Journal of Clinical Investigation|Nitroglycerin and Heterogeneity of Myocardial Blood Flow REDUCED SUBENDOCARDIAL BLOOD FLOW AND VENTRICULAR CONTRACTILE FORCE
+1974|34.0|4.0|Geochimica et Cosmochimica Acta|Trace element geochemistry of Archean volcanic rocks
+1975|12.0|1.5|Lithos|Calculated diffusion coefficients and the growth rate of olivine in a basalt magma
+1976|86.0|6.0|Geophysical Research Letters|Nd isotopic variations and petrogenetic models
+1977|38.0|6.0|Earth and Planetary Science Letters|Nebular condensation of moderately volatile elements and their abundances in ordinary chondrites
+1978|53.0|12.0|Earth and Planetary Science Letters|Ultramafic inclusions from San Carlos, Arizona - Petrologic and geochemical data bearing on their petrogenesis
+1979|25.0|9.0|Reviews of Geophysics|Are carbonaceous chondrites primitive or processed? A review
+1980|29.0|3.0|Earth and Planetary Science Letters|Episodic mantle differentiation - Nd and Sr isotopic evidence
+1981|108.0|6.5|Journal of Geophysical Research|Gradients in silicic magma chambers: Implications for lithospheric magmatism
+1982|32.0|6.0|Geochimica et Cosmochimica Acta|Chronology and petrogenesis of young achondrites, Shergotty, Zagami, and ALHA77005: late magmatism on a geologically active planet
+1983|28.0|4.0|Nature|Pb, Sr, Nd and Hf isotopic evidence of multiple sources for Oahu, Hawaii basalts
+1984|42.0|6.0|Geochimica et Cosmochimica Acta|Trace element abundances in megacrysts and their host basalts - Constraints on partition coefficients and megacryst genesis
+1985|16.0|5.0|Annual Review of Earth and Planetary Sciences|The magma ocean concept and lunar evolution
+1986|28.0|5.0|Geochimica et Cosmochimica Acta|Mantle heterogeneity and crustal recycling in Archean granite-greenstone belts: Evidence from Nd isotopes and trace elements in the Rainy Lake area, Superior Province, Ontario, Canada
+1987|22.0|6.0|Earth and Planetary Science Letters|Heat production in an Archean crustal profile and implications for heat flow and mobilization of heat-producing elements
+1988|28.0|5.5|Geochimica et Cosmochimica Acta|A model for the simulation of combined major and trace element liquid lines of descent
+1989|30.0|6.0|Geochimica et Cosmochimica Acta|Trace-element zoning in garnets from sheared mantle xenoliths
+1990|77.0|4.0|Journal of Geophysical Research|Hotspots and mantle plumes: Some phenomenology
+1991|36.0|6.0|Geochimica et Cosmochimica Acta|Diffusion of water in rhyolitic glasses
+1992|21.0|6.0|Geochimica et Cosmochimica Acta|Neodymium and strontium isotopic study of Australasian tektites: New constraints on the provenance and age of target materials
+1993|30.0|5.0||Preterrestrial aqueous alteration of the Lafayette (SNC) meteorite
+1994|89.0|6.0||What we have learned about Mars from SNC meteorites
+1995|15.0|4.0|Soil & Tillage Research|Effects of rock fragments on physical degradation of cultivated soils by rainfall
+1996|55.0|5.0|Journal of Geophysical Research|Poisson's ratio and crustal seismology
+1997|38.0|5.0|Earth and Planetary Science Letters|Geochemistry of gabbro sills in the crust-mantle transition zone of the Oman ophiolite: implications for the origin of the oceanic lower crust
+1998|30.0|4.0|Earth and Planetary Science Letters|Calcic melt inclusions in primitive olivine at 43N MAR: evidence for meltrock reaction/melting involving clinopyroxene-rich lithologies during MORB generation
+1999|42.0|5.0|Nature|The formation of Mount Etna as the consequence of slab rollback
+2000|46.0|4.0|Nature|Granite magma formation, transport and emplacement in the Earth's crust
+2001|33.0|5.0|Lithos|Petrologic and geochemical constraints on the petrogenesis of PermianTriassic Emeishan flood basalts in southwestern China
+2002|37.0|6.0|Australian Journal of Earth Sciences|Regolith geology of the Yilgarn Craton, Western Australia: implications for exploration
+2003|78.0|7.0|Geochimica et Cosmochimica Acta|Zircon formation during fluid circulation in eclogites (Monviso, Western Alps): Implications for Zr and Hf budget in subduction zones
+2004|52.0|7.5|Journal of Geophysical Research|Crustal structure of Mars from gravity and topography
+2005|55.0|6.0|Geochimica et Cosmochimica Acta|A new estimate for the composition of weathered young upper continental crust from alluvial sediments, Queensland, Australia
+2006|63.0|7.0|Precambrian Research|Reworking of juvenile crust: Element and isotope evidence from Neoproterozoic granodiorite in South China
+2007|98.0|6.0|Geochemistry Geophysics Geosystems|Temperatures in ambient mantle and plumes: Constraints from basalts, picrites, and komatiites
+2008|88.0|10.0|Basin Research|Late Cretaceous to Miocene sea-level estimates from the New Jersey and Delaware coastal plain coreholes: an error analysis
+2009|112.0|6.0|Chemical Geology|Zircon UPb geochronology and Hf isotopic constraints on petrogenesis of the Gangdese batholith, southern Tibet
+2010|115.0|7.0|Gondwana Research|Late Cretaceous charnockite with adakitic affinities from the Gangdese batholith, southeastern Tibet: Evidence for Neo-Tethyan mid-ocean ridge subduction?

@@ -1,0 +1,40 @@
+----  Field Name Handwriting recognition: 
+----  Field Level 2.0: 
+----  Field Papers Number 3971:
+----  All time max citation paper: A training algorithm for optimal margin classifiers, 1992, (2463.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|1.0|1.0|IEEE Spectrum|Machine recognition of human language Part I - Automatic speech recognition
+1970|0|0.0|IEEE Transactions on Computers|Pattern Classification Using Stochastic Approximation Techniques
+1972|6.0|3.0|Communications of The ACM|An experimental laboratory for pattern recognition and signal processing
+1974|4.0|3.0|IEEE Transactions on Computers|A Classifier Design Technique for Discrete Variable Pattern Recognition Problems
+1980|0|0.0||The application of optical character recognition techniques to bandwidth compression of facsimile data
+1982|27.0|2.0|ACM Computing Surveys|Document Formatting Systems: Survey, Concepts, and Issues
+1983|27.0|17.5|ACM Transactions on Information Systems|Document processing in a relational database system
+1984|6.0|4.0|ACM Sigoa Newsletter|The structure of abstract document objects
+1985|2.0|2.0|Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing|Optical character recognition based on analog preprocessing and automatic feature extraction
+1986|2.0|1.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|VLSI architecture for dynamic time-warp recognition of handwritten symbols
+1987|12.0|2.0|Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing|Optical character recognition by the method of moments
+1988|12.0|1.0|international conference on pattern recognition|A blackboard-based approach to handwritten ZIP code recognition
+1989|13.0|1.0|IEEE Communications Magazine|Handwritten digit recognition: applications of neural network chips and automatic learning
+1990|24.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|The state of the art in online handwriting recognition
+1991|15.0|1.5|International Journal of Computer Vision|Reading cursive handwriting by alignment of letter prototypes
+1992|66.0|13.5|Proceedings of the IEEE|Historical review of OCR research and development
+1993|28.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Direct gray-scale extraction of features for character recognition
+1994|62.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Decision combination in multiple classifier systems
+1995|79.0|3.0|Proceedings of the IEEE|Cryptology for digital TV broadcasting
+1996|71.0|3.0||A declarative language for querying and restructuring the Web
+1997|50.0|2.5|systems man and cybernetics|Application of majority voting to pattern recognition: an analysis of its behavior and performance
+1998|61.0|3.0||Video OCR for digital news archive
+1999|28.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|An HMM-based approach for off-line unconstrained handwritten word modeling and recognition
+2000|175.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Online and off-line handwriting recognition: a comprehensive survey
+2001|347.0|4.0|IEEE Transactions on Neural Networks|An introduction to kernel-based learning algorithms
+2002|94.0|3.0|IEEE Transactions on Circuits and Systems for Video Technology|Localizing and segmenting text in images and videos
+2003|160.0|4.0|theory and application of cryptographic techniques|CAPTCHA: using hard AI problems for security
+2004|494.0|4.0|IEEE Transactions on Circuits and Systems for Video Technology|An introduction to biometric recognition
+2005|245.0|3.0|Journal of Machine Learning Research|Large Margin Methods for Structured and Interdependent Output Variables
+2006|77.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Offline Arabic handwriting recognition: a survey
+2007|64.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Text-Independent Writer Identification and Verification Using Textural and Allographic Features
+2008|212.0|2.0|Science|reCAPTCHA: Human-Based Character Recognition via Web Security Measures
+2009|110.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Framework for Performance Evaluation of Face, Text, and Vehicle Detection and Tracking in Video: Data, Metrics, and Protocol
+2010|184.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Survey of Pedestrian Detection for Advanced Driver Assistance Systems

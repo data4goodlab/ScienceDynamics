@@ -1,0 +1,47 @@
+----  Field Name Computational geometry: 
+----  Field Level 2.0: 
+----  Field Papers Number 14687:
+----  All time max citation paper: A method for registration of 3-D shapes, 1992, (4546.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|1.0|1.0|Physics of Fluids|Thermal Choking and Condensation in Nozzles
+1970|0|0.0|Information & Computation|A review of perceptrons: An introduction to computational geometry
+1971|6.0|6.0|Journal of the ACM|On the Topological Properties of Quantized Spaces, I. The Notion of Dimension
+1972|6.0|6.0|IEEE Transactions on Biomedical Engineering|Unconstrained Inverse Electrocardiography: Epicardial Potentials
+1974|4.0|2.0|Computer Aided Geometric Design|COMPUTATIONAL GEOMETRY - ACHIEVEMENTS AND PROBLEMS
+1975|5.0|2.0||Aspects of modelling in computer aided geometric design
+1976|3.0|1.0|IEEE Transactions on Biomedical Engineering|Analysis of a Model for Excitation of Myelinated Nerve
+1977|10.0|5.5|ACM Transactions on Mathematical Software|An Algorithm for Finding Best Matches in Logarithmic Expected Time
+1978|8.0|2.5|Communications of The ACM|A time- and space-efficient garbage compaction algorithm
+1979|17.0|2.5|ACM Computing Surveys|Geographic Data Processing
+1980|78.0|17.0|ACM Computing Surveys|Representations for Rigid Solids: Theory, Methods, and Systems
+1981|52.0|4.5|SIAM Journal on Computing|Optimal Search in Planar Subdivisions
+1982|50.0|9.5|Communications of The ACM|Plane-sweep algorithms for intersecting geometric figures
+1983|67.0|8.0|IEEE Transactions on Computers|Spatial Planning: A Configuration Space Approach
+1984|71.0|4.5|IEEE Transactions on Computers|Computational Geometry&#8212;A Survey
+1985|55.0|4.0|ACM Transactions on Graphics|Primitives for the manipulation of general subdivisions and the computation of Voronoi
+1986|58.0|5.0|Communications of The ACM|Planar point location using persistent search trees
+1987|44.0|5.0|Discrete and Computational Geometry|New applications of random sampling in computational geometry
+1988|34.0|3.0|Computer Aided Geometric Design|Polygonization of implicit surfaces
+1989|36.0|5.0|IEEE Transactions on Computers|Mesh computer algorithms for computational geometry
+1990|31.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Geometric reasoning for recognition of three-dimensional object features
+1991|83.0|3.0|ACM Computing Surveys|Voronoi diagramsa survey of a fundamental geometric data structure
+1992|122.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A method for registration of 3-D shapes
+1993|224.0|3.0|Nature Genetics|Identification of protein coding regions by database similarity search.
+1994|77.0|3.0|Neural Networks|Topology representing networks
+1995|113.0|3.0|Biometrika|Reversible jump Markov chain Monte Carlo computation and Bayesian model determination
+1996|127.0|4.0|international conference on data engineering|Similarity indexing with the SS-tree
+1997|108.0|3.0|very large data bases|M-tree: An Efficient Access Method for Similarity Search in Metric Spaces
+1998|147.0|4.0|very large data bases|A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces
+1999|222.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Claudin multigene family encoding four-transmembrane domain protein components of tight junction strands
+2000|416.0|3.0|Nucleic Acids Research|MIPS: a database for genomes and protein sequences
+2001|241.0|4.0|international conference on management of data|On supporting containment queries in relational database management systems
+2002|206.0|4.0|IEEE Transactions on Information Theory|Closest point search in lattices
+2003|416.0|5.0|Nucleic Acids Research|ExPASy: the proteomics server for in-depth protein knowledge and analysis
+2004|255.0|4.0||The Princeton Shape Benchmark
+2005|316.0|4.0|Bioinformatics|Blast2GO: a universal tool for annotation, visualization and analysis in functional genomics research
+2006|195.0|4.0|Bulletin of the American Mathematical Society|Expander graphs and their applications
+2007|166.0|3.0|Bioinformatics|UniRef: comprehensive and non-redundant UniProt reference clusters.
+2008|228.0|3.0|Ecology|WOLVES INFLUENCE ELK MOVEMENTS: BEHAVIOR SHAPES A TROPHIC CASCADE IN YELLOWSTONE NATIONAL PARK
+2009|389.0|2.0|international conference on computer vision theory and applications|Fast approximate nearest neighbors with automatic algorithm configuration
+2010|299.0|3.0|BMC Genomics|De novo characterization of a whitefly transcriptome and analysis of its gene expression during development

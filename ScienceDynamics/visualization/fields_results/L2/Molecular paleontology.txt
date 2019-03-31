@@ -1,0 +1,29 @@
+----  Field Name Molecular paleontology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1050:
+----  All time max citation paper: Multiplexed DNA sequence capture of mitochondrial genomes using PCR products, 2010, (1409.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1987|7.0|7.0|Journal of Molecular Evolution|Mitochondrial DNA of the extinct quagga: relatedness and extent of postmortem change.
+1989|0|0.0|Human Evolution|DNA preservation in Precolumbian remains from the American Southwest
+1990|42.0|24.5|Journal of Molecular Evolution|Spatial and temporal continuity of kangaroo rat populations shown by sequencing mitochondrial DNA from museum specimens
+1991|8.0|8.0||Amplification and Analysis of Miocene Plant Fossil DNA
+1992|2.0|2.0|Organic Geochemistry|Correlations of gulf coast petroleums on the basis of branched acyclic alkanes
+1993|27.0|13.0|American Journal of Physical Anthropology|Ancient DNA from a preColumbian Amerindian population
+1994|29.0|5.0|Cellular and Molecular Life Sciences|Ancient DNA: methodological challenges.
+1995|12.0|4.0|Journal of Molecular Evolution|Nuclear Counterparts of the Cytoplasmic Mitochondrial 12S rRNA Gene: A Problem of Ancient DNA and Molecular Phylogenies
+1996|16.0|10.0|American Journal of Physical Anthropology|Ancient DNA analysis of Fremont Amerindians of the Great Salt Lake Wetlands
+1997|14.0|6.0|Trends in Ecology and Evolution|Palaeontology in a molecular world: the search for authentic ancient DNA
+1998|68.0|7.0|American Journal of Human Genetics|mtDNA Analysis of a Prehistoric Oneota Population: Implications for the Peopling of the New World
+1999|28.0|6.0|Molecular Ecology|Stability of population structure and genetic diversity across generations assessed by microsatellites among sympatric populations of landlocked Atlantic salmon ( Salmo salar L.)
+2000|50.0|5.5|Molecular and Cellular Biology|Cardiac Tissue Enriched Factors Serum Response Factor and GATA-4 Are Mutual Coregulators
+2001|89.0|10.0|Trends in Ecology and Evolution|Mitochondrial pseudogenes: evolution's misplaced witnesses
+2002|29.0|6.0|Nature|Recovery of 16S ribosomal RNA gene fragments from ancient halite
+2003|76.0|8.0|Proceedings of the National Academy of Sciences of the United States of America|Evidence for a genetic discontinuity between Neandertals and 24,000-year-old anatomically modern Europeans
+2004|182.0|10.0|Annual Review of Genetics|GENETIC ANALYSES FROM ANCIENT DNA
+2005|112.0|15.0|Trends in Ecology and Evolution|Assessing ancient DNA studies
+2006|97.0|8.5|Nature|Multiplex amplification of the mammoth mitochondrial genome and the evolution of Elephantidae.
+2007|132.0|9.0|Nucleic Acids Research|Recharacterization of ancient DNA miscoding lesions: insights in the era of sequencing-by-synthesis
+2008|592.0|10.0|Annual Review of Genomics and Human Genetics|Next-Generation DNA Sequencing Methods
+2009|195.0|13.0|Science|Targeted retrieval and analysis of five Neandertal mtDNA genomes
+2010|1409.0|8.0|PLOS ONE|Multiplexed DNA sequence capture of mitochondrial genomes using PCR products

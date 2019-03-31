@@ -1,0 +1,30 @@
+----  Field Name English law: 
+----  Field Level 2.0: 
+----  Field Papers Number 1448:
+----  All time max citation paper: Latent semantic models for collaborative filtering, 2004, (537.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1982|12.0|12.0|international conference on computer graphics and interactive techniques|The message is the medium: Multiprocess structuring of an interactive paint program
+1983|6.0|6.0|conference of the european chapter of the association for computational linguistics|Relating syntax and semantics: the syntactico-semantic lexicon of the system VIE-LANG
+1986|3.0|3.0|Statistical Science|Some Statistical Applications of Poisson's Work
+1988|7.0|4.0|IEEE Transactions on Software Engineering|Achieving high availability in distributed databases
+1990|58.0|29.0|computational intelligence|A basic agent
+1992|1.0|1.0||Local Versus Global Control Laws for Cooperative Agent Teams
+1993|9.0|9.0||Dynamic hypertext and knowledge agent systems for multimedia information networks
+1994|3.0|2.5|International Journal of Cancer|Enhancement of radioimmunotherapy by drugs modifying tumour blood flow in a colonic xenograft model
+1995|17.0|0.0|Journal of Clinical Microbiology|Transhemispheric exchange of Lyme disease spirochetes by seabirds.
+1996|33.0|8.0|Proceedings of the National Academy of Sciences of the United States of America|Normal host prion protein (PrPC) is required for scrapie spread within the central nervous system
+1997|77.0|3.0|Nature|PrP-expressing tissue required for transfer of scrapie infectivity from spleen to brain
+1998|163.0|2.5|The Lancet|Presence of a newly described human DNA virus (TTV) in patients with liver disease
+1999|107.0|3.0|international conference on software engineering|LIME: Linda meets mobility
+2000|31.0|3.0|Trends in Cognitive Sciences|The recognition of mentalistic agents in infancy
+2001|44.0|6.0|Journal of Hepatology|Randomized trial of lamivudine versus hepatitis B immunoglobulin for long-term prophylaxis of hepatitis B recurrence after liver transplantation
+2002|53.0|6.0|The EMBO Journal|BSE prions propagate as either variant CJDlike or sporadic CJDlike prion strains in transgenic mice expressing human prion protein
+2003|110.0|6.5||KAoS policy and domain services: toward a description-logic approach to policy representation, deconfliction, and enforcement
+2004|203.0|8.5|ACM Transactions on Information Systems|Latent semantic models for collaborative filtering
+2005|58.0|2.0|Cirp Annals-manufacturing Technology|Holonic Manufacturing Execution Systems
+2006|99.0|1.5|Cirp Annals-manufacturing Technology|Agent-based systems for manufacturing
+2007|190.0|4.0|Journal of Financial Economics|Private credit in 129 countries
+2008|53.0|1.0|Corporate Governance: An International Review|Why Adopt Codes of Good Governance? A Comparison of Institutional and Efficiency Perspectives
+2009|68.0|1.0|ACM Transactions on Computational Logic|Specifying norm-governed computational societies
+2010|48.0|2.0|Dalton Transactions|Anticancer activity of opened arene ruthenium metalla-assemblies

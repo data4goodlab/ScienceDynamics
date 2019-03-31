@@ -1,0 +1,48 @@
+----  Field Name Stochastic approximation: 
+----  Field Level 2.0: 
+----  Field Papers Number 1179:
+----  All time max citation paper: Alignment by Maximization of Mutual Information, 1997, (1060.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1966|5.0|5.0|IEEE Transactions on Information Theory|A coding scheme for additive noise channels with feedback--I: No bandwidth constraint
+1968|3.0|3.0|IEEE Transactions on Information Theory|Estimation of probability density and distribution functions
+1969|0|0.0|Journal of the ACM|A Stochastic Approximation Method for Optimization Problems
+1970|4.0|1.5|IEEE Transactions on Information Theory|On unsupervised estimation algorithms
+1971|2.0|1.0|IEEE Transactions on Information Theory|Error bounds for stochastic estimation of signal parameters
+1973|0|0.0|Probability Theory and Related Fields|Stopping times for stochastic approximation procedures
+1975|10.0|5.0|IEEE Transactions on Information Theory|Robust estimation via stochastic approximation
+1976|2.0|0.0|Journal of Statistical Planning and Inference|A Stochastic Newton-Raphson Method.
+1977|24.0|1.0|IEEE Transactions on Automatic Control|Analysis of recursive stochastic algorithms
+1978|4.0|2.0|Annals of Statistics|On Asymptotically Efficient Recursive Estimation
+1979|10.0|4.0|Annals of Statistics|Adaptive Design and Stochastic Approximation
+1980|4.0|4.0|Automatica|State inverse and decorrelated state stochastic approximation
+1981|8.0|1.0|Probability Theory and Related Fields|Consistency and asymptotic efficiency of slope estimates in stochastic approximation schemes
+1982|5.0|2.5|Annals of Probability|Almost Sure Approximations to the Robbins-Monro and Kiefer-Wolfowitz Processes with Dependent Noise
+1983|1.0|1.0|Probability Theory and Related Fields|A stochastic approximation from dependent observations
+1984|4.0|2.0|Journal of the American Statistical Association|Efficient Sequential Designs with Binary Data
+1985|7.0|2.0|Bellman Prize in Mathematical Biosciences|Robust experiment design via stochastic approximation
+1986|21.0|0.5|IEEE Transactions on Circuits and Systems|A new adaptive IIR filter
+1987|23.0|0.0|winter simulation conference|Optimization in simulation: a survey of recent results
+1988|4.0|1.0|winter simulation conference|Using perturbation analysis for gradient estimation, averaging and updating in a stochastic approximation algorithm
+1989|6.0|1.0|Siam Journal on Control and Optimization|Stochastic approximation and large deviations: upper bounds and w.p.1 convergence
+1990|15.0|0.0|IEEE Transactions on Computers|Adaptive optimal load balancing in a nonhomogeneous multiserver system with a central job scheduler
+1991|8.0|2.0|IEEE Transactions on Automatic Control|On sampling controlled stochastic approximation
+1992|29.0|4.0|IEEE Transactions on Automatic Control|Multivariate stochastic approximation using a simultaneous perturbation gradient approximation
+1993|19.0|5.0|IEEE Transactions on Signal Processing|On-line estimation of hidden Markov model parameters based on the Kullback-Leibler information measure
+1994|27.0|2.0|Neural Computation|On the convergence of stochastic iterative dynamic programming algorithms
+1995|63.0|1.0|Signal Processing|Adaptive blind separation of independent sources: A deflation approach
+1996|88.0|3.0|Medical Image Analysis|Multi-modal volume registration by maximization of mutual information
+1997|143.0|2.5|International Journal of Computer Vision|Alignment by Maximization of Mutual Information
+1998|46.0|1.0|IEEE Transactions on Communications|Stochastic power control for cellular radio systems
+1999|26.0|3.0|IEEE Transactions on Automatic Control|Optimal stopping of Markov processes: Hilbert space theory, approximation algorithms, and an application to pricing high-dimensional financial derivatives
+2000|32.0|3.0|IEEE Transactions on Automatic Control|Adaptive stochastic approximation by the simultaneous perturbation method
+2001|95.0|2.5|IEEE\/ACM Transactions on Networking|Network support for IP traceback
+2002|52.0|4.0|Informs Journal on Computing|Feature Article: Optimization for simulation: Theory vs. Practice
+2003|41.0|4.0|Neuron|Learning in Spiking Neural Networks by Reinforcement of Stochastic Synaptic Transmission
+2004|76.0|4.0|IEEE Transactions on Wireless Communications|Convergence of proportional-fair sharing algorithms under general conditions
+2005|43.0|2.0|international conference on computer vision|Efficient population registration of 3D data
+2006|65.0|2.5|IEEE Transactions on Image Processing|Optimal Spatial Adaptation for Patch-Based Image Denoising
+2007|167.0|4.0|Computer Methods in Applied Mechanics and Engineering|Robust optimization  A comprehensive survey
+2008|101.0|3.0|knowledge discovery and data mining|Relational learning via collective matrix factorization
+2009|194.0|3.0|international conference on machine learning|Online dictionary learning for sparse coding
+2010|437.0|3.0|Journal of Machine Learning Research|Online Learning for Matrix Factorization and Sparse Coding

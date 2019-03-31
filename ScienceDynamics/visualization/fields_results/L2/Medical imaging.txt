@@ -1,0 +1,52 @@
+----  Field Name Medical imaging: 
+----  Field Level 2.0: 
+----  Field Papers Number 35182:
+----  All time max citation paper: Image processing with ImageJ, 2004, (4789.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1937|0|0.0|JAMA|RESPIRATORY STIMULANTS AND THEIR USES
+1958|3.0|3.0|Journal of Chemical Physics|Interactions of H Ions and H Atoms with Ne, A, and H2
+1963|0|0.0|Journal of Medical Imaging and Radiation Oncology|The Risk of Diagnostic Radiology*
+1964|1.0|0.5|Journal of Chemical Physics|StressInduced Migration and Partial Molar Volume of Sodium Ions in Glass
+1967|0|0.0|Journal of the ACM|Application of Parallel Processing to Numerical Weather Prediction
+1968|11.0|11.0|Proceedings of the IEEE|The oculomotor control system: A review
+1970|1.0|1.0|Communications of The ACM|A programming system for the on-line analysis of biomedical images
+1972|1.0|0.5|IEEE Transactions on Biomedical Engineering|Holography and Medicine
+1973|3.0|2.0|IEEE Transactions on Biomedical Engineering|Eccentric Dipole in a Spherical Medium: Generalized Expression for Surface Potentials
+1974|2.0|1.0||The GRAFIX I image processing system
+1975|7.0|3.5|Journal of Geophysical Research|The SAR arc event observed during the December 1971 magnetic storm
+1976|18.0|8.0|Advances in Immunology|Ionizing Radiation and the Immune Response
+1977|5.0|2.0|IEEE Transactions on Biomedical Engineering|Computerized Tomography Using Video Recorded Fluoroscopic Images
+1978|14.0|2.0|Geochimica et Cosmochimica Acta|Pressure solution at grain-to-grain contacts
+1979|15.0|2.0|Ultrasonic Imaging|Ultrasonic attenuation tomography of soft tissues
+1980|2.0|1.0||A Phased Array Acoustic Imaging System for Medical Use
+1981|10.0|2.0|CardioVascular and Interventional Radiology|A Fully Automated Determination of the Left Ventricular Region of Interest in Nuclear Angiocardiography
+1982|18.0|2.0|American Journal of Cardiology|An accurate means of detecting and characterizing abnormal patterns of ventricular activation by phase image analysis.
+1983|22.0|4.0|Journal of Applied Physics|Fundamental defect centers in glass: Electron spin resonance and optical absorption studies of irradiated phosphorusdoped silica glass and optical fibers
+1984|37.0|2.5|Archives of General Psychiatry|Regional Brain Glucose Metabolism in Chronic Schizophrenia: A Positron Emission Transaxial Tomographic Study
+1985|8.0|2.0|Journal of Applied Physics|Manganese as a ptype dopant for liquidphaseepitaxial In0.53Ga0.47As
+1986|24.0|0.0|Gastroenterology|Colonic Transit Scintigraphy
+1987|33.0|2.0|Journal of Geophysical Research|Substorm currents: Growth phase and onset
+1988|35.0|1.0|JAMA|The Poor Quality of Early Evaluations of Magnetic Resonance Imaging
+1989|33.0|3.0|International Journal of Cardiac Imaging|Intravascular echographic assessment of vessel wall characteristics: a correlation with histology
+1990|61.0|2.0|IEEE Computer Graphics and Applications|Investigation of medical 3D-rendering algorithms
+1991|89.0|2.0|International Journal of Radiation Oncology Biology Physics|Tolerance of normal tissue to therapeutic irradiation.
+1992|134.0|2.0|international conference on computer graphics and interactive techniques|Decimation of triangle meshes
+1993|101.0|3.0|IEEE Engineering in Medicine and Biology Magazine|Medical image matching-a review with classification
+1994|120.0|2.0|international conference on computer graphics and interactive techniques|Fast volume rendering using a shear-warp factorization of the viewing transformation
+1995|260.0|3.0|Human Brain Mapping|Spatial registration and normalization of images
+1996|144.0|4.0||Multi-modality image registration by maximization of mutual information
+1997|277.0|3.0|The Journal of Neuroscience|The Fusiform Face Area: A Module in Human Extrastriate Cortex Specialized for Face Perception
+1998|97.0|3.0|Brain|The role of magnetic resonance techniques in understanding and managing multiple sclerosis
+1999|190.0|5.0|Human Brain Mapping|Nonlinear spatial normalization using basis functions.
+2000|185.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Navigation-related structural change in the hippocampi of taxi drivers
+2001|231.0|5.0|IEEE Transactions on Medical Imaging|Segmentation of brain MR images through a hidden Markov random field model and the expectation-maximization algorithm
+2002|468.0|6.0|Circulation|Reliable Noninvasive Coronary Angiography With Fast Submillimeter Multislice Spiral Computed Tomography
+2003|484.0|7.0|Nucleic Acids Research|BINDThe Biomolecular Interaction Network Database
+2004|927.0|5.0||Image processing with ImageJ
+2005|281.0|5.0|Annual Review of Biomedical Engineering|Quantum Dots as Cellular Probes
+2006|365.0|5.0|NeuroImage|Self-referential processing in our brainA meta-analysis of imaging studies on the self
+2007|545.0|5.0|Nature Biotechnology|Renal clearance of quantum dots
+2008|860.0|4.0|IEEE Signal Processing Magazine|An Introduction To Compressive Sampling
+2009|703.0|4.0|The Journal of Nuclear Medicine|From RECIST to PERCIST: Evolving Considerations for PET response criteria in solid tumors.
+2010|458.0|6.0|IEEE Transactions on Medical Imaging|elastix : A Toolbox for Intensity-Based Medical Image Registration

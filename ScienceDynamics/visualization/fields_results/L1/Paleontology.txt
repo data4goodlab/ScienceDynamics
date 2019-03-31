@@ -1,0 +1,74 @@
+----  Field Name Paleontology: 
+----  Field Level 1.0: 
+----  Field Papers Number 185260:
+----  All time max citation paper: Detection of Specific Sequences Among DNA Fragments Separated by Gel Electrophoresis, 1975, (15242.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1906|0|0.0|Annals of the New York Academy of Sciences|A PHYTOGEOGRAPHICAL SKETCH OF THE ALTAMAHA GRIT REGION OF THE COASTAL PLAIN OF GEORGIA.
+1930|6.0|6.0|Genetica|Ontogeny, genetics and cytology of Nicotiana hybrids.
+1940|1.0|1.0|JAMA Pediatrics|ASCORBIC ACID CONTENT OF COW'S MILK AT VARIOUS STAGES OF LACTATION
+1942|1.0|1.0|Botanical Review|Ecological problems of the southeastern United States coastal plain
+1944|0|0.0|Proceedings of The Indian Academy of Sciences - Section A. Part 3, Mathematical Sciences|Excitation in unstriated muscle
+1945|4.0|3.0|JAMA|LOEFFLER'S SYNDROME ASSOCIATED WITH CREEPING ERUPTION (CUTANEOUS HELMINTHIASIS)
+1946|3.0|1.5|Journal of Dairy Research|334. A simple agar medium for the growth of lactic streptococci: the role of phosphate in the medium
+1949|0|0.0|Tubercle|Childhood tuberculosis in Middlesbrough 1947 and 1948
+1950|15.0|1.0|JAMA|Effect of Cortisone and Pituitary Adrenocortieotropic Hormone (ACTH) on Rheumatic Diseases.
+1951|17.0|1.0|Journal of Applied Physics|Theory of Do for Atomic Diffusion in Metals
+1953|9.0|9.0|Journal of Chemical Physics|ELECTRONIC STATES OF DIATOMIC MOLECULES: THE OXYGEN MOLECULE
+1954|2.0|1.0|JAMA|ACUTE BRONCHOPNEUMONIC HISTOPLASMOSIS FOLLOWING EXPOSURE TO INFECTED GARDEN SOIL
+1955|3.0|0.0|Geochimica et Cosmochimica Acta|Some basaltic provinces
+1956|11.0|5.5|Acta Metallurgica|The growth of whiskers by the reduction of metal salts
+1957|8.0|1.5|The American Naturalist|Self fertilization and population variability in the higher plants.
+1958|7.0|0.0|Geochimica et Cosmochimica Acta|Thorium, uranium and potassium in some sandstones
+1959|11.0|1.0|Journal of the American Ceramic Society|Dependence of Mechanical Strength of Brittle Polycrystalline Specimens on Porosity and Grain Size
+1960|20.0|1.0|Biochimica et Biophysica Acta|Biophysical Properties of Bacteriophage T2.
+1961|18.0|8.0|Journal of Applied Physics|Sintering Crystalline Solids. II. Experimental Test of Diffusion Models in Powder Compacts
+1962|18.0|3.0|Journal of the American Ceramic Society|Deformation Behavior of Polycrystalline Aluminum Oxide
+1963|32.0|2.0|Journal of Molecular Biology|The distribution of soluble and ribosomal RNA as a function of growth rate
+1964|38.0|2.0|Journal of Molecular Biology|Fate of the ribosomal RNA produced by a relaxed mutant of Escherichia coli
+1965|95.0|2.0|Journal of Molecular Biology|A cytoplasmic particle bearing messenger ribonucleic acid in rat liver
+1966|66.0|2.0|Journal of Molecular Biology|Methylation and processing of ribosomal RNA in HeLa cells
+1967|91.0|3.5|Contributions to Mineralogy and Petrology|The genesis of basaltic magmas
+1968|198.0|4.0|Journal of Geophysical Research|Marine magnetic anomalies, geomagnetic field reversals, and motions of the ocean floor and continents
+1969|39.0|2.0|Geochimica et Cosmochimica Acta|Distribution of K, Rb, Sr and Ba in some minerals relevant to basalt genesis
+1970|52.0|2.0|Geochimica et Cosmochimica Acta|Noble gases in carbonaceous chondrites
+1971|43.0|3.0|Journal of Geophysical Research|Marginal offsets, fracture zones, and the early opening of the North Atlantic
+1972|35.0|4.0|Geochimica et Cosmochimica Acta|Composition and origin of crystalline inclusions in natural diamonds
+1973|47.0|3.0|Reviews of Geophysics|On the rheology of the upper mantle
+1974|63.0|2.0|Geophysical Journal International|Numerical Modelling of Instantaneous Plate Tectonics
+1975|737.0|3.0|Journal of Molecular Biology|Detection of Specific Sequences Among DNA Fragments Separated by Gel Electrophoresis
+1976|168.0|3.0|Nature|C fragment of lipotropin has a high affinity for brain opiate receptors
+1977|98.0|3.0|Earth and Planetary Science Letters|Petrogenesis of basalts from the FAMOUS area: Mid-Atlantic Ridge
+1978|147.0|3.5|Journal of Geophysical Research|Presentday plate motions
+1979|142.0|4.0|Brain Research Reviews|Theories of the dorsal bundle extinction effect
+1980|406.0|3.0|Nature|The role of hormone receptors and GTP-regulatory proteins in membrane transduction.
+1981|108.0|3.0|Journal of Geophysical Research|Gradients in silicic magma chambers: Implications for lithospheric magmatism
+1982|101.0|3.0|Cell|Self-splicing RNA: Autoexcision and autocyclization of the ribosomal RNA intervening sequence of tetrahymena
+1983|57.0|3.0|Biochimica et Biophysica Acta|MOLECULAR ARCHITECTURE AND FUNCTIONING OF THE OUTER MEMBRANE OF ESCHERICHIA COLI AND OTHER GRAM-NEGATIVE BACTERIA
+1984|74.0|3.0|Applied Physics Letters|Highenergy product NdFeB permanent magnets
+1985|88.0|3.0|Acta Metallurgica|Effect of boron on grain-boundaries in Ni 3 Al
+1986|117.0|3.0|Nature|Chloroplast gene organization deduced from complete sequence of liverwort Marchantia polymorpha chloroplast DNA
+1987|201.0|4.0|Cell|The sex-determining region of the human Y chromosome encodes a finger protein
+1988|107.0|3.0|Earth and Planetary Science Letters|Chemical differentiation of the Earth: the relationship between mantle, continental crust, and oceanic crust
+1989|220.0|3.0|Journal of Geophysical Research|Magmatism at rift zones: The generation of volcanic continental margins and flood basalts
+1990|100.0|3.0|The Journal of Comparative Neurology|Unbiased stereological estimation of the number of neurons in the human hippocampus
+1991|112.0|3.0|Biological Journal of The Linnean Society|Metapopulation dynamics: brief history and conceptual domain
+1992|184.0|3.0|Applied Physics Letters|Rapidthermaloxidized porous SiThe superior photoluminescent Si
+1993|110.0|3.0|Science|Monophyletic origins of the metazoa: an evolutionary link with fungi
+1994|148.0|3.0|Cladistics|BRANCH SUPPORT AND TREE STABILITY
+1995|260.0|4.0|Human Brain Mapping|Spatial registration and normalization of images
+1996|482.0|4.0|Science|Life with 6000 Genes
+1997|1035.0|5.0|Nature|Functional rafts in cell membranes
+1998|2478.0|6.0|Nature|Dendritic cells and the control of immunity
+1999|798.0|7.0|Nature|Molecular characterization of mitochondrial apoptosis-inducing factor
+2000|1400.0|7.0|Nature|Distinct types of diffuse large B-cell lymphoma identified by gene expressionprofiling
+2001|4579.0|7.0|Nature|Initial sequencing and analysis of the human genome
+2002|1438.0|8.0|Nature|Pluripotency of mesenchymal stem cells derived from adult marrow
+2003|1006.0|9.0|Nature|The International HapMap Project
+2004|5732.0|9.0|Briefings in Bioinformatics|MEGA3: Integrated software for Molecular Evolutionary Genetics Analysis and sequence alignment
+2005|1559.0|9.0|Nature|MicroRNA expression profiles classify human cancers.
+2006|1988.0|8.0|Nature|Reciprocal developmental pathways for the generation of pathogenic effector TH17 and regulatory T cells
+2007|1831.0|8.0|BMC Evolutionary Biology|BEAST: Bayesian evolutionary analysis by sampling trees
+2008|1741.0|9.0|Ecological Monographs|EFFECTS OF BIODIVERSITY ON ECOSYSTEM FUNCTIONING: A CONSENSUS OF CURRENT KNOWLEDGE
+2009|2934.0|9.0|Nature|Large-scale pattern growth of graphene films for stretchable transparent electrodes
+2010|2096.0|8.0|Nature|A human gut microbial gene catalogue established by metagenomic sequencing

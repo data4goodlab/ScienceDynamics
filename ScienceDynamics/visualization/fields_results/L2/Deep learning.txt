@@ -1,0 +1,40 @@
+----  Field Name Deep learning: 
+----  Field Level 2.0: 
+----  Field Papers Number 8935:
+----  All time max citation paper: On the Evaluation of Structural Equation Models, 1988, (5298.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1974|3.0|2.0|Journal of Econometrics|Alternative tests for a first-order vector autoregressive error specification
+1977|0|0.0|Journal of the American Statistical Association|Response Errors of Nonblack Males in Models of the Stratification Process
+1979|13.0|2.0||Techniques of forecasting using vector autoregressions
+1980|14.0|14.0|Psychometrika|Linear Structural Equations with Latent Variables.
+1981|4.0|1.0||Macroeconomic Determinants of Real Exchange Rates
+1982|7.0|1.0|Behavior Research Methods|A guide to LISREL-type structural equation modeling
+1983|11.0|6.0|Journal of Econometrics|Latent variable structural equation modeling with categorical data
+1984|18.0|3.5|Psychometrika|Testing the conditional independence and monotonicity assumptions of item response theory
+1985|10.0|3.0|Journal of Monetary Economics|Vector autoregressions for causal inference?
+1986|40.0|5.5|Behavior Genetics|Latent variable growth within behavior genetic models
+1987|18.0|5.0|Child Development|"How Big Is Big Enough?": Sample Size and Goodness of Fit in Structural Equation Models with Latent Variables
+1988|23.0|3.0|Journal of the Academy of Marketing Science|On the Evaluation of Structural Equation Models
+1989|22.0|2.0|Journal of Personality and Social Psychology|How should multifaceted personality constructs be tested? Issues illustrated by self-monitoring, attributional style, and hardiness.
+1990|17.0|2.0|Journal of Finance|Are the Latent Variables in Time-Varying Expected Returns Compensation for Consumption Risk?
+1991|30.0|2.0|Journal of Finance|Measuring the Information Content of Stock Trades
+1992|138.0|2.5|Machine Learning|A Bayesian Method for the Induction of Probabilistic Networks from Data
+1993|23.0|2.0|Journal of Finance|Predictable Stock Returns: The Role of Small Sample Bias
+1994|70.0|3.0|Developmental Psychology|Development of Reading-Related Phonological Processing Abilities: New Evidence of Bidirectional Causality from a Latent Variable Longitudinal Study.
+1995|42.0|3.0|Computational Statistics & Data Analysis|The EM algorithm for graphical association models with missing data
+1996|29.0|2.0||Unobserved components in economic time series
+1997|106.0|2.0|Statistics and Computing|ADE-4: a multivariate analysis and graphical display software
+1998|98.0|3.0|Economics Letters|Generalized impulse response analysis in linear multivariate models
+1999|257.0|4.0|Machine Learning|An Empirical Comparison of Voting Classification Algorithms: Bagging, Boosting, and Variants
+2000|167.0|3.0|Cognitive Psychology|The Unity and Diversity of Executive Functions and Their Contributions to Complex Frontal Lobe Tasks: A Latent Variable Analysis
+2001|1039.0|3.0||Co-integration and error correction: representation, estimation, and testing
+2002|191.0|4.0|international conference on image processing|An extended set of Haar-like features for rapid object detection
+2003|107.0|4.0|international acm sigir conference on research and development in information retrieval|Document clustering based on non-negative matrix factorization
+2004|255.0|5.0|Journal of Machine Learning Research|Non-negative Matrix Factorization with Sparseness Constraints
+2005|170.0|5.0|Psychonomic Bulletin & Review|Working Memory Span Tasks: A Methodological Review and User's Guide
+2006|329.0|5.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Face Description with Local Binary Patterns: Application to Face Recognition
+2007|247.0|5.0|Psychological Methods|Methods for integrating moderation and mediation: a general analytical framework using moderated path analysis.
+2008|193.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Scene Classification Using a Hybrid Generative/Discriminative Approach
+2009|259.0|3.5|Image and Vision Computing|Facial expression recognition based on Local Binary Patterns: A comprehensive study
+2010|927.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Object Detection with Discriminatively Trained Part-Based Models

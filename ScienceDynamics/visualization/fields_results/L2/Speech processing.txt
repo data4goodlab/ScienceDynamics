@@ -1,0 +1,50 @@
+----  Field Name Speech processing: 
+----  Field Level 2.0: 
+----  Field Papers Number 5690:
+----  All time max citation paper: The cortical organization of speech processing, 2007, (1297.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|0|0.0|IEEE Spectrum|Machine recognition of human language Part II - Theoretical models of speech perception and language
+1968|1.0|1.0|IEEE Transactions on Communications|Project for a Digital Telephone Network
+1969|16.0|16.0|Attention Perception & Psychophysics|The underlying structures of sentences are the primary units of immediate speech processing
+1970|0|0.0|Proceedings of the IEEE|Parameter estimation in speech: A lesson in unorthodoxy
+1971|4.0|2.5|IEEE Transactions on Audio and Electroacoustics|A scheme for speech processing in automatic speaker verification
+1972|6.0|2.0|Attention Perception & Psychophysics|Hemispheric specialization for the perception of speech sounds: The influence of intonation and structure
+1973|14.0|3.0|IEEE Transactions on Audio and Electroacoustics|A model and a system for machine recognition of speech
+1974|6.0|5.0|Brain and Language|Different speech-processing mechanisms can be reflected in the results of discrimination and dichotic listening tasks
+1975|39.0|39.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Organization of the Hearsay II speech understanding system
+1976|8.0|1.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Automatic detection and description of syllabic features in continuous speech
+1977|2.0|0.0|Attention Perception & Psychophysics|Perception of voicing and place features in whispered speech: A dichotic choice analysis
+1978|0|0.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Comments on "A new realization scheme of digital filters--Row-wise addition configuration"
+1979|60.0|2.0|The New England Journal of Medicine|Deficits in psychologic and classroom performance of children with elevated dentine lead levels.
+1980|23.0|0.5|IEEE Transactions on Acoustics, Speech, and Signal Processing|Performance tradeoffs in dynamic time warping algorithms for isolated word recognition
+1981|12.0|1.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Estimating three-dimensional motion parameters of a rigid planar patch
+1982|9.0|2.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Very fast computation of the radix-2 discrete Fourier transform
+1983|13.0|1.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Transform domain LMS algorithm
+1984|15.0|3.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Alpha-trimmed means and their relationship to median filters
+1985|29.0|1.0|Proceedings of the IEEE|The development of an experimental discrete dictation recognizer
+1986|13.0|3.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Hyperbolic householder transformations
+1987|40.0|1.5|IEEE Transactions on Acoustics, Speech, and Signal Processing|A theory of multirate filter banks
+1988|25.0|1.0|international conference on acoustics speech and signal processing|Hidden Markov models: a guided tour
+1989|12.0|1.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Amplitude optimization and pitch prediction in multipulse coders
+1990|32.0|1.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|ERNEST: a semantic network system for pattern understanding
+1991|44.0|2.0|vehicular technology conference|Performance of PRMA: a packet voice protocol for cellular systems
+1992|39.0|1.0|international conference on acoustics, speech, and signal processing|SWITCHBOARD: telephone speech corpus for research and development
+1993|47.0|3.0|Cognitive Brain Research|Event-related brain potentials during natural speech processing: Effects of semantic, morphological and syntactic violations
+1994|77.0|3.0|IEEE Transactions on Speech and Audio Processing|RASTA processing of speech
+1995|47.0|3.0|Speech Communication|Speech recognition in noisy environments: a survey
+1996|44.0|2.0|IEEE Transactions on Speech and Audio Processing|From HMM's to segment models: a unified view of stochastic modeling for speech recognition
+1997|66.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Pairwise data clustering by deterministic annealing
+1998|41.0|3.0|Experimental Brain Research|Language learning impairments: integrating basic science, technology, and remediation.
+1999|44.0|3.0|IEEE Signal Processing Letters|Blind source separation of more sources than mixtures using overcomplete representations
+2000|61.0|3.0|Cognitive Brain Research|Neurocognition of auditory sentence comprehension: event related fMRI reveals sensitivity to syntactic violations and task demands
+2001|100.0|3.0|IEEE Transactions on Speech and Audio Processing|Noise power spectral density estimation based on optimal smoothing and minimum statistics
+2002|98.0|4.0|Journal of the Acoustical Society of America|YIN, a fundamental frequency estimator for speech and music
+2003|65.0|3.0|IEEE Transactions on Speech and Audio Processing|Noise spectrum estimation in adverse environments: improved minima controlled recursive averaging
+2004|222.0|6.0|IEEE Transactions on Signal Processing|Blind separation of speech mixtures via time-frequency masking
+2005|118.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Automatic analysis of multimodal group actions in meetings
+2006|85.0|3.0|Psychonomic Bulletin & Review|The motor theory of speech perception reviewed.
+2007|643.0|3.0|Nature Reviews Neuroscience|The cortical organization of speech processing
+2008|114.0|2.0|Journal of Cognitive Neuroscience|Superior temporal sulcus---it's my area: Or is it?
+2009|385.0|2.0|Nature Neuroscience|Maps and streams in the auditory cortex: nonhuman primates illuminate human speech processing
+2010|165.0|2.0|acm multimedia|Opensmile: the munich versatile and fast open-source audio feature extractor

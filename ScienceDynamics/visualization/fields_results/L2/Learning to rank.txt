@@ -1,0 +1,38 @@
+----  Field Name Learning to rank: 
+----  Field Level 2.0: 
+----  Field Papers Number 2153:
+----  All time max citation paper: Learning to rank using gradient descent, 2005, (701.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1966|3.0|2.5|Proceedings of the IEEE|The effects of noise in oscillators
+1975|3.0|1.5|Electroencephalography and Clinical Neurophysiology|An application of long-term frequency analysis in measuring drug-specific alterations in the EEG of the cat
+1978|1.0|1.0|international acm sigir conference on research and development in information retrieval|WEIRD: An approach to concept-based information retrieval
+1979|0|0.0|Applied Physics A|The External-Resonator cw Spin-Flip Raman Laser; Output Characteristics and Spectroscopic Applications
+1981|4.0|3.5|international acm sigir conference on research and development in information retrieval|A comparison of search term weighting: term relevance vs. inverse document frequency
+1984|2.0|1.0|Computers & Geosciences|A FORTRAN IV program for comparing ranking algorithms in quantitative biostratigraphy
+1985|11.0|5.0|international acm sigir conference on research and development in information retrieval|Generalized vector spaces model in information retrieval
+1986|8.0|6.0|international acm sigir conference on research and development in information retrieval|An interpretation of index term weighting schemes based on document components
+1987|11.0|3.0|ACM Transactions on Database Systems|On modeling of information retrieval concepts in vector spaces
+1988|9.0|2.5|international acm sigir conference on research and development in information retrieval|Coefficients of combining concept classes in a collection
+1989|3.0|2.0|Information Processing and Management|Comparing and combining the effectiveness of latent semantic indexing and the ordinary vector space model for information retrieval
+1990|9.0|3.5|ACM Transactions on Information Systems|Experiments with a component theory of probabilistic information retrieval based on single terms as document components
+1991|12.0|1.0|Behavioral Neuroscience|Habituation produces frequency-specific plasticity of receptive fields in the auditory cortex.
+1992|7.0|4.5||Low noise, microwave signal generation using cryogenic, sapphire dielectric resonators: an update
+1993|9.0|7.0||HieNet: a user-centered approach for automatic link generation
+1994|23.0|5.0|international acm sigir conference on research and development in information retrieval|Some simple effective approximations to the 2-Poisson model for probabilistic weighted retrieval
+1995|74.0|5.5|human factors in computing systems|TileBars: visualization of term distribution information in full text information access
+1996|9.0|3.0||Keyword-based browsing and analysis of large document sets
+1997|31.0|6.5|ACM Transactions on Information Systems|A multilevel approach to intelligent information filtering: model, system, and evaluation
+1998|94.0|4.0|international conference on management of data|Integration of heterogeneous databases without common domains using queries based on textual similarity
+1999|13.0|3.0|international acm sigir conference on research and development in information retrieval|Information retrieval based on context distance and morphology
+2000|83.0|5.0|Machine Learning|Machine Learning for Information Extraction in Informal Domains
+2001|132.0|5.0|Machine Learning|Concept decompositions for large sparse text data using clustering
+2002|95.0|4.0|adaptive agents and multi-agents systems|Reputation and social network analysis in multi-agent systems
+2003|124.0|3.0|international acm sigir conference on research and development in information retrieval|Searching XML documents via XML fragments
+2004|122.0|3.0|conference on information and knowledge management|Simple BM25 extension to multiple weighted fields
+2005|339.0|3.0|international conference on machine learning|Learning to rank using gradient descent
+2006|115.0|4.0|international acm sigir conference on research and development in information retrieval|Adapting ranking SVM to document retrieval
+2007|227.0|3.0|international conference on machine learning|Learning to rank: from pairwise approach to listwise approach
+2008|107.0|3.0|empirical methods in natural language processing|A structured vector space model for word meaning in context
+2009|230.0|3.0|Foundations and Trends in Information Retrieval|Learning to Rank for Information Retrieval
+2010|114.0|3.0|computer vision and pattern recognition|Constrained parametric min-cuts for automatic object segmentation

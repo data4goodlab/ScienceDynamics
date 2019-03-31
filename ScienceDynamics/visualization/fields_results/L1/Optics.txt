@@ -1,0 +1,78 @@
+----  Field Name Optics: 
+----  Field Level 1.0: 
+----  Field Papers Number 273705:
+----  All time max citation paper: A feature-integration theory of attention, 1980, (5019.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1934|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|On the scattering of light by liquid surfaces
+1937|1.0|0.5|The Lancet|NUTRITION SURVEYS : VITAMIN-A DEFICIENCY AMONG SCHOOL-CHILDREN IN LONDON AND CAMBRIDGE
+1938|8.0|8.0|JAMA|VITAMIN A REQUIREMENTS AND PRACTICAL RECOMMENDATIONS FOR VITAMIN A INTAKE
+1940|13.0|2.5|JAMA|Cutaneous manifestations of vitamin A deficiency in Children.
+1941|4.0|2.0|Public Health Reports|Medical Evaluation of Nutritional Status: IV. The Ocular Manifestations of Avitaminosis A, with Especial Consideration of the Detection of Early Changes by Biomicroscopy
+1942|0|0.0|Psychological Review|Raymond Dodge, 1871-1942
+1945|0|0.0|Bulletin of Mathematical Biology|A theory of photosensitivity of some lower animals
+1946|8.0|8.0|Journal of Chemical Physics|Statistical Mechanics of Multimolecular Adsorption II. Localized and Mobile Adsorption and Absorption
+1947|0|0.0|Transactions of The American Institute of Electrical Engineers|An Improved Cable Carrier System
+1948|3.0|3.0|Review of Scientific Instruments|A New Compact Tiselius Electrophoresis Apparatus
+1949|2.0|2.0|Journal of Chemical Physics|Statistical Mechanics of Adsorption. VI. Localized Unimolecular Adsorption on a Heterogeneous Surface
+1950|3.0|2.5|Journal of the American Ceramic Society|Preparation, Structure, and Applications of Thin Films of Silicon Monoxide and Titanium Dioxide
+1951|9.0|4.0|Journal of Applied Physics|Mechanical Properties of Substances of High Molecular Weight. X. The Relaxation Distribution Function in Polyisobutylene and Its Solutions
+1952|5.0|0.5|Journal of Applied Physics|The Reliability of Internal Standards for Calibrating Electron Microscopes
+1953|6.0|0.0|Journal of Chemical Physics|Quantitative Studies of Apparent Rotational Temperatures of OH in Emission and Absorption (Spectral Lines with Doppler Contour)
+1954|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|Elliptic polarisation of light scattered by colloidal solutions
+1955|8.0|0.0|Journal of Applied Physics|Electron Microscopy of Monodisperse Latexes
+1956|5.0|0.0|Journal of Applied Physics|On the Transient Behavior of Semiconductor Rectifiers
+1957|8.0|0.0|Journal of Experimental Psychology|The relation of eye movements during sleep to dream activity: An objective method for the study of dreaming
+1958|5.0|2.0|Nuclear Instruments|Electromagnetic isotope separator in Gothenburg
+1959|9.0|1.0|Journal of Applied Physics|Pulse Technique for Probe Measurements in Gas Discharges
+1960|51.0|1.0|Journal of Applied Physics|Determination of Magnetization Distribution in Thin Films Using Electron Microscopy
+1961|8.0|2.0|Electroencephalography and Clinical Neurophysiology|A note on the EEG and eye movements during behavioral sleep in monkeys
+1962|18.0|1.0|Journal of Applied Physics|CHEMICAL ETCHING OF CHARGED-PARTICLE TRACKS IN SOLIDS
+1963|27.0|2.0|Journal of Geophysical Research|Structure of the crust and upper mantle in the western United States
+1964|25.0|1.0|Journal of Geophysical Research|Ionospheric transmission of transversely propagated plane waves at micropulsation frequencies and theoretical power spectrums
+1965|25.0|1.0|Journal of Geophysical Research|Transmission of geomagnetic micropulsations through the ionosphere and lower exosphere
+1966|26.0|2.0|Journal of Geophysical Research|Heat flow through the Arctic Ocean floor: The Canada BasinAlpha Rise Boundary
+1967|65.0|2.0|Journal of Geophysical Research|Deep earthquake zones, anomalous structures in the upper mantle, and the lithosphere
+1968|42.0|2.0|Icarus|Infrared optical properties of water and ice spheres
+1969|53.0|3.0|ACM Computing Surveys|Picture Processing by Computer
+1970|58.0|2.0|Journal of Geophysical Research|Observation of a solar flare induced interplanetary shock and heliumenriched driver gas
+1971|64.0|2.0|Journal of Geophysical Research|Temperature field and geophysical effects of a downgoing slab
+1972|59.0|2.0|Journal of Geophysical Research|PITCH-ANGLE DIFFUSION OF RADIATION-BELT ELECTRONS WITHIN THE PLASMASPHERE.
+1973|62.0|2.0|Journal of Geophysical Research|Auroral substorms and the interplanetary magnetic field
+1974|42.0|2.0|Earth and Planetary Science Letters|Fundamentals of ridge crest topography
+1975|64.0|2.0|Physics of Fluids|Twodimensional relativistic simulations of resonance absorption
+1976|76.0|2.0|Brain Research|Hypothalamic neuronal responses associated with the sight of food
+1977|94.0|2.0|Journal of Geophysical Research|Plasma bubbles and irregularities in the equatorial ionosphere
+1978|54.0|2.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Common strategies for light adaptation in the peripheral visual systems of fly and dragonfly
+1979|64.0|2.0|Geophysical Research Letters|Association of lowfrequency waves with suprathermal ions in the upstream solar wind
+1980|88.0|2.0|Cognitive Psychology|A feature-integration theory of attention
+1981|61.0|2.0|Journal of Geophysical Research|Direct plasma measurements in the Io torus and inner magnetosphere of Jupiter
+1982|195.0|2.0|Psychological Review|How Does a Brain Build a Cognitive Code?
+1983|78.0|2.0|Behavioral and Brain Sciences|The impending demise of the icon: A critique of the concept of iconic storage in visual information processing
+1984|51.0|2.0|Journal of Applied Physics|Cobaltfree permanent magnet materials based on ironrareearth alloys (invited)
+1985|136.0|2.0|Behavioral and Brain Sciences|Four frames suffice: A provisional model of vision and space
+1986|86.0|2.0|Journal of Fluid Mechanics|Coherent structures and turbulence
+1987|89.0|2.5|Journal of Applied Physics|Quantum confinement effects of semiconducting microcrystallites in glass
+1988|79.0|3.0|Science|Infection and replication of HIV-1 in purified progenitor cells of normal human bone marrow
+1989|159.0|2.0|Behavioral and Brain Sciences|A solution to the tag-assignment problem for neural networks
+1990|147.0|2.0|Applied Physics Letters|Arsenic precipitates and the semiinsulating properties of GaAs buffer layers grown by lowtemperature molecular beam epitaxy
+1991|113.0|2.0|vehicular technology conference|Overview of cellular CDMA
+1992|157.0|2.0|Applied Physics Letters|Combined shear force and nearfield scanning optical microscopy
+1993|285.0|2.0|Applied Physics Letters|Direct formation of quantumsized dots from uniform coherent islands of InGaAs on GaAs surfaces
+1994|120.0|2.0|Applied Physics Letters|Implantation and transient B diffusion in Si: The source of the interstitials
+1995|140.0|2.0|Journal of Chromatography A|Optical resolution of drugs by capillary electrophoretic techniques
+1996|144.0|2.0||Multi-modality image registration by maximization of mutual information
+1997|254.0|3.0|Applied Physics Letters|Role of self-formed InGaN quantum dots for exciton localization in the purple laser diode emitting at 420 nm
+1998|522.0|3.0|Nature Medicine|Neurogenesis in the adult human hippocampus
+1999|192.0|3.0|Pattern Recognition|An overlap invariant entropy measure of 3D medical image alignment
+2000|332.0|4.0|Journal of Applied Physics|Hafnium and zirconium silicates for advanced gate dielectrics
+2001|212.0|4.0|Applied Physics Letters|Room temperature ferromagnetic properties of (Ga, Mn)N
+2002|263.0|4.0|logic in computer science|Separation logic: a logic for shared mutable data structures
+2003|454.0|5.0|Journal of Geophysical Research|SpreadF/sporadic E coupling at ChungLi, especially for postsunset periods of sunspot maximum years
+2004|455.0|5.0|Journal of Materials Research|Measurement of hardness and elastic modulus by instrumented indentation: Advances in understanding and refinements to methodology
+2005|441.0|5.0|Science|SubDiffraction-Limited Optical Imaging with a Silver Superlens
+2006|582.0|4.0|IEEE Journal on Selected Areas in Communications|A simple Cooperative diversity method based on network path selection
+2007|785.0|5.0|Nature|The structure of suspended graphene sheets
+2008|1906.0|4.0|Nature Nanotechnology|Processable aqueous dispersions of graphene nanosheets
+2009|1995.0|4.0|Nature Nanotechnology|Chemical methods for the production of graphenes
+2010|2135.0|5.0|Nature Materials|Plasmonics for improved photovoltaic devices

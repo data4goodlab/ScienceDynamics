@@ -1,0 +1,48 @@
+----  Field Name Labour economics: 
+----  Field Level 1.0: 
+----  Field Papers Number 3398:
+----  All time max citation paper: The Fair Wage-Effort Hypothesis and Unemployment, 1990, (662.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1963|0|0.0|Australian Economic Papers|INTERINDUSTRY WAGE DIFFERENTIALS IN AUSTRALIA, 19471954*
+1969|0|0.0|Review of Educational Research|7: Economics of Education
+1971|2.0|2.0|Journal of Regional Science|THE NORTHSOUTH MANUFACTURING WAGE DIFFERENTIAL, 18691919
+1972|2.0|2.0|Journal of Regional Science|TECHNICAL PROGRESS, ECONOMIC GROWTH, AND THE NORTHSOUTH WAGE DIFFERENTIAL*
+1973|1.0|1.0|Journal of Economic Theory|Wage differentials in a dynamic theory of the firm
+1974|0|0.0||Progress in Human Capital Analysis of the Distribution of Earnings
+1975|4.0|2.0|Journal of Human Resources|Schooling as a Wage Depressant
+1976|12.0|1.0|Econometrica|Taxes in a Labor Supply Model with Joint Wage-Hours Determination.
+1977|4.0|2.0|Journal of Urban Economics|Government wage differentials
+1978|4.0|1.0|Industrial and Labor Relations Review|Job Mobility and Earnings Over the Life Cycle
+1979|2.0|2.0|Journal of Regional Science|ON THE THEORY OF INTERREGIONAL WAGE DIFFERENTIALS AND TECHNICAL CHANGE*
+1980|4.0|3.0|Social Science Research|Pay premiums for economic sector and race: A decomposition
+1981|4.0|1.5|Social Problems|Towards a Conceptualization of Immigrant Labor
+1982|4.0|1.0|Journal of Human Resources|Estimating Wage Discrimination in the Labor Market
+1983|5.0|1.0|Journal of Human Resources|Time-Series Evidence of the Effect of the Minimum Wage on Youth Employment and Unemployment
+1984|4.0|0.0|Economic Inquiry|EMPLOYEE EVALUATION OF PENSION CLAIMS AND THE IMPACT OF INDEXING INITIATIVES
+1985|11.0|1.0|Demography|Entry into marriage and parenthood by young men and women: the influence of family background.
+1986|36.0|0.5||Efficiency Wage Theories: A Partial Evaluation
+1987|8.0|1.0||Earnings and education in Brazil : evidence from the 1980 census
+1988|11.0|3.0||Can Inter-Industry Wage Differentials Justify Strategic Trade Policy?
+1989|35.0|2.0|Journal of Economic Literature|Male-Female Wage Differentials and Policy Responses
+1990|39.0|2.5|Quarterly Journal of Economics|The Fair Wage-Effort Hypothesis and Unemployment
+1991|16.0|2.0|Economica|Union Wage Differentials in the Face of Changes in the Economic and Legal Environment
+1992|17.0|3.0|Journal of Human Resources|A Structural Model of Labor Supply and Child Care Demand
+1993|9.0|2.0|Journal of Human Resources|Wage offers and full-time and part-time employment by British women
+1994|49.0|2.5|Journal of Econometrics|On discrimination and the decomposition of wage differentials
+1995|41.0|3.5|European Economic Review|Regional labor market dynamics in Europe
+1996|50.0|3.0|Review of Educational Research|The Effect of School Resources on Student Achievement.
+1997|74.0|2.0|World Bank Economic Review|Openness and wage inequality in developing countries : the Latin American challenge to east Asian conventional wisdom
+1998|31.0|3.0|Journal of Labor Economics|Dividing the Costs and Returns to General Training
+1999|40.0|3.0|World Bank Research Observer|Between the State and the Market: Can Informal Insurance Patch the Safety Net?
+2000|62.0|2.0|Alcoholism: Clinical and Experimental Research|Integrating PersonCentered and VariableCentered Analyses: Growth Mixture Modeling With Latent Trajectory Classes
+2001|54.0|3.0|European Economic Review|Latent entrepreneurship across nations
+2002|67.0|3.0|Journal of Economic Literature|Identity and Schooling: Some Lessons for the Economics of Education
+2003|42.0|3.0|Journal of Health Economics|Maternal employment and overweight children
+2004|63.0|4.0|Pediatrics|Early Television Exposure and Subsequent Attentional Problems in Children
+2005|70.0|3.0||Rising Wage Inequality: The Role of Composition and Prices
+2006|87.0|4.0|International Journal of Central Banking|What Firms' Surveys Tell Us about Price-Setting Behavior in the Euro Area
+2007|83.0|3.0|The Review of Economics and Statistics|Lousy and lovely jobs: the rising polarization of work in Britain
+2008|68.0|3.0|Review of Educational Research|Research on Globalization and Education
+2009|86.0|5.0|American Economic Journal: Applied Economics|Early Childhood Intervention and Life-Cycle Skill Development: Evidence from Head Start
+2010|157.0|4.0|Labour Economics|The long-term labor market consequences of graduating from college in a bad economy

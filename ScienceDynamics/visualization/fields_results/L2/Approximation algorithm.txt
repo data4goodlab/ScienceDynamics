@@ -1,0 +1,53 @@
+----  Field Name Approximation algorithm: 
+----  Field Level 2.0: 
+----  Field Papers Number 22717:
+----  All time max citation paper: Training feedforward networks with the Marquardt algorithm, 1994, (1973.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1963|11.0|11.0|Progress in Nucleic Acid Research and Molecular Biology|Specificity of Chemical Mutagenesis
+1965|15.0|15.0|Journal of Experimental Zoology|Isozymes of isocitrate dehydrogenase: Subunit structure and intracellular location
+1966|0|0.0|Genetics Research|Genetics of mub1 and of a complement defect in inbred strains of mice.
+1967|14.0|14.0|Brain Research|Ascending axon degeneration following hemisection of the spinal cord in the tegu lizard ( Tupinambis nigropunctatus )
+1968|12.0|2.5|Journal of the ACM|Mechanical Theorem-Proving by Model Elimination
+1969|1.0|1.0|IEEE Transactions on Computers|Calculation of Bayes' Recognition Error for Two Multivariate Gaussian Distributions
+1970|14.0|8.5|Biochemical Genetics|Glutamate oxalate transaminase (GOT) genetics in Mus musculus: linkage, polymorphism, and phenotypes of the Got-2 and Got-1 loci.
+1971|12.0|9.5|Biochemical Genetics|Biochemical polymorphisms in feral and inbred mice (mus musculus).
+1972|9.0|5.5|IEEE Transactions on Circuit Theory|Chebyshev Approximation for Nonrecursive Digital Filters with Linear Phase
+1973|19.0|1.0|IEEE Transactions on Computers|Waveform Segmentation Through Functional Approximation
+1974|8.0|1.5|Biochemical Genetics|Esterase-8 (es-8). Characterization, polymorphism, and linkage of an erythrocyte esterase locus on chromosome 7 of mus musculus.
+1975|12.0|9.0|Atherosclerosis|Familial hyper-HDL-()-cholesterolemia
+1976|15.0|3.0|symposium on the theory of computing|Some NP-complete geometric problems
+1977|128.0|2.0|Journal of Geophysical Research|A global thermospheric model based on mass spectrometer and incoherent scatter data MSIS, 2. Composition
+1978|5.0|1.0|Biochemical Genetics|Estimating total genic diversity in the house mouse.
+1979|9.0|2.0|Mathematics of Operations Research|Fast Approximation Algorithms for Knapsack Problems
+1980|43.0|3.0|Neuroscience|Histochemical identification and afferent connections of subdivisions in the lateralis posterior-pulvinar complex and related thalamic nuclei in the cat
+1981|30.0|2.0|Journal of the ACM|Theorem Proving via General Matings
+1982|54.0|5.0|Neuroscience|Growth and target finding by axons of the corticospinal tract in prenatal and postnatal rats
+1983|32.0|3.0|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|Diagnostic expert systems based on a set covering model
+1984|55.0|2.0|Neuroscience|Correspondence between the Dopamine islands and striosomes of the mammalian striatum
+1985|17.0|5.5|Journal of the ACM|Solving low-density subset sum problems
+1986|46.0|5.0|foundations of computer science|Approximate and exact parallel scheduling with applications to list, tree and graph problems
+1987|71.0|3.0|Gene|Transformation of Aspergillus based on the hygromycin B resistance marker from Escherichia coli
+1988|33.0|2.0|computer vision and pattern recognition|Object recognition by affine invariant matching
+1989|44.0|2.5|Discrete Applied Mathematics|Linear time algorithms for NP-hard problems restricted to partial k -trees
+1990|32.0|3.0|Machine Learning|Negative Results for Equivalence Queries
+1991|100.0|4.0|Journal of Computer and System Sciences|Optimization, approximation, and complexity classes
+1992|123.0|3.0|foundations of computer science|Proof verification and hardness of approximation problems
+1993|82.0|4.0|symposium on the theory of computing|On the hardness of approximating minimization problems
+1994|58.0|3.0|Neuroscience|Metabotropic glutamate receptors are differentially regulated during development
+1995|85.0|3.0|Journal of the ACM|Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming
+1996|57.0|3.0|The Journal of Pediatrics|Risk factors for carriage of drug-resistant Streptococcus pneumoniae among children in Memphis, Tennessee
+1997|79.0|3.0|Physiologia Plantarum|Reactive oxygen species and antioxidants: Relationships in green cells
+1998|99.0|3.0|Journal of the ACM|A threshold of ln n for approximating set cover
+1999|140.0|4.0|IEEE Transactions on Computers|GRASP: a search algorithm for propositional satisfiability
+2000|131.0|4.0|foundations of computer science|Clustering data streams
+2001|528.0|5.0|design automation conference|Chaff: engineering an efficient SAT solver
+2002|265.0|5.0|Gastroenterology|The contribution of NOD2 gene mutations to the risk and site of disease in inflammatory bowel disease
+2003|125.0|6.0|Gastroenterology|Association between the C3435T MDR1 gene polymorphism and susceptibility for ulcerative colitis
+2004|414.0|6.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|What energy functions can be minimized via graph cuts?
+2005|351.0|6.0|acm ieee international conference on mobile computing and networking|Joint channel assignment and routing for throughput optimization in multi-radio wireless mesh networks
+2006|250.0|5.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Convergent Tree-Reweighted Message Passing for Energy Minimization
+2007|206.0|5.0|The Journal of Pediatrics|Cardiovascular Risk Factors and Excess Adiposity Among Overweight Children and Adolescents: The Bogalusa Heart Study
+2008|500.0|3.0|Science|High-Quality Binary Protein Interaction Map of the Yeast Interactome Network
+2009|351.0|3.0|Clinical Nutrition|ESPEN Guidelines on Parenteral Nutrition: intensive care.
+2010|659.0|4.0|Gastroenterology|Genetic variation in IL28B is associated with chronic hepatitis C and treatment failure: a genome-wide association study.

@@ -1,0 +1,49 @@
+----  Field Name Information science: 
+----  Field Level 2.0: 
+----  Field Papers Number 6205:
+----  All time max citation paper: Indexing by Latent Semantic Analysis., 1990, (4790.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1968|5.0|5.0|Child Development|Developmental Trends in the Processing of Task-Relevant and Task-Irrelevant Information.
+1969|2.0|2.0|Communications of The ACM|Information science in a Ph.D. computer science program
+1970|1.0|1.0|Information Storage and Retrieval|The construction of retrieval environments and pseudo-classifications based on external relevance
+1971|4.0|1.0|Information Storage and Retrieval|Computer assisted indexing
+1972|4.0|3.0|Journal of Experimental Child Psychology|A Developmental Study of Visual Selective Attention.
+1973|11.0|2.0|Journal of Experimental Child Psychology|Integrated Pictures and Relational Imagery Training in Children's Learning.
+1974|2.0|1.5|Information Storage and Retrieval|Further Experiments with Hierarchic Clustering in Document Retrieval.
+1975|2.0|1.0|Information Processing and Management|A threshold model of relevance decisions
+1976|11.0|4.0|ACM Transactions on Database Systems|Decompositiona strategy for query processing
+1977|10.0|1.0||A Bibliometric Examination of the Square Root Theory of Scientific Publication Productivity,
+1978|10.0|2.0|Journal of The American Society for Information Science|Evaluation of information retrieval systems: A decision theory approach
+1979|12.0|4.0|Information Processing and Management|Fuzzy set theoretical approach to document retrieval
+1980|5.0|1.0|Information Processing and Management|Defining information: An analysis of the information content of documents
+1981|15.0|3.0|Journal of The American Society for Information Science|A model for a weighted retrieval system
+1982|10.0|3.0|meeting of the association for computational linguistics|The TEXT system for natural language generation: an overview
+1983|17.0|3.0|Journal of The American Society for Information Science|FASIT: A fully automatic syntactically based indexing system
+1984|11.0|2.0|Information Processing and Management|The value of information and computer-aided information seeking: problem formulation and application to fiction retrieval
+1985|11.0|1.0|Journal of The American Society for Information Science|Advanced feedback methods in information retrieval
+1986|16.0|2.0|Journal of The American Society for Information Science|Why are online catalogs hard to use? Lessons learned from informationretrieval studies
+1987|25.0|2.0|Information Processing and Management|Approaches to intelligent information retrieval
+1988|15.0|3.0||The RELAY model of error detection and its application
+1989|39.0|2.0|Information Processing and Management|Models for retrieval with probabilistic indexing
+1990|69.0|2.5|Journal of The American Society for Information Science|Indexing by Latent Semantic Analysis.
+1991|41.0|3.0|IEEE Transactions on Parallel and Distributed Systems|Compile-time techniques for data distribution in distributed memory machines
+1992|18.0|2.0|Information Processing and Management|The state of retrieval system evaluation
+1993|52.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|View variation of point-set and line-segment features
+1994|30.0|3.0|Journal of The American Society for Information Science|User-defined relevance criteria: an exploratory study
+1995|30.0|2.0|IEEE Transactions on Parallel and Distributed Systems|Allocation and scheduling of precedence-related periodic tasks
+1996|38.0|2.0|IEEE Transactions on Software Engineering|Analyzing regression test selection techniques
+1997|298.0|2.0|Information Processing and Management|Term-weighting approaches in automatic text retrieval
+1998|67.0|3.0|Journal of The American Society for Information Science|Internet browsing and searching: user evaluations of category map and concept space techniques
+1999|70.0|2.5|Information Processing and Management|Finding information on the World Wide Web: the retrieval effectiveness of search engines
+2000|64.0|2.0|Information Processing and Management|Real life, real users, and real needs: a study and analysis of user queries on the web
+2001|50.0|4.0|international conference on computer communications|Practical programmable packets
+2002|74.0|4.0|European Journal of Information Systems|Vicious and virtuous cycles in ERP implementation : a case study of interrelations between critical success factors
+2003|139.0|4.0|JAMA|External Incentives, Information Technology, and Organized Processes to Improve Health Care Quality for Patients With Chronic Diseases
+2004|70.0|2.0||Context-aware support for computer-supported ubiquitous learning
+2005|101.0|2.0|computer vision and pattern recognition|Local discriminant embedding and its variants
+2006|183.0|3.0|European Journal of Information Systems|Doing interpretive research
+2007|140.0|3.0|Journal of Information Technology|IT alignment: what have we learned?
+2008|167.0|1.0|European Journal of Information Systems|Measuring information systems success: models, dimensions, measures, and interrelationships
+2009|115.0|1.0|European Journal of Information Systems|Protection motivation and deterrence: a framework for security policy compliance in organisations
+2010|148.0|3.0|BMC Public Health|Comprehensive effective and efficient global public health surveillance

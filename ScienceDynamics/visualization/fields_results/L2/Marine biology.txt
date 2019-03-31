@@ -1,0 +1,76 @@
+----  Field Name Marine biology
+----  Field Level 2.0
+----  Field Papers Number 106860
+----  All time max citation paper Initial sequencing and analysis of the human genome, 2001, (10313.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1922|0|0.0|Journal of the Marine Biological Association of the United Kingdom|The Hydrogen Ion Concentration of Sea Water in its Biological Relations
+1929|4.0|4.0|Protoplasma|The effects of acids and alkalies on the viscosity of protoplasm
+1930|0|0.0|Journal of the Marine Biological Association of the United Kingdom|Seasonal Variations in the Phosphate and Silicate Content of Sea-Water in Relation to the Phyto-plankton Crop. Part V. November 1927 to April 1929, Compared with Earlier Years from 1923
+1932|0|0.0|Journal of the Marine Biological Association of the United Kingdom|Nitrate in Sea-water and its Estimation by means of Diphenylbenzidine
+1937|1.0|1.0|Journal of the Marine Biological Association of the United Kingdom|Oxidation-Reduction Potential in Sea Water
+1938|1.0|1.0|Journal of the Marine Biological Association of the United Kingdom|Salt Error in Determinations of Phosphate in Sea Water
+1939|0|0.0|Journal of the Optical Society of America|Laboratory Analysis of the Selective Absorption of Light by Sea Water*
+1940|1.0|1.0|Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)|On the Function of Chlorocruorin
+1947|0|0.0|Journal of the Marine Biological Association of the United Kingdom|Experiments on the Vertical Migration of Plankton Animals
+1948|1.0|1.0|Journal of the Marine Biological Association of the United Kingdom|The Estimation of Phosphate and of Total Phosphorus in Sea Waters
+1949|0|0.0|Microbiology|Development of Bacteria in Waters Stored in Glass Containers
+1950|0|0.0|American Journal of Botany|The effects of auxins on the growth of marine algae.
+1951|1.0|1.0|Biological Reviews|THE VERTICAL MIGRATION OF PLANKTONIC CRUSTACEA
+1954|8.0|1.0|Geochimica et Cosmochimica Acta|The transport and deposition of uranium, ionium and radium in rivers, oceans and ocean sediments
+1955|2.0|2.0|Journal of the Marine Biological Association of the United Kingdom|Biologically active compounds in the sea
+1956|6.0|3.0|Geochimica et Cosmochimica Acta|Dissolution and precipitation of silica at low temperatures
+1957|18.0|2.5|Archives of Microbiology|The development of artificial media for marine algae
+1958|25.0|3.0|Geochimica et Cosmochimica Acta|Chemistry of Pacific pelagic sediments
+1959|9.0|1.0|Geochimica et Cosmochimica Acta|The abundances of gallium and germanium in terrestrial materials
+1960|7.0|0.0|Geochimica et Cosmochimica Acta|Recovery of dissolved organic matter in sea-water and organic sorption by particulate material
+1961|8.0|3.0|Geochimica et Cosmochimica Acta|SULPHUR ISOTOPE GEOCHEMISTRY
+1962|21.0|2.0|Geochimica et Cosmochimica Acta|Geochronological studies of deep sea sediments by the ionium/thorium method
+1963|17.0|2.0|Geochimica et Cosmochimica Acta|The distribution and isotopic abundance of sulphur in recent marine sediments off southern California
+1964|16.0|3.0|Journal of Geophysical Research|Crustal structure from pacific basin to central Nevada
+1965|21.0|3.0|Geochimica et Cosmochimica Acta|The investigation of the geographical and vertical distribution of several trace elements in sea water using neutron activation analysis
+1966|11.0|2.5|Icarus|Q in the solar system
+1967|16.0|3.0|Journal of the Marine Biological Association of the United Kingdom|Determination of nitrate in sea water by cadmium-copper reduction to nitrite
+1968|198.0|4.0|Journal of Geophysical Research|Marine magnetic anomalies, geomagnetic field reversals, and motions of the ocean floor and continents
+1969|29.0|3.0|Geochimica et Cosmochimica Acta|Chemical concentrations of pollutant lead aerosols, terrestrial dusts and sea salts in Greenland and Antarctic snow strata
+1970|119.0|3.0|Journal of Geophysical Research|Mountain belts and the new global tectonics
+1971|43.0|2.0|Journal of Geophysical Research|The origin of metalbearing submarine hydrothermal solutions
+1972|20.0|3.0|Geochimica et Cosmochimica Acta|Early diagenesis in a reducing fjord, Saanich Inlet, British ColumbiaII. Trace element distribution in interstitial water and sediment
+1973|41.0|3.0|Journal of Geophysical Research|Atmospheric and surface properties of Mars obtained by infrared spectroscopy on Mariner 9
+1974|27.0|4.0|Earth and Planetary Science Letters|Geosecs North Atlantic radiocarbon and tritium results
+1975|557.0|3.0|Nature|Identification of two related pentapeptides from the brain with potent opiate agonist activity
+1976|168.0|5.0|Nature|C fragment of lipotropin has a high affinity for brain opiate receptors
+1977|67.0|3.5|Nature|Role of prostaglandin endoperoxide PGG2 in inflammatory processes
+1978|65.0|4.0|Estuarine and Coastal Marine Science|The complexation of metals with humic materials in natural waters
+1979|47.0|4.0|Analytica Chimica Acta|Sampling and analytical methods for the determination of copper, cadmium, zinc, and nickel at the nanogram per liter level in sea water
+1980|406.0|3.0|Nature|The role of hormone receptors and GTP-regulatory proteins in membrane transduction.
+1981|56.0|3.0|Geochimica et Cosmochimica Acta|The equilibrium speciation of dissolved components in freshwater and sea water at 25C and 1 atm pressure
+1982|56.0|3.0|Geochimica et Cosmochimica Acta|Ocean chemistry during glacial time
+1983|85.0|3.0|Journal of Geophysical Research|Nitrogen oxides in the troposphere: Global and regional budgets
+1984|59.0|3.0|Earth and Planetary Science Letters|Chemistry of solutions from the 13N East Pacific Rise hydrothermal site
+1985|52.0|3.0|Geochimica et Cosmochimica Acta|Sm-Nd in marine carbonates and phosphates: Implications for Nd isotopes in seawater and crustal ages
+1986|33.0|3.0|Geochimica et Cosmochimica Acta|Geochemistry of brachiopods: Oxygen and carbon isotopic records of Paleozoic oceans
+1987|59.0|3.0|Journal of Geophysical Research|Chemistry of hydrothermal solutions from the southern Juan de Fuca Ridge
+1988|46.0|3.0|Peptides|Differential distribution of two molecular forms of gonadotropin-releasing hormone in discrete brain areas of goldfish (Carassius auratus)
+1989|57.0|3.0|Earth and Planetary Science Letters|The strontium isotope budget of the modern ocean
+1990|67.0|3.0|Journal of Geophysical Research|Oceanic tides from Geosat altimetry
+1991|97.0|3.0|Journal of Geophysical Research|Threedimensional model synthesis of the global methane cycle
+1992|80.0|3.0|Journal of Geophysical Research|Relationship between wind speed and gas exchange over the ocean
+1993|65.0|3.0|Earth and Planetary Science Letters|Volcanic eruption of the mid-ocean ridge along the East Pacific Rise crest at 945-52'N: direct submersible observations of seafloor phenomena associated with an eruption event in April, 1991
+1994|78.0|3.0|Geochimica et Cosmochimica Acta|Surface area control of organic carbon accumulation in continental shelf sediments
+1995|103.0|3.0|Marine Chemistry|Sedimentary organic matter preservation: an assessment and speculative synthesis
+1996|76.0|3.0|Global Biogeochemical Cycles|An integrated biosphere model of land surface processes, terrestrial carbon balance, and vegetation dynamics
+1997|1035.0|7.0|Nature|Functional rafts in cell membranes
+1998|2478.0|8.0|Nature|Dendritic cells and the control of immunity
+1999|798.0|10.0|Nature|Molecular characterization of mitochondrial apoptosis-inducing factor
+2000|1400.0|9.0|Nature|Distinct types of diffuse large B-cell lymphoma identified by gene expressionprofiling
+2001|4579.0|8.0|Nature|Initial sequencing and analysis of the human genome
+2002|1438.0|9.0|Nature|Pluripotency of mesenchymal stem cells derived from adult marrow
+2003|1006.0|10.0|Nature|The International HapMap Project
+2004|1050.0|11.0|Nature|Identification of human brain tumour initiating cells
+2005|1559.0|11.0|Nature|MicroRNA expression profiles classify human cancers.
+2006|1988.0|10.0|Nature|Reciprocal developmental pathways for the generation of pathogenic effector TH17 and regulatory T cells
+2007|1465.0|10.0|Nature|A second generation human haplotype map of over 3.1 million SNPs.
+2008|2058.0|11.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|10.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|2096.0|10.0|Nature|A human gut microbial gene catalogue established by metagenomic sequencing

@@ -1,0 +1,50 @@
+----  Field Name Job shop scheduling: 
+----  Field Level 2.0: 
+----  Field Papers Number 12400:
+----  All time max citation paper: Ant system: optimization by a colony of cooperating agents, 1996, (3357.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|6.0|4.0|Operations Research|Application of the Branch and Bound Technique to Some Flow-Shop Scheduling Problems
+1966|7.0|7.0|Management Science|Heuristics in Job Shop Scheduling
+1968|1.0|1.0|Management Science|A Search Decision Rule for the Aggregate Scheduling Problem
+1969|5.0|5.0||Models of Pure time-sharing disciplines for resource allocation
+1971|2.0|1.5|International Journal of Production Research|M-stage scheduling problema critical appraisal
+1972|3.0|2.5|European Journal of Immunology|Studies on the mechanism of antigenic competition: Analysis of competition between synthetic polypeptide antigens
+1973|16.0|4.0|symposium on operating systems principles|Polynomial complete scheduling problems
+1974|4.0|3.0||Scheduling independent processors with different storage capacities
+1975|16.0|2.0|Journal of Computer and System Sciences|NP-complete scheduling problems
+1976|3.0|1.0|Management Science|Heuristic Scheduling of Activities under Resource and Precedence Restrictions
+1977|18.0|0.0|ACM Computing Surveys|Deterministic Processor Scheduling
+1978|5.0|3.0|Steroids|Competitive inhibition of specific steroid-protein binding: Practical use of relative competition ratios for the derivation of equilibrium inhibition constants
+1979|5.0|3.5|Nature|A normal cell protein cross-reactive to the major Abelson murine leukaemia virus gene product
+1980|8.0|5.5|international conference on management of data|DIAL: a programming language for data intensive applications
+1981|1.0|0.5|Oecologia|Competition in an Indo-Pacific hermit crab community
+1982|22.0|2.5|Computer Compacts|The Intelligent Management System: An Overview.
+1983|33.0|3.5||Constraint-directed search: a case study of job-shop scheduling
+1984|14.0|3.0|Management Science|Sequencing Rules and Due-Date Assignments in a Job Shop
+1985|9.0|2.5|international joint conference on artificial intelligence|The use of multiple problem decompositions in time constrained planning tasks
+1986|46.0|2.5|foundations of computer science|Approximate and exact parallel scheduling with applications to list, tree and graph problems
+1987|29.0|5.5|IEEE Transactions on Computers|Preemptive Scheduling Under Time and Resource Constraints
+1988|47.0|2.0|IEEE Software|Characterizing the software process: a maturity framework
+1989|45.0|2.5|Management Science|An algorithm for solving the job-shop problem
+1990|50.0|1.5|international symposium on computer architecture|Boosting beyond static scheduling in a superscalar processor
+1991|81.0|3.0|IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems|A formal approach to the scheduling problem in high level synthesis
+1992|107.0|2.0|Operations Research|Job shop scheduling by simulated annealing
+1993|70.0|3.0|IEEE Transactions on Knowledge and Data Engineering|Efficient storage techniques for digital continuous multimedia
+1994|172.0|3.0|programming language design and implementation|ATOM: a system for building customized program analysis tools
+1995|55.0|3.0|Management Science|Characterization and generation of a general class of resource-constrained project scheduling problems
+1996|118.0|3.0|systems man and cybernetics|Ant system: optimization by a colony of cooperating agents
+1997|47.0|2.0|Mathematics of Operations Research|Scheduling to minimize average completion time: off-line and on-line approximation algorithms
+1998|100.0|3.0|symposium on principles of programming languages|From system F to typed assembly language
+1999|50.0|3.0|international symposium on computer architecture|Speculation techniques for improving load related instruction scheduling
+2000|198.0|3.0|IEEE Computer|The real-time specification for Java
+2001|126.0|4.0|Games and Economic Behavior|Auction Protocols for Decentralized Scheduling
+2002|103.0|4.0|IEEE Transactions on Parallel and Distributed Systems|Performance-effective and low-complexity task scheduling for heterogeneous computing
+2003|140.0|5.0|international conference on management of data|A symbolic representation of time series, with implications for streaming algorithms
+2004|103.0|5.0|IEEE Transactions on Computers|Power-aware scheduling for periodic real-time tasks
+2005|410.0|4.0|programming language design and implementation|Pin: building customized program analysis tools with dynamic instrumentation
+2006|128.0|3.0|Computers & Chemical Engineering|State-of-the-art review of optimization methods for short-term scheduling of batch processes
+2007|131.0|4.0|European Journal of Operational Research|A particle swarm optimization algorithm for makespan and total flowtime minimization in the permutation flowshop sequencing problem
+2008|354.0|3.0|European Journal of Operational Research|A survey of scheduling problems with setup times or costs
+2009|208.0|3.0|internet measurement conference|Energy consumption in mobile phones: a measurement study and implications for network applications
+2010|179.0|5.0|European Journal of Operational Research|A survey of berth allocation and quay crane scheduling problems in container terminals

@@ -1,0 +1,49 @@
+----  Field Name Management information systems: 
+----  Field Level 2.0: 
+----  Field Papers Number 5510:
+----  All time max citation paper: Power, politics, and MIS implementation, 1983, (902.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1963|0|0.0|Philosophical Magazine|CONTRIBUTION OF THREE-BODY INTERACTIONS TO THE ENERGY OF VACANCY FORMATION IN SOLID ARGON,
+1969|0|0.0||Management Information System simulation models: A conceptual approach
+1970|1.0|0.5|Communications of The ACM|Computer education in a graduate school of management
+1971|0|0.0||A machine independent fortran data management software system for scientific and engineering applications
+1972|34.0|11.0|Communications of The ACM|Curriculum recommendations for graduate professional programs in information systems
+1973|3.0|1.0|Communications of The ACM|Curriculum recommendations for graduate professional programs in information systems: recommended addendum on information systems administration
+1974|15.0|1.0|The Journal of Allergy and Clinical Immunology|Immunologic events in pigeon breeders' disease
+1975|47.0|1.5||INGRES: a relational data base system
+1976|6.0|1.0|ACM Transactions on Database Systems|Databsse system approach the management decision support
+1977|4.0|1.5|Human Relations|User Influence and the Success of MIS Projects: A Contingency Approach
+1978|15.0|1.0|Communications of The ACM|Automated welfare client-tracking and service integration: the political economy of computing
+1979|14.0|2.0|Journal of Geophysical Research|Eolian features in the western desert of Egypt and some applications to Mars
+1980|18.0|1.0|Educational Evaluation and Policy Analysis|An Analysis of Alternative Approaches to Evaluation
+1981|13.0|3.0|IEEE Computer|Pictorial Data-Base Systems
+1982|22.0|3.0|Computer Compacts|The Intelligent Management System: An Overview.
+1983|28.0|2.5|Communications of The ACM|Power, politics, and MIS implementation
+1984|40.0|2.0|Decision Sciences|COMPUTER GRAPHICS AS DECISION AIDS: DIRECTIONS FOR RESEARCH*
+1985|32.0|2.0|IEEE Software|Features Of Languages for the Development of Information Systems at the conceptual Level
+1986|26.0|3.0|Management Information Systems Quarterly|Information technology and corporate strategy: a research perspective
+1987|46.0|2.0|IEEE Software|Visual Languages: A Tutorial and Survey
+1988|13.0|1.0|Decision Sciences|METADESIGN CONSIDERATIONS IN DEVELOPING MODEL MANAGEMENT SYSTEMS*
+1989|31.0|1.0|Decision Sciences|Some Cautions on the Measurement of User Information Satisfaction*
+1990|42.0|1.0|IEEE Transactions on Knowledge and Data Engineering|The DASDBS project: objectives, experiences, and future prospects
+1991|73.0|2.5|Management Information Systems Quarterly|Information systems management issues for the 1990s
+1992|48.0|2.0|IEEE Transactions on Software Engineering|Representing and using nonfunctional requirements: a process-oriented approach
+1993|72.0|1.0|IEEE Transactions on Knowledge and Data Engineering|Interval-based conceptual models for time-dependent multimedia data
+1994|37.0|1.0|ACM Transactions on Graphics|Three-dimensional alpha shapes
+1995|64.0|1.0||Towards heterogeneous multimedia information systems: the Garlic approach
+1996|86.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Using discriminant eigenfeatures for image retrieval
+1997|102.0|2.0|international conference on management of data|InfoSleuth: agent-based semantic integration of information in open and dynamic environments
+1998|68.0|2.0|international conference on computer graphics and interactive techniques|Progressive forest split compression
+1999|51.0|4.0|international conference on computer graphics and interactive techniques|Art-based rendering of fur, grass, and trees
+2000|158.0|3.0|Nature|Large-scale synthesis of a silicon photonic crystal with a complete three-dimensional bandgap near 1.5 micrometres
+2001|83.0|3.0|European Journal of Operational Research|Rough sets theory for multicriteria decision analysis
+2002|74.0|3.0|European Journal of Information Systems|Vicious and virtuous cycles in ERP implementation : a case study of interrelations between critical success factors
+2003|194.0|5.0|ACM Transactions on Computer Systems|Astrolabe: A robust and scalable technology for distributed system monitoring, management, and data mining
+2004|98.0|4.0|acm special interest group on data communication|A scalable distributed information management system
+2005|291.0|4.5||Multiple criteria decision analysis: state of the art surveys
+2006|183.0|4.0|European Journal of Information Systems|Doing interpretive research
+2007|140.0|4.0|Journal of Information Technology|IT alignment: what have we learned?
+2008|179.0|3.0|The Information Society|The Concept of Information Overload: A Review of Literature from Organization Science, Accounting, Marketing, MIS, and Related Disciplines
+2009|127.0|3.0||Holonic and Multi-Agent Systems for Manufacturing
+2010|155.0|4.0|Industrial Marketing Management|Critical realism in case study research

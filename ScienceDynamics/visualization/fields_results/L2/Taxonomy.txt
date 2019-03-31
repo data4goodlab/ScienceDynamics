@@ -1,0 +1,82 @@
+----  Field Name Taxonomy: 
+----  Field Level 2.0: 
+----  Field Papers Number 35993:
+----  All time max citation paper: Ontogenetic and among-individual variation in foraging strategies of northeast Pacific white sharks based on stable isotope analysis, 2012, (1963.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1927|0|0.0|Parasitology|A Reference List of the Trematode Parasites of Man and the Primates
+1928|2.0|2.0|Transactions of The British Mycological Society|The life-history and cytology of a new species of Olpidium; Olpidium radicale sp. nov.
+1930|3.0|3.0|Journal of Genetics|The wheat species: a critique.
+1931|3.0|3.0|Parasitology|Studies on Trypanosoma grayi . III. Life-Cycle in the Tsetse-fly and in the Crocodile
+1932|2.0|1.5|Journal of Helminthology|The genus Anguillulina Gerv. & v. Ben., 1859 vel Tylenchus Bastian, 1865.
+1935|0|0.0|Journal of Ecology|A Study of the Natural Control of Ragwort (Senecio jacobaea L.).
+1938|0|0.0|Transactions of The British Mycological Society|The original and modern conceptions of Stemphylium.
+1940|13.0|1.0|JAMA|Cutaneous manifestations of vitamin A deficiency in Children.
+1941|0|0.0|American Journal of Botany|The species concept in Fusarium with reference to section Martiella.
+1943|2.0|2.0|JAMA|ROCKY MOUNTAIN SPOTTED FEVER
+1944|0|0.0||Bionomics and Control of the Nigra Scale, Saissetia nigra.
+1946|2.0|2.0|Transactions of The British Mycological Society|New or interesting British fungi.
+1947|2.0|1.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|Studies in leishmaniasis in the Anglo-Egyptian Sudan IX. Further observations on the sandflies ( Phlebotomus ) of the Sudan
+1948|1.0|0.5|Transactions of The British Mycological Society|Seed-borne diseases of clover
+1949|0|0.0|British Journal of Dermatology|Fungi and fungus diseases.
+1950|4.0|1.5|European Journal of Soil Science|Comparative morphology and genetic relationships of certain Australian, North American and European soils.
+1951|1.0|0.5|Transactions of The British Mycological Society|Some agaricaceae of Trinidad and Venezuela. Leucosporae: Part 1
+1952|2.0|0.0|Brittonia|Dynamics of leaf variation in the sugar Maples.
+1953|1.0|0.5|Journal of Dairy Science|The Effect of Thyroprotein Feeding on the Blood Level of Inorganic Iodine, Protein-Bound Iodine and Cholesterol in Dairy Cows
+1954|3.0|1.5|Archives of Biochemistry and Biophysics|Metabolism of hydrogen isotopes by rapidly growing Chlorella pyrenoidosa cells
+1955|3.0|0.0|Annals of Applied Biology|VARIATION IN PLASMODIOPHORA BRASSICAE WORON.
+1956|6.0|3.0|Microbiology|The Classification and Nomenclature of Organisms of the Pleuropneumonia Group.
+1957|1.0|1.0|Ecological Entomology|A REVIEW OF BRITISH GLASSHOUSE THYSANOPTERA
+1958|0|0.0|American Journal of Botany|Apomixis in the Gramineae: Panicoideae.
+1959|11.0|6.5|Annals of Applied Biology|Host range studies with fifty-two plant viruses.
+1960|4.0|1.0|Journal of Eukaryotic Microbiology|Some Considerations Regarding the Sporozoa*
+1961|10.0|1.0|Virology|Transmission of a strain of tomato black ring virus by Longidorus elongatus (Nematoda)
+1962|2.0|2.0|Journal of Helminthology|Studies on Larval Trematodes Infecting Freshwater Snails in London (U.K.) and Some Adjoining Areas. Part VI. The Gercariae of the Vivax Group and the Life History of Cercaria bushiensis n.sp. (= Cyathocotyle bushiensis n.sp.)
+1963|2.0|2.0|Archives of Microbiology|The capacity for organic synthesis in cells of successive developmental stages
+1964|3.0|0.0|Experimental Cell Research|Antimitotic effects of chloramphenicol and other inhibitory agents in Chlamydomonas
+1965|29.0|2.0|Microbiology|The Classification of Staphylococci and Micrococci from World-Wide Sources.
+1966|4.0|1.0|Parasitology|Studies on the morphology and life-cycle of Diplostomum (Diplostomum) gasterostei (Strigeida: Trematoda).
+1967|9.0|5.0|Physiologia Plantarum|Primary and secondary carotenoids of Spongiochloris typica.
+1968|4.0|1.5|Deep Sea Research and Oceanographic Abstracts|Metabolic fractionation of carbon isotopes in marine planktonII. Data on samples collected off the coasts of Peru and Ecuador
+1969|4.0|2.5|Comparative Biochemistry and Physiology|Aminophosphonic acids: Biosynthesis by marine phytoplankton
+1970|20.0|2.0||Genetic transfer and bacterial taxonomy.
+1971|26.0|3.0|Microbiology|Numerical taxonomy of some nocardioform bacteria.
+1972|15.0|0.0|Science|Siliceous algal and bacterial stromatolites in hot spring and geyser effluents of Yellowstone National Park
+1973|17.0|4.0|Phytochemistry|Sterols of the fungi - Distribution and biosynthesis.
+1974|8.0|1.0|Cellular Immunology|Selective T cell killing of human lymphocytes by ultraviolet radiation
+1975|20.0|2.0|Reviews of Geophysics|Classification and properties of iron meteorites
+1976|9.0|4.0|Archives of Biochemistry and Biophysics|Characterization of cryptomonad phycoerythrin and phycocyanin
+1977|13.0|2.0|Journal of Human Evolution|Catarrhine phylogeny and classification: Principles, methods and comments
+1978|27.0|5.0|Geochimica et Cosmochimica Acta|Source indicators of humic substances and proto-kerogen. Stable isotope ratios, elemental compositions and electron spin resonance spectra
+1979|19.0|3.0|Phytochemistry|Fatty acid composition of ten marine algae from australian waters
+1980|45.0|3.0|Advances in Computers|The Structure of Parallel Algorithms
+1981|106.0|2.0|Behavioral and Brain Sciences|Categories, life, and thinking
+1982|43.0|3.0|Behavioral Ecology and Sociobiology|Optimal foraging: Some simple stochastic models.
+1983|30.0|2.0|Oecologia|Downy woodpecker foraging behavior: foraging by expectation and energy intake rate
+1984|27.0|2.0|BioSystems|The kingdom PROTISTA and its 45 phyla
+1985|135.0|3.0|Behavioral and Brain Sciences|Choice, optimal foraging, and the delay-reduction hypothesis
+1986|21.0|2.0|Organic Geochemistry|Bacterial and algal hydrocarbons in sediments from a saline Antarctic lake, Ace Lake
+1987|56.0|2.0|Journal of Applied Microbiology|Listeria monocytogenes, recent advances in the taxonomy and epidemiology of listeriosis in humans
+1988|133.0|2.0|Behavioral and Brain Sciences|A framework for the functional analysis of behaviour
+1989|72.0|3.0|Advances in Virus Research|Structure of potyvirus coat proteins and its application in the taxonomy of the potyvirus group.
+1990|59.0|2.5|Artificial Intelligence|Causal model progressions as a foundation for intelligent learning environments
+1991|80.0|3.0|The Quarterly Review of Biology|Ribosomal DNA: molecular evolution and phylogenetic inference.
+1992|45.0|3.0|IEEE Computer|A taxonomy and current issues in multidatabase systems
+1993|54.0|3.0|Cell|An alternative pathway for yeast telomere maintenance rescues est1 senescence
+1994|55.0|3.0|Neuroscience & Biobehavioral Reviews|Circadian food-anticipatory activity: Formal models and physiological mechanisms
+1995|63.0|3.0|Clinical Infectious Diseases|Epidemiology of Nosocomial Fungal Infections, with Emphasis on Candida Species
+1996|65.0|3.0|IEEE Intelligent Systems|Agent-based engineering, the Web, and intelligence
+1997|274.0|3.0|Nature|CRM1 is responsible for intracellular transport mediated by the nuclear export signal
+1998|238.0|4.0|Nature|Mycorrhizal fungal diversity determines plant biodiversity, ecosystem variability and productivity
+1999|464.0|5.0|Neuropharmacology|A review of central 5-HT receptors and their function.
+2000|266.0|5.0|Geology|Chuar Group of the Grand Canyon: Record of Breakup of Rodinia, Associated Change in the Global Carbon Cycle, and Ecosystem Expansion by 740 Ma
+2001|442.0|5.0|IEEE Computer|Location systems for ubiquitous computing
+2002|303.0|5.0|Nature Immunology|Homeostasis and anergy of CD4+CD25+ suppressor T cells in vivo
+2003|274.0|7.0|Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)|Biological identifications through DNA barcodes.
+2004|187.0|6.0|information processing in sensor networks|The Sybil attack in sensor networks: analysis & defenses
+2005|430.0|6.0|Journal of Eukaryotic Microbiology|The New Higher Level Classification of Eukaryotes with Emphasis on the Taxonomy of Protists
+2006|816.0|6.0|IEEE Computational Intelligence Magazine|Ant colony optimization
+2007|427.0|7.0|IEEE Signal Processing Magazine|A Survey of Dynamic Spectrum Access
+2008|769.0|6.0|Plant Journal|Microalgal triacylglycerols as feedstocks for biofuel production: perspectives and advances
+2009|845.0|7.0|Nature|Origins and evolutionary genomics of the 2009 swine-origin H1N1 influenza A epidemic
+2010|1330.0|6.0|PLOS ONE|Fine-Scale Movements of the Broadnose Sevengill Shark and Its Main Prey, the Gummy Shark

@@ -1,0 +1,54 @@
+----  Field Name Web search engine
+----  Field Level 2.0
+----  Field Papers Number 102656
+----  All time max citation paper A theory for multiresolution signal decomposition: the wavelet representation, 1989, (6734.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1961|1.0|1.0|IEEE Transactions on Information Theory|On the asmptotic efficiency of locally optimum detectors
+1962|13.0|8.5|Journal of the ACM|Information Retrieval Based upon Latent Class Analysis
+1964|2.0|2.0|American Journal of Potato Research|Red Pontiac vine and tuber yields as affected by virus X.
+1965|4.0|2.5|Journal of the ACM|Automatic Subject Recognition in Scientific Papers: An Empirical Study
+1967|14.0|14.0|Brain Research|Ascending axon degeneration following hemisection of the spinal cord in the tegu lizard ( Tupinambis nigropunctatus )
+1968|0|0.0||Application of statistical association techniques for the NASA document collection
+1969|4.0|4.0|American Documentation|The cost analysis of document surrogation: A literature review
+1970|0|0.0|Journal of The American Society for Information Science|The Practice of Charging Users for Information Services: A State of the Art Report.
+1971|4.0|1.5|Information Storage and Retrieval|Computer assisted indexing
+1972|3.0|2.0|Journal of The American Society for Information Science|An Experiment in Index Term Frequency.
+1973|3.0|1.5|Information Storage and Retrieval|Index Term Weighting.
+1974|4.0|3.0|Comparative Biochemistry and Physiology Part A: Physiology|Intestinal absorption of d-glucose and d-galactose in rats infected with Nematospiroides dubius
+1975|8.0|1.5|IEEE Transactions on Computers|Decomposition of Polygons into Simpler Components: Feature Generation for Syntactic Pattern Recognition
+1976|15.0|4.0|ACM Transactions on Database Systems|A dynamic database reorganization algorithm
+1977|2.0|2.0|Intelligence\/sigart Bulletin|The use of production systems in RITA to construct personal computer agents
+1978|13.0|4.0|Communications of The ACM|The development of the MU5 computer system
+1979|16.0|6.0|Communications of The ACM|Logic and semantic networks
+1980|20.0|1.0|Gastroenterology|Abnormal regulation of immunoglobulin synthesis in vitro in primary biliary cirrhosis
+1981|17.0|7.0||Text-critiquing with the EPISTLE system: an author's aid to better syntax
+1982|39.0|4.5|Biochemical and Biophysical Research Communications|Seven peptides derived from pro-somatostatin in rat brain
+1983|42.0|3.0|Communications of The ACM|Using formal specifications in the design of a human-computer interface
+1984|32.0|4.0|Brain Research|Distribution of immunoreactive dynorphin B in discrete areas of the rat brain and spinal cord
+1985|52.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Stereo by Intra- and Inter-Scanline Search Using Dynamic Programming
+1986|87.0|5.0|IEEE Transactions on Computers|Graph-Based Algorithms for Boolean Function Manipulation
+1987|36.0|4.5|Insect Biochemistry|In vivo fluctuation of JH, JH acid, and ecdysteroid titer, and JH esterase activity, during development of fifth stadium Manduca sexta
+1988|86.0|5.0|Neuroscience|N-methyl-d-aspartate promotes the survival of cerebellar granule cells in culture
+1989|305.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A theory for multiresolution signal decomposition: the wavelet representation
+1990|132.0|5.0|Biochemical and Biophysical Research Communications|C-type natriuretic peptide (CNP): a new member of natriuretic peptide family identified in porcine brain.
+1991|79.0|4.0|IEEE Transactions on Information Theory|A calculus for network delay. I. Network elements in isolation
+1992|200.0|5.0|IEEE Transactions on Parallel and Distributed Systems|Virtual-channel flow control
+1993|224.0|5.0|Nature Genetics|Identification of protein coding regions by database similarity search.
+1994|221.0|4.0|Communications of The ACM|The Dexter hypertext reference model
+1995|165.0|5.0|IEEE Transactions on Information Theory|De-noising by soft-thresholding
+1996|223.0|4.0|IEEE Transactions on Information Theory|Iterative decoding of binary block and convolutional codes
+1997|223.0|3.0|IEEE Transactions on Image Processing|Secure spread spectrum watermarking for multimedia
+1998|524.0|3.0|Computer Networks and Isdn Systems|The anatomy of a large-scale hypertextual Web search engine
+1999|681.0|4.0|IEEE Transactions on Information Theory|Space-time block codes from orthogonal designs
+2000|560.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Content-based image retrieval at the end of the early years
+2001|774.0|5.0|Nature Biotechnology|Large-scale analysis of the yeast proteome by multidimensional protein identification technology.
+2002|690.0|5.0|IEEE Transactions on Evolutionary Computation|A fast and elitist multiobjective genetic algorithm: NSGA-II
+2003|1931.0|6.0|IEEE\/ACM Transactions on Networking|Chord: a scalable peer-to-peer lookup protocol for Internet applications
+2004|1944.0|6.0|IEEE Transactions on Information Theory|Cooperative diversity in wireless networks: Efficient protocols and outage behavior
+2005|782.0|5.0|IEEE Transactions on Knowledge and Data Engineering|Toward the next generation of recommender systems: a survey of the state-of-the-art and possible extensions
+2006|607.0|4.0|computer vision and pattern recognition|Scalable Recognition with a Vocabulary Tree
+2007|769.0|4.0|Nature Methods|Target-decoy search strategy for increased confidence in large-scale protein identifications by mass spectrometry
+2008|368.0|3.0|Ecology Letters|Global change and species interactions in terrestrial ecosystems
+2009|721.0|2.0|Nature|Detecting influenza epidemics using search engine query data
+2010|927.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Object Detection with Discriminatively Trained Part-Based Models

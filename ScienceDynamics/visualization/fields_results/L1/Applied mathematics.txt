@@ -1,0 +1,38 @@
+----  Field Name Applied mathematics: 
+----  Field Level 1.0: 
+----  Field Papers Number 1243:
+----  All time max citation paper: Efficacy of Infection Control Interventions in Reducing the Spread of Multidrug-Resistant Organisms in the Hospital Setting, 2012, (1964.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1974|3.0|3.0|Mathematics of Computation|Stable Approximations for Hyperbolic Systems with Moving Internal Boundary Conditions,
+1979|3.0|1.5|Sociological Methodology|Clustering on the Main Diagonal in Mobility Matrices
+1980|4.0|4.0|Mathematical Methods in The Applied Sciences|Nonselfadjoint operators in diffraction and scattering
+1982|1.0|1.0|Journal of Elasticity|Finite plane and anti-plane elastostatic fields with discontinuous deformation gradients near the tip of a crack
+1983|12.0|2.0|Numerische Mathematik|Can Adaption Help on the Average?
+1984|0|0.0||On the stability in oscillations in a class of nonlinear feedback systems containing numerator dynamics
+1985|3.0|2.0||Application of MACSYMA to Kinematics and Mechanical Systems
+1986|6.0|0.0|IEEE Journal on Robotics and Automation|Sensing strategies for disambiguating among multiple objects in known poses
+1987|1.0|0.5|Journal of Multivariate Analysis|Asymptotic distributions of functions of the eigenvalues of sample covariance matrix and canonical correlation matrix in multivariate time series
+1988|1.0|0.5|Mathematical and Computer Modelling|Military modelling and computing: Where do we go from here?
+1989|17.0|0.0|Journal of Fluid Mechanics|Two-Layer Geostrophic Vortex Dynamics. Part 1. Upper-Layer V-States and Merger
+1990|9.0|5.5||Nonholonomic Motion Planning versus Controllability via the Multibody Car System Example,
+1991|11.0|0.0|IEEE Intelligent Systems|The mathematical bases for qualitative reasoning
+1992|6.0|3.0|Wave Motion|Nonlinear stability of resonant capillary-gravity waves
+1993|6.0|4.5|Journal of Fluid Mechanics|Wave and vortex dynamics on the surface of a sphere
+1994|7.0|1.0|Plant Pathology|Relationships between temperature and latent periods of rust and leafspot diseases of groundnut
+1995|34.0|4.5|Econometrica|Epistemic Conditions for Nash Equilibrium
+1996|34.0|3.0|Agricultural and Forest Meteorology|Tools for quality assessment of surface-based flux measurements
+1997|49.0|1.0|Acta Numerica|A New Version of the Fast Multipole Method for the Laplace Equation in Three Dimensions.
+1998|31.0|6.5|Computer Methods in Applied Mechanics and Engineering|A new cloud-based hp finite element method
+1999|34.0|3.0|knowledge discovery and data mining|Accelerating exact k -means algorithms with geometric reasoning
+2000|48.0|3.0|Journal of Computational and Applied Mathematics|Direct Search Methods: Then and Now
+2001|14.0|4.0|Journal of Computational Physics|High-order finite difference methods, multidimensional linear problems, and curvilinear coordinates
+2002|5.0|1.0|Automatica|Augmented gradient flows for on-line robust pole assignment via state and output feedback
+2003|30.0|5.0|Geoderma|Effect of soil organic carbon on soil water retention
+2004|53.0|2.0|Journal of Biomechanics|Non-Newtonian blood flow in human right coronary arteries: steady state simulations
+2005|64.0|3.5|Journal of Structural Biology|Fourier shell correlation threshold criteria.
+2006|66.0|6.0|Agricultural and Forest Meteorology|Carbon, energy and water fluxes at mature and disturbed forest sites, Saskatchewan, Canada
+2007|75.0|5.0|Journal of Climate|A new look at stratospheric sudden warmings. Part I. Climatology and modeling benchmarks
+2008|116.0|7.0|BMC Evolutionary Biology|Using supernetworks to distinguish hybridization from lineage-sorting
+2009|81.0|3.0|BMC Systems Biology|A fragile metabolic network adapted for cooperation in the symbiotic bacterium Buchnera aphidicola
+2010|115.0|2.0|Physics of Fluids|Nonlinear development of two-layer Couette-Poiseuille flow in the presence of surfactant

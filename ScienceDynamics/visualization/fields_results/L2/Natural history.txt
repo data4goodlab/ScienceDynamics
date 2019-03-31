@@ -1,0 +1,71 @@
+----  Field Name Natural history: 
+----  Field Level 2.0: 
+----  Field Papers Number 13207:
+----  All time max citation paper: Molecular portraits of human breast tumours, 2000, (5924.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1937|1.0|1.0|American Journal of Surgery|Studies of the natural history of genitourinary tumors. I: Primary cancer of ureter: Autopsy study with review of the literature
+1938|0|0.0|The Lancet|THE NATURAL HISTORY OF STRAWBERRY NVI
+1940|0|0.0|Journal of the Marine Biological Association of the United Kingdom|On the faunas inhabiting intertidal seaweeds
+1949|3.0|2.0|Parasitology|The Ecology of the Sheep Tick, Ixodes ricinus L. Host Relation-ships of the Tick. Part 2. Observations on Hill and Moorland Grazings in northern England.
+1950|6.0|5.0|British Journal of Surgery|The natural history of carotid body tumours and their diagnosis and treatment. With a report of five cases
+1951|11.0|11.0|Cancer|A study of the natural history of acute leukemia with special reference to the duration of the disease and the occurrence of remissions
+1952|1.0|0.5|Annals of Applied Biology|THE ECOLOGY OF ANISOPUS FENESTRALIS SCOP. (DIPTERA) IN SEWAGE BACTERIA BEDS
+1953|4.0|1.5|American Heart Journal|The natural history and course of hypertension with papilledema (Malignant Hypertension)
+1954|4.0|3.0|Annals of the New York Academy of Sciences|THE NATURAL HISTORY OF UNTREATED ACUTE LEUKEMIA
+1955|14.0|5.0|Journal of Chronic Diseases|The natural history of systemic lupus erythematosus: An approach to its study through chronic biologic false positive reactors
+1956|10.0|1.0|Acta Psychiatrica Scandinavica|NATURAL HISTORY AND EVOLUTION OF THE CONCEPT OF SCHILDER'S DIFFUSE SCLEROSIS
+1957|6.0|4.0|Journal of Chronic Diseases|Natural history of glomerulonephritis
+1958|4.0|3.0|The American Journal of Medicine|The natural history of postnecrotic cirrhosis?A study of 221 autopsy cases
+1959|6.0|3.0|Annals of the New York Academy of Sciences|THE NATURAL HISTORY OF CHORIOCARCINOMA: PROBLEMS OF IMMUNITY AND SPONTANEOUS REGRESSION*
+1960|1.0|0.0|The American Journal of Medicine|The natural history of hypertension
+1961|1.0|0.5|The American Journal of Medicine|The natural history of ventricular septal defects in infancy and childhoodBased on serial cardiac catheterization studies
+1962|12.0|1.0|The American Journal of Medicine|The natural history of infectious hepatitis
+1963|5.0|3.5|Journal of Chronic Diseases|The natural history of vascular lesions in rheumatoid arthritis
+1964|8.0|0.0|The Journal of Pediatrics|Natural history of ventricular septal defects in childhood lesions with predominant arteriovenous shunts
+1965|7.0|0.0|American Journal of Cardiology|The natural history of ventricular septal defects in infancy
+1966|29.0|8.0|Cancer|Natural history of Hodgkin's disease as related to its pathologic picture
+1967|12.0|3.0|The New England Journal of Medicine|Natural history of uremic polyneuropathy and effects of dialysis.
+1968|4.0|0.5|Acta Neurologica Scandinavica|STUDIES ON NATURAL HISTORY OF MULTIPLE SCLEROSIS
+1969|9.0|2.5|American Heart Journal|The natural history of atrioventricular conduction defects in acute myocardial infarction
+1970|9.0|2.0|The New England Journal of Medicine|The Natural History of Recurrent Bacteriuria in Schoolgirls
+1971|10.0|2.0|The New England Journal of Medicine|The Natural History of Congestive Heart Failure: The Framingham Study
+1972|23.0|2.0|American Journal of Cardiology|Natural history of angina pectoris in the Framingham study: Prognosis and survival
+1973|25.0|5.0|The New England Journal of Medicine|Viral Hepatitis, Type B (MS-2-Strain): Further Observations on Natural History and Prevention
+1974|38.0|3.0|American Journal of Cardiology|Natural history of severe proximal coronary artery disease as documented by coronary cineangiography
+1975|19.0|5.0|Progress in Cardiovascular Diseases|Natural history of pulmonary embolism
+1976|13.0|2.5|Cancer|The natural history of nodular lymphoma
+1977|13.0|3.0|JAMA|The Natural History of Calcium Urolithiasis
+1978|30.0|7.0|Progress in Cardiovascular Diseases|Natural history of obstructive coronary artery disease: Ten-year study of 601 nonsurgical cases
+1979|20.0|3.0|American Journal of Surgery|The natural history of pancreatic pseudocysts: A unified concept of management
+1980|26.0|3.0|American Journal of Cardiology|Natural history of left ventricular function during 1 year after acute myocardial infarction: Comparison with clinical, electrocardiographic and biochemical determinations
+1981|73.0|5.0|American Journal of Cardiology|The natural history of idiopathic dilated cardiomyopathy
+1982|27.0|3.0|Annual Review of Neuroscience|DEVELOPMENTAL NEUROBIOLOGY AND THE NATURAL HISTORY OF NERVE GROWTH FACTOR*
+1983|32.0|2.0|The American Journal of Medicine|Prevalence and natural history of electrocardiographic left ventricular hypertrophy
+1984|26.0|3.0|Hepatology|Orthotopic Liver Transplantation: A Pathological Study of 63 Serial Liver Biopsies from 17 Patients with Special Reference to the Diagnostic Features and Natural History of Rejection
+1985|68.0|4.0|Hepatology|Natural history of chronic hepatitis B virus infection in taiwan: Studies of hepatitis B virus DNA in serum
+1986|62.0|3.5|American Psychologist|Understanding and preventing relapse.
+1987|53.0|3.0|Diabetologia|Mortality and survival in type 2 (non-insulin-dependent) diabetes mellitus.
+1988|33.0|2.0|The New England Journal of Medicine|The Natural History of Impaired Glucose Tolerance in the Pima Indians
+1989|47.0|4.0|World Journal of Urology|The natural history of atherosclerotic and fibrous renal artery disease
+1990|22.0|4.0|The Journal of Pediatrics|Natural history of cow milk allergy: Clinical outcome
+1991|59.0|2.0|Annals of Neurology|Serial gadoliniumenhanced magnetic resonance imaging scans in patients with early, relapsingremitting multiple sclerosis: Implications for clinical trials and natural history
+1992|41.0|3.0|Echocardiography-a Journal of Cardiovascular Ultrasound and Allied Techniques|The Natural History of Left Ventricular Filling Abnormalities: Assessment by TwoDimensional and Doppler Echocardiography
+1993|149.0|3.5|Psychological Review|Adolescence-limited and life-course-persistent antisocial behavior: a developmental taxonomy
+1994|32.0|3.0|Journal of the American College of Cardiology|Influence of residual perfusion within the infarct zone on the natural history of left ventricular dysfunction after acute myocardial infarction: A myocardial contrast echocardiographic study
+1995|128.0|4.0|JAMA|The natural history of the systemic inflammatory response syndrome (SIRS). A prospective study
+1996|84.0|4.0|The Lancet|Frequency and prognostic significance of isolated tumour cells in bone marrow of patients with non-small-cell lung cancer without overt metastases
+1997|373.0|5.0|The Lancet|Natural history of liver fibrosis progression in patients with chronic hepatitis C
+1998|136.0|5.0|The New England Journal of Medicine|Sexual Transmission and the Natural History of Human Herpesvirus 8 Infection
+1999|380.0|6.0|JAMA|Natural History of Progression After PSA ElevationFollowing Radical Prostatectomy
+2000|1400.0|6.0|Nature|Distinct types of diffuse large B-cell lymphoma identified by gene expressionprofiling
+2001|175.0|6.5|The Lancet|Natural history of cervical human papillomavirus infection in young women: a longitudinal cohort study
+2002|242.0|7.0|Gastroenterology|Expanding the natural history of nonalcoholic steatohepatitis: From cryptogenic cirrhosis to hepatocellular carcinoma
+2003|333.0|8.0|Journal of the American College of Cardiology|A prospective, blinded determination of the natural history of aspirin resistance among stable patients with cardiovascular disease
+2004|307.0|8.0|The New England Journal of Medicine|Hepatitis B virus infection--natural history and clinical consequences.
+2005|187.0|8.0|Gastroenterology|The Natural History of Nonalcoholic Fatty Liver Disease: A Population-Based Cohort Study
+2006|366.0|7.0|The New England Journal of Medicine|Trends in Prevalence and Outcome of Heart Failure with Preserved Ejection Fraction
+2007|305.0|8.0|Nature Reviews Cancer|Fatty acid synthase and the lipogenic phenotype in cancer pathogenesis
+2008|324.0|8.0|American Journal of Epidemiology|Time Lines of Infection and Disease in Human Influenza: A Review of Volunteer Challenge Studies
+2009|691.0|7.0|Nature Reviews Cancer|Metastasis: from dissemination to organ-specific colonization
+2010|321.0|7.0|Nature Reviews Neurology|The clinical use of structural MRI in Alzheimer disease

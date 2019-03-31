@@ -1,0 +1,56 @@
+----  Field Name 3D computer graphics: 
+----  Field Level 2.0: 
+----  Field Papers Number 20452:
+----  All time max citation paper: VMD-Visual Molecular Dynamics, 1996, (9063.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1953|5.0|5.0|Journal of Chemical Physics|Dielectric Relaxation and the Internal Field
+1955|0|0.0|Applied Scientific Research, Section B|Microwave dispersion of some polar liquids
+1961|6.0|3.5|Journal of Geophysical Research|The paleomagnetism of the Aden volcanics
+1963|11.0|5.5|Journal of Applied Physics|Ripple Hysteresis in Thin Magnetic Films
+1964|29.0|29.0|Journal of Geophysical Research|The significance of paleomagnetic results from Africa
+1965|0|0.0|Journal of the Physical Society of Japan|The Increase in Permittivity of Ferroelectrics as a Consequence of the Polarization Reversal Process. Part II. Theory
+1966|14.0|14.0|Journal of Geophysical Research|Paleomagnetism of rocks from the White Mountain plutonicvolcanic series in New Hampshire and Vermont
+1968|4.0|4.0|Palaeogeography, Palaeoclimatology, Palaeoecology|Paleomagnetism of some Gondwana red beds from central India
+1969|0|0.0|Physics of the Earth and Planetary Interiors|Paleomagnetism of Triassic Parsora sandstones from India
+1970|12.0|6.0|Journal of Geophysical Research|Upper Miocene to Recent magnetic stratigraphy in deepsea sediments
+1971|21.0|10.5|Journal of Geophysical Research|On the alternating field demagnetization characteristics of multidomain thermoremanent magnetization in magnetite
+1972|31.0|31.0|Reviews of Geophysics|Paleomagnetism of deepsea cores
+1973|19.0|3.5|Earth and Planetary Science Letters|Details of magnetic polarity transitions recorded in a high deposition rate deep-sea core
+1974|9.0|4.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Attempts to condition homing pigeons to magnetic stimuli
+1975|23.0|3.5|Journal of Geophysical Research|Paleomagnetic evidence for rotation of the Italian Peninsula
+1976|21.0|4.5|Earth and Planetary Science Letters|A comparison of ARM and TRM in magnetite
+1977|21.0|4.0|Communications of The ACM|The aliasing problem in computer-generated shaded images
+1978|34.0|1.5|Journal of Geophysical Research|Paleomagnetism of the Devonian Catskill Red Beds: Evidence for Motion of the Coastal New England-Canadian Maritime Region Relative to Cratonic North America
+1979|14.0|4.0|Earth and Planetary Science Letters|Mineralization and magnetization of chiton teeth: paleomagnetic, sedimentologic, and biologic implications of organic magnetite
+1980|23.0|4.0|Biological Cybernetics|Egomotion and relative depth map from optical flow
+1981|13.0|3.0|meeting of the association for computational linguistics|Transportable natural-language interfaces to databases
+1982|27.0|2.0|Geochimica et Cosmochimica Acta|Geochemical investigations of the origin of the Manaslu leucogranite (Himalaya, Nepal)
+1983|44.0|6.0|international conference on computer graphics and interactive techniques|SYNGRAPH: A graphical user interface generator
+1984|42.0|2.0|Proceedings of the IEEE|Extended Gaussian images
+1985|108.0|3.0|ACM Computing Surveys|Three-dimensional object recognition
+1986|55.0|3.5|ACM Transactions on Graphics|An object-oriented approach to graphical interfaces
+1987|31.0|3.0|ACM Transactions on Graphics|Worst-case optimal hidden-surface removal
+1988|81.0|4.0|international conference on computer graphics and interactive techniques|A progressive refinement approach to fast radiosity image generation
+1989|35.0|3.0|Management Science|The effect of task demands and graphical format on information processing strategies
+1990|59.0|3.0|IEEE Transactions on Parallel and Distributed Systems|IPS-2: the second generation of a parallel program measurement system
+1991|114.0|2.0|human factors in computing systems|The information visualizer, an information workspace
+1992|54.0|3.0|human factors in computing systems|Survey on user interface programming
+1993|91.0|2.0|international conference on computer graphics and interactive techniques|Adaptive display algorithm for interactive frame rates during visualization of complex virtual environments
+1994|99.0|3.0||Accelerated volume rendering and tomographic reconstruction using texture mapping hardware
+1995|134.0|3.0|Science|Multilayer white light-emitting organic electroluminescent device
+1996|561.0|3.0|Journal of Molecular Graphics|MOLMOL: a program for display and analysis of macromolecular structures.
+1997|163.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Eigenfaces vs. Fisherfaces: recognition using class specific linear projection
+1998|243.0|3.0|Remote Sensing of Environment|AERONETA Federated Instrument Network and Data Archive for Aerosol Characterization
+1999|182.0|5.0|human factors in computing systems|The context toolkit: aiding the development of context-enabled applications
+2000|145.0|4.0|computer vision and pattern recognition|Articulated body motion capture by annealed particle filtering
+2001|176.0|4.0|modeling analysis and simulation on computer and telecommunication systems|BRITE: an approach to universal topology generation
+2002|273.0|4.0|Genome Biology|JEvTrace: refinement and variations of the evolutionary trace in JAVA
+2003|1865.0|5.0|Nucleic Acids Research|Mfold web server for nucleic acid folding and hybridization prediction
+2004|569.0|4.0|Journal of Neuroscience Methods|EEGLAB: an open source toolbox for analysis of single-trial EEG dynamics including independent component analysis
+2005|430.0|4.0|Bioinformatics|HyPhy: hypothesis testing using phylogenies
+2006|325.0|3.0|international conference on communications|Cooperative Sensing among Cognitive Radios
+2007|708.0|4.0|Computer Graphics Forum|A Survey of GeneralPurpose Computation on Graphics Hardware
+2008|317.0|3.0|Nature Protocols|Automated macromolecular model building for X-ray crystallography using ARP/wARP version 7.
+2009|1002.0|3.0|Molecular Biology and Evolution|SeaView version 4 : a multiplatform graphical user interface for sequence alignment and phylogenetic tree building
+2010|564.0|3.0|Journal of Statistical Software|VRMLGen: An R package for 3D Data Visualization on the Web

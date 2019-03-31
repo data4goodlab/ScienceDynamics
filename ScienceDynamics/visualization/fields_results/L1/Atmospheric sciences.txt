@@ -1,0 +1,42 @@
+----  Field Name Atmospheric sciences: 
+----  Field Level 1.0: 
+----  Field Papers Number 2758:
+----  All time max citation paper: Transformation of the Nitrogen Cycle: Recent Trends, Questions, and Potential Solutions, 2008, (1171.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1971|1.0|1.0|Reviews of Geophysics|Clearair turbulence, aviation, and atmospheric science
+1972|9.0|9.0|Journal of Geophysical Research|Electron deposition in water vapor, with atmospheric applications
+1976|0|0.0||Radiative scattering by irregularly shaped aerosol particles
+1977|0|0.0||THE PARTICIPATION OF THE EUROPEAN SPACE AGENCY IN ATMOSPHERIC AND MAGNETOSPHERIC RESEARCH
+1978|12.0|9.0|Atmospheric Environment|Dry deposition of SO2 on agricultural crops.
+1979|14.0|4.0|Journal of Geophysical Research|Interannual atmospheric variability and associated fluctuations in Arctic Sea ice extent
+1980|6.0|4.0|Deep Sea Research Part A. Oceanographic Research Papers|On the dynamics of equatorial currents, with application to the Indian Ocean
+1982|7.0|7.0|Journal of Geophysical Research|The seasonal CO2 cycle on Mars: An application of an energy balance climate model
+1983|0|0.0|Journal of Physical Oceanography|On Equatorial Dynamics, Mixed Layer Physics and Sea Surface Temperature
+1984|17.0|11.5|Atmospheric Environment|The contamination of rain samples by dry deposition on rain collectors.
+1985|25.0|2.0|Quarterly Journal of the Royal Meteorological Society|On the use and significance of isentropic potential vorticity maps
+1986|24.0|3.0|New Phytologist|THE WEATHERING OF SCOTS PINE EPICUTICULAR WAX IN POLLUTED AND CLEAN AIR
+1987|27.0|2.0|Monthly Weather Review|A Model EI Nino-Southern Oscillation
+1988|13.0|1.0|Geophysical Research Letters|On the utilization of ionosonde data to analyze the latitudinal penetration of ionospheric storm effects
+1989|44.0|17.0|New Phytologist|Effects of acid mist on the frost hardiness of red spruce seedlings
+1990|21.0|4.0|Plant Cell and Environment|Photosynthetic and stomatal conductance responses to acid mist of red spruce seedlings.
+1991|24.0|9.5|New Phytologist|Sulphate and ammonium in mist impair the frost hardening of red spruce seedlings
+1992|46.0|5.0|Physica D: Nonlinear Phenomena|Singular-spectrum analysis: a toolkit for short, noisy chaotic signals
+1993|35.0|9.0|Advances in Ecological Research|The exchange of ammonia between the atmosphere and plant communities.
+1994|18.0|1.0|Atmospheric Environment|The dry deposition of ammonia onto a Douglas fir forest in the Netherlands
+1995|34.0|4.0|Philosophical Transactions of the Royal Society B|Plant-atmosphere exchange of ammonia
+1996|67.0|4.0|Journal of Geophysical Research|Role of mineral aerosol as a reactive surface in the global troposphere
+1997|55.0|4.0|Journal of Hydrology|A system to measure surface fluxes of momentum, sensible heat, water vapour and carbon dioxide
+1998|41.0|5.5|Journal of Geophysical Research|Discriminating clear sky from clouds with MODIS
+1999|49.0|2.5|Water Air and Soil Pollution|The Global Exposure of Forests to Air Pollutants
+2000|37.0|4.0|Atmospheric Environment|Ammonia emissions from non-agricultural sources in the UK
+2001|24.0|2.0|Proceedings of the National Academy of Sciences of the United States of America|The current biodiversity extinction event: Scenarios for mitigation and recovery
+2002|191.0|3.0|Reviews of Geophysics|ADVANCED SPECTRAL METHODS FOR CLIMATIC TIME SERIES
+2003|137.0|2.0|IEEE Transactions on Geoscience and Remote Sensing|The MODIS cloud products: algorithms and examples from Terra
+2004|375.0|4.0|Journal of Geophysical Research|Seasonal variations of the gravity wave momentum flux in the Antarctic mesosphere and lower thermosphere
+2005|132.0|2.0|International Journal of Climatology|Antarctic climate change during the last 50 years
+2006|403.0|7.0|Journal of Climate|Climate-carbon cycle feedback analysis: Results from the C4MIP model intercomparison
+2007|398.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Contributions to accelerating atmospheric CO2 growth from economic activity, carbon intensity, and efficiency of natural sinks
+2008|758.0|6.0|Science|Transformation of the Nitrogen Cycle: Recent Trends, Questions, and Potential Solutions
+2009|716.0|8.0|Atmospheric Chemistry and Physics|The formation, properties and impact of secondary organic aerosol: Current and emerging issues
+2010|139.0|6.0|Atmospheric Environment|Transport impacts on atmosphere and climate: Aviation

@@ -1,0 +1,57 @@
+----  Field Name Quantum electrodynamics: 
+----  Field Level 1.0: 
+----  Field Papers Number 2689:
+----  All time max citation paper: Two-dimensional gas of massless Dirac fermions in graphene, 2005, (5069.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1949|0|0.0|Mathematical Proceedings of the Cambridge Philosophical Society|A note on Podolsky electrodynamics
+1959|0|0.0||Radio-frequency aspects of electro-nuclear accelerators
+1960|0|0.0|Physica D: Nonlinear Phenomena|Infrared phenomena in quantum electrodynamics
+1963|2.0|2.0|Proceedings of the IEEE|Comparison of quantum and semiclassical radiation theories with application to the beam maser
+1964|19.0|14.5|Reviews of Geophysics|Physical processes in the D region of the ionosphere
+1965|0|0.0|Journal of Mathematical Physics|Can the Position Variable be a Canonical Coordinate in a Relativistic ManyParticle Theory?
+1966|0|0.0|Proceedings of The Institution of Electrical Engineers|Power flow from a plasma having complex electroacoustic-wave impedance
+1967|0|0.0|IEEE Transactions on Antennas and Propagation|Propagation in random media--Cumulative effect of weak inhomogeneities
+1968|0|0.0|Mathematical Proceedings of the Cambridge Philosophical Society|On the general correspondence between field theories and the theories of direct interparticle action.
+1969|14.0|8.0|Planetary and Space Science|Combined world-wide neutral air wind and electrodynamic drift effects on the F2-layer
+1970|13.0|7.0|Communications in Mathematical Physics|Renormalizable models with simple symmetry breaking. I. Symmetry breaking by a source term
+1971|17.0|3.0|Communications in Mathematical Physics|Small-distance-behaviour analysis and Wilson expansions
+1972|4.0|1.0|Planetary and Space Science|Electrodynamic drift in the nocturnal F -region ionosphere caused by conjugate point sunrise
+1973|1.0|0.5||Survey of the Present Status of Neoclassical Radiation Theory
+1974|1.0|1.0|Proceedings of the IEEE|Some problems of asymptotic theory of nonlinear waves
+1975|43.0|0.0|Journal of Atmospheric and Solar-Terrestrial Physics|A review of auroral zone electrodynamics deduced from incoherent scatter radar observations
+1976|15.0|1.0|Journal of Applied Physics|Magnetic Flux Propagation on a Josephson Transmission Line.
+1977|47.0|3.5|Journal of Geophysical Research|Auroral vector electric field and particle comparisons, 2, Electrodynamics of an arc
+1978|19.0|4.0|Journal of Geophysical Research|Morphological studies of rising equatorial spread F bubbles
+1979|18.0|1.0|Journal of Chemical Physics|Relativistic calculation of the electronic structure of UF6
+1980|31.0|1.0|Journal of Geophysical Research|Electrostatic model of a quiet auroral arc
+1981|25.0|2.0|Journal of Geophysical Research|Auroral arc electrodynamic parameters measured by AEC and the Chatanika Radar
+1982|10.0|3.5|Journal of Geophysical Research|Equatorial plasma bubbles: Vertically elongated wedges from the bottomside F layer
+1983|12.0|0.0|Journal of Chemical Physics|Molecular dynamics in intense laser fields. I. Onedimensional systems in infrared radiation
+1984|33.0|1.0|Artificial Intelligence|Qualitative analysis of MOS circuits
+1985|18.0|1.0|Journal of Geophysical Research|Electrodynamics of the westward traveling surge
+1986|15.0|1.0|international symposium on physical design|A quasi-periodic route to chaos in a near-integrable pde
+1987|20.0|1.0|Reviews of Geophysics|Magnetospheric electric fields and currents
+1988|12.0|1.0|Reviews of Geophysics|Studies of ionospheric plasma and electrodynamics and their application to ionospheremagnetosphere coupling
+1989|56.0|2.0|Physics Letters B|Deformations of conformal field theories and soliton equations
+1990|9.0|1.0|IEEE Journal of Quantum Electronics|Spontaneous emission rate alteration in optical waveguide structures
+1991|27.0|1.0|Journal of Atmospheric and Solar-Terrestrial Physics|Low latitude electrodynamic plasma drifts : a review
+1992|35.0|1.0|Science|Physics and Device Applications of Optical Microcavities
+1993|14.0|1.5|Journal of Chemical Physics|Quantum electrodynamics of molecular nanostructures
+1994|359.0|2.0|Nuclear Physics|Monopoles, duality and chiral symmetry breaking in N = 2 supersymmetric QCD
+1995|10.0|2.0|Combustion and Flame|Observation of nonuniform shrinkage and activation of highly porous chars during combustion in an improved electrodynamic chamber
+1996|18.0|1.0|Computer Physics Communications|Monte Carlo program KORALW 1.02 for W -pair production at LEP2NLC energies with Yennie-Frautschi-Suura exponentiation
+1997|13.0|1.0|IEEE Transactions on Antennas and Propagation|FDTD Maxwell's equations models for nonlinear electrodynamics and optics
+1998|76.0|2.0|Nature|Extraordinary optical transmission through sub-wavelength hole arrays
+1999|68.0|3.0|Journal of Chemical Physics|Geometry optimizations in the zero order regular approximation for relativistic effects.
+2000|65.0|3.0|Journal of Chemical Physics|Correlation consistent valence basis sets for use with the Stuttgart-Dresden-Bonn relativistic effective core potentials: the atoms Ga-Kr and In-Xe
+2001|48.0|5.0|Journal of Chemical Physics|Prediction of electron paramagnetic resonance g values using coupled perturbed HartreeFock and KohnSham theory
+2002|102.0|4.5|Journal of High Energy Physics|Two-loop self-dual Euler-Heisenberg Lagrangians (II): Imaginary part and Borel analysis
+2003|121.0|4.0|Journal of Chemical Physics|Systematically convergent basis sets with relativistic pseudopotentials. II. Small-core pseudopotentials and correlation consistent basis sets for the post-d group 1618 elements
+2004|175.0|3.0|Nature|Strong coupling in a single quantum dot|[ndash]|semiconductor microcavity system
+2005|1081.0|3.0|Nature|Two-dimensional gas of massless Dirac fermions in graphene
+2006|155.0|4.0|Nature Physics|Chiral tunnelling and the Klein paradox in graphene
+2007|117.0|3.0|Journal of Chemical Physics|Energy-consistent relativistic pseudopotentials and correlation consistent basis sets for the 4d elements YPd
+2008|82.0|3.0|Mathematics and Computers in Simulation|A numerical method for solution of the two-dimensional sine-Gordon equation using the radial basis functions
+2009|126.0|3.0|Nature|Demonstration of Two-Qubit Algorithms with a Superconducting Quantum Processor
+2010|78.0|3.0|Nature|Preparation and measurement of three-qubit entanglement in a superconducting circuit

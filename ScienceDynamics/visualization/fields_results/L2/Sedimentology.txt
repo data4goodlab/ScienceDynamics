@@ -1,0 +1,39 @@
+----  Field Name Sedimentology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1395:
+----  All time max citation paper: Effect of grain size sorting on the formation of shorefaceconnected sand ridges, 2003, (1295.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1971|6.0|6.0|Sedimentology|LONGITUDINAL DUNES OF THE NORTHWESTERN EDGE OF THE SIMPSON DESERT, NORTHERN TERRITORY, AUSTRALIA, 1. GEOMORPHOLOGY AND GRAIN SIZE RELATIONSHIPS
+1976|7.0|3.5|Sedimentology|Subaqueous Liquefied and Fluidized Sediment Flows and their Deposits
+1978|9.0|9.0|Estuarine and Coastal Marine Science|Shoreface-connected sand ridges on American and European shelves: A comparison
+1981|5.0|5.0|Lethaia|Salinitycontrolled benthic associations from the Upper Jurassic of Portugal
+1982|5.0|2.5|Earth Surface Processes and Landforms|Structure, composition and bulk properties of upland stream gravels
+1983|4.0|3.0|Lethaia|Pattern of conodont reworking in the Upper Devonian of the Alps: palaeoenvironmental and palaeotectonic implications
+1984|4.0|3.5|Sedimentology|Sidescan targets in Lake Superiorevidence for bedforms and sediment transport
+1985|4.0|1.0|Journal of Hydraulic Engineering|Geometry of Ripples and Dunes
+1986|11.0|2.5|New Phytologist|EVENTS AT AND AROUND THE FIRST AND SECOND ULMUS DECLINES: PALAEOECOLOGICAL INVESTIGATIONS IN CO. TYRONE, NORTHERN IRELAND
+1987|12.0|6.5|Cretaceous Research|Sedimentology and extinction patterns across the Cretaceous-Tertiary boundary interval in east Texas
+1988|10.0|1.0|Marine and Petroleum Geology|The origin and recognition of laterally continuous carbonate-cemented horizons in the Upper Lias Sands of southern England
+1989|13.0|7.0|Earth Surface Processes and Landforms|Temporal variations in bedload transport rates associated with the migration of bedforms
+1990|9.0|3.0|Geological Journal|Stratigraphy and sedimentology of lower carboniferous (Dinantian) boreholes from West Co. Meath, Ireland
+1991|13.0|3.0|Journal of Hydraulic Engineering|Entrainment of Bed Sediment Into Suspension
+1992|6.0|1.5|Geological Journal|Lower Carboniferous (Dinantian) stratigraphy and structure of the WalterstownKentstown area, Co. Meath, Ireland
+1993|3.0|3.0|Water Research|Bedform mobility and benthic oxygen uptake
+1994|8.0|1.5|Journal of Great Lakes Research|Lake-Level History of Lake Michigan for the Past 12,000 Years: The Record From Deep Lacustrine Sediments
+1995|15.0|3.5|Neuroscience Letters|Induction of nitric oxide synthase and motoneuron death in newborn and early postnatal rats following spinal root avulsion
+1996|23.0|2.0|Earth Surface Processes and Landforms|ANABRANCHING RIVERS: THEIR CAUSE, CHARACTER AND CLASSIFICATION
+1997|13.0|3.0|Quaternary Research|Holocene Climate in the Northern Great Plains Inferred from Sediment Stratigraphy, Stable Isotopes, Carbonate Geochemistry, Diatoms, and Pollen at Moon Lake, North Dakota
+1998|28.0|2.0|The Journal of Comparative Neurology|Characterization of spinal motoneuron degeneration following different types of peripheral nerve injury in neonatal and adult mice
+1999|37.0|4.0|Marine Geology|Estimates of suspended-sediment flux and bedform activity on the inner portion of the Eel continental shelf
+2000|38.0|5.0|Journal of Neuroscience Research|Rescue of lesioned adult rat spinal motoneurons by adenoviral gene transfer of glial cell line-derived neurotrophic factor.
+2001|27.0|5.0|Marine Micropaleontology|Holocene paleoclimate change in the Antarctic Peninsula: evidence from the diatom, sedimentary and geochemical record
+2002|30.0|4.0|Freshwater Biology|Effects of land cover on sediment regime and fish assemblage structure in four southern Appalachian streams
+2003|462.0|6.0|Journal of Geophysical Research|Effect of grain size sorting on the formation of shorefaceconnected sand ridges
+2004|40.0|6.0|Boreas|Map and GIS database of glacial landforms and features related to the last British Ice Sheet
+2005|135.0|7.0|Earth and Planetary Science Letters|Provenance and diagenesis of the evaporite-bearing Burns formation, Meridiani Planum, Mars
+2006|57.0|8.0|Earth and Planetary Science Letters|Eastern Australia: A possible source of dust in East Antarctica interglacial ice
+2007|67.0|6.0|Neurosurgical Focus|Reinnervation of the biceps in C57 brachial plexus avulsion injuries: results after distal bypass surgery
+2008|83.0|7.0|British Journal of Obstetrics and Gynaecology|Levator trauma is associated with pelvic organ prolapse
+2009|65.0|7.0|Nature|Age of Zhoukoudian Homo erectus determined with 26Al/10Be burial dating
+2010|51.0|5.0|Ultrasound in Obstetrics & Gynecology|Levator avulsion is a risk factor for cystocele recurrence.

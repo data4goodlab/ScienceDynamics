@@ -1,0 +1,43 @@
+----  Field Name Polymer science: 
+----  Field Level 1.0: 
+----  Field Papers Number 5704:
+----  All time max citation paper: High-efficiency solution processable polymer photovoltaic cells by self-organization of polymer blends, 2005, (2764.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|0|0.0|Polymer Journal|Thermal Study of Blended Systems of Poly(methyl methacrylate) and Poly(vinyl acetate)
+1971|2.0|2.0|Polymer Journal|Stress Relaxation of Blended Polymers of Monodisperse Polystyrenes
+1973|0|0.0|Journal of Polymer Science: Polymer Symposia|Studies of decomposition of polymer blends by thermogravimetric method
+1975|0|0.0|Polymer Journal|Glass Transition Behaviors of Random and Block Copolymers and Polymer Blends of Styrene and Cyclododecyl Acrylate. I. Glass Transition Temperatures
+1978|3.0|2.5|Polymer|Crystallization kinetics and morphology of polymer blends of poly(tetramethyl-p-silphenylene siloxane) fractions
+1979|5.0|2.0|Journal of Applied Physics|Modeling of tensile properties of polymer blends: PPO/poly(styrenecopchlorostyrene)
+1980|30.0|2.5|Journal of Chemical Physics|Dynamics of fluctuations and spinodal decomposition in polymer blends
+1981|6.0|0.0|Polymer Journal|Morphological Study of Hydrophilic|[ndash]|Hydrophobic Polymer System by Inverse Gas Chromatography: Physical Blends of Poly(ethylene oxide) with Polystyrene
+1982|6.0|3.0|Polymer Journal|Phase separation process in polymer systems. I. Light scattering studies on a polystyrene and poly(methylphenylsiloxane) mixture.
+1983|17.0|3.0|Journal of Chemical Physics|Phase separation dynamics: Comparison of experimental results
+1984|14.0|1.0|Polymer|Phase structure of impact-modified polypropylene blends
+1985|37.0|3.0|Polymer|PHASE STRUCTURE AND ADHESION IN POLYMER BLENDS: A CRITERION FOR RUBBER TOUGHENING
+1986|16.0|3.0|Journal of Chemical Physics|Electronic excitation transport on isolated, flexible polymer chains in the amorphous solid state randomly tagged or end tagged with chromophores
+1987|11.0|2.0|Polymer|The phase diagram and morphology of blends of poly(vinylidene fluoride) and poly(ethyl acrylate)
+1988|28.0|2.5|Journal of Chemical Physics|Dynamics of concentration fluctuation in a polymer blend on both sides of the phase boundary
+1989|27.0|3.0|Journal of Chemical Physics|Integral equation theory of the structure and thermodynamics of polymer blends
+1990|25.0|2.0|Electrochimica Acta|Characterization of electroactive polymer layers by electrochemical impedance spectroscopy (EIS)
+1991|24.0|2.0|Journal of Chemical Physics|Free energy functional expansion for inhomogeneous polymer blends
+1992|34.0|2.5|Polymer|Compatibility and transesterification in binary polymer blends
+1993|31.0|1.0|Journal of Chemical Physics|Polymer reference interaction site model theory : new molecular closures for phase separating fluids and alloys
+1994|43.0|2.0|Journal of Electroanalytical Chemistry|Modelling the impedance properties of electrodes coated with electroactive polymer films
+1995|65.0|3.0|Journal of Applied Physics|Enhanced performance of polymer lightemitting diodes using highsurface area polyaniline network electrodes
+1996|25.0|2.0|Electrochimica Acta|Multi-component diffusion approach to transport across electroactive-polymer films with two mobile charge carriers
+1997|48.0|4.0|Applied Physics Letters|Efficient white light-emitting diodes realized with new processable blends of conjugated polymers
+1998|35.0|4.0|Nature|Surface-induced structure formation of polymer blends on patterned substrates
+1999|55.0|4.0|Polymer|Toughness mechanism in semi-crystalline polymer blends : II. High-density polyethylene toughened with calcium carbonate filler particles
+2000|90.0|4.0|Progress in Polymer Science|Synthesis, structure and properties of polyhydroxyalkanoates: biological polyesters
+2001|410.0|4.0|Applied Physics Letters|2.5% efficient organic plastic solar cells
+2002|210.0|6.0|Journal of Applied Physics|High-mobility polymer gate dielectric pentacene thin film transistors
+2003|73.0|5.0|Polymer|New nanocomposite materials based on plasticized poly(l-lactide) and organo-modified montmorillonites: thermal and morphological study
+2004|90.0|5.0|Applied Physics Letters|Correlation between oxidation potential and open-circuit voltage of composite solar cells based on blends of polythiophenes/fullerene derivative
+2005|873.0|5.0|Nature Materials|High-efficiency solution processable polymer photovoltaic cells by self-organization of polymer blends
+2006|177.0|4.0|Progress in Polymer Science|Polymer blends and composites from renewable resources
+2007|695.0|5.0|Nature|Coaxial silicon nanowires as solar cells and nanoelectronic power sources
+2008|403.0|7.0|Polymer|Hydrogels in drug delivery: Progress and challenges
+2009|201.0|7.0|Science|High-Detectivity Polymer Photodetectors with Spectral Response from 300 nm to 1450 nm
+2010|160.0|6.0|Biomaterials|Electroconductive hydrogels: Synthesis, characterization and biomedical applications

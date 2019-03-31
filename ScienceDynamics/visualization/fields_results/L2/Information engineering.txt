@@ -1,0 +1,49 @@
+----  Field Name Information engineering: 
+----  Field Level 2.0: 
+----  Field Papers Number 6253:
+----  All time max citation paper: Content-based image retrieval at the end of the early years, 2000, (2809.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1945|0|0.0|Transactions of The American Institute of Electrical Engineers|The Design of Bus-Bar Industrial Distribution Systems: an Epitomization of Available Data
+1965|4.0|4.0|The Journal of General Physiology|On the mechanism of respiratory control.
+1966|0|0.0|IEEE Transactions on Information Theory|Modulation and demodulation for probabilistic coding
+1967|1.0|0.5|IEEE Transactions on Antennas and Propagation|Transient signal propagation in lossless, isotropic plasmas
+1968|3.0|3.0|Proceedings of the IEEE|The theoretical analysis of data compression systems
+1970|0|0.0|IEEE Transactions on Reliability|A Statistical Prediction Interval for Availability
+1972|6.0|6.0|IEEE Transactions on Reliability|A Method for Computing Complex System Reliability
+1974|0|0.0|IEEE Transactions on Antennas and Propagation|Ground-based vertical-incidence ionograms
+1975|0|0.0|Reviews of Geophysics|Ionospheremagnetosphere coupling: 1. Thermal plasma
+1977|33.0|33.0|Nature|Synchronised transmembrane insertion and glycosylation of a nascent membrane protein
+1978|5.0|5.0|foundations of computer science|Complexity of solvable cases of the decision problem for the predicate calculus
+1979|73.0|2.5|Journal of Geophysical Research|Backarc opening and the mode of subduction
+1980|40.0|40.0|IEEE Transactions on Computers|An Optimal Worst Case Algorithm for Reporting Intersections of Rectangles
+1981|14.0|2.0|design automation conference|The Relational/Network Hybrid Data Model for Design Automation Databases
+1982|29.0|8.0|IEEE Computer Graphics and Applications|GWB: A Solid Modeler with Euler Operators
+1983|3.0|1.0|IEEE Transactions on Communications|An Analytical Formulation for Grade of Service Determination in Telephone Networks
+1984|19.0|1.0|IEEE Transactions on Computers|Multiple-Valued Logic&#8212;its Status and its Future
+1985|22.0|2.5|IEEE Computer|Enhancing Knowledge Representation in Engineering Databases
+1986|19.0|5.0|design automation conference|SEHWA: A Program for Synthesis of Pipelines
+1987|15.0|1.5|foundations of computer science|Achievable cases in an asynchronous environment
+1988|49.0|3.0|IEEE Transactions on Computers|Performability analysis: measures, an algorithm, and a case study
+1989|73.0|3.0|Communications of The ACM|A simple approach to specifying concurrent systems
+1990|47.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Recovery of parametric models from range images: the case for superquadrics with global deformations
+1991|27.0|2.0|IEEE Transactions on Systems, Man, and Cybernetics|An intelligent agent framework for enterprise integration
+1992|57.0|2.0|IEEE Software|Definitions of tool integration for environments
+1993|42.0|2.0||Parallel access to files in the Vesta file system
+1994|119.0|2.0|human factors in computing systems|Visual information seeking: tight coupling of dynamic query filters with starfield displays
+1995|80.0|2.0|IEEE Software|The 4+1 View Model of architecture
+1996|145.0|2.0|IEEE Transactions on Knowledge and Data Engineering|Data mining: an overview from a database perspective
+1997|73.0|2.0|international conference on tools with artificial intelligence|Web mining: information and pattern discovery on the World Wide Web
+1998|139.0|3.0|Magnetic Resonance in Medicine|Dynamics of blood flow and oxygenation changes during brain activation: the balloon model.
+1999|223.0|3.0|IEEE Transactions on Evolutionary Computation|Multiobjective evolutionary algorithms: a comparative case study and the strength Pareto approach
+2000|560.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Content-based image retrieval at the end of the early years
+2001|130.0|3.0|international conference on peer-to-peer computing|Peer-to-peer architecture case study: Gnutella network
+2002|492.0|4.0|IEEE Journal on Selected Areas in Communications|A case for end system multicast
+2003|162.0|4.0|international conference on distributed computing systems|A case for grid computing on virtual machines
+2004|106.0|3.0|Clinical Chemistry|Genotyping of Single-Nucleotide Polymorphisms by High-Resolution Melting of Small Amplicons
+2005|526.0|3.0|Nature Neuroscience|5-HTTLPR polymorphism impacts human cingulate-amygdala interactions: a genetic susceptibility mechanism for depression.
+2006|299.0|3.0|Nature Neuroscience|Negative functional MRI response correlates with decreases in neuronal activity in monkey visual area V1
+2007|98.0|3.0|information processing in sensor networks|Dozer: ultra-low power data gathering in sensor networks
+2008|283.0|1.0|International Journal of Computer Vision|Robust Object Detection with Interleaved Categorization and Segmentation
+2009|431.0|1.0|IEEE Transactions on Knowledge and Data Engineering|Learning from Imbalanced Data
+2010|167.0|3.0|Construction Management and Economics|The construction industry as a loosely coupled system: implications for productivity and innovation

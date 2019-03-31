@@ -1,0 +1,34 @@
+----  Field Name Cross-cultural psychology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1462:
+----  All time max citation paper: The Effect of National Culture on the Choice of Entry Mode, 1988, (2115.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1977|29.0|29.0|Culture, Medicine and Psychiatry|The heart of what's the matter. The semantics of illness in Iran.
+1980|0|0.0|The American Journal of Psychoanalysis|Psychophysiological sequelae of Holocaust trauma in a Jewish child
+1981|1.0|0.5|Annals of Tourism Research|Tourism training in developing countries The social and cultural dimension
+1984|2.0|2.0|International Journal of Psychophysiology|Looking for the social and cultural dimension of the human brain
+1986|0|0.0|Qualitative Sociology|Ethnographic boundaries: Culture, class, and sexuality in Tokyo
+1987|1.0|1.0|Social Science & Medicine|Cultural dimensions of hot, cold and sema in Sinhalese health culture.
+1988|24.0|12.5|Journal of International Business Studies|The Effect of National Culture on the Choice of Entry Mode
+1989|0|0.0|Aesthetic Plastic Surgery|Social, psychological and cultural dimensions of cosmetic and reconstructive plastic surgery
+1991|6.0|3.0|Social Science & Medicine|AIDS survey methodology with black Americans.
+1992|9.0|7.0|Journal of International Business Studies|Role Conflict and Role Ambiguity of Chief Executive Officers in International Joint Ventures
+1993|7.0|2.5|Journal of Business Ethics|The effects of culture on ethical decision-making: An application of hofstede's typology
+1994|11.0|1.0|Information Systems Research|The Effect of Culture on IT Diffusion: E-Mail and FAX in Japan and the U.S.
+1995|14.0|5.0|Landscape and Urban Planning|Interactions of landscapes and cultures
+1996|8.0|1.0|Journal of Business Ethics|The relationship between culture and perception of ethical problems in international Marketing
+1997|14.0|6.0|Political Psychology|Influences of Adaptation to Communist Rule on Value Priorities in Eastern Europe
+1998|6.0|2.0|Interacting with Computers|Cross-cultural and cognitive issues in the implementation of new technology: focus on group support systems and Bulgaria
+1999|47.0|3.0|Journal of Vocational Behavior|When WorkFamily Benefits Are Not Enough: The Influence of WorkFamily Culture on Benefit Utilization, Organizational Attachment, and WorkFamily Conflict
+2000|30.0|4.0|American Anthropologist|The Health Consequences of Cultural Consonance: Cultural Dimensions of Lifestyle, Social Support, and Arterial Blood Pressure in an African American Community
+2001|41.0|4.5|Journal of Business Venturing|Culture and entrepreneurial potential: A nine country study of locus of control and innovativeness
+2002|59.0|5.0|Journal of World Business|Understanding cultures and implicit leadership theories across the globe: an introduction to project GLOBE
+2003|56.0|4.0|Accounting Organizations and Society|Hofstede never studied culture
+2004|86.0|7.0|Cross-Cultural Research|Personality and Culture Revisited: Linking Traits and Dimensions of Culture
+2005|105.0|5.5|Journal of International Business Studies|Culture and international business: recent advances and their implications for future research
+2006|94.0|6.5|Management Information Systems Quarterly|The role of espoused national cultural values in technology acceptance
+2007|56.0|6.0|European Journal of Information Systems|Applying TAM across cultures: the need for caution
+2008|228.0|5.0|Annual Review of Psychology|Leadership: Current Theories, Research, and Future Directions
+2009|58.0|4.0|European Journal of Political Research|Immigration, Europe and the new cultural dimension
+2010|149.0|4.0|BMC Health Services Research|Multilevel psychometric properties of the AHRQ hospital survey on patient safety culture

@@ -1,0 +1,43 @@
+----  Field Name Physics education: 
+----  Field Level 2.0: 
+----  Field Papers Number 2348:
+----  All time max citation paper: The effectiveness of interventions to increase physical activity, 2002, (532.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1966|0|0.0|European Journal of Applied Physiology|Comparison of tests of physical fitness of student teachers at Cape Town
+1970|0|0.0|Quest|Physical Education and the Self-Attitude
+1972|0|0.0|European Journal of Applied Physiology|Proteinuria following submaximal work of constant and variable intensity
+1976|22.0|22.0|American Educational Research Journal|Frameworks for comprehending discourse
+1977|6.0|6.0|technical symposium on computer science education|An approach to the introductory computer science course for non-majors
+1978|0|0.0|Sex Roles|Sex-role prescriptions and attitudes of physical educators
+1979|7.0|5.0||Mechanical characteristics and fiber composition of human leg extensor muscles.
+1981|1.0|0.0|Physics Today|Fifty Years of Physics Education.
+1982|18.0|2.5|European Journal of Applied Physiology|Catecholamines, growth hormone, cortisol, insulin, and sex hormones in anaerobic and aerobic exercise.
+1983|5.0|2.0||Assessment of anaerobic capacity in runners
+1984|3.0|2.0||Metabolic and hormonal responses to exhaustive supramaximal running with and without ?-adrenergic blockade
+1985|3.0|1.0||Effects of previous muscle contractions on cyclic movement dynamics
+1986|0|0.0||Predicting running velocity at blood lactate threshold from running performance tests in adolescent boys
+1987|3.0|1.5||Effects of dietary manipulations on blood glucose and hormonal responses following supramaximal exercise
+1988|4.0|1.0|Journal of Educational Psychology|When You're Hot, You're Hot! Warm-Cold Effects in First Impressions of Persons and Teaching Effectiveness.
+1989|1.0|0.5||The relationship between muscle kinetic parameters and kinematic variables in a complex movement.
+1990|20.0|2.0|Journal of Educational Psychology|The Structure of Academic Self-Concept: The Marsh/Shavelson Model.
+1991|3.0|0.0|Quest|The Whole Person in Physical Education Scholarship: Toward Integration
+1992|5.0|1.0|Elementary School Journal|Learning to Reflect on Teaching: A Case Study of One Preservice Physical Education Teacher.
+1993|22.0|1.0|IEEE Transactions on Parallel and Distributed Systems|A theory of coteries: mutual exclusion in distributed systems
+1994|50.0|3.5|IEEE Transactions on Neural Networks|Network information criterion-determining the number of hidden units for an artificial neural network model
+1995|6.0|1.0|Quest|Teaching for Understanding: A Model for Improving Decision Making during Game Play.
+1996|19.0|2.0|Journal of Clinical Epidemiology|Ethnic, socioeconomic, and sex differences in physical activity among adolescents
+1997|17.0|1.0|IEEE Journal of Quantum Electronics|A generalized model for passively Q-switched lasers including excited state absorption in the saturable absorber
+1998|47.0|1.0|American Journal of Preventive Medicine|Mediating variable framework in physical activity interventions
+1999|50.0|2.0|Pediatrics|Exposure to the Mass Media and Weight Concerns Among Girls
+2000|63.0|3.0|Pediatrics|Determinants of Adolescent Physical Activity and Inactivity Patterns
+2001|55.0|4.0|American Journal of Physics|Peer Instruction: Ten Years of Experience and Results.
+2002|146.0|5.0|American Journal of Preventive Medicine|The effectiveness of interventions to increase physical activity
+2003|55.0|5.0|Preventive Medicine|New Moves: a school-based obesity prevention program for adolescent girls.
+2004|61.0|3.0|Preventive Medicine|Self-efficacy partially mediates the effect of a school-based physical-activity intervention among adolescent girls
+2005|72.0|3.0|British Journal of Educational Psychology|A Test of Self-Determination Theory in School Physical Education.
+2006|217.0|4.0|Obesity Reviews|The prevention of overweight and obesity in children and adolescents : a review of interventions and programmes
+2007|114.0|5.0|Journal of School Health|Physical Education and Physical Activity: Results From the School Health Policies and Programs Study 2006
+2008|126.0|6.0|International Journal of Behavioral Nutrition and Physical Activity|Physical education, school physical activity, school sports and academic performance
+2009|96.0|4.0|BMC Public Health|A cross-curricular physical activity intervention to combat cardiovascular disease risk factors in 11-14 year olds: 'Activity Knowledge Circuit'
+2010|158.0|3.0|BMC Public Health|The influence of a high intensity physical activity intervention on a selection of health related outcomes: an ecological approach

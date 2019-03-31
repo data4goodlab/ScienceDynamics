@@ -1,0 +1,27 @@
+----  Field Name Technology education: 
+----  Field Level 2.0: 
+----  Field Papers Number 1076:
+----  All time max citation paper: Effects of Small-Group Learning on Undergraduates in Science, Mathematics, Engineering, and Technology: A Meta-Analysis, 1999, (430.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1974|0|0.0|Science Education|Technology education for nonscience students in the secondary school
+1991|0|0.0||Technology Education in the 21st Century.
+1992|1.0|0.5||A Framework for Technology Education Curricula Which Emphasizes Intellectual Processes
+1993|9.0|2.0|Science Education|The science education reform movement: Implications for social responsibility
+1994|3.0|0.5||Technology Education: AKA Industrial Arts
+1995|5.0|1.5||Technology as Knowledge: Implications for Instruction.
+1996|11.0|2.0|British Journal of Educational Technology|Technology refusal: Rationalising the failure of student and beginning teachers to use computers
+1997|16.0|1.0|Science Education|Toward a First Nations Cross-Cultural Science and Technology Curriculum.
+1998|22.0|2.0|parallel computing|Design and implementation of scalable continuous media servers
+1999|47.0|2.0|Review of Educational Research|Effects of Small-Group Learning on Undergraduates in Science, Mathematics, Engineering, and Technology: A Meta-Analysis
+2000|18.0|2.0|World Development|Economic Growth and Human Development
+2001|15.0|2.0||Online Learning Needs in Technology Education.
+2002|16.0|2.0|Science Education|Tracking the processes of change in US undergraduate education in science, mathematics, engineering, and technology
+2003|13.0|1.0|International Journal of Technology and Design Education|Enhancing Technological Practice: An Assessment Framework for Technology Education in New Zealand
+2004|29.0|2.0||A review of the research literature on barriers to the uptake of ICT by teachers.
+2005|43.0|3.0|Educational Psychologist|Scaffolding Deep Comprehension Strategies Through Point&Query, AutoTutor, and iSTART.
+2006|60.0|2.0|Gender and Education|Women and science careers: leaky pipeline or gender filter?
+2007|143.0|3.0|CBE- Life Sciences Education|Clickers in the Large Classroom: Current Research and Best-Practice Tips.
+2008|86.0|3.0|Review of Research in Education|Science Education in Three-Part Harmony: Balancing Conceptual, Epistemic, and Social Learning Goals.
+2009|124.0|4.0|Journal of Educational Psychology|Spatial Ability for STEM Domains: Aligning over 50 Years of Cumulative Psychological Knowledge Solidifies Its Importance.
+2010|47.0|3.0|Learning and Instruction|Preparing preservice teachers for self-regulated learning in the context of technological pedagogical content knowledge

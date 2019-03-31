@@ -1,0 +1,54 @@
+----  Field Name Quantum chromodynamics: 
+----  Field Level 2.0: 
+----  Field Papers Number 5999:
+----  All time max citation paper: Large N field theories, string theory and gravity, 1999, (826.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1934|0|0.0||Thrips Resistance in the Onion.
+1940|4.0|2.0|Journal of Dairy Science|Oxidized Flavor in Milk: I. Effect of the Development of Oxidized Flavor on the Iodine Number of the Phospholipid Fraction of Milk
+1941|2.0|2.0|Journal of Dairy Research|284. The effects of additions of dried skim milk and dried whey on the baking quality and nutritive properties of white bread
+1945|12.0|7.5|Journal of Dairy Research|326. The effect of temperature of pre-heating, of clarification and of bacteriological quality of the raw milk on the keeping properties of whole-milk powder dried by the Kestner Spray Process
+1950|4.0|2.5|Journal of Dairy Science|Tocopherol, carotenoid and vitamin-A content of the milk fat and the resistance of milk to the development of oxidized flavors "as influenced by breed and season.
+1956|1.0|1.0|Philosophical Magazine|ON THE NATURE OF PARTICLES PRODUCED IN EXTREMELY ENERGETIC NUCLEAR COLLISIONS
+1957|0|0.0|Poultry Science|Relationships among diet composition, fleshing, fatness, and edible quality of female roasting turkeys. 2. Fish products in starters ; cereal grains and oilcake meals in growers.
+1958|4.0|4.0|Nuclear Physics|Strange particle decays and the universal VA four-fermion interaction
+1960|30.0|5.5|Journal of Dairy Science|Identification of Volatile Carbonyl Compounds from Cheddar Cheese1
+1970|5.0|1.0|Journal of Dairy Science|Inhibition of Salmonella gallinarum by culture filtrates of Leuconostoc citrovorum.
+1973|13.0|6.5|Journal of The Institute of Brewing|DERIVATION OF A PROFILE METHOD FOR SENSORY ANALYSIS OF BEER FLAVOUR
+1974|5.0|3.0|Journal of The Institute of Brewing|FLAVOUR RESEARCH AND THE CIDER INDUSTRY
+1975|0|0.0|Journal of The Institute of Brewing|PRODUCTION AND QUALITY EVALUATION OF TABLE WINES*
+1976|6.0|3.0|Journal of The Institute of Brewing|STABILITY OF ESSENTIAL OIL OF HOPS
+1977|9.0|1.0|Annals of Physics|Demythification of electroproduction local duality and precocious scaling
+1978|4.0|2.0|Phytochemistry|Flavour biogenesis. Partial purification and properties of a fatty acid hydroperoxide cleaving enzyme from fruits of cucumber
+1979|2.0|1.0|Pharmacology, Biochemistry and Behavior|Effects of phenobarbital on taste aversion induced by x-radiation
+1980|9.0|1.0|Physics Reports|Grand Unified Theories and Proton Decay
+1981|5.0|0.5|Journal of The Institute of Brewing|USE OF EXTRACTS PREPARED WITH LIQUID CARBON DIOXIDE AS A SUBSTITUTE FOR DRY HOPS
+1982|36.0|0.5|Physiology & Behavior|Flavor enhances the antidipsogenic effect of naloxone
+1983|7.0|0.0|Nuclear Physics|Hydrodynamics of hadronic matter produced in ultrarelativistic nucleus - nucleus collisions
+1984|16.0|1.0|Communications in Mathematical Physics|Construction and Borel summability of planar $4$-dimensional Euclidean field theory
+1985|11.0|1.0|international symposium on computer architecture|The GF11 supercomputer
+1986|27.0|0.0||The Relativistic Nuclear Many-Body Problem
+1987|172.0|1.0|Computer Physics Communications|The Lund Monte Carlo for jet fragmentation and e + e - physics - jetset version 6.3 - an update
+1988|23.0|1.0|Synapse|Biochemical and behavioral effects of sigma and PCP ligands
+1989|35.0|1.0|Journal of Neurochemistry|Regulation of Receptors: High and LowAffinity Agonist States, GTP Shifts, and UpRegulation by Rimcazole and 1,3Di(2Tolyl)guanidine
+1990|171.0|3.0|Physics Letters B|WEAK TRANSITION FORM-FACTORS BETWEEN HEAVY MESONS
+1991|25.0|1.0|Physics Letters B|Inclusive beauty decays and the spectator model
+1992|29.0|1.0|Journal of Food Science|Chemical, Physical, and Sensory Characterization of Ground Beef Containing 5 to 30 Percent Fat
+1993|24.0|2.0|Physics Letters B|The renormalization of the axial anomaly in dimensional regularization
+1994|42.0|2.0|Progress in Particle and Nuclear Physics|Dyson-Schwinger equations and their application to hadronic physics
+1995|35.0|2.0|Nuclear Physics|Dispersive approach to power-behaved contributions in QCD hard processes
+1996|53.0|3.0|Nuclear Physics|Non-perturbative O(a) improvement of lattice QCD
+1997|34.0|3.0|Physics Letters B|The 4-loop quark mass anomalous dimension and the invariant quark mass
+1998|48.0|4.0|Nuclear Physics|Non-perturbative quark mass renormalization in quenched lattice QCD
+1999|175.0|4.0|Physics Reports|Large N field theories, string theory and gravity
+2000|108.0|4.0|The Plant Cell|Identification of the SAAT Gene Involved in Strawberry Flavor Biogenesis by Use of DNA Microarrays
+2001|191.0|4.0|Journal of High Energy Physics|Towards the String representation of the dual Abelian Higgs model beyond the London limit
+2002|349.0|5.0|Journal of High Energy Physics|Quark-gluon vertex from lattice QCD
+2003|172.0|5.0|Journal of High Energy Physics|Inclusive Jet Production, Parton Distributions, and the Search for New Physics
+2004|222.0|6.0|Journal of High Energy Physics|MHV Vertices And Tree Amplitudes In Gauge Theory
+2005|146.0|3.5|Journal of High Energy Physics|Collinearity, convergence and cancelling infrared divergences
+2006|434.0|4.0|Journal of High Energy Physics|PYTHIA 6.4 Physics and Manual
+2007|149.0|6.0|Journal of High Energy Physics|Matching NLO QCD computations with parton shower simulations: the POWHEG method
+2008|327.0|6.0|Meat Science|Fat deposition, fatty acid composition and meat quality: A review
+2009|385.0|7.0|Letters in Mathematical Physics|Liouville Correlation Functions from Four-dimensional Gauge Theories
+2010|276.0|5.0|Nature|A two-solar-mass neutron star measured using Shapiro delay

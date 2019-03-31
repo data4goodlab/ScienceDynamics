@@ -1,0 +1,55 @@
+----  Field Name Group psychotherapy: 
+----  Field Level 2.0: 
+----  Field Papers Number 1577:
+----  All time max citation paper: Compassionate mind training for people with high shame and selfcriticism: overview and pilot study of a group therapy approach, 2006, (240.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1954|2.0|1.0|Review of Educational Research|Group Therapy in Educational Institutions
+1957|0|0.0|Review of Educational Research|Group Guidance and Group Therapy
+1958|0|0.0|Addiction|GROUP THERAPY IN ALCOHOLISM*
+1962|0|0.0|Journal of Child Psychology and Psychiatry|RECENT ADVANCES IN FAMILY GROUP THERAPY*
+1965|1.0|1.0|Comprehensive Psychiatry|Geriatric outpatient group therapy
+1966|0|0.0|Psychiatric Quarterly|Ethnic differences in schizophrenic development
+1967|0|0.0|Journal of The American Academy of Child Psychiatry|GROUP THERAPY FOR PUBESCENT BOYS WITH ABSENT FATHERS
+1968|9.0|9.0|Social Psychiatry and Psychiatric Epidemiology|Influence of the value-system of a psychiatric setting on behavior in group therapy meetings
+1969|2.0|2.0|American Journal of Orthopsychiatry|Our Place: Design for a Day Program.
+1970|4.0|2.0|Behavior Therapy|A behavioral approach to group dynamics: I. Reinforcement and prompting of cohesiveness in group therapy
+1971|1.0|0.5|Journal of Psychosomatic Research|Talking and body complaints in group therapy patients
+1972|2.0|2.0|Journal of The American Academy of Child Psychiatry|GROUP THERAPY WITH PARENTS OF HEMOPHILIACS : THERAPEUTIC PROCESS AND OBSERVATIONS OF PARENTAL ADAPTATION TO CHRONIC ILLNESS IN CHILDREN
+1974|25.0|5.0|Behavior Therapy|Group therapy versus bibliotherapy in weight reduction
+1975|3.0|1.0|Behavior Therapy|Group therapy: A behavioral perspective
+1976|6.0|0.0|International Journal of Psychiatry in Medicine|Brief Group Therapy Following Myocardial Infarction: Eighteen-Month Follow-Up of A Controlled Trial
+1977|2.0|0.5|International Journal of Psychiatry in Medicine|Group Therapy For Kidney Transplant Patients
+1978|4.0|1.5|Journal of Marital and Family Therapy|The McMaster Model of Family Functioning
+1979|0|0.0||Does Family Therapy Produce Change? An Overview of Outcome Studies.
+1980|3.0|0.0|Journal of Clinical Psychology|Effects of assertion training on depression
+1981|8.0|4.0|Journal of Marital and Family Therapy|Assessing Intimacy: The Pair Inventory*
+1982|12.0|1.0|Journal of Behavioral Medicine|An evaluation of a behavioral program for chronic pain
+1983|3.0|0.0||The Trend Toward Eclecticism and the Development of Comprehensive Models to Guide Counseling and Psychotherapy
+1984|12.0|1.0|Social Science & Medicine|Psychological approaches to the management of arthritis pain
+1985|3.0|1.5|Child Abuse & Neglect|Developmental milestones in abused children, and their improvement with a family-oriented approach to the treatment of child abuse
+1986|18.0|0.5|International Journal of Eating Disorders|Cognitivebehavioral group therapy for bulimia
+1987|4.0|2.0|International Journal of Eating Disorders|Group therapy in the treatment of adolescents with bulimia: Some preliminary observations
+1988|17.0|1.0|BMJ|Controlled trial of psychotherapy for bulimia nervosa
+1989|10.0|2.0|Journal of Marital and Family Therapy|Ethics and Family Therapy: The Case Management of Family Violence.
+1990|22.0|2.0|Journal of Consulting and Clinical Psychology|Group cognitive-behavioral treatment for the nonpurging bulimic: an initial evaluation.
+1991|12.0|1.0|Journal of the American Academy of Child and Adolescent Psychiatry|Group Therapy for Adolescent Depressive Disorder: A Comparison of Social Skills and Therapeutic Support
+1992|7.0|0.0|Behavioural Psychotherapy|Stress Control: A Controlled Comparative Investigation of Large Group Therapy for Generalized Anxiety Disorder
+1993|34.0|0.5|Journal of Consulting and Clinical Psychology|Group cognitive-behavioral therapy and group interpersonal psychotherapy for the nonpurging bulimic individual: a controlled comparison.
+1994|15.0|0.5|Behaviour Research and Therapy|Process evaluation of a group therapy component designed to enhance sex offenders' empathy for sexual abuse survivors.
+1995|15.0|1.0|Behaviour Research and Therapy|Dismantling cognitive-behavioral group therapy for social phobia.
+1996|15.0|1.0|Calcified Tissue International|Intranasal salmon calcitonin for the prevention and treatment of postmenopausal osteoporosis
+1997|11.0|2.5|Journal of Traumatic Stress|An affectmanagement group for women with posttraumatic stress disorder and histories of childhood sexual abuse
+1998|34.0|1.0|Archives of General Psychiatry|Cognitive behavioral group therapy vs phenelzine therapy for social phobia: 12-week outcome.
+1999|30.0|5.0|Schizophrenia Bulletin|Effects of Cognitive Treatment in Psychiatric Rehabilitation
+2000|51.0|6.5|American Journal of Psychiatry|Nicotine Transdermal Patch and Atypical Antipsychotic Medications for Smoking Cessation in Schizophrenia
+2001|66.0|6.0|Archives of General Psychiatry|Supportive-Expressive Group Therapy and Distress in Patients With Metastatic Breast Cancer: A Randomized Clinical Intervention Trial
+2002|56.0|5.0|Archives of General Psychiatry|Common Changes in Cerebral Blood Flow in Patients With Social Phobia Treated With Citalopram or Cognitive-Behavioral Therapy
+2003|36.0|7.0|Archives of General Psychiatry|Randomized Trial of Trauma-Focused Group Therapy for Posttraumatic Stress Disorder: Results From a Department of Veterans Affairs Cooperative Study
+2004|65.0|11.0|Journal of the American Academy of Child and Adolescent Psychiatry|Cognitive-Behavioral Family Treatment of Childhood Obsessive-Compulsive Disorder: A Controlled Trial
+2005|44.0|7.5|Journal of Consulting and Clinical Psychology|Preventing Relapse/Recurrence in Recurrent Depression With Cognitive Therapy: A Randomized Controlled Trial.
+2006|64.0|5.0|Clinical Psychology & Psychotherapy|Compassionate mind training for people with high shame and selfcriticism: overview and pilot study of a group therapy approach
+2007|75.0|4.0|Journal of Autism and Developmental Disorders|Treating anxiety disorders in children with high functioning autism spectrum disorders: a controlled trial.
+2008|139.0|3.0|Journal of Clinical Child and Adolescent Psychology|Evidence-Based Psychosocial Treatments for Phobic and Anxiety Disorders in Children and Adolescents
+2009|63.0|5.0|Journal of Behavior Therapy and Experimental Psychiatry|A schema-focused approach to group psychotherapy for outpatients with borderline personality disorder: a randomized controlled trial.
+2010|86.0|3.0|BMC Psychiatry|Psychosocial functioning in patients with treatment-resistant depression after group cognitive behavioral therapy

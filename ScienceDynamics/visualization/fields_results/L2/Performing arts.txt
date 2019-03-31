@@ -1,0 +1,59 @@
+----  Field Name Performing arts: 
+----  Field Level 2.0: 
+----  Field Papers Number 27846:
+----  All time max citation paper: Random early detection gateways for congestion avoidance, 1993, (3001.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1950|2.0|1.0|The New England Journal of Medicine|A Fundamental Consideration of Anticoagulant Therapy
+1954|0|0.0|Nature|Direction of Polarization of Proton Spin produced by Elastic Scattering
+1958|0|0.0||PULSE COLUMN DESIGN
+1959|0|0.0||Radio-frequency aspects of electro-nuclear accelerators
+1960|4.0|2.0|Physics of Fluids|Isotope Separation by a HotWire Thermal Diffusion Column
+1961|6.0|1.0|International Journal of Heat and Mass Transfer|INFLUENCE OF TURBULENCE ON THE TRANSFER OF HEAT FROM PLATES WITH AND WITHOUT A PRESSURE GRADIENT
+1963|6.0|3.5|International Journal of Heat and Mass Transfer|Nucleate boiling. The region of isolated bubbles and the similarity with natural convection
+1964|10.0|5.0|Mutation Research|X-RAY INDUCED MUTABILITY IN MALE GERM CELLS OF DROSOPHILA MELANOGASTER
+1965|1.0|0.5|Nuclear Instruments and Methods|The curved-crystal spectrometer at the university of Michigan
+1966|1.0|0.0|Journal of Spacecraft and Rockets|DYNAMIC PERFORMANCE OF LOW THRUST COLD GAS REACTION JETS IN A VACUUM
+1967|8.0|1.0|Clinical Radiology|The value and limitations of brain scanning a review of 401 consecutive cases
+1969|6.0|1.0|Journal of Atmospheric and Solar-Terrestrial Physics|Seasonal variations of electron densities below 100 km at mid-latitudesI Differential absorption measurements
+1970|3.0|0.0|Solid-state Electronics|Calculated efficiencies of practical GaAs and Si solar cells including the effect of built-in electric fields
+1971|1.0|0.0||Solar electric propulsion system technology
+1972|6.0|1.0|Communications of The ACM|The role of computer system models in performance evaluation
+1973|6.0|0.5|Psychophysiology|Performance and Mood Following Variations in the Length and Timing of Sleep
+1974|12.0|1.0|Psychophysiology|Interaction of REM Deprivation and Stage 4 Deprivation With Total Sleep Loss: Experiment 2
+1975|8.0|1.0|Applied Physics Letters|Integrated GaAs-AlGaAs double-heterostructure lasers
+1976|55.0|2.0|Solar Energy|A design procedure for solar heating systems
+1977|13.0|1.0|Applied Physics Letters|The origin of dislocation climb during laser operation
+1978|25.0|3.0|ACM Transactions on Database Systems|Concepts and capabilities of a database computer\
+1979|12.0|1.0|Journal of Applied Physics|The operation of the semiconductorinsulatorsemiconductor solar cell: Experiment
+1980|14.0|2.0|Applied Physics Letters|Improvement of polycrystalline silicon solar cells with grainboundary hydrogenation techniques
+1981|18.0|1.5|Journal of Social Issues|Physiological, Comfort, Performance, and Social Effects of Heat Stress
+1982|87.0|1.0|Cognitive Science|Simulating a Skilled Typist: A Study of Skilled CognitiveMotor Performance
+1983|17.0|1.0|Communications of The ACM|A tree convolution algorithm for the solution of queueing networks
+1984|145.0|2.0|ACM Transactions on Computer Systems|Implementing remote procedure calls
+1985|11.0|1.0|Applied Physics Letters|Microwave intensity and frequency modulation of heteroepitaxial-ridge-overgrown distributed feedback lasers
+1986|27.0|2.0|ACM Transactions on Computer Systems|VAXcluster: a closely-coupled distributed system
+1987|79.0|3.0|Cognitive Psychology|Attentional requirements of learning: Evidence from performance measures
+1988|52.0|2.5|Cognitive Psychology|Visual and spatial mental imagery: Dissociable systems of representation
+1989|61.0|2.0|Journal of Parallel and Distributed Computing|Data communication in hypercubes
+1990|151.0|2.0|international symposium on computer architecture|The directory-based cache coherence protocol for the DASH multiprocessor
+1991|332.0|2.0|American Journal of Physics|Solar engineering of thermal processes
+1992|200.0|2.0|IEEE Transactions on Parallel and Distributed Systems|Virtual-channel flow control
+1993|93.0|3.0|IEEE Transactions on Parallel and Distributed Systems|A new theory of deadlock-free adaptive routing in wormhole networks
+1994|129.0|3.0|IEEE Transactions on Information Theory|Blind identification and equalization based on second-order statistics: a time domain approach
+1995|101.0|2.0|IEEE Journal on Selected Areas in Communications|Dynamics of TCP traffic over ATM networks
+1996|414.0|2.0|IEEE Transactions on Circuits and Systems for Video Technology|A new, fast, and efficient image codec based on set partitioning in hierarchical trees
+1997|185.0|2.0|field programmable custom computing machines|Garp: a MIPS processor with a reconfigurable coprocessor
+1998|127.0|2.0|international conference on acoustics speech and signal processing|FFTW: an adaptive software architecture for the FFT
+1999|242.0|4.0|IEEE Transactions on Information Theory|Good error-correcting codes based on very sparse matrices
+2000|233.0|4.0|IEEE Transactions on Information Theory|Differential space-time modulation
+2001|202.0|4.0|IEEE Computer Graphics and Applications|Recent advances in augmented reality
+2002|661.0|4.0|acm/ieee international conference on mobile computing and networking|Wireless sensor networks for habitat monitoring
+2003|687.0|5.0|international world wide web conferences|The Eigentrust algorithm for reputation management in P2P networks
+2004|550.0|7.0|acm ieee international conference on mobile computing and networking|Routing in multi-radio, multi-hop wireless mesh networks
+2005|410.0|5.0|programming language design and implementation|Pin: building customized program analysis tools with dynamic instrumentation
+2006|420.0|7.0|Nature Reviews Neuroscience|Adult neurogenesis and functional plasticity in neuronal circuits
+2007|489.0|6.0|symposium on operating systems principles|Dynamo: amazon's highly available key-value store
+2008|424.0|6.0|Science|Cooling, Heating, Generating Power, and Recovering Waste Heat with Thermoelectric Systems
+2009|473.0|6.0|Nature Reviews Neuroscience|Stress, memory and the amygdala
+2010|630.0|6.0|Journal of Education Policy|The teacher's soul and the terrors of performativity

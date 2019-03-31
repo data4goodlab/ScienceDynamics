@@ -1,0 +1,28 @@
+----  Field Name Market microstructure: 
+----  Field Level 2.0: 
+----  Field Papers Number 1163:
+----  All time max citation paper: Information and the Cost of Capital, 2001, (741.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1989|16.0|16.0|Japan and the World Economy|Market microstructure and price discovery on the Tokyo Stock Exchange
+1990|15.0|9.0|Journal of Financial Economics|Market microstructure and asset pricing: An empirical investigation of NYSE and NASDAQ securities
+1991|20.0|19.0|Journal of Finance|An Investigation of Market Microstructure Impacts on Event Study Returns
+1992|6.0|3.5|Financial Management|A Market Microstructure Explanation of Ex-Day Abnormal Returns
+1993|11.0|7.0|European Economic Review|A comparison of the cost of trading French shares on the Paris Bourse and on SEAQ International
+1994|25.0|3.5|Journal of International Economics|Bidask spreads and volatility in the foreign exchange market: An empirical analysis
+1995|7.0|3.0|Real Estate Economics|Market Microstructure and Real Estate Returns
+1996|45.0|4.5|Journal of Financial Economics|Market microstructure and asset pricing: On the compensation for illiquidity in stock returns
+1997|74.0|5.0|Journal of Empirical Finance|Intraday periodicity and volatility persistence in financial markets
+1998|43.0|4.0|Journal of Financial Economics|An empirical analysis of NYSE specialist trading
+1999|21.0|1.5|Ssrn Electronic Journal|The Market Microstructure of Central Bank Intervention
+2000|35.0|3.0|Journal of Finance|Is Information Risk a Determinant of Asset Returns?
+2001|81.0|2.0|Journal of Finance|Information and the Cost of Capital
+2002|68.0|5.0|The American Economic Review|Micro Effects of Macro Announcements: Real-Time Price Discovery in Foreign Exchange?
+2003|73.0|4.0|Journal of the American Statistical Association|A Tale of Two Time Scales: Determining Integrated Volatility With Noisy High-Frequency Data
+2004|57.0|2.0||Microstructure noise, realized volatility, and optimal sampling
+2005|33.0|2.0|Journal of Financial Markets|Market microstructure: A survey of microfoundations, empirical results, and policy implications
+2006|46.0|2.0|Journal of Finance|Liquidity and Autocorrelations in Individual Stock Returns
+2007|114.0|3.0|Journal of International Economics|Real-Time Price Discovery in Global Stock, Bond and Foreign Exchange Markets
+2008|63.0|4.0||How Markets Slowly Digest Changes in Supply and Demand
+2009|81.0|2.0|Journal of Financial Economics|Dynamic order submission strategies with competition between a dealer market and a crossing network.
+2010|81.0|2.0|Applied Mathematical Finance|Optimal Execution with Nonlinear Impact Functions and Trading-enhanced Risk

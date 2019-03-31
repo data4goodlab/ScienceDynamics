@@ -1,0 +1,51 @@
+----  Field Name Discrete mathematics: 
+----  Field Level 1.0: 
+----  Field Papers Number 5690:
+----  All time max citation paper: On the criteria to be used in decomposing systems into modules, 1972, (1779.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1962|8.0|8.0|Advances in Computers|Alternating Direction Implicit Methods
+1964|3.0|3.0|Numerische Mathematik|Direct solution of partial difference equations by tensor product methods
+1965|2.0|1.0|Information & Computation|An algebraic study of group and nongroup error-correcting codes
+1967|2.0|2.0|Ibm Journal of Research and Development|On difference methods for parabolic equations and alternating direction implicit methods for elliptic equation
+1969|7.0|2.0|Communications of The ACM|Computers in group theory: a survey
+1971|8.0|2.0||Selected Digital Computer Techniques for Groundwater Resource Evaluation
+1972|88.0|2.0|Communications of The ACM|On the criteria to be used in decomposing systems into modules
+1973|4.0|3.0|Journal of Multivariate Analysis|The distribution of the sphericity test criterion
+1974|10.0|1.0|Acta Informatica|A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods
+1975|6.0|4.0|Computers & Fluids|Viscous flow solutions with a cubic spline approximation
+1976|17.0|2.0|Journal of Computational Physics|Solution of the Multidimensional Compressible Navier-Stokes Equations by a Generalized Implicit Method
+1977|4.0|2.0|IEEE Transactions on Reliability|A Decomposition Method for Computing System Reliability by a Boolean Expression
+1978|7.0|1.0|IEEE Transactions on Reliability|Top-down Algorithm for Obtaining Prime Implicant Sets of Non-Coherent Fault Trees
+1979|16.0|1.5|Journal of Chemical Physics|Tensorial factorization and rotationally inelastic collisions
+1980|18.0|2.0|IEEE Transactions on Computers|Syndrome-Testable Design of Combinational Circuits
+1981|30.0|1.5|Bulletin of the American Mathematical Society|The fundamental theorem of algebra and complexity theory
+1982|12.0|2.5|Journal of the ACM|Linear-time computability of combinatorial problems on series-parallel graphs
+1983|14.0|3.0|IEEE Transactions on Reliability|Symbolic Reliability Analysis with the Aid of Variable-Entered Karnaugh Maps
+1984|51.0|1.5|Neuroscience|Quantitative light microscopic autoradiographic localization of cholinergic muscarinic receptors in the human brain: Brainstem
+1985|6.0|3.0|Journal of Chemical Physics|Classical theory of collisional depolarization and rotational relaxation in openshell diatomic molecules
+1986|7.0|1.0|IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems|Computer-Aided Minimization Procedure for Boolean Functions
+1987|35.0|2.5|IEEE Transactions on Acoustics, Speech, and Signal Processing|Morphological filters--Part II: Their relations to median, order-statistic, and stack filters
+1988|28.0|2.0|Management Science|Multiproduct queueing networks with deterministic routing: decomposition approach and the notion of interference
+1989|20.0|1.0|Information & Computation|Approximation algorithms for the shortest common superstring problem
+1990|19.0|1.0|IEEE Transactions on Computers|On the complexity of mod-2l sum PLA's
+1991|17.0|1.0|programming language design and implementation|Fortran at ten gigaflops: the connection machine convolution compiler
+1992|37.0|2.0|IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems|Provably good performance-driven global routing
+1993|45.0|2.0|design automation conference|Performance-Driven Interconnect Design Based on Distributed RC Delay Model
+1994|34.0|2.0|design automation conference|An Exact Algorithm for Selecting Partial Scan Flip-Flops
+1995|43.0|1.0|Operations Research|A New Scenario Decomposition Method for Large-Scale Stochastic Optimization
+1996|23.0|2.0|IEEE Transactions on Software Engineering|Mathematical notation in formal specification: too difficult for the masses?
+1997|49.0|2.0|The EMBO Journal|The Cockayne syndrome B protein, involved in transcriptioncoupled DNA repair, resides in an RNA polymerase IIcontaining complex
+1998|25.0|1.0|Energy Economics|Changes in energy consumption and energy intensity: A complete decomposition model
+1999|38.0|3.0|Applied Mathematics and Computation|A reliable modification of Adomian decomposition method
+2000|57.0|2.0|IEEE Transactions on Microwave Theory and Techniques|Toward the development of a three-dimensional unconditionally stable finite-difference time-domain method
+2001|57.0|3.0||Predictive Performance and Scalability Modeling of a Large-Scale Application
+2002|91.0|3.5|Plant and Soil|Stabilization mechanisms of soil organic matter: Implications for C-saturation of soils
+2003|205.0|4.0||Discrete Differential-Geometry Operators for Triangulated 2-Manifolds
+2004|94.0|4.0|Journal of the American Statistical Association|Stable and Efficient Multiple Smoothing Parameter Estimation for Generalized Additive Models
+2005|132.0|4.0|Journal of Machine Learning Research|Working Set Selection Using Second Order Information for Training Support Vector Machines
+2006|195.0|4.0|Bulletin of the American Mathematical Society|Expander graphs and their applications
+2007|149.0|3.0|IEEE Transactions on Evolutionary Computation|MOEA/D: A Multiobjective Evolutionary Algorithm Based on Decomposition
+2008|133.0|3.0|Annual Review of Cell and Developmental Biology|The Epigenetics of rRNA Genes: From Molecular to Chromosome Biology
+2009|285.0|3.0|Machine Learning|Cutting-plane training of structural SVMs
+2010|128.0|4.0|International Journal of Hydrogen Energy|Hydrogen production by methane decomposition: A review

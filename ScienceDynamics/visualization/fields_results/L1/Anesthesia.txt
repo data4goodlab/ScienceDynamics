@@ -1,0 +1,55 @@
+----  Field Name Anesthesia: 
+----  Field Level 1.0: 
+----  Field Papers Number 10919:
+----  All time max citation paper: Social support and oxytocin interact to suppress cortisol and subjective responses to psychosocial stress, 2003, (567.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|0|0.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|Ataxic paraglegia occurring amongst Chinese in Malaya
+1948|4.0|4.0|JAMA Internal Medicine|EFFECT OF PROPHYLACTICALLY ADMINISTERED PENICILLIN ON INCIDENCE OF BACTEREMIA FOLLOWING EXTRACTION OF TEETH: Results in Patients with Healed Rheumatic and Bacterial Endocarditis
+1950|0|0.0|Journal of Morphology|The effects of local xray irradiation on the tail development of young axolotls
+1960|2.0|2.0|The Journal of Pathology and Bacteriology|The fate of bacteria in the small intestine
+1964|11.0|6.0|Experimental Neurology|Evoked responses from the auditory cortex.
+1965|1.0|1.0|Electroencephalography and Clinical Neurophysiology|ELECTROCORTICOGRAM DURING WHOLE BODY VIBRATION,
+1967|2.0|2.0|Circulation Research|Pericardial Pressure during Transverse Acceleration in Dogs without Thoracotomy
+1969|34.0|17.0|Journal of Clinical Investigation|Frequency dependence of compliance as a test for obstruction in the small airways
+1970|26.0|3.0|The New England Journal of Medicine|Effect of alcohol and various diseases on leukocyte mobilization, phagocytosis and intracellular bacterial killing.
+1971|3.0|3.0|Respiration Physiology|Starvation on compliance and surfactant of the rat lung
+1972|23.0|14.0|Journal of Clinical Investigation|Ventilation with end-expiratory pressure in acute lung disease
+1973|8.0|0.0|Physiology & Behavior|Drinking to intracerebral angiotensin II and carbachol: Dose-response relationships and ionic involvement
+1974|10.0|1.0|Journal of Clinical Investigation|Effects of intravenous administration of slow-reacting substance of anaphylaxis, histamine, bradykinin, and prostaglandin F2alpha on pulmonary mechanics in the guinea pig.
+1975|13.0|2.0|Physiology & Behavior|Lateral preoptic and lateral hypothalamic units: In search of the osmoreceptors for thirst
+1976|8.0|2.0|Brain Research Bulletin|Evidence for independent osmosensitivity of lateral preoptic and lateral hypothalamic neurons
+1977|12.0|2.0|European Journal of Clinical Investigation|Bloodbrain barrier permeability during electroshock seizures in the rat
+1978|25.0|1.0|European Journal of Pharmacology|Effects of anaesthetics and anticonvulsants on the action of kainic acid in the rat hippocampus
+1979|7.0|1.0|Journal of Clinical Investigation|Increased surface tension favors pulmonary edema formation in anesthetized dogs' lungs.
+1980|12.0|1.0|Anaesthesia|Obstetric pain relief using epidural morphine
+1981|17.0|2.0|Brain Research|ACTH 124 blocks opiate - induced analgesia in the rat
+1982|38.0|2.0|The Lancet|MALIGNANT HYPERPYREXIA AND SUDDEN INFANT DEATH
+1983|25.0|1.5|Brain Research|Spinal and supraspinal opioid analgesia in the mouse: the role of subpopulations of opioid binding sites
+1984|22.0|2.0|Brain Research|Ethanol stimulates the firing rate of nigral dopaminergic neurons in unanesthetized rats
+1985|26.0|3.0|Psychopharmacology|Motivational properties of kappa and mu opioid receptor agonists studied with place and taste preference conditioning.
+1986|31.0|3.0|Brain Research|Evidence for GABA involvement in midbrain control of medullary neurons that modulate nociceptive transmission
+1987|29.0|3.0|JAMA Neurology|The Diagnosis of Dementia With Single Photon Emission Computed Tomography
+1988|49.0|3.0|Neuroscience Letters|Response latencies in the tail-flick test depend on tail skin temperature.
+1989|46.0|2.0|Peptides|Discrete mapping of brain mu and delta opioid receptors using selective peptides: Quantitative autoradiography, species differences and comparison with kappa receptors
+1990|34.0|2.0|Neuroscience Letters|Intrathecal galanin potentiates the spinal analgesic effect of morphine: Electrophysiological and behavioural studies
+1991|28.0|2.0|Experimental Neurology|Functional recovery of supersensitive dopamine receptors after intrastriatal grafts of fetal substantia nigra
+1992|25.0|2.0|Brain Research|Chronic cocaine alters brain mu opioid receptors
+1993|42.0|3.0|British Journal of Pharmacology|Nitric oxidemediated hyporeactivity to noradrenaline precedes the induction of nitric oxide synthase in endotoxin shock
+1994|52.0|2.0|The Journal of Comparative Neurology|Expression of Mu opioid receptor mRNA in rat brain: An in situ hybridization study at the single cell level
+1995|63.0|3.0|The Journal of Comparative Neurology|Model of forebrain regionalization based on spatiotemporal patterns of POUIII homeobox gene expression, birthdates, and morphological features
+1996|50.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Determinants of the G protein-dependent opioid modulation of neuronal calcium channels
+1997|80.0|3.0|European Journal of Pharmacology|The effect of novel anti-epileptic drugs in rat experimental models of acute and chronic pain
+1998|94.0|3.5|Proceedings of the National Academy of Sciences of the United States of America|Role for G protein-coupled receptor kinase in agonist-specific regulation of -opioid receptor responsiveness
+1999|107.0|3.0|Trends in Neurosciences|Acetylcholine in mind: a neurotransmitter correlate of consciousness?
+2000|113.0|4.0|Nature||[mu]|-Opioid receptor desensitization by |[beta]|-arrestin-2 determines morphine tolerance but not dependence
+2001|69.0|4.0|Pain|A new model of sciatic inflammatory neuritis (SIN): induction of unilateral and bilateral mechanical allodynia following acute unilateral peri-sciatic immune activation in rats.
+2002|142.0|4.0|Progress in Neurobiology|Exploring the opioid system by gene knockout
+2003|138.0|5.0|Annual Review of Neuroscience|REGIONALIZATION OF THE PROSENCEPHALIC NEURAL PLATE
+2004|82.0|6.0|Anaesthesia|Ultrasound guidance for infraclavicular brachial plexus anaesthesia in children.
+2005|126.0|6.0|Lancet Infectious Diseases|Immune reconstitution disease associated with mycobacterial infections in HIV-infected individuals receiving antiretrovirals.
+2006|64.0|5.0|Critical Care|Effects of descending positive end-expiratory pressure on lung mechanics and aeration in healthy anaesthetized piglets
+2007|91.0|5.0|Pain|Exploring joint effects of genes and the clinical efficacy of morphine for cancer pain: OPRM1 and COMT gene.
+2008|143.0|6.0|Nature Protocols|Measurement of cardiac function using pressurevolume conductance catheter technique in mice and rats
+2009|169.0|4.0|Cell|Dissociation of the Opioid Receptor Mechanisms that Control Mechanical and Heat Pain
+2010|399.0|5.0|Science|Tissue-Engineered Lungs for in Vivo Implantation

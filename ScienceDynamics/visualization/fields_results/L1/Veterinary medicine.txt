@@ -1,0 +1,57 @@
+----  Field Name Veterinary medicine: 
+----  Field Level 1.0: 
+----  Field Papers Number 13164:
+----  All time max citation paper: The power of Kawaii: viewing cute images promotes a careful behavior and narrows attentional focus., 2012, (1967.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|5.0|5.0|Journal of Hygiene|The disinfection of closed atmospheres with germicidal aerosols
+1948|3.0|3.0|Australian Veterinary Journal|THE EPIDEMIOLOGY OF PARASITIC DISEASES, WITH SPECIAL REFERENCE TO STUDIES WITH NEMATODE PARASITES OF SHEEP*
+1952|0|0.0|Journal of Dairy Science|Toxicological Effects of Toxaphene on Dairy Cows
+1958|1.0|1.0|The New England Journal of Medicine|Interrelations of Human and Veterinary Medicine: Discussion of Some Aspects of Comparative Dermatology
+1960|2.0|2.0|Proceedings of The Nutrition Society|Selenium in animal health.
+1964|0|0.0|Journal of Small Animal Practice|TwentyFirst Anniversary of the Animal Health Trust
+1965|5.0|2.5|Journal of Dairy Science|Influence of High Levels of Dietary Zinc on Zinc in Milk, Performance and Biochemistry of Lactating Cows1
+1966|1.0|1.0|The American Journal of Medicine|Biomedical models in veterinary medicine
+1967|0|0.0|Clinical Biochemistry|Veterinary medicine and clinical biochemistry
+1969|0|0.0|Australian Veterinary Journal|SERUM PEPSINOGEN CONCENTRATIONS IN HORSES NATURALLY INFECTED WITH TRICHOSTRONGYLUS AXEI
+1970|7.0|2.0|Canadian Journal of Animal Science|Feeding value for dairy cattle and pigs of high moisture corn preserved with propionic acid.
+1971|4.0|0.0|Nature|Relationship of Ochratoxin A to Foetal Death in Laboratory and Domestic Animals
+1972|3.0|2.5|Journal of Pharmacokinetics and Biopharmaceutics|A Modern View of Pharmacokinetics
+1973|7.0|1.0|Journal of Pharmacokinetics and Biopharmaceutics|Properties of the Michaelis-Menten equation and its integrated form which are useful in pharmacokinetics
+1974|5.0|2.0|Australian Veterinary Journal|LEPTOSPIROSIS IN ANIMALS AND MAN
+1975|2.0|1.0|Journal of Pharmacokinetics and Biopharmaceutics|Application of the Loo-Riegelman absorption method
+1976|23.0|2.0|Journal of Pharmacokinetics and Biopharmaceutics|Linear pharmacokinetic equations allowing direct calculation of many needed pharmacokinetic parameters from the coefficients and exponents of polyexponential equations which have been fitted to the data
+1977|6.0|1.0|Journal of Pharmacokinetics and Biopharmaceutics|Pharmacokinetic parameters estimated from intravenous data by uniform methods and some of their uses
+1978|7.0|1.0|Journal of Pharmacokinetics and Biopharmaceutics|Time to reach steady state and prediction of steady-state concentrations for drugs obeying Michaelis-Menten elimination kinetics
+1979|3.0|2.0|Experimental Parasitology|Ascaris sp. : water loss during desiccation of embryonating eggs
+1980|12.0|1.5|Springer Seminars in Immunopathology|Immunoregulation with Levamisole
+1981|7.0|2.0|Applied Animal Ethology|Applied ethology and animal welfare
+1982|11.0|1.0|Journal of Dairy Science|Influences of Environment and Its Modification on Dairy Animal Health and Production1
+1983|16.0|3.5|Equine Veterinary Journal|Guidelines for the future of equine locomotion research
+1984|8.0|2.0|Worlds Poultry Science Journal|Behaviour and well-being of hens (Gallus domesticus) in alternative housing environments.
+1985|44.0|2.0|American Psychologist|The value of behavioral research on animals.
+1986|6.0|1.0|Journal of Veterinary Pharmacology and Therapeutics|A review of immunomodulators and their application in veterinary medicine
+1987|10.0|1.0|Antiviral Research|Bovine Interferon - its Biology and Application in Veterinary-Medicine
+1988|50.0|3.0|Animal Behaviour|The notion of ethological need, models of motivation and animal welfare
+1989|33.0|3.0|Applied Animal Behaviour Science|Animal welfare practice: Primary factors and objectives
+1990|91.0|4.0|Behavioral and Brain Sciences|From an animal's point of view: Motivation, fitness, and animal welfare
+1991|13.0|1.0|Applied Animal Behaviour Science|Problems associated with the interpretation of physiological data in the assessment of animal welfare
+1992|24.0|3.0|Mycopathologia|The implications of naturally occurring levels of fumonisins in corn for human and animal health
+1993|12.0|2.0|British Veterinary Journal|The scope for raising margins in dairy herds by improving fertility and health
+1994|10.0|1.0|World Bank Research Observer|Animal Health Services: Finding the Balance between Public and Private Delivery
+1995|29.0|3.0|Veterinary Parasitology|Structure and activity of avermectins and milbemycins in animal health
+1996|55.0|3.0|Fems Microbiology Reviews|Tetracycline resistance determinants: mechanisms of action, regulation of expression, genetic mobility, and distribution
+1997|77.0|2.0|Theriogenology|In vitro produced and cloned embryos: Effects on pregnancy, parturition and offspring
+1998|125.0|3.0|Chemosphere|Occurrence, fate and effects of pharmaceutical substances in the environment--a review.
+1999|47.0|4.0|Animal Feed Science and Technology|A review of worldwide contamination of cereal grains and animal feed with Fusarium mycotoxins
+2000|90.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Gene genealogies reveal global phylogeographic structure and reproductive isolation among lineages of Fusarium graminearum, the fungus causing wheat scab
+2001|104.0|5.0|Neuroscience & Biobehavioral Reviews|Corticosteroids in relation to fear, anxiety and psychopathology
+2002|506.0|4.0|Nature|Complete genome sequence of the model actinomycete Streptomyces coelicolor A3(2)
+2003|92.0|5.0|Applied and Environmental Microbiology|Soil Type Is the Primary Determinant of the Composition of the Total and Active Bacterial Communities in Arable Soils
+2004|100.0|5.0|Food and Chemical Toxicology|Unintended effects and their detection in genetically modified crops
+2005|548.0|5.0|Nature|Genome sequence, comparative analysis and haplotype structure of the domestic dog
+2006|171.0|5.0|Environmental Microbiology|Heavy use of prophylactic antibiotics in aquaculture: a growing problem for human and animal health and for the environment
+2007|170.0|6.0|Food and Chemical Toxicology|Review on the toxicity, occurrence, metabolism, detoxification, regulations and intake of zearalenone: An oestrogenic mycotoxin
+2008|244.0|6.0|Journal of Virology|Full Genome-Based Classification of Rotaviruses Reveals a Common Origin between Human Wa-Like and Porcine Rotavirus Strains and Human DS-1-Like and Bovine Rotavirus Strains
+2009|512.0|7.0|Chemosphere|Antibiotics in the aquatic environment--a review--part II.
+2010|277.0|6.0|British Journal of Cancer|Guidelines for the welfare and use of animals in cancer research

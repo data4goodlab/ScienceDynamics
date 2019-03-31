@@ -1,0 +1,48 @@
+----  Field Name Knowledge representation and reasoning: 
+----  Field Level 2.0: 
+----  Field Papers Number 15148:
+----  All time max citation paper: Perceptual symbol systems, 1999, (2034.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1958|0|0.0|Colloid and Polymer Science|Studies on micelles
+1962|0|0.0|Meteorology and Atmospheric Physics|A Calculation of the Large Scale Three Dimensional Distribution of Diabatic Heating in the Atmosphere
+1967|0|0.0|Contemporary Physics|Creep and Fatigue of Engineering Materials
+1970|27.0|27.0|Communications of The ACM|A formal system for information retrieval from files
+1973|3.0|3.0|International Journal of Solids and Structures|Optimal design of structures with buckling constraints.
+1974|1.0|1.0|Calcolo|Some ideas on semantic memory in automatic learning of heuristics
+1975|1.0|1.0|Proceedings of the American Mathematical Society|A note on a trigonometric moment problem
+1976|55.0|29.0|Cognitive Science|An overview of KRL, a Knowledge Representation Language
+1977|45.0|2.0|Communications of The ACM|Database abstractions: aggregation
+1978|32.0|4.0||On The Epistemological Status of Semantic Networks.
+1979|127.0|6.0|ACM Transactions on Database Systems|Extending the database relational model to capture more meaning
+1980|37.0|3.0|Communications of The ACM|Learning and reasoning by analogy
+1981|8.0|3.5|Aquatic Toxicology|Effects of oil on digestive cells in mussels: Quantitative alterations in cellular and lysosomal structure
+1982|29.0|2.0|human factors in computing systems|Analogy considered harmful
+1983|79.0|3.0|Fuzzy Sets and Systems|The role of fuzzy logic in the management of uncertainty in expert systems
+1984|115.0|4.0|Artificial Intelligence|Qualitative process theory
+1985|136.0|4.5|Behavioral and Brain Sciences|Four frames suffice: A provisional model of vision and space
+1986|51.0|4.0|international conference on computer graphics and interactive techniques|An object-oriented user interface management system
+1987|196.0|3.0|ACM Computing Surveys|Semantic database modeling: survey, applications, and research issues
+1988|125.0|3.0|IEEE Computer|Self-organization in a perceptual network
+1989|64.0|2.0|IEEE Intelligent Systems|Viewing knowledge bases as qualitative models
+1990|62.0|3.0|ACM Transactions on Information Systems|Telos: representing knowledge about information systems
+1991|57.0|2.0|IEEE Transactions on Software Engineering|The Requirements Apprentice: automated assistance for requirements acquisition
+1992|47.0|2.0|Journal of Logic Programming|Feature-constraint logics for unification grammars
+1993|70.0|2.0|Neuron|Transient period of correlated bursting activity during development of the mammalian retina
+1994|57.0|2.0|Automatica|Qualitative reasoning: modeling and simulation with incomplete knowledge
+1995|56.0|2.0|IEEE Transactions on Knowledge and Data Engineering|Description logics in data management
+1996|51.0|2.0|national conference on artificial intelligence|A Model-based Approach to Reactive Self-Configuring Systems
+1997|149.0|2.0|Psychological Review|A solution to Platos problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge
+1998|98.0|2.0|Artificial Intelligence|Remote Agent: to boldly go where no AI system has gone before
+1999|198.0|3.0|Behavioral and Brain Sciences|Perceptual symbol systems
+2000|128.0|3.0|Logic Journal of The Igpl \/ Bulletin of The Igpl|Practical reasoning for very expressive description logics
+2001|78.0|3.0|IEEE Transactions on Multimedia|A probabilistic framework for semantic video indexing, filtering, and retrieval
+2002|121.0|3.0|Journal of Chromatography A|Monolithic silica columns for high-efficiency chromatographic separations
+2003|318.0|3.0|Gastroenterology|Model for end-stage liver disease (MELD) and allocation of donor livers
+2004|159.0|5.0|Bt Technology Journal|ConceptNet  A Practical Commonsense Reasoning Tool-Kit
+2005|186.0|4.0|American Journal of Transplantation|The Survival Benefit of Liver Transplantation
+2006|212.0|3.0|IEEE Transactions on Image Processing|The Nonsubsampled Contourlet Transform: Theory, Design, and Applications
+2007|343.0|3.0|Journal of Web Semantics|Ontologies are us: A unified model of social networks and semantics
+2008|426.0|3.0|Bioenergy Research|Second Generation Biofuels: High-Efficiency Microalgae for Biodiesel Production
+2009|431.0|3.0|IEEE Transactions on Knowledge and Data Engineering|Learning from Imbalanced Data
+2010|205.0|4.0|Gastroenterology|Infections in Patients With Cirrhosis Increase Mortality Four-Fold and Should Be Used in Determining Prognosis

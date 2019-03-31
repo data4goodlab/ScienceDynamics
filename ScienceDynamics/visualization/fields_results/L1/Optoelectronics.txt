@@ -1,0 +1,56 @@
+----  Field Name Optoelectronics: 
+----  Field Level 1.0: 
+----  Field Papers Number 26864:
+----  All time max citation paper: Bulk heterojunction solar cells with internal quantum efficiency approaching 100|[percnt]|, 2009, (1709.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1958|10.0|10.0|Journal of Physics and Chemistry of Solids|Diffusion, solubility, and electrical behavior of copper in gallium arsenide
+1961|13.0|13.0|Journal of Applied Physics|Properties of HighResistivity Gallium Arsenide Compensated with Diffused Copper
+1963|10.0|1.0|Journal of Physics and Chemistry of Solids|Behavior of selenium in gallium arsenide
+1964|26.0|1.0|Journal of Applied Physics|Diffusion and Solubility of Copper in Extrinsic and Intrinsic Germanium, Silicon, and Gallium Arsenide
+1965|12.0|4.0|Journal of Applied Physics|Experimental Study of GoldGallium Arsenide Schottky Barriers
+1966|8.0|1.0|Electronics Letters|Potential distribution and field dependence of electron velocity in bulk GaAs measured with a point-contact probe
+1967|5.0|0.0|IEEE Spectrum|Bulk negative-resistance semiconductor devices
+1968|2.0|0.0|IEEE Spectrum|Negative conductance in semiconductors
+1969|1.0|1.0|Journal of Materials Science|The implantation profiles of 10, 20 and 40 keV 85Kr in gallium arsenide
+1970|37.0|1.0|Journal of Physics and Chemistry of Solids|Monte Carlo determination of electron transport properties in gallium arsenide
+1971|4.0|1.0|Electrochimica Acta|The passivity of gallium arsenide
+1972|5.0|1.0|Journal of Physics and Chemistry of Solids|Impurity vibrations of copper defect complexes in gallium arsenide crystals
+1973|7.0|1.0|Proceedings of the IEEE|Nonlinear properties of IMPATT devices
+1974|6.0|0.0|IEEE Transactions on Electron Devices|Characteristics and applications of a Schottky-barrier-gate Gunn-effect digital-device
+1975|45.0|2.0|Applied Physics Letters|Reliability of DH GaAs lasers at elevated temperatures
+1976|38.0|2.0|Applied Physics Letters|Improved lightoutput linearity in stripegeometry doubleheterostructure (Al,Ga)As lasers
+1977|42.0|2.0|Electronics Letters|Electron traps in bulk and epitaxial GaAs crystals
+1978|21.0|2.0|Applied Physics Letters|Roomtemperature laser operation of quantumwell Ga(1x)AlxAsGaAs laser diodes grown by metalorganic chemical vapor deposition
+1979|25.0|3.0|Applied Physics Letters|Ohmic contacts produced by laserannealing Teimplanted GaAs
+1980|48.0|3.0|Journal of Applied Physics|Temperature distributions produced in semiconductors by a scanning elliptical or circular cw laser beam
+1981|11.0|1.0|Electronics Letters|Modulation frequency characteristics of directly optical frequency modulated AlGaAs semiconductor laser
+1982|39.0|1.0|Proceedings of the IEEE|Heterostructure bipolar transistors and integrated circuits
+1983|53.0|3.0|Journal of Applied Physics|Optical and crystallographic properties and impurity incorporation of GaxIn1xAs (0.44<x<0.49) grown by liquid phase epitaxy, vapor phase epitaxy, and metal organic chemical vapor deposition
+1984|90.0|5.0|Applied Physics Letters|Novel hybrid optically bistable switch: The quantum well selfelectrooptic effect device
+1985|182.0|6.0|Journal of Applied Physics|GaAs, AlAs, and AlxGa1xAs: Material parameters for use in research and device applications
+1986|83.0|6.0|Applied Physics Letters|Optically detected carrier confinement to one and zero dimension in GaAs quantum well wires and boxes
+1987|101.0|6.0|Applied Physics Letters|Strong 8.2 m infrared intersubband absorption in doped GaAs/AlAs quantum well waveguides
+1988|128.0|6.0|Journal of Applied Physics|Atom diffusion and impurityinduced layer disordering in quantum well IIIV semiconductor heterostructures
+1989|110.0|6.0|Applied Physics Letters|Structural properties of As-rich GaAs grown by molecular beam epitaxy at low temperatures
+1990|147.0|4.0|Applied Physics Letters|Arsenic precipitates and the semiinsulating properties of GaAs buffer layers grown by lowtemperature molecular beam epitaxy
+1991|225.0|4.0|Applied Physics Letters|Bluegreen injection laser diodes in (Zn,Cd)Se/ZnSe quantum wells
+1992|64.0|4.0|Journal of Applied Physics|Mechanism and conditions for anomalous strain relaxation in graded thin films and superlattices
+1993|285.0|3.0|Applied Physics Letters|Direct formation of quantumsized dots from uniform coherent islands of InGaAs on GaAs surfaces
+1994|147.0|3.0|Applied Physics Letters|Native-Oxide Defined Ring Contact for Low Threshold Vertical-Cavity Lasers
+1995|102.0|2.0|Electronics Letters|Ultralow threshold current vertical-cavity surface-emitting lasers obtained with selective oxidation
+1996|65.0|2.0|IEEE Journal of Solid-state Circuits|A 1 GHz CMOS RF front-end IC for a direct-conversion wireless receiver
+1997|79.0|3.0|Applied Physics Letters|Room-temperature continuous-wave lasing from stacked InAs/GaAs quantum dots grown by metalorganic chemical vapor deposition
+1998|75.0|2.0|Applied Physics Letters|Intersublevel transitions in InAs/GaAs quantum dots infrared photodetectors
+1999|193.0|3.0|Nature|Electrical spin injection in a ferromagnetic semiconductor heterostructure
+2000|64.0|3.0|Applied Physics Letters|Self-assembled GaInNAs quantum dots for 1.3 and 1.55 m emission on GaAs
+2001|63.0|3.0|Applied Physics Letters|Size-, shape-, and position-controlled GaAs nano-whiskers
+2002|71.0|4.0|Applied Physics Letters|Low-threshold-current-density 1300-nm dilute-nitride quantum well lasers
+2003|70.0|3.0|Thin Solid Films|Electrochromic Coatings and Devices: Survey of Some Recent Advances
+2004|97.0|3.0|BMC Neuroscience|An information integration theory of consciousness
+2005|146.0|3.0|Small|Nanowires for Integrated Multicolor Nanophotonics
+2006|134.0|2.0|Mrs Bulletin|Thermoelectric Materials, Phenomena, and Applications: A Bird's Eye View
+2007|568.0|3.0|Nature Photonics|Cutting-edge terahertz technology
+2008|226.0|3.0|Nature Photonics|Carbon-nanotube photonics and optoelectronics
+2009|1583.0|2.0|Nature Photonics|Bulk heterojunction solar cells with internal quantum efficiency approaching 100|[percnt]|
+2010|1210.0|4.0|Nature Photonics|Graphene photonics and optoelectronics

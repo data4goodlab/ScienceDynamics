@@ -1,0 +1,60 @@
+----  Field Name Statistical physics: 
+----  Field Level 1.0: 
+----  Field Papers Number 8018:
+----  All time max citation paper: PhysioBank, PhysioToolkit, and PhysioNet Components of a New Research Resource for Complex Physiologic Signals, 2000, (1285.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1955|0|0.0|Journal of Applied Physics|Electron Temperature in the Parallel Plane Diode
+1956|1.0|1.0|Journal of Applied Physics|Analysis of the Plasma of Fluorescent Lamps
+1957|3.0|3.0|Journal of Chemical Physics|Spectroscopic Study of Electronic Flame Temperatures and Energy Distributions
+1960|11.0|11.0|Physics of Fluids|THEORY OF ELECTRON DRIVEN SHOCK WAVES,
+1961|3.0|3.0|Physics of Fluids|Flow of LowDensity HighSpeed Plasma through a Magnetic Barrier
+1962|8.0|3.0|Journal of Applied Physics|Pulsed Probe Measurements
+1963|7.0|4.0|Space Science Reviews|IONOSPHERIC RESEARCH FROM SPACE VEHICLES
+1964|15.0|3.0|Journal of Chemical Physics|Fifth and Sixth Virial Coefficients for Hard Spheres and Hard Disks
+1965|67.0|8.0|Journal of Geophysical Research|Electron and molecular nitrogen temperature and density in the thermosphere.
+1966|9.0|5.0|Journal of Geophysical Research|A theory of incoherent scattering of radio waves by a plasma: 4. The effect of unequal ion and electron temperatures
+1967|70.0|5.0|Journal of Geophysical Research|Global behavior of the ionosphere at 1000kilometer altitude
+1968|18.0|3.0|Journal of Geophysical Research|Nighttime cooling of the protonosphere
+1969|26.0|4.0|Journal of Geophysical Research|Topside resonances as oblique echoes
+1970|36.0|10.0|Planetary and Space Science|Ion composition and ion chemistry in an aurora
+1971|43.0|6.0|Journal of Geophysical Research|Ogo 5 observations of the polar cusp on November 1, 1968
+1972|16.0|6.0|Journal of Geophysical Research|Collisionless solar wind in the spiral magnetic field
+1973|48.0|4.0|Journal of Geophysical Research|Is there enough solar extreme ultraviolet radiation to maintain the global mean thermospheric temperature?
+1974|35.0|3.0|Journal of Geophysical Research|The behavior of the plasmapause at midlatitudes: Isis 1 Langmuir probe measurements
+1975|64.0|4.0|Physics of Fluids|Twodimensional relativistic simulations of resonance absorption
+1976|68.0|6.0|Journal of Geophysical Research|On hot tenuous plasmas, fireballs, and boundary layers in the Earth's magnetotail
+1977|30.0|2.0|Planetary and Space Science|Time-dependent studies of the aurora: Effects of particle precipitation on the dynamic morphology of ionospheric and atmospheric properties
+1978|42.0|4.0|Geophysical Research Letters|Electrostatic hydrogen cyclotron waves near one Earth radius altitude in the polar magnetosphere
+1979|27.0|3.0|Journal of Geophysical Research|Coordinated rocket and satellite measurements of an auroral event, 2. The rocket observations and analysis
+1980|34.0|3.0|Journal of Geophysical Research|The dynamic behavior of the Venus ionosphere in response to solar wind interactions
+1981|45.0|5.0|Geophysical Research Letters|Lower hybrid acceleration and ion evolution in the suprauroral region
+1982|39.0|3.0|Geophysical Research Letters|Escape of heated ions upstream of quasiparallel shocks
+1983|29.0|3.0|Journal of Geophysical Research|General characteristics of hot plasma and energetic particles in the Saturnian magnetosphere: Results from the Voyager spacecraft
+1984|37.0|4.0|Journal of Geophysical Research|Evolution of the Earth's distant magnetotail: ISEE 3 electron plasma results
+1985|27.0|3.0|Geophysical Research Letters|A timedependent theoretical model of the polar wind: Preliminary results
+1986|44.0|3.5|ACM Transactions on Graphics|Stochastic sampling in computer graphics
+1987|34.0|3.0|Journal of Plasma Physics|The ion-ion acoustic instability
+1988|30.0|3.0|Journal of Atmospheric and Solar-Terrestrial Physics|Evidence for non-Maxwellian ion velocity distributions in the F -region
+1989|63.0|1.0|Journal of Geophysical Research|Average plasma properties in the central plasma sheet
+1990|37.0|2.0|Mathematical and Computer Modelling|Multiple scales of statistical physics of the neocortex: Application to electroencephalography
+1991|34.0|1.0|Journal of Mathematical Physics|General theory of fractal path integrals with applications to manybody theories and statistical physics
+1992|27.0|1.0|Geophysical Research Letters|Bursts of transverse ion acceleration at rocket altitudes
+1993|29.0|3.0|Applied Physics Letters|Magnetron sputter deposition with high levels of metal ionization
+1994|78.0|3.0|Statistical Science|Neural Networks: A Review from a Statistical Perspective
+1995|86.0|2.0|Statistical Science|Bayesian Computation and Stochastic Systems
+1996|62.0|2.0|Reviews of Geophysics|Statistical physics, seismogenesis, and seismic hazard
+1997|57.0|2.0|Neural Computation|Probabilistic independence networks for hidden Markov probability models
+1998|55.0|2.0|Proceedings of the IEEE|Deterministic annealing for clustering, compression, classification, regression, and related optimization problems
+1999|35.0|3.0|Physics of Plasmas|Initial physics achievements of large helical device experiments
+2000|150.0|3.0|Physics Reports|Statistical physics of vehicular traffic and some related systems
+2001|225.0|2.0|Advances in Physics|Evolution of networks
+2002|178.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Fractal dynamics in physiology: Alterations with disease and aging
+2003|139.0|2.0|Journal of High Energy Physics|Large N expansion of the 2-matrix model
+2004|193.0|3.0|European Physical Journal B|Detecting community structure in networks
+2005|282.0|3.0|IEEE Transactions on Information Theory|Constructing free-energy approximations and generalized belief propagation algorithms
+2006|216.0|4.0|Nature Physics|GeV electron beams from a centimetre-scale accelerator
+2007|202.0|4.0|Nature Physics|Challenges for semiconductor spintronics
+2008|270.0|5.0|Advances in Space Research|International Reference Ionosphere 2007: Improvements and new parameters
+2009|1004.0|5.0|Physics Reports|Community detection in graphs
+2010|689.0|5.0|Journal of Geophysical Research|Investigating the southern daytime midlatitude trough's relation with the daytime Weddell Sea Anomaly during equinoxes

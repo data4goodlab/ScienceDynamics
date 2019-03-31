@@ -1,0 +1,49 @@
+----  Field Name Educational technology: 
+----  Field Level 2.0: 
+----  Field Papers Number 17886:
+----  All time max citation paper: Technological Pedagogical Content Knowledge: A Framework for Teacher Knowledge., 2006, (928.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|0|0.0||CASE: a program for simulation of concept learning
+1966|0|0.0|Educational Technology Research and Development|USE OF VIDEOTAPED INSTRUCTIONAL TELEVISION FOR TEACHING STUDY SKILLS IN A UNIVERSITY SETTING.
+1970|1.0|1.0|Journal of Experimental Education|Effect of Precise Objectives Upon Student Achievement in Health Education.
+1971|0|0.0|Sociological Inquiry|Technology for Organizational Training in Schools
+1972|0|0.0|Educational Technology Research and Development|Renewing the Link Between Communications and Educational Technology.
+1973|3.0|1.5|Instructional Science|The Cost of Instructional Radio and Television for Developing Countries.
+1974|9.0|0.0|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|Heuristic Strategies for Using Computers to Enrich Education.
+1975|4.0|1.0|Instructional Science|Evaluation of Educational Media: Some Issues.
+1976|20.0|1.0|Review of Educational Research|Components of a Psychology of Instruction: Toward a Science of Design.
+1977|12.0|0.5|Cognitive Science|Artificial Intelligence, Language, and the Study of Knowledge*,
+1978|2.0|1.0|Higher Education|Mythology in the Making: Is the Open University Really Cost-Effective?.
+1979|2.0|1.0|The Journal of Higher Education|Communication, Rewards, and the Use of Classroom Innovations.
+1980|5.0|1.5|IEEE Transactions on Biomedical Engineering|Myoelectric Signal Processing: Optimal Estimation Applied to Electromyography - Part I: Derivation of the Optimal Myoprocessor
+1981|1.0|0.5||Improving the User/Machine Interaction.
+1982|2.0|0.0|Computers in Education|Prisoners of the Cave: Can Instructional Technology Improve Education?.
+1983|67.0|1.0|Journal of Educational Psychology|Effects of Computer-Based Teaching on Secondary School Students.
+1984|4.0|3.0|Journal of Educational Psychology|Effects of an Organizer on Memory for Prose.
+1985|12.0|1.0|Biological Cybernetics|State-Changes in the Brain Viewed as Linear Steady-States and Non-Linear Transitions Between Steady-States
+1986|7.0|0.0|Journal of Instructional Development|Instructional Technology: The Research Field.
+1987|17.0|1.0|Journal of Research in Science Teaching|Computer simulations to stimulate scientific problem solving
+1988|15.0|4.0|Health Education & Behavior|Environmental Interventions to Promote Healthy Eating: A Review of Models, Programs, and Evidence
+1989|20.0|3.0|Communications of The ACM|Intelligent interactive video simulation of a code inspection
+1990|18.0|1.0|Journal of Educational Psychology|Research on College Teaching: The Historical Background.
+1991|93.0|2.0|Educational Researcher|Partners in Cognition: Extending Human Intelligence with Intelligent Technologies
+1992|35.0|2.0|IEEE Transactions on Power Systems|Short term load forecasting using a multilayer neural network with an adaptive learning algorithm
+1993|27.0|2.5|IEEE Transactions on Semiconductor Manufacturing|Advantages of plasma etch modeling using neural networks over statistical techniques
+1994|49.0|2.0|Management Information Systems Quarterly|Computer-mediated collaborative learning: an empirical evaluation
+1995|66.0|2.0|IEEE Transactions on Neural Networks|Artificial neural networks for feature extraction and multivariate data projection
+1996|29.0|2.0|international conference on computer communications|Video on demand over ATM: constant-rate transmission and transport
+1997|47.0|2.0|Neural Networks|Stability analysis of learning algorithms for blind source separation
+1998|59.0|2.0|Proceedings of the IEEE|Adaptive blind signal processing-neural network approaches
+1999|84.0|2.0|acm multimedia|Passive capture and structuring of lectures
+2000|47.0|3.0|The Future of Children|Changing How and What Children Learn in School with Computer-based Technologies
+2001|54.0|2.0|Information Systems Research|Research Commentary: Technology-Mediated Learning--A Call for Greater Depth and Breadth of Research
+2002|91.0|3.0|IEEE Transactions on Neural Networks|Input feature selection for classification problems
+2003|70.0|4.0|Annual Review of Psychology|Organizational Change and Development
+2004|129.0|4.0|Annual Review of Neuroscience|CORTICAL NEURAL PROSTHETICS
+2005|126.0|3.0|Educational Technology Research and Development|Teacher Pedagogical Beliefs: The Final Frontier in Our Quest for Technology Integration?
+2006|281.0|3.0|Teachers College Record|Technological Pedagogical Content Knowledge: A Framework for Teacher Knowledge.
+2007|126.0|4.0|Distance Education|Distance Education Trends: Integrating new technologies to foster student interaction and collaboration
+2008|225.0|4.0|Computers in Education|What drives a successful e-Learning? An empirical investigation of the critical factors influencing learner satisfaction
+2009|222.0|3.0|Computers in Education|Digital Game-Based Learning in high school Computer Science education: Impact on educational effectiveness and student motivation
+2010|195.0|5.0|Internet and Higher Education|Findings on Facebook in higher education: A comparison of college faculty and student uses and perceptions of social networking sites

@@ -1,0 +1,34 @@
+----  Field Name Bioprocess engineering: 
+----  Field Level 2.0: 
+----  Field Papers Number 5345:
+----  All time max citation paper: BIODIESEL FROM MICROALGAE, 2007, (2128.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1983|10.0|2.0|Biotechnology and Bioengineering|Optimization of conditions and cell feeding procedures for alcohol fermentation
+1984|7.0|5.5|Biotechnology and Bioengineering|A note on the optimality criteria for maximum biomass production in a fed-batch fermentor
+1985|11.0|6.0|Biotechnology and Bioengineering|Online optimal control for fedbatch culture of baker's yeast production
+1986|19.0|5.5|Biotechnology and Bioengineering|Recent developments in hydrogen management during anaerobic biological wastewater treatment
+1987|13.0|3.5|Biotechnology and Bioengineering|Performance of tapered column packedbed bioreactor for ethanol production
+1988|3.0|3.0|Waste Management & Research|The Mountain View Controlled Landfill Project Field Experiment
+1989|15.0|2.0|Biotechnology and Bioengineering|Surface immobilization of plant cells
+1990|26.0|3.0|Journal of Biotechnology|The protective effect of serum against hydrodynamic damage of hybridoma cells in agitated and surface-aerated bioreactors
+1991|24.0|4.0|Analytica Chimica Acta|Monitoring of substrates and products during fed-batch penicillin fermentations on complex media
+1992|17.0|3.0|Biotechnology and Bioengineering|Development of a helicalribbon impeller bioreactor for highdensity plant cell suspension culture
+1993|30.0|3.5|Journal of Environmental Engineering|Maximum COD Loading Capacity in UASB Reactors at 37C
+1994|43.0|3.0|IEEE Transactions on Neural Networks|Neurocontrol of nonlinear dynamical systems with Kalman filter trained recurrent networks
+1995|22.0|3.0|Enzyme and Microbial Technology|Strategies for the improvement of secondary metabolite production in plant cell cultures
+1996|27.0|3.0|Biotechnology and Bioengineering|The application of membrane biological reactors for the treatment of wastewaters
+1997|52.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Tissue engineering of cartilage in space
+1998|58.0|4.0|Applied and Environmental Microbiology|Identification and activities in situ of Nitrosospira and Nitrospira spp. as dominant populations in a nitrifying fluidized bed reactor
+1999|60.0|6.0|Applied and Environmental Microbiology|In Situ Analysis of Nitrifying Biofilms as Determined by In Situ Hybridization and the Use of Microelectrodes
+2000|97.0|5.0|Biomaterials|Review: tissue engineering for regeneration of articular cartilage
+2001|91.0|5.0|Applied and Environmental Microbiology|Quantitative comparisons of 16S rRNA gene sequence libraries from environmental samples.
+2002|103.0|6.0|Nucleic Acids Research|High-level and high-throughput recombinant protein production by transient transfection of suspension-growing human 293-EBNA1 cells
+2003|130.0|9.0|Biotechnology Advances|White-rot fungi and their enzymes for the treatment of industrial dye effluents.
+2004|234.0|9.5|Nature Biotechnology|Production of recombinant protein therapeutics in cultivated mammalian cells
+2005|145.0|9.0|Science of The Total Environment|Acid mine drainage remediation options: a review
+2006|153.0|8.0|Journal of Biotechnology|High quality biodiesel production from a microalga Chlorella protothecoides by heterotrophic growth in fermenters
+2007|848.0|9.0|Biotechnology Advances|BIODIESEL FROM MICROALGAE
+2008|426.0|6.0|Bioenergy Research|Second Generation Biofuels: High-Efficiency Microalgae for Biodiesel Production
+2009|754.0|9.0|Biotechnology and Bioengineering|Microalgae for oil: strain selection, induction of lipid synthesis and outdoor mass cultivation in a low-cost photobioreactor.
+2010|399.0|10.0|Science|Tissue-Engineered Lungs for in Vivo Implantation

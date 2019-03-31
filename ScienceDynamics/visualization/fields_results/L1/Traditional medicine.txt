@@ -1,0 +1,41 @@
+----  Field Name Traditional medicine: 
+----  Field Level 1.0: 
+----  Field Papers Number 4428:
+----  All time max citation paper: The value of plants used in traditional medicine for drug discovery., 2001, (465.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1971|1.0|1.0|Gut|An unusual case of self-induced electrolyte depletion.
+1977|6.0|3.0|Social Science & Medicine|Traditional medicine: An agenda for medical geography
+1978|3.0|3.0|Archives of Pharmacal Research|A survey of the response of Korean medicinal plants on drug metabolism
+1979|3.0|1.5|Social Science & Medicine. Part B: Medical Anthropology|Primary health care and traditional medicineConsidering the background of changing health care concepts in Africa
+1980|5.0|1.0|Journal of Ethnopharmacology|Phototoxic and antibiotic activities of plants of the asteraceae used in folk medicine
+1981|105.0|2.0|Psychological Medicine|Binge-eating and vomiting: a survey of a college population.
+1982|6.0|4.0|Social Science & Medicine|Policy and evaluation perspectives on traditional health practitioners in national health care systems
+1983|15.0|2.0|Contraception|The zoapatle III--biological and uterotonic properties of aqueous plant extract.
+1984|11.0|3.0|Social Science & Medicine|Perceptions of childhood diarrhoea and its treatment in rural Zimbabwe
+1985|4.0|1.0|Medical Care|Comparing ambulatory care practices of primary care and traditional medicine residents.
+1986|6.0|1.5|Journal of Ethnopharmacology|Traditional medicine in Fiji: Some herbal folk cures used by Fiji Indians
+1987|5.0|2.0|Social Science & Medicine|Illness and health behaviour in Addis Ababa and rural central Ethiopia
+1988|8.0|1.0|Social Science & Medicine|Choosing alternative medicine: A comparison of the beliefs of patients visiting a general practitioner and a homoeopath
+1989|13.0|1.0|Social Science & Medicine|Sensitization to illness and the risk of death: An explanation for Sri Lanka's approach to good health for all
+1990|8.0|2.0|Social Science & Medicine|Primary health care in a multi-level perspective: Towards a research agenda
+1991|9.0|1.5|The Journal of Allergy and Clinical Immunology|Monitoring human basophil activation via CD63 monoclonal antibody 435
+1992|13.0|3.0|Molecular Brain Research|Specific expressions of Fyn and Lyn, lymphocyte antigen receptor-associated tyrosine kinases, in the central nervous system.
+1993|14.0|3.0|Atherosclerosis|Effect of low density lipoprotein on monocyte adhesiveness to endothelial cells in vitro
+1994|18.0|1.0|European Journal of Immunology|Engagement of MHC class II molecules by staphylococcal superantigens activates srctype protein tyrosine kinases
+1995|26.0|4.0|FEBS Letters|Site specificity of p72 syk protein tyrosine kinase: efficient phosphorylation of motifs recognized by Src homology 2 domains of the Src family
+1996|13.0|3.0|Social Science & Medicine|Filariasis in northern Ghana: Some cultural beliefs and practices and their implications for disease control
+1997|27.0|3.0|The EMBO Journal|Lyn tyrosine kinase is essential for erythropoietininduced differentiation of J2E erythroid cells
+1998|29.0|3.5|Allergy|Environmental and other major provocation factors in atopic dermatitis
+1999|52.0|5.0|British Journal of Pharmacology|ATP and glutathionedependent transport of chemotherapeutic drugs by the multidrug resistance protein MRP1
+2000|102.0|5.0|The Lancet|Herb-drug interactions
+2001|42.0|5.0|International Journal of Cancer|CDNA microarray gene expression analysis of Bcell chronic lymphocytic leukemia proposes potential new prognostic markers involved in lymphocyte trafficking
+2002|35.0|6.0|Antimicrobial Agents and Chemotherapy|N-Alkyl Urea Hydroxamic Acids as a New Class of Peptide Deformylase Inhibitors with Antibacterial Activity
+2003|113.0|9.0|Annual Review of Immunology|REGULATORY MECHANISMS THAT DETERMINE THE DEVELOPMENT AND FUNCTION OF PLASMA CELLS
+2004|52.0|6.0|Journal of Ethnopharmacology|Pharmacological actions and potential uses of Momordica charantia : a review
+2005|102.0|10.0|Environmental Pollution|Paradigm lost, paradigm found: The re-emergence of hormesis as a fundamental dose response model in the toxicological sciences
+2006|137.0|9.0|Molecular Aspects of Medicine|Medicinal plants: Traditions of yesterday and drugs of tomorrow
+2007|117.0|10.0|Cell|Molecular Understanding and Modern Application of Traditional Medicines: Triumphs and Trials
+2008|186.0|11.0|Proceedings of the National Academy of Sciences of the United States of America|Dissection of mechanisms of Chinese medicinal formula Realgar-Indigo naturalis as an effective treatment for promyelocytic leukemia.
+2009|144.0|11.0|Immunological Reviews|The tyrosine kinase network regulating mast cell activation
+2010|214.0|10.0|Nutrition Journal|The total antioxidant content of more than 3100 foods, beverages, spices, herbs and supplements used worldwide.

@@ -1,0 +1,60 @@
+----  Field Name Volcanology: 
+----  Field Level 2.0: 
+----  Field Papers Number 17604:
+----  All time max citation paper: Trace element and isotopic effects of combined wallrock assimilation and fractional crystallization, 1981, (1465.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1947|2.0|2.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|Studies in leishmaniasis in the Anglo-Egyptian Sudan IX. Further observations on the sandflies ( Phlebotomus ) of the Sudan
+1950|9.0|4.0|Physica D: Nonlinear Phenomena|Trivalent Cations in Fluorescent Zinc Sulphide
+1953|1.0|1.0|Annals of Applied Biology|The Spread of Beet Yellows and Beet Mosaic Viruses in the Sugar-beet Root Crop. II. The Effects of Aphid Numbers on Disease Incidence.
+1955|0|0.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|Studies in leishmaniasis in the anglo-EGyptian Sudan. XI. Phlebotomus in relation to leishmaniasis in the Sudan
+1960|2.0|1.0|New Zealand Journal of Agricultural Research|Soil studies using sweet vernal to assess element availability. IV. Phosphorus.
+1962|17.0|3.0|Geochimica et Cosmochimica Acta|On the retention of primordial noble gases in the Pesyanoe meteorite
+1963|17.0|4.5|Journal of Geophysical Research|Theory of auroral electrojets
+1964|4.0|1.0|Marine Geology|Volcanic ash deposits in the Gulf of Alaska and problems of correlation of deep-sea ash deposits
+1965|42.0|5.0|Journal of Geophysical Research|Diurnal and latitudinal effects observed for 10kev electrons at low satellite altitudes
+1966|12.0|7.0|Journal of Geophysical Research|Precipitation of energetic electrons at middle latitudes
+1967|27.0|2.0|Journal of Geophysical Research|Irontitanium oxides and oxygen fugacities in volcanic rocks
+1968|22.0|6.0|Icarus|Genetic implications of lunar regolith thickness variations.
+1969|24.0|1.0|Geochimica et Cosmochimica Acta|Excess radiogenic argon in young subaerial basalts from the Auckland volcanic field, New Zealand
+1970|26.0|1.0|Journal of Geophysical Research|Petrology of the lunar soil and geophysical implications.
+1971|53.0|2.5|Earth and Planetary Science Letters|Lunar chronology and evolution from Rb-Sr studies of Apollo 11 and 12 samples
+1972|36.0|5.0|Icarus|Preliminary mariner 9 report on the geology of Mars
+1973|52.0|5.0|Nature|Iceland Mantle Plume: Geochemical Study of Reykjanes Ridge
+1974|34.0|4.0|Geochimica et Cosmochimica Acta|Trace element geochemistry of Archean volcanic rocks
+1975|50.0|7.0|Science|Mantle Plume Mixing Along the Reykjanes Ridge Axis: Lead Isotopic Evidence
+1976|46.0|9.0|Journal of Geophysical Research|Volcanic explosions and climatic change: A theoretical assessment
+1977|98.0|8.0|Earth and Planetary Science Letters|Petrogenesis of basalts from the FAMOUS area: Mid-Atlantic Ridge
+1978|47.0|8.0|Geochimica et Cosmochimica Acta|The nature and origin of geochemical variation in Mid-Atlantic Ridge basalts from the Central North Atlantic
+1979|73.0|8.5|Journal of Geophysical Research|Backarc opening and the mode of subduction
+1980|42.0|5.0|Contributions to Mineralogy and Petrology|Melt density and the average composition of basalt
+1981|110.0|8.0|Earth and Planetary Science Letters|Trace element and isotopic effects of combined wallrock assimilation and fractional crystallization
+1982|110.0|5.0|Earth and Planetary Science Letters|Mantle plumes from ancient oceanic crust
+1983|62.0|6.0|Geochimica et Cosmochimica Acta|Isotopic and incompatible element constraints on the genesis of island arc volcanics from Cold Bay and Amak Island, Aleutians, and implications for mantle structure
+1984|75.0|7.0|Earth and Planetary Science Letters|Isotope and trace element geochemistry of young Pacific seamounts: implications for the scale of upper mantle heterogeneity
+1985|37.0|4.5|Contributions to Mineralogy and Petrology|The geochemistry of potassic lavas from Vulsini, central Italy and implications for mantle enrichment processes beneath the Roman region
+1986|59.0|7.0|Reviews of Geophysics|Relations among subduction parameters
+1987|59.0|6.0|Journal of Geophysical Research|Chemistry of hydrothermal solutions from the southern Juan de Fuca Ridge
+1988|57.0|5.0|Journal of Geophysical Research|Uplift of the Central Andean Plateau and bending of the Bolivian orocline
+1989|220.0|6.0|Journal of Geophysical Research|Magmatism at rift zones: The generation of volcanic continental margins and flood basalts
+1990|114.0|5.0|Earth and Planetary Science Letters|Implications of mantle plume structure for the evolution of flood basalts
+1991|79.0|5.0|Earth and Planetary Science Letters|Geochemical and geodynamical constraints on subduction zone magmatism
+1992|111.0|7.0|Journal of Geophysical Research|Midocean ridge magma chambers
+1993|79.0|6.0|Earth and Planetary Science Letters|Re Os isotope systematics of HIMU and EMII oceanic island basalts from the south Pacific Ocean
+1994|77.0|6.0|Earth and Planetary Science Letters|Partial melting of subducting oceanic crust
+1995|66.0|5.0|Reviews of Geophysics|The geochemical evolution of the continental crust
+1996|58.0|5.0|Earth-Science Reviews|Continental break-up and collision in the Neoproterozoic and Palaeozoic  A tale of Baltica and Laurentia
+1997|101.0|6.5|Journal of Symbolic Computation|The MAGMA algebra system I: the user language
+1998|130.0|6.0|Journal of Geophysical Research|Closing the gap between regional and global travel time tomography
+1999|149.0|6.0|Reviews of Geophysics|Stratospheric ozone depletion: A review of concepts and history
+2000|75.0|7.0|Marine Geology|Worldwide distribution of submarine mud volcanoes and associated gas hydrates
+2001|101.0|7.0|Progress in Oceanography|The monsoon circulation of the Indian Ocean
+2002|427.0|7.0|Journal of Geophysical Research|Volcanic eruptions on midocean ridges: New evidence from the superfast spreading East Pacific Rise, 1719S
+2003|164.0|8.0|Earth and Planetary Science Letters|Three distinct types of hotspots in the Earths mantle
+2004|114.0|9.0|Geophysical Journal International|Present-day crustal deformation and plate kinematics in the Middle East constrained by GPS measurements in Iran and northern Oman
+2005|251.0|9.5|Geophysical Research Letters|Tilt recorded by a portable broadband seismograph: The 2003 eruption of Anatahan Volcano, Mariana Islands
+2006|243.0|9.0|Geophysical Research Letters|Coexistence of structure I and II gas hydrates in Lake Baikal suggesting gas sources from microbial and thermogenic origin
+2007|214.0|9.0|Photochemical and Photobiological Sciences|Changes in biologically-active ultraviolet radiation reaching the Earth's surface
+2008|504.0|10.0|Precambrian Research|Assembly, configuration, and break-up history of Rodinia: A synthesis
+2009|346.0|9.0|Geophysical Research Letters|Improved constraints on the estimated size and volatile content of the Mount St. Helens magma system from the 2004-2008 history of dome growth and deformation
+2010|168.0|9.0|Physics of the Earth and Planetary Interiors|The global range of subduction zone thermal models

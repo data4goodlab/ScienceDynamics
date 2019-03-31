@@ -1,0 +1,61 @@
+----  Field Name Image processing: 
+----  Field Level 2.0: 
+----  Field Papers Number 49584:
+----  All time max citation paper: Distinctive Image Features from Scale-Invariant Keypoints, 2004, (9721.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1944|0|0.0|Journal of The Franklin Institute-engineering and Applied Mathematics|On the geometry of color space
+1949|2.0|2.0|Eos, Transactions American Geophysical Union|Significance of radioactivity in geophysics  Thermal history of the Earth
+1957|1.0|1.0|International Journal of Electronics|Anisotropic Diffusion Lengths in Germanium and Silicon Crystals containing Parallel Arrays of Edge Dislocations
+1958|3.0|3.0|Pflgers Archiv: European Journal of Physiology|Der photopische Dominator im Flimmer-ERG der Katze
+1959|0|0.0|Journal of Geophysical Research|The natural occurrence of turbulence
+1960|16.0|4.0|Journal of Chemical Physics|Interaction of Hydrogen with Tungsten
+1962|17.0|3.0|Journal of Applied Physics|Work Function Variation of Metals Coated by Metallic Films
+1963|10.0|1.0|Journal of Geophysical Research|FISSION PRODUCTS IN ANTARCTIC SNOW, A REFERENCE LEVEL FOR MEASURING ACCUMULATION
+1964|25.0|5.0|Journal of Geophysical Research|Ionospheric transmission of transversely propagated plane waves at micropulsation frequencies and theoretical power spectrums
+1965|67.0|7.0|Journal of Geophysical Research|Electron and molecular nitrogen temperature and density in the thermosphere.
+1966|10.0|3.5|Pflgers Archiv: European Journal of Physiology|Entladungsmuster pinealer Neurone der Regenbogenforelle (Salmo irideus) bei Belichtung des Zwischenhirns
+1967|12.0|4.0|Vision Research|Behavioral measures and theoretical analysis of spectral sensitivity and spectral saturation in the goldfish, Carassius auratus
+1968|37.0|2.0|Reviews of Geophysics|A model for the evolution of strontium and lead isotopes in a dynamic Earth
+1969|53.0|6.5|ACM Computing Surveys|Picture Processing by Computer
+1970|35.0|3.0|Journal of Geophysical Research|DIURNAL MODEL OF THE E REGION.
+1971|16.0|2.0|Planetary and Space Science|Plasma-sheet structure and the onset of magnetospheric substorms
+1972|21.0|3.0|The Journal of General Physiology|Spectral and polarization sensitivity of the Dipteran visual system
+1973|20.0|3.5|Geochimica et Cosmochimica Acta|Computer simulation of Pb and Sr isotope evolution of the Earth's crust and upper mantle.
+1974|15.0|3.0|Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing|Experiments on Picture Representation Using Regular Decomposition.
+1975|25.0|4.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Spectral Selectivity of Visual Response Alterations Mediated by Interconversions of Native and Intermediate Photopigments in Drosophila
+1976|62.0|5.0|Science|Cooperative Computation of Stereo Disparity
+1977|36.0|4.0|Biological Cybernetics|Analysis of a Cooperative Stereo Algorithm,
+1978|19.0|3.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|A photostable pigment within the rhabdomere of fly photoreceptors No. 7.
+1979|37.0|3.0|Journal of Geophysical Research|Convection, composition, and the thermal state of the lower mantle
+1980|41.0|4.0|Communications of The ACM|Region representation: quadtrees from boundary codes
+1981|65.0|2.0|Philosophical Transactions of the Royal Society B|A Computer Implementation of a Theory of Human Stereo Vision
+1982|47.0|3.0|ACM Computing Surveys|Computational Approaches to Image Understanding
+1983|39.0|3.0|IEEE Transactions on Communications|The Laplacian Pyramid as a Compact Image Code
+1984|42.0|3.0|Proceedings of the IEEE|Extended Gaussian images
+1985|80.0|2.0|Journal of The Optical Society of America A-optics Image Science and Vision|Model of human visual-motion sensing.
+1986|160.0|2.5|IEEE Transactions on Pattern Analysis and Machine Intelligence|A Computational Approach to Edge Detection
+1987|103.0|3.0|IEEE Transactions on Computers|The Warp Computer: Architecture, Implementation, and Performance
+1988|139.0|2.0|International Journal of Computer Vision|Snakes : Active contour models
+1989|305.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A theory for multiresolution signal decomposition: the wavelet representation
+1990|176.0|2.0|neural information processing systems|The cascade-correlation learning architecture
+1991|165.0|2.0|ACM Transactions on Computer Systems|Lightweight causal and atomic group multicast
+1992|130.0|2.0|IEEE Transactions on Information Theory|Singularity detection and processing with wavelets
+1993|227.0|3.0|Magnetic Resonance in Medicine|Processing strategies for timecourse data sets in functional mri of the human brain
+1994|123.0|3.0|IEEE Transactions on Image Processing|Representing moving images with layers
+1995|207.0|3.0|Proceedings of the IEEE|Human and machine recognition of faces: a survey
+1996|168.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Texture features for browsing and retrieval of image data
+1997|223.0|3.0|IEEE Transactions on Image Processing|Secure spread spectrum watermarking for multimedia
+1998|181.0|3.0|IEEE Transactions on Information Theory|Blind multiuser detection: a subspace approach
+1999|234.0|4.0|Journal of Visual Communication and Image Representation|Image Retrieval: Current Techniques, Promising Directions, and Open Issues
+2000|560.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Content-based image retrieval at the end of the early years
+2001|702.0|3.0|computer vision and pattern recognition|Rapid object detection using a boosted cascade of simple features
+2002|454.0|4.0|Journal of the American College of Cardiology|Guidelines for the ultrasound assessment of endothelial-dependent flow-mediated vasodilation of the brachial artery: a report of the International Brachial Artery Reactivity Task Force
+2003|265.0|4.0|international acm sigir conference on research and development in information retrieval|Automatic image annotation and retrieval using cross-media relevance models
+2004|3212.0|4.0|International Journal of Computer Vision|Distinctive Image Features from Scale-Invariant Keypoints
+2005|543.0|4.0|Circulation|High-Resolution Spiral Computed Tomography Coronary Angiography in Patients Referred for Diagnostic Conventional Coronary Angiography
+2006|564.0|3.0|NeuroImage|Tract-based spatial statistics: Voxelwise analysis of multi-subject diffusion data
+2007|552.0|3.0|Magnetic Resonance in Medicine|Sparse MRI: The application of compressed sensing for rapid MR imaging.
+2008|860.0|2.0|IEEE Signal Processing Magazine|An Introduction To Compressive Sampling
+2009|1460.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Robust Face Recognition via Sparse Representation
+2010|4648.0|4.0|Bioinformatics|Fast and accurate long-read alignment with BurrowsWheeler transform

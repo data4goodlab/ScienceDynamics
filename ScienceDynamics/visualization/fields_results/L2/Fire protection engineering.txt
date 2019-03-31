@@ -1,0 +1,35 @@
+----  Field Name Fire protection engineering: 
+----  Field Level 2.0: 
+----  Field Papers Number 1060:
+----  All time max citation paper: An overview of new approaches to deep desulfurization for ultra-clean gasoline, diesel fuel and jet fuel, 2003, (809.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|1.0|1.0||FLAMMABILITY CHARACTERISTICS OF COMBUSTIBLE GASES AND VAPORS
+1972|7.0|7.0|Combustion and Flame|Auto-ignition of hydrocarbons behind reflected shock waves
+1974|0|0.0|AIAA Journal|A review of the compatibility of structural materials with oxygen
+1979|0|0.0||Parameters of the Reductive Pentose Phosphate Cycle and of the Glycolate Pathway under Different Concentrations of Oxygen
+1986|2.0|2.0|Progress in Energy and Combustion Science|The high-temperature oxidation of aromatic hydrocarbons
+1987|6.0|4.0|Fire and Materials|Ignitability measurements with the cone calorimeter
+1988|6.0|4.0|Journal of Insect Physiology|The site and mechanism of 14 C-lignin degradation by Nasutitermes exitiosus
+1989|3.0|3.0|Journal of the American Oil Chemists' Society|Liquid fuels from Mesua ferrea L. seed oil
+1990|10.0|10.0|international conference on software maintenance|A study of integration testing and software regression at the integration level
+1991|4.0|4.0|Biochimica et Biophysica Acta|Effect of polar carotenoids on the oxygen diffusion-concentration product in lipid bilayers. An EPR spin label study
+1992|1.0|1.0|Minerals Engineering|Selective zinc extraction from complex copper/zinc sulphide concentrates by pressure oxidation
+1993|20.0|0.0|Combustion and Flame|Shock-tube investigation of self-ignition of n-heptane-air mixtures under engine relevant conditions
+1994|10.0|5.0|Physiologia Plantarum|Evidence that shortterm regulation of nodule permeability does not occur in the inner cortex
+1995|8.0|6.5|Canadian Journal of Chemical Engineering|Catalytic conversion of canola oil to fuels and chemicals over various cracking catalysts
+1996|9.0|0.0|Engineering Structures|A nonlinear analysis for three-dimensional steel frames in fire conditions
+1997|4.0|1.0|annual computer security applications conference|Implementing RBAC on a type enforced system
+1998|16.0|2.5|Theriogenology|Effects of antioxidants on the development of bovine IVM/IVF embryos in various concentrations of glucose
+1999|24.0|2.5|Journal of Magnetic Resonance|Quantification of Regional Intrapulmonary Oxygen Partial Pressure Evolution during Apnea by 3 He MRI
+2000|52.0|2.0|IEEE\/ACM Transactions on Networking|Optimizing TCP forwarder performance
+2001|13.0|3.0|Fire Safety Journal|Predicting the piloted ignition of wood in the cone calorimeter using an integral model  effect of species, grain orientation and heat flux
+2002|153.0|3.0|ieee symposium on security and privacy|Automated generation and analysis of attack graphs
+2003|206.0|4.0|Catalysis Today|An overview of new approaches to deep desulfurization for ultra-clean gasoline, diesel fuel and jet fuel
+2004|97.0|8.0|Spine|Nutrition of the intervertebral disc.
+2005|81.0|6.5|ieee symposium on security and privacy|Remote physical device fingerprinting
+2006|50.0|8.0|Journal of Catalysis|Low-temperature steam reforming of jet fuel in the absence and presence of sulfur over Rh and RhNi catalysts for fuel cells
+2007|49.0|6.0|Water Research|Effective partial nitrification to nitrite by down-flow hanging sponge reactor under limited oxygen condition
+2008|100.0|8.0|Bioresource Technology|Moringa oleifera oil: A possible source of biodiesel
+2009|88.0|5.0|Progress in Energy and Combustion Science|Ignition of turbulent non-premixed flames
+2010|62.0|5.0|Combustion and Flame|Temporally resolved planar measurements of transient phenomena in a partially pre-mixed swirl flame in a gas turbine model combustor

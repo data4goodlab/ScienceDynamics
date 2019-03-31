@@ -1,0 +1,53 @@
+----  Field Name Parallel computing: 
+----  Field Level 1.0: 
+----  Field Papers Number 32861:
+----  All time max citation paper: Fast parallel algorithms for short-range molecular dynamics, 1995, (4681.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1959|3.0|3.0|Proceedings of The Iee Part A: Power Engineering|Low-inductance switching using parallel spark-gaps
+1962|36.0|36.0|Journal of Chemical Physics|SCFMO Wave Functions for the Hydrogen Fluoride Molecule
+1965|4.0|4.0||Serial arithmetic techniques
+1967|7.0|7.0|IEEE Transactions on Electronic Computers|Digital Real-Time Spectral Analysis
+1968|6.0|4.0|Journal of the ACM|Scheduling Parallel Computations
+1969|53.0|2.0|ACM Computing Surveys|Picture Processing by Computer
+1970|0|0.0|IEEE Transactions on Computers|Decomposition of Asynchronous Sequential Switching Circuits
+1971|2.0|1.0|symposium on the theory of computing|On the parallel computation of local operations
+1972|16.0|3.0||A highly parallel computing system for information retrieval
+1973|16.0|3.5|IEEE Transactions on Computers|A Comparison of Some Theoretical Models of Parallel Computation
+1974|12.0|8.0|Communications of The ACM|The parallel execution of DO loops
+1975|9.0|2.0|Lecture Notes in Computer Science|A Fundamental Theorem of Asynchronous Parallel Computation
+1976|41.0|3.0|Communications of The ACM|Formal verification of parallel programs
+1977|18.0|2.5|Communications of The ACM|Sorting on a mesh-connected parallel computer
+1978|14.0|2.0|IEEE Transactions on Computers|Aspects of Applicative Programming for Parallel Processing
+1979|16.0|1.5|Communications of The ACM|Computing connected components on parallel computers
+1980|45.0|3.0|Advances in Computers|The Structure of Parallel Algorithms
+1981|69.0|1.0|Communications of The ACM|The cube-connected cycles: a versatile network for parallel computation
+1982|47.0|2.0|Cognitive Science|Connectionist Models and Their Properties
+1983|576.0|4.5|Communications of The ACM|Communicating sequential processes
+1984|30.0|3.5|Journal of the ACM|Graph Problems on a Mesh-Connected Processor Array
+1985|103.0|4.0|Information & Computation|A taxonomy of problems with fast parallel algorithms
+1986|70.0|4.0|Communications of The ACM|Data parallel algorithms
+1987|88.0|3.5|IEEE Transactions on Computers|Debugging Parallel Programs with Instant Replay
+1988|83.0|3.0||iWarp: an integrated solution to high-speed parallel computing
+1989|76.0|2.0|ACM Transactions on Programming Languages and Systems|I-structures: data structures for parallel computing
+1990|113.0|2.0|international symposium on computer architecture|Memory consistency and event ordering in scalable shared-memory multiprocessors
+1991|129.0|2.0|IEEE Software|Visualizing the performance of parallel programs
+1992|145.0|2.0|Communications of The ACM|Compiling Fortran D for MIMD distributed-memory machines
+1993|182.0|2.0|American Journal of Human Genetics|Faster sequential genetic linkage computations.
+1994|135.0|2.0|international symposium on computer architecture|Tempest and typhoon: user-level shared memory
+1995|290.0|2.0|international symposium on computer architecture|The SPLASH-2 programs: characterization and methodological considerations
+1996|157.0|2.0|IEEE Computer|TreadMarks: shared memory computing on networks of workstations
+1997|94.0|2.0|international symposium on microarchitecture|MediaBench: a tool for evaluating and synthesizing multimedia and communications systems
+1998|227.0|2.0|SIAM Journal on Scientific Computing|A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs
+1999|99.0|3.0|Trends in Ecology and Evolution|AFLP genotyping and fingerprinting
+2000|131.0|2.0|design, automation, and test in europe|A generic architecture for on-chip packet-switched interconnections
+2001|151.0|2.0|Nature|Arthropod phylogeny based on eight molecular loci and morphology
+2002|685.0|2.0|Bioinformatics|TREE-PUZZLE: maximum likelihood phylogenetic analysis using quartets and parallel computing
+2003|251.0|3.0|international symposium on computer architecture|Temperature-aware microarchitecture
+2004|383.0|3.0|Nature Materials|Giant room-temperature magnetoresistance in single-crystal Fe/MgO/Fe magnetic tunnel junctions
+2005|1030.0|3.0|Journal of Computational Chemistry|Scalable molecular dynamics with NAMD.
+2006|464.0|3.0||The Landscape of Parallel Computing Research: A View from Berkeley
+2007|708.0|3.0|Computer Graphics Forum|A Survey of GeneralPurpose Computation on Graphics Hardware
+2008|622.0|3.0|Bioinformatics|SOAP: short oligonucleotide alignment program.
+2009|271.0|3.0|Journal of The Royal Statistical Society Series B-statistical Methodology|Approximate Bayesian inference for latent Gaussian models by using integrated nested Laplace approximations
+2010|203.0|3.0|Journal of Statistical Software|Learning Bayesian Networks with the bnlearn R Package

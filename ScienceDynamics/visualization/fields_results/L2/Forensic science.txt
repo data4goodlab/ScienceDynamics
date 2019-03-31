@@ -1,0 +1,65 @@
+----  Field Name Forensic science: 
+----  Field Level 2.0: 
+----  Field Papers Number 17666:
+----  All time max citation paper: Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources., 2009, (6860.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|0|0.0|Botanical Review|The microbiology of cellulose decomposition and some economic problems involved.
+1950|5.0|4.0|Journal of Chemical Physics|On the Isotopic Chemistry of Carbonates and a Paleotemperature Scale
+1951|3.0|3.0|Plant Physiology|DYE REDUCTION BY ILLUMINATED CHLOROPLAST FRAGMENTS
+1952|2.0|1.0|Journal of Chemical Physics|THE DISSOCIATION OF ETHYL BROMIDE AND IODIDE BY NEUTRON CAPTURE
+1953|3.0|2.5|Journal of Chemical Physics|The Existence of Multiply Charged Molecular Ions of HBr, HCl, and DCl
+1955|3.0|1.0|Radiation Research|THE DIRECT ACTION OF FAST CHARGED PARTICLES ON HYALURONIC ACID, HYALURONIDASE, AND A COMBINATION OF THE ENZYME AND SUBSTRATE
+1957|9.0|3.0|Journal of Chemical Physics|Metastable Transitions and CollisionInduced Dissociations in Mass Spectra
+1958|26.0|26.0|Physics of Fluids|Properties of Gases at Very High Temperatures
+1959|27.0|22.0|Physics of Fluids|Interferometric Measurement in the Shock Tube of the Dissociation Rate of Oxygen
+1960|19.0|2.0|Journal of Chemical Physics|RADIOLYSIS OF CYCLOHEXANE. I. PURE LIQUID CYCLOHEXANE AND CYCLOHEXANE- BENZENE SOLUTIONS
+1961|6.0|1.5|Journal of Chemical Physics|VAPOR PRESSURE OF SILICON AND THE DISSOCIATION PRESSURE OF SILICON CARBIDE
+1962|18.0|3.0|Journal of Chemical Physics|ESR SPECTRUM AND STRUCTURE OF THE FORMYL RADICAL
+1963|19.0|3.5|Photochemistry and Photobiology|MECHANISM OF ENZYME INACTIVATION BY ULTRAVIOLET LIGHT AND THE PHOTOCHEMISTRY OF AMINO ACIDS (AT 2537 )*
+1964|7.0|0.0|Journal of Chemical Physics|ESR STUDY OF A SINGLE CRYSTAL OF L-CYSTINE DIHYDROCHLORIDE IRRADIATED AT LOW TEMPERATURE
+1965|13.0|1.0|Journal of Geophysical Research|Effective recombination coefficients in the lower ionosphere
+1966|2.0|2.0|Radiation Botany|STUDIES ON RADIATION-INDUCED ETHYLENE PRODUCTION BY LEMON FRUITS.
+1967|3.0|2.0|Analytica Chimica Acta|DETERMINATION OF TRACE QUANTITIES OF SCANDIUM IN SILICATE ROCKS BY A COMBINED ION EXCHANGE-SPECTROPHOTOMETRIC METHOD.
+1969|6.0|1.0|Combustion and Flame|MECHANISM OF THE DECOMPOSITION OF AMMONIUM PERCHLORATE
+1970|16.0|2.0|IEEE Transactions on Computers|A Generalized Technique for Spectral Analysis
+1971|6.0|5.0|Physica D: Nonlinear Phenomena|Charge transfer between alkali atoms and oxygen molecules
+1972|88.0|3.0|Communications of The ACM|On the criteria to be used in decomposing systems into modules
+1973|7.0|1.0||Some Topics in Queueing Network Theory
+1974|9.0|2.0|Clinica Chimica Acta|Studies on the radioiodination of very low density lipoprotein obtained from different mammalian species
+1975|1.0|0.0|Acta Astronautica|Monopropellant droplet decomposition for large activation energies
+1976|30.0|3.0|IEEE Transactions on Software Engineering|Abstraction and Verification in Alphard: Introduction to Language and Methodology
+1977|113.0|2.5|ACM Transactions on Database Systems|Multivalued dependencies and a new normal form for relational databases
+1978|14.0|2.0|Applied Physics Letters|vuvpumped HgCl laser
+1979|43.0|3.0|Journal of Chemical Physics|Simple bond rupture reactions in multiphoton dissociation of molecules
+1980|21.0|2.0|Oikos|Spatial distribution of fine-root growth, mortality and decomposition in a young Scots pine stand in Central Sweden.
+1981|15.0|2.0|Biotechnology and Bioengineering|Alcohol production from jerusalem artichoke using yeast with inulinase activity
+1982|26.0|5.0|ACM Transactions on Database Systems|A unifying model of physical databases
+1983|13.0|1.0|Virology|Membrane fractions active in poliovirus RNA replication contain VPg precursor polypeptides
+1984|46.0|3.0|Automatica|Singular perturbations and time-scale methods in control theory: Survey 1976-1983
+1985|35.0|2.0|IEEE Transactions on Software Engineering|PROUST: Knowledge-Based Program Understanding
+1986|22.0|3.0|Analytical Biochemistry|Characterization of free radical-induced base damage in DNA at biologically relevant levels
+1987|34.0|3.0|Life Sciences|6-Hydroxydopamine-induced degeneration of nigral dopamine neurons: Differential effect on nigral and striatal D-1 dopamine receptors
+1988|27.0|3.0|Surface Science|The Adsorption and Decomposition of NH3 on Si(100) - Detection of the NH2(a) Species
+1989|38.0|3.0|Journal of Fluid Mechanics|Characteristic-eddy decomposition of turbulence in a channel
+1990|68.0|3.0|acm sigplan symposium on principles and practice of parallel programming|Supporting shared data structures on distributed memory architectures
+1991|37.0|3.0|Applied and Environmental Microbiology|Physiological diversity and distributions of heterotrophic bacteria in deep cretaceous sediments of the Atlantic coastal plain
+1992|57.0|2.0|Journal of Catalysis|Synthesis gas formation by direct oxidation of methane over Pt monoliths
+1993|52.0|3.0|Journal of the American Ceramic Society|Ceramic Powder Synthesis by Spray Pyrolysis
+1994|61.0|2.0|symposium on operating systems principles|Protocol service decomposition for high-performance networking
+1995|42.0|2.0|Journal of Chemical Physics|Evidence for stepwise dissociation dynamics in acetone at 248 and 193 nm
+1996|28.0|2.0|IEEE Transactions on Software Engineering|Numerical analysis of superposed GSPNs
+1997|118.0|2.0|Applied and Environmental Microbiology|Inhibition and facilitation of nucleic acid amplification.
+1998|54.0|3.0|IEEE Transactions on Information Theory|A multistage representation of the Wiener filter based on orthogonal projections
+1999|36.0|3.0|Applied Clay Science|Polymer/layered silicate nanocomposites as high performance ablative materials
+2000|164.0|5.0|Advances in Ecological Research|The mineral nutrition of wild plants revisited: a re-evaluation of processes and patterns.
+2001|64.0|4.0|international conference on software engineering|Hyper/J: multi-dimensional separation of concerns for Java
+2002|346.0|5.0|IEEE Transactions on Neural Networks|A comparison of methods for multiclass support vector machines
+2003|90.0|5.0|International Journal of Legal Medicine|Use of X-linked markers for forensic purposes.
+2004|131.0|6.0|Oikos|Decomposition dynamics in mixedspecies leaf litter
+2005|209.0|5.0|International Journal of Remote Sensing|An extended AVHRR 8-km NDVI dataset compatible with MODIS and SPOT vegetation NDVI data
+2006|335.0|8.0|Nature Protocols|In-gel digestion for mass spectrometric characterization of proteins and proteomes
+2007|1029.0|8.0|Nature Protocols|Locating proteins in the cell using TargetP, SignalP and related tools.
+2008|2058.0|7.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|7.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|1420.0|6.0|Nature Protocols|I-TASSER: a unified platform for automated protein structure and function prediction

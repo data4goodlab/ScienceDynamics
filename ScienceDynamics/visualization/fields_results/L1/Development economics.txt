@@ -1,0 +1,38 @@
+----  Field Name Development economics: 
+----  Field Level 1.0: 
+----  Field Papers Number 2031:
+----  All time max citation paper: Social Capital: Implications for Development Theory, Research, and Policy, 2000, (916.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1972|0|0.0|Demography|Gradients of metropolitan dominance in turkey: Alternative models
+1976|2.0|1.0|Australian Journal of Agricultural and Resource Economics|PROBLEMS OF CHANGE IN AUSTRALIAN AGRICULTURAL ECONOMICS
+1977|2.0|1.0|Socio-economic Planning Sciences|Developing economic measures of hospital productivity
+1980|6.0|6.0|Journal of Environmental Economics and Management|Natural resource scarcity: Empirical evidence and public policy
+1981|7.0|5.5|Quarterly Journal of Economics|The Measurement of Productive Efficiency: A Reconsideration
+1982|3.0|3.0|Public Relations Review|Developing economic education programs for the press
+1983|0|0.0|Journal of Dentistry|The developing economics of dentistry  some concerns for the future in the USA
+1985|6.0|5.0||Debt versus equity in development finance
+1986|9.0|4.0||External account, growth and employment in Egypt and Turkey: historical review and prospects
+1987|0|0.0|Agricultural Administration and Extension|Intrapreneurship and agricultural market development in small developing economics
+1988|0|0.0|World Development|The metamorphosis of development economics
+1989|3.0|0.0|Annals of The Association of American Geographers|Rural Economic Restructuring and Farm Household Income in Jiangsu, People's Republic of China
+1990|10.0|4.0|Environmental Management|BIRTH OF A MEGAPROJECT - POLITICAL-ECONOMY OF FLOOD-CONTROL IN BANGLADESH
+1992|14.0|5.0|World Bank Research Observer|Private investment and macroeconomic adjustment : a survey
+1993|7.0|4.5|Journal of International Development|Genderaware analysis and development economics
+1994|4.0|4.0||The countrywide effects of aid
+1995|37.0|2.0||Saving behavior in low- and middle-income developing countries
+1996|90.0|2.5|World Bank Economic Review|A New Data Set Measuring Income Inequality
+1997|32.0|5.0|Journal of Economic Perspectives|Divergence, Big Time
+1998|31.0|5.0|World Bank Economic Review|International evidence on the determinants of private saving
+1999|43.0|2.0|World Bank Economic Review|Genuine Savings Rates in Developing Countries
+2000|133.0|7.0|World Bank Research Observer|Social Capital: Implications for Development Theory, Research, and Policy
+2001|67.0|4.0|World Bank Economic Review|Infrastructure, geographical disadvantage, transport costs, and trade
+2002|59.0|5.5|Education Economics|Returns to investment in education: a further update
+2003|56.0|3.0||The Long-Run Economic Costs of AIDS: Theory and an Application to South Africa
+2004|72.0|3.0||Growth Theory through the Lens of Development Economics
+2005|71.0|5.0|World Bank Economic Review|The Varieties of Resource Experience: Natural Resource Export Structures and the Political Economy of Economic Growth
+2006|79.0|3.0|Globalization and Health|Uneven dietary development: linking the policies and processes of globalization with the nutrition transition, obesity and diet-related chronic diseases
+2007|96.0|4.0|World Bank Economic Review|Are Remittances Insurance? Evidence from Rainfall Shocks in the Philippines
+2008|272.0|5.0|Journal of Economic Literature|Recent Developments in the Econometrics of Program Evaluation
+2009|118.0|4.0|International Journal of Hydrogen Energy|Overview on the application of direct methanol fuel cell (DMFC) for portable electronic devices
+2010|232.0|6.0|Journal of Economic Literature|Instruments, Randomization, and Learning about Development

@@ -1,0 +1,56 @@
+----  Field Name Information technology management: 
+----  Field Level 2.0: 
+----  Field Papers Number 2330:
+----  All time max citation paper: Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease: GOLD executive summary., 2013, (1800.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1937|0|0.0|American Journal of Surgery|Acute appendicitis: A comparative survey with remarks on its management
+1938|1.0|1.0|The Lancet|ON CURRENT BRITISH TEACHING ABOUT NORMAL LABOUR AND ITS MANAGEMENT
+1941|0|0.0|Digestive Diseases and Sciences|Gastric anacidity: Its physiologic and clinical significance and its management
+1948|0|0.0|Public Health|Observations on infantile diarrhoea and vomiting, its management and treatment
+1952|0|0.0|Plant Ecology|SOUTHEAST SALINE EVERGLADES VEGETATION, FLORIDA, AND ITS MANAGEMENT*) (with 16 figs., 8 photographs, 4 plates and t table)
+1953|2.0|2.0|British Journal of Surgery|Chronic lymphdema of the extremities and its management
+1956|3.0|1.5|The New England Journal of Medicine|Syphilis and Its Management: A Present-Day Problem
+1960|1.0|1.0|Dm Disease-a-month|Coronary atherosclerosis and its management
+1961|2.0|2.0|The New England Journal of Medicine|Lead Encephalopathy in Children: Intravenous Use of Urea in Its Management
+1962|0|0.0|The New England Journal of Medicine|Uric Acid Nephropathy in Leukemia: The Use of Acetazolamide in Its Management
+1964|1.0|0.5|Annals of the New York Academy of Sciences|FIBRINOLYTIC BLEEDING AND ITS MANAGEMENT*
+1965|0|0.0|British Journal of Surgery|Its management with particular reference to stomal dysfunction
+1967|13.0|13.0|JAMA|Hyperglyceridemia in Coronary Artery Disease and Its Management
+1968|4.0|4.0|JAMA|Zollinger-Ellison Syndrome Comes of Age: Recognition of the Complete Clinical Spectrum and Its Management
+1972|1.0|1.0|Clinical Pediatrics|Enuresis : Its Pathogenesis and Management
+1973|1.0|1.0|Journal of Laryngology and Otology|Epistaxistopical use of epsilon-aminocaproic acid in its management
+1974|8.0|1.0|The New England Journal of Medicine|Thyroid storm and its management.
+1976|24.0|24.0|The New England Journal of Medicine|Basis for Recurring Ventricular Fibrillation in the Absence of Coronary Heart Disease and Its Management
+1977|9.0|4.5|Omega-international Journal of Management Science|The multilevel approach to organizational issues of the firm--A critical review
+1980|1.0|1.0|Journal of Policy Modeling|Basic needs macroeconomics: Is it manageable in the case of Egypt
+1981|1.0|0.5|Review of World Economics|A note on the concept of two way trade
+1982|9.0|1.5|Acta Neurochirurgica|The pathophysiology of cerebral vasospasm, and pharmacological approaches to its management
+1983|4.0|1.5|Social Science & Medicine|Perceived risk and choice of childbirth service
+1984|4.0|3.0|British Journal of Haematology|THROMBOEMBOLISM IN PREGNANCY AND ITS MANAGEMENT
+1985|11.0|8.0|American Journal of Ophthalmology|The Pathophysiology of Proliferative Vitreoretinopathy in Its Management
+1986|20.0|1.0|Journal of Political Economy|The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integration
+1987|11.0|4.0|Cancer|Toxicity of intravesical BCG and its management in patients with superficial bladder tumors
+1988|7.0|1.0|JAMA Internal Medicine|Management of Cancer During Pregnancy
+1989|84.0|0.0|ACM Computing Surveys|Human-computer interface development: concepts and systems for its management
+1990|9.0|1.5|Journal of Pediatric Surgery|Malignant melanoma in children: Its management and prognosis
+1991|5.0|1.0|Forest Ecology and Management|Considering the nutritional ecology of the spruce budworm in its management
+1992|4.0|1.5||The California spotted owl: General biology and ecological relations
+1993|11.0|2.0|ACM Computing Surveys|The management of end-user computing: status and directions
+1994|26.0|2.5|Management Information Systems Quarterly|The influence of IT management practice on IT use in large organizations
+1995|44.0|2.0|international conference on management of data|FastMap: a fast algorithm for indexing, data-mining and visualization of traditional and multimedia datasets
+1996|12.0|2.5|BMJ|General practitioners' management of acute back pain: a survey of reported practice compared with clinical guidelines
+1997|34.0|3.0|JAMA Internal Medicine|Atrial Fibrillation and Stroke Prevention With Warfarin in the Long-term Care Setting
+1998|91.0|2.0|Biological Conservation|Flagships, umbrellas, and keystones : Is single-species management pass in the landscape era ?
+1999|47.0|3.0|Management Information Systems Quarterly|The implications of information technology infrastructure for business process redesign
+2000|58.0|3.0|Wireless Networks|Application-driven power management for mobile communication
+2001|157.0|4.0|International Journal of Radiation Oncology Biology Physics|Organ motion and its management
+2002|119.0|5.0|Information & Management|The critical success factors for ERP implementation: an organizational fit perspective
+2003|152.0|6.0|Management Information Systems Quarterly|Shaping agility through digital options: reconceptualizing the role of information technology in contemporary firms
+2004|65.0|4.0|Management Information Systems Quarterly|Bridging user organizations: knowledge brokering and the work of information technology professionals
+2005|77.0|3.0|Journal of Management Information Systems|Types of Information Technology Capabilities and Their Role in Competitive Advantage: An Empirical Study
+2006|134.0|5.0|Limnology and Oceanography|Recent advances in the understanding and management of eutrophication
+2007|87.0|5.0|Medical Physics|The management of imaging dose during image-guided radiotherapy: Report of the AAPM Task Group 75
+2008|253.0|4.0|Journal of Management|Organizational Ambidexterity: Antecedents, Outcomes, and Moderators
+2009|91.0|4.0|PLOS ONE|MicroRNA Fingerprints Identify miR-150 as a Plasma Prognostic Marker in Patients with Sepsis
+2010|52.0|3.0|Solar Energy|Prediction of global solar irradiance based on time series analysis: Application to solar thermal power plants energy production planning

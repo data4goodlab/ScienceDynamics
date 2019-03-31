@@ -1,0 +1,30 @@
+----  Field Name Scientific visualization: 
+----  Field Level 2.0: 
+----  Field Papers Number 1426:
+----  All time max citation paper: Surround-screen projection-based virtual reality: the design and implementation of the CAVE, 1993, (891.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1987|0|0.0|international conference on computer graphics and interactive techniques|Marching cubes: A high resolution 3D surface construction algorithm
+1988|114.0|67.5|international conference on computer graphics and interactive techniques|V-buffer: visible volume rendering
+1989|7.0|3.5||Visualizing relativistic effects in spacetime
+1990|79.0|9.0|ACM Transactions on Graphics|Efficient ray tracing of volume data
+1991|47.0|4.5|international conference on computer graphics and interactive techniques|Artificial evolution for computer graphics
+1992|134.0|6.0|international conference on computer graphics and interactive techniques|Decimation of triangle meshes
+1993|105.0|6.0|international conference on computer graphics and interactive techniques|Surround-screen projection-based virtual reality: the design and implementation of the CAVE
+1994|120.0|7.0|international conference on computer graphics and interactive techniques|Fast volume rendering using a shear-warp factorization of the viewing transformation
+1995|81.0|4.0|symposium on operating systems principles|Informed prefetching and caching
+1996|52.0|4.0|Calcified Tissue International|A microtomographic system for the nondestructive evaluation of bone architecture
+1997|48.0|5.0||Application-controlled demand paging for out-of-core visualization
+1998|58.0|3.0||Interactive ray tracing for isosurface rendering
+1999|44.0|5.0|interactive 3d graphics and games|Applications of pixel textures in visualization and realistic image synthesis
+2000|47.0|6.0||Semi-regular mesh extraction from volumes
+2001|107.0|4.0|international conference on computer graphics and interactive techniques|Feature sensitive surface extraction from volume data
+2002|66.0|5.0||Interactive rendering of large volume data sets
+2003|88.0|3.0|international conference on computer graphics and interactive techniques|Particle-based fluid simulation for interactive applications
+2004|75.0|3.0|ACM Transactions on Graphics|Removing excess topology from isosurfaces
+2005|52.0|3.0|IEEE Transactions on Visualization and Computer Graphics|Camera-based calibration techniques for seamless multiprojector displays
+2006|82.0|3.0|international conference on management of data|VisTrails: visualization meets data management
+2007|111.0|3.0|Journal of Vision|Vergence-accommodation conflicts hinder visual performance and cause visual fatigue.
+2008|22.0|3.0|Computer Graphics Forum|High-speed Marching Cubes using HistoPyramids
+2009|59.0|3.0|Protein Science|KING (Kinemage, Next Generation): a versatile interactive molecular and scientific visualization program.
+2010|26.0|2.0|conference on computer supported cooperative work|Sociotechnical Studies of Cyberinfrastructure and e-Research: Current Themes and Future Trajectories

@@ -1,0 +1,77 @@
+----  Field Name Developmental biology: 
+----  Field Level 2.0: 
+----  Field Papers Number 225780:
+----  All time max citation paper: Initial sequencing and analysis of the human genome, 2001, (10313.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1925|3.0|3.0|Development Genes and Evolution|Colloidal change and mitosis
+1928|3.0|3.0||Duration of light and the wings op the aphid macrosiphum solanifolii
+1930|6.0|1.0|Genetica|Ontogeny, genetics and cytology of Nicotiana hybrids.
+1937|3.0|2.0|The Lancet|EFFECTS OF PROLONGED STRIN-STIMULATION ON THE CERVIX UTERI
+1938|3.0|3.0|The Lancet|Further experiments on the administration of hormones by the subcutaneous implantation of tablets.
+1940|4.0|2.0|Journal of Experimental Zoology|Some effects of artificial illumination on reproduction in the white-footed mouse Peromyscus leucopus noveboracensis.
+1941|0|0.0|The Journal of Agricultural Science|Growth and development in the pig, with special reference to carcass quality characters: Part IV. The use of sample joints and of carcass measurements as indices of the composition of the bacon pig: Part V. The bearing of the main principles emerging upon the many problems of animal production and human development
+1943|0|0.0|Vitamins and Hormones Series|The Intermediate Metabolism of the Sex Hormones
+1944|0|0.0|British Journal of Obstetrics and Gynaecology|The aetiology of the toxaemias of late pregnancy.
+1947|4.0|4.0|Biological Reviews|ANIMAL BREEDING IN RELATION TO NUTRITION AND ENVIRONMENTAL CONDITIONS
+1948|4.0|4.0|The Journal of Pediatrics|The let-down reflex in human lactation
+1949|1.0|0.5|American Heart Journal|Neutralization of the Anticoagulant Effects of Heparin with Protamine (Salmine)
+1950|15.0|4.0|JAMA|Effect of Cortisone and Pituitary Adrenocortieotropic Hormone (ACTH) on Rheumatic Diseases.
+1953|0|0.0|Archives of Dermatology|Unusual Forms of Solar Dermatitis.
+1954|7.0|1.0|Journal of Experimental Zoology|The motivation of cell migration, studied by isolation of embryonic pigment cells singly and in small groups in vitro
+1955|11.0|11.0|JAMA Internal Medicine|SYSTEMIC MONILIASIS AND ASPERGILLOSIS COMPLICATING CORTICOTROPIN THERAPY
+1956|3.0|2.0|The New England Journal of Medicine|Hormonal influences on the growth and progression of cancer: tests for hormone dependency in mammary and prostatic cancer.
+1957|5.0|3.5|Journal of Dairy Science|Endocrine Factors Influencing the Intensity of Milk Secretion. A. Estrogen, Thyroxine, and Growth Hormone
+1958|2.0|1.0|Annals of the New York Academy of Sciences|SOME CHEMICAL AND BIOLOGICAL PROPERTIES OF 19NOR17ETHYNYLTESTOSTERONE
+1959|0|0.0|Nature|Isolation of an Activator for Phospholipase D
+1960|6.0|1.0||The effect of hormones on growth rate and carcass quality of fattening lambs and hoggets.
+1961|10.0|3.0|Nuclear Physics|NUCLEAR OCTUPOLE DEFORMATION AND THE MECHANISM OF FISSION
+1962|4.0|2.0|JAMA Pediatrics|Thyroidal Radioiodine Uptake Rate Measurement in Infants
+1963|12.0|4.0|Radiation Botany|THE STIMULATION OF PLANT GROWTH BY IONIZING RADIATION
+1964|4.0|1.0|Pflgers Archiv: European Journal of Physiology|DIURESIS INDUCED BY WATER INFUSION INTO THE CAROTID LOOP OF UNANAESTHETIZED DOGS,
+1965|14.0|3.0|Cell and Tissue Research|Differentiation and prolonged maintenance of bioelectrically active spinal cord cultures (rat, chick and human)
+1966|18.0|2.0|British Journal of Haematology|On StemCell Recovery after Irradiation
+1967|22.0|2.0|The American Journal of Medicine|The role of adenosine 3,5-phosphate in the action of antidiuretic hormone
+1968|29.0|3.0|Journal of Cell Biology|STRUCTURE OF COUPLED AND UNCOUPLED CELL JUNCTIONS
+1969|45.0|2.0|British Journal of Pharmacology|The release and fate of vaso-active hormones in the circulation.
+1970|53.0|2.0|Steroids|RADIOIMMUNOASSAY OF PLASMA ESTRONE AND ESTRADIOL.
+1971|36.0|3.0|Journal of Cellular Physiology|Stimulation by epinephrine of adenyl cyclase activity, cyclic AMP formation, DNA synthesis and cell proliferation in populations of rat thymic lymphocytes
+1972|58.0|2.0|Contraception|Radioimmunoassay of serum progesterone in women receiving oral contraceptive steroids
+1973|27.0|2.0|Atherosclerosis|Increased endothelial cell turnover in areas of in vivo Evans Blue uptake in the pig aorta
+1974|32.0|3.0|Clinical Endocrinology|SEXHORMONEBINDING GLOBULIN
+1975|557.0|4.0|Nature|Identification of two related pentapeptides from the brain with potent opiate agonist activity
+1976|168.0|5.0|Nature|C fragment of lipotropin has a high affinity for brain opiate receptors
+1977|123.0|5.0|American Psychologist|Toward an Experimental Ecology of Human Development.
+1978|166.0|4.0|Cell|The induction of differentiation in teratocarcinoma stem cells by retinoic acid
+1979|53.0|3.0|Developmental Biology|The induction of antigenic changes in a teratocarcinoma stem cell line (F9) by retinoic acid
+1980|406.0|4.0|Nature|The role of hormone receptors and GTP-regulatory proteins in membrane transduction.
+1981|66.0|3.0|Journal of Molecular Biology|Shapes, domain organizations and flexibility of laminin and fibronectin, two multifunctional proteins of the extracellular matrix.
+1982|137.0|3.0|Journal of Cell Biology|Fibronectins: multifunctional modular glycoproteins.
+1983|123.0|4.0|Nature|A glial progenitor cell that develops in vitro into an astrocyte or an oligodendrocyte depending on culture medium
+1984|198.0|3.0|Cell|Cell-cycle control of c-myc but not c-ras expression is lost following chemical transformation
+1985|209.0|4.0|Cell|Identification and isolation of a 140 kd cell surface glycoprotein with properties expected of a fibronectin receptor
+1986|227.0|4.0|Nature|The c-erb-A gene encodes a thyroid hormone receptor.
+1987|612.0|4.0|Science|New perspectives in cell adhesion: RGD and integrins.
+1988|109.0|4.0|Cell|The thyroid hormone receptor binds with opposite transcriptional effects to a common sequence motif in thyroid hormone and estrogen response elements
+1989|156.0|4.0|Cell|Cloning of GMP-140, a granule membrane protein of platelets and endothelium: sequence similarity to proteins involved in cell adhesion and inflammation.
+1990|165.0|4.0|Cell|ELAM-1-dependent cell adhesion to vascular endothelium determined by a transfected human fucosyltransferase cDNA
+1991|117.0|4.0|Cell|The midline of the drosophila central nervous system: A model for the genetic analysis of cell fate, cell migration, and growth cone guidance
+1992|1489.0|4.0|Cell|Integrins: Versatility, modulation, and signaling in cell adhesion
+1993|394.0|4.0|Cell|Developmental mechanisms that generate precise patterns of neuronal connectivity
+1994|269.0|5.0|Journal of Cell Biology|Disruption of epithelial cell-matrix interactions induces apoptosis
+1995|648.0|5.0|Cell|Rho, Rac, and Cdc42 GTPases regulate the assembly of multimolecular focal complexes associated with actin stress fibers, lamellipodia, and filopodia
+1996|602.0|5.0|Cell|Cell Adhesion: The Molecular Basis of Tissue Architecture and Morphogenesis
+1997|1035.0|9.0|Nature|Functional rafts in cell membranes
+1998|2478.0|12.0|Nature|Dendritic cells and the control of immunity
+1999|798.0|12.0|Nature|Molecular characterization of mitochondrial apoptosis-inducing factor
+2000|1400.0|13.0|Nature|Distinct types of diffuse large B-cell lymphoma identified by gene expressionprofiling
+2001|4579.0|12.0|Nature|Initial sequencing and analysis of the human genome
+2002|1438.0|13.0|Nature|Pluripotency of mesenchymal stem cells derived from adult marrow
+2003|1006.0|14.0|Nature|The International HapMap Project
+2004|1050.0|14.0|Nature|Identification of human brain tumour initiating cells
+2005|1559.0|15.0|Nature|MicroRNA expression profiles classify human cancers.
+2006|1988.0|15.0|Nature|Reciprocal developmental pathways for the generation of pathogenic effector TH17 and regulatory T cells
+2007|2123.0|15.0|Cell|Induction of Pluripotent Stem Cells from Adult Human Fibroblasts by Defined Factors
+2008|2058.0|16.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|14.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|2096.0|15.0|Nature|A human gut microbial gene catalogue established by metagenomic sequencing

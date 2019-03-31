@@ -1,0 +1,69 @@
+----  Field Name Control theory: 
+----  Field Level 1.0: 
+----  Field Papers Number 150101:
+----  All time max citation paper: A new look at the statistical model identification, 1974, (7826.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1943|0|0.0|Ecological Monographs|Raccoons : their habits and management in Michigan.
+1946|1.0|1.0||The analysis of vibration problems
+1950|2.0|2.0|Journal of Chemical Physics|Intramolecular Reaction in Polycondensations. I. The Theory of Linear Systems
+1951|3.0|3.0|Transactions of The American Institute of Electrical Engineers|Transient Analysis of Rotating Machines and Stationary Networks by Means of Rotating Reference Frames
+1952|4.0|4.0|European Physical Journal A|Zu einer einheitlichen Theorie der Relaxationserscheinungen
+1953|8.0|4.0|Journal of Chemical Physics|Rate of Association of Methyl Radicals
+1954|0|0.0|Transactions of The Ire Professional Group on Circuit Theory|The Approximation Problem of Network Synthesis
+1955|4.0|3.5|Journal of Chemical Physics|Capacitance and Conductance Effects in Photoconducting Alkali Halide Crystals
+1956|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|SPECTROPHOTOMETRIC ESTIMATION OF URANIUM(VI) BY MORELLIN
+1957|3.0|1.5|Mathematical Proceedings of the Cambridge Philosophical Society|Stability criteria for linear systems and realizability criteria for RC networks
+1958|1.0|0.5|Ecology|Production of herbaceous vegetation in openings and under canopies of western Aspen
+1959|4.0|0.0|Transactions of the American Mathematical Society|Stability theory and adjoint operators for linear differential-difference equations
+1960|7.0|2.0|Archives of Biochemistry and Biophysics|On the mechanism of enzyme action. LXXI. Acylations of trypsin in organic solvents
+1961|8.0|1.5|Journal of Applied Physics|Theory and Application of a Superposition Model of Internal Friction and Creep
+1962|12.0|1.5|Biochemical Pharmacology|THE EFFECT OF CYTOTOXIC AGENTS ON THE PRODUCTION OF ANTIBODY TO T.A.B. VACCINE IN THE MOUSE
+1963|12.0|1.0|Journal of Applied Physics|Resistance of Elastically Deformed Shallow pn Junctions. II
+1964|9.0|1.0|Journal of Geophysical Research|Shock compression of crustal rocks: Data for quartz, calcite, and plagioclase rocks
+1965|8.0|1.0|Information & Computation|PRESERVATION OF LANGUAGES BY TRANSDUCERS.
+1966|11.0|1.0|Archives of Dermatology|PHOTOALLERGIC CONTACT DERMATITIS DUE TO HALOGENATED SALICYLANILIDES AND RELATED COMPOUNDS.
+1967|14.0|2.0|Journal of Geophysical Research|Theoretical simulation of micropulsations
+1968|38.0|2.0|Proceedings of the IEEE|State of the art in pattern recognition
+1969|35.0|2.0|IEEE Spectrum|A guided tour of the fast Fourier transform
+1970|16.0|2.0|Communications of The ACM|The instrumentation of multics
+1971|27.0|1.0|Journal of Geophysical Research|Radar studies of the equatorial electrojet at three frequencies
+1972|88.0|1.0|Communications of The ACM|On the criteria to be used in decomposing systems into modules
+1973|16.0|2.0||Lie Algebras and Lie Groups in Control Theory
+1974|47.0|1.0|Journal of Geophysical Research|A theory of the substorm mechanism
+1975|38.0|2.0|Physics of Fluids|Anomalous transport properties associated with the lowerhybriddrift instability
+1976|57.0|1.0|Electronics Letters|Spectral losses of low-OH-content optical fibres
+1977|39.0|1.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Neuronal Control of Locomotion in the Lobster, Homarus americanus I. Motor Programs for Forward and Backward Walking
+1978|66.0|1.5|Psychological Review|Quantitative analysis of purposive systems: Some spadework at the foundations of scientific psychology.
+1979|25.0|1.0|Journal of Geophysical Research|The Sensitivity of an Energy Balance Climate Model to Variations in the Orbital Parameters
+1980|37.0|2.0|Automatica|Human dynamics in man-machine systems
+1981|262.0|2.0|Pflgers Archiv: European Journal of Physiology|Improved patch-clamp techniques for high-resolution current recording from cells and cell-free membrane patches.
+1982|79.0|2.0|Behavioral and Brain Sciences|What muscle variable(s) does the nervous system control in limb movements?
+1983|78.0|1.5|Automatica|Theory and applications of adaptive control-A survey
+1984|61.0|2.0|Journal of Geophysical Research|Seasonal cycle experiment on the climate sensitivity due to a doubling of CO2 with an atmospheric general circulation model coupled to a simple mixedlayer ocean model
+1985|54.0|2.0|Cognitive Science|Positive Feedback in Hierarchical Connectionist Models: Applications to Language Production1
+1986|48.0|2.0|Automatica|From time series to linear system-part I. Finite dimensional linear time invariant systems
+1987|117.0|2.0|Science of Computer Programming|Statecharts: A visual formalism for complex systems
+1988|59.0|2.0|Applied Physics Letters|Extremely wide modulation bandwidth in a low threshold current strained quantum well laser
+1989|70.0|2.0|The Journal of Allergy and Clinical Immunology|Dust mite allergens and asthmaA worldwide problem
+1990|324.0|2.0|IEEE Transactions on Neural Networks|Identification and control of dynamical systems using neural networks
+1991|82.0|2.0|IEEE Transactions on Automatic Control|Systematic design of adaptive controllers for feedback linearizable systems
+1992|157.0|2.0|Applied Physics Letters|Combined shear force and nearfield scanning optical microscopy
+1993|161.0|2.0|Automatica|The complex structured singular value
+1994|157.0|2.0|Trends in Genetics|The two-hybrid system: an assay for protein-protein interactions
+1995|196.0|2.0|Theoretical Computer Science|The algorithmic analysis of hybrid systems
+1996|222.0|2.0|Genetics|Genomic Libraries and a Host Strain Designed for Highly Efficient Two-Hybrid Selection in Yeast
+1997|193.0|2.0|Proceedings of the National Academy of Sciences of the United States of America|Suppression of tumor necrosis factor-induced cell death by inhibitor of apoptosis c-IAP2 is under NF-B control
+1998|153.0|2.0|Journal of the Operational Research Society|Rate control for communication networks: shadow prices, proportional fairness and stability
+1999|386.0|3.0|IEEE\/ACM Transactions on Networking|Promoting the use of end-to-end congestion control in the Internet
+2000|378.0|3.0|Automatica|Constrained model predictive control: Stability and optimality
+2001|881.0|3.0|Nature|Neurophysiological investigation of the basis of the fMRI signal
+2002|379.0|4.0|ACM Computing Surveys|Reconfigurable computing: a survey of systems and software
+2003|534.0|4.0|IEEE Transactions on Automatic Control|Coordination of groups of mobile autonomous agents using nearest neighbor rules
+2004|740.0|4.0|IEEE Transactions on Automatic Control|Consensus problems in networks of agents with switching topology and time-delays
+2005|276.0|3.0|Nature|Long-term sensitivity of soil carbon turnover to warming
+2006|748.0|3.0|Journal of the American College of Cardiology|Pathology of Drug-Eluting Stents in Humans: Delayed Healing and Late Thrombotic Risk
+2007|904.0|3.0|Proceedings of the IEEE|Consensus and Cooperation in Networked Multi-Agent Systems
+2008|749.0|3.0|PLOS ONE|Individual Attachment Style Modulates Human Amygdala and Striatum Activation during Social Appraisal
+2009|1042.0|2.0|Science|The B73 maize genome: complexity, diversity, and dynamics.
+2010|929.0|4.0|Journal of Statistical Software|Inverse Modelling, Sensitivity and Monte Carlo Analysis in R Using Package FME

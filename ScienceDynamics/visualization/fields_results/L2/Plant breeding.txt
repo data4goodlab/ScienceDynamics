@@ -1,0 +1,74 @@
+----  Field Name Plant breeding: 
+----  Field Level 2.0: 
+----  Field Papers Number 40432:
+----  All time max citation paper: Floral dip : a simplified method for Agrobacterium-mediated transformation of Arabidopsis thaliana, 1998, (6225.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1930|6.0|6.0|Genetica|Ontogeny, genetics and cytology of Nicotiana hybrids.
+1933|1.0|1.0||A Comparison of Aonidiella aurantii and Aonidiella citrina, including a Study of the Internal Anatomy of the Latter.
+1934|0|0.0||Thrips Resistance in the Onion.
+1935|0|0.0|American Journal of Potato Research|Report of the research committee on potato breeding
+1937|0|0.0|Biological Reviews|GENETICS IN ITS APPLICATION TO PLANT BREEDING
+1940|13.0|0.0|Genetics|AN ANALYSIS OF X-RAY INDUCED CHROMOSOMAL ABERRATIONS IN TRADESCANTIA
+1944|1.0|1.0|Hereditas|CYTOGENETIC STUDIES ON RUMEX SUBGENUS ACETOSELLA
+1945|2.0|2.0|Botanical Review|Gene segregation in autotetraploids. II
+1947|4.0|2.0|Biological Reviews|ANIMAL BREEDING IN RELATION TO NUTRITION AND ENVIRONMENTAL CONDITIONS
+1948|0|0.0|Economic Botany|Plant breeding methods and current problems in developing improved varieties of tomatoes
+1950|6.0|1.0||The Phenomenon of Position Effect
+1951|3.0|0.0|American Journal of Potato Research|NOTES ON INDUCED POLYPLOIDS IN THE TUBER-BEARING 1 SOLANUM SPECIES AND THEIR CROSSABILITY WITH SOLANUM TUBEROSUM
+1952|0|0.0|Economic Botany|Plant breeding and the vegetable industry
+1954|0|0.0|Plant and Soil|Adaptation of sweet corn to English climatic, edaphic and biotic factors
+1957|8.0|4.5|The American Naturalist|Self fertilization and population variability in the higher plants.
+1958|0|0.0|American Journal of Botany|Apomixis in the Gramineae: Panicoideae.
+1959|2.0|2.0|Journal of Genetics|Further studies on diplopodia
+1960|11.0|3.0|Journal of Dairy Science|Genetic Improvement in Production Attributable to Sires Used in Artificial Insemination in North Carolina
+1961|2.0|1.0|Journal of Dairy Science|Relationships between Age, Body Weight, and Yield of Dairy Cows1
+1962|3.0|1.5|Journal of Cellular and Comparative Physiology|Study of the mechanism of innate resistance to virus infection
+1963|13.0|1.0||Fine Structure of Genes in the Ascomycete Ascobolus immersus
+1964|12.0|3.0|Annals of Applied Biology|Breeding for tolerance to Beet yellows virus and Beet mild yellowing virus in Sugar Beet. I Selection and breeding methods.
+1965|3.0|3.0|Radiation Botany|An examination of stimulatory effects of ionizing radiation in plants
+1966|4.0|0.0|American Journal of Potato Research|SOME MAJOR POINTS FROM 22 YEARS OF EXPERIENCE IN BREEDING POTATOES FOR RESISTANCE TO LATE BLIGHT (PHYTOPHTHORA INFESTANS) 1
+1967|8.0|0.5||A comparison of the body size, fleece weight and maternal performance of five breeds of sheep kept in one environment.
+1968|8.0|0.5|Euphytica|The breeding of crop ideotypes
+1969|7.0|0.5|Comparative Biochemistry and Physiology|Hybrid proteins, heterosis and the origin of speciesI. Unusual variation of polychaete hyalinoecia nothing dehydrogenases and of quail coturnix erythrocyte enzymes
+1970|30.0|0.5|Nature|Fusion of Isolated Plant Protoplasts
+1971|8.0|1.5|Journal of Bacteriology|Formation of Protoplasts from Resting Spores
+1972|8.0|1.0|Journal of Bioenergetics and Biomembranes|Biogenesis of Mitochondria 23. The Biochemical and Genetic Characteristics of Two Different Oligomycin Resistant Mutants of Saccharomyces Cerevisiae Under the Influence of Cytoplasmic Genetic Modification
+1973|3.0|1.0|Euphytica|Synthesis and sterility of Raphanobrassica
+1974|12.0|1.0|Radiation Botany|Induced high lysine mutants in barley
+1975|14.0|1.0|Radiation Botany|The potential of genetic manipulation in plant cell cultures for plant breeding
+1976|7.0|1.0||Cell Division of Intergeneric Protoplast Fusion Products
+1977|67.0|1.0|Journal of Molecular Biology|Genetic engineering in Vivo using translocatable drug-resistance elements: New methods in bacterial genetics
+1978|29.0|3.0||Pharmacology and Neurochemistry of Apomorphine
+1979|73.0|2.0|Neuroscience|Enkephalin immunoreactive nerve fibres and cell bodies in sympathetic ganglia of the guinea-pig and rat
+1980|41.0|3.0|Neuroscience|The locus coeruleus in the rat: An immunohistochemical delineation
+1981|87.0|3.5|Nature|Transforming genes of carcinomas and neuroblastomas introduced into mouse fibroblasts.
+1982|83.0|3.0|Cell|Differential regulation of metallothionein-thymidine kinase fusion genes in transgenic mice and their offspring
+1983|73.0|4.0|Nature Biotechnology|A Broad Host Range Mobilization System for In Vivo Genetic Engineering: Transposon Mutagenesis in Gram Negative Bacteria
+1984|84.0|3.0|Cell|Transformation of several species of higher plants by agrobacterium rhizogenes: Sexual transmission of the transformed genotype and phenotype
+1985|26.0|3.0|Nature|Production of 'hybrid' antibiotics by genetic engineering.
+1986|35.0|2.0|Plant Science|Culture and regeneration of Populus leaf protoplasts isolated from non-seedling tissue
+1987|57.0|3.0|Neuroscience|Grafting genetically modified cells to the brain: Possibilities for the future
+1988|38.0|3.0|Cell|Nuclear-organelle interactions: Nuclear antisense gene inhibits ribulose bisphosphate carboxylase enzyme levels in transformed tobacco plants
+1989|167.0|4.0|Gene|Site-directed mutagenesis by overlap extension using the polymerase chain reaction.
+1990|183.0|5.0|The Plant Cell|Transformation of maize cells and regeneration of fertile transgenic plants.
+1991|143.0|4.0|Science|Monoclonal antibodies in diagnosis and therapy
+1992|69.0|4.0|The Plant Cell|Transgenic maize plants by tissue electroporation.
+1993|113.0|3.0|Nature Biotechnology|Field Performance of Elite Transgenic Maize Plants Expressing an Insecticidal Protein Derived from Bacillus thuringiensis
+1994|64.0|3.0|The Plant Cell|Transgenic plant virus resistance mediated by untranslatable sense RNAs: expression, regulation, and fate of nonessential RNAs.
+1995|227.0|4.0|Science|Molecular genetics of plant disease resistance
+1996|147.0|3.0|Current Biology|Engineered GFP as a vital reporter in plants
+1997|122.0|4.0|Journal of Bacteriology|Methods for generating precise deletions and insertions in the genome of wild-type Escherichia coli: application to open reading frame characterization.
+1998|572.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Osteoclast differentiation factor is a ligand for osteoprotegerin/osteoclastogenesis-inhibitory factor and is identical to TRANCE/RANKL
+1999|268.0|6.0|Cell|The rde-1 Gene, RNA Interference, and Transposon Silencing in C. elegans
+2000|253.0|8.0|Proceedings of the National Academy of Sciences of the United States of America|An efficient recombination system for chromosome engineering in Escherichia coli
+2001|194.0|7.0|Trends in Plant Science|Plant salt tolerance
+2002|506.0|8.0|Nature|Complete genome sequence of the model actinomycete Streptomyces coelicolor A3(2)
+2003|557.0|8.0|Annual Review of Plant Biology|PLANT CELLULAR AND MOLECULAR RESPONSES TO HIGH SALINITY
+2004|191.0|8.0|Annual Review of Neuroscience|Desensitization of G protein-coupled receptors and neuronal functions.
+2005|291.0|8.0|Nature|Highly efficient endogenous human gene correction using designed zinc-finger nucleases
+2006|1535.0|8.0|Nature|Global variation in copy number in the human genome
+2007|2530.0|9.0|Evolutionary Bioinformatics|Arlequin (version 3.0): An integrated software package for population genetics data analysis
+2008|551.0|7.0|Nature|Non-fermentative pathways for synthesis of branched-chain higher alcohols as biofuels.
+2009|908.0|8.0|PLOS ONE|The HIF-1 hypoxia-inducible factor modulates lifespan in C. elegans.
+2010|585.0|8.0|Breast Cancer Research|Phenotypic and molecular characterization of the claudin-low intrinsic subtype of breast cancer.

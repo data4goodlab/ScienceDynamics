@@ -1,0 +1,73 @@
+----  Field Name Astronomy: 
+----  Field Level 1.0: 
+----  Field Papers Number 90578:
+----  All time max citation paper: Initial sequencing and analysis of the human genome, 2001, (10313.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1932|0|0.0||An Experimental and Analytical Investigation of Earthed Receiving Aerials
+1935|0|0.0||A method of exciting the aerial system of a rotating radio beacon
+1938|0|0.0||Multiple reflections between two tuned receiving antennae
+1940|4.0|2.0|Journal of Genetics|Cytogenetics of Brassica hybrids and species.
+1946|0|0.0|Cellular and Molecular Life Sciences|Sonnenflecken und ihre terrestrischen Wirkungen
+1949|2.0|2.0|Eos, Transactions American Geophysical Union|Significance of radioactivity in geophysics  Thermal history of the Earth
+1950|1.0|0.5||Mutual impedance and self-impedance of coupled parallel aerials
+1951|1.0|1.0|Journal of Dairy Science|A Rapid Method of Testing for Quaternary Ammonium Compounds in Milk1
+1952|1.0|0.5||Television transmitting aerials
+1953|9.0|4.5|Geochimica et Cosmochimica Acta|THE GEOCHEMISTRY OF THE STABLE CARBON ISOTOPES
+1954|2.0|2.0|Journal of The Franklin Institute-engineering and Applied Mathematics|Very low frequency noise power from the lightning discharge
+1955|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|SCATTERING MEASUREMENTS IN NUCLEAR EMULSIONS AND THEIR APPLICATION TO MEASURING THE CHARGE OF PRIMARY COSMIC RAY NUCLEI
+1956|13.0|0.0|Journal of Geophysical Research|Turbulence in the ionosphere with applications to meteortrails, radiostar scintillation, auroral radar echoes, and other phenomena
+1957|4.0|4.0|Geochimica et Cosmochimica Acta|The isotope geology of oxygen
+1958|0|0.0|Proceedings of The Iee Part C: Monographs|Diffraction by cylindrical reflectors
+1959|1.0|1.0||An investigation of the excitation of radiation by surface waves
+1960|30.0|3.5|Geochimica et Cosmochimica Acta|Determinations of concentrations of heavy elements in meteorites by activation analysis
+1961|8.0|1.0|Geochimica et Cosmochimica Acta|SULPHUR ISOTOPE GEOCHEMISTRY
+1962|22.0|3.0|Icarus|EVIDENCE FROM THE MOON'S SURFACE FEATURES FOR THE PRODUCTION OF LUNAR GRANITES
+1963|38.0|4.0|Journal of Geophysical Research|Chargedparticle observations in the Earth's outer magnetosphere
+1964|79.0|5.5|Journal of Geophysical Research|HIGH-LATITUDE GEOPHYSICAL STUDIES WITH SATELLITE INJUN 3. 3. PRECIPITATION OF ELECTRONS INTO THE ATMOSPHERE
+1965|49.0|5.0|Journal of Geophysical Research|Cyclotron instabilities and electromagnetic emission in the ultra low frequency and very low frequency ranges
+1966|121.0|4.0|Journal of Geophysical Research|Limit on stably trapped particle fluxes
+1967|101.0|4.0|Geochimica et Cosmochimica Acta|Chemical fractionations in meteoritesII. Abundance patterns and their interpretation
+1968|46.0|3.0|Journal of Geophysical Research|Cosmic-ray diffusion tensor and its variation observed with Mariner 4.
+1969|31.0|2.0|Journal of Geophysical Research|Latitudinal distribution of auroral and airglow emissions: The soft auroral zone
+1970|70.0|3.0|Geochimica et Cosmochimica Acta|Phenocryst-matrix partition coefficients for K, Rb, Sr and Ba, with applications to anorthosite and basalt genesis
+1971|66.0|5.0|Journal of Geophysical Research|Average and unusual locations of the earth's magnetopause and bow shock
+1972|91.0|4.0|Geochimica et Cosmochimica Acta|Condensation in the primitive solar nebula
+1973|69.0|5.0|Science|A Component of Primitive Nuclear Composition in Carbonaceous Meteorites
+1974|51.0|4.0|Journal of Geophysical Research|Incoherent scatter measurements of E region conductivities and currents in the auroral zone
+1975|557.0|4.0|Nature|Identification of two related pentapeptides from the brain with potent opiate agonist activity
+1976|168.0|6.0|Nature|C fragment of lipotropin has a high affinity for brain opiate receptors
+1977|128.0|5.0|Journal of Geophysical Research|A global thermospheric model based on mass spectrometer and incoherent scatter data MSIS, 2. Composition
+1978|54.0|3.0|Geochimica et Cosmochimica Acta|Rare-earth abundances in chondritic meteorites
+1979|46.0|3.0|Geophysical Research Letters|Ionization frequencies for major thermospheric constituents as a function of solar cycle 21
+1980|406.0|3.5|Nature|The role of hormone receptors and GTP-regulatory proteins in membrane transduction.
+1981|61.0|4.0|Journal of Geophysical Research|Direct plasma measurements in the Io torus and inner magnetosphere of Jupiter
+1982|72.0|3.0|Geochimica et Cosmochimica Acta|Solar-system abundances of the elements
+1983|107.0|3.0|Journal of Geophysical Research|A Revised thermospheric model based on mass spectrometer and incoherent scatter data: MSIS83
+1984|51.0|3.0|Experimental Cell Research|2-Acetylaminofluorene-modified probes for the indirect hybridocytochemical detection of specific nucleic acid sequences
+1985|51.0|3.0|Journal of Geophysical Research|Coupling of newborn ions to the solar wind by electromagnetic instabilities and their interaction with the bow shock
+1986|65.0|3.0|Geophysical Research Letters|Hydromagnetic waves and instabilities associated with cometary ion pickup: ICE observations
+1987|44.0|3.0|Journal of Geophysical Research|Origin and evolution of fluctuations in the solar wind: Helios observations and HeliosVoyager comparisons
+1988|47.0|3.0|Journal of Geophysical Research|A new gravitational model for the Earth from satellite tracking data: GEMT1
+1989|214.0|3.0|Geochimica et Cosmochimica Acta|Abundances of the elements - Meteoritic and solar
+1990|55.0|3.0|IEEE Transactions on Communications|A survey of light-weight transport protocols for high-speed networks
+1991|104.0|2.0|IEEE Transactions on Parallel and Distributed Systems|A loop transformation theory and an algorithm to maximize parallelism
+1992|106.0|2.0|international symposium on physical design|Testing for nonlinearity in time series: the method of surrogate data
+1993|61.0|3.0|Geophysical Research Letters|Disappearance of the heliospheric sector structure at Ulysses
+1994|51.0|3.0|Journal of Geophysical Research|EUVAC: A solar EUV Flux Model for aeronomic calculations
+1995|184.0|2.0|Chemical Geology|The composition of the Earth
+1996|71.0|3.0|Geochimica et Cosmochimica Acta|Oxygen isotope studies of achondrites
+1997|1035.0|6.0|Nature|Functional rafts in cell membranes
+1998|2478.0|9.0|Nature|Dendritic cells and the control of immunity
+1999|798.0|7.0|Nature|Molecular characterization of mitochondrial apoptosis-inducing factor
+2000|1400.0|7.0|Nature|Distinct types of diffuse large B-cell lymphoma identified by gene expressionprofiling
+2001|4579.0|5.0|Nature|Initial sequencing and analysis of the human genome
+2002|1438.0|6.0|Nature|Pluripotency of mesenchymal stem cells derived from adult marrow
+2003|1006.0|6.0|Nature|The International HapMap Project
+2004|1050.0|6.0|Nature|Identification of human brain tumour initiating cells
+2005|1559.0|7.0|Nature|MicroRNA expression profiles classify human cancers.
+2006|1988.0|6.0|Nature|Reciprocal developmental pathways for the generation of pathogenic effector TH17 and regulatory T cells
+2007|1465.0|5.0|Nature|A second generation human haplotype map of over 3.1 million SNPs.
+2008|1601.0|4.0|Nature|Building better batteries
+2009|2934.0|4.0|Nature|Large-scale pattern growth of graphene films for stretchable transparent electrodes
+2010|2096.0|4.0|Nature|A human gut microbial gene catalogue established by metagenomic sequencing

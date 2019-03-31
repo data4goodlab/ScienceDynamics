@@ -1,0 +1,90 @@
+----  Field Name Spectroscopy: 
+----  Field Level 2.0: 
+----  Field Papers Number 488467:
+----  All time max citation paper: The rise of graphene, 2007, (9404.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1914|0|0.0|Philosophical Magazine Series 1|XLIII. On the absorption spectrum of zinc vapour
+1924|0|0.0|Philosophical Magazine Series 1|XLV. Electric moment and molecular structure
+1927|0|0.0|Philosophical Magazine Series 1|CXIV. On the fine structure of the spectrum lines of thallium in the ultra-violet
+1929|1.0|1.0|JAMA Pediatrics|THE ULTRAVIOLET COMPONENT OF THE SUNLIGHT OF PORTLAND, ORE.: MEASURED BY THE ACETONE-METHYLENE BLUE METHOD
+1930|5.0|3.5|JAMA Pediatrics|ASSOCIATION OF KERATOMALACIA WITH OTHER DEFICIENCY DISEASES
+1932|0|0.0|Journal of The Textile Institute Transactions|4THE MOLECULAR STRUCTURE OF TEXTILE FIBRES
+1933|6.0|3.0|Journal of Chemical Physics|The Nature of the Chemical Bond. VII. The Calculation of Resonance Energy in Conjugated Systems
+1934|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|On the scattering of light by liquid surfaces
+1935|1.0|0.0|Journal of Chemical Physics|Addition of Symmetrical Diatomic Molecules to Benzene
+1936|7.0|5.0|Protoplasma|On the molecular structure of chromosomes
+1937|12.0|2.0|Journal of Chemical Physics|The Normal Vibrations and the Vibrational Spectrum of C2H6
+1938|7.0|2.0|Journal of Chemical Physics|Kinetics of OH Radicals as Determined by Their Absorption Spectrum III. A Quantitative Test for Free OH; Probabilities of Transition
+1939|18.0|1.0|Journal of Chemical Physics|InfraRed and Raman Spectra of Polyatomic Molecules. VII. C2D6
+1940|4.0|0.0|Journal of Experimental Zoology|Some effects of artificial illumination on reproduction in the white-footed mouse Peromyscus leucopus noveboracensis.
+1941|5.0|1.0|Journal of Chemical Physics|Analysis of the Near Ultraviolet Absorption Spectrum of Monochlorobenzene
+1942|0|0.0|Mathematical Proceedings of the Cambridge Philosophical Society|Two-centre integrals occurring in the theory of molecular structure
+1943|5.0|0.5|Journal of Chemical Physics|Raman Spectra of Hydrocarbons I. 1Octene, cis+trans 2Octene, trans3Octene, trans4Octene, 4Octyne, and 1Octyne
+1944|9.0|0.0|Journal of Chemical Physics|The Molecular Structure and Thermodynamics of Propane The Vibration Frequencies, Barrier to Internal Rotation, Entropy, and Heat Capacity
+1945|9.0|5.0|Parasitology|The Ecology of the Sheep Tick, Ixodes ricinus L. The seasonal Activity in Britain with particular Reference to northern England.
+1946|8.0|0.0|Journal of Chemical Physics|A Relation between Bond Force Constants, Bond Orders, Bond Lengths, and the Electronegativities of the Bonded Atoms
+1947|13.0|1.0|Journal of Chemical Physics|The Experimental Determination of the Intensities of InfraRed Absorption Bands II. Measurements on Ethylene and Nitrous Oxide
+1948|18.0|0.0|Journal of Chemical Physics|Spectroscopic Studies of Rotational Isomerism. I. Liquid nButane and the Assignment of the Normal Modes of Vibration
+1949|17.0|2.0|Journal of Chemical Physics|Structural Investigations by Means of Nuclear Magnetism. I. Rigid Crystal Lattices
+1950|21.0|4.0|Journal of Chemical Physics|The Vibrational Spectra of Molecules and Complex Ions in Crystals III. Ammonium Chloride and DeuteroAmmonium Chloride
+1951|14.0|3.0|Journal of Chemical Physics|A Study of TwoCenter Integrals Useful in Calculations on Molecular Structure. II. The TwoCenter Exchange Integrals
+1952|19.0|2.0|Journal of Chemical Physics|Studies of Ionization Efficiency. Part II. The Ionization Potentials of Some Organic Molecules
+1953|37.0|4.0|Journal of Chemical Physics|NUCLEAR MAGNETIC RESONANCE MULTIPLETS IN LIQUIDS
+1954|19.0|1.0|Journal of Chemical Physics|The Valence Structure of the Boron Hydrides
+1955|21.0|2.0|Journal of Chemical Physics|Influence of VibrationRotation Interaction on Line Intensities in VibrationRotation Bands of Diatomic Molecules
+1956|26.0|3.0|Journal of Chemical Physics|Rate Processes and Nuclear Magnetic Resonance Spectra. II. Hindered Internal Rotation of Amides
+1957|23.0|3.0|Journal of Chemical Physics|Coupling Strength for Resonance Force Transfer of Electronic Energy in Van der Waals Solids
+1958|56.0|2.5|Journal of Chemical Physics|Determination of Molecular Structures from Ground State Rotational Constants
+1959|66.0|2.0|Journal of Chemical Physics|Angular Dependence of ElectronCoupled Proton Interactions in CH2 Groups
+1960|51.0|3.0|Virology|The Initiation of Vaccinia Infection.
+1961|53.0|2.0|Journal of Chemical Physics|THEORETICAL INTERPRETATION OF CARBON-13 HYPERFINE INTERACTIONS IN ELECTRON SPIN RESONANCE SPECTRA
+1962|45.0|3.0|Journal of Chemical Physics|Use of Weak Perturbing RadioFrequency Fields in Nuclear Magnetic Double Resonance
+1963|46.0|3.0|Geochimica et Cosmochimica Acta|Edelgas- und kalium-bestimmungen an einer greren zahl von steinmeteoriten
+1964|112.0|2.0|Nuclear Physics|Particle-hole description of carbon 12 and oxygen 16
+1965|67.0|2.0|Journal of Geophysical Research|Electron and molecular nitrogen temperature and density in the thermosphere.
+1966|121.0|1.0|Journal of Geophysical Research|Limit on stably trapped particle fluxes
+1967|101.0|1.0|Geochimica et Cosmochimica Acta|Chemical fractionations in meteoritesII. Abundance patterns and their interpretation
+1968|64.0|1.0|Journal of Molecular Biology|Nuclear magnetic resonance studies of erythrocyte membranes
+1969|59.0|1.0|Journal of Geophysical Research|Rocket measurement of nitric oxide between 60 and 96 kilometers
+1970|73.0|1.0|Journal of Molecular Biology|Mitochondrial DNA's from respiratory-sufficient and cytoplasmic respiratory-deficient mutant yeast
+1971|64.0|1.0|Photochemistry and Photobiology|SOME CHEMICAL AND PHYSICAL PROPERTIES OF A BACTERIAL REACTION CENTER PARTICLE AND ITS PRIMARY PHOTOCHEMICAL REACTANTS*
+1972|62.0|1.0||Molecular structure of bacterial plasmids.
+1973|95.0|2.0|British Journal of Pharmacology|The determination of dopamine by a modification of the dihydroxyindole fluorimetric assay
+1974|71.0|2.0|Chromosoma|Differential Giemsa Staining of Sister Chromatids and the Study of Sister Chromatid Exchanges without Autoradiography
+1975|63.0|2.0|Science|Host phase of a strange xenon component in Allende
+1976|55.0|2.0|Journal of Geophysical Research|An Earth Model based on free oscillations and body waves
+1977|73.0|2.0|Journal of Geophysical Research|Thermal and albedo mapping of Mars during the Viking primary mission
+1978|85.0|2.0|Archives of Biochemistry and Biophysics|Involvement of the light-harvesting complex in cation regulation of excitation energy distribution in chloroplasts
+1979|180.0|2.0|Nature|Molecular structure of a left-handed double helical DNA fragment at atomic resolution
+1980|78.0|3.0|Journal of Applied Physics|Optically induced conductivity changes in dischargeproduced hydrogenated amorphous silicon
+1981|113.0|2.0|Physics of the Earth and Planetary Interiors|Preliminary reference Earth model
+1982|108.0|2.0|Brain Research|Voltage-clamp analysis of muscarinic excitation in hippocampal neurons
+1983|55.0|2.0|Journal of Chemical Physics|Spectroscopic studies of the jetcooled copper trimer
+1984|151.0|3.0|Journal of Chemical Physics|Self-consistent molecular orbital methods 25. Supplementary functions for Gaussian basis sets
+1985|100.0|2.0|Applied Physics Letters|First observation of an extremely largedipole infrared transition within the conduction band of a GaAs quantum well
+1986|119.0|2.0|Cell|Expression and structure of the human NGF receptor
+1987|159.0|2.0|Journal of Geophysical Research|MSIS86 Thermospheric Model
+1988|176.0|3.0|Global Biogeochemical Cycles|Biogeochemical aspects of atmospheric methane
+1989|188.0|2.0|Biochemical and Biophysical Research Communications|Identification of angiotensin II receptor subtypes
+1990|191.0|2.0|Applied Physics Letters|ptype ZnSe by nitrogen atom beam doping during molecular beam epitaxial growth
+1991|351.0|3.0|Applied Physics Letters|Porous silicon formation: A quantum wire effect
+1992|233.0|2.0|Journal of Chemical Physics|Density functional Gaussiantypeorbital approach to molecular geometries, vibrations, and reaction energies
+1993|148.0|2.0|Plant Journal|Structural models of primary cell walls in flowering plants: consistency of molecular structure with the physical properties of the walls during growth.
+1994|454.0|3.0|Nuclear Physics|Electric - magnetic duality, monopole condensation, and confinement in N=2 supersymmetric Yang-Mills theory
+1995|205.0|2.0|Neuron|Neurotrophins regulate dendritic growth in developing visual cortex.
+1996|859.0|2.0|Cell|Induction of Apoptotic Program in Cell-Free Extracts: Requirement for dATP and Cytochrome c
+1997|163.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Eigenfaces vs. Fisherfaces: recognition using class specific linear projection
+1998|587.0|3.0|IEEE Transactions on Information Theory|Space-time codes for high data rate wireless communication: performance criterion and code construction
+1999|391.0|3.0|Cell|Methylation-induced repression--belts, braces, and chromatin.
+2000|958.0|3.0|Nature|Molecular portraits of human breast tumours
+2001|1006.0|4.0|American Journal of Human Genetics|A New Statistical Method for Haplotype Reconstruction from Population Data
+2002|447.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|COX-3, a cyclooxygenase-1 variant inhibited by acetaminophen and other analgesic/antipyretic drugs: cloning, structure, and expression.
+2003|548.0|5.0|Nature Reviews Molecular Cell Biology|Calcium signalling: dynamics, homeostasis and remodelling
+2004|655.0|5.0|Nature|Sequence and comparative analysis of the chicken genome provide unique perspectives on vertebrate evolution
+2005|1561.0|5.0|IEEE Journal on Selected Areas in Communications|Cognitive radio: brain-empowered wireless communications
+2006|880.0|4.0|Molecular Systems Biology|Construction of Escherichia coli K12 inframe, singlegene knockout mutants: the Keio collection
+2007|4087.0|5.0|Nature Materials|The rise of graphene
+2008|2058.0|5.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|5.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|1557.0|5.0|Acta Crystallographica Section D-biological Crystallography|MolProbity: all-atom structure validation for macromolecular crystallography

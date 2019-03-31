@@ -1,0 +1,17 @@
+----  Field Name Systems neuroscience: 
+----  Field Level 2.0: 
+----  Field Papers Number 1344:
+----  All time max citation paper: Neural systems of reinforcement for drug addiction: from actions to habits to compulsion, 2005, (1464.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1999|69.0|69.0|Nature Neuroscience|G-protein-coupled receptors act via protein kinase C and Src to regulateNMDA receptors
+2000|197.0|45.0|Nature Neuroscience|Skeletal myogenic potential of human and mouse neural stem cells
+2001|160.0|46.0|Nature Neuroscience|Genetic influences on brain structure
+2002|69.0|48.0|Nature Neuroscience|Reduced climbing and increased slipping adaptation in cochlear hair cells of mice with Myo7a mutations
+2004|386.0|70.0|Nature Neuroscience|Neural systems supporting interoceptive awareness.
+2005|558.0|56.5|Nature Neuroscience|Neural systems of reinforcement for drug addiction: from actions to habits to compulsion
+2006|420.0|53.0|Nature Neuroscience|Understanding emotions in others: mirror neuron dysfunction in children with autism spectrum disorders
+2007|671.0|51.0|Nature Neuroscience|Microglia: active sensor and versatile effector cells in the normal and pathologic brain.
+2008|364.0|51.5|Nature Neuroscience|Roles of continuous neurogenesis in the structural and functional integrity of the adult forebrain
+2009|1000.0|58.0|Nature Neuroscience|Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse
+2010|727.0|87.0|Nature Neuroscience|A robust and high-throughput Cre reporting and characterization system for the whole mouse brain

@@ -1,0 +1,50 @@
+----  Field Name Differential psychology: 
+----  Field Level 2.0: 
+----  Field Papers Number 5203:
+----  All time max citation paper: Individual differences in working memory and reading, 1980, (2421.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1966|4.0|4.0|Physiology & Behavior|Individual differences in reactivity to androgen in male rats
+1968|3.0|2.0|Educational Technology Research and Development|Aptitudes and Instructional Media.
+1969|19.0|1.0|Harvard Educational Review|How Much Can We Boost IQ and Scholastic Achievement?.
+1970|13.0|1.0|Journal of Experimental Child Psychology|Visual alertness in neonates as evoked by maternal care
+1971|6.0|1.0|Journal of Applied Psychology|Job Content and Context Factors Related to Satisfaction for Different Occupational Levels.
+1972|13.0|0.0|Psychometrika|Relations Between Multidimensional Scaling and Three-Mode Factor Analysis.
+1973|18.0|1.0|Psychophysiology|Change in Stimulus Conditions and the Orienting Response
+1974|7.0|1.0|Journal of Personality and Social Psychology|Sex, Personality, and Physiological Variables in the Communication of Emotion via Facial Expression.
+1975|48.0|4.0|Cognitive Psychology|What Does it Mean to be High Verbal?.
+1976|6.0|2.0|Psychology in the Schools|An Examination of Some Bases of Teacher Satisfaction with School Psychological Services.
+1977|27.0|4.0|Monographs of The Society for Research in Child Development|Transitions in early mental development
+1978|34.0|6.0|Psychophysiology|CoronaryProne Behavior Pattern and Cardiovascular Response
+1979|47.0|3.0|Child Development|Individual Differences in Infant-Mother Attachment at Twelve and Eighteen Months: Stability and Change in Families under Stress.
+1980|123.0|2.0|Reading Research Quarterly|Toward an Interactive-Compensatory Model of Individual Differences in the Development of Reading Fluency.
+1981|74.0|6.0|Psychological Bulletin|Memory Span: Sources of Individual and Developmental Differences.
+1982|27.0|3.0|Psychophysiology|Parental Hypertension and Cardiovascular Response to Cognitive and Isometric Challenge
+1983|88.0|4.0|Child Development|The Louisville Twin Study: developmental synchronies in behavior.
+1984|83.0|5.5|Behavioral and Brain Sciences|Toward a triarchic theory of human intelligence
+1985|32.0|4.0|Behavioral and Brain Sciences|The nature of the blackwhite difference on various psychometric tests: Spearman's hypothesis
+1986|45.0|5.0|Child Development|Continuity in Mental Development from Infancy.
+1987|14.0|2.0|Child Development|A Developmental Approach to Reading Disability: Accuracy and Speed Criteria of Normal and Deficient Reading Skill.
+1988|43.0|4.0|Child Development|Attachment in Late Adolescence: Working Models, Affect Regulation, and Representations of Self and Others.
+1989|51.0|3.0|Child Development|Self development and self-conscious emotions
+1990|49.0|3.5|Psychological Review|The Information-Loss Model: A Mathematical Theory of Age-Related Cognitive Slowing.
+1991|66.0|5.0|Child Development|Young Children's Understanding of Other People's Feelings and Beliefs: Individual Differences and Their Antecedents
+1992|132.0|6.0|Psychological Review|A Capacity Theory of Comprehension: Individual Differences in Working Memory.
+1993|67.0|4.0|Psychological Review|The Role of Deliberate Practice in the Acquisition of Expert Performance.
+1994|60.0|5.5|Ethology and Sociobiology|Adaptive genetic variation and human evolutionary psychology
+1995|90.0|6.0|Psychological Review|A Cognitive-Affective System Theory of Personality: Reconceptualizing Situations, Dispositions, Dynamics, and Invariance in Personality Structure.
+1996|54.0|4.0|Child Development|The company they keep: friendships and their developmental significance.
+1997|39.0|3.0|Developmental Psychology|Changing Relations between Phonological Processing Abilities and Word-Level Reading as Children Develop from Beginning to Skilled Readers: A 5-Year Longitudinal Study.
+1998|22.0|5.0|Child Development|Individual Differences in Emotionality in Infancy
+1999|65.0|6.0|American Psychologist|Adolescent storm and stress, reconsidered.
+2000|112.0|8.0|Organization Science|Prior Knowledge and the Discovery of Entrepreneurial Opportunities
+2001|132.0|7.5|Child Development|Individual Differences in Inhibitory Control and Children's Theory of Mind.
+2002|102.0|10.0|Intelligence|A latent variable analysis of working memory capacity, short-term memory capacity, processing speed, and general fluid intelligence
+2003|126.0|11.0|Physiology & Behavior|Variations in maternal care in the rat as a mediating influence for the effects of environment on development
+2004|131.0|10.0|Journal of Autism and Developmental Disorders|The empathy quotient: an investigation of adults with Asperger syndrome or high functioning autism, and normal sex differences.
+2005|139.0|10.0|Annual Review of Psychology|Personality and the prediction of consequential outcomes.
+2006|290.0|8.0|Journal of Autism and Developmental Disorders|The weak coherence account: Detail-focused cognitive style in autism spectrum disorders
+2007|406.0|11.0|Biological Reviews|Integrating animal temperament within ecology and evolution
+2008|192.0|9.0|Journal of Experimental Psychology: General|Individual Differences in Executive Functions Are Almost Entirely Genetic in Origin.
+2009|200.0|10.0|Neuropsychopharmacology|Adult attachment predicts maternal brain and oxytocin response to infant cues
+2010|288.0|9.0|Multivariate Behavioral Research|Multilevel Modeling of Individual and Group Level Mediated Effects

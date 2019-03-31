@@ -1,0 +1,60 @@
+----  Field Name Obstetrics: 
+----  Field Level 1.0: 
+----  Field Papers Number 7328:
+----  All time max citation paper: The Revised CONSORT Statement for Reporting Randomized Trials: Explanation and Elaboration, 2001, (1882.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1930|1.0|1.0|JAMA|THE HEART IN PREGNANCY
+1947|4.0|4.0|Journal of Dairy Science|Effects of High Vitamin A Intake on Milk and Fat Yields and on Vitamin A Constituents in Milk, Blood, and Livers of Dairy Cows1
+1948|1.0|1.0|The Journal of Agricultural Science|The growth of lambs before and after birth in relation to the level of nutrition
+1949|6.0|2.0|Journal of Dairy Science|Prepartum Milking. I. The Effect of Prepartum Milking on Some Blood Constituents of the Cow1
+1950|5.0|1.5|Journal of Dairy Science|Milk Fever (Parturient Paresis) in Dairy CowsA Review
+1955|0|0.0|British Journal of Obstetrics and Gynaecology|OESTROGEN THERAPY IN MISSED ABORTION AND LABOUR
+1956|1.0|0.5||An autoradiographic study on the uptake of radiosulphate in the rat embryo.
+1959|2.0|2.0|Journal of Dairy Research|The composition of sow's milk during lactation with particular reference to the relationship between protein and lactose.
+1960|5.0|5.0|Parasitology|Spring rise in faecal worm-egg counts of housed sheep, and its importance in nutritional experiments.
+1961|0|0.0|Australian & New Zealand Journal of Obstetrics & Gynaecology|Testicular Feminizing Syndrome A Case Report
+1964|2.0|1.5|The Journal of Agricultural Science|A study of the composition of Clun Forest ewe's milk
+1966|6.0|2.0|Acta Medica Scandinavica|Plasma phospholipid levels and distribution in human maternal blood and in blood from the umbilical cord.
+1967|2.0|2.0|The Journal of Agricultural Science|Plasma lipids of newborn and adult ruminants and of lambs from birth to weaning
+1968|12.0|1.0|Journal of Helminthology|Studies on the Worm Populations in the Alimentary Tract of Breeding Ewes
+1970|17.0|4.0|Journal of Dairy Science|Methionine Hydroxy Analog: Varying Levels for Lactating Cows
+1971|10.0|10.0|Nature|Postnatal malnutrition and brain cholinesterase in rats.
+1972|4.0|4.0|British Journal of Nutrition|Folate nutrition in the kid.
+1973|0|0.0||Successful Pregnancy in a Case of Congenital Adrenogenital Syndrome
+1975|10.0|2.0|Physiology & Behavior|Long-term effects of pregnancy and parturition upon maternal responsiveness in the rat
+1976|2.0|2.0|International Journal for Parasitology|Haemonchus contortus infection in ewes: Blastogenic responses of peripheral blood leukocytes to third stage larval antigen
+1977|10.0|2.0|Physiology & Behavior|Parturition: Its role in the long term retention of maternal behavior in the rat
+1978|2.0|1.0|Advances in Applied Probability|Optimal Control of Random Walks, Birth and Death Processes and Queues.
+1979|5.0|3.0|Physiology & Behavior|Effects of lambing induction on the sensitive period for the establishment of maternal behaviour in sheep
+1980|31.0|2.0|The Lancet|IS ROUTINE ANTENATAL CARE WORTH WHILE?
+1981|12.0|2.0|Child Development|Effects of Epidural Anesthesia on Newborns and Their Mothers.
+1982|13.0|1.0|The Lancet|COLLABORATIVE STUDY OF VERY-LOW-BIRTHWEIGHT INFANTS: TECHNIQUES OF PERINATAL CARE AND MORTALITY
+1983|6.0|1.0|Physiology & Behavior|Body weight and growth rates throughout the guinea pig pregnancy: Evidence for modulation by endogenous estrogens
+1984|32.0|1.5|Journal of Learning Disabilities|Reading Disability in an Epidemiological Context Incidence and Environmental Correlates
+1985|7.0|2.0|Physiology & Behavior|Placenta ingestion enhances opiate analgesia in rats.
+1986|16.0|4.0|American Journal of Obstetrics and Gynecology|Preterm labor: its diagnosis and management.
+1987|6.0|1.0|Acta Paediatrica|Atrial Natriuretic Peptide and Extracellular Volume Contraction after Birth
+1988|42.0|1.0|Brain Research|Intracranial dialysis measurement of oxytoxin, monoamine and uric acid release from the olfactory bulb and substantia nigra of sheep during parturition, suckling, separation from lambs and eating
+1989|64.0|3.5|American Journal of Obstetrics and Gynecology|Infection and labor. IV. Cachectin-tumor necrosis factor in the amniotic fluid of women with intra-amniotic infection and preterm labor
+1990|27.0|3.0|American Journal of Obstetrics and Gynecology|Detection of platelet-activating factor in amniotic fluid of complicated pregnancies
+1991|38.0|5.0|American Journal of Obstetrics and Gynecology|Neutrophil attractant/activating peptide-1 / interleukin-8 in term and preterm parturition
+1992|31.0|3.0|American Journal of Obstetrics and Gynecology|Tumor necrosis factor in preterm and term labor
+1993|38.0|3.0|American Journal of Obstetrics and Gynecology|The diagnostic and prognostic value of amniotic fluid white blood cell count, glucose, interleukin-6, and Gram stain in patients with preterm labor and intact membranes
+1994|23.0|4.5|JAMA|Obstetricians' prior malpractice experience and patients' satisfaction with care.
+1995|31.0|2.0|The New England Journal of Medicine|Timing of sexual intercourse in relation to ovulation : effects on the probability of conception, survival of the pregnancy, and sex of the baby
+1996|17.0|5.0|American Journal of Obstetrics and Gynecology|Nitric oxide synthase activity in the gravid rat uterus decreases a day before the onset of parturition
+1997|35.0|3.0|Anesthesia & Analgesia|Determination of the dose-response relationship for intrathecal sufentanil in laboring patients.
+1998|73.0|3.0|Journal of Neuroendocrinology|Dendritic release of vasopressin and oxytocin.
+1999|52.0|4.0|Archives of General Psychiatry|Obstetric Complications and the Risk of Schizophrenia: A Longitudinal Study of a National Birth Cohort
+2000|42.0|4.0|Archives of General Psychiatry|Major Mental Disorders and Criminal Violence in a Danish Birth Cohort
+2001|416.0|3.0|Annals of Internal Medicine|The Revised CONSORT Statement for Reporting Randomized Trials: Explanation and Elaboration
+2002|82.0|6.0|Archives of General Psychiatry|Evidence for Early-Childhood, Pan-Developmental Impairment Specific to Schizophreniform Disorder: Results From a Longitudinal Birth Cohort
+2003|71.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Rethinking the evolutionary theory of aging: transfers, not births, shape senescence in social species.
+2004|163.0|6.0|Chest|Use of Antithrombotic Agents During Pregnancy : The Seventh ACCP Conference on Antithrombotic and Thrombolytic Therapy
+2005|194.0|7.0|Reproductive Biomedicine Online|Highly efficient vitrification method for cryopreservation of human oocytes
+2006|106.0|6.0|American Journal of Obstetrics and Gynecology|Placental mesenchymal stem cells as potential autologous graft for pre- and perinatal neuroregeneration
+2007|86.0|7.0|PLOS Biology|The foxa2 Gene Controls the Birth and Spontaneous Degeneration of Dopamine Neurons in Old Age
+2008|93.0|6.0|Obstetrics & Gynecology|Rates of Human Papillomavirus Vaccination, Attitudes About Vaccination, and Human Papillomavirus Prevalence in Young Women
+2009|331.0|7.0|Nature Genetics|Genome-wide association analysis of metabolic traits in a birth cohort from a founder population
+2010|164.0|7.0|BMC Public Health|Male fetal loss in the U.S. following the terrorist attacks of September 11, 2001

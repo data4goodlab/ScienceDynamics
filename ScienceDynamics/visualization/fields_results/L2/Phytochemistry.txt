@@ -1,0 +1,46 @@
+----  Field Name Phytochemistry: 
+----  Field Level 2.0: 
+----  Field Papers Number 6038:
+----  All time max citation paper: Antioxidant activity applying an improved ABTS radical cation decolorization assay, 1999, (3718.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|0|0.0|Journal of Phytopathology|Biochemical studies on Cochliobolus miyabeanus. IV. Fungicidal action of polyphenols and the role of polyphenoloxidase of the fungus.
+1970|7.0|3.0|Phytochemistry|The biosynthesis of polyphenols in tissues with low phenylalanine ammonia lyase activity
+1973|2.0|1.0|Phytochemistry|Polyphenols des feuilles de cotonniers et influence sur leur composition d'un choc hydrique ou nutritionnel
+1974|3.0|2.5|Journal of The Institute of Brewing|THE SEPARATION AND IDENTIFICATION OF A DIMER OF CATECHIN OCCURRING IN BEER
+1975|7.0|3.0|Phytochemistry|Hydrogenation as an approach to study of reactions of oxidizing polyphenols with plant proteins
+1976|16.0|16.0|Phytochemistry|Photocontrol of chlorogenic acid biosynthesis in potato tuber discs
+1977|12.0|7.5|Phytochemistry|Modification of proteins during the oxidation of leaf phenols: Reaction of potato virus X with chlorogenoquinone
+1978|21.0|8.0|Life Sciences|Chronic lead exposure in immature animals: neurochemical correlates
+1979|5.0|1.0|Environmental Research|The effects of organic and inorganic lead and mercury on neurotransmitter high-affinity transport and release mechanisms
+1980|5.0|3.5|Phytochemistry|Effet de diffrents polyphnols sur les mitochondries et les chloroplastes isols
+1981|11.0|8.0|Life Sciences|Dose-dependent and reversible effects of lead on rat dopaminergic system
+1982|15.0|2.0|Journal of Food Science|Effects of Dehulling on Phytic Acid, Polyphenols, and Enzyme Inhibitors of Dry Beans (Phaseolus vulgaris L.)
+1983|7.0|6.0|Life Sciences|Antihypertensive effects of 1-hexadecyl-2-acetyl-sn-glycero-3-phosphocholine on on plasma renin activity and catecholamine responses in spontaneously hypertensive rats
+1984|12.0|2.5|Annals of Neurology|Assessment of dopamine receptor densities in the human brain with carbon11labeled Nmethylspiperone
+1985|32.0|5.0|Phytochemistry|Plant polyphenolssecondary metabolism and chemical defence: Some observations
+1986|9.0|3.0|Movement Disorders|Brain energy metabolism and dopaminergic function in Huntington's disease measured in vivo using positron emission tomography.
+1987|34.0|1.5|Life Sciences|6-Hydroxydopamine-induced degeneration of nigral dopamine neurons: Differential effect on nigral and striatal D-1 dopamine receptors
+1988|59.0|4.0|Phytochemistry|The antioxidants of higher plants
+1989|28.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Distinct presynaptic control of dopamine release in striosomal and matrix areas of the cat caudate nucleus
+1990|63.0|6.0|JAMA|Allelic association of human dopamine D2 receptor gene in alcoholism.
+1991|37.0|8.5|JAMA|No association between an allele at the D sub 2 dopamine receptor gene (DRD2) and alcoholism
+1992|22.0|2.0|Plant and Soil|Effects of chemical composition on nitrogen mineralization from green manures of seven tropical leguminous trees.
+1993|6.0|2.5|Cancer Letters|Inhibitory effects of tea extracts and ()-epigallocatechin gallate on DNA synthesis and proliferation of hepatoma and erythroleukemia cells
+1994|14.0|2.0|Food Chemistry|Polymeric grape seed tannins prevent plasma cholesterol changes in high-cholesterol-fed rats
+1995|47.0|5.0|Agroforestry Systems|Contribution of agroforestry trees to nutrient requirements of intercropped plants.
+1996|26.0|3.0|Atherosclerosis|Dietary non-tocopherol antioxidants present in extra virgin olive oil increase the resistance of low density lipoproteins to oxidation in rabbits
+1997|75.0|8.0|Clinical Biochemistry|Resveratrol: A molecule whose time has come? And gone?
+1998|51.0|6.0|Biochemical and Biophysical Research Communications|Free Radical-Scavenging Properties of Olive Oil Polyphenols
+1999|78.0|5.0|Free Radical Biology and Medicine|Antioxidant activity applying an improved ABTS radical cation decolorization assay
+2000|78.0|10.0|Journal of Cellular Biochemistry|Potent inhibitory action of red wine polyphenols on human breast cancer cells
+2001|98.0|8.5|Proceedings of the National Academy of Sciences of the United States of America|Inhibition of prostate carcinogenesis in TRAMP mice by oral infusion of green tea polyphenols
+2002|152.0|8.0|Journal of Nutritional Biochemistry|Flavonoid antioxidants: chemistry, metabolism and structure-activity relationships
+2003|106.0|10.0|Annual Review of Nutrition|The health benefits of wine.
+2004|101.0|10.0|European Journal of Pharmacology|Vascular protection by dietary polyphenols.
+2005|156.0|11.0|International Journal of Antimicrobial Agents|Antimicrobial activity of flavonoids
+2006|132.0|12.0|Chemical Biology & Drug Design|Inhibition of Amyloid Fibril Formation by Polyphenols: Structural Similarity and Aromatic Interactions as a Common Inhibition Mechanism
+2007|392.0|11.0|Critical Reviews in Food Science and Nutrition|Dietary Polyphenols and the Prevention of Diseases
+2008|172.0|14.0|Archives of Biochemistry and Biophysics|Are polyphenols antioxidants or pro-oxidants? What do we learn from cell culture and in vivo studies?
+2009|308.0|13.0|Nature Reviews Cancer|Cancer prevention by tea: animal studies, molecular mechanisms and human relevance
+2010|220.0|11.0|Archives of Dermatological Research|Skin photoprotection by natural polyphenols: anti-inflammatory, antioxidant and DNA repair mechanisms.

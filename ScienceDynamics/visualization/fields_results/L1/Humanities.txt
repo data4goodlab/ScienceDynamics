@@ -1,0 +1,55 @@
+----  Field Name Humanities: 
+----  Field Level 1.0: 
+----  Field Papers Number 7704:
+----  All time max citation paper: Typing Late Prehistoric Cows and BullsOsteology and Genetics of Cattle at the Eketorp Ringfort on the land Island in Sweden, 2011, (1817.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1952|0|0.0|Americas|A bio-bibliography of Franciscan authors in colonial Central America.
+1961|1.0|0.5|Lingua|The nature and use of proto-languages
+1963|44.0|23.0|Journal of Verbal Learning and Verbal Behavior|Implications of short-term memory for a general theory of memory
+1965|0|0.0|Agricultural Meteorology|The relationship between the macro- and microclimate
+1966|2.0|2.0|Journal of Verbal Learning and Verbal Behavior|Stimulus pronunciability in aural paired-associate learning
+1967|5.0|1.0|Journal of Verbal Learning and Verbal Behavior|Short-term memory for words with a perceptual-motor interpolated activity,
+1968|3.0|2.0|Journal of Verbal Learning and Verbal Behavior|Grammatical and associative constraints in sentence retention
+1969|4.0|0.0|Journal of Verbal Learning and Verbal Behavior|The Recall of Verbal Material Accompanying Semantically Well-Integrated and Semantically Poorly-Integrated Sentences.
+1970|31.0|4.0|Journal of Verbal Learning and Verbal Behavior|The situation with respect to the spacing of repetitions and memory
+1971|4.0|0.0|Journal of Verbal Learning and Verbal Behavior|Independence of A-B and A-C associations in retroaction
+1972|6.0|3.0|Environmental Research|Patterns of urban heat-wave deaths and implications for prevention: Data from New York and St. Louis during July, 1966
+1973|24.0|6.0|Journal of Verbal Learning and Verbal Behavior|Recall and recognition as a function of primary rehearsal
+1974|19.0|3.0|Social Indicators Research|Developing measures of perceived life quality: Results from several national surveys
+1975|12.0|4.0|Environmental Research|Toxicity of polybrominated biphenyls (Firemaster BP-6) in rodents
+1976|4.0|1.0|Social Indicators Research|The validity of measures of self-reported well-being
+1977|1.0|1.0|Art Psychotherapy|The art of psychotics
+1978|5.0|1.5|Journal of Verbal Learning and Verbal Behavior|Recognition confusions among quantifiers
+1979|13.0|2.0|Social Indicators Research|The Structure of Subjective Well-Being in Nine Western Societies
+1980|26.0|0.0|Social Indicators Research|Measures of self-reported well-being: Their affective, cognitive, and other components
+1981|9.0|0.5|Journal of International Economics|Determinants of the structure of U.S. foreign trade, 19581976
+1982|12.0|1.0|Mathematics and Computers in Simulation|The inverse problem for compartmental systems
+1983|17.0|1.0|Journal of Anthropological Archaeology|Energy source, protein metabolism, and hunter-gatherer subsistence strategies
+1984|4.0|0.0|Journal of Verbal Learning and Verbal Behavior|Cognitive load and maintenance rehearsal
+1985|16.0|2.0|Social Indicators Research|Modeling the psychological determinants of life quality
+1986|20.0|1.0|Journal of Parallel and Distributed Computing|Analysis of multiple bus interconnection networks
+1987|11.0|0.0|Journal of Parallel and Distributed Computing|Vision algorithms for hypercube machines
+1988|17.0|1.0|Computers & Mathematics With Applications|A survey of the theory of hypercube graphs
+1989|28.0|1.0|Cognitive Development|Young children's comprehension of modal expressions
+1990|30.0|0.0|Journal of Parallel and Distributed Computing|Intensive hypercube communication. Prearranged communication in link-bound machines
+1991|33.0|1.0|Journal of Computer and System Sciences|Average case completeness
+1992|19.0|1.0|Journal of International Economics|Internalization : An event study test
+1993|9.0|0.0|Journal of Pharmaceutical Sciences|Blood flow measurements in skin and underlying tissues by microsphere method: Application to dermal pharmacokinetics of polar nonelectrolytes
+1994|18.0|1.0|Addictive Behaviors|Reliability of the fagerstrom tolerance questionnaire and the fagerstrom test for nicotine dependence
+1995|50.0|0.0|Multimedia Tools and Applications|Production model based digital video segmentation
+1996|57.0|0.0|The Journal of Allergy and Clinical Immunology|Leukotriene antagonists and synthesis inhibitors: New directions in asthma therapy
+1997|24.0|1.0|Multimedia Systems|An optimal bandwidth allocation strategy for the delivery of compressed prerecorded video
+1998|17.0|0.0|Instructional Science|Contextual Differences in Student Motivation and Self-Regulated Learning in Mathematics, English, and Social Studies Classrooms.
+1999|69.0|0.0|international conference on robotics and automation|MINERVA: a second-generation museum tour-guide robot
+2000|48.0|0.0|IEEE Personal Communications|System support for mobile, adaptive applications
+2001|31.0|1.0|Journal of Research in Science Teaching|Promoting Understanding of Chemical Representations: Students' Use of a Visualization Tool in the Classroom.
+2002|167.0|1.0|very large data bases|TIMBER: A native XML database
+2003|85.0|1.0|The Journal of Allergy and Clinical Immunology|Roles of cysteinyl leukotrienes in airway inflammation, smooth muscle function, and remodeling
+2004|69.0|1.0|Hastings Center Report|Enough: The Failure of the Living Will
+2005|65.0|1.0|Journal of Geographical Systems|Spatial process and data models: Toward integration of agent-based models and GIS
+2006|138.0|1.0|designing interactive systems|Staying open to interpretation: engaging multiple meanings in design and evaluation
+2007|78.0|1.0||Tesis de doctorado
+2008|72.0|1.0|Journal of Research in Science Teaching|Standardized test outcomes for students engaged in inquirybased science curricula in the context of urban reform
+2009|126.0|1.0|Journal of Research in Science Teaching|Developing a Learning Progression for Scientific Modeling: Making Scientific Modeling Accessible and Meaningful for Learners.
+2010|143.0|1.0|computer vision and pattern recognition|Learning a hierarchy of discriminative space-time neighborhood features for human action recognition

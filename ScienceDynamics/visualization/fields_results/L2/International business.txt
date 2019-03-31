@@ -1,0 +1,50 @@
+----  Field Name International business: 
+----  Field Level 2.0: 
+----  Field Papers Number 5079:
+----  All time max citation paper: Three-dimensional crustal structure of the southern Sierra Nevada from seismic fan profiles and gravity modeling, 1996, (2279.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1942|1.0|0.5|Review of Educational Research|Tabulating and Test-Scoring Machines: Applications of International Business Machines to Educational Research
+1948|1.0|1.0|Journal of Dairy Science|The Heritability of Official Type Ratings and the Correlation between Type Ratings and ButterFat Production of Ayrshire Cows1
+1964|16.0|9.0|Journal of Geophysical Research|Crustal structure from pacific basin to central Nevada
+1966|0|0.0|Business Horizons|What's new in international business?
+1970|3.0|3.0|Journal of Geophysical Research|Geopotential coefficient recovery from very long arcs of resonant orbits
+1972|1.0|1.0|Regional and Urban Economics|The gravity hypothesis and transportation cost minimization
+1973|1.0|0.5|Transportation|An analysis of gravity model distance exponents
+1974|1.0|0.5|Transportation Research|A three-dimensional furness procedure for calibrating gravity models
+1975|11.0|4.0|Journal of Geophysical Research|Evidence for highdensity crust and mantle beneath the Chile Trench due to the descending lithosphere
+1976|11.0|2.5|Transportation Research|Derivation and analysis of some models for combining trip distribution and assignment
+1977|33.0|11.0|Journal of Geophysical Research|The moment of inertia and isostasy of Mars
+1978|7.0|2.0|Journal of Geophysical Research|Gravity study of great impact
+1979|18.0|4.0|Journal of Geophysical Research|Gravity model improvement using Geos 3 (GEM 9 and 10)
+1980|6.0|4.0|Journal of Geophysical Research|Mariana Arc structure inferred from gravity and seismic data
+1981|16.0|2.0|Journal of Geophysical Research|Seasat altimeter observations of dynamic topography in the Gulf Stream region
+1982|31.0|1.0|Journal of Geophysical Research|The SEASAT altimeter mean sea surface model
+1983|31.0|1.0|Journal of Geophysical Research|A coupled ice-ocean model of upwelling in the marginal ice zone
+1984|10.0|2.5|Journal of Regional Science|NET MIGRATION ESTIMATION IN AN EXTENDED, MULTIREGIONAL GRAVITY MODEL*
+1985|17.0|5.0|Journal of Geophysical Research|On the accuracy of recent Goddard gravity models
+1986|15.0|4.0|Journal of International Business Studies|Modes of Foreign Entry: A Transaction Cost Analysis and Propositions
+1987|8.0|3.0|Journal of International Business Studies|Composition and CEO Duality in Boards of Directors: An International Perspective
+1988|47.0|4.0|Journal of Geophysical Research|A new gravitational model for the Earth from satellite tracking data: GEMT1
+1989|21.0|6.5|Journal of Geophysical Research|The 26 and 50day oscillations in the western Indian Ocean: Model results
+1990|45.0|3.0|Journal of Geophysical Research|Precise orbit computation for the Geosat Exact Repeat Mission
+1991|27.0|4.0|Journal of International Business Studies|Measuring Performance of International Joint Ventures
+1992|29.0|3.0|Journal of International Business Studies|Choice of Foreign Market Entry Mode: Impact of Ownership, Location and Internalization Factors
+1993|23.0|4.0|Journal of International Business Studies|On the Internationalization Process of Firms: A Critical Analysis
+1994|38.0|7.0|Journal of Geophysical Research|Gravity model development for TOPEX/POSEIDON: Joint gravity models 1 and 2
+1995|42.0|4.0|Journal of International Business Studies|Reappraising the Eclectic Paradigm in an Age of Alliance Capitalism
+1996|295.0|4.0|Geology|Three-dimensional crustal structure of the southern Sierra Nevada from seismic fan profiles and gravity modeling
+1997|28.0|5.0|Journal of International Business Studies|What Differences in the Cultural Backgrounds of Partners Are Detrimental for International Joint Ventures?
+1998|47.0|4.5|Journal of Geophysical Research|Precise orbit determination and gravity field improvement for the ERS satellites
+1999|123.0|4.0||One Money, One Market: Estimating the Effect of Common Currencies on Trade
+2000|62.0|3.0|Physics Letters B|Neutrino masses and mixings in non-factorizable geometry
+2001|69.0|3.5|Strategic Management Journal|The internationalization and performance of SMEs
+2002|80.0|5.0|Journal of High Energy Physics|Precision Measurements and Fermion Geography in the Randall-Sundrum Model Revisited
+2003|445.0|4.0|Journal of International Business Studies|Knowledge of the Firm and the Evolutionary Theory of the Multinational Corporation
+2004|100.0|4.0|Journal of High Energy Physics|NLO-QCD corrections to e+e?? hadrons in models of TeV-scale gravity
+2005|462.0|5.0|Journal of International Business Studies|Toward a theory of international new ventures
+2006|135.0|6.0|Asia Pacific Journal of Management|Dragon multinationals: New players in 21 st century globalization
+2007|231.0|5.0|Journal of International Business Studies|The determinants of Chinese outward foreign direct investment
+2008|350.0|5.0|Journal of International Business Studies|An institution-based view of international business strategy: a focus on emerging economies
+2009|559.0|5.0|Journal of International Business Studies|Location and the Multinational Enterprise: A Neglected Factor?
+2010|334.0|5.0|Journal of International Business Studies|From the Editors: Common method variance in international business research

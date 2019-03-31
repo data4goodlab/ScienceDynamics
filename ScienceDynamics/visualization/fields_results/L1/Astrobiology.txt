@@ -1,0 +1,65 @@
+----  Field Name Astrobiology: 
+----  Field Level 1.0: 
+----  Field Papers Number 11095:
+----  All time max citation paper: Effects of Separate and Concomitant TLR-2 and TLR-4 Activation in Peripheral Blood Mononuclear Cells of Newborn and Adult Horses, 2013, (1420.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1948|0|0.0|Journal of The American Pharmaceutical Association|A study of phosphorus uptake in the rat tooth by radioactive tracer techniques
+1949|3.0|2.0|JAMA Internal Medicine|Radioactive isotopes in the study of peripheral vascular disease. I. Derivation of a circulatory index
+1950|0|0.0|Laryngoscope|Blood dyscrasia in otolaryngology
+1951|8.0|8.0|Nature|Labelling of Proteins with Iodine-131, Sulphur-35 and Phosphorus-32
+1952|1.0|1.0|Cellular and Molecular Life Sciences|DISTRIBUTION OF RADIOPHOSPHORUS IN THE LONG BONES OF ADULT RABBITS
+1955|4.0|4.0|Experimental Cell Research|Desoxypentose nucleic acid synthesis during microsporogenesis in Tradescantia
+1957|3.0|3.0|Archives of Ophthalmology|FUNDAMENTAL LIMITATIONS OF RADIOPHOSPHORUS COUNTING METHODS USED FOR DETECTION OF INTRAOCULAR NEOPLASM
+1958|6.0|6.0|Journal of Atmospheric and Solar-Terrestrial Physics|On the production of radioisotopes in the atmosphere by cosmic radiation and their application to meteorology
+1960|1.0|1.0|Journal of Cellular and Comparative Physiology|Leakage of phosphate compounds from ultravioletirradiated yeast cells
+1961|0|0.0|Acta Biotheoretica|After the origin of life
+1962|6.0|4.0|Geochimica et Cosmochimica Acta|THE BERYLLIUM CONTENT OF SOME METEORITES
+1963|9.0|4.0|Annals of the New York Academy of Sciences|STUDIES IN EXPERIMENTAL ORGANIC COSMOCHEMISTRY
+1964|18.0|7.0|Geochimica et Cosmochimica Acta|The determination of rubidium and caesium in stony meteorites by neutron activation analysis and by mass spectrometry
+1965|78.0|4.0|Journal of Molecular Biology|A two-dimensional fractionation procedure for radioactive nucleotides.
+1966|14.0|2.0|Journal of Geophysical Research|Models for the atmosphere of Mars based on the Mariner 4 Occultation Experiment
+1967|42.0|3.0|Geochimica et Cosmochimica Acta|Petrology of eucrites, howardites and mesosiderites
+1968|40.0|9.0|Geochimica et Cosmochimica Acta|Origin of organic matter in early solar system. I - Hydrocarbons.
+1969|26.0|6.0|Geochimica et Cosmochimica Acta|Aluminum-26 in meteoritesVI. Achondrites
+1970|26.0|5.0|Journal of Geophysical Research|Petrology of the lunar soil and geophysical implications.
+1971|31.0|6.0|Journal of Geophysical Research|Mariner 6 and 7 Ultraviolet Spectrometer Experiment: Upper atmosphere data
+1972|54.0|6.0|Icarus|Investigation of the Martian environment by infrared spectroscopy on Mariner 9
+1973|41.0|3.0|Journal of Geophysical Research|Atmospheric and surface properties of Mars obtained by infrared spectroscopy on Mariner 9
+1974|36.0|4.0|Journal of Geophysical Research|The formation of goethite and hydrated clay minerals on Mars
+1975|28.0|2.0|Journal of Geophysical Research|Martian topography derived from occultation, radar, spectral, and optical measurements
+1976|37.0|5.0|Icarus|Martian volatiles - Their degassing history and geochemical fate
+1977|73.0|6.0|Journal of Geophysical Research|Thermal and albedo mapping of Mars during the Viking primary mission
+1978|36.0|4.5|Geochimica et Cosmochimica Acta|Further studies of trace elements in C3 chondrites
+1979|78.0|4.0|Journal of Geophysical Research|Properties and effects of dust particles suspended in the Martian atmosphere
+1980|72.0|5.0|Earth and Planetary Science Letters|Sm-Nd isotopic evolution of chondrites
+1981|23.0|4.0|Earth and Planetary Science Letters|The interstellar dust as a precursor of Ca, Al-rich inclusions in carbonaceous chondrites
+1982|72.0|3.0|Geochimica et Cosmochimica Acta|Solar-system abundances of the elements
+1983|23.0|4.0|Geochimica et Cosmochimica Acta|Petrogenesis of the Elephant Moraine A79001 meteorite Multiple magma pulses on the shergottite parent body
+1984|43.0|5.0|Earth and Planetary Science Letters|The case for a martian origin of the shergottites: nitrogen and noble gases in EETA 79001
+1985|32.0|3.0|Behavioral Ecology and Sociobiology|Parental energy expenditure: a proximate cause of helper recruitment in the pied kingfisher ( Ceryle rudis )
+1986|42.0|6.0|Biochemical and Biophysical Research Communications|Nerve growth factor mRNA in brain: localization by in situ hybridization
+1987|41.0|3.5|Icarus|The case for a wet, warm climate on early Mars
+1988|49.0|3.0|Genetics|Gene mapping with recombinant inbreds in maize
+1989|47.0|4.0|Analytical Biochemistry|The generation of radiolabeled DNA and RNA probes with polymerase chain reaction
+1990|42.0|4.0|Biochemical and Biophysical Research Communications|Identification of type I iodothyronine 5-deiodinase as a selenoenzyme
+1991|61.0|3.0|Geochimica et Cosmochimica Acta|Negative thermal ion mass spectrometry of osmium, rhenium and iridium
+1992|41.0|5.0|Journal of Geophysical Research|Impact craters and Venus resurfacing history
+1993|38.0|5.0|Reviews of Geophysics|Gas hydratesgeological perspective and global change
+1994|89.0|3.0||What we have learned about Mars from SNC meteorites
+1995|33.0|4.0|Metabolism-clinical and Experimental|Limitations in the assessment of dietary energy intake by self-report
+1996|30.0|3.0|Journal of The American Dietetic Association|Comparison of Multiple-Pass 24-Hour Recall Estimates of Energy Intake With Total Energy Expenditure Determined By the Doubly Labeled Water Method in Young Children
+1997|58.0|3.0|Geology|A blast of gas in the latest Paleocene: Simulating first-order effects of massive dissociation of oceanic methane hydrate
+1998|35.0|4.0|Nature|Surface-promoted replication and exponential amplification of DNA analogues
+1999|92.0|4.0|Annals of Epidemiology|Measurement Characteristics of the Womens Health Initiative Food Frequency Questionnaire
+2000|231.0|5.0|Nature|A marine microbial consortium apparently mediating anaerobic oxidationof methane
+2001|148.0|5.0|Proceedings of The Royal Society B: Biological Sciences|The small world inside large metabolic networks.
+2002|202.0|4.0|Nature|Questioning the evidence for Earth's oldest fossils.
+2003|123.0|6.0|Annual Review of Nutrition|ENERGETICS OF FREE-RANGING MAMMALS, REPTILES, AND BIRDS
+2004|147.0|5.0|Nature|Release of methane from a volcanic basin as a mechanism for initial Eocene global warming
+2005|181.0|5.0|Monthly Notices of the Royal Astronomical Society|The cosmological simulation code gadget2
+2006|243.0|5.0|Geophysical Research Letters|Coexistence of structure I and II gas hydrates in Lake Baikal suggesting gas sources from microbial and thermogenic origin
+2007|112.0|4.0|Journal of Geophysical Research|Compact Reconnaissance Imaging Spectrometer for Mars (CRISM) on Mars Reconnaissance Orbiter (MRO)
+2008|226.0|4.0|International Journal of Behavioral Nutrition and Physical Activity|A comparison of direct versus self-report measures for assessing physical activity in adults: a systematic review.
+2009|266.0|4.0|Nature|Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions
+2010|159.0|5.0|Journal of The American Dietetic Association|A Systematic Review of the Validity of Dietary Assessment Methods in Children when Compared with the Method of Doubly Labeled Water

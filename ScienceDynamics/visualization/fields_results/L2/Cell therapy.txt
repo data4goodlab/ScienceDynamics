@@ -1,0 +1,27 @@
+----  Field Name Cell therapy: 
+----  Field Level 2.0: 
+----  Field Papers Number 3354:
+----  All time max citation paper: Repair of Infarcted Myocardium by Autologous Intracoronary Mononuclear Bone Marrow Cell Transplantation in Humans, 2002, (1423.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1986|2.0|1.5|Journal of Neurology|Fresh cell therapy followed by fatal coma
+1989|11.0|3.5|Cancer Research|Low Deformability of Lymphokine-activated Killer Cells as a Possible Determinant of in Vivo Distribution
+1991|2.0|1.0|International Journal of Cancer|The systemic complement activation caused by interleukin2/lymphokineactivated killercell therapy of cancer causes minimal systemic neutrophil activation
+1992|21.0|13.0|Neuroscience & Biobehavioral Reviews|A novel approach to neural transplantation in Parkinson's disease: Use of polymer-encapsulated cell therapy
+1994|70.0|14.0|Cancer Research|Existent T-Cell and Antibody Immunity to HER-2/neu Protein in Patients with Breast Cancer
+1995|6.0|5.0|Cell Transplantation|Cell therapy with encapsulated xenogeneic tumor cells secreting beta-endorphin for treatment of peripheral pain.
+1996|56.0|1.5|The Prostate|Phase I clinical trial: T-cell therapy for prostate cancer using autologous dendritic cells pulsed with HLA-A0201-specific peptides from prostate-specific membrane antigen.
+1997|52.0|17.0|Current Opinion in Immunology|Prospects for adoptive T cell therapy
+1998|141.0|7.0|Nature Biotechnology|Engraftable human neural stem cells respond to development cues, replaceneurons, and express foreign genes
+1999|120.0|14.0|Experimental Neurology|In vitro expansion of a multipotent population of human neural progenitor cells.
+2000|133.0|27.0|Blood|Induction of cytotoxic T-lymphocyte responses in vivo after vaccinations with peptide-pulsed dendritic cells
+2001|245.0|13.5|Proceedings of the National Academy of Sciences of the United States of America|p63 identifies keratinocyte stem cells
+2002|705.0|14.0|Circulation|Repair of Infarcted Myocardium by Autologous Intracoronary Mononuclear Bone Marrow Cell Transplantation in Humans
+2003|250.0|11.0|Annual Review of Cell and Developmental Biology|Embryo-Derived Stem Cells: Of Mice and Men
+2004|391.0|12.0|Journal of the American College of Cardiology|Transplantation of progenitor cells and regeneration enhancement in acute myocardial infarction: Final one-year results of the TOPCARE-AMI Trial
+2005|267.0|12.0|Genes & Development|Embryonic stem cell differentiation: emergence of a new era in biology and medicine
+2006|383.0|9.0|Nature Biotechnology|Production of pancreatic hormone|[ndash]|expressing endocrine cells from human embryonic stem cells
+2007|669.0|10.0|Science|Treatment of Sickle Cell Anemia Mouse Model with iPS Cells Generated from Autologous Skin
+2008|566.0|13.0|Nature Biotechnology|Pancreatic endoderm derived from human embryonic stem cells generates glucose-responsive insulin-secreting cells in vivo
+2009|360.0|14.0|Nature|Disease-corrected haematopoietic progenitors from Fanconi anaemia induced pluripotent stem cells
+2010|259.0|12.0|Nature|Human melanoma-initiating cells express neural crest nerve growth factor receptor CD271

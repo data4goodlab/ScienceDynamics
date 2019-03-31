@@ -1,0 +1,59 @@
+----  Field Name General equilibrium theory: 
+----  Field Level 2.0: 
+----  Field Papers Number 17253:
+----  All time max citation paper: SOME MODELS FOR ESTIMATING TECHNICAL AND SCALE INEFFICIENCIES IN DATA ENVELOPMENT ANALYSIS, 1984, (4133.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1950|0|0.0|Journal of Chemical Physics|Intramolecular Reaction in Polycondensations. II. RingChain Equilibrium in Polydecamethylene Adipate
+1957|9.0|9.0|Journal of Chemical Physics|Metastable Transitions and CollisionInduced Dissociations in Mass Spectra
+1959|25.0|24.5|Journal of Chemical Physics|Statistical Mechanics of Rigid Spheres
+1960|34.0|19.0|Physics of Fluids|Irreversible Processes in Ionized Gases
+1961|12.0|9.0|Journal of Mathematical Physics|On the general theory of the approach to equilibrium. II. Interacting particles
+1962|18.0|18.0|Journal of Chemical Physics|Improved Rate Expression in the QuasiEquilibrium Theory of Mass Spectra
+1964|8.0|4.0|Physics of Fluids|Kinetic theory of the classical electron gas in a positive background. i - equilibrium theory.
+1965|56.0|12.0|Journal of Geophysical Research|Positive ion composition in the magnetoionosphere obtained from the OgoA satellite
+1966|3.0|1.5|The American Economic Review|Allocative efficiency vs. X-Efficiency
+1967|0|0.0|Annalen der Physik|Informationstheoretische Untersuchung der Superpositionsnherung
+1968|8.0|0.0|Geochimica et Cosmochimica Acta|Evaluation of irreversible reactions in geochemical processes involving minerals and aqueous solutionsI. Thermodynamic relations
+1969|15.0|1.0|Geochimica et Cosmochimica Acta|The origin of meteorites and the constrained equilibrium condensation theory
+1970|2.0|1.5|Public Choice|Revelation of preference for a public good with imperfect exclusion
+1971|15.0|2.0|Geochimica et Cosmochimica Acta|The constrained equilibrium theory: Sulphide phases in meteorites
+1972|3.0|0.0|Journal of Geophysical Research|Comparison of magnetosphere models with storm observations from Explorer 26
+1973|11.0|2.0|Econometrica|Temporary General Equilibrium in a Sequential Trading Model with Spot and Futures Transactions
+1974|8.0|1.0|Journal of Economic Theory|Resource allocation in a general equilibrium model of production under uncertainty
+1975|23.0|2.5|Physics of Fluids|Twodimensional turbulence in inviscid fluids or guiding center plasmas
+1976|13.0|2.0||A Theory of Optimal Capital Structure
+1977|16.0|2.0|Philosophical Transactions of the Royal Society A|Tidal Dissipation in the Oceans: Astronomical, Geophysical and Oceanographic Consequences
+1978|10.0|1.5|Journal of Mathematical Physics|Hydrodynamic fluctuation theories
+1979|33.0|2.0|Journal of International Economics|Increasing returns, monopolistic competition, and international trade
+1980|11.0|2.0|Combustion and Flame|Partial equilibrium in the reaction zone of methane--air diffusion flames
+1981|13.0|1.0||A Reexamination of Tax Distortions in General Equilibrium Models
+1982|22.0|3.0|Journal of Urban Economics|Nonlinear budget constraints and consumer demand: An application to public programs for residential housing
+1983|19.0|2.0|Combustion and Flame|A simple model for carbon monoxide in laminar and turbulent hydrocarbon diffusion flames
+1984|37.0|1.0|Journal of Chemical Physics|Excess electrons in simple fluids. I. General equilibrium theory for classical hard sphere solvents
+1985|32.0|2.0|The American Economic Review|General Equilibrium Computations of the Marginal Welfare Costs of Taxes in the United States
+1986|37.0|2.0|Journal of Political Economy|Increasing Returns and Long-run Growth
+1987|59.0|2.0|Applied Physics Letters|Role of experimental resolution in measurements of critical layer thickness for strained-layer epitaxy
+1988|22.0|2.0|Combustion and Flame|Asymptotic structure and extinction of methaneair diffusion flames
+1989|87.0|2.0|The Economic Journal|Competing Technologies, Increasing Returns, and Lock-In by Historical Events
+1990|76.0|2.0|Journal of Applied Physics|Numerical modeling of the filament-assisted diamond growth environment
+1991|30.0|1.0|Journal of Geophysical Research|The substorm current wedge and field-aligned currents in MHD simulations of magnetotail reconnection
+1992|65.0|1.0|Journal of Finance|Interest Rate Volatility and the Term Structure: A Two-Factor General Equilibrium Model
+1993|33.0|1.0|Surface Science|Equilibrium theory of the Stranski-Krastanov epitaxial morphology
+1994|49.0|2.0|The American Economic Review|Dynamics of the trade balance and the terms of trade: The J-curve?
+1995|94.0|2.0|Journal of Economic Perspectives|The Boundaries of Multinational Enterprises and the Theory of International Trade
+1996|53.0|2.0|World Bank Research Observer|Some lessons from the East Asian miracle
+1997|79.0|2.0|The Economic Journal|Quantifying the Uruguay Round
+1998|45.0|2.0|Journal of Comparative Economics|Do Firms in Transition Economies Have Soft Budget Constraints? A Reconsideration of Concepts and Evidence
+1999|152.0|3.0|Handbook of Labor Economics|Labor supply: A review of alternative approaches
+2000|193.0|2.0|American Political Science Review|Increasing returns, path dependence and the study of politics
+2001|67.0|3.0|World Bank Economic Review|Infrastructure, geographical disadvantage, transport costs, and trade
+2002|190.0|3.0||The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity
+2003|161.0|3.0|international world wide web conferences|Quality driven web services composition
+2004|164.0|3.0|Games and Economic Behavior|A theory of sequential reciprocity
+2005|143.0|3.0|Journal of International Economics|A simple model of firm heterogeneity, international trade, and wages
+2006|156.0|3.0|Economics Bulletin|Estimation of Zellner-Revankar Production Function Revisited
+2007|198.0|3.0|Human Reproduction|International estimates of infertility prevalence and treatment-seeking : potential need and demand for infertility medical care
+2008|222.0|3.0|Economics Bulletin|Are people Samaritans or Avengers?
+2009|311.0|3.0|Nature Materials|On the origin of the open-circuit voltage of polymer|[ndash]|fullerene solar cells
+2010|278.0|3.5|Ecological Economics|Ecosystem services: From eye-opening metaphor to complexity blinder

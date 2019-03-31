@@ -1,0 +1,53 @@
+----  Field Name Computer performance: 
+----  Field Level 2.0: 
+----  Field Papers Number 34103:
+----  All time max citation paper: The capacity of wireless networks, 2000, (3177.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1963|0|0.0|IEEE Transactions on Circuit Theory|The Role of Network Theory in Solid-State Electronics-Accomplishments and Future Challenges
+1964|0|0.0|Mathematics and Computers in Simulation|A study of high-speed analog-computer performance (the astrac I system performance)
+1965|1.0|1.0|Nuclear Instruments and Methods|The curved-crystal spectrometer at the university of Michigan
+1966|3.0|2.0|Proceedings of the IEEE|Noise in FM receivers with negative frequency feedback
+1967|24.0|17.5|Communications of The ACM|System performance evaluation: survey and appraisal
+1969|11.0|2.0|symposium on operating systems principles|Performance monitors for multi-programming systems
+1970|16.0|8.0|Communications of The ACM|The instrumentation of multics
+1971|5.0|3.0|symposium on operating systems principles|The dependence of computer system queues upon processing time distribution and central processor scheduling
+1972|13.0|2.0||Bounds on multiprocessing anomalies and related packing algorithms
+1973|9.0|0.0|IEEE Transactions on Reliability|Optimal Reliability Design of a System: A New Look
+1974|5.0|0.0|Communications of The ACM|An analytic model of the HASP execution task monitor
+1975|18.0|2.0|Proceedings of the IEEE|Automated analysis of the electrical activity of the human brain (EEG): A progress report
+1976|13.0|2.5|Acta Informatica|Fundamental Operational Laws of Computer System Performance
+1977|18.0|3.0|Communications of The ACM|Memory management and response time
+1978|24.0|1.0|The Journal of General Physiology|Kinetics and stoichiometry of Na-dependent Li transport in human red blood cells.
+1979|30.0|1.0|Solar Energy|A general design method for closed-loop solar energy systems
+1980|33.0|2.0|IEEE Transactions on Communications|Flow Control: A Comparative Survey
+1981|53.0|2.0|IEEE Transactions on Communications|Local-Area Subnetworks: A Performance Comparison
+1982|37.0|2.0|Communications of The ACM|Linearizer: a heuristic algorithm for queueing network models of computing systems
+1983|23.0|2.0|IEEE Transactions on Software Engineering|Optimization Algorithms for Distributed Queries
+1984|36.0|2.0|IEEE Computer|A Technique for High-Performance Data Compression
+1985|56.0|2.0|symposium on operating systems principles|A trace-driven analysis of the UNIX 4.2 BSD file system
+1986|35.0|3.0|Photosynthesis Research|Detection of rapid induction kinetics with a new type of high-frequency modulated chlorophyll fluorometer
+1987|65.0|1.0|IEEE Intelligent Systems|Validating Expert System Performance
+1988|108.0|2.0|programming language design and implementation|Software pipelining: an effective scheduling technique for VLIW machines
+1989|86.0|2.0|Journal of Lightwave Technology|Lightwave systems with optical amplifiers
+1990|96.0|2.0|IEEE Transactions on Knowledge and Data Engineering|Prototyping Bubba, a highly parallel database system
+1991|120.0|2.0||Performance analysis of k -ary n -cube interconnection networks
+1992|234.0|2.0|IEEE Journal of Solid-state Circuits|Low-power CMOS digital design
+1993|172.0|3.0|IEEE\/ACM Transactions on Networking|A generalized processor sharing approach to flow control in integrated services networks: the multiple node case
+1994|123.0|3.0|IEEE Computer|An introduction to disk drive modeling
+1995|136.0|2.0|IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems|Optimizing power using transformations
+1996|120.0|2.0|international symposium on microarchitecture|Trace cache: a low latency approach to high bandwidth instruction fetching
+1997|118.0|2.0|IEEE\/ACM Transactions on Networking|The performance of TCP/IP for networks with high bandwidth-delay products and random loss
+1998|115.0|2.0|international symposium on computer architecture|A study of branch prediction strategies
+1999|199.0|3.0|American Psychologist|The unbearable automaticity of being.
+2000|501.0|3.0|IEEE Transactions on Information Theory|The capacity of wireless networks
+2001|153.0|4.0|international conference on computer communications|A power controlled multiple access protocol for wireless packet networks
+2002|398.0|4.0|IEEE\/ACM Transactions on Networking|Mobility increases the capacity of ad hoc wireless networks
+2003|414.0|4.0|IEEE Transactions on Information Theory|On the achievable throughput of a multiantenna Gaussian broadcast channel
+2004|586.0|4.0|ACM Transactions on Information Systems|Evaluating collaborative filtering recommender systems
+2005|269.0|3.0|IEEE Wireless Communications|A cautionary perspective on cross-layer design
+2006|369.0|3.0|IEEE Journal on Selected Areas in Communications|On the optimality of multiantenna broadcast scheduling using zero-forcing beamforming
+2007|358.0|3.0|Computational Linguistics|Hierarchical Phrase-Based Translation
+2008|586.0|2.0|Nucleic Acids Research|The Jpred 3 secondary structure prediction server
+2009|150.0|2.0|IEEE Transactions on Signal Processing|Optimal Multiband Joint Detection for Spectrum Sensing in Cognitive Radio Networks
+2010|237.0|3.0|IEEE Journal on Selected Areas in Communications|Multi-Cell MIMO Cooperative Networks: A New Look at Interference

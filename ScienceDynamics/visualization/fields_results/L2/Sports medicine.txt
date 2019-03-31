@@ -1,0 +1,39 @@
+----  Field Name Sports medicine: 
+----  Field Level 2.0: 
+----  Field Papers Number 3758:
+----  All time max citation paper: Statistical methods for assessing measurement error (reliability) in variables relevant to sports medicine., 1998, (960.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|1.0|1.0|European Journal of Applied Physiology|Oxygen debt: Involvement of the Cori cycle
+1973|1.0|1.0|European Journal of Applied Physiology|Kinetics of oxygen uptake and recovery for supramaximal work of short duration
+1977|2.0|0.0|Annals of the New York Academy of Sciences|FREE FATTY ACID TURNOVER AND THE AVAILABILITY OF SUBSTRATES AS A LIMITING FACTOR IN PROLONGED EXERCISE
+1978|6.0|6.0||Validity of the relative percent concept for equating training intensity
+1979|3.0|3.0||Effect of long-term training and acute physical exercise on red cell 2,3-diphosphoglycerate
+1981|0|0.0||Biochemical Variability in a Team Sports Situation
+1982|0|0.0|Culture, Medicine and Psychiatry|On the meaning of sports: cross cultural observations of super stress
+1983|0|0.0|Journal of Adolescent Health|The physician's role in sports medicine
+1985|5.0|5.0|Human Ecology|Hunter-gatherer energetics and fertility: A reassessment of the !Kung San
+1987|4.0|2.0|Human Pathology|Cardiac pathology and sports medicine
+1988|10.0|0.0|Seminars in Nuclear Medicine|Basic principles of nuclear medicine techniques for detection and evaluation of trauma and sports medicine injuries
+1989|1.0|0.0|Archives of Physical Medicine and Rehabilitation|Musculoskeletal and soft tissue disorders
+1990|1.0|1.0|European Journal of Oral Sciences|Experimental sports drinks with minimal dental erosion effect.
+1991|1.0|0.5||Negative Effects of Alcohol on Physical Fitness and Athletic Performance.
+1992|24.0|0.0|Bone and Mineral|Perspectives: bone's mechanical usage windows
+1993|5.0|0.0|American Journal of Occupational Therapy|Work Evaluations: Critique of the State of the Art of Functional Assessment of Work
+1994|4.0|1.0|Pharmacology & Toxicology|Drug Analysis for Control Purposes in Forensic Toxicology, Workplace Testing, Sports Medicine and Related Areas
+1995|27.0|0.0|Arthritis & Rheumatism|Knee osteoarthritis in former runners, soccer players, weight lifters, and shooters
+1996|6.0|1.0|The Physician and Sportsmedicine|Diagnosis and Management of Exercise-Induced Asthma.
+1997|62.0|2.0|Nature|Maximal sustained energy budgets in humans and animals
+1998|46.0|2.0|Sports Medicine|Statistical methods for assessing measurement error (reliability) in variables relevant to sports medicine.
+1999|23.0|4.0|Medicine and Science in Sports and Exercise|Effects of erythropoietin administration in training athletes and possible indirect detection in doping control
+2000|26.0|4.0|Sports Medicine|Neuromuscular and hormonal factors associated with knee injuries in female athletes. Strategies for intervention.
+2001|40.0|5.5|Computer Vision and Image Understanding|Tracking and modeling people in video sequences
+2002|29.0|4.0|Sports Medicine|Anabolic steroids: a review for the clinician.
+2003|62.0|7.0|Arthroscopy|The disabled throwing shoulder: Spectrum of pathology part I: Pathoanatomy and biomechanics
+2004|61.0|6.0|Medicine and Science in Sports and Exercise|The impact of stretching on sports injury risk: a systematic review of the literature.
+2005|44.0|5.0|BMC Musculoskeletal Disorders|Assessing stability and change of four performance measures: a longitudinal study evaluating outcome following total hip and knee arthroplasty
+2006|81.0|12.0|American Journal of Sports Medicine|Understanding and Preventing Noncontact Anterior Cruciate Ligament Injuries: A Review of the Hunt Valley II Meeting, January 2005
+2007|516.0|11.0|Medicine and Science in Sports and Exercise|Physical activity and public health : Updated recommendation for adults from the American College of Sports Medicine and the American Heart Association
+2008|105.0|12.0|BMC Musculoskeletal Disorders|Obesity and osteoarthritis in knee, hip and/or hand: An epidemiological study in the general population with 10 years follow-up
+2009|365.0|16.0|Medicine and Science in Sports and Exercise|Progressive Statistics for Studies in Sports Medicine and Exercise Science
+2010|146.0|16.0|Clinical Orthopaedics and Related Research|Histological Features of Pseudotumor-like Tissues From Metal-on-Metal Hips

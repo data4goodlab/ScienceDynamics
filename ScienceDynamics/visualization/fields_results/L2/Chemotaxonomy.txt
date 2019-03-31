@@ -1,0 +1,64 @@
+----  Field Name Chemotaxonomy: 
+----  Field Level 2.0: 
+----  Field Papers Number 24217:
+----  All time max citation paper: Gastric Helicobacter infection induces iron deficiency in the INS-GAS mouse., 2012, (1958.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1937|1.0|0.5|JAMA Internal Medicine|Carbohydrate metabolism in epilepsy.
+1939|10.0|10.0|JAMA|RELATIONSHIP BETWEEN NICOTINIC ACID AND A CODEHYDROGENASE (COZYMASE): IN BLOOD OF PELLAGRINS AND NORMAL PERSONS
+1940|4.0|1.0|JAMA Pediatrics|THE DIABETIC CHILD: AN ANALYTIC STUDY OF HIS DEVELOPMENT
+1950|8.0|4.0|Journal of Nervous and Mental Disease|Effect of treatment and excretion of 17-ketosteroids in patients with mental disease.
+1951|4.0|4.0|Journal of Dairy Science|Experimental Alteration of the Sugar and Ketone Levels of the Blood of Ruminants in Relation to Ketosis1,2
+1952|0|0.0|JAMA Pediatrics|Factors determining effect of insulin on metabolism of glucose in ascorbic acid deficiency and scurvy in the monkey.
+1955|7.0|7.0|Australian Veterinary Journal|Ovine pregnancy toxaemia. 1. Tentative identification as a hypoglycaemic encephalopathy.
+1956|0|0.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|The periodicity of microfilariae V. Stimuli affecting the periodic migration of the microfilariae of Wuchereria bancrofti and of Loa loa in man
+1957|0|0.0|American Journal of Obstetrics and Gynecology|Carbohydrate metabolism in pregnancy: Observations on glucagon (hyperglycemic-glycogenolytic factor) in normal pregnancy and the puerperium
+1960|9.0|4.0|Biochimica et Biophysica Acta|Carbohydrate metabolism of mammary tissue III. Factors in the regulation of pathways of glucose catabolism in the mammary gland of the rat
+1963|0|0.0|The Journal of Pediatrics|Leucine-induced hypoglycemia: III. The blood glucose depressant action of leucine in normal individuals
+1964|0|0.0|Nature|Effect of Insulin on Accumulation of Radioactivity from Amino-acids by Isolated Intact Rat Diaphragm
+1965|33.0|14.0|Journal of Clinical Investigation|Abnormalities in carbohydrate tolerance associated with elevated plasma nonesterified fatty acids.
+1966|45.0|8.0|Journal of Clinical Investigation|Hormone-fuel interrelationships during fasting.
+1967|71.0|14.5|Advances in Insect Physiology|Lipid Metabolism and Function in Insects
+1968|24.0|10.0|Journal of Clinical Investigation|Elevated serum human growth hormone and decreased serum insulin in prediabetic males after intravenous tolbutamide and glucose
+1969|34.0|6.0|Journal of Clinical Investigation|Liver and kidney metabolism during prolonged starvation
+1970|70.0|4.0|Journal of Clinical Investigation|Studies of pancreatic alpha cell function in normal and diabetic subjects.
+1971|10.0|2.0|Journal of Clinical Investigation|Evidence for an effect of insulin on the peripheral utilization of ketone bodies in dogs
+1972|23.0|3.0|Phytochemistry|Chemosystematics of the lauraceae
+1973|23.0|5.0|Journal of Clinical Investigation|Glucagon Release Induced by Pancreatic Nerve Stimulation in the Dog
+1974|28.0|1.0|Journal of Clinical Investigation|Somatostatin-induced changes in insulin and glucagon secretion in normal and diabetic dogs.
+1975|26.0|1.5|Journal of Clinical Investigation|Effect of dexamethasone on insulin binding, glucose transport, and glucose oxidation of isolated rat adipocytes.
+1976|37.0|3.0|Journal of Clinical Investigation|The role of adrenergic mechanisms in the substrate and hormonal response to insulin-induced hypoglycemia in man.
+1977|46.0|3.0|Metabolism-clinical and Experimental|Laboratory animals exhibiting obesity and diabetes syndromes.
+1978|15.0|4.0|Phytochemistry|Coumarins in the Rutaceae
+1979|30.0|2.0|Physiology & Behavior|Differential effects of glucose and fructose infusions on insulin-induced feeding in rats
+1980|127.0|4.0|The Lancet|BREAST vs BOTTLE: ENDOCRINE RESPONSES ARE DIFFERENT WITH FORMULA FEEDING
+1981|38.0|2.0|Regulatory Peptides|The primary structure of porcine glicentin (proglucagon)
+1982|20.0|2.0|FEBS Letters|Modulation by insulin and glucagon of the activation of glycogenolysis by perivascular nerve stimulation in the perfused rat liver
+1983|26.0|3.0|Biochimica et Biophysica Acta|Insulin-stimulated translocation of glucose transporters in the isolated rat adipose cells: Characterization of subcellular fractions
+1984|42.0|2.0|Physiology & Behavior|Noradrenergic feeding elicited via the paraventricular nucleus is dependent upon circulating corticosterone
+1985|37.0|2.0|Peptides|Neuropeptide Y: Direct and indirect action on insulin secretion in the rat
+1986|22.0|2.0|Journal of Clinical Investigation|Assessment of insulin action in insulin-dependent diabetes mellitus using [6(14)C]glucose, [3(3)H]glucose, and [2(3)H]glucose. Differences in the apparent pattern of insulin resistance depending on the isotope used.
+1987|57.0|3.0|Neuroscience|Grafting genetically modified cells to the brain: Possibilities for the future
+1988|36.0|3.0|Journal of Cell Biology|A view of acidic intracellular compartments
+1989|35.0|3.0|Journal of Histochemistry and Cytochemistry|Detection of mRNA molecules coding for neuropeptide hormones of the pond snail Lymnaea stagnalis by radioactive and non-radioactive in situ hybridization: a model study for mRNA detection.
+1990|51.0|3.0|Journal of Cell Biology|Nerve sprouting in innervated adult skeletal muscle induced by exposure to elevated levels of insulin-like growth factors
+1991|64.0|2.0|The New England Journal of Medicine|Racial differences in the relation between blood pressure and insulin resistance
+1992|27.0|3.0|Organic Geochemistry|C 30 C 32 alkyl diols and unsaturated alcohols in microalgae of the class Eustigmatophyceae
+1993|49.0|3.0|The New England Journal of Medicine|Insulin resistance and insulin secretory dysfunction as precursors of non- insulin-dependent diabetes mellitus: Prospective studies of Pima Indians
+1994|36.0|3.0|European Journal of Clinical Investigation|Neuropeptide Y and energy balance: one way ahead for the treatment of obesity?
+1995|234.0|4.0|Journal of Experimental Medicine|Dendritic cells use macropinocytosis and the mannose receptor to concentrate macromolecules in the major histocompatibility complex class II compartment: downregulation by cytokines and bacterial products.
+1996|197.0|3.0|Peptides|Leptin enters the brain by a saturable system independent of insulin.
+1997|100.0|5.0|Journal of Clinical Investigation|Elevated circulating free fatty acid levels impair endothelium-dependent vasodilation.
+1998|185.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Phosphoinositide-3-OH kinase-dependent regulation of glycogen synthase kinase 3 and protein kinase B/AKT by the integrin-linked kinase
+1999|187.0|6.0|Annals of Internal Medicine|Pharmacologic Therapy for Type 2 Diabetes Mellitus
+2000|257.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|In vitro cultivation of human islets from expanded ductal tissue
+2001|422.0|8.0|Proceedings of the National Academy of Sciences of the United States of America|Proteolytic cleavage product of 30-kDa adipocyte complement-related protein increases fatty acid oxidation in muscle and causes weight loss in mice
+2002|420.0|8.0|Journal of Clinical Investigation|SREBPs: activators of the complete program of cholesterol and fatty acid synthesis in the liver
+2003|368.0|10.0|Hepatology|Nonalcoholic fatty liver, steatohepatitis, and the metabolic syndrome
+2004|515.0|10.0|The New England Journal of Medicine|Impaired mitochondrial activity in the insulin-resistant offspring of patients with type 2 diabetes.
+2005|310.0|10.0|Nature Medicine|Local and systemic insulin resistance resulting from hepatic activation of IKK-beta and NF-kappaB.
+2006|984.0|10.0|Nature|Resveratrol improves health and survival of mice on a high-calorie diet
+2007|493.0|11.0|Cell|Endocrine Regulation of Energy Metabolism by the Skeleton
+2008|552.0|13.0|The EMBO Journal|Fission and selective fusion govern mitochondrial segregation and elimination by autophagy
+2009|466.0|12.0|Cell Metabolism|A branched-chain amino acid-related metabolic signature that differentiates obese and lean humans and contributes to insulin resistance.
+2010|1355.0|13.0|PLOS ONE|Unacylated ghrelin rapidly modulates lipogenic and insulin signaling pathway gene expression in metabolically active tissues of GHSR deleted mice.

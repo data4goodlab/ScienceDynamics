@@ -1,0 +1,69 @@
+----  Field Name Ultrasonography: 
+----  Field Level 2.0: 
+----  Field Papers Number 46333:
+----  All time max citation paper: Guidelines for the ultrasound assessment of endothelial-dependent flow-mediated vasodilation of the brachial artery: a report of the International Brachial Artery Reactivity Task Force, 2002, (1854.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1938|6.0|6.0|JAMA Pediatrics|VITAMIN C IN HUMAN PREGNANCY AND LACTATION: I. STUDIES DURING PREGNANCY
+1949|0|0.0|Journal of Hygiene|An experimental study of haemolytic disease of the newborn due to isoimmunization of pregnancy.
+1950|4.0|1.0|American Heart Journal|The effect of posture on the cardiac cycle, postero-anterior cardiac diameters, and apparent stroke volume as studied by the electrokymograph
+1951|4.0|4.0|American Heart Journal|The effect of digitoxin on the apparent stroke volume, posteroanterior cardiac diameter, and the cardiac cycle in normal subjects as studied by the electrokymograph
+1952|2.0|1.5|The American Journal of Medicine|Slit-kymographic evidence that nitroglycerine decreases heart volume and stroke volume : While increasing the amplitude of ballistocardiographic waves
+1953|9.0|5.0|American Heart Journal|The characteristics of the right atrial pressure wave associated with right ventricular hypertrophy
+1954|0|0.0|British Journal of Obstetrics and Gynaecology|DEFLEXION ATTITUDES OF THE FOETUS IN UTERO WITH SPECIAL REFERENCE TO THE AETIOLOGY AND DIAGNOSIS OF FACE AND BROW PRESENTATION*
+1955|6.0|2.0|Journal of Clinical Investigation|HEMODYNAMIC CHANGES DURING THIOPENTAL ANESTHESIA IN HUMANS: CARDIAC OUTPUT, STROKE VOLUME, TOTAL PERIPHERAL RESISTANCE, AND INTRATHORACIC BLOOD VOLUME 12
+1956|0|0.0|Development|Growth and Function in the Foetal Liver
+1957|9.0|4.0|The New England Journal of Medicine|INTRAVENOUS INFUSION OF BONE MARROW IN PATIENTS RECEIVING RADIATION AND CHEMOTHERAPY
+1958|1.0|0.0|The Journal of Pediatrics|X-IRRADIATION EFFECTS ON THE HUMAN FETUS
+1959|2.0|2.0|American Heart Journal|Changes in cardiac output, stroke volume, and central venous pressure induced by atropine in man
+1960|19.0|2.0|Acta Physiologica Scandinavica|The Effect of Body Position on the Circulation at Rest and During Exercise, with Special Reference to the Influence on the Stroke Volume
+1961|8.0|2.0|American Heart Journal|Relationships between left ventricular ejection time, stroke volume, and heart rate in normal individuals and patients with cardiovascular disease
+1962|1.0|0.5|Acta Medica Scandinavica|Postural Circulatory Changes at Rest and during Exercise in Patients with Funnel Chest, with Special Reference to Factors Affecting the Stroke Volume
+1963|6.0|2.0|American Heart Journal|Fundamentals in vibrocardiography. Precordial accelerography and acceleration ballistocardiography
+1964|60.0|1.0|The New England Journal of Medicine|Virologic and Serologic Studies on Human Products of Conception after Maternal Rubella.
+1965|15.0|3.0|Circulation Research|Influence of Atrial Systole on Effective Ventricular Stroke Volume
+1966|11.0|0.0|The Journal of Pediatrics|In utero infection of the fetus by herpes simplex virus
+1967|10.0|2.0|JAMA|Hazards of Subclavian Vein Cannulation for Central Venous Pressure Monitoring
+1968|13.0|1.0|Engineering Fracture Mechanics|Fracture analysis by use of acoustic emission
+1969|10.0|1.0|American Journal of Anatomy|Uptake and storage of thorotrast by the rodent yolk sac placenta: An electron microscopic study
+1970|11.0|2.0|The Journal of Pediatrics|Growth of low-birth-weight infants
+1971|80.0|3.0|Advances in Cancer Research|Alpha-Fetoprotein in Ontogenesis and its Association with Malignant Tumors
+1972|35.0|1.0|Cancer Research|Synthesis of -Fetoprotein by Liver, Yolk Sac, and Gastrointestinal Tract of the Human Conceptus
+1973|13.0|2.0|Journal of Sound and Vibration|Effects of wall admittance changes on duct transmission and radiation of sound.
+1974|21.0|1.0|Journal of Cell Biology|A QUANTITATIVE STUDY OF SYNAPSES ON MOTOR NEURON DENDRITIC GROWTH CONES IN DEVELOPING MOUSE SPINAL CORD
+1975|23.0|2.5|Journal of Clinical Investigation|Wall stress and patterns of hypertrophy in the human left ventricle.
+1976|12.0|2.0|Annals of Human Genetics|Human enolase isozymes: electrophoretic and biochemical evidence for three loci.
+1977|26.0|2.0|Survey of Ophthalmology|Current approaches to the diagnosis and management of choroidal melanomas
+1978|23.0|3.0|The Lancet|PRENATAL DIAGNOSIS OF HOMOZYGOUS FAMILIAL HYPERCHOLESTEROLMIA: Expression of a Genetic Receptor Disease in Utero
+1979|44.0|2.0|The New England Journal of Medicine|Prenatal genetic diagnosis in 3000, amnio-centeses.
+1980|35.0|2.0|The Lancet|INDIVIDUALS TRANSPLACENTALLY EXPOSED TO MATERNAL SMOKING MAY BE AT INCREASED CANCER RISK IN ADULT LIFE
+1981|64.0|3.0|Journal of Clinical Investigation|Two independent lipoprotein receptors on hepatic membranes of dog, swine, and man. Apo-B,E and apo-E receptors.
+1982|30.0|2.0|Physiology & Behavior|In utero taste/odor aversion conditioning in the rat
+1983|35.0|2.0|Ophthalmology|Rationale for and Design of the National Eye Institute Prospective Evaluation of Radial Keratotomy (PERK) Study
+1984|45.0|3.0|JAMA|A Clinical Trial of Change in Maternal Smoking and Its Effect on Birth Weight
+1985|44.0|2.0|Behavioral Neuroscience|The Rat Fetus in Its Environment: Behavioral Adjustments to Novel, Familiar, Aversive, and Conditioned Stimuli Presented In Utero
+1986|105.0|2.0|Journal of the American College of Cardiology|Preservation of global and regional left ventricular function after early thrombolysis in acute myocardial infarction
+1987|46.0|2.0|Journal of Cell Biology|Slow myosin in developing rat skeletal muscle.
+1988|69.0|2.0|American Heart Journal|Dipyridamole cardiac imaging
+1989|75.0|2.0|Journal of Cataract and Refractive Surgery|Induced astigmatism in small incision cataract surgery
+1990|81.0|2.0|Journal of the American College of Cardiology|Single photon emission computed tomography with thallium-201 during adenosine-induced coronary hyperemia: correlation with coronary arteriography, exercise thallium imaging and two-dimensional echocardiography.
+1991|45.0|2.0|Journal of Internal Medicine|Determinants of carotid intimamedia thickness: a populationbased ultrasonography study in Eastern Finnish men
+1992|57.0|2.0|Neuron|Dorsal root ganglion neurons expressing trk are selectively sensitive to NGF deprivation in utero
+1993|164.0|2.0|The New England Journal of Medicine|A comparison of immediate coronary angioplasty with intravenous streptokinase in acute myocardial infarction.
+1994|59.0|2.0|Journal of Cell Biology|Human laminin M chain (merosin): complete primary structure, chromosomal assignment, and expression of the M and A chain in human fetal tissues.
+1995|178.0|3.0|The Lancet|Evidence for endothelin-1-mediated vasoconstriction in severe chronic heart failure
+1996|70.0|3.0|BMJ|Failure to realise growth potential in utero and adult obesity in relation to blood pressure in 50 year old Swedish men
+1997|122.0|4.0|Journal of Experimental Medicine|Survival of Mature CD4 T Lymphocytes Is Dependent on Major Histocompatibility Complex Class IIexpressing Dendritic Cells
+1998|240.0|5.0|Nature|The chemokine receptor CXCR4 is essential for vascularization of the gastrointestinal tract
+1999|248.0|5.0|Kidney International|Strong association between malnutrition, inflammation, and atherosclerosis in chronic renal failure
+2000|219.0|6.0|Nature Medicine|Human mesenchymal stem cells engraft and demonstrate site-specific differentiation after in utero transplantation in sheep.
+2001|285.0|6.0|Circulation|Lack of Neointimal Proliferation After Implantation of Sirolimus-Coated Stents in Human Coronary Arteries A Quantitative Coronary Angiography and Three-Dimensional Intravascular Ultrasound Study
+2002|705.0|6.0|Circulation|Repair of Infarcted Myocardium by Autologous Intracoronary Mononuclear Bone Marrow Cell Transplantation in Humans
+2003|225.0|7.0|Nephrology Dialysis Transplantation|Arterial media calcification in end-stage renal disease: impact on all-cause and cardiovascular mortality.
+2004|259.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|An oligonucleotide microchip for genome-wide microRNA profiling in human and mouse tissues
+2005|278.0|6.0|Journal of Bone and Mineral Research|Predictive value of BMD for hip and other fractures.
+2006|195.0|6.0|American Journal of Cardiology|From Vulnerable Plaque to Vulnerable PatientPart III: Executive Summary of the Screening for Heart Attack Prevention and Education (SHAPE) Task Force Report
+2007|287.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|Maternal nutrient supplementation counteracts bisphenol A-induced DNA hypomethylation in early development.
+2008|621.0|7.0|The New England Journal of Medicine|Effect of in utero and early-life conditions on adult health and disease
+2009|444.0|7.0|Pediatric Research|Epidemiology of pervasive developmental disorders.
+2010|302.0|7.0|JAMA|Lactate Clearance vs Central Venous Oxygen Saturation as Goals of Early Sepsis Therapy: A Randomized Clinical Trial

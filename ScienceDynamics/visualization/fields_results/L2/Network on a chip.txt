@@ -1,0 +1,41 @@
+----  Field Name Network on a chip: 
+----  Field Level 2.0: 
+----  Field Papers Number 5856:
+----  All time max citation paper: A performance comparison of multi-hop wireless ad hoc network routing protocols, 1998, (2090.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1972|0|0.0||An interactive logic activity modelling program
+1973|2.0|0.0|Bellman Prize in Mathematical Biosciences|A digital computer nerve model for network simulation
+1974|1.0|1.0|Biological Cybernetics|A model for repetitive firing in neurons
+1978|2.0|2.0|design automation conference|Dynamic and Deductive Fault Simulation
+1979|0|0.0||A microeconomic approach to passive solar design: Performance, cost, optimal sizing and comfort analysis
+1980|0|0.0|IEEE Transactions on Circuits and Systems|An efficient algorithm reduces computing time in solving a system of stiff ordinary differential equations
+1981|20.0|20.0|foundations of computer science|New lower bound techniques for VLSI
+1982|3.0|0.5|design automation conference|Speed and Accuracy in Digital Network Simulation Based on Structural Modeling
+1983|0|0.0|winter simulation conference|Routing table update epoch in packet-switching networks
+1985|2.0|2.0|Social Networks|Random and biased networks: simulations and approximations
+1986|5.0|4.0|IEEE Transactions on Communications|Reliability Analysis for Integrated Networks with Application to Burst Switching
+1987|14.0|8.0|Water Resources Research|From field data to fracture network modeling: An example incorporating spatial structure
+1988|24.0|1.5|Journal of Fluid Mechanics|Numerical models and experiments on immiscible displacements in porous media
+1989|18.0|2.0|Water Resources Research|Source areas, drainage density, and channel initiation
+1990|32.0|3.0|SIAM Journal on Computing|Group action graphs and parallel architectures
+1991|59.0|2.0||Compiler optimizations for Fortran D on MIMD distributed-memory machines
+1992|8.0|2.0|Neural Computation|A network simulation of thalamic circuit operations in selective attention
+1993|20.0|5.0|IEEE Transactions on Parallel and Distributed Systems|Symmetric crossbar arbiters for VLSI communication switches
+1994|28.0|2.0|Journal of Computational Neuroscience|Intrinsic and network rhythmogenesis in a reduced traub model for CA3 neurons
+1995|20.0|3.0|workshop on parallel and distributed simulation|A case study in simulating PCS networks using Time Warp
+1996|52.0|6.0|acm special interest group on data communication|Improving the start-up behavior of a congestion control scheme for TCP
+1997|77.0|3.0|winter simulation conference|Why we don't know how to simulate the Internet
+1998|422.0|2.0|acm ieee international conference on mobile computing and networking|A performance comparison of multi-hop wireless ad hoc network routing protocols
+1999|125.0|5.0|IEEE\/ACM Transactions on Networking|The iSLIP scheduling algorithm for input-queued switches
+2000|172.0|5.0|IEEE Computer|Advances in network simulation
+2001|272.0|6.0|design automation conference|Route packets, not wires: on-chip inteconnection networks
+2002|446.0|4.0|IEEE Computer|Networks on chips: a new SoC paradigm
+2003|295.0|5.0|symposium on operating systems principles|SplitStream: high-bandwidth multicast in cooperative environments
+2004|372.0|5.0|IEEE Transactions on Mobile Computing|HEED: a hybrid, energy-efficient, distributed clustering approach for ad hoc sensor networks
+2005|162.0|4.0|IEEE Transactions on Computers|Performance evaluation and design trade-offs for network-on-chip interconnect architectures
+2006|344.0|4.0|ACM Computing Surveys|A survey of research and practices of Network-on-chip
+2007|118.0|3.0|international symposium on microarchitecture|Research Challenges for On-Chip Interconnection Networks
+2008|157.0|3.0|IEEE Journal of Solid-state Circuits|An 80-Tile Sub-100-W TeraFLOPS Processor in 65-nm CMOS
+2009|148.0|2.0|IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems|Outstanding Research Problems in NoC Design: System, Microarchitecture, and Circuit Perspectives
+2010|78.0|2.0|international symposium on computer architecture|Energy proportional datacenter networks

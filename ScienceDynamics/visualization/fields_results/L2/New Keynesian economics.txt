@@ -1,0 +1,44 @@
+----  Field Name New Keynesian economics: 
+----  Field Level 2.0: 
+----  Field Papers Number 2175:
+----  All time max citation paper: Higher market valuation of companies with a small board of directors, 1996, (1773.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1971|1.0|0.5|Proceedings of the American Mathematical Society|Restrictions of ^{} transforms
+1973|2.0|1.0|Transactions of the American Mathematical Society|Multipliers for certain convolution measure algebras
+1974|2.0|1.0|Transactions of the American Mathematical Society|Equivariant endomorphisms of the space of convex bodies
+1975|1.0|1.0|Proceedings of the American Mathematical Society|Multipliers and duality in *-algebras
+1976|0|0.0|Proceedings of the American Mathematical Society|A multiplier theorem for ()
+1978|4.0|2.5|Proceedings of the American Mathematical Society|On multipliers of Segal algebras
+1979|0|0.0|Proceedings of the American Mathematical Society|Multipliers of *-algebras
+1980|7.0|3.5|Journal of Monetary Economics|"Tobin's Q" and the rate of investment in general equilibrium
+1981|20.0|11.0|The Journal of Business|Tobin's q Ratio and Industrial Organization
+1982|12.0|6.5||Productivity Measurement Using Capital Asset Valuation to Adjust for Variations in Utilization
+1983|7.0|3.0|ACM Transactions on Computer Systems|A VLSI layout for a pipelined Dadda multiplier
+1984|20.0|3.0|The RAND Journal of Economics|Tobin's q, Unionization, and the Concentration-Profits Relationship
+1985|1.0|1.0|Proceedings of the American Mathematical Society|Multipliers for eigenfunction expansions of some Schrdinger operators
+1986|2.0|1.0||Management Ownership and Corporate Performance: An Empirical Analysis
+1987|8.0|4.0||Characteristics of Hostile and Friendly Takeover Targets
+1988|13.0|0.5|design automation conference|An empirical study of on-chip parallelism
+1989|15.0|3.0||Real Business Cycles: A New Keynesian Perspective
+1990|52.0|2.0|Journal of Economic Literature|What Is New-Keynesian Economics?
+1991|20.0|2.0|Journal of Finance|Tobin's Q and the Gains from Takeovers
+1992|19.0|1.5|Journal of Econometrics|Investment and Tobins Q: Evidence from Company Panel Data
+1993|25.0|3.0|European Economic Review|Money, New-Keynesian macroeconomics and the business cycle
+1994|32.0|1.0|Journal of Empirical Finance|Alternative constructions of Tobin's q: An empirical comparison
+1995|13.0|1.5|Journal of Monetary Economics|Evidence on the Role of Cash Flow for Investment
+1996|69.0|2.0|Journal of Financial Economics|Higher market valuation of companies with a small board of directors
+1997|22.0|2.5|Journal of Monetary Economics|Is inflation sticky?
+1998|22.0|3.0|IEEE Transactions on Computers|Low-complexity bit-parallel canonical and normal basis multipliers for a class of finite fields
+1999|212.0|2.0|Journal of Economic Literature|The Science of Monetary Policy: a New Keynesian Perspective
+2000|150.0|3.0|Journal of Monetary Economics|Inflation Dynamics: A Structural Econometric Analysis
+2001|55.0|6.5|Journal of Finance|Is It Inefficient Investment that Causes the Diversification Discount?
+2002|39.0|3.0||Investor Protection, Ownership, and the Cost of Capital
+2003|79.0|2.5|The American Economic Review|Speed Limit Policies: The Output Gap and Optimal Monetary Policy
+2004|92.0|3.0|The American Economic Review|Testing for Indeterminacy: An Application to U.S. Monetary Policy: Reply
+2005|254.0|2.0|The RAND Journal of Economics|Market value and patent citations
+2006|109.0|3.0|Quarterly Journal of Economics|Measuring and Explaining Management Practices Across Firms and Countries
+2007|48.0|3.0|Canadian Parliamentary Review|Macroeconomic implications of changes in the term premium
+2008|359.0|3.0|Journal of Financial Economics|Boards: Does one size fit all
+2009|130.0|2.0|Journal of Economic Dynamics and Control|New Keynesian versus old Keynesian government spending multipliers
+2010|94.0|3.0||Simple Analytics of the Government Expenditure Multiplier

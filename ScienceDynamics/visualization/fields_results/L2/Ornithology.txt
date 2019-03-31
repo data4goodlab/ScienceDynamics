@@ -1,0 +1,31 @@
+----  Field Name Ornithology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1108:
+----  All time max citation paper: Collagen  biomaterial for drug delivery, 1998, (471.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|0|0.0||Luminous efficiency of an artificial meteor at 11.9 kilometers per second
+1973|6.0|6.0|Psychopharmacology|The use of d -amphetamine pellet implantation as a model for d -amphetamine tolerance in the mouse
+1986|14.0|14.0|computational intelligence|On the consistency of commonsense reasoning
+1988|4.0|2.0|Aquaculture|Effect of food pellet shape and texture on the feeding response of juvenile Atlantic salmon.
+1989|1.0|1.0||Starlight, a stationary inertial-confinement-fusion reactor with nonvaporizing walls
+1990|2.0|1.0|Journal of Biological Education|An Improved Method for Demonstrating Visual Selection by Wild Birds.
+1991|6.0|2.0|International Journal of Pharmaceutics|Scintigraphic and pharmacokinetic assessment of a multiparticulate sustained release formulation of diltiazem
+1993|7.0|6.0|International Journal of Pharmaceutics|Gastrointestinal transit of pellets of differing size and density
+1994|11.0|3.5|Physiology & Behavior|Timing of preweanling maternal effects on development of hypertension in SHR rats
+1995|12.0|4.0|International Journal of Pharmaceutics|Extrusion-spheronisation A literature review
+1996|12.0|6.5|Physiology & Behavior|Maternal influences on adult blood pressure of SHRS: A single pup cross-fostering study
+1997|12.0|4.0|Journal of Controlled Release|The challenge of proteolytic enzymes in intestinal peptide delivery
+1998|26.0|2.5|European Journal of Pharmaceutics and Biopharmaceutics|Collagen  biomaterial for drug delivery
+1999|15.0|4.5|International Journal of Pharmaceutics|Evaluation of a standardised procedure to assess the shape of pellets using image analysis
+2000|20.0|5.0|Journal of Avian Biology|Environmental- and parental condition-related variation in sex ratio of kestrel broods
+2001|27.0|2.0|Hormones and Behavior|Vasopressin and aggression in cross-fostered California mice (Peromyscus californicus) and white-footed mice (Peromyscus leucopus)
+2002|103.0|2.0|Trends in Ecology and Evolution|Links between worlds: Unraveling migratory connectivity
+2003|32.0|3.0|Process Biochemistry|Decolorization of textile dyes by fungal pellets
+2004|39.0|3.0|Behavioural Brain Research|An assessment of the long-term developmental and behavioral teratogenicity of prenatal nicotine exposure.
+2005|77.0|3.0|Neuroscience & Biobehavioral Reviews|Early life genetic, epigenetic and environmental factors shaping emotionality in rodents
+2006|63.0|6.0|Biomass & Bioenergy|Effects of compressive force, particle size and moisture content on mechanical properties of biomass pellets from grasses
+2007|56.0|4.0|Journal of Evolutionary Biology|How to separate genetic and environmental causes of similarity between relatives
+2008|282.0|5.0|Australian Journal of Botany|'Breathing' of the terrestrial biosphere: lessons learned from a global network of carbon dioxide flux measurement systems
+2009|103.0|5.0|Neuroscience & Biobehavioral Reviews|In-vivo rodent models for the experimental investigation of prenatal immune activation effects in neurodevelopmental brain disorders
+2010|50.0|5.0|Journal of Hazardous Materials|Degradation of the drug sodium diclofenac by Trametes versicolor pellets and identification of some intermediates by NMR

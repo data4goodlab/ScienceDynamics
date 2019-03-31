@@ -1,0 +1,69 @@
+----  Field Name Topology: 
+----  Field Level 1.0: 
+----  Field Papers Number 67742:
+----  All time max citation paper: A method for registration of 3-D shapes, 1992, (4546.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1936|0|0.0|Development Genes and Evolution|A study of the physiological value of -amino acids during the early periods of growth and differentiation
+1940|5.0|5.0|Transactions of the American Mathematical Society|Integration in a convex linear topological space
+1942|1.0|0.5|Transactions of the American Mathematical Society|Integration in a convex linear topological space
+1944|1.0|0.5|Transactions of the American Mathematical Society|An extension of metric distributive lattices with an application in general analysis
+1945|1.0|1.0|Bulletin of the American Mathematical Society|Linear topological spaces
+1952|1.0|0.5|Journal of Chemical Physics|The Catalytic Conversion of Parahydrogen by Paramagnetic Complex Ions in Aqueous Solution
+1954|11.0|1.0|Transactions of the American Mathematical Society|Concerning Rings of Continuous Functions
+1955|2.0|1.0|Transactions of the American Mathematical Society|Completeness and compactness in linear topological spaces
+1956|2.0|0.5|Proceedings of the American Mathematical Society|On the Equivalence of the Ring, Lattice, and Semigroup of Continuous Functions
+1957|3.0|2.0|Archive for Rational Mechanics and Analysis|ON AN ANALOGUE OF THE EULER-CAUCHY POLYGON METHOD FOR THE NUMERICAL SOLUTION OF UXY= F(X, Y, U, UX, UY)
+1958|2.0|2.0|Proceedings of the American Mathematical Society|On harmonic mappings
+1959|2.0|0.0|Transactions of the American Mathematical Society|On the ideal structure of certain semirings and compactification of topological spaces
+1960|7.0|1.5|Bulletin of the American Mathematical Society|New results and old problems in finite transformation groups
+1961|4.0|1.0|Proceedings of the American Mathematical Society|Normal vector fields on manifolds
+1962|31.0|2.5|Psychometrika|The analysis of proximities: Multidimensional scaling with an unknown distance function. II
+1963|34.0|1.0||Sketchpad: a man-machine graphical communication system
+1964|3.0|1.0|Numerische Mathematik|POSITIVE OPERATORS AND AN INERTIA THEOREM.
+1965|23.0|2.0|Planetary and Space Science|Configuration of auroral radiation in space
+1966|16.0|1.0|Topology|Homotopy theory of infinite dimensional manifolds
+1967|16.0|2.0|Journal of Geophysical Research|On the low-altitude trapped electron boundary collapse during magnetic storms.
+1968|21.0|2.0|Journal of Geophysical Research|Elevation differences on Mars.
+1969|25.0|2.0|Journal of Mathematical Analysis and Applications|Dynamical systems and stability
+1970|51.0|1.0|Journal of Geophysical Research|Vertical drift velocities and eastwest electric fields at the magnetic equator
+1971|12.0|1.0|Advances in Mathematics|Simplicial homotopy theory
+1972|26.0|1.0|Tellus A|Comparison of accurate methods for the integration of hyperbolic equations
+1973|24.0|1.0|General Topology and Its Applications|Shapes for topological spaces
+1974|11.0|1.0|Journal of Fluid Mechanics|On transition mechanisms in vertical natural convection flow
+1975|24.0|1.0|Journal of Geophysical Research|Structure of the quasiperpendicular laminar bow shock
+1976|21.0|1.0|Proceedings of the IEEE|Nonlinear systems and differential geometry
+1977|37.0|1.0|Publications Mathmatiques de l'IHS|Infinitesimal computations in topology
+1978|23.0|1.0|Journal of Fluid Mechanics|The fine-scale structure of the turbulent velocity field
+1979|39.0|2.0|Cognitive Science|Some Demonstrations of the Effects of Structural Descriptions in Mental Imagery*
+1980|72.0|1.0|Journal of Fluid Mechanics|Many routes to turbulent convection
+1981|51.0|2.0|Journal of Geophysical Research|Evidence for magnetic field reconnection at the Earth's magnetopause
+1982|27.0|1.0|Communications in Mathematical Physics|The rotation number for almost periodic potentials
+1983|88.0|1.0|International Journal of Heat and Mass Transfer|PAPER 5 - A CALCULATION PROCEDURE FOR HEAT, MASS AND MOMENTUM TRANSFER IN THREE-DIMENSIONAL PARABOLIC FLOWS
+1984|43.0|2.0|Journal of Chemical Physics|The characterization of atomic interactions
+1985|114.0|2.0|Cognitive Science|An Overview of the KLONE Knowledge Representation System*
+1986|71.0|2.0|Water Resources Research|A natural gradient experiment on solute transport in a sand aquifer: Spatial variability of hydraulic conductivity and its role in the dispersion process
+1987|49.0|2.0|Earth and Planetary Science Letters|Simple 2-D models for melt extraction at mid-ocean ridges and island arcs
+1988|121.0|2.0|Communications in Mathematical Physics|Topological sigma models
+1989|111.0|2.0|Nuclear Physics|On the Structure of the Topological Phase of Two-dimensional Gravity
+1990|176.0|2.0|neural information processing systems|The cascade-correlation learning architecture
+1991|84.0|2.0|IEEE Transactions on Computers|An adaptive and fault tolerant wormhole routing strategy for k-ary n-cubes
+1992|122.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A method for registration of 3-D shapes
+1993|264.0|2.0|IEEE Transactions on Signal Processing|Embedded image coding using zerotrees of wavelet coefficients
+1994|125.0|2.0|Physics Letters B|Simple singularities and N=2 supersymmetric Yang-Mills theory
+1995|209.0|2.0|Brain Research Reviews|The inflammatory response system of brain: implications for therapy of Alzheimer and other neurodegenerative diseases
+1996|414.0|2.0|IEEE Transactions on Circuits and Systems for Video Technology|A new, fast, and efficient image codec based on set partitioning in hierarchical trees
+1997|122.0|2.0|IEEE\/ACM Transactions on Networking|A reliable multicast framework for light-weight sessions and application level framing
+1998|240.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Example-based learning for view-based human face detection
+1999|314.0|3.0|Gene|Initiation of translation in prokaryotes and eukaryotes
+2000|257.0|3.0|acm special interest group on data communication|Practical network support for IP traceback
+2001|341.0|3.0|acm ieee international conference on mobile computing and networking|Dynamic fine-grained localization in Ad-Hoc networks of sensors
+2002|239.0|4.0|Journal of High Energy Physics|The Littlest Higgs
+2003|255.0|4.0|neural information processing systems|Distance Metric Learning with Application to Clustering with Side-Information
+2004|211.0|4.0|IEEE Transactions on Evolutionary Computation|A Cooperative approach to particle swarm optimization
+2005|460.0|3.0|NeuroImage|A new SPM toolbox for combining probabilistic cytoarchitectonic maps and functional imaging data
+2006|473.0|3.0|Siam Review|Mixture Densities, Maximum Likelihood and the EM Algorithm
+2007|454.0|4.0|Nature Materials|Anisotropy of building blocks and their assembly into complex structures
+2008|698.0|3.0|Science|High-Throughput Synthesis of Zeolitic Imidazolate Frameworks and Application to CO2 Capture
+2009|1042.0|2.0|Science|The B73 maize genome: complexity, diversity, and dynamics.
+2010|513.0|3.0|Annual Review of Physiology|The mammalian circadian timing system: organization and coordination of central and peripheral clocks

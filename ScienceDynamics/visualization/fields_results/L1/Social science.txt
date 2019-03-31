@@ -1,0 +1,78 @@
+----  Field Name Social science: 
+----  Field Level 1.0: 
+----  Field Papers Number 207865:
+----  All time max citation paper: Collective dynamics of 'small-world' networks, 1998, (10030.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1922|0|0.0|Kolloidchemische Beihefte|Beitrge zur Kenntnis des Adsorptionsproblems : die Sorption von Dmpfen durch Kohle
+1924|0|0.0|Acta Zoologica|Contributions to the knowledge of intra- and inter-specific relationships in Drosophila
+1928|1.0|1.0|Acta Zoologica|BER DIE DETERMINATION DES KEIMES BEI ECHINODERMEN
+1933|0|0.0||Bergbyggnaden inom Bjrkvattnet-Virisen-omrdet i Vsterbottensfjllens centrala del : en studie i den kaledoniska bergskedjans geologi
+1939|7.0|6.0|Journal of Chemical Physics|Reactions Involving Hydrogen and the Hydrocarbons
+1941|0|0.0|Journal of Chemical Physics|The Mechanism of Reactions Involving Excited Electronic States II. Some Reactions of the Alkali Metals with Hydrogen
+1942|0|0.0|Review of Educational Research|Chapter I: Bibliographical and Documentary Techniques in Education, Psychology, and Social Science
+1945|2.0|2.0|Hereditas|Cytological studies on Dipnoi, Urodela, Anura and Emys
+1946|0|0.0|Scandinavian Actuarial Journal|On statistical demand analysis from the viewpoint of simultaneous equations
+1948|0|0.0|Journal of Chemical Physics|Steric Effects. II. General Equations. Application to Cis and Trans2Butene
+1949|10.0|5.0|Journal of Consulting Psychology|Social class in America.
+1950|20.0|2.0|Journal of Chemical Physics|Molecular Orbital Calculations of the Lower Excited Electronic Levels of Benzene, Configuration Interaction Included
+1951|6.0|2.5|Journal of Chemical Physics|The Ionization Potentials of the Deuterated Methanes
+1952|1.0|0.5|The New England Journal of Medicine|Contributions of the Social Sciences to the Solution of Health Problems
+1953|10.0|3.0|Chromosoma|Chromomere analysis of the chromosome complement of rye
+1954|3.0|3.0|Archives of Biochemistry and Biophysics|Metabolism of soybean leaves. VI. Exploratory studies in protein metabolism
+1955|9.0|5.0|Behaviour|Hostile, Sexual, and Other Social Behaviour Patterns of the Spice Finch (Lonchura Punctulata) in Captivity
+1956|1.0|0.5|Journal of Chemical Physics|Molecular Screening Constants
+1957|2.0|1.0|Child Development|An Evaluation of Sociometric - Social Behavior Research with Preschool Children
+1958|4.0|0.0|Journal of Zoology|AN ANALYSIS OF SOCIAL BEHAVIOUR IN WILD RATS
+1959|6.0|2.0|Journal of Chemical Physics|Electron Impact Studies of Aromatic Hydrocarbons. I. Benzene, Naphthalene, Anthracene, and Phenanthrene
+1960|7.0|0.0|Behaviour|Studies On the Social Behaviour of Quelea Q. Quelea (Linn.) in French West Africa
+1961|16.0|1.0|Journal of Chemical Physics|Anharmonic Potential Constants and Their Dependence upon Bond Length
+1962|21.0|1.0|Journal of Chemical Physics|Rate of Spherulitic Crystallization with Chain Folds in Polychlorotrifluoroethylene
+1963|44.0|2.0|Journal of Verbal Learning and Verbal Behavior|Implications of short-term memory for a general theory of memory
+1964|7.0|1.0|Journal of Chemical Physics|PARAMAGNETIC RESONANCE STUDIES OF BONDING IN VANADYL AND MOLYBDENYL METAL COMPLEXES.
+1965|13.0|1.0|Food and Cosmetics Toxicology|Liver response tests. I. Exploratory studies on glucose 6-phosphatase and other liver enzymes
+1966|15.0|1.0|Physiology & Behavior|The effects of preliminary training conditions upon DRL performance in the hippocampectomized rat
+1967|15.0|3.0|Acta Psychologica|Some functions of gaze-direction in social interaction
+1968|28.0|2.0|Psychometrika|A general nonmetric technique for finding the smallest coordinate space for a configuration of points
+1969|12.0|1.0|Physiology & Behavior|Environmental control of amnesic effects of various agents in goldfish
+1970|59.0|1.0|Organizational Behavior and Human Performance|Comparison of Bayesian and regression approaches to the study of information processing in judgment
+1971|27.0|1.0|Animal Behaviour|Effects of female urine upon the social behaviour of adult male mice
+1972|30.0|2.0|Journal of Epidemiology and Community Health|Hypothesis: anencephaly and spina bifida are usually preventable by avoidance of a specific but unidentified substance present in certain potato tubers.
+1973|53.0|1.0|Journal of Personality and Social Psychology|Social Psychology As History
+1974|59.0|1.0|Physiology & Behavior|Frontolimbic lesions and social behavior in the rat
+1975|29.0|1.0|Monographs of The Society for Research in Child Development|An interview study of children's knowledge about memory
+1976|98.0|1.0|Nature|Simple mathematical models with very complicated dynamics.
+1977|44.0|2.0|Animal Behaviour|The social behaviour of anuran amphibians
+1978|44.0|2.0|Communications of The ACM|Implications of structured programming for machine architecture
+1979|44.0|2.0|Physiology & Behavior|Individual behavioral responses to hypothalamic stimulation persist despite destruction of tissue surrounding electrode tip
+1980|123.0|2.0|Reading Research Quarterly|Toward an Interactive-Compensatory Model of Individual Differences in the Development of Reading Fluency.
+1981|49.0|2.0|Child Development|Infant Irritability, Mother Responsiveness, and Social Support Influences on the Security of Infant-Mother Attachment.
+1982|80.0|2.0|Personality and Individual Differences|Race, social class and ability patterns on the WISC-R
+1983|72.0|2.0|The New England Journal of Medicine|Immunodeficiency in female sexual partners of men with the acquired immunodeficiency syndrome.
+1984|94.0|2.0|Cell|Viral and cellular fos proteins: A comparative analysis
+1985|196.0|2.0|Psychological Bulletin|Stress, social support, and the buffering hypothesis
+1986|127.0|2.0|Molecular Brain Research|Nerve growth factor increases choline acetyltransferase activity in developing basal forebrain neurons
+1987|63.0|2.0|Psychological Bulletin|Sex differences in unipolar depression: evidence and theory.
+1988|121.0|2.0|Behavioral and Brain Sciences|Prcis of The Modularity of Mind
+1989|83.0|2.0|Journal of Molecular Evolution|The complete nucleotide sequence of the Rattus norvegicus mitochondrial genome: cryptic signals revealed by comparative analysis between vertebrates.
+1990|139.0|2.0|Educational Researcher|Stories of Experience and Narrative Inquiry
+1991|121.0|2.0|Trends in Neurosciences|The cognitive basis of a biological disorder: autism
+1992|141.0|2.0|Neuroscience|Excitatory amino acid binding sites in the basal ganglia of the rat: A quantitative autoradiographic study
+1993|144.0|2.0|Psychological Bulletin|Impact of sexual abuse on children: A review and synthesis of recent empirical studies
+1994|368.0|2.0|Archives of General Psychiatry|Lifetime and 12-month prevalence of DSM-III-R psychiatric disorders in the United States: Results from the National Comorbidity Survey
+1995|147.0|2.0|Cell|A novel family of genes encoding putative pheromone receptors in mammals
+1996|138.0|3.0|BMJ|C REACTIVE PROTEIN AND ITS RELATION TO CARDIOVASCULAR RISK FACTORS: A POPULATION BASED CROSS SECTIONAL STUDY
+1997|298.0|3.0|Information Processing and Management|Term-weighting approaches in automatic text retrieval
+1998|406.0|3.0|Nature|Collective dynamics of 'small-world' networks
+1999|324.0|4.0|Nature Neuroscience|Running increases cell proliferation and neurogenesis in the adult mousedentate gyrus
+2000|1035.0|4.0|Nucleic Acids Research|The Pfam protein families database
+2001|568.0|5.0|Reviews of Modern Physics|Statistical mechanics of complex networks
+2002|427.0|5.0|The Lancet|Selected major risk factors and global and regional burden of disease
+2003|919.0|6.0|Annual Review of Sociology|Social Capital: Its Origins and Applications in Modern Sociology
+2004|655.0|6.0|Nature|Sequence and comparative analysis of the chicken genome provide unique perspectives on vertebrate evolution
+2005|3454.0|6.0||Data Mining: Concepts and Techniques
+2006|3129.0|6.0|Siam Review|The Structure and Function of Complex Networks
+2007|1914.0|6.0|Behavior Research Methods|G*Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences
+2008|1906.0|6.0|Nature Nanotechnology|Processable aqueous dispersions of graphene nanosheets
+2009|1995.0|6.0|Nature Nanotechnology|Chemical methods for the production of graphenes
+2010|1318.0|6.0|PLOS ONE|Female Choice for Males with Greater Fertilization Success in the Swedish Moor Frog, Rana arvalis

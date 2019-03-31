@@ -1,0 +1,62 @@
+----  Field Name Telecommunications engineering: 
+----  Field Level 2.0: 
+----  Field Papers Number 18337:
+----  All time max citation paper: Xen and the art of virtualization, 2003, (2822.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1932|1.0|1.0|Electrical Engineering|The Time Factor in Telephone Transmission
+1938|0|0.0|Transactions of The American Institute of Electrical Engineers|A Carrier Telephone System for Toll Cables
+1946|0|0.0||Tuning devices for broadcast radio receivers
+1951|0|0.0||The relative advantages of coherent and incoherent detectors: a study of their output noise spectra under various conditions
+1956|1.0|1.0||Non-uniform transmission lines as impedance transformers
+1957|1.0|1.0||Frequency diversity in the reception of selectively fading binary frequency-modulated signals
+1959|1.0|1.0|IEEE Transactions on Microwave Theory and Techniques|Evacuated Waveguide Filter for Suppressing Spurious Transmission from High-Power S-Band Radar
+1960|0|0.0|Proceedings of The Iee Part C: Monographs|Explicit form of f.m. distortion products with white-noise modulation
+1961|0|0.0|Journal of the Optical Society of America|The Dielectric Bolometer, A New Type of Thermal Radiation Detector
+1964|9.0|1.0|Journal of Geophysical Research|Shock compression of crustal rocks: Data for quartz, calcite, and plagioclase rocks
+1965|3.0|0.0|American Journal of Ophthalmology|Primary familial amyloidosis: ocular manifestations with histopathologic observations.
+1966|4.0|2.0|Proceedings of the IEEE|Very high-speed computing systems
+1967|1.0|0.5|Proceedings of the IEEE|Distribution of standard frequency and time signals
+1968|2.0|0.0|IEEE Spectrum|A prediction of power system development, 1968 to 2030
+1969|26.0|1.0|Journal of Geophysical Research|Multi-experiment detection of the plasmapause from EOGO satellites and antarctic ground stations.
+1970|1.0|1.0|IEEE Transactions on Microwave Theory and Techniques|Some Design Considerations and Realizations of Iris-Coupled YIG-Tuned Filters in the 12-40 GHz Region
+1971|4.0|1.0|IEEE Transactions on Microwave Theory and Techniques|Status of Lumped Elements in Microwave Integrated Circuits - Present and Future
+1972|16.0|2.0|Developmental Biology|Dedifferentiation of iris epithelial cells
+1973|4.0|2.0|Proceedings of the IEEE|Millimeter and submillimeter wave detection and mixing with superconducting weak links
+1974|21.0|0.5|European Journal of Pharmacology|Tetrahydroisoquinoline alkaloids: Uptake and release by adrenergic nerves in vivo
+1975|7.0|2.0|Journal of Sound and Vibration|Radiation of cylindrical duct acoustic modes with flow mismatch
+1976|4.0|1.0|IEEE Transactions on Communications|The Effects of Transponder Nonlinearity on Binary CPSK Signal Transmission
+1977|8.0|2.0|Journal of Applied Physics|Parametric Amplification and Oscillation at 36 GHz using a Point Contact Josephson Junction.
+1978|18.0|2.0|Survey of Ophthalmology|Neovascularization of the iris (rubeosis iridis).
+1979|14.0|2.0|American Journal of Ophthalmology|Continuous wave argon laser iridectomy in angle-closure glaucoma.
+1980|19.0|4.0|Journal of Chemical Physics|Shock compression of liquid argon, nitrogen, and oxygen to 90 GPa (900 kbar)
+1981|6.0|1.0|Optics Letters|Phase matching in birefringent fibers
+1982|28.0|2.0|international conference on acoustics, speech, and signal processing|An algorithm for connected word recognition
+1983|12.0|2.0|Brain Research|Substance P levels differ in sympathetic target organ terminals and ganglion perikarya
+1984|9.0|0.0|Applied Physics Letters|Power gain of a SQUID amplifier
+1985|63.0|1.0|The Journal of Comparative Neurology|Distribution and origin of calcitonin generelated peptide (CGRP) immunoreactivity in the sensory innervation of the mammalian eye
+1986|124.0|1.0|Journal of Financial Economics|Investment banking and the capital acquisition process
+1987|17.0|2.0|Journal of The Autonomic Nervous System|Co-existence of neuropeptides in sympathetic, cranial autonomic and sensory neurons innervating the iris of the guinea-pig
+1988|21.0|1.0|Progress in Materials Science|Dynamic Consolidation of Metal Powders.
+1989|22.0|1.0|IEEE Communications Magazine|A pragmatic approach to trellis-coded modulation
+1990|54.0|1.0|IEEE Transactions on Communications|Near-far resistance of multiuser detectors in asynchronous channels
+1991|21.0|2.0|vehicular technology conference|Autonomous adaptive frequency assignment for TDMA portable radio systems
+1992|22.0|1.0|Applied Physics Letters|60 GHz sources using optically driven heterojunction bipolar transistors
+1993|54.0|2.0|IEEE Transactions on Neural Networks|Generalized clustering networks and Kohonen's self-organizing scheme
+1994|59.0|3.0|acm special interest group on data communication|Dynamics of TCP traffic over ATM networks
+1995|131.0|2.0|Proceedings of the IEEE|Service disciplines for guaranteed performance service in packet-switching networks
+1996|80.0|2.0|operating systems design and implementation|A hierarchial CPU scheduler for multimedia operating systems
+1997|82.0|3.0|IEEE Transactions on Information Theory|Capacity of fading channels with channel side information
+1998|237.0|3.0|IEEE\/ACM Transactions on Networking|Explicit allocation of best-effort packet delivery service
+1999|386.0|4.0|IEEE\/ACM Transactions on Networking|Promoting the use of end-to-end congestion control in the Internet
+2000|387.0|3.0|acm special interest group on data communication|Equation-based congestion control for unicast applications
+2001|150.0|3.0|IEEE Transactions on Circuits and Systems for Video Technology|Streaming video over the Internet: approaches and directions
+2002|359.0|4.0|IEEE Journal on Selected Areas in Communications|Scribe: a large-scale and decentralized application-level multicast infrastructure
+2003|863.0|3.0|symposium on operating systems principles|Xen and the art of virtualization
+2004|329.0|3.0|IEEE Transactions on Signal Processing|Zero-forcing methods for downlink spatial multiplexing in multiuser MIMO channels
+2005|192.0|3.0|IEEE Transactions on Antennas and Propagation|Antenna design for UHF RFID tags: a review and a practical application
+2006|369.0|3.0|IEEE Journal on Selected Areas in Communications|On the optimality of multiantenna broadcast scheduling using zero-forcing beamforming
+2007|399.0|3.0|IEEE Journal on Selected Areas in Communications|Decentralized cognitive MAC for opportunistic spectrum access in ad hoc networks: A POMDP framework
+2008|125.0|2.0|IEEE Transactions on Antennas and Propagation|Metamaterial-Inspired Efficient Electrically Small Antennas
+2009|113.0|1.0||Africa's infrastructure : a time for transformation
+2010|237.0|3.0|IEEE Journal on Selected Areas in Communications|Multi-Cell MIMO Cooperative Networks: A New Look at Interference

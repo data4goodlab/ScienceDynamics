@@ -1,0 +1,68 @@
+----  Field Name Literary theory: 
+----  Field Level 2.0: 
+----  Field Papers Number 6978:
+----  All time max citation paper: From Vulnerable Plaque to Vulnerable Patient A Call for New Definitions and Risk Assessment Strategies: Part I, 2003, (1214.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1930|3.0|0.5|JAMA|SERUM DISEASE AND SERUM ACCIDENTS
+1932|0|0.0|JAMA Internal Medicine|CHOREA GRAVIDARUM: A STATISTICAL STUDY OF 951 COLLECTED CASES, 846 FROM THE LITERATURE AND 105 PREVIOUSLY UNREPORTED
+1935|7.0|7.0|Parasitology|A Description of a Necrotic Virus Disease affecting Tobacco and Other Plants.
+1940|1.0|0.5|American Heart Journal|Trichinosis of the myocardium: Report of a case, with autopsy findings
+1943|2.0|2.0|JAMA|HUMAN INFECTION WITH VENEZUELAN EQUINE ENCEPHALOMYELITIS VIRUS: A REPORT ON EIGHT CASES OF INFECTION ACQUIRED IN THE LABORATORY
+1944|1.0|1.0|JAMA Internal Medicine|PRIMARY ATYPICAL PNEUMONIA: REPORT OF ONE HUNDRED AND TWENTY-FIVE CASES, WITH AUTOPSY OBSERVATIONS IN ONE FATAL CASE
+1950|6.0|3.0|The New England Journal of Medicine|An Unusual Sensitivity Reaction to Penicillin. Report of a Case with Autopsy Findings.
+1951|3.0|3.0|American Journal of Public Health|Survey of Laboratory-Acquired Infections
+1954|2.0|2.0|Archives of Ophthalmology|VISUAL EFFECTS OF PINK GLASSES, GREEN WINDSHIELDS, AND GLARE UNDER NIGHT-DRIVING CONDITIONS
+1955|0|0.0|The Journal of Pediatrics|Pseudomonas infections in infants associated with high-humidity environments
+1957|0|0.0|Journal of Hygiene|Observations pointing to the conjunctiva as the portal of entry in salmonella infection of guinea-pigs
+1958|3.0|1.5|JAMA Pediatrics|Isolation of ECHO Virus Type Two from the Cerebrospinal Fluid in Aseptic Meningitis
+1959|14.0|14.0|The New England Journal of Medicine|Isolation of measles virus at autopsy in cases of giant-cell pneumonia without rash.
+1960|12.0|2.0|The New England Journal of Medicine|Infections due to Coxsackie Virus Group A, Type 9, in Boston, 1959, with special reference to Exanthems and Pneumonia.
+1963|17.0|10.0|Journal of Geophysical Research|The recombination coefficient of the nighttime F layer
+1964|13.0|3.0|Planetary and Space Science|THE MAINTENANCE OF THE NIGHT-TIME F-LAYER
+1965|42.0|27.5|Journal of Geophysical Research|Diurnal and latitudinal effects observed for 10kev electrons at low satellite altitudes
+1966|23.0|4.5|Journal of Geophysical Research|Lowenergy electrons in the dark magnetosphere
+1967|17.0|10.0|Journal of Geophysical Research|Behavior of the nighttime ionosphere.
+1968|18.0|9.0|Journal of Geophysical Research|Nighttime cooling of the protonosphere
+1969|11.0|4.0|Journal of Geophysical Research|Composition and temperature of the neutral tropic lower thermosphere
+1970|4.0|2.0|JAMA|Hong Kong Influenza: Clinical, Microbiologic, and Pathologic Features in 127 Cases
+1971|5.0|5.0|Journal of Geophysical Research|Nonperiodic irregularities in the ionosphere
+1972|0|0.0|Human Organization|The Costs of Cultural Change: Accidental Injury and Modernization among the Papago Indians.
+1973|8.0|1.0|Journal of Geophysical Research|Night side electromagnetic response of the Moon
+1974|8.0|5.5|The Journal of Pediatrics|Intracranial hemorrhage in the prematurely born infant
+1975|2.0|1.5|The Journal of Pediatrics|Brain Tissue Levels in a Fatal Case of Neonatal Mepivacaine (Carbocaine) Poisoning.
+1976|9.0|4.5|Medical and Pediatric Oncology|Receptors for sheep erythrocytes (E) and erythrocyteantibodycomplement complexes (EAC) on the lymphoblasts of childhood acute lymphoblastic leukemia
+1977|3.0|1.0|Omega-journal of Death and Dying|The Relationship to Death as a Source of Stress for Nurses on a Coronary Care Unit.
+1978|5.0|2.0|Journal of Geophysical Research|Ionospheric holes and equatorial spread F: Chemistry and transport
+1979|51.0|4.0|Journal of Geophysical Research|Transversely accelerated ions - An ionospheric source of hot magnetospheric ions
+1980|25.0|3.0|Journal of Geophysical Research|Solar zenith angle dependence of ionospheric ion and electron temperatures and density on Venus
+1981|26.0|1.0|Journal of Atmospheric and Solar-Terrestrial Physics|Spread F Theories - A Review.
+1982|59.0|3.0|The Lancet|ASSOCIATION BETWEEN CARDIOVASCULAR DEATH AND MYOCARDIAL INFARCTION AND SERUM SELENIUM IN A MATCHED-PAIR LONGITUDINAL STUDY
+1983|16.0|3.0|Journal of Geophysical Research|A twodimensional model of the ionosphere of Venus
+1984|6.0|2.0|Leukemia Research|In vivo production of childhood acute lymphoblastic leukemia cells in relation to ploidy and immunological subtype
+1985|30.0|1.0|Acta Medica Scandinavica|Risk Factors for Ischaemic Heart Disease in Men and Women: Results of the 19Year Followup of the Stockholm Prospective Study
+1986|11.0|2.0|Journal of Pineal Research|Rhythmic Melatonin Response of the Syrian Hamster Pineal Gland to Norepinephrine In Vitro and In Vivo
+1987|20.0|2.0|The American Journal of Medicine|When people die. Cause of death versus time of death.
+1988|9.0|2.0|Risk Analysis|Carcinogenic risk assessment with time-dependent exposure patterns
+1989|64.0|1.0|Brain Research Bulletin|Light increases Fos-related protein immunoreactivity in the rat suprachiasmatic nuclei
+1990|10.0|2.0|Archives of Environmental Health|Air pollution and fatal lung disease in three Utah counties.
+1991|19.0|1.0|Journal of Pain and Symptom Management|Validation of World Health Organization guidelines for cancer pain relief during the last days and hours of life
+1992|56.0|2.0|Journal of Experimental Medicine|T cell-mediated lethal shock triggered in mice by the superantigen staphylococcal enterotoxin B: critical role of tumor necrosis factor.
+1993|23.0|2.0|Geophysical Research Letters|The interaction with the lower ionosphere of electromagnetic pulses from lightning: Excitation of optical emissions
+1994|79.0|2.0|FEBS Letters|Mitochondrial respiratory chain inhibitors induce apoptosis.
+1995|36.0|3.0|Radiotherapy and Oncology|Apoptosis, intrinsic radiosensitivity and prediction of radiotherapy response in cervical carcinoma
+1996|89.0|2.0|European Journal of Immunology|Interleukin2 receptor common chain signaling cytokines regulate activated T cell apoptosis in response to growth factor withdrawal: Selective induction of antiapoptotic (bcl2, bclxL) but not proapoptotic (bax, bclxS) gene expression
+1997|61.0|4.0|Trends in Neurosciences|p75NTR and apoptosis: Trk-dependent and Trk-independent effects
+1998|71.0|5.0|Blood|Mcl-1 expression in human neutrophils: Regulation by cytokines and correlation with cell survival
+1999|211.0|5.0|Nature Genetics|PIK3CA is implicated as an oncogene in ovarian cancer
+2000|199.0|7.0|The Lancet|Clinical progression, survival, and immune recovery during antiretroviral therapy in patients with HIV-1 and hepatitis C virus coinfection: the Swiss HIV Cohort Study
+2001|87.0|5.0|European Heart Journal|The prognosis of heart failure in the general population: The Rotterdam Study.
+2002|92.0|8.0|Arteriosclerosis, Thrombosis, and Vascular Biology|Purinergic Signaling and Vascular Cell Proliferation and Death
+2003|435.0|9.0|Circulation|From Vulnerable Plaque to Vulnerable Patient A Call for New Definitions and Risk Assessment Strategies: Part I
+2004|204.0|9.0|Cell Death & Differentiation|Roles of CHOP|[sol]|GADD153 in endoplasmic reticulum stress
+2005|329.0|9.0|Cell Death & Differentiation|Classification of cell death: recommendations of the Nomenclature Committee on Cell Death 2009.
+2006|229.0|10.0|Cell Death & Differentiation|From acute ER stress to physiological roles of the Unfolded Protein Response
+2007|257.0|10.0|Cell Death & Differentiation|Activation of the NALP3 inflammasome is triggered by low intracellular potassium concentration
+2008|400.0|9.0|Cell Death & Differentiation|Identification and expansion of the tumorigenic lung cancer stem cell population
+2009|569.0|9.0||Alcohol and global health 1. Global burden of disease and injury and economic cost attributable to alcohol use and alcohol-use disorders.
+2010|306.0|9.0|The Lancet|Once-only flexible sigmoidoscopy screening in prevention of colorectal cancer: a multicentre randomised controlled trial

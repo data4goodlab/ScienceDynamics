@@ -1,0 +1,63 @@
+----  Field Name Quantum chemistry: 
+----  Field Level 2.0: 
+----  Field Papers Number 46793:
+----  All time max citation paper: Densityfunctional thermochemistry. III. The role of exact exchange, 1993, (36896.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1935|9.0|9.0|Journal of Chemical Physics|Electronic Structures of Polyatomic Molecules and Valence VI. On the Method of Molecular Orbitals
+1955|26.0|12.0|Journal of Chemical Physics|An SCF LCAO MO Study of N2
+1956|25.0|6.0|Journal of Chemical Physics|Molecular Orbital Approximation to Electron Coupled Interaction between Nuclear Spins
+1957|12.0|8.5|Journal of Chemical Physics|Study of the Electronic Ground State of the Ammonia Molecule
+1958|98.0|11.0|Journal of Chemical Physics|Theory of Isotropic Hyperfine Interactions in Electron Radicals
+1959|15.0|11.0|Journal of Chemical Physics|LCAO Wave Functions for Hydrogen Fluoride with HartreeFock Atomic Orbitals
+1960|19.0|9.0|Journal of Chemical Physics|Spin Densities in Odd Alternant Hydrocarbon Radicals
+1961|26.0|6.5|Journal of Chemical Physics|Theory of Localized Contributions to the Chemical Shift. Application to Fluorobenzenes
+1962|36.0|8.0|Journal of Chemical Physics|SCFMO Wave Functions for the Hydrogen Fluoride Molecule
+1963|29.0|13.0|Journal of Chemical Physics|HartreeFock Approximation of CH4 and NH4+
+1964|15.0|6.0|Journal of Chemical Physics|Electronic Structure of N2, CO, and BF
+1965|16.0|2.5|Journal of Chemical Physics|Unrestricted HartreeFock Calculations. II. Spin Properties of PiElectron Radicals
+1966|59.0|3.5|Nuclear Physics|A STUDY OF THE HARTREE-FOCK APPROXIMATION AS APPLIED TO FINITE NUCLEI
+1967|7.0|0.0|Nuclear Physics|Effective interactions for Hartree-Fock calculations
+1968|5.0|0.0|International Journal of Quantum Chemistry|A field theoretical description of states with different orbitals for different spins
+1969|3.0|1.0|Molecular Physics|Paramagnetic resonance in phosphorescent aromatic hydrocarbons. V. The benzene in perdeuterobenzene crystal
+1970|11.0|0.0|Journal of Molecular Spectroscopy|The effect of the breakdown of the Born-Oppenheimer approximation on the determination of B e and  e for a diatomic molecule
+1971|5.0|0.0|Chemical Physics Letters|HartreeFock calculation of the barrier to internal rotation in hydrogen peroxide
+1972|27.0|1.0|Journal of Molecular Spectroscopy|On the breakdown of the Born-Oppenheimer approximation for a diatomic molecule
+1973|43.0|1.0|Journal of Molecular Spectroscopy|A direct approach for the reduction of diatomic spectra to molecular constants for the construction of RKR potentials
+1974|26.0|1.0|Journal of Molecular Spectroscopy|The effective rotation-bending Hamiltonian of a triatomic molecule, and its application to extreme centrifugal distortion in the water molecule
+1975|61.0|4.0|Journal of Chemical Physics|PNOCI and CEPA studies of electron correlation effects. III. Spectroscopic constants and dipole moment functions for the ground states of the firstrow and secondrow diatomic hydrides
+1976|33.0|1.0|Applied Physics Letters|Electronic states of KrF
+1977|36.0|3.0|Journal of Chemical Physics|Configuration interaction calculations on the planar 1(,*) state of ethylene
+1978|52.0|3.0|Journal of Chemical Physics|Electronegativity: The density functional viewpoint
+1979|63.0|3.0|Journal of Chemical Physics|The graphical unitary group approach to the electron correlation problem. Methods and preliminary applications
+1980|58.0|3.0|Journal of Chemical Physics|Reaction path Hamiltonian for polyatomic molecules
+1981|24.0|1.0|Chemical Physics|A quadratically convergent HartreeFock (QC-SCF) method. Application to closed shell systems
+1982|39.0|0.5|Chemical Physics|Unified theoretical treatment of analytic first and second energy derivatives in open-shell HartreeFock theory
+1983|49.0|2.0|Journal of Chemical Physics|Ab initio analytical molecular gradients and Hessians
+1984|81.0|3.0|Journal of Chemical Physics|A coupled cluster approach with triple excitations
+1985|85.0|4.0|Journal of Chemical Physics|Towards a full CCSDT model for electron correlation
+1986|103.0|5.0|Journal of Chemical Physics|Extensive theoretical studies of the hydrogenbonded complexes (H2O)2, (H2O)2H+, (HF)2, (HF)2H+, F2H, and (NH3)2
+1987|123.0|4.0|Journal of Chemical Physics|Quadratic configuration interaction. A general technique for determining electron correlation energies
+1988|79.0|5.0|Journal of Chemical Physics|A multicenter numerical integration scheme for polyatomic molecules
+1989|148.0|4.0|Chemical Physics Letters|A fifth-order perturbation comparison of electron correlation theories
+1990|79.0|4.0|Journal of Chemical Physics|Comparison of coupledcluster methods which include the effects of connected triple excitations
+1991|70.0|4.0|Journal of Chemical Physics|Potential energy surfaces, quasiadiabatic channels, rovibrational spectra, and intramolecular dynamics of (HF)2 and its isotopomers from quantum Monte Carlo calculations
+1992|306.0|4.0|Journal of Chemical Physics|Electron affinities of the firstrow atoms revisited. Systematic basis sets and wave functions
+1993|986.0|5.0|Journal of Chemical Physics|Densityfunctional thermochemistry. III. The role of exact exchange
+1994|138.0|6.0|Journal of Chemical Physics|Gaussian basis sets for use in correlated molecular calculations. IV. Calculation of static electrical response properties
+1995|130.0|3.0|Journal of Chemical Physics|Gaussian basis sets for use in correlated molecular calculations. V. Corevalence basis sets for boron through neon
+1996|107.0|3.0|Chemical Physics Letters|Vibrational frequency prediction using density functional theory
+1997|192.0|2.0|Journal of Chemical Physics|Assessment of Gaussian-2 and density functional theories for the computation of enthalpies of formation
+1998|189.0|2.0|Journal of Chemical Physics|Molecular excitation energies to high-lying bound states from time-dependent density-functional response theory: Characterization and correction of the time-dependent local density approximation ionization threshold
+1999|121.0|3.0|Journal of Chemical Physics|Gaussian basis sets for use in correlated molecular calculations. IX. The atoms gallium through krypton
+2000|116.0|3.0|Journal of Computational Chemistry|QChem 2.0: a highperformance ab initio electronic structure program package
+2001|342.0|3.0|Journal of Computational Chemistry|Chemistry with ADF
+2002|724.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Mean shift: a robust approach toward feature space analysis
+2003|165.0|4.0|Journal of Chemical Physics|Long-range charge-transfer excited states in time-dependent density functional theory require non-local exchange
+2004|276.0|4.0|Nature|Atomic-scale imaging of carbon nanofibre growth
+2005|1081.0|4.0|Nature|Two-dimensional gas of massless Dirac fermions in graphene
+2006|785.0|3.0|Journal of Computational Chemistry|Semiempirical GGAtype density functional constructed with a longrange dispersion correction
+2007|229.0|4.0|Journal of Computational Chemistry|Density functional theory augmented with an empirical dispersion term. Interaction energies and geometries of 80 noncovalent complexes compared with ab initio quantum mechanics calculations
+2008|2448.0|4.0|Theoretical Chemistry Accounts|The M06 suite of density functionals for main group thermochemistry, thermochemical kinetics, noncovalent interactions, excited states, and transition elements: two new functionals and systematic testing of four M06-class functionals and 12 other functionals
+2009|916.0|4.0|Journal of Physics: Condensed Matter|Quantum ESPRESSO: a modular and open-source software project for quantum simulations of materials
+2010|2461.0|4.0|Journal of Chemical Physics|A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu

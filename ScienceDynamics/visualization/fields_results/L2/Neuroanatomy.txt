@@ -1,0 +1,50 @@
+----  Field Name Neuroanatomy: 
+----  Field Level 2.0: 
+----  Field Papers Number 22446:
+----  All time max citation paper: Voxel-based morphometry - The methods, 2000, (3819.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1966|7.0|7.0|Journal of Clinical Investigation|Circulatory effects of stimulating the carotid arterial stretch receptors in man at rest and during exercise.
+1968|4.0|4.0|Physiology & Behavior|Effects of a Few Hours a Day of Enriched Experience on Brain Chemistry and Brain Weights
+1969|46.0|25.5|Brain Research|The effect of colchicine on the axonal transport of protein in the optic nerve and tract of the rabbit
+1970|38.0|3.0|Journal of Neurochemistry|EFFECTS OF COLCHICINE ON AXONAL TRANSPORT IN PERIPHERAL NERVES
+1971|100.0|17.0|Brain Research|Axonal uptake and retrograde transport of exogenous proteins in the hypoglossal nerve
+1972|46.0|17.0|Journal of Neurochemistry|FAST AXONAL TRANSPORT IN VITRO IN THE SCIATIC SYSTEM OF THE FROG
+1973|43.0|8.0|Journal of Neurochemistry|AXONAL TRANSPORT OF CATECHOLAMINE SYNTHESIZING AND METABOLIZING ENZYMES
+1974|95.0|11.5|Brain Research|The retrograde axonal transport of nerve growth factor
+1975|105.0|10.0|Neuroscience Letters|Retrograde axonal transport of horseradish peroxidase from spinal cord to brain stem cell groups in the cat
+1976|48.0|8.5|Brain Research|Retrograde transport of horseradish peroxidase in transected axons. 3. Entry into injured axons and subsequent localization in perikaryon
+1977|79.0|10.0|Brain Research|A new and sensitive staining method for axonally transported horseradish peroxidase (HRP) in the pigeon visual system
+1978|94.0|7.0|Brain Research|Immunocytochemical localization of glutamic acid decarboxylase in neuronal somata following colchicine inhibition of axonal transport
+1979|65.0|8.0|Neuroscience|An approach to tracing neuron networks in the cerebral cortex and basal ganglia. Combination of golgi staining, retrograde transport of horseradish peroxidase and anterograde degeneration of synaptic boutons in the same material
+1980|62.0|6.0|Brain Research|Bombesin: Receptor distribution in brain and effects on nociception and locomotor activity
+1981|118.0|6.0|Brain Research|A method for tracing biochemically defined pathways in the central nervous system using combined fluorescence retrograde transport and immunohistochemical techniques
+1982|70.0|6.0|The Journal of Comparative Neurology|Axonal guidance during development of the great cerebral commissures: Descriptive and experimental studies, in vivo, on the role of preformed glial pathways
+1983|71.0|7.0|The Journal of Comparative Neurology|Morphology and location of tectal projection neurons in frogs: A study with hrp and cobaltfilling
+1984|143.0|6.0|Brain Research|Specific retrograde transport of nerve growth factor (NGF) from neocortex to nucleus basalis in the rat
+1985|117.0|7.5|The Journal of Comparative Neurology|The efferent projections from the reticular formation and the locus coeruleus studied by anterograde and retrograde axonal transport in the rat.
+1986|66.0|4.5|Neuroscience Letters|Substance P and calcitonin gene-related peptide synergistically modulate the gain of the nociceptive flexor withdrawal reflex in the rat
+1987|57.0|6.0|Brain Research|Role of excitatory amino acids in rat vagal and sympathetic baroreflexes
+1988|91.0|4.0|Journal of Neurochemistry|Extracellular Amino Acid Concentrations in the Dorsal Spinal Cord of Freely Moving Rats Following Veratridine and Nociceptive Stimulation
+1989|94.0|6.0|Pain|Expansion of receptive fields of spinal lamina I projection neurons in rats with unilateral adjuvant-induced inflammation: the contribution of dorsal horn mechanisms.
+1990|145.0|6.0|Cell|Microtubule-dependent retrograde transport of proteins into the ER in the presence of brefeldin a suggests an ER recycling pathway
+1991|116.0|5.0|The Journal of Comparative Neurology|Specific temporal and spatial distribution of JUN, FOS, and KROX24 proteins in spinal neurons following noxious transsynaptic stimulation
+1992|237.0|5.0|Neuron|The neurotrophins BDNF, NT-3, and NGF display distinct patterns of retrograde axonal transport in peripheral and central neurons
+1993|326.0|6.0|Pain|Contribution of central neuroplasticity to pathological pain: review of clinical and experimental evidence
+1994|299.0|7.0|Journal of Neurobiology|The Trk family of neurotrophin receptors
+1995|251.0|7.0|Cell|In vitro guidance of retinal ganglion cell axons by RAGS, a 25 kDa tectal protein related to ligands for Eph receptor tyrosine kinases
+1996|656.0|8.0|Science|The Molecular Biology of Axon Guidance
+1997|217.0|9.0|Cell|Neuropilin Is a Semaphorin III Receptor
+1998|415.0|10.0|Proceedings of the National Academy of Sciences of the United States of America|SMART, a simple modular architecture research tool: Identification of signaling domains
+1999|362.0|10.0|Nature Neuroscience|Learning enhances adult neurogenesis in the hippocampal formation
+2000|491.0|11.0|NeuroImage|Voxel-based morphometry - The methods
+2001|301.0|13.0|The Journal of Comparative Neurology|Adult neurogenesis produces a large pool of new granule cells in the dentate gyrus
+2002|233.0|13.0|Trends in Neurosciences|Exercise: a behavioral intervention to enhance brain health and plasticity.
+2003|507.0|14.0|Annual Review of Neuroscience|STRESS AND HIPPOCAMPAL PLASTICITY
+2004|236.0|15.0|Neuron|For the Long Run
+2005|448.0|13.0|Annual Review of Neuroscience|ADULT NEUROGENESIS IN THE MAMMALIAN CENTRAL NERVOUS SYSTEM
+2006|513.0|15.0|Biological Psychiatry|A Neurotrophic Model for Stress-Related Mood Disorders
+2007|333.0|15.0|Science|Human neuroblasts migrate to the olfactory bulb via a lateral ventricular extension.
+2008|1010.0|14.0|Cell|Mechanisms and Functional Implications of Adult Neurogenesis
+2009|638.0|14.0|Annual Review of Neuroscience|The Glial Nature of Embryonic and Adult Neural Stem Cells
+2010|1323.0|16.0|PLOS ONE|Cell Type-Specific Neuroprotective Activity of Untranslocated Prion Protein

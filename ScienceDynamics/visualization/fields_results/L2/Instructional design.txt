@@ -1,0 +1,44 @@
+----  Field Name Instructional design: 
+----  Field Level 2.0: 
+----  Field Papers Number 4451:
+----  All time max citation paper: Cognitive Architecture and Instructional Design, 1998, (1232.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1973|1.0|1.0|Educational Technology Research and Development|Cost Evaluation of Instructional Strategies.
+1974|1.0|1.0|Instructional Science|Effects of Instructional Objectives on Learning and Retention.
+1975|6.0|0.0|Review of Educational Research|Meaning in Complex Learning
+1976|20.0|3.0|Review of Educational Research|Components of a Psychology of Instruction: Toward a Science of Design.
+1977|0|0.0|Journal of Literacy Research|Research Directions and the Design of Reading Instruction.
+1978|17.0|2.0|Instructional Science|The Structure of Subject Matter Content and Its Instructional Design Implications.
+1979|14.0|3.0|Instructional Science|Twenty Years of Research on Advance Organizers: Assimilation Theory Is Still the Best Predictor of Results.
+1980|18.0|2.0|Journal of Instructional Development|A Comparative Analysis of Models of Instructional Design.
+1981|7.0|1.0|Journal of Instructional Development|Integrating Learning Theory with Instructional Design.
+1982|9.0|1.0|Reading Research Quarterly|The Effective Instruction of Comprehension: Results and Description of the Kamehameha Early Education Program.
+1983|22.0|1.0|Educational Psychologist|Cognitive Research and the Design of Science Instruction.
+1984|12.0|2.0|Instructional Science|From Behaviourism to Cognitive Behaviourism to Cognitive Development: Steps in the Evolution of Instructional Design.
+1985|8.0|1.5|Educational Technology Research and Development|Transfer of Training Principles for Instructional Design.
+1986|18.0|1.5|Review of Educational Research|An Empirically Based Instructional Design Theory for Teaching Concepts.
+1987|16.0|2.0|Educational Researcher|Instructional Alignment: Searching for a Magic Bullet
+1988|12.0|2.0|Journal of Instructional Development|Why the Schools Can't Improve: The Upper Limit Hypothesis.
+1989|18.0|2.0||Facilitating the development of representations in hypertext with IDE
+1990|59.0|2.0|Artificial Intelligence|Causal model progressions as a foundation for intelligent learning environments
+1991|74.0|2.0|Review of Educational Research|Learning with Media.
+1992|22.0|1.0|Performance Improvement Quarterly|What Do Instructional Designers Actually Do? An Initial Investigation of Expert Practice
+1993|17.0|2.0|Educational Technology Research and Development|Instructional Design for Situated Learning.
+1994|26.0|2.0|Cognition and Instruction|Why Some Material Is Difficult to Learn
+1995|61.0|1.0||Problem Based Learning: An Instructional Model and Its Constructivist Framework.
+1996|24.0|2.0|Journal of Educational Psychology|When Less Is More: Meaningful Learning from Visual and Verbal Summaries of Science Textbook Lessons.
+1997|35.0|1.0|Educational Technology Research and Development|Instructional Design Models for Well-Structured and Ill-Structured Problem-Solving Learning Outcomes.
+1998|55.0|2.0|Educational Psychology Review|Cognitive Architecture and Instructional Design
+1999|110.0|2.5|Educational Researcher|Cognitive and Situated Learning Perspectives in Theory and Practice.
+2000|109.0|5.0||Connecting learning objects to instructional design theory: A definition, a metaphor, and a taxonomy
+2001|37.0|3.0|Distance Education|Virtual interaction: Design factors affecting student satisfaction and perceived learning in asynchronous online courses
+2002|104.0|4.0||Over-scripting CSCL: The risks of blending collaborative learning with instructional design.
+2003|116.0|3.0|Learning and Instruction|The Promise of Multimedia Learning: Using the Same Instructional Design Methods across Different Media
+2004|123.0|3.0|Educational Technology & Society|Representing the Learning Design of Units of Learning
+2005|182.0|4.0|Educational Psychology Review|Cognitive Load Theory and Complex Learning: Recent Developments and Future Directions.
+2006|109.0|4.0|International Journal of Computer-supported Collaborative Learning|Technology Affordances for Intersubjective Meaning Making: A Research Agenda for CSCL
+2007|106.0|4.0|Learning and Instruction|Instructional animation versus static pictures: A meta-analysis
+2008|125.0|5.0|Computers in Education|Student perceptions of collaborative learning, social presence and satisfaction in a blended learning environment: Relationships and critical factors
+2009|139.0|5.0|American Journal of Distance Education|Learnerinterface interaction in distance education: An extension of contemporary models and strategies for practitioners
+2010|1118.0|6.0|Educational Psychologist|Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching

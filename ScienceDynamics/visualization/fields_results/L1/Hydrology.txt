@@ -1,0 +1,67 @@
+----  Field Name Hydrology: 
+----  Field Level 1.0: 
+----  Field Papers Number 45263:
+----  All time max citation paper: A review of the source, behaviour and distribution of arsenic in natural waters, 2002, (2461.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1934|0|0.0||Thrips Resistance in the Onion.
+1940|0|0.0|Annals of Applied Biology|THE INFLUENCES OF SOWING DEPTH AND MOISTURE ON SMUT DISEASES, AND THE PROSPECTS OF A NEW METHOD OF CONTROL
+1950|0|0.0|American Journal of Potato Research|Air and soil temperatures in potato fields, Kern County, California, during spring and early summer.
+1952|0|0.0||Mosquitoes of the Northwestern States.
+1953|4.0|2.0||The hydraulic geometry of stream channels and some physiographic implications
+1954|8.0|4.5|Geochimica et Cosmochimica Acta|The transport and deposition of uranium, ionium and radium in rivers, oceans and ocean sediments
+1955|0|0.0||Geology and ground-water resources of Galveston County, Texas
+1956|0|0.0|Journal of the Marine Biological Association of the United Kingdom|The effect of water conservation on the structure of marine fish embryos and larvae
+1958|14.0|14.0|Annals of Applied Biology|FURTHER STUDIES ON RASPBERRY RINGSPOT AND TOMATO BLACK RING, SOILBORNE VIRUSES THAT AFFECT RASPBERRY
+1959|1.0|0.0||Bionomics of the rice leaf miner, Hydrellia griseola (Fallen), in California (Diptera: Ephydridae).
+1960|3.0|0.0|Annals of Applied Biology|STUDIES ON THE IMPORTANCE OF WILD BEET AS A SOURCE OF PATHOGENS FOR THE SUGARBEET CROP
+1961|10.0|10.0|Geochimica et Cosmochimica Acta|The geochemistry of cobalt
+1962|1.0|1.0|Journal of Geophysical Research|Effects of vegetation manipulation on the disposition of precipitation on chaparralcovered watersheds
+1963|0|0.0|Journal of Geophysical Research|Tests of chemical treatments to reduce erosion from burned watersheds
+1964|1.0|1.0|Acta Neurochirurgica|Flow considerations in regional cerebral hypothermia
+1965|1.0|1.0|Crop & Pasture Science|Evapotranspiration of Safflower at three densities of sowing
+1966|8.0|0.0|Water Resources Research|Theoretical analysis of regional groundwater flow: 1. Analytical and numerical solutions to the mathematical model
+1967|5.0|2.0|Agricultural Meteorology|Daily measurements of potential evapotranspiration from fully canopied sugarcane
+1968|11.0|1.0|Water Resources Research|BaseFlow RecessionsA Review
+1969|15.0|1.0|Physiology & Behavior|Water conservation by inhibition of food intake
+1970|6.0|1.0|Respiration Physiology|Exhaled air temperature and water conservation in lizards
+1971|8.0|3.0||Selected Digital Computer Techniques for Groundwater Resource Evaluation
+1972|9.0|1.5|Water Resources Research|Role of subsurface flow in generating surface runoff: 2. Upstream source areas
+1973|13.0|3.0|Journal of Surgical Research|Functional preservation of the mammalian kidney I. Normothermia, low-flow perfusion
+1974|12.0|2.0|Water Resources Research|Field test of a modified numerical model for water uptake by root systems
+1975|30.0|2.0|Water Resources Research|A stochasticconceptual analysis of onedimensional groundwater flow in nonuniform homogeneous media
+1976|11.0|1.0|Journal of Geophysical Research|Translational inner core oscillations of a rotating, slightly elliptical Earth
+1977|29.0|2.0|Estuarine and Coastal Marine Science|Pollution history of Narragansett Bay as recorded in its sediments
+1978|28.0|3.0|Water Resources Research|Stochastic analysis of spatial variability in subsurface flows: 1. Comparison of one and threedimensional flows
+1979|20.0|2.0|Journal of Geophysical Research|Formation of Martian flood features by release of water from confined aquifers
+1980|24.0|1.0|Tectonophysics|High temperature flow and dynamic recrystallization in carrara marble
+1981|39.0|2.0|Water Resources Research|Canopy temperature as a crop water stress indicator
+1982|33.0|4.0|Water Resources Research|Stochastic modeling of groundwater flow by unconditional and conditional probabilities: 1. Conditional simulation and the direct problem
+1983|37.0|2.0|Water Resources Research|A review of distributed parameter groundwater management modeling methods
+1984|31.0|3.0|Technometrics|Estimation of the generalized extreme-value distribution by the method of probability-weighted moments
+1985|61.0|2.0|Water Resources Research|Validity of the Local Equilibrium Assumption for Modeling Sorbing Solute Transport Through Homogeneous Soils
+1986|73.0|3.0|Water Resources Research|Statistical Theory of Groundwater Flow and Transport: Pore to Laboratory, Laboratory to Formation, and Formation to Regional Scale
+1987|41.0|2.0|Water Resources Research|An evaluation of uncertainty associated with aluminum equilibrium calculations
+1988|31.0|2.0|Hepatology|Early midzonal cell death during lowflow hypoxia in the isolated, perfused rat liver: Protection by allopurinol
+1989|47.0|2.0|Water Resources Research|Stochastic analysis of nonstationary subsurface solute transport: 1. Unconditional moments
+1990|49.0|2.0|Reviews of Geophysics|Similarity and scale in catchment storm response
+1991|43.0|2.0|Hydrological Processes|The prediction of hillslope flow paths for distributed hydrological modelling using digital terrain models
+1992|65.0|3.0|Journal of Geophysical Research|An overview of the First International Satellite Land Surface Climatology Project (ISLSCP) Field Experiment (FIFE)
+1993|37.0|2.0|Advances in Water Resources|Prophecy, reality and uncertainty in distributed hydrological modelling
+1994|97.0|2.0|Climate Dynamics|Decadal atmosphere-ocean variations in the Pacific
+1995|153.0|3.0|IEEE Computer|Chabot: retrieval from a relational database of images
+1996|76.0|3.0|Global Biogeochemical Cycles|An integrated biosphere model of land surface processes, terrestrial carbon balance, and vegetation dynamics
+1997|64.0|3.0|Journal of Geophysical Research|Seasonal variation of carbon dioxide, water vapor, and energy exchanges of a boreal black spruce forest
+1998|82.0|4.0|international professional communication conference|The regional impacts of climate change: an assessment of vulnerability.
+1999|81.0|5.0|IEEE Transactions on Geoscience and Remote Sensing|Soil moisture mapping at regional scales using microwave radiometry: the Southern Great Plains Hydrology Experiment
+2000|185.0|5.0|Advances in Ecological Research|Estimates of the annual net carbon and water exchange of forests: the EUROFLUX methodology.
+2001|184.0|5.0|Nature|Structural basis of water-specific transport through the AQP1 water channel.
+2002|418.0|5.0|Applied Geochemistry|A review of the source, behaviour and distribution of arsenic in natural waters
+2003|205.0|6.0|Annual Review of Ecology, Evolution, and Systematics|STREAMS IN THE URBAN LANDSCAPE
+2004|374.0|6.0|Journal of Geophysical Research|Analysis of process controls in land surface hydrological cycle over the continental United States
+2005|331.0|7.0|Nature|Uncertainty in predictions of the climate response to rising levels of greenhouse gases
+2006|535.0|7.0|Journal of Geophysical Research|Global observed changes in daily climate extremes of temperature and precipitation
+2007|287.0|7.0|International Journal of Climatology|Linking climate change modelling to impacts studies : recent advances in downscaling techniques for hydrological modelling
+2008|646.0|7.0||Climate change and water.
+2009|409.0|8.0|Geophysical Research Letters|Higher surface mass balance of the Greenland ice sheet revealed by high-resolution climate modeling
+2010|386.0|7.0|Journal of Hydrology|A review of drought concepts

@@ -1,0 +1,27 @@
+----  Field Name Ensemble learning: 
+----  Field Level 2.0: 
+----  Field Papers Number 3060:
+----  All time max citation paper: Rapid object detection using a boosted cascade of simple features, 2001, (4504.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1984|1.0|1.0|Acta Pathologica Microbiologica Scandinavica Series C: Immunology|IN VIVO AND IN VITRO BOOSTING EFFECTS OF TUBERCULIN SKIN TESTS IN GUINEAPIGS IMMUNIZED WITH LIVING BCG OR WITH KILLED MYCOBACTERIUM TUBERCULOSIS
+1990|50.0|50.0|international symposium on computer architecture|Boosting beyond static scheduling in a superscalar processor
+1991|4.0|2.5|international symposium on computer architecture|Multi-threaded vectorization
+1993|17.0|2.0|international symposium on computer architecture|The performance of cache-coherent ring-based multiprocessors
+1994|4.0|0.0|design automation conference|Global Scheduling for High-Level Synthesis Applications
+1995|13.0|9.0|foundations of computer science|Splitters and near-optimal derandomization
+1996|15.0|6.0|IEEE Transactions on Software Engineering|A general theory of composition for a class of "possibilistic" properties
+1997|29.0|4.0|IEEE Journal of Solid-state Circuits|A dynamic analysis of the Dickson charge pump circuit
+1998|325.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|On combining classifiers
+1999|257.0|7.5|Machine Learning|An Empirical Comparison of Voting Classification Algorithms: Bagging, Boosting, and Variants
+2000|203.0|4.5|Machine Learning|An Experimental Comparison of Three Methods for Constructing Ensembles of Decision Trees: Bagging, Boosting, and Randomization
+2001|702.0|5.0|computer vision and pattern recognition|Rapid object detection using a boosted cascade of simple features
+2002|131.0|6.0|Artificial Intelligence|Ensembling neural networks: many could be better than all
+2003|69.0|6.0|computer vision and pattern recognition|Kullback-Leibler boosting
+2004|840.0|9.0|International Journal of Computer Vision|Robust Real-Time Face Detection
+2005|359.0|6.0|International Journal of Computer Vision|Detecting Pedestrians Using Patterns of Motion and Appearance
+2006|178.0|5.0|computer vision and pattern recognition|On-line Boosting and Vision
+2007|164.0|4.0|International Journal of Computer Vision|Detection and Tracking of Multiple, Partially Occluded Humans by Bayesian Combination of Edgelet based Part Detectors
+2008|186.0|3.0|computer vision and pattern recognition|In defense of Nearest-Neighbor based image classification
+2009|259.0|2.0|Image and Vision Computing|Facial expression recognition based on Local Binary Patterns: A comprehensive study
+2010|239.0|3.0|Artificial Intelligence Review|Ensemble-based classifiers

@@ -1,0 +1,43 @@
+----  Field Name Computer-aided manufacturing: 
+----  Field Level 2.0: 
+----  Field Papers Number 1760:
+----  All time max citation paper: Cellular automata machines, 1986, (385.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1961|3.0|3.0|Proceedings of The Institute of Radio Engineers|Developments in the Logical Organization of Computer Arithmetic and Control Units
+1970|0|0.0|IEEE Journal of Solid-state Circuits|Integrated-circuit content-addressable memories
+1974|2.0|2.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|A multiline computer voice response system utilizing ADPCM coded speech
+1976|3.0|2.5|IEEE Computer|Key Developments in Computer Technology: A Survey
+1978|24.0|18.5|design automation conference|Methods for Hierarchical Automatic Layout of Custom LSI Circuit Masks
+1979|0|0.0|IEEE Transactions on Biomedical Engineering|Image Enhancement of Conventional Transverse-Axial Tomograms
+1980|31.0|11.0|IEEE Transactions on Communications|OSI Reference Model--The ISO Model of Architecture for Open Systems Interconnection
+1981|14.0|3.5|design automation conference|The Relational/Network Hybrid Data Model for Design Automation Databases
+1982|29.0|0.5|IEEE Computer Graphics and Applications|GWB: A Solid Modeler with Euler Operators
+1983|52.0|2.0|IEEE Computer Graphics and Applications|Solid modeling: current status and research directions
+1984|7.0|2.5|IEEE Computer|Fault-Tolerant Semiconductor Memories
+1985|7.0|2.0|Robotics|Manufacturing and artificial intelligence
+1986|42.0|2.0||Cellular automata machines
+1987|33.0|3.5|ACM Computing Surveys|An analysis of geometric modeling in database systems
+1988|27.0|1.0|design automation conference|Versions and change notification in an object-oriented database system
+1989|31.0|3.0||Test generation for current testing
+1990|31.0|1.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Geometric reasoning for recognition of three-dimensional object features
+1991|44.0|2.0|IEEE Software|The Spring kernel: a new paradigm for real-time systems
+1992|36.0|2.0|IEEE Computer|DDM-a cache-only memory architecture
+1993|23.0|1.0|international conference on computer communications|Fast routing table lookup using CAMs
+1994|62.0|1.0|IEEE Transactions on Knowledge and Data Engineering|Spatial SQL: a query and presentation language
+1995|43.0|2.0|international conference on data engineering|Building an integrated active OODBMS: requirements, architecture, and design decisions
+1996|54.0|3.0|international symposium on computer architecture|STiNG: A CC-NUMA Computer System for the Commercial Marketplace
+1997|40.0|1.0|IEEE Transactions on Robotics and Automation|Event-based feedback control for deadlock avoidance in flexible production systems
+1998|48.0|1.5|Proceedings of the IEEE|Geometry coding and VRML
+1999|13.0|2.0|design automation conference|Test generation for Gigahertz processors using an automatic functional constraint extractor
+2000|41.0|3.0|Proceedings of the IEEE|Supervisory control of hybrid systems
+2001|57.0|3.0|euromicro conference on real-time systems|Determining optimal processor speeds for periodic real-time tasks with different power characteristics
+2002|48.0|3.5|Computer Methods and Programs in Biomedicine|Recent development on computer aided tissue engineering--a review.
+2003|35.0|3.0|Review of Scientific Instruments|Laser transfer of biomaterials: Matrix-assisted pulsed laser evaporation (MAPLE) and MAPLE Direct Write
+2004|36.0|2.0|Dental Materials|CAD/CAM-machining effects on Y-TZP zirconia
+2005|41.0|3.0|international symposium on computer architecture|Computing Architectural Vulnerability Factors for Address-Based Structures
+2006|115.0|4.0|IEEE Journal of Solid-state Circuits|Content-addressable memory (CAM) circuits and architectures: a tutorial and survey
+2007|69.0|3.0|International Journal of Production Research|STEP-compliant NC research: the search for intelligent CAD/CAPP/CAM/CNC integration
+2008|54.0|2.0|systems man and cybernetics|A Survey and Comparison of Petri Net-Based Deadlock Prevention Policies for Flexible Manufacturing Systems
+2009|142.0|1.0|computational intelligence and security|A detailed analysis of the KDD CUP 99 data set
+2010|114.0|4.0|cloud computing|Performance Analysis of High Performance Computing Applications on the Amazon Web Services Cloud

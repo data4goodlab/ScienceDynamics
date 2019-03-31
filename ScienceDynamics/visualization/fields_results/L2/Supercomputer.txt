@@ -1,0 +1,62 @@
+----  Field Name Supercomputer
+----  Field Level 2.0
+----  Field Papers Number 151120
+----  All time max citation paper Histograms of oriented gradients for human detection, 2005, (4962.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1941|0|0.0||The problem of cooling an air-cooled cylinder on an aircraft engine
+1948|1.0|1.0|Journal of the American Oil Chemists' Society|Partial hydrogenation of linseed oil by a continuous process
+1957|1.0|0.5|Management Science|A Linear Programming Solution to Dynamic Leontief type Models
+1958|0|0.0|Proceedings of The Iee Part C: Monographs|The variation with current and inductance of metal transfer between contacts of palladium and silver
+1959|27.0|5.0|Journal of Geophysical Research|Calculations on the thermal history of the Earth
+1960|3.0|2.0|Journal of Chemical Physics|Statistical Mechanics of Transport Processes. XIV. Linear Relations in Multicomponent Systems
+1961|15.0|4.0|Journal of Dairy Science|Method for Removing Cationic Radionuclides from Milk
+1962|8.0|0.5|Planetary and Space Science|Kinetic properties of interplanetary matter
+1963|34.0|5.0||Sketchpad: a man-machine graphical communication system
+1964|27.0|3.0|Journal of Geophysical Research|Excitation by local electric fields in the aurora and airglow
+1965|24.0|3.0|Journal of Geophysical Research|Stable auroral red arcs, sinks for energy of D st main phase
+1966|33.0|1.5|Planetary and Space Science|HYDROMAGNETIC FLOW AROUND THE MAGNETOSPHERE
+1967|58.0|4.0|Journal of the ACM|A Machine-Independent Theory of the Complexity of Recursive Functions
+1968|33.0|2.0|Journal of Geophysical Research|Universaltime control of the lowenergy electron fluxes in the polar regions
+1969|32.0|3.0|Journal of Geophysical Research|Convection in a mantle with variable physical properties
+1970|58.0|2.0|Journal of Geophysical Research|Observation of a solar flare induced interplanetary shock and heliumenriched driver gas
+1971|23.0|2.0|ACM Computing Surveys|Third Generation Computer Systems
+1972|32.0|2.0|Communications of The ACM|Properties of the working-set model
+1973|39.0|2.0|Journal of Geophysical Research|Magnetic storm characteristics of the thermosphere.
+1974|26.0|1.0|Communications of The ACM|Protection and the control of information sharing in multics
+1975|93.0|2.0|Journal of the ACM|Open, Closed, and Mixed Networks of Queues with Different Classes of Customers
+1976|28.0|2.0|Biological Cybernetics|Elementary movement detectors in an insect visual system
+1977|54.0|2.0|Journal of Geophysical Research|Properties of aerosols in the Martian atmosphere, as inferred from Viking Lander imaging data
+1978|44.0|2.0|Communications of The ACM|Implications of structured programming for machine architecture
+1979|37.0|2.0|Journal of Geophysical Research|Convection, composition, and the thermal state of the lower mantle
+1980|50.0|2.0|Earth and Planetary Science Letters|Hydrothermal heat flux of the black smoker vents on the East Pacific Rise
+1981|60.0|2.0|symposium on operating systems principles|Accent: A communication oriented network operating system kernel
+1982|195.0|2.0|Psychological Review|How Does a Brain Build a Cognitive Code?
+1983|230.0|2.0|Communications of The ACM|Ethernet: distributed packet switching for local computer networks
+1984|75.0|2.0|Nature|The neostriatal mosaic: compartmentalization of corticostriatal input and striatonigral output systems
+1985|89.0|2.0|Journal of Experimental Psychology: General|Distributed memory and the representation of general and specific information.
+1986|194.0|2.0|international conference on management of data|The design of POSTGRES
+1987|305.0|2.0|IEEE Computer|Hypertext: An Introduction and Survey
+1988|108.0|2.0|programming language design and implementation|Software pipelining: an effective scheduling technique for VLIW machines
+1989|94.0|2.0|winter simulation conference|Introduction to SIMAN
+1990|164.0|2.0|Proceedings of the IEEE|The high-level synthesis of digital systems
+1991|123.0|3.0|Journal of Computer and System Sciences|How to emulate shared memory
+1992|295.0|2.0|acm conference on systems programming languages and applications software for humanity|SPLASH: Stanford parallel applications for shared-memory
+1993|172.0|3.0|IEEE\/ACM Transactions on Networking|A generalized processor sharing approach to flow control in integrated services networks: the multiple node case
+1994|189.0|3.0|international symposium on computer architecture|The Stanford FLASH multiprocessor
+1995|290.0|2.0|international symposium on computer architecture|The SPLASH-2 programs: characterization and methodological considerations
+1996|157.0|2.0|IEEE Computer|TreadMarks: shared memory computing on networks of workstations
+1997|221.0|2.0|Trends in Neurosciences|Reactive astrocytes: cellular and molecular cues to biological function
+1998|171.0|3.0|Trends in Neurosciences|What is the amygdala?
+1999|230.0|3.0|international conference on software engineering|N degrees of separation: multi-dimensional separation of concerns
+2000|210.0|3.0|Nature Genetics|Analysis of yeast protein kinases using protein chips
+2001|952.0|3.0||Pastry: Scalable, Decentralized Object Location, and Routing for Large-Scale Peer-to-Peer Systems
+2002|492.0|4.0|IEEE Journal on Selected Areas in Communications|A case for end system multicast
+2003|863.0|4.0|symposium on operating systems principles|Xen and the art of virtualization
+2004|399.0|4.0|Journal of the American College of Cardiology|Left ventricular dyssynchrony predicts response and prognosis after cardiac resynchronization therapy
+2005|1113.0|4.0|computer vision and pattern recognition|Histograms of oriented gradients for human detection
+2006|369.0|3.0|IEEE Journal on Selected Areas in Communications|On the optimality of multiantenna broadcast scheduling using zero-forcing beamforming
+2007|708.0|3.0|Computer Graphics Forum|A Survey of GeneralPurpose Computation on Graphics Hardware
+2008|1129.0|2.0|Nucleic Acids Research|KEGG for linking genomes to life and the environment.
+2009|1033.0|2.0|Future Generation Computer Systems|Cloud computing and emerging IT platforms: Vision, hype, and reality for delivering computing as the 5th utility
+2010|1756.0|3.0|Journal of Computational Chemistry|AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading

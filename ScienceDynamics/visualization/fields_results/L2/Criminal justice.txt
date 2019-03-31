@@ -1,0 +1,44 @@
+----  Field Name Criminal justice: 
+----  Field Level 2.0: 
+----  Field Papers Number 3631:
+----  All time max citation paper: A 33-Year Follow-up of Narcotics Addicts, 2001, (342.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1972|1.0|0.5|Law & Society Review|Two Models of the Criminal Justice System: An Organizational Perspective
+1974|0|0.0|Journal of Criminal Justice|Toward undergraduate education in the interface of mental health and criminal justice
+1975|13.0|0.5|Social Problems|The Social and Legal Construction of Criminal Justice: A Study of the Pre-Sentencing Process
+1976|2.0|1.0|Journal of Criminal Justice|Criminal justice: An emerging academic profession and discipline
+1977|2.0|0.0|Journal of Criminal Justice|Criminal justice programs in higher education: Course and curriculum orientations
+1978|21.0|0.0|Social Problems|Extra-Legal Factors in Chicago's Criminal Courts: Testing The Conflict Model of Criminal Justice
+1979|6.0|3.0|Journal of Criminal Justice|Relative prestige of criminal justice doctoral programs
+1980|13.0|0.0|Acta Psychologica|Structuring decision problems for decision analysis
+1981|5.0|1.0|Behavior Therapy|Increasing employment in ex-heroin addicts I: Criminal justice sample
+1982|3.0|0.0|Social Science Research|Throwing the cops back out: The decline of a local program to make the criminal justice system more responsive to incidents of domestic violence
+1983|8.0|1.5|Law and Human Behavior|Opinions of attorneys and law enforcement personnel on the accuracy of eyewitness identifications.
+1984|7.0|1.0|Crime & Delinquency|Offender Types and Public Policy
+1985|5.0|0.0|Social Science Research|The social organization of criminal justice processing: An event history analysis
+1986|4.0|0.5|Management Science|An adaptive filter for estimating spatially-varying parameters: application to modeling police hours spent in response to calls for service
+1987|4.0|0.0|Journal of Criminal Justice|Assessing the quality of doctoral programs in deviance, criminology, and criminal justice: A response to Thomas and Bronick
+1988|9.0|0.0|Community Mental Health Journal|Are Jails Replacing the Mental Health System for the Homeless Mentally Ill?
+1989|10.0|1.0|Crime and Justice|Criminal Justice Procedures in Family Violence Crimes
+1990|19.0|1.0|Social Science & Medicine|Urban desertification, public health and public order: 'Planned shrinkage', violent death, substance abuse and AIDS in the Bronx
+1991|4.0|1.0|The American Sociologist|Declining Enrollments of Sociology Majors: Department Responses.
+1992|6.0|1.0|Law and Human Behavior|An Evaluation of a Maximum Security Therapeutic Community for Psychopaths and Other Mentally Disordered Offenders
+1993|6.0|0.5|Journal of Quantitative Criminology|Rape law reform and the effect of victim characteristics on case processing
+1994|8.0|1.0|Journal of Research in Crime and Delinquency|Deviating from the Mean: The Declining Significance of Significance
+1995|7.0|1.5|Personality and Individual Differences|Irritability and impulsiveness: relationship to self-reported impulsive aggression
+1996|16.0|2.0|Journal of Economic Perspectives|Why Do So Many Young American Men Commit Crimes and What Might We Do about It?
+1997|22.0|1.0|American Psychologist|The psychology of confession evidence.
+1998|17.0|1.0|Drug and Alcohol Dependence|Cannabis dependence, withdrawal, and reinforcing effects among adolescents with conduct symptoms and substance use disorders1
+1999|17.0|3.0|Crime & Delinquency|Race, Class, and Perceptions of Discrimination by the Police
+2000|24.0|1.0|American Sociological Review|Ethnicity and sentencing outcomes in U.S. Federal Courts : Who is punished more harshly?
+2001|85.0|2.0|Archives of General Psychiatry|A 33-Year Follow-up of Narcotics Addicts
+2002|46.0|3.0|American Sociological Review|Democratic contraction? Political consequences of felon disenfranchisement in the United States
+2003|26.0|3.0|Journal of Accounting and Public Policy|Sharing information on computer systems security: An economic analysis
+2004|49.0|3.0|IEEE Transactions on Power Systems|Analysis of electric grid security under terrorist threat
+2005|74.0|3.0|Analytical and Bioanalytical Chemistry|Progress in plasmonic engineering of surface-enhanced Raman-scattering substrates toward ultra-trace analysis
+2006|81.0|4.0|Journal of Experimental Criminology|A systematic review of drug court effects on recidivism
+2007|69.0|4.0|Journal of Substance Abuse Treatment|Drug treatment services for adult offenders: The state of the state
+2008|98.0|3.0|Biotechnology Advances|Biosensor technology: Technology push versus market pull
+2009|119.0|3.0|JAMA|Treating Drug Abuse and Addiction in the Criminal Justice System: Improving Public Health and Safety
+2010|198.0|3.0|Progress in Aerospace Sciences|Recent progress in flapping wing aerodynamics and aeroelasticity

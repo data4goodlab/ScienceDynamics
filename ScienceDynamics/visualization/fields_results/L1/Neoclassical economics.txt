@@ -1,0 +1,43 @@
+----  Field Name Neoclassical economics: 
+----  Field Level 1.0: 
+----  Field Papers Number 5230:
+----  All time max citation paper: The cornerstones of competitive advantage: A resourcebased view, 1993, (3166.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1974|0|0.0|Journal of Behavioral Economics|Time preference: A psychological concept in economics
+1975|16.0|16.0||Economic analysis of projects
+1976|1.0|0.5|Technological Forecasting and Social Change|Social values and the limits to growth
+1977|0|0.0|The Scandinavian Journal of Economics|Public Expenditures Determined by Voting with One's Feet and Public Choice
+1978|0|0.0|Journal of Economic Theory|Time preferences, conditional risk preferences, and two-period cardinal utility
+1979|3.0|2.5|American Journal of Agricultural Economics|Property, Power, and Public Choice
+1980|23.0|11.5|American Sociological Review|Bringing the Firms Back in: Stratification, Segmentation, and the Organization of Work
+1981|24.0|3.0|Public Choice|Why so much stability
+1982|9.0|2.0||General Equilibrium and Business Cycles
+1983|7.0|1.5|Public Choice|On Plott's pairwise symmetry condition for majority rule equilibrium
+1984|42.0|1.5|Ethology and Sociobiology|Prestige and reproductive success in man
+1985|15.0|2.5|Journal of Financial Economics|Time preference and capital asset pricing models
+1986|15.0|2.0|Public Administration|EXPLAINING THE PRIVATIZATION BOOM: PUBLIC CHOICE VERSUS RADICAL APPROACHES
+1987|33.0|2.0|The Economic Journal|Anticipation and the Valuation of Delayed Consumption
+1988|18.0|2.0|Management Science|Frames of Mind in Intertemporal Choice
+1989|19.0|3.0|Journal of Public Economics|Rates of time preference and valuations of the duration of life
+1990|49.0|2.0|Ethology and Sociobiology|Evolutionary economics of human reproduction
+1991|11.0|2.0|Public Choice|The "Mess" of the Public Industrial Production in Austria: A Typical Case of Public Sector Inefficiency?
+1992|76.0|2.0|Strategic Management Journal|The resourcebased view within the conversation of strategic management
+1993|113.0|1.5|Strategic Management Journal|The cornerstones of competitive advantage: A resourcebased view
+1994|20.0|3.0|Journal of Evolutionary Economics|An Introduction to Evolutionary Theories in Economics
+1995|29.0|1.0|Journal of Political Economy|What Can Explain the Apparent Lack of International Consumption Risk Sharing?
+1996|53.0|1.0|World Bank Research Observer|Some lessons from the East Asian miracle
+1997|62.0|3.0|Quarterly Journal of Economics|The Endogenous Determination of Time Preference
+1998|43.0|2.0|Journal of Economic Literature|The Approach of Institutional Economics
+1999|55.0|2.0|International Journal of Urban and Regional Research|An Institutionalist Perspective on Regional Economic Development
+2000|133.0|3.0|World Bank Research Observer|Social Capital: Implications for Development Theory, Research, and Policy
+2001|97.0|4.0|Strategic Management Journal|Toward a synthesis of the resourcebased and dynamiccapability views of rent creation
+2002|341.0|3.0|Journal of Economic Literature|Time Discounting and Time Preference: A Critical Review
+2003|100.0|4.0||Land policies for growth and poverty reduction.
+2004|70.0|3.0|Journal of the American College of Cardiology|Left atrial tachycardia after circumferential pulmonary vein ablation for atrial fibrillation: Electroanatomic characterization and treatment
+2005|131.0|4.0|Journal of Economic Perspectives|Cognitive Reflection and Decision Making
+2006|180.0|3.0|Water Resources Research|How probability weighting affects participation in water markets
+2007|119.0|3.5|Strategic Management Journal|How dynamic can organizational capabilities be? Towards a dualprocess model of capability dynamization
+2008|205.0|3.0|Econometrica|Eliciting Risk and Time Preferences
+2009|266.0|2.0|web search and data mining|Diversifying search results
+2010|169.0|3.0|The American Economic Review|Risk and Time Preferences: Linking Experimental and Household Survey Data from Vietnam

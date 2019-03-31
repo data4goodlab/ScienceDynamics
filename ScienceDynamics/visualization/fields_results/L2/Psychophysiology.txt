@@ -1,0 +1,53 @@
+----  Field Name Psychophysiology: 
+----  Field Level 2.0: 
+----  Field Papers Number 7805:
+----  All time max citation paper: Decreased heart rate variability and its association with increased mortality after acute myocardial infarction, 1987, (1981.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1964|9.0|5.5|Electroencephalography and Clinical Neurophysiology|AVERAGED EVOKED ELECTROENCEPHALOGRAPHIC RESPONSES TO CLICKS IN THE HUMAN NEWBORN,
+1965|7.0|7.0|Psychophysiology|MODIFICATION IN AUTONOMICALLY MEDIATED PHYSIOLOGICAL RESPONSES TO COLD PRESSOR BY WORD ASSOCIATIONS
+1966|10.0|10.0|Scandinavian Journal of Psychology|THE INFLUENCE OF INTENSITY AND DURATION OF ELECTRICAL STIMULATION ON SUBJECTIVE VARIABLES
+1967|8.0|8.0|Neuropsychologia|Anxiety, attentiveness-alertness: A phenomenological study of the CNV
+1968|2.0|1.0|Psychophysiology|DEEP INSPIRATIONS AS STIMULI FOR RESPONSES OF THE AUTONOMIC NERVOUS SYSTEM
+1969|5.0|2.5|Psychophysiology|CENTRAL EFFERENT PROCESSES AND AUTONOMICBEHAVIORAL INTEGRATION
+1970|7.0|5.0|Psychopharmacology|Rubidium-Induced Increase in Shock-Elicited Aggression in Rats,
+1971|12.0|2.0|Psychophysiology|EFFECTS OF DEPTH AND RATE OF BREATHING ON HEART RATE AND HEART RATE VARIABILITY
+1972|19.0|4.0|Psychophysiology|Control of Diastolic Blood Pressure in Man by Feedback and Reinforcement
+1973|2.0|2.0|Vision Research|Binocular Masking Level Differences in Sinusoidal Grating Detection.
+1974|2.0|2.0|Child Development|Discrimination of Schematic Faces by Nursery School Children.
+1975|67.0|3.0|Electroencephalography and Clinical Neurophysiology|Two varieties of long-latency positive waves evoked by unpredictable auditory stimuli in man.
+1976|36.0|5.0|Behaviour Research and Therapy|PREPAREDNESS AND AROUSABILITY AS DETERMINANTS OF ELECTRODERMAL CONDITIONING.
+1977|2.0|2.0|Monographs of The Society for Research in Child Development|Infants who become enuretics : a longitudinal study of 161 kibbutz children
+1978|4.0|4.0|Journal of Research in Personality|Experiential and physiological responses associated with anger and aggression in women and men
+1979|105.0|5.0|Psychological Review|Chunking and Consolidation: A Theoretical Synthesis of Semantic Networks, Configuring in Conditioning, S--R Versus Cognitive Learning, Normal Forgetting, the Amnesic Syndrome, and the Hippocampal Arousal System.
+1980|23.0|4.0|Journal of Research in Personality|Anticipatory threat and physical danger trait anxiety: A signal-detection analysis of effects on autonomic responding
+1981|15.0|2.0|Psychophysiology|Publication Guidelines for Heart Rate Studies in Man
+1982|11.0|6.0|Biological Psychology|Covariation and consistency of activation parameters
+1983|27.0|12.0|Journal of Research in Personality|Psychophysiological Responsivity and the Type A Behavior Pattern.
+1984|6.0|0.0|IEEE Transactions on Biomedical Engineering|Comparing Spectra of a Series of Point Events Particularly for Heart Rate Variability Data
+1985|53.0|5.5|Psychological Review|Stress-Induced Recovery of Fears and Phobias.
+1986|20.0|2.0|IEEE Transactions on Biomedical Engineering|An Efficient Algorithm for Spectral Analysis of Heart Rate Variability
+1987|148.0|11.0|American Journal of Cardiology|Decreased heart rate variability and its association with increased mortality after acute myocardial infarction
+1988|105.0|4.5|Behavioral and Brain Sciences|Event-related potentials and cognition: A critique of the context updating hypothesis and an alternative interpretation of P3
+1989|28.0|2.5|American Journal of Cardiology|Decreased spontaneous heart rate variability in congestive heart failure.
+1990|136.0|6.0|Cognition|Components of high-level vision: A cognitive neuroscience analysis and accounts of neurological syndromes
+1991|91.0|5.5|Journal of the American College of Cardiology|Risk stratification for arrhythmic events in postinfarction patients based on heart rate variability, ambulatory electrocardiographic variables and the signal-averaged electrocardiogram
+1992|44.0|4.0|American Journal of Cardiology|Clinical, hemodynamic and sympathetic neural correlates of heart rate variability in congestive heart failure
+1993|27.0|5.0|American Journal of Cardiology|Effects of metoprolol on heart rate variability in survivors of acute myocardial infarction
+1994|67.0|6.0|American Heart Journal|Heart rate variability: A measure of cardiac autonomic tone
+1995|55.0|3.5|American Journal of Cardiology|Association of depression witk reduced heart rate variability in coronary artery disease
+1996|51.0|3.0|Journal of the American College of Cardiology|Distinction between arrhythmic and nonarrhythmic death after acute myocardial infarction based on heart rate variability, signal-averaged electrocardiogram, ventricular arrhythmias and left ventricular ejection fraction.
+1997|65.0|3.0|Cardiovascular Research|Aldosterone blockade reduces vascular collagen turnover, improves heart rate variability and reduces early morning rise in heart rate in heart failure patients.
+1998|92.0|3.0|The Lancet|Baroreflex sensitivity and heart-rate variability in prediction of total cardiac mortality after myocardial infarction
+1999|76.0|4.0|American Heart Journal|Heart rate variability associated with particulate air pollution
+2000|122.0|4.0|Circulation|Ambient Pollution and Heart Rate Variability
+2001|118.0|5.0|Circulation|Depression, Heart Rate Variability, and Acute Myocardial Infarction
+2002|80.0|6.0|Journal of Psychosomatic Research|Depression as a risk factor for cardiac mortality and morbidity
+2003|175.0|7.0|Brain|Human cingulate cortex and autonomic control: converging neuroimaging and clinical evidence
+2004|467.0|7.0|Psychological Bulletin|Acute Stressors and Cortisol Responses: A Theoretical Integration and Synthesis of Laboratory Research.
+2005|193.0|6.0|Psychological Bulletin|Does Positive Affect Influence Health?
+2006|190.0|6.0|Neuroscience|Working memory as an emergent property of the mind and brain.
+2007|290.0|7.0|Biological Psychology|The polyvagal perspective.
+2008|140.0|6.0|European Heart Journal|Work stress and coronary heart disease: what are the mechanisms?
+2009|206.0|6.0|Neuroscience & Biobehavioral Reviews|Claude Bernard and the heart-brain connection: further elaboration of a model of neurovisceral integration.
+2010|293.0|8.0|International Journal of Cardiology|The relationship of autonomic imbalance, heart rate variability and cardiovascular disease risk factors

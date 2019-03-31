@@ -1,0 +1,79 @@
+----  Field Name Surgery: 
+----  Field Level 1.0: 
+----  Field Papers Number 58755:
+----  All time max citation paper: Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources., 2009, (6860.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1930|4.0|4.0|JAMA Internal Medicine|The Treatment of Pneumonia by Inhalation of Carbon Dioxide. I. The Belief of Atelectasis.
+1931|0|0.0|Australian and New Zealand Journal of Surgery|THE INNERVATION OF THE RENAL CAPSULE AND ITS RELATION TO LOCALIZED RENAL PAIN
+1935|1.0|1.0|JAMA Internal Medicine|PEPTIC ULCER: NATURE AND TREATMENT BASED ON A STUDY OF ONE THOUSAND, FOUR HUNDRED AND THIRTY-FIVE CASES
+1938|4.0|4.0|JAMA|EXPERIMENTAL POLIOMYELITIS BY THE TONSILLOPHARYNGEAL ROUTE: WITH SPECIAL REFERENCE TO THE INFLUENCE OF TONSILLECTOMY ON THE DEVELOPMENT OF BULBAR POLIOMYELITIS
+1940|5.0|1.0|JAMA|THE CONTROL OF HYPOPROTEINEMIA IN SURGICAL PATIENTS
+1941|2.0|2.0|Digestive Diseases and Sciences|A clinical roentgenological review of the literature for 1940, pertaining to the digestive tract
+1942|4.0|4.0|JAMA|THE ALLEGED EFFICIENCY OF MEDICINAL TREATMENT OF TYPHOID CARRIERS
+1944|0|0.0|JAMA Internal Medicine|Recent advances in physiology of the thyroid and their clinical application.
+1945|2.0|2.0|JAMA Internal Medicine|Bronchiectasis following Atypical Pneumonia.
+1946|0|0.0|British Journal of Surgery|The excision and repair of deep thermal necrosis
+1948|4.0|2.0|JAMA Internal Medicine|EFFECT OF PROPHYLACTICALLY ADMINISTERED PENICILLIN ON INCIDENCE OF BACTEREMIA FOLLOWING EXTRACTION OF TEETH: Results in Patients with Healed Rheumatic and Bacterial Endocarditis
+1949|2.0|0.5|The New England Journal of Medicine|Carcinoma of the Eyelid. Analysis of 301 Cases and Review of the Literature
+1950|6.0|2.0|The New England Journal of Medicine|Nocardiosis. Pneumonia and empyema due to Nocardia asteroides.
+1951|5.0|5.0|Journal of Genetics|The genetics of luxate mice
+1952|0|0.0|American Heart Journal|Multiple arteriovenous aneurysms of soft tissues and bone (pelvis and vertebrae) resulting in cardiac failure
+1953|4.0|2.0|Journal of Prosthetic Dentistry|Masticatory pressures exerted with implant dentures as compared with soft-tissue-borne dentures
+1954|0|0.0|Experimental Parasitology|Sucoinio Dehydrogenase Activity In the Cestode Hymenolepis nana.
+1955|2.0|2.0|JAMA Pediatrics|Escherichia Coli Diarrhea: An Outbreak Among Infants on a Surgical Ward
+1956|4.0|1.0|The American Journal of Medicine|Dyschondroplasia with soft tissue calcification and ossification, and normal parathyroid function (pseudo-pseudohypoparathyroidism)
+1957|9.0|2.0|The New England Journal of Medicine|INTRAVENOUS INFUSION OF BONE MARROW IN PATIENTS RECEIVING RADIATION AND CHEMOTHERAPY
+1958|3.0|1.5|Journal of Applied Physics|X-RAY STUDY OF COLD WORK IN MOLYBDENUM
+1959|12.0|4.0|JAMA Internal Medicine|The Syndrome of Acute Disseminated Moniliasis in Adults
+1960|8.0|2.0|The New England Journal of Medicine|Salmonellosis-a Review of some Unusual Aspects.
+1961|3.0|0.0|JAMA Internal Medicine|Therapy of Hypoplastic Anemia with Bone Marrow Transplantation
+1962|7.0|1.0|Journal of Chemical Physics|DoubleOven Experiments with Lithium Halide Vapors
+1963|9.0|1.0|JAMA Internal Medicine|Fungal Endocarditis Complicating Cardiac Surgery
+1964|11.0|1.0|Experimental Neurology|Evoked responses from the auditory cortex.
+1965|3.0|0.0|Comparative Biochemistry and Physiology|Incorporation of phosphate into the soft tissues and calcareous corpuscles of larval Taenia taeniaeformis
+1966|14.0|1.0|Journal of Clinical Investigation|Medium and long chain fat absorption in patients with cirrhosis.
+1967|5.0|0.5|Experimental Parasitology|Roles of the spleen in acute plasmodial and babesial infections in rats
+1968|7.0|0.0|Thorax|Candida endocarditis after heart surgery.
+1969|21.0|1.0|JAMA Internal Medicine|Soft-Tissue Calcification in Uremia
+1970|34.0|3.0|JAMA|Candida sepsis complicating parenteral feeding.
+1971|25.0|1.0|Steroids|Rat estradiol binding plasma protein (EBP).
+1972|58.0|1.0|Contraception|Radioimmunoassay of serum progesterone in women receiving oral contraceptive steroids
+1973|7.0|1.0|Science|Heavy-Particle Radiography
+1974|30.0|1.0|The Lancet|LONG-INCUBATION POST-TRANSFUSION HEPATITIS WITHOUT SEROLOGICAL EVIDENCE OF EXPOSURE TO HEPATITIS-B VIRUS
+1975|23.0|1.5|Physiology & Behavior|Estrogen-induced maternal behavior in hysterectomized-ovariectomized virgin rats
+1976|19.0|1.0|American Journal of Orthodontics|Superior repositioning of the maxilla: Stability and soft tissue osseous relations
+1977|37.0|2.0|Journal of Experimental Medicine|The role of membrane receptors for C3b and C3d in phagocytosis.
+1978|15.0|1.0|IEEE Transactions on Biomedical Engineering|Signal Processing of Broadband Pulsed Ultrasound: Measurement of Attenuation of Soft Biological Tissues
+1979|29.0|1.0|Human Pathology|The histiocytoid hemangiomas. A unifying concept embracing several previously described entities of skin, soft tissue, large vessels, bone, and heart.
+1980|31.0|1.0|JAMA|A case-control study of menopausal estrogen therapy and breast cancer.
+1981|14.0|1.5|Cancer|Leiomyosarcoma of soft tissue: A clinicopathologic study
+1982|188.0|1.5|The Lancet|TOXIC-SHOCK SYNDROME NOT ASSOCIATED WITH MENSTRUATION: A Review of 54 cases
+1983|52.0|2.0|Histochemical Journal|Antibodies to intermediate filament proteins in the immunohistochemical identification of human tumours: an overview
+1984|27.0|1.0|Cancer|Cyvadic in advanced soft tissue sarcoma: a randomized study comparing two schedules. A study of the EORTC Soft Tissue and Bone Sarcoma Group.
+1985|31.0|2.0|Human Pathology|Malignant soft tissue neoplasms with the histologic features of renal rhabdoid tumors: An ultrastructural and immunohistochemical study
+1986|63.0|2.0|The New England Journal of Medicine|Reversibility of cardiac wall-motion abnormalities predicted by positron tomography.
+1987|54.0|2.0|Journal of Vascular Surgery|Dipyridamole thallium 201 scintigraphy to detect coronary artery disease before abdominal aortic surgery
+1988|33.0|2.0|Applied Physics Letters|Spectroscopic study of plasmaassisted laser deposition of YBaCuO
+1989|61.0|1.0|American Journal of Cardiology|Positron emission tomography using fluorine-18 deoxyglucose in evaluation of coronary artery bypass grafting
+1990|42.0|2.0|The New England Journal of Medicine|Failure of zidovudine prophylaxis after accidental exposure to HIV-1.
+1991|86.0|2.0|Journal of the American Ceramic Society|Bioceramics: From Concept to Clinic
+1992|32.0|2.0|The New England Journal of Medicine|The course of seizures after treatment for cerebral cysticercosis.
+1993|68.0|2.0|Cancer|The intergroup rhabdomyosarcoma studyII
+1994|48.0|2.0|Gastroenterology|The prevalence of gut translocation in humans
+1995|56.0|2.0|Cancer|Axillary lymph nodes and breast cancer. A review
+1996|129.0|3.0|Cancer Research|Tumor Oxygenation Predicts for the Likelihood of Distant Metastases in Human Soft Tissue Sarcoma
+1997|171.0|3.0|The Lancet|Hepatitis-B-virus resistance to lamivudine given for recurrent infection after orthotopic liver transplantation
+1998|152.0|3.0|Nature|Truncating mutations of hSNF5/INI1 in aggressive paediatric cancer
+1999|490.0|4.0|Kidney International|The Banff 97 working classification of renal allograft pathology
+2000|214.0|4.0|JAMA|Urinary and Sexual Function After Radical Prostatectomy for Clinically Localized Prostate Cancer: The Prostate Cancer Outcomes Study
+2001|147.0|5.0|The New England Journal of Medicine|Recurrence rates after treatment of breast cancer with standard radiotherapy with or without additional radiation
+2002|512.0|5.0|JAMA|Hospital nurse staffing and patient mortality, nurse burnout, and job dissatisfaction.
+2003|225.0|6.0|Nephrology Dialysis Transplantation|Arterial media calcification in end-stage renal disease: impact on all-cause and cardiovascular mortality.
+2004|507.0|5.0|Intensive Care Medicine|Surviving Sepsis Campaign guidelines for management of severe sepsis and septic shock
+2005|296.0|6.0|The New England Journal of Medicine|Radical prostatectomy versus watchful waiting in early prostate cancer.
+2006|402.0|6.0|Nature Reviews Clinical Oncology|Lessons from phase III clinical trials on anti-VEGF therapy for cancer
+2007|1029.0|6.5|Nature Protocols|Locating proteins in the cell using TargetP, SignalP and related tools.
+2008|2058.0|6.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|5.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|1420.0|5.0|Nature Protocols|I-TASSER: a unified platform for automated protein structure and function prediction

@@ -1,0 +1,62 @@
+----  Field Name Macroecology: 
+----  Field Level 2.0: 
+----  Field Papers Number 9086:
+----  All time max citation paper: The composition of the Earth, 1995, (3800.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1952|5.0|4.0|Journal of Chemical Physics|Rotational Isomerism as a General Property of Alkyl Nitrites
+1954|4.0|4.0|Journal of Applied Physics|On the Summation of Infinite Series in Closed Form
+1956|34.0|21.0|Journal of Chemical Physics|Molecular Composition of Alkali Halide Vapors
+1957|10.0|2.0|Geochimica et Cosmochimica Acta|Untersuchungen zur geochemischen Verteilung des Zirkoniums in der Lithosphre
+1958|2.0|1.0|Journal of Chemical Physics|Nuclear Resonance Study of Structure and Molecular Motions in Some Cobalt Complex Salts
+1960|3.0|1.0|Geochimica et Cosmochimica Acta|A hypothesis concerning the accumulation of sediment hydrocarbons to form crude oil
+1961|3.0|1.5|Geochimica et Cosmochimica Acta|A mechanism for cyclic enrichment of carbon-12 by terrestrial plants
+1962|12.0|6.0|Geochimica et Cosmochimica Acta|Meteoritic and terrestrial rare earth abundance patterns
+1963|25.0|5.0|Journal of Geophysical Research|A PROCEDURE FOR GEOCHEMICAL INTERPRETATION OF TERRESTRIAL RARE-EARTH ABUNDANCE PATTERNS,
+1964|46.0|6.0|Geochimica et Cosmochimica Acta|Abundance of chemical elements in the continental crust: a new table
+1965|14.0|3.0|Geochimica et Cosmochimica Acta|Nucleosynthesis in the early history of the solar system
+1966|5.0|4.0|Lipids|Lipoprotein Synthesis. I. Rat Plasma Lipoprotein Composition and Synthesis from Radioactive Precursors
+1967|4.0|2.5|Geochimica et Cosmochimica Acta|Distribution of chlorine in terrestrial rocks
+1968|105.0|18.5|Geochimica et Cosmochimica Acta|Trace element fractionation and the origin of tholeiitic and alkaline magma types
+1969|24.0|6.0|Cell and Tissue Research|Histology and ultrastructure of the neural lobe of the lizard, Klauberina riversiana
+1970|8.0|4.5|Contributions to Mineralogy and Petrology|Untersuchungen an spilitischen Gesteinen der variskischen Geosynkline in Nordwestdeutschland
+1971|21.0|5.0|Journal of Geophysical Research|RareEarth abundances in some ultramafic rocks
+1972|17.0|5.0|Journal of Geophysical Research|Velocity and flux dependence of the solarwind helium abundance
+1973|36.0|5.5|Geochimica et Cosmochimica Acta|Chemical fractionations in meteoritesVII. Cosmothermometry and cosmobarometry
+1974|22.0|6.0|Journal of Geophysical Research|Alfvnic acceleration of solar wind helium and related phenomena 1. Theory
+1975|34.0|5.5|Planetary and Space Science|Mass spectrometer measurements of the positive ion composition in the D - and E -regions of the ionosphere
+1976|29.0|1.0|Science|Ecological Competition Between Algae: Experimental Confirmation of Resource-Based Competition Theory
+1977|36.0|4.0|Journal of Geophysical Research|The composition of the atmosphere at the surface of Mars
+1978|19.0|5.5|Environmental Biology of Fishes|The role of herbivorous fishes and urchins in coral reef communities
+1979|63.0|4.0|Geochimica et Cosmochimica Acta|The effect of biodegradation on steranes and terpanes in crude oils
+1980|25.0|2.5|Journal of Geophysical Research|The Trapped Radiations of Saturn and their Absorption by Satellites and Rings
+1981|29.0|4.0|Geochimica et Cosmochimica Acta|Hydrocarbon geochemistry of the Puget Sound regionII. Sedimentary diterpenoid, steroid and triterpenoid hydrocarbons
+1982|45.0|3.0|Geochimica et Cosmochimica Acta|Geochemical study on a well in the Western Canada Basin: relation of the aromatic distribution pattern to maturity of organic matter
+1983|23.0|3.0|Marine Biology|Size structure of phytoplankton biomass and photosynthesis in subtropical Hawaiian waters
+1984|198.0|3.0|Cell|Cell-cycle control of c-myc but not c-ras expression is lost following chemical transformation
+1985|71.0|3.0|Nature|Developmental regulation of T-cell receptor gene expression
+1986|48.0|3.0|Journal of General Virology|The Purification and Characterization of Rat Gamma Interferon by Use of Two Monoclonal Antibodies
+1987|20.0|3.0|Journal of Chemical Physics|Photoionization Dynamics and Abundance Patterns in Laser Vaporized Tin and Lead Clusters,
+1988|45.0|3.0|Earth and Planetary Science Letters|Experimental determination of element partitioning between silicate perovskites, garnets and liquids: constraints on early differentiation of the mantle
+1989|29.0|3.0|Journal of Chemical Physics|Chemistry of semiconductor clusters: A study of the reactions of size selected Si+n (n=324) with C2H4 using selected ion drift tube techniques
+1990|39.0|3.0|Earth and Planetary Science Letters|Mid-ocean ridge popping rocks: implications for degassing at ridge crests
+1991|23.0|3.0|Journal of Geophysical Research|Polycyclic aromatic and organochlorine compounds in the atmosphere of northern Ellesmere Island, Canada
+1992|25.0|4.0|Journal of Chemical Physics|Structure of phosphorus clusters using simulated annealing. II. P9, P10, P11, anions P24, P210, P311, and cations P+n to n=11
+1993|65.0|2.0|The Plant Cell|Phytochrome A null mutants of Arabidopsis display a wild-type phenotype in white light.
+1994|38.0|3.5|Philosophical Transactions of the Royal Society B|Estimating Terrestrial Biodiversity through Extrapolation
+1995|231.0|4.0|Neuron|Relative abundance of subunit mRNAs determines gating and Ca2+ permeability of AMPA receptors in principal neurons and interneurons in rat CNS.
+1996|174.0|3.0|Applied and Environmental Microbiology|Bias caused by template annealing in the amplification of mixtures of 16S rRNA genes by PCR.
+1997|83.0|5.0|Applied and Environmental Microbiology|Analysis of actinomycete communities by specific amplification of genes encoding 16S rRNA and gel-electrophoretic separation in denaturing gradients.
+1998|70.0|5.0|Organic Geochemistry|Microalgal biomarkers: A review of recent research developments
+1999|131.0|7.0|Molecular and Cellular Biology|A sampling of the yeast proteome.
+2000|216.0|8.0|Nature|Quorum-sensing signals indicate that cystic fibrosis lungs are infectedwith bacterial biofilms
+2001|238.0|7.0|Nature Biotechnology|Enrichment analysis of phosphorylated proteins as a tool for probing the phosphoproteome
+2002|418.0|7.0|Applied Geochemistry|A review of the source, behaviour and distribution of arsenic in natural waters
+2003|183.0|9.0|Annual Review of Ecology, Evolution, and Systematics|Latitudinal Gradients of Biodiversity: Pattern, Process, Scale, and Synthesis
+2004|371.0|10.0|Journal of Geophysical Research|Deriving in situ phytoplankton absorption for biooptical productivity models in turbid waters
+2005|249.0|9.0|Ecology Letters|A new statistical approach for assessing similarity of species composition with incidence and abundance data
+2006|471.0|10.0|Nature|An obesity-associated gut microbiome with increased capacity for energy harvest.
+2007|455.0|10.0|Ecography|Methods to account for spatial autocorrelation in the analysis of species distributional data: a review
+2008|342.0|11.0|Ecology|TOWARD AN ECOLOGICAL CLASSIFICATION OF SOIL BACTERIA
+2009|886.0|10.0|PLOS ONE|More than mere numbers: the impact of lethal control on the social stability of a top-order predator.
+2010|406.0|9.0|Science|Scenarios for global biodiversity in the 21st Century

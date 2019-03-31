@@ -1,0 +1,46 @@
+----  Field Name Supramolecular chemistry: 
+----  Field Level 2.0: 
+----  Field Papers Number 19387:
+----  All time max citation paper: Gold Nanoparticles: Assembly, Supramolecular Chemistry, QuantumSizeRelated Properties, and Applications Toward Biology, Catalysis, and Nanotechnology., 2004, (5355.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1966|1.0|1.0|IEEE Spectrum|Chameleon in the sun: photochromic glass
+1968|0|0.0|IEEE Journal of Quantum Electronics|New nonlinear optical materials
+1970|2.0|1.5|New Phytologist|A VIRESCENS MUTANT OF PHASEOLUS VULGARIS; GROWTH, PIGMENT AND PLASTID CHARACTERS
+1971|0|0.0|Metallurgical and Materials Transactions B-process Metallurgy and Materials Processing Science|Preparation of photochromic calcium fluoride by additive coloration
+1972|0|0.0|Communications of The ACM|A proposal to establish a pseudo virtual memory via writable overlays
+1976|0|0.0|Acta Biotheoretica|LIFE CYCLE PATTERNS AND THEIR GENETIC CONTROL: AN ATTEMPT TO RECONCILE EVOLUTIONARY AND MECHANISTIC SPECULATION
+1977|14.0|1.0|Journal of Applied Physics|Volume hologram recording and charge transfer process in Bi12SiO20 and Bi12GeO20
+1978|3.0|0.0|Journal of Applied Physics|Lightactivated storage device (LASD)
+1979|15.0|3.0|Nature|Antigen specific t-cell helper factor cross reacts idiotypically with antibodies of the same specificity.
+1980|4.0|1.5|Applied Physics Letters|Highpower constricted doubleheterojunction AlGaAs diode lasers for optical recording
+1981|4.0|0.0|Geological Journal|Fold and cleavage development within cambrian metasediments of the vale of ffestiniog, North Wales
+1982|81.0|4.0|Nature|Molecular recognition and the future of monoclonal antibodies
+1983|14.0|5.0|Nature|Electrostatic recognition between superoxide and copper, zinc superoxide dismutase
+1984|14.0|2.0|Helvetica Chimica Acta|Molecular Recognition in Anion Coordination Chemistry. Structure, Binding Constants and ReceptorSubstrate Complementarity of a Series of Anion Cryptates of a Macrobicyclic Receptor Molecule
+1985|8.0|1.0|Applied Physics Letters|Electric field selective optical data storage using persistent spectral hole burning
+1986|19.0|1.0|Applied Physics Letters|Compound materials for reversible, phasechange optical data storage
+1987|30.0|2.0|Trends in Biochemical Sciences|The hydrogen bond in molecular recognition
+1988|25.0|2.0|Thin Solid Films|Fundamental aspects of the electronic structure, materials properties and lubrication performance of sputtered MoS 2 films
+1989|64.0|1.0|Trends in Pharmacological Sciences|Molecular recognition of inositol polyphosphates by intracellular receptors and metabolic enzymes
+1990|34.0|1.0|Geophysical Journal International|Spectroscopic analysis of global tide gauge sea level data
+1991|51.0|2.0|IEEE Transactions on Signal Processing|Analysis of the properties of median and weighted median filters using threshold logic and stack filter representation
+1992|26.0|2.0|The Plant Cell|The TMK1 gene from Arabidopsis codes for a protein with structural and biochemical characteristics of a receptor protein kinase.
+1993|55.0|4.0|Tetrahedron|Organic materials for reversible optical data storage
+1994|184.0|2.0|Trends in Biochemical Sciences|The leucine-rich repeat: a versatile binding motif
+1995|79.0|3.0|Tetrahedron|The CH/  interaction: Significance in molecular recognition
+1996|103.0|3.0|Cell|The tomato Cf-2 disease resistance locus comprises two functional genes encoding leucine-rich repeat proteins.
+1997|473.0|4.0|Nature|A human homologue of the Drosophila Toll protein signals activation of adaptive immunity
+1998|130.0|5.0|Journal of Molecular Biology|Anatomy of hot spots in protein interfaces
+1999|254.0|4.0|Nature|Design and synthesis of an exceptionally stable and highly porous metal-organic framework
+2000|204.0|5.0|Acta Materialia|Nanostructured materials: basic concepts and microstructure
+2001|318.0|5.0|Cellular Signalling|LPS induction of gene expression in human monocytes
+2002|359.0|5.0|Nature|MAP kinase signalling cascade in Arabidopsis innate immunity
+2003|705.0|8.0|Nature|Surface plasmon subwavelength optics
+2004|1413.0|6.0|Cheminform|Gold Nanoparticles: Assembly, Supramolecular Chemistry, QuantumSizeRelated Properties, and Applications Toward Biology, Catalysis, and Nanotechnology.
+2005|177.0|6.0|Nature Biotechnology|Engineering novel binding proteins from nonimmunoglobulin domains
+2006|1283.0|5.0|Nature|The plant immune system.
+2007|840.0|7.0|Nature|Identification of stem cells in small intestine and colon by marker gene Lgr5
+2008|401.0|7.0|Science|Recognition Dynamics Up to Microseconds Revealed from an RDC-Derived Ubiquitin Ensemble in Solution
+2009|1583.0|6.0|Nature Photonics|Bulk heterojunction solar cells with internal quantum efficiency approaching 100|[percnt]|
+2010|1210.0|6.0|Nature Photonics|Graphene photonics and optoelectronics

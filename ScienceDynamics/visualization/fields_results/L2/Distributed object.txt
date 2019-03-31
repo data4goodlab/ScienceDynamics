@@ -1,0 +1,49 @@
+----  Field Name Distributed object: 
+----  Field Level 2.0: 
+----  Field Papers Number 2008:
+----  All time max citation paper: Pastry: Scalable, Decentralized Object Location, and Routing for Large-Scale Peer-to-Peer Systems, 2001, (2638.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1953|3.0|3.0|The Biological Bulletin|The Mechanism of synergistic Action of DMC with DDT against resistant House Flies.
+1957|0|0.0|Journal of the Science of Food and Agriculture|Studies in selective toxicity. III. Benzenesulphonanilides as DDTsynergists
+1966|0|0.0|Experimental Parasitology|Effect of various synergists on toxicity and in vivo metabolism of DDT in Triatoma infestans nymphs
+1970|32.0|4.0|Nature|DDE thins eggshells of captive American kestrels
+1971|0|0.0|New Zealand Journal of Agricultural Research|Metabolism of DDE, DDD, and DDT in sheep.
+1972|8.0|1.0|Biochimie|Mtabolisme des phospholipides du rein: Incorporation in vivo de 32P-orthophosphate dans les lipides rnaux du rat
+1973|2.0|1.5|Comparative and General Pharmacology|DDE-induced egg-shell thinning: Structural and physiological effects in three species
+1974|7.0|7.0|Biochimie|Analyse et mtabolisme des phospholipides du cur. Incorporation in vivo de 32 P-orthophosphate dans les lipides cardiaques du rat
+1975|10.0|8.0|Atherosclerosis|Plasma concentrations of lysolecithin and other phospholipids in the healthy population and in men suffering from atherosclerotic diseases
+1977|3.0|3.0|Biochimie|Phospholipases de l'intestin de rat : mode d'action
+1978|0|0.0|Biochimie|Influence des lipides de la muqueuse intestinale de rat sur son activit phospholipasique
+1979|5.0|5.0|Pharmacology & Therapeutics|Insecticides affecting ion transport
+1980|0|0.0|Studies in Environmental Science|Occupational Pesticide Hazards in the Activities of Who's Office of Occupational Health: Hematological Criteria for Health Assessment
+1981|43.0|43.0|The Lancet|Antenatal diagnosis of sickle cell anaemia by direct analysis of the sickle mutation.
+1982|4.0|2.5|FEBS Letters|Inhibition of calmodulin-stimulated cyclic nucleotide phosphodiesterase by the insecticide DDT
+1983|4.0|2.0|The Journal of Allergy and Clinical Immunology|Biochemical correlates of airway hyperreactivity in guinea pigs: role of lysophosphatidyl choline
+1984|10.0|4.0|ACM Transactions on Information Systems|Object management in distributed information systems
+1985|7.0|4.0|Journal of Great Lakes Research|Organochlorine Contaminants in Herring Gull Eggs from the Detroit and Niagara Rivers and Saginaw Bay (19781982): Contaminant Discriminants
+1986|12.0|6.0|Sigplan Notices|Design of a distributed object manager for the Smalltalk-80 system
+1987|15.0|6.0|Neuroscience|Factors affecting survival and outgrowth from transplants of entorhinal cortex
+1988|11.0|2.0|conference on object-oriented programming systems, languages, and applications|Using tuple space communication in distributed object-oriented languages
+1989|18.0|5.0|programming language design and implementation|Experience with CST: programming and implementation
+1990|46.0|2.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|An overview of the SPHINX speech recognition system
+1991|74.0|3.5|ACM Computing Surveys|Distributed, object-based programming systems
+1992|9.0|3.0|international symposium on memory management|Comprehensive and Robust Garbage Collection in a Distributed System
+1993|27.0|3.0|Communications of The ACM|The DOWL distributed object-oriented language
+1994|43.0|2.0||An overview of the Spring system
+1995|191.0|1.0|Distributed and Parallel Databases|An overview of workflow management: from process modeling to workflow automation infrastructure
+1996|30.0|2.0|global communications conference|The performance of the CORBA dynamic invocation interface and dynamic skeleton interface over high-speed ATM networks
+1997|171.0|2.0|IEEE Communications Magazine|CORBA: integrating diverse applications within distributed heterogeneous environments
+1998|74.0|3.0|Computer Communications|The design of the TAO real-time object request broker
+1999|110.0|4.0|IEEE Concurrency|Globe: a wide area distributed system
+2000|135.0|4.0|Chemosphere|Certain organochlorine and organobromine contaminants in Swedish human milk in perspective of past 20-30 years.
+2001|952.0|3.0||Pastry: Scalable, Decentralized Object Location, and Routing for Large-Scale Peer-to-Peer Systems
+2002|51.0|2.5|european conference on object-oriented programming|J-Orchestra: Automatic Java Application Partitioning
+2003|94.0|3.0|IEEE Transactions on Computers|AQuA: an adaptive architecture that provides dependable distributed objects
+2004|336.0|4.0|ACM Computing Surveys|A survey of peer-to-peer content distribution technologies
+2005|50.0|4.0|ACM Transactions on Computer Systems|MIDDLE-R: Consistent database replication at the middleware level
+2006|125.0|4.0|Trends in Cognitive Sciences|Selective visual attention and perceptual coherence
+2007|67.0|3.0|Brain Research|Concreteness in emotional words: ERP evidence from a hemifield study
+2008|58.0|4.0|Environmental Research|Environmental exposures and puberty in inner-city girls
+2009|83.0|6.5|Water Research|Spatial and temporal distribution of pesticide residues in surface waters in northeastern Greece.
+2010|90.0|7.0|Gastroenterology|Lysophosphatidic Acid Is a Potential Mediator of Cholestatic Pruritus

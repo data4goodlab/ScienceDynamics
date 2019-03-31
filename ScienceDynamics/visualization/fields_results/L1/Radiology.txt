@@ -1,0 +1,81 @@
+----  Field Name Radiology: 
+----  Field Level 1.0: 
+----  Field Papers Number 363708:
+----  All time max citation paper: A theory for multiresolution signal decomposition: the wavelet representation, 1989, (6734.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1934|1.0|1.0|American Heart Journal|Treatment of chronic heart disease by total ablation of the thyroid gland , VII. The heart in artificial myxedema
+1935|4.0|2.0|American Journal of Anatomy|Analysis of early development of fish embryos by means of the mitotic index. II. The mitotic index in preneural tube stages of fundulus heteroclitus
+1937|4.0|1.0|American Journal of Anatomy|Complex IV in the dog with special emphasis on the relation of the ultimobranchial body to interfollicular cells in the postnatal thyroid gland
+1938|6.0|3.0|JAMA Pediatrics|VITAMIN C IN HUMAN PREGNANCY AND LACTATION: I. STUDIES DURING PREGNANCY
+1939|0|0.0|Journal of Morphology|The thyroid gland of the Atlantic salmon
+1940|5.0|1.0|American Heart Journal|A study of the effects of nicotinic acid and related pyridine and pyrazine compounds on the temperature of the skin of human beings.
+1941|3.0|2.0|American Journal of Anatomy|An analysis of the morphology of the pituitary and thyroid glands in amphibian metamorphosis
+1942|0|0.0|Anatomical Record-advances in Integrative Anatomy and Evolutionary Biology|Anatomical and physiological studies on the thyroid gland of the albino rat
+1943|0|0.0|American Heart Journal|The significance of vascular hyperreaction as measured by the cold-pressor test Observations on 200 normal subjects over the age of 40
+1944|4.0|1.0|Journal of Dairy Science|The Effect of Iodinated Casein (Protamone) on Milk and Butterfat Production and on the Ascorbic acid Content of the Milk*
+1945|4.0|1.5|Vitamins and Hormones Series|Sulfonamides and Vitamin Deficiencies
+1946|12.0|6.0|American Journal of Orthodontics and Oral Surgery|The frankfort-mandibular plane angle in orthodontic diagnosis, classification, treatment planning, and prognosis
+1947|1.0|0.5|The New England Journal of Medicine|Clinical Significance of Malignant Neoplasms of the Thyroid Gland
+1949|3.0|0.5|Journal of Allergy|Studies of capillary permeability in allergy with the dermofluorometer
+1950|4.0|1.0|Journal of Dairy Science|Parotid Gland Lesions in Experimental Bovine Vitamin A Deficiency
+1951|6.0|2.0|American Heart Journal|An estimation of the residual volume of blood in the right ventricle of normal and diseased human hearts in vivo
+1952|8.0|0.5|Journal of Chemical Physics|Nuclear Magnetic Resonance in Metals. I. Broadening of Absorption Lines by SpinLattice Interactions
+1953|37.0|5.0|Journal of Chemical Physics|NUCLEAR MAGNETIC RESONANCE MULTIPLETS IN LIQUIDS
+1954|6.0|1.0|Journal of Cellular and Comparative Physiology|An analysis of the changing radiation response of the developing mouse embryo
+1955|11.0|3.0|JAMA Internal Medicine|SYSTEMIC MONILIASIS AND ASPERGILLOSIS COMPLICATING CORTICOTROPIN THERAPY
+1956|11.0|1.0|JAMA|LONGEVITY AND CAUSES OF DEATH FROM IRRADIATION IN PHYSICIANS
+1957|15.0|4.0|Journal of Chemical Physics|Medium Effects in Nuclear Magnetic Resonance Spectra of Liquids. II. Simple Aliphatic Molecules
+1958|25.0|1.0|Journal of Chemical Physics|Reaction Rates by Nuclear Magnetic Resonance
+1959|66.0|5.0|Journal of Chemical Physics|Angular Dependence of ElectronCoupled Proton Interactions in CH2 Groups
+1960|24.0|2.0|Journal of Chemical Physics|ParamagneticResonance Studies of Irradiated HighDensity Polyethylene. I. Radical Species and the Effect of Environment on Their Behavior
+1961|20.0|3.0|Journal of Cell Biology|STUDIES ON INFLAMMATION I. The Effect of Histamine and Serotonin on Vascular Permeability: An Electron Microscopic Study
+1962|19.0|3.5|Journal of Chemical Physics|C13 Splittings in Proton Magnetic Resonance Spectra. III. Formyl Compounds
+1963|21.0|3.0|Journal of Chemical Physics|Anomalous Chemical Shifts in the Proton Magnetic Resonance Spectra of the Dimethylcyclohexanes and Related Hydrocarbons
+1964|60.0|1.5|The New England Journal of Medicine|Virologic and Serologic Studies on Human Products of Conception after Maternal Rubella.
+1965|23.0|3.0|Journal of Chemical Physics|Analysis of Nuclear Magnetic Resonance Spectra of Molecules in LiquidCrystal Solvents
+1966|13.0|1.0|Radiation Botany|The influence of seed water content on the oxygen effect in irradiated barley seeds
+1967|20.0|1.0|Journal of Geophysical Research|Pressure derivatives of the sound velocities of polycrystalline forsterite, with 6% porosity
+1968|46.0|2.0|Journal of Geophysical Research|Cosmic-ray diffusion tensor and its variation observed with Mariner 4.
+1969|20.0|1.0|Calcified Tissue International|Tetracycline-based histological analysis of bone remodeling.
+1970|20.0|2.0|Life Sciences|Activation in vitro of rat hepatic UDP-glucuronyltransferase by ultrasound
+1971|80.0|2.0|Advances in Cancer Research|Alpha-Fetoprotein in Ontogenesis and its Association with Malignant Tumors
+1972|43.0|2.0|Journal of Clinical Investigation|Evidence for a Direct Action of Cholecalciferol and 25-Hydroxycholecalciferol on the Renal Transport of Phosphate, Sodium, and Calcium
+1973|14.0|2.0|Journal of Molecular Spectroscopy|Infrared-radio frequency double resonance observations of pure rotational Q -branch transitions of methane
+1974|54.0|2.0|Electroencephalography and Clinical Neurophysiology|Human auditory evoked potentials. II - Effects of attention
+1975|43.0|2.0|Journal of Chemical Physics|Validity of approximate methods in molecular scattering: Thermal HClHe collisions
+1976|50.0|2.0|Journal of Clinical Investigation|An assessment of daily production and significance of thyroidal secretion of 3, 3', 5'-triiodothyronine (reverse T3) in man.
+1977|67.0|3.0|Quarterly Reviews of Biophysics|Deuterium magnetic resonance: theory and application to lipid membranes
+1978|59.0|2.0|The New England Journal of Medicine|Coronary vasospasm as a possible cause of myocardial infarction: a conclusion derived from the study of preinfrarction angina
+1979|103.0|2.0|Journal of Chemical Physics|Investigation of exchange processes by twodimensional NMR spectroscopy
+1980|55.0|2.0|Journal of Magnetic Resonance|Multiple quantum spin-echo spectroscopy
+1981|64.0|2.0|Journal of Clinical Investigation|Two independent lipoprotein receptors on hepatic membranes of dog, swine, and man. Apo-B,E and apo-E receptors.
+1982|64.0|2.0|International Journal of Radiation Oncology Biology Physics|Changes in early and late radiation responses with altered dose fractionation: Implications for dose-survival relationships
+1983|133.0|2.0|The Lancet|Myocardial ischaemia during daily life in patients with stable angina: its relation to symptoms and heart rate changes.
+1984|188.0|2.0|Journal of Neurochemistry|Elevation of the Extracellular Concentrations of Glutamate and Aspartate in Rat Hippocampus During Transient Cerebral Ischemia Monitored by Intracerebral Microdialysis
+1985|175.0|2.0|Journal of Magnetic Resonance|MLEV-17-based two-dimensional homonuclear magnetization transfer spectroscopy
+1986|170.0|2.0|Nature|Stimulation of bone resorption and inhibition of bone formation in vitro by human tumour necrosis factors
+1987|125.0|2.0|Artificial Intelligence|Three-dimensional object recognition from single two-dimensional images
+1988|135.0|2.0|Journal of Neurochemistry|Effect of Ischemia on the In Vivo Release of Striatal Dopamine, Glutamate, and Aminobutyric Acid Studied by Intracerebral Microdialysis
+1989|305.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A theory for multiresolution signal decomposition: the wavelet representation
+1990|134.0|2.0|The New England Journal of Medicine|Enhanced detection of ischemic but viable myocardium by the reinjection of thallium after stress-redistribution imaging
+1991|112.0|2.0|Annals of Vascular Surgery|Transfemoral intraluminal graft implantation for abdominal aortic aneurysms.
+1992|189.0|3.0|Acta Physiologica Scandinavica|The 1991 Ulf von Euler Lecture:The larginine: nitric oxide pathway
+1993|164.0|3.0|The New England Journal of Medicine|A comparison of immediate coronary angioplasty with intravenous streptokinase in acute myocardial infarction.
+1994|195.0|3.0|Journal of Geophysical Research|Degree 12 model of shear velocity heterogeneity in the mantle
+1995|260.0|3.0|Human Brain Mapping|Spatial registration and normalization of images
+1996|414.0|3.0|IEEE Transactions on Circuits and Systems for Video Technology|A new, fast, and efficient image codec based on set partitioning in hierarchical trees
+1997|467.0|4.0|Cell|Osteoprotegerin: A Novel Secreted Protein Involved in the Regulation of Bone Density
+1998|242.0|4.0|Brain Research Reviews|What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience?
+1999|367.0|5.0|Nature|Vanilloid receptors on sensory nerves mediate the vasodilator action of anandamide
+2000|535.0|5.0|Circulation|Prognostic Impact of Coronary Vasodilator Dysfunction on Adverse Long-Term Outcome of Coronary Heart Disease
+2001|881.0|6.0|Nature|Neurophysiological investigation of the basis of the fMRI signal
+2002|705.0|6.0|Circulation|Repair of Infarcted Myocardium by Autologous Intracoronary Mononuclear Bone Marrow Cell Transplantation in Humans
+2003|632.0|7.0|Nature|Osteoclast differentiation and activation
+2004|927.0|6.0||Image processing with ImageJ
+2005|697.0|7.0|Biomaterials|Synthesis and surface engineering of iron oxide nanoparticles for biomedical applications.
+2006|1330.0|6.0|IEEE Transactions on Information Theory|Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information
+2007|2530.0|7.0|Evolutionary Bioinformatics|Arlequin (version 3.0): An integrated software package for population genetics data analysis
+2008|860.0|6.0|IEEE Signal Processing Magazine|An Introduction To Compressive Sampling
+2009|2555.0|6.0|European Journal of Cancer|New response evaluation criteria in solid tumours: Revised RECIST guideline (version 1.1)
+2010|1084.0|7.0|Lancet Neurology|Hypothetical model of dynamic biomarkers of the Alzheimer's pathological cascade

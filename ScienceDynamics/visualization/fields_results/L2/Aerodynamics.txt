@@ -1,0 +1,76 @@
+----  Field Name Aerodynamics
+----  Field Level 2.0
+----  Field Papers Number 102493
+----  All time max citation paper Solar engineering of thermal processes, 1991, (2972.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1933|2.0|2.0|Biological Reviews|THE PRESENT STATUS OF PLANT VIRUS RESEARCH1
+1934|4.0|4.0|Journal of Dairy Science|Irradiated Milk: The Transmission and Antirachitic Activation of Milk Films by Ultra-Violet Radiations
+1938|0|0.0||The electrical ignition of mixtures of ether vapour, air, and oxygen
+1939|2.0|2.0|Botanical Review|Transmission of Plant Viruses by Insects.
+1940|2.0|2.0|Digestive Diseases and Sciences|Influence of raw banana and apple upon disappearance of complex carbohydrates from the alimentary tracts of normal children.
+1941|0|0.0||The problem of cooling an air-cooled cylinder on an aircraft engine
+1942|0|0.0|Annals of Applied Biology|A MOSAIC DISEASE OF BROCCOLI
+1946|2.0|1.5|Journal of Colloid Science|Studies on the surface layers and the formation of the fertilization membrane in sea urchin eggs
+1948|1.0|1.0|American Heart Journal|Observations on the effects on the lungs of respiratory air flow resistance in dogs with special reference to vagotomy 
+1950|7.0|1.0|Journal of Dairy Science|The effect of rumen inoculations on the digestibility of roughages in young dairy calves.
+1951|3.0|1.5|Microbiology|The Adsorption of Cetyltrimethylammonium Bromide by Bacteria, its Action in Releasing Cellular Constituents and its Bactericidal Effects
+1952|3.0|0.5|American Journal of Potato Research|Nitrate content of red mcclure potatoes unchanged by 2,4-d treatment
+1953|1.0|0.5|Plant and Soil|SOME EFFECTS OF HEAVY METALS ON PLANTS GROWN IN SOIL CULTURE PART I. THE EFFECT OF COBALT ON FERTILISER AND SOIL PHOSPHATE UPTAKES AND THE IRON AND COBALT STATUS OF TOMATO
+1954|7.0|0.5|Journal of Chemical Physics|ShockTube Measurements of Vibrational Relaxation
+1955|6.0|2.0|Journal of Chemical Physics|Emission and TwoBody Recombination in Bromine
+1956|5.0|1.5|Journal of Applied Physics|Shock Location in Front of a Sphere as a Measure of Real Gas Effects
+1957|35.0|2.5|Journal of Applied Physics|WorkFunction Studies of Germanium Crystals Cleaned by Ion Bombardment
+1958|12.0|1.0|Journal of Chemical Physics|Kinetic Studies of Hydroxyl Radicals in Shock Waves. I. The Decomposition of Water between 2400 and 3200K
+1959|32.0|5.0|Virology|Classification of elongated plant viruses on the basis of particle morphology.
+1960|28.0|2.5|Virology|Purification and electron microscopy of three soil-borne plant viruses
+1961|31.0|2.0|Physics of Fluids|Turbulent Structure of Gaseous Detonation
+1962|37.0|3.0|Journal of Chemical Physics|HEAT CONDUCTIVITY OF POLYATOMIC AND POLAR GASES
+1963|26.0|2.0|Journal of Geophysical Research|On the lunar origin of tektites
+1964|9.0|1.0|Symposium (international) on Combustion|Theory of acoustic instability in solid-propellant rocket combustion
+1965|14.0|1.0|Journal of Chemical Physics|SPECTROSCOPIC STUDIES OF VIBRATIONAL NONEQUILIBRIUM IN SUPERSONIC NOZZLE FLOWS.
+1966|33.0|1.0|Planetary and Space Science|HYDROMAGNETIC FLOW AROUND THE MAGNETOSPHERE
+1967|12.0|1.0|Journal of Fluid Mechanics|Steady two-dimensional flow of fluid of variable density over an obstacle
+1968|18.0|1.0|Geochimica et Cosmochimica Acta|Isotope studies of dolomite formation under sedimentary conditions
+1969|14.0|1.0|IEEE Transactions on Power Apparatus and Systems|Concepts of Synchronous Machine Stability as Affected by Excitation Control
+1970|46.0|2.0|Journal of Geophysical Research|Nonthermal heating in the twofluid solar wind model
+1971|144.0|1.0|Journal of Geophysical Research|Reykjanes ridge crest: A detailed geophysical study
+1972|17.0|1.0|Journal of Geophysical Research|Interaction of the solar wind with the neutral component of the interstellar gas
+1973|26.0|1.0|Journal of Geophysical Research|Neutral winds above 200 km at high latitudes
+1974|24.0|2.0|Deep Sea Research and Oceanographic Abstracts|Energy partition in the large-scale ocean circulation and the production of mid-ocean eddies
+1975|48.0|1.0|Review of Scientific Instruments|Ultrahigh pressure diamondanvil cell and several semiconductor phase transition pressures in relation to the fixed point pressure scale
+1976|36.0|2.0|Journal of Geophysical Research|Oceanic lithosphere and asthenosphere: Thermal and mechanical structure
+1977|54.0|2.0|Journal of Geophysical Research|Properties of aerosols in the Martian atmosphere, as inferred from Viking Lander imaging data
+1978|44.0|3.0|Journal of Geophysical Research|The frontside boundary layer of the magnetosphere and the problem of reconnection
+1979|31.0|2.0|Geochimica et Cosmochimica Acta|Mechanism of feldspar weatheringI. Experimental studies
+1980|36.0|2.0|Journal of Geophysical Research|Measurements of thermal structure and thermal contrasts in the atmosphere of Venus and related dynamical observations - Results from the four Pioneer Venus probes
+1981|47.0|2.0|Journal of Geophysical Research|A threedimensional general circulation model of the thermosphere
+1982|61.0|2.0|Journal of Geophysical Research|The structure of perpendicular bow shocks
+1983|94.0|2.0|The New England Journal of Medicine|Acquired immune deficiency in Haitians;: opportunistic infections in previously healthy Haitian immigrants.
+1984|81.0|2.0|Artificial Intelligence|Domain-independent planning: representation and plan generation
+1985|37.0|2.0|Marine Biology|Role of sinking in diatom life-history cycles: ecological, evolutionary and geological significance
+1986|44.0|2.0|IEEE Computer|Knowledge and Control for a Mechanical Design Expert System
+1987|103.0|2.0|IEEE Transactions on Computers|The Warp Computer: Architecture, Implementation, and Performance
+1988|89.0|2.0|IEEE Transactions on Software Engineering|The TAME project: towards improvement-oriented software environments
+1989|64.0|2.0|The Lancet|Female to male transmission of human immunodeficiency virus type 1: risk factors for seroconversion in men.
+1990|197.0|2.0|Proceedings of the IEEE|Networks for approximation and learning
+1991|332.0|2.0|American Journal of Physics|Solar engineering of thermal processes
+1992|206.0|2.0|IEEE Computer|The Stanford Dash multiprocessor
+1993|72.0|2.0|IEEE Transactions on Fuzzy Systems|Fuzzy control of pH using genetic algorithms
+1994|124.0|2.0|International Journal in Computer Simulation|Ptolemy: A Framework for Simulating and Prototyping Heterogeneous Systems
+1995|183.0|2.0|Protein Science|How to measure and predict the molar absorption coefficient of a protein
+1996|120.0|2.0|international symposium on microarchitecture|Trace cache: a low latency approach to high bandwidth instruction fetching
+1997|122.0|3.0|IEEE\/ACM Transactions on Networking|A reliable multicast framework for light-weight sessions and application level framing
+1998|227.0|3.0||ANTS: a toolkit for building and dynamically deploying network protocols
+1999|330.0|3.0|The Lancet|Intrapartum and neonatal single-dose nevirapine compared with zidovudine for prevention of mother-to-child transmission of HIV-1 in Kampala, Uganda: HIVNET 012 randomised trial.
+2000|153.0|3.0|IEEE Transactions on Image Processing|The Bayesian image retrieval system, PicHunter: theory, implementation, and psychophysical experiments
+2001|212.0|4.0|IEEE Signal Processing Magazine|Multiple description coding: compression meets the network
+2002|446.0|4.0|IEEE Computer|Networks on chips: a new SoC paradigm
+2003|740.0|5.0|Annual Review of Neuroscience|AMPA RECEPTOR TRAFFICKING AND SYNAPTIC PLASTICITY
+2004|992.0|5.0|Nature|EXTINCTION RISK FROM CLIMATE CHANGE
+2005|539.0|4.0||PRINCIPLES OF CATEGORIZATION
+2006|204.0|5.0|computer vision and pattern recognition|SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition
+2007|492.0|5.0|Physiological Reviews|Physiology and Pathophysiology of Purinergic Neurotransmission
+2008|720.0|4.0|PLOS ONE|The Male Sex Pheromone of the Butterfly Bicyclus anynana : Towards an Evolutionary Analysis
+2009|845.0|3.0|Nature|Origins and evolutionary genomics of the 2009 swine-origin H1N1 influenza A epidemic
+2010|798.0|6.0|Monthly Weather Review|A New Vertical Diffusion Package with an Explicit Treatment of Entrainment Processes

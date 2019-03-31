@@ -1,0 +1,38 @@
+----  Field Name Natural resource management: 
+----  Field Level 2.0: 
+----  Field Papers Number 1977:
+----  All time max citation paper: Biofuels from microalgae--A review of technologies for production, processing, and extractions of biofuels and co-products, 2010, (901.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1973|1.0|1.0||Wetlands preservation and management on Chesapeake Bay: The role of science in natural resource policy
+1975|1.0|1.0|Communications of The ACM|A heuristic problem solving design system for equipment or furniture layouts
+1977|2.0|1.0||REMOVAL OF NITROGEN BY SIMULTANEOUS NITRIFICATION - DENITRIFICATION IN AN ACTIVATED SLUDGE PLANT WITH MAMMOTH ROTOR AERATION
+1979|17.0|17.0|ACM Computing Surveys|Geographic Data Processing
+1982|0|0.0|Ecological Modelling|Optimal stochastic control in natural resource management: Framework and examples
+1984|14.0|1.5|Advances in Space Research|A decade of remote sensing in India  Some salient results
+1985|20.0|16.0|Atmospheric Environment|Aerosol depletion and deposition in forestsA model analysis
+1986|1.0|1.0|Water Air and Soil Pollution|Diurnal variations of aerosol concentrations inside and above a young spruce stand: modelling and measurements
+1987|0|0.0|Coastal Management|Regional fishery management councils and the display of scientific authority
+1988|6.0|3.0|Journal of Biogeography|Soil resources and plant communities of the central Brazilian cerrado and their development
+1989|5.0|1.5|Ecological Modelling|Transferring scientific knowledge to natural resource managers using artificial intelligence concepts
+1990|18.0|5.0|Journal of Aerosol Science|Perspectives on aerosol deposition to natural surfaces: interactions between aerosol residence times, removal processes, the biosphere and global environmental change
+1991|1.0|0.0|Environmental Management|Confronting the challenge of greenline parks: limits of the traditional administrative approach.
+1992|4.0|2.0|Environmental Management|Integrated Resource Management Systems: Coupling Expert Systems with Data-Base Management and Geographic Information Systems
+1993|4.0|1.0|Environmental Management|Establishing management standards: Selected examples of the normative approach
+1994|40.0|1.0|World Development|The origins and practice of participatory rural appraisal
+1995|10.0|2.0|Environmental Management|Developing a collaborative model for environmental planning and management
+1996|40.0|3.5|Conservation Biology|Command and Control and the Pathology of Natural Resource Management
+1997|23.0|5.0|Remote Sensing of Environment|A process-based boreal ecosystem productivity simulator using remote sensing inputs
+1998|35.0|4.0|Austral Ecology|Predicting impact of freshwater exotic species on native biodiversity: Challenges in spatial scaling
+1999|54.0|5.0|Journal of Public Economics|The impact of changes in common property resource management on intrahousehold allocation
+2000|21.0|6.0|Agriculture, Ecosystems & Environment|Econometric analysis of the determinants of adoption of alley farming by farmers in the forest zone of southwest Cameroon.
+2001|105.0|6.0|World Development|Social Capital and the Environment
+2002|98.0|7.5|Remote Sensing of Environment|An overview of MODIS Land data processing and product status
+2003|50.0|5.0|Progress in Development Studies|Adaptation to climate change in the developing world
+2004|78.0|5.0|Ocean & Coastal Management|When can marine reserves improve fisheries management?
+2005|152.0|9.0|Ecology Letters|Managing ecosystem services: what do we need to know about their ecology?
+2006|166.0|6.0|Environmental Modelling and Software|Ten iterative steps in development and evaluation of environmental models
+2007|216.0|7.0|Ecology Letters|Pollination and other ecosystem services produced by mobile organisms: a conceptual framework for the effects of landuse change
+2008|81.0|4.0|Philosophical Transactions of the Royal Society B|Drivers of change in global agriculture.
+2009|191.0|7.0||The Importance of Land-Use Legacies to Ecology and Conservation
+2010|901.0|7.0|Renewable & Sustainable Energy Reviews|Biofuels from microalgae--A review of technologies for production, processing, and extractions of biofuels and co-products

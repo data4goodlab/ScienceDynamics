@@ -1,0 +1,64 @@
+----  Field Name Psychotherapist: 
+----  Field Level 1.0: 
+----  Field Papers Number 73481:
+----  All time max citation paper: Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin, 2002, (5854.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1937|1.0|1.0|Journal of General Psychology|A Comparative Study of Involuntary and Voluntary Conditioned Responses
+1950|1.0|1.0|Eos, Transactions American Geophysical Union|Laws of soil moisture
+1954|2.0|1.0|Review of Educational Research|Group Therapy in Educational Institutions
+1956|0|0.0|Psychological Review|SECONDARY MOTIVATION THROUGH CLASSICAL CONDITION- ING: A RECONSIDERATIO N OF THE NATURE OF BACKWARD CONDITIONING1
+1957|0|0.0|Review of Educational Research|Group Guidance and Group Therapy
+1958|5.0|0.0|Canadian Journal of Anaesthesia-journal Canadien D Anesthesie|Evaluation of a ventilator with fixed volume control and variable regulated pressure
+1959|5.0|1.0|Experimental Neurology|Effect of brain-stem lesions on conditioned responses of cats
+1960|22.0|1.0|Journal of Dairy Science|Structure and Synthesis of Milk Fat. I. Gas Chromatographic Analysis1,2
+1961|5.0|0.5|Experimental Neurology|Conditioned responses of gamma and alpha motoneurons in the cat trained to conditioned avoidance
+1962|5.0|2.0|Child Development|A REINFORCER SYSTEM AND EXPERIMENTAL PROCEDURE FOR THE LABORATORY STUDY OF READING ACQUISITION
+1963|15.0|4.0|Behaviour Research and Therapy|Application of operant conditioning procedures to the behaviour problems of an autistic child
+1964|10.0|2.5|Journal of Experimental Child Psychology|Effects of conditioned-stimulus familiarization on instrumental learning in children
+1965|8.0|2.0|Psychophysiology|THE EVALUATION OF AUTONOMIC AND MO TOR COMPONENTS OF THE NONAVOIDANCE CONDITIONED RESPONSE IN THE DOG1
+1966|15.0|1.0|Physiology & Behavior|The effects of preliminary training conditions upon DRL performance in the hippocampectomized rat
+1967|11.0|1.0|Physiology & Behavior|Effects of medial cortical lesions on appetitive instrumental conditioning
+1968|12.0|2.5|Psychopharmacology|Effects of scopolamine on avoidance conditioning and habituation of mice
+1969|22.0|2.0|Journal of Abnormal Psychology|Self-Directed Program for Weight Control: A Pilot Study.
+1970|36.0|1.0|Psychological Review|On the generality of the laws of learning
+1971|25.0|2.0|Psychological Review|THE "SUPERSTITION" EXPERIMENT: A REEXAMINATION OF ITS IMPLICATIONS FOR THE PRINCIPLES OF ADAPTIVE BEHAVIOR '
+1972|23.0|2.0|Psychopharmacology|Increased Irritability: A Permanent Behavior Change Induced in the Rat by Intraventricular Administration of 6-Hydroxydopamine
+1973|63.0|2.0|Psychological Review|Situationism in psychology: an analysis and a critique.
+1974|25.0|1.0|Behavior Therapy|Group therapy versus bibliotherapy in weight reduction
+1975|50.0|2.0|Psychological Review|A Theory of Attention: Variations in the Associability of Stimuli with Reinforcement.
+1976|81.0|1.5|Science|Neuronal substrate of classical conditioning in the hippocampus
+1977|45.0|2.0|American Psychologist|The Evolution of Behaviorism.
+1978|141.0|2.0|Behavioral and Brain Sciences|How adaptive behavior is produced: a perceptual-motivational alternative to response reinforcements
+1979|53.0|2.0|Psychopharmacology|Diazepam and Flurazepam" Effects on Conditioned Fear as Measured With the Potentiated Startle Paradigm
+1980|50.0|2.0|Pharmacology, Biochemistry and Behavior|Reinforcing effects of morphine microinjection into the ventral tegmental area
+1981|136.0|2.0|Behavioral and Brain Sciences|Maximization theory in behavioral psychology
+1982|185.0|2.0|Behavioral and Brain Sciences|Neuroleptics and operant behavior: The anhedonia hypothesis
+1983|59.0|3.0|Nature|The function of dream sleep
+1984|115.0|2.0|Artificial Intelligence|Qualitative process theory
+1985|44.0|2.0|Neuroscience & Biobehavioral Reviews|Neuroregulators and the reinforcement of smoking: Towards a biobehavioral explanation
+1986|62.0|3.0|American Psychologist|Understanding and preventing relapse.
+1987|95.0|3.0|Psychological Review|Modeling the Neural Substrates of Associative Learning and Memory: A Computational Approach.
+1988|122.0|3.0|American Journal of Public Health|AIDS and behavioral change to reduce risk: a review.
+1989|164.0|2.0|Psychological Review|Health complaints, stress, and distress: exploring the central role of negative affectivity.
+1990|91.0|2.0|Behavioral and Brain Sciences|From an animal's point of view: Motivation, fitness, and animal welfare
+1991|83.0|3.0|Journal of Consulting and Clinical Psychology|Clinical Significance: A Statistical Approach to Defining Meaningful Change in Psychotherapy Research.
+1992|156.0|2.0|ACM Computing Surveys|Symbolic Boolean manipulation with ordered binary-decision diagrams
+1993|149.0|2.0|Psychological Review|Adolescence-limited and life-course-persistent antisocial behavior: a developmental taxonomy
+1994|106.0|3.0|IEEE Transactions on Neural Networks|An introduction to simulated evolutionary optimization
+1995|284.0|3.0|JAMA|Changing Physician Performance: A Systematic Review of the Effect of Continuing Medical Education Strategies
+1996|97.0|3.0|Journal of Cerebral Blood Flow and Metabolism|Enlarged infarcts in endothelial nitric oxide synthase knockout mice are attenuated by nitro-L-arginine.
+1997|170.0|4.0|Nature|Fear conditioning induces associative long-term potentiation in the amygdala
+1998|242.0|4.0|Brain Research Reviews|What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience?
+1999|269.0|4.0|Circulation|Impact of Psychological Factors on the Pathogenesis of Cardiovascular Disease and Implications for Therapy
+2000|219.0|6.0|Neuroscience & Biobehavioral Reviews|The adolescent brain and age-related behavioral manifestations
+2001|315.0|5.0|Nature Neuroscience|Abstract reward and punishment representations in the human orbitofrontal cortex
+2002|1886.0|6.0|The New England Journal of Medicine|Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin
+2003|286.0|7.0|Annual Review of Psychology|Empirically Supported Psychological Interventions: Controversies and Evidence
+2004|268.0|8.0|Trends in Cognitive Sciences|Action sets and decisions in the medial frontal cortex
+2005|558.0|7.0|Nature Neuroscience|Neural systems of reinforcement for drug addiction: from actions to habits to compulsion
+2006|331.0|7.0|The Lancet|Climate change and human health: present and future risks
+2007|654.0|7.0|Journal of Computer-Mediated Communication|The Benefits of Facebook Friends: Social Capital and College Students Use of Online Social Network Sites
+2008|498.0|8.0|Annals of Internal Medicine|Extending the CONSORT Statement to Randomized Trials of Nonpharmacologic Treatment: Explanation and Elaboration
+2009|452.0|8.0|Nature Nanotechnology|Continuous base identification for single-molecule nanopore DNA sequencing
+2010|2415.0|8.0|Journal of Personality Assessment|The Satisfaction with Life Scale

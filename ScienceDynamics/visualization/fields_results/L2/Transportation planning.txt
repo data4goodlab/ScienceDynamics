@@ -1,0 +1,46 @@
+----  Field Name Transportation planning: 
+----  Field Level 2.0: 
+----  Field Papers Number 2845:
+----  All time max citation paper: Optimization flow controlI: basic algorithm and convergence, 1999, (861.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1967|3.0|2.5|Journal of Transport Economics and Policy|CHOICE OF TRAVEL MODE FOR THE JOURNEY TO WORK-SOME FINDINGS
+1970|0|0.0|Transportation Research|ROAD CAPITAL COST FUNCTIONS: THEORY AND ESTIMATION
+1971|0|0.0|Socio-economic Planning Sciences|Transport policy decision analysis: a decision-theoretic framework
+1974|1.0|1.0|Transportation Research|ENERGY, URBAN FORM AND TRANSPORTATION POLICY
+1975|6.0|1.0|Transportation Research|Least-squares estimation of trip distribution parameters
+1976|11.0|1.0|Transportation Research|Derivation and analysis of some models for combining trip distribution and assignment
+1977|2.0|1.0|Progress in Planning|Transport modelling: sensitivity analysis and policy testing
+1978|4.0|1.0|European Journal of Operational Research|ON THE USE OF TREE-INDEXING METHODS IN TRANSPORTATION ALGORITHMS
+1979|17.0|1.0|Management Science|MATHEMATICAL MODELS OF ROAD TRAVEL DISTANCES
+1980|2.0|0.5|Transportation Research Part B-methodological|Types of transportation supply functions and their applications
+1981|9.0|0.0|Transportation Research Part B-methodological|Bregman's balancing method
+1982|2.0|0.0|Transportation Research Part A-policy and Practice|EVALUATION OF ACTIVITY CONSTRAINED CHOICE SETS TO SHOPPING DESTINATION CHOICE MODELLING
+1983|2.0|0.5|European Journal of Operational Research|Transportation systems and residential location
+1984|2.0|1.0|Journal of Urban Economics|A nested logit model of travel mode to work and auto ownership
+1985|6.0|0.0|Transportation Research Part A: General|Logistics: An overview of the state of the art and perspectives on future research
+1986|2.0|1.5|Transportation Science|Dynamic Model of Weekly Activity Pattern
+1987|6.0|1.5|Management Science|Scheduling Ocean Transportation of Crude Oil
+1988|5.0|1.0|Transportation|WELFARE EFFECTS OF CONGESTION PRICING IN SINGAPORE
+1989|13.0|0.0|Journal of The American Planning Association|GASOLINE CONSUMPTION AND CITIES: A COMPARISON OF U.S. CITIES WITH A GLOBAL SURVEY
+1990|64.0|2.0|Mathematical Programming|Finite-dimensional variational inequality and nonlinear complementarity problems: a survey of theory, algorithms and applications
+1991|15.0|2.0|Transportation Research Part B-methodological|Dynamic traffic assignment for urban road networks
+1992|15.0|1.0|national conference on artificial intelligence|A General-Equilibrium Approach to Distributed Transportation Planning
+1993|18.0|2.0|automated software engineering|Transformational approach to transportation scheduling
+1994|11.0|0.0|Journal of The American Planning Association|A Chronicle of Scientific Planning: The Anglo-American Modelling Experience
+1995|56.0|1.0|IEEE Journal on Selected Areas in Communications|Pricing congestible network resources
+1996|17.0|1.0|Journal of Urban Economics|Second-Best Congestion Pricing: The Case of an Untolled Alternative
+1997|75.0|1.5|Siam Review|Engineering and Economic Applications of Complementarity Problems
+1998|38.0|2.0|American Journal of Obstetrics and Gynecology|Fetal lung lesions: Management and outcome
+1999|179.0|3.0|IEEE\/ACM Transactions on Networking|Optimization flow controlI: basic algorithm and convergence
+2000|67.0|4.0|ACM Transactions on Computer-Human Interaction|Transcending the individual human mindcreating shared understanding through collaborative design
+2001|36.0|3.0|Transportation Research Part E-logistics and Transportation Review|THE VALUATION OF RELIABILITY FOR PERSONAL TRAVEL
+2002|76.0|4.0|Public Health Reports|Urban sprawl and public health
+2003|51.0|5.0|Journal of The American Planning Association|RESIDENTIAL RELOCATION AND CHANGES IN URBAN TRAVEL: DOES NEIGHBORHOOD-SCALE URBAN FORM MATTER?
+2004|59.0|3.0|Transportation Research Part A-policy and Practice|ACTIVE TRANSPORTATION AND PHYSICAL ACTIVITY: OPPORTUNITIES FOR COLLABORATION ON TRANSPORTATION AND PUBLIC HEALTH RESEARCH
+2005|214.0|4.0|IEEE Journal on Selected Areas in Communications|Balancing transport and physical Layers in wireless multihop networks: jointly optimal congestion control and power control
+2006|119.0|3.0|Computers & Operations Research|A survey on networking games in telecommunications
+2007|192.0|4.0|Transportation Research Record|Travel and the Built Environment: A Synthesis
+2008|156.0|3.0|Transport Policy|The sustainable mobility paradigm
+2009|68.0|3.0|Transportation Research Part A-policy and Practice|The Stockholm congestion  charging trial 2006: Overview of effects
+2010|103.0|4.0|European Journal of Operational Research|Mathematical programming models for supply chain production and transport planning

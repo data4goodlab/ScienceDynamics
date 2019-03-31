@@ -1,0 +1,69 @@
+----  Field Name Viticulture: 
+----  Field Level 2.0: 
+----  Field Papers Number 22288:
+----  All time max citation paper: An improved method of constructing a database of monthly climate observations and associated high-resolution grids, 2005, (2065.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1936|0|0.0|Digestive Diseases and Sciences|Nocturnal and diurnal variations in the acidity of the spontaneous secretion of gastric juice
+1943|1.0|0.5||Onion downy mildew.
+1945|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|The semidiurnal variation of meson intensity
+1949|0|0.0|New Phytologist|PHYSIOLOGICAL STUDIES ON ACID METABOLISM IN GREEN PLANTS. II. EVIDENCE OF CO2 FIXATION IN BRYOPHYLLUM AND THE STUDY OF DIURNAL VARIATION OF ACIDITY IN THIS GENUS
+1950|2.0|2.0|The Biological Bulletin|Adaptation to cold in arctic and tropical mammals and birds in relation to body temperature, insulation, and basal metabolic rate.
+1951|0|0.0|Journal of Dairy Science|Diurnal Variations in Calcium, Magnesium and Citric Acid Levels of the Blood Serum1,2
+1952|0|0.0|Nature|Cosmic Rays and the Sun's Magnetic Field: Diurnal Variation of Cosmic Rays and the Sun's Magnetic Field
+1953|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|Meteorological and extra-terrestrial causes of the daily variation of cosmic ray intensity
+1954|4.0|4.0|Journal of Allergy|The diurnal variation of air-borne ragweed pollen as determined by a continuous recording particle sampler and implications of the study
+1956|0|0.0|Journal of Laryngology and Otology|Olfactory Acuity in Normal and Obese Human Subjects: Diurnal Variations and the Effect of D-Amphetamine Sulphate
+1957|4.0|2.0|British Journal of Nutrition|Diurnal variations in the composition of the faeces of pigs on diets containing chromium oxide
+1958|0|0.0|Philosophical Magazine|TIME VARIATIONS OF THE COSMIC RAY INTENSITY IN JAMAICA
+1960|8.0|2.0|British Journal of Nutrition|The rate of flow of digesta and their removal along the digestive tract of the sheep.
+1961|9.0|1.0|Journal of Dairy Science|An Improved Nonselective Culture Medium for Ruminal Bacteria and Its Use in Determining Diurnal Variation in Numbers of Bacteria in the Rumen
+1962|8.0|3.5|Planetary and Space Science|Diurnal variation of cosmic radiation intensity produced by a solar wind
+1963|48.0|12.5|Journal of Geophysical Research|A Large Diurnal Variation of the Geomagnetically-trapped Radiation
+1964|88.0|5.5|Journal of Geophysical Research|Deformation of the geomagnetic field by the solar wind
+1965|75.0|5.5|Journal of Geophysical Research|Nightside magnetosphere configuration as obtained from trapped electrons at 1100 kilometers
+1966|34.0|2.5|Journal of Geophysical Research|Transverse magnetic disturbances at 1100 kilometers in the auroral region
+1967|71.0|8.0|Advances in Insect Physiology|Lipid Metabolism and Function in Insects
+1968|36.0|7.0|Journal of Geophysical Research|The formation of smallscale irregularities in the ionosphere
+1969|26.0|3.0|Journal of Geophysical Research|Diurnal variation of neutral and charged particle temperatures in the equatorial F region.
+1970|55.0|4.0|Journal of Geophysical Research|A model calculation of the diurnal variation in minor neutral constituents in the mesosphere and lower thermosphere including transport effects
+1971|42.0|4.0|Journal of Geophysical Research|Diurnal variation of nitric oxide in the upper atmosphere
+1972|17.0|5.0|Journal of Geophysical Research|Mariner 6 and 7 Ultraviolet Spectrometer Experiment: Analysis of the O I 1304 and 1356A emissions
+1973|31.0|3.0|Journal of Geophysical Research|Semiannual variation of geomagnetic activity.
+1974|70.0|5.5|Journal of Geophysical Research|The diurnal flow pattern of fieldaligned currents
+1975|46.0|4.0|Journal of Geophysical Research|Solar wind electrons
+1976|48.0|6.0|Journal of Geophysical Research|Net fieldaligned currents observed by Triad
+1977|128.0|4.0|Journal of Geophysical Research|A global thermospheric model based on mass spectrometer and incoherent scatter data MSIS, 2. Composition
+1978|81.0|4.0|Geophysical Research Letters|The latitudinal, diurnal, and altitudinal distributions of upward flowing energetic ions of ionospheric origin
+1979|78.0|3.0|Journal of Geophysical Research|Properties and effects of dust particles suspended in the Martian atmosphere
+1980|36.0|3.0|Journal of Geophysical Research|Measurements of thermal structure and thermal contrasts in the atmosphere of Venus and related dynamical observations - Results from the four Pioneer Venus probes
+1981|129.0|3.0|Journal of Geophysical Research|Tropospheric chemistry - A global perspective
+1982|38.0|3.0|Journal of Geophysical Research|The flux of dimethylsulfide from the oceans to the atmosphere
+1983|85.0|3.0|Journal of Geophysical Research|Nitrogen oxides in the troposphere: Global and regional budgets
+1984|46.0|4.0|Journal of Geophysical Research|The vertical distribution of ozone in the mesosphere and lower thermosphere
+1985|37.0|3.0|Journal of Geophysical Research|The cleft ion fountain
+1986|30.0|3.0|Limnology and Oceanography|Redox state of iron in the offshore waters of Peru1
+1987|57.0|3.0|Neuroscience|Grafting genetically modified cells to the brain: Possibilities for the future
+1988|82.0|2.0|Journal of Geophysical Research|Photochemistry of biogenic emissions over the Amazon forest
+1989|32.0|3.0|Brain Research|Vasoactive intestinal peptide immunoreactive neurons in the rat suprachiasmatic nucleus demonstrate diurnal variation
+1990|86.0|3.0|Science|Interfacial Catalysis: The Mechanism of Phospholipase A2
+1991|82.0|3.0|Geophysical Journal International|Active tectonics of the north and central Aegean Sea
+1992|40.0|3.0|Geophysical Journal International|Modern tectonic stress field in the Mediterranean region: evidence for variation in stress directions at different scales
+1993|33.0|3.0|Journal of the American Ceramic Society|Mechanisms and Kinetics of ReactionBonded Aluminum Oxide Ceramics
+1994|49.0|3.0|international symposium on information theory and its applications|Adaptive multiuser detection
+1995|82.0|3.0|Geophysical Research Letters|On modeling migrating solar tides
+1996|40.0|3.0|The Journal of Comparative Neurology|Individual axon morphology and thalamocortical topography in developing rat somatosensory cortex
+1997|64.0|3.0|Journal of Geophysical Research|Seasonal variation of carbon dioxide, water vapor, and energy exchanges of a boreal black spruce forest
+1998|58.0|3.0|The Journal of Comparative Neurology|Effects of monoamine oxidase A inhibition on barrel formation in the mouse somatosensory cortex: Determination of a sensitive developmental period
+1999|212.0|4.0|Reviews of Geophysics|Surface air temperature and its changes over the past 150 years
+2000|73.0|5.0|Agricultural and Forest Meteorology|Correcting eddy-covariance flux underestimates over a grassland
+2001|163.0|5.0|international symposium on computer architecture|Cache decay: exploiting generational behavior to reduce cache leakage power
+2002|140.0|6.0|Molecular Psychiatry|Organization of the stress system and its dysregulation in melancholic and atypical depression: high vs low CRH/NE states
+2003|127.0|6.0|The Journal of Allergy and Clinical Immunology|Induction of IL-10+CD4+CD25+ T cells by grass pollen immunotherapy
+2004|135.0|6.0|PLOS Biology|BMAL1 and CLOCK, Two Essential Components of the Circadian Clock, Are Involved in Glucose Homeostasis
+2005|623.0|6.0|International Journal of Climatology|An improved method of constructing a database of monthly climate observations and associated high-resolution grids
+2006|260.0|6.0|Communications of The ACM|A research manifesto for services science
+2007|268.0|7.0|IEEE Computer|Steps toward a science of service systems
+2008|350.0|6.0|Global and Planetary Change|Climate change projections for the Mediterranean region
+2009|754.0|7.0|Biotechnology and Bioengineering|Microalgae for oil: strain selection, induction of lipid synthesis and outdoor mass cultivation in a low-cost photobioreactor.
+2010|231.0|7.0|Atmosphere-ocean|Temperature and precipitation trends in Canada during the 20th century

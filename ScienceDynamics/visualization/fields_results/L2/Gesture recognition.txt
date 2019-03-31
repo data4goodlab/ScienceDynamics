@@ -1,0 +1,48 @@
+----  Field Name Gesture recognition: 
+----  Field Level 2.0: 
+----  Field Papers Number 8680:
+----  All time max citation paper: A survey on sensor networks, 2002, (4039.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1958|0|0.0|Transactions of The American Institute of Electrical Engineers. Part Iii: Power Apparatus and Systems|Effect of Hydrostatic Pressure on the Permittivity of Barium Titanate Ceramics
+1965|0|0.0|Proceedings of the IEEE|Interaction of phonons with iron-group ions
+1968|0|0.0|Behavior Research Methods|Measurement of the body surface physiologic tremor or microvibration
+1970|0|0.0|IEEE Transactions on Magnetics|Stress relief mechanism of aging in plated-wire memories
+1971|5.0|5.0|Proceedings of the IEEE|Strain-biased ferroelectric-photoconductor image storage and display devices
+1973|2.0|1.0|IEEE Transactions on Microwave Theory and Techniques|High-Order Finite Elements for Inhomogeneous Acoustic Guiding Structures
+1975|1.0|1.0|IEEE Journal of Quantum Electronics|New heteroisolation stripe-geometry visible-light-emitting lasers
+1976|8.0|1.0|Proceedings of the IEEE|Parameter identification in distributed systems: A synthesizing overview
+1977|13.0|6.5|international joint conference on artificial intelligence|A display oriented programmer's assistant
+1978|5.0|1.0|Analytica Chimica Acta|Minicomputer-Controlled, Background-Subtracted Anodic Stripping Voltammetry: Evaluation of Parameters and Performance,
+1979|4.0|2.0|Physiology & Behavior|Capacitive sensor for lick-by-lick recording of drinking
+1980|5.0|4.0|IEEE Transactions on Biomedical Engineering|Kinematics of the Beating Heart
+1981|26.0|0.0|ACM Computing Surveys|Behavioral Aspects of Text Editors
+1982|7.0|1.0|IEEE Transactions on Electron Devices|A graphical representation of the piezoresistance coefficients in silicon
+1983|22.0|1.0|international conference on computer graphics and interactive techniques|INCENSE: A system for displaying data structures
+1984|6.0|1.0|Attention Perception & Psychophysics|The perception of three-dimensional structure from rigid and nonrigid motion
+1985|9.0|5.0|IEEE Transactions on Geoscience and Remote Sensing|Utilization of Mobile VLBI for Geodetic Measurements
+1986|30.0|3.0||A survey of hypertext
+1987|45.0|2.0|International Journal of Computer Vision|Epipolar-plane image analysis: An approach to determining structure from motion
+1988|11.0|2.0|international conference on computational linguistics|Generating multimodal output: conditions, advantages and problems
+1989|37.0|5.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Motion field and optical flow: qualitative properties
+1990|28.0|5.0|Review of Scientific Instruments|Force microscopy with a bidirectional capacitance sensor
+1991|114.0|3.0|human factors in computing systems|The information visualizer, an information workspace
+1992|24.0|3.0|human factors in computing systems|A pile metaphor for supporting casual organization of information
+1993|61.0|3.0|computer vision and pattern recognition|Space-time gestures
+1994|65.0|3.0|european conference on computer vision|Canonic representations for the geometries of multiple projective views
+1995|76.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Recursive estimation of motion, structure, and focal length
+1996|117.0|5.0|Cognitive Brain Research|Premotor cortex and the recognition of motor actions
+1997|209.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Pfinder: real-time tracking of the human body
+1998|208.0|4.0|Trends in Neurosciences|Language within our grasp
+1999|109.0|3.0|international conference on computer vision|Wallflower: principles and practice of background maintenance
+2000|233.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Learning patterns of activity using real-time tracking
+2001|112.0|3.0|international conference on computer vision|BraMBLe: a Bayesian multiple-blob tracker
+2002|1074.0|5.0|IEEE Communications Magazine|A survey on sensor networks
+2003|225.0|4.0|international conference on computer vision|Real-time simultaneous localisation and mapping with a single camera
+2004|494.0|5.0|IEEE Transactions on Circuits and Systems for Video Technology|An introduction to biometric recognition
+2005|205.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|The humanID gait challenge problem: data sets, performance, and analysis
+2006|204.0|3.0|international conference on computer graphics and interactive techniques|Photo tourism: exploring photo collections in 3D
+2007|422.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|MonoSLAM: Real-Time Single Camera SLAM
+2008|307.0|3.0|International Journal of Computer Vision|Modeling the World from Internet Photo Collections
+2009|1460.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Robust Face Recognition via Sparse Representation
+2010|166.0|4.0|computer vision and pattern recognition|Action recognition based on a bag of 3D points

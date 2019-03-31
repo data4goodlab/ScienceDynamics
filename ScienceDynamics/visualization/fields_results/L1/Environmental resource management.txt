@@ -1,0 +1,44 @@
+----  Field Name Environmental resource management: 
+----  Field Level 1.0: 
+----  Field Papers Number 7024:
+----  All time max citation paper: Comparative Phylogeography in Fijian Coral Reef Fishes: A Multi-Taxa Approach towards Marine Reserve Design, 2012, (1957.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1969|3.0|3.0|IEEE Transactions on Computers|On the Design of Bayesian Storage Allocation Algorithms for Paging and Segmentation
+1970|3.0|3.0|Nature|Control of Chemical Pollutants
+1974|1.0|1.0|Human Ecology|Predator-Prey Relationships In the Southeastern Ozarks - A.D. 1300
+1975|0|0.0||Landscape Concept Development for Confined Dredged Material Sites.
+1976|64.0|64.0|Human Ecology|The adaptive significance of cultural behavior
+1977|27.0|3.0|Human Ecology|The adaptive significance of cultural behavior: Comments and reply
+1979|1.0|1.0|Journal of Environmental Economics and Management|Stable taxation schemes in regional environmental management
+1980|2.0|1.0|Environmental Management|DOES SALT-MARSH FERTILIZATION ENHANCE SHELLFISH PRODUCTION - AN APPLICATION OF FLOW-ANALYSIS
+1981|2.0|0.0|Journal of Environmental Economics and Management|Markets and environmental management with a storable pollutant
+1982|4.0|1.0|The Environmentalist|Tunnel Vision in Environmental Management.
+1983|2.0|0.0|design automation conference|Chip Assemblers: Concepts and Capabilities
+1984|4.0|4.0|The Environmentalist|Professional dissent and environmental management
+1985|10.0|1.0|Journal of Dairy Science|Effects of Climatic and Management Factors on Conception Rate of Dairy Cattle in Subtropical Environment1
+1986|39.0|2.0|Human Ecology|Correlates of reproductive success in a Caribbean village
+1987|19.0|3.5|Environmental Management|Global sustainability: Toward definition
+1988|52.0|3.0|IEEE Transactions on Software Engineering|Understanding and controlling software costs
+1989|31.0|1.0|international conference on software engineering|Object Management In A Case Environment
+1990|24.0|2.0|international conference on data engineering|A flexible transaction model for software engineering
+1991|38.0|1.5|IEEE Transactions on Software Engineering|On rigorous transaction scheduling
+1992|21.0|1.0|international conference on software engineering|Concepts and implementation of a rule-based process engine
+1993|79.0|2.0|IEEE Computer|Easy-to-use object-oriented parallel processing with Mentat
+1994|100.0|3.0|IEEE MultiMedia|Content based video indexing and retrieval
+1995|53.0|1.0|ieee virtual reality conference|Exploiting reality with multicast groups: a network architecture for large-scale virtual environments
+1996|68.0|3.0|Restoration Ecology|Towards a Conceptual Framework for Restoration Ecology
+1997|20.0|1.0|Journal of Operations Management|Green value chain practices in the furniture industry
+1998|238.0|2.0|Nature|Mycorrhizal fungal diversity determines plant biodiversity, ecosystem variability and productivity
+1999|41.0|3.0|Journal of Wildlife Management|Effects of sample size on KERNEL home range estimates
+2000|70.0|3.0|IEEE Computer|Mobile-agent coordination models for Internet applications
+2001|190.0|4.0|IEEE Transactions on Robotics and Automation|A solution to the simultaneous localization and map building (SLAM) problem
+2002|140.0|5.0|Ecological Modelling|Generalized linear and generalized additive models in studies of species distributions: Setting the scene
+2003|611.0|6.0|IEEE Computer|The vision of autonomic computing
+2004|122.0|5.0|international conference on autonomic computing|Utility functions in autonomic systems
+2005|207.0|5.0|Proceedings of the IEEE|The Grid Economy
+2006|188.0|4.5|Ecosystems|Ecological Thresholds: The Key to Successful Environmental Management or an Important Concept with No Practical Application?
+2007|188.0|5.0|Journal of Cleaner Production|A review of assessments conducted on bio-ethanol as a transportation fuel from a net energy, greenhouse gas, and environmental life cycle perspective.
+2008|304.0|4.0|Biological Conservation|Stakeholder participation for environmental management: A literature review
+2009|472.0|6.0|Biological Conservation|Biodiversity management in the face of climate change: A review of 22 years of recommendations
+2010|537.0|8.0|Ecological Complexity|Challenges in integrating the concept of ecosystem services and values in landscape planning, management and decision making

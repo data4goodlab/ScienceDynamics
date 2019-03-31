@@ -1,0 +1,66 @@
+----  Field Name Microanalysis: 
+----  Field Level 2.0: 
+----  Field Papers Number 6516:
+----  All time max citation paper: Proteomics to study genes and genomes., 2000, (1217.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|1.0|0.0|The Journal of Agricultural Science|Factors affecting the stability and estimation of carotene in artificially dried grass and hays.
+1950|6.0|2.0|Nature|Elimination of Losses in the Quantitative Estimation of Amino-Acid by Paper Chromatography
+1952|6.0|6.0|Journal of Pharmacy and Pharmacology|THE MICROBIOLOGICAL ASSAY OF VITAMIN B12 IN CRUDE LIVER EXTRACTS
+1953|2.0|1.5|Journal of the Science of Food and Agriculture|The chemical estimation of vitaminE activity in cereal products. I.The tocopherol pattern of wheatgerm oil
+1954|4.0|4.0|Archives of Biochemistry and Biophysics|Studies on biosynthesis of carotenoids in Neurospora crassa
+1955|4.0|4.0|Biochimica et Biophysica Acta|Amino-acid composition of human crystallized myoglobin and haemoglobin
+1957|10.0|3.0|Biochimica et Biophysica Acta|Identification and quantitative determination of keto acids by paper chromatography.
+1958|7.0|1.0|Journal of Dairy Science|Chromatographic Separation of Some Milk Lipids1
+1959|25.0|7.5|Biochimica et Biophysica Acta|Analysis of human plasma phosphatides by paper chromatography.
+1960|20.0|3.5|Nature|Gas chromatography of unesterified fatty acids using polyester columns treated with phosphoric acid.
+1961|10.0|4.0|Journal of Dairy Science|Fatty Acid Composition of the Diglycerides from Lipolyzed Milk Fat1
+1962|7.0|6.5|Archives of Biochemistry and Biophysics|Studies on the distribution of free carnitine and the occurrence and nature of bound carnitine.
+1963|11.0|8.0|Archives of Biochemistry and Biophysics|Biosynthesis of fatty acids and cholesterol as related to diet fat.
+1964|13.0|2.0|Journal of Geophysical Research|Origin of diamonds in the canyon diablo and novo urei meteorites
+1965|9.0|4.5|Nature|Uptake, during absorption, of free fatty acids by phospholipids of the intestinal mucosa of rats.
+1966|6.0|1.0|Geochimica et Cosmochimica Acta|Electron Microprobe Study of Spherules from Atlantic Ocean Sediments
+1967|18.0|3.0|Lipids|A quantitation problem in the open tubular gas chromatography of fatty acid esters from cod liver lipids.
+1968|23.0|1.0|Journal of Dairy Science|Bovine Ketosis and Depressed Fat Test in Milk: A Problem of Methionine Metabolism and Serum Lipoprotein Aberration1
+1969|26.0|7.5|Journal of Chromatography A|Quantitative densitometric thin-layer chromatography of lipids using copper acetate reagent
+1970|32.0|3.0|Environmental Pollution|Polychlorinated biphenyls in wild birds in Britain and their avian toxicity.
+1971|10.0|4.0|Biochemical Medicine|Fluorometric determination of vitamin A in human blood and liver.
+1972|4.0|1.0|Journal of Chromatography A|Gas chromatographic analysis of the higher fatty acids of the alga Chlorella vulgaris (pyrenoidosa).
+1973|11.0|4.0|Geochimica et Cosmochimica Acta|Luna 20 soil: abundance and composition of phases in the 45125 micron fraction
+1974|32.0|0.5|Geochimica et Cosmochimica Acta|Distribution coefficients of Eu and Sr for plagioclase-liquid and clinopyroxene-liquid equilibria in oceanic ridge basalt: an experimental study
+1975|10.0|4.0|Geochimica et Cosmochimica Acta|Some studies of an unusual eucrite - Ibitira
+1976|2.0|0.0|Transportation Research|MODE CHOICE CHARACTERISTICS AS DETERMINANTS OF INTERURBAN TRANSPORT DEMAND
+1977|35.0|1.0|Journal of Applied Physics|Ion-beam-induced atomic mixing
+1978|6.0|3.0|Journal of Applied Physics|Sputtering of metal alloys containing second-phase precipitates
+1979|13.0|1.0|Geochimica et Cosmochimica Acta|Rb-Sr age of the Shergotty achondrite and implications for metamorphic resetting of isochron ages
+1980|17.0|3.0|Nature|Recombination of human influenza A viruses in nature
+1981|17.0|2.0|Earth and Planetary Science Letters|Microanalysis of nitrogen isotope abundances: association of nitrogen with noble gas carriers in Allende
+1982|8.0|4.0|Geochimica et Cosmochimica Acta|Evidence for aqueous alteration in a carbonaceous xenolith from the Plainview (H5) chondrite
+1983|13.0|0.0|American Journal of Physical Anthropology|Electron Microprobe Analysis of Elemental Distribution in Excavated Human Femurs
+1984|12.0|5.0|Nature|Ion microprobe magnesium isotope analysis of plagioclase and hibonite from ordinary chondrites
+1985|21.0|2.0|Geochimica et Cosmochimica Acta|Ion microprobe isotopic measurements of individual interplanetary dust particles
+1986|7.0|1.0|Infant Behavior & Development|The beginning of conversation: Early patterns of mother-infant vocal responsiveness
+1987|12.0|2.0|Journal of Experimental Marine Biology and Ecology|Assessment of biochemical composition and energy reserves in larvae of the scallop Patinopecten yessoensis
+1988|57.0|3.5|Bone|Ultrastructural analysis of bone nodules formed in vitro by isolated fetal rat calvaria cells.
+1989|92.0|2.0|Journal of Neurochemistry|Ionic Composition of Microdialysis Perfusing Solution Alters the Pharmacological Responsiveness and Basal Outflow of Striatal Dopamine
+1990|40.0|2.0|Geochimica et Cosmochimica Acta|A laser-based microanalytical method for the in situ determination of oxygen isotope ratios of silicates and oxides
+1991|43.0|1.0|Pharmacology, Biochemistry and Behavior|Cholinergic activity in the rat hippocampus, cortex and striatum correlates with locomotor activity: An in vivo microdialysis study
+1992|53.0|2.0|Applied Physics Letters|Direct evidence for the amorphous silicon phase in visible photoluminescent porous silicon
+1993|10.0|1.0|Science of The Total Environment|Apportioning the sources of lead in house dusts in the London borough of Richmond, England
+1994|15.0|7.0|Soil Biology & Biochemistry|Changes in bacterial and fungal biomass C, bacterial and fungal biovolume and ergosterol content after drying, remoistening and incubation of different layers of cool temperate forest soils
+1995|13.0|2.0|Nutrition Research|Phytate: A good or a bad food component?
+1996|25.0|3.0|Applied and Environmental Microbiology|IS900 PCR to detect Mycobacterium paratuberculosis in retail supplies of whole pasteurized cows' milk in England and Wales.
+1997|24.0|2.0|Transportation|A MICRO-ANALYSIS OF LAND USE AND TRAVEL IN FIVE NEIGHBORHOODS IN THE SAN FRANCISCO BAY AREA.
+1998|23.0|2.0|Environmental Toxicology and Chemistry|Effects of mercury on wildlife: A comprehensive review
+1999|24.0|3.0|Applied and Environmental Microbiology|Toxigenic strains of Bacillus licheniformis related to food poisoning
+2000|552.0|6.0|Nature|Proteomics to study genes and genomes.
+2001|90.0|4.0|real time technology and applications symposium|A feedback control approach for guaranteeing relative delays in Web servers
+2002|135.0|4.0|mobile ad hoc networking and computing|On the minimum node degree and connectivity of a wireless multihop network
+2003|42.0|3.0|Journal of Virological Methods|Detection of potato viruses using microarray technology: towards a generic method for plant viral disease diagnosis
+2004|59.0|4.0|Analytical Biochemistry|Performance of antibody microarrays fabricated by either DNA-directed immobilization, direct spotting, or streptavidinbiotin attachment: a comparative study
+2005|193.0|8.0|Bioresource Technology|Coordinated development of leading biomass pretreatment technologies.
+2006|88.0|3.0|Journal of the American Oil Chemists' Society|Analyzing biodiesel: standards and other methods.
+2007|165.0|5.0|Analytica Chimica Acta|Box-Behnken design: An alternative for the optimization of analytical methods
+2008|230.0|6.0|Journal of Hazardous Materials|Technologies for the removal of phenol from fluid streams: A short review of recent developments
+2009|499.0|10.0|Clinical Infectious Diseases|Ongoing revolution in bacteriology: routine identification of bacteria by matrix-assisted laser desorption ionization time-of-flight mass spectrometry.
+2010|370.0|8.0|Proceedings of the IEEE|Sparse Representation for Computer Vision and Pattern Recognition

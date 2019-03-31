@@ -1,0 +1,49 @@
+----  Field Name Biological engineering: 
+----  Field Level 1.0: 
+----  Field Papers Number 10363:
+----  All time max citation paper: Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources., 2009, (6860.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1966|2.0|2.0|The New England Journal of Medicine|Gas physiology in space operations.
+1967|8.0|4.0|Medical & Biological Engineering & Computing|The specific resistance of biological material--a compendium of data for the biomedical engineer and physiologist.
+1968|10.0|5.0|Journal of Biomechanics|Computer modeling of the human systemic arterial tree.
+1971|1.0|1.0|Proceedings of the IEEE|Education in biomedical engineering
+1972|3.0|0.5|IEEE Transactions on Biomedical Engineering|Cardiovascular System Simulation in Biomedical Engineering Education
+1973|7.0|1.0|Journal of Pharmacokinetics and Biopharmaceutics|Properties of the Michaelis-Menten equation and its integrated form which are useful in pharmacokinetics
+1974|2.0|0.0|Journal of Pharmacokinetics and Biopharmaceutics|Application of the Wagner-Nelson absorption method to the two-compartment open model
+1975|2.0|1.5|IEEE Transactions on Biomedical Engineering|A Comparison of Two Methods for Determining the Extracellular Potential Field of an Isolated Purkinje Strand in a Volume Conductor
+1976|23.0|3.0|Journal of Pharmacokinetics and Biopharmaceutics|Linear pharmacokinetic equations allowing direct calculation of many needed pharmacokinetic parameters from the coefficients and exponents of polyexponential equations which have been fitted to the data
+1977|6.0|2.0|Journal of Pharmacokinetics and Biopharmaceutics|Pharmacokinetic parameters estimated from intravenous data by uniform methods and some of their uses
+1978|15.0|3.0|IEEE Transactions on Biomedical Engineering|Signal Processing of Broadband Pulsed Ultrasound: Measurement of Attenuation of Soft Biological Tissues
+1979|5.0|0.0|IEEE Transactions on Biomedical Engineering|New Concepts for PVC Detection
+1980|7.0|3.0|IEEE Transactions on Biomedical Engineering|The EEG Analysis System of the National Cooperative Dialysis Study
+1981|10.0|2.0|IEEE Transactions on Biomedical Engineering|A Review of Programmed Insulin Delivery Systems
+1982|8.0|1.0|Journal of Medical Engineering & Technology|Speech technology: Implications for biomedical engineering
+1983|5.0|2.0|Journal of Pharmacokinetics and Biopharmaceutics|Pharmacokinetics of ibuprofen in manIII: Plasma protein binding
+1984|14.0|1.0|Biotechnology and Bioengineering|A continuous, farmscale, solidphase fermentation process for fuel ethanol and protein feed production from fodder beets
+1985|8.0|2.0|IEEE Transactions on Biomedical Engineering|Automatic Decomposition of the Clinical Electromyogram
+1986|14.0|1.5|IEEE Transactions on Biomedical Engineering|Sensors for Use with Functional Neuromuscular Stimulation
+1987|35.0|3.5|IEEE Transactions on Biomedical Engineering|Infornation Modeling and Analysis of Event Related Potentials
+1988|17.0|2.0|Biometrics|Regression trees for censored data
+1989|31.0|1.5|IEEE Transactions on Pattern Analysis and Machine Intelligence|Principal warps: thin-plate splines and the decomposition of deformations
+1990|30.0|1.0|IEEE Intelligent Systems|Uncertainty management in expert systems
+1991|26.0|1.0|IEEE Transactions on Software Engineering|Requirements validation through viewpoint resolution
+1992|41.0|2.0|Ultrasonics|Absorption and scatter of encapsulated gas filled microspheres: Theoretical considerations and some measurements
+1993|28.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Texture classification by wavelet packet signatures
+1994|34.0|3.0|IEEE Transactions on Medical Imaging|Mammographic feature enhancement by multiscale analysis
+1995|137.0|4.0|Gastroenterology|Accuracy of invasive and noninvasive tests to diagnose Helicobacter pylori infection
+1996|42.0|2.0|Gastrointestinal Endoscopy|Plastic prosthesis versus expandable metal stents for palliation of inoperable esophageal thoracic carcinoma: a controlled prospective study
+1997|52.0|2.0|Proceedings of the National Academy of Sciences of the United States of America|Tissue engineering of cartilage in space
+1998|59.0|3.0|Journal of Biomedical Materials Research|Open pore biodegradable matrices formed with gas foaming
+1999|58.0|5.0|Journal of Biomedical Materials Research|Porous poly(Llactic acid)/apatite composites created by biomimetic process
+2000|84.0|5.0|Biomaterials|The manufacturing techniques of various drug loaded biodegradable poly(lactide-co-glycolide) (PLGA) devices.
+2001|88.0|4.0|Journal of Biomedical Materials Research|Mechanical properties and cell cultural response of polycaprolactone scaffolds designed and fabricated via fused deposition modeling.
+2002|134.0|4.0|IEEE Transactions on Medical Imaging|A minimum description length approach to statistical shape modeling
+2003|85.0|8.0|Physics in Medicine and Biology|MicroPET II: design, development and initial performance of an improved microPET scanner for small-animal imaging
+2004|218.0|6.0|Review of Scientific Instruments|Cantilever transducers as a platform for chemical and biological sensors
+2005|271.0|4.0|Nature Neuroscience|Millisecond-timescale, genetically targeted optical control of neural activity
+2006|335.0|8.0|Nature Protocols|In-gel digestion for mass spectrometric characterization of proteins and proteomes
+2007|1029.0|9.0|Nature Protocols|Locating proteins in the cell using TargetP, SignalP and related tools.
+2008|2058.0|4.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|5.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|1420.0|8.0|Nature Protocols|I-TASSER: a unified platform for automated protein structure and function prediction

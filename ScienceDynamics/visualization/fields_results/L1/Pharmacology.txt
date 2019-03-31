@@ -1,0 +1,69 @@
+----  Field Name Pharmacology: 
+----  Field Level 1.0: 
+----  Field Papers Number 142409:
+----  All time max citation paper: Initial sequencing and analysis of the human genome, 2001, (10313.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1928|13.0|13.0|JAMA|Clinical Experience with Irradiated Ergosterol.
+1944|3.0|3.0|Journal of the American Oil Chemists' Society|Notes on the stabilization of oxidized fats by steam deodorization with phosphoric acid or commercial lecithin
+1946|8.0|8.0|JAMA Internal Medicine|Absorption, Distribution and Excretion of Streptomycin.
+1950|15.0|3.0|JAMA|Effect of Cortisone and Pituitary Adrenocortieotropic Hormone (ACTH) on Rheumatic Diseases.
+1951|3.0|0.0|The American Journal of Medicine|Treatment of cardiospasm with adrenergic blockade
+1952|0|0.0|Journal of Pharmacy and Pharmacology|APPLICATIONS OF POLAROGRAPHY IN PHARMACEUTICAL ANALYSIS
+1953|0|0.0|Digestive Diseases and Sciences|The anorexigenic effect of sustained-release dexedrine preparations
+1954|2.0|1.0|Journal of Dairy Science|Studies on Aureomycin and Vitamin B12 Supplementations for Dairy Cows. II. Effect on Production, Composition, and Vitamin B12 Content of the Milk1
+1955|0|0.0|British Journal of Tuberculosis and Diseases of The Chest|A clinical appraisal of cyanacetic acid hydrazide in chronic pulmonary tuberculosis
+1956|5.0|3.0|Journal of Applied Physics|Pulsed TF Emission Electron Projection Microscopy
+1957|3.0|2.0|Biochimica et Biophysica Acta|The adverse effect of ascorbic acid on the stability of adrenaline and noradrenaline solutions
+1959|4.0|4.0|Journal of Dairy Science|Studies of the Effects of Dietary Sodium Fluoride on Dairy Cows. V. A Three-year Study on Mature Animals1
+1960|14.0|2.0|American Journal of Cardiology|Cardiac adrenergic preponderance due to lack of physical exercise and its pathogenic implications
+1961|3.0|1.0|JAMA|Demethylchlortetracycline in Clinical Practice: Results of Mass Clinical Field Trials and Description of Electronic Data Processing Methods Used in Tabulation and Analysis
+1962|11.0|1.0|Acta Physiologica Scandinavica|The Influence of Sympathetic Adrenergic Vasoconstrictor Nerves on Transport of Diffusible Solutes from Blood to Tissues in Skeletal Muscle
+1963|23.0|5.0|Acta Physiologica Scandinavica|Catecholamine Release and Uptake in Isolated Adrenergic Nerve Granules
+1964|24.0|2.0|Life Sciences|Release and depletion of the transmitter in adrenergic terminals produced by nerve impulses after the inhibition of noradrenaline synthesis or reabsorption
+1965|33.0|8.5|General and Comparative Endocrinology|On the presence of adrenergic nerves in the pars intermedia of the frog, Rana temporaria
+1966|27.0|3.5|Acta Physiologica Scandinavica|The Noradrenaline Content of the Varicosities of Sympathetic Adrenergic Nerve Terminals in the Rat
+1967|98.0|4.0|Annals of the New York Academy of Sciences|ADENYL CYCLASE AS AN ADRENERGIC RECEPTOR*
+1968|82.0|2.0|Naunyn-schmiedebergs Archives of Pharmacology|Chemical sympathectomy by selective destruction of adrenergic nerve endings with 6-hydroxydopamine
+1969|58.0|3.0|Acta Physiologica Scandinavica|Distribution of Noradrenaline Storing Particles in Peripheral Adrenergic Neurons as Revealed by Electron Microscopy
+1970|44.0|3.0|Brain Research|Depletion of catecholamines in vivo induced by electrical stimulation of central monoamine pathways
+1971|75.0|2.0|Brain Research|Plastic changes in the adrenergic innervation of the rat septal area in response to denervation
+1972|35.0|3.0|Naunyn-schmiedebergs Archives of Pharmacology|Alpha sympathomimetic inhibition of adrenergic and cholinergic transmission in the rabbit heart
+1973|88.0|3.0|Nature|Regional Distribution of Opiate Receptor Binding in Monkey and Human Brain
+1974|65.0|3.0|The Journal of Comparative Neurology|The adrenergic innervation of the rat thalamus as revealed by the glyoxylic acid fluorescence method
+1975|557.0|5.0|Nature|Identification of two related pentapeptides from the brain with potent opiate agonist activity
+1976|168.0|4.0|Nature|C fragment of lipotropin has a high affinity for brain opiate receptors
+1977|183.0|4.0|Life Sciences|A functional basis for classification of -adrenergic receptors
+1978|84.0|4.0|European Journal of Pharmacology|Naloxone as a GABA antagonist: Evidence from iontophoretic, receptor binding and convulsant studies
+1979|101.0|5.0|Life Sciences|Alpha-adrenergic receptor subtypes: Quantitative assessment by ligand binding
+1980|406.0|5.0|Nature|The role of hormone receptors and GTP-regulatory proteins in membrane transduction.
+1981|362.0|4.0|Neuroscience|Distribution of serotonin-immunoreactivity in the central nervous system of the ratCell bodies and terminals
+1982|157.0|4.0|Life Sciences|Muscarinic receptor subtypes: M1 and M2 biochemical and functional characterization
+1983|103.0|3.0|Life Sciences|A unique regulatory profile and regional distribution of [ 3 H]pirenzepine binding in the rat provide evidence for distinct M 1 and M 2 muscarinic receptor subtypes
+1984|171.0|4.0|Journal of Neurochemistry|Inositol Phospholipid Hydrolysis in Rat Cerebral Cortical Slices: I. Receptor Characterisation
+1985|215.0|4.0|Brain Research|Quantitative autoradiographic mapping of serotonin receptors in the rat brain. I. Serotonin-1 receptors.
+1986|390.0|4.0|Neuropharmacology|Proposals for the classification and nomenclature of functional receptors for 5-hydroxytryptamine
+1987|612.0|3.0|Science|New perspectives in cell adhesion: RGD and integrins.
+1988|158.0|4.0|Neuron|Cloning and expression of the human and rat m5 muscarinic acetylcholine receptor genes.
+1989|160.0|3.0|Trends in Neurosciences|The molecular basis of muscarinic receptor diversity
+1990|335.0|3.0|Nature|Molecular cloning and characterization of a novel dopamine receptor (D3) as a target for neuroleptics
+1991|156.0|3.0|Brain Research|Localization of dopamine D3 receptor mRNA in the rat brain using in situ hybridization histochemistry: comparison with dopamine D2 receptor mRNA
+1992|185.0|3.0|Cell|Distinct phosphotyrosines on a growth factor receptor bind to specific molecules that mediate different signaling pathways
+1993|125.0|3.0|Neuron|A novel adenylyl cyclase-activating serotonin receptor (5-HT7) implicated in the regulation of mammalian circadian rhythms
+1994|92.0|4.0|Cell|Perlecan, basal lamina proteoglycan, promotes basic fibroblast growth factor-receptor binding, mitogenesis, and angiogenesis
+1995|298.0|4.0|The Lancet|ISIS-4: A randomised factorial trial assessing early oral captopril, oral mononitrate, and intravenous magnesium sulphate in 58 050 patients with suspected acute myocardial infarction
+1996|209.0|4.0|Trends in Neurosciences|Which GABAA-receptor subtypes really occur in the brain?
+1997|1035.0|6.0|Nature|Functional rafts in cell membranes
+1998|2478.0|7.0|Nature|Dendritic cells and the control of immunity
+1999|798.0|8.0|Nature|Molecular characterization of mitochondrial apoptosis-inducing factor
+2000|1400.0|9.0|Nature|Distinct types of diffuse large B-cell lymphoma identified by gene expressionprofiling
+2001|4579.0|9.0|Nature|Initial sequencing and analysis of the human genome
+2002|2630.0|10.0|JAMA|Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results From the Women's Health Initiative randomized controlled trial
+2003|1006.0|10.0|Nature|The International HapMap Project
+2004|1050.0|11.0|Nature|Identification of human brain tumour initiating cells
+2005|1559.0|10.0|Nature|MicroRNA expression profiles classify human cancers.
+2006|1988.0|10.0|Nature|Reciprocal developmental pathways for the generation of pathogenic effector TH17 and regulatory T cells
+2007|2530.0|10.0|Evolutionary Bioinformatics|Arlequin (version 3.0): An integrated software package for population genetics data analysis
+2008|2058.0|10.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|10.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|2096.0|9.0|Nature|A human gut microbial gene catalogue established by metagenomic sequencing

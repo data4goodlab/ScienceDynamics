@@ -1,0 +1,56 @@
+----  Field Name Media studies: 
+----  Field Level 1.0: 
+----  Field Papers Number 9222:
+----  All time max citation paper: Normalizing mitochondrial superoxide production blocks three pathwaysof hyperglycaemic damage, 2000, (1946.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1941|0|0.0||The Toxicity of Antimony:Animal Studies
+1957|4.0|4.0|Canadian Journal of Anaesthesia-journal Canadien D Anesthesie|The physiological effects of intravenous anaesthesia on man
+1961|1.0|1.0|Annals of the New York Academy of Sciences|EFFECTS OF 2AMINO2HYDROXYMETHYL1,3PROPANEDIOL ON OXYGEN TOXICITY IN MICE*
+1962|1.0|1.0|Comparative Biochemistry and Physiology|ACTIVE ABSORPTION OF D-GLUCOSE BY INTESTINAL SEGMENTS OF THE GROUND SQUIRREL, CITELLUS TRIDECEMLINEATUS
+1964|0|0.0|American Journal of Cardiology|The common origin of precordial vibrations
+1965|6.0|0.0|Annals of the New York Academy of Sciences|Structural and functional properties of the h and m subunits of lactic dehydrogenases
+1966|6.0|1.0|Experimental Neurology|Spontaneous spike discharges from single units in the cochlear nucleus after destruction of the cochlea
+1967|2.0|1.0|Biochimica et Biophysica Acta|Studies on the rapidly labeled RNA of rabbit bone marrow cells.
+1968|1.0|0.5|Chromosoma|Idiogram and Trisomy of the Water Vole (Arvicola terrestris L.), a Favourable Animal for Cytogenetic Research
+1970|0|0.0|Journal of Molecular Medicine|The current status of electrogastrography
+1971|1.0|0.5|Archives of Sexual Behavior|Fetal hormones and the brain: Effect on sexual dimorphism of behaviorA review
+1972|7.0|4.0|Psychopharmacology|Intergeneric behavioral differences among methamphetamine treated mice.
+1973|2.0|1.0|Cell and Tissue Research|A fluorescence histochemical study of the degeneration and regeneration of noradrenergic nerves in the chick following treatment with 6-hydroxydopamine
+1974|1.0|0.5|Annals of Hematology|Long-term preservation of hematopoietic tissue for marrow transplantation
+1975|13.0|3.5|Journal of Toxicology and Environmental Health|Estimation of risks of irreversible, delayed toxicity
+1976|6.0|2.0|Environmental Research|Pulmonary distribution of particles given by intratracheal instillation or by aerosol inhalation
+1977|5.0|2.0|Psychopharmacology|Intracranial reward after Lilly 110140 (fluoxetine HCl): Evidence for an inhibitory role for serotonin
+1978|81.0|4.0|Nature|The narcotic antagonist naloxone enhances clinical pain
+1979|37.0|3.0|Neuroscience & Biobehavioral Reviews|REM sleep and information processing: Evidence from animal studies
+1980|17.0|2.0|Annals of Emergency Medicine|Endotracheal naloxone reversal of morphine-induced respiratory depression in rabbits
+1981|5.0|2.0|BioScience|Environmental Pollutants: Effects on the Immune System and Resistance to Infectious Disease
+1982|5.0|0.0|Psychopharmacology|Conditioned tolerance to the tachycardia effect of ethanol in humans
+1983|14.0|5.0|Pflgers Archiv: European Journal of Physiology|Fibre type specific transformations in the enzyme activity pattern of rat vastus lateralis muscle by prolonged endurance training
+1984|35.0|3.0|The Journal of Neuroscience|Effects of parietal injury on covert orienting of attention
+1985|9.0|1.0|Journal of Investigative Dermatology|The Effect of 8-Methoxypsoralen Plus Long-Wave Ultraviolet (PUVA) Radiation on Mast Cells: PUVA Suppresses Degranulation of Mouse Skin Mast Cells Induced by Compound 48/80 or Concanavalin A
+1986|25.0|3.0|Teratology|Neural tube defects: a review of human and animal studies on the etiology of neural tube defects.
+1987|47.0|3.0|Schizophrenia Bulletin|Startle Habituation and Sensorimotor Gating in Schizophrenia and Related Animal Models
+1988|51.0|2.0|Risk Analysis|The Social Amplification of Risk: A Conceptual Framework
+1989|35.0|2.0|Cellular and Molecular Neurobiology|Effects of long-term administration of antidepressants and neuroleptics on receptors in the central nervous system.
+1990|80.0|3.0|Archives of General Psychiatry|Sensorimotor Gating and Schizophrenia: Human and Animal Model Studies
+1991|15.0|3.0|Atherosclerosis|Cholesterol lowering and bile acid excretion in the hamster with cholestyramine treatment
+1992|23.0|3.5|Organization Science|Task Analyzability, Use of New Media, and Effectiveness: A Multi-Site Exploration of Media Richness
+1993|70.0|4.0|IEEE Transactions on Knowledge and Data Engineering|Efficient storage techniques for digital continuous multimedia
+1994|54.0|3.0|Biological Psychiatry|Serotonin and alcohol intake, abuse, and dependence: Findings of animal studies
+1995|70.0|3.0|Life Sciences|Prozac (fluoxetine, lilly 110140), the first selective serotonin uptake inhibitor and an antidepressant drug: Twenty years since its first publication
+1996|127.0|5.0|Journal of The American Dietetic Association|Vegetables, Fruit, and Cancer Prevention
+1997|122.0|4.0|Nature|Nicotine activates and desensitizes midbrain dopamine neurons
+1998|102.0|5.0|Neuropsychopharmacology|Neurobiological Similarities in Depression and Drug Dependence: A Self-Medication Hypothesis
+1999|182.0|7.0|Circulation Research|Sarcolemmal Versus Mitochondrial ATP-Sensitive K+ Channels and Myocardial Preconditioning
+2000|491.0|7.0|Nature|Normalizing mitochondrial superoxide production blocks three pathwaysof hyperglycaemic damage
+2001|530.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|SP600125, an anthrapyrazolone inhibitor of Jun N-terminal kinase
+2002|110.0|8.0|Nature Medicine|Preimplantation-stage stem cells induce long-term allogeneic graft acceptance without supplementary host conditioning
+2003|243.0|9.0|Molecular Genetics and Metabolism|Fatal systemic inflammatory response syndrome in a ornithine transcarbamylase deficient patient following adenoviral gene transfer
+2004|153.0|9.0|Neuron|Sleep-dependent learning and memory consolidation.
+2005|310.0|10.0|Nature||[beta]|-Lactam antibiotics offer neuroprotection by increasing glutamate transporter expression
+2006|240.0|8.5|Life Sciences|Multiple biological activities of curcumin: A short review
+2007|419.0|9.0|Nature Medicine|Activation of mGlu2/3 receptors as a new approach to treat schizophrenia: a randomized Phase 2 clinical trial
+2008|588.0|9.0|The FASEB Journal|Dose translation from animal to human studies revisited
+2009|363.0|8.0|knowledge discovery and data mining|Meme-tracking and the dynamics of the news cycle
+2010|1055.0|8.0|international world wide web conferences|What is Twitter, a social network or a news media?

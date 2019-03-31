@@ -1,0 +1,31 @@
+----  Field Name Document clustering: 
+----  Field Level 2.0: 
+----  Field Papers Number 1116:
+----  All time max citation paper: A Comparison of Document Clustering Techniques, 2000, (955.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1975|1.0|1.0|Information Processing and Management|Document clustering: An evaluation of some experiments with the cranfield 1400 collection
+1983|3.0|0.0|international acm sigir conference on research and development in information retrieval|The normalized recall and related measures
+1985|8.0|4.0|international acm sigir conference on research and development in information retrieval|Adaptive document clustering
+1986|5.0|2.5|international acm sigir conference on research and development in information retrieval|User-oriented document clustering: a framework for learning in information retrieval
+1988|23.0|12.5|Information Processing and Management|Recent trends in hierarchic document clustering: a critical review
+1989|7.0|4.0|international acm sigir conference on research and development in information retrieval|Inference networks for document retrieval
+1990|5.0|5.0|ACM Transactions on Database Systems|Concepts and effectiveness of the cover-coefficient-based clustering methodology for text databases
+1991|8.0|8.0|Information Processing and Management|A neural algorithm for document clustering
+1992|61.0|61.0|international acm sigir conference on research and development in information retrieval|Scatter/Gather: a cluster-based approach to browsing large document collections
+1993|1.0|0.5|Information Processing and Management|On the Non-Random Nature of Nearest-Neighbour Document Clusters.
+1996|26.0|2.0|international world wide web conferences|Automatically organizing bookmarks per contents
+1997|2.0|2.0|Geology|Earthquake clustering inferred from Pliocene Gilbert-type fan deltas in the Loreto basin, Baja California Sur, Mexico
+1998|113.0|14.0|international acm sigir conference on research and development in information retrieval|Web document clustering: a feasibility demonstration
+1999|60.0|6.5|Computer Networks|Grouper: a dynamic clustering interface to Web search results
+2000|168.0|3.0||A Comparison of Document Clustering Techniques
+2001|101.0|7.0|knowledge discovery and data mining|Co-clustering documents and words using bipartite spectral graph partitioning
+2002|81.0|6.0|conference on information and knowledge management|Evaluation of hierarchical clustering algorithms for document datasets
+2003|218.0|8.0|The Lancet|Effectiveness of precautions against droplets and contact in prevention of nosocomial transmission of severe acute respiratory syndrome (SARS)
+2004|204.0|6.5|international acm sigir conference on research and development in information retrieval|Learning to cluster web search results
+2005|93.0|4.0|Data Mining and Knowledge Discovery|Hierarchical Clustering Algorithms for Document Datasets
+2006|83.0|4.0|Information Processing and Management|Document clustering using nonnegative matrix factorization
+2007|58.0|2.0|IEEE Transactions on Knowledge and Data Engineering|An Entropy Weighting k-Means Algorithm for Subspace Clustering of High-Dimensional Sparse Data
+2008|165.0|3.0|Journal of Statistical Software|Text Mining Infrastructure in R
+2009|131.0|2.0|Information Retrieval|A comparison of extrinsic clustering evaluation metrics based on formal constraints
+2010|320.0|3.5||Sentiment Analysis and Subjectivity

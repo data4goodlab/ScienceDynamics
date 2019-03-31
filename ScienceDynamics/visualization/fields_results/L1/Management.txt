@@ -1,0 +1,73 @@
+----  Field Name Management: 
+----  Field Level 1.0: 
+----  Field Papers Number 203046:
+----  All time max citation paper: Dynamic capabilities and strategic management, 1997, (7974.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1932|1.0|1.0|Electrical Engineering|The Time Factor in Telephone Transmission
+1936|1.0|1.0|Biological Reviews|THE TRANSFORMATION OF ORGANIC DESIGNS: A REVIEW OF THE ORIGIN AND DEPLOYMENT OF THE EARLIER VERTEBRATES
+1937|0|0.0|American Journal of Surgery|Acute appendicitis: A comparative survey with remarks on its management
+1938|1.0|1.0|The Lancet|ON CURRENT BRITISH TEACHING ABOUT NORMAL LABOUR AND ITS MANAGEMENT
+1941|0|0.0|Digestive Diseases and Sciences|Gastric anacidity: Its physiologic and clinical significance and its management
+1948|1.0|0.5|American Journal of Public Health|International Trends in Health Care
+1949|1.0|0.5|JAMA|Problem cases of toxic diffuse goiter treated with radioactive iodine
+1950|1.0|1.0|Mathematical Proceedings of the Cambridge Philosophical Society|A stable ninety-nine channel pulse amplitude analyser for slow counting
+1951|3.0|1.5|Plant Physiology|DYE REDUCTION BY ILLUMINATED CHLOROPLAST FRAGMENTS
+1952|2.0|1.0|JAMA|Cure of Subacute Bacterial Endocarditis with Penicillin and Chloramphenicol. Report of a Treatment Resistant Case.
+1953|9.0|2.0|Geochimica et Cosmochimica Acta|THE GEOCHEMISTRY OF THE STABLE CARBON ISOTOPES
+1955|1.0|0.5|Acta Metallurgica|THE EVOLUTION OF THE ENERGY STORED BY A GOLD-SILVER ALLOY COLD WORKED AT- 195 C AND AT ROOM TEMPERATURE
+1956|3.0|0.0|The New England Journal of Medicine|Syphilis and Its Management: A Present-Day Problem
+1957|3.0|3.0|Journal of Applied Physics|DESIGN AND EVALUATION OF AN S-BAND REBATRON
+1958|6.0|0.0|American Journal of Botany|Growth and Organized Development of Cultured Cells. I. Growth and Division of Freely Suspended Cells
+1959|27.0|2.5|Physics of Fluids|Interferometric Measurement in the Shock Tube of the Dissociation Rate of Oxygen
+1960|1.0|0.5|Archives of Ophthalmology|The Effects of Experimental X-Radiation on the Cornea
+1961|6.0|2.0|Journal of Applied Physics|Detailed Balance Limit of Efficiency of pn Junction Solar Cells
+1962|57.0|2.5|Nuclear Physics|A POTENTIAL MODEL REPRESENTATION OF TWO-NUCLEON DATA BELOW 315 Mev
+1963|19.0|4.0|Photochemistry and Photobiology|MECHANISM OF ENZYME INACTIVATION BY ULTRAVIOLET LIGHT AND THE PHOTOCHEMISTRY OF AMINO ACIDS (AT 2537 )*
+1964|74.0|2.0|Journal of Chemical Physics|Analysis of NMR Spectra by Least Squares
+1965|22.0|0.0|Photochemistry and Photobiology|THEORY AND DESIGN OF HIGH INTENSITY U.V MONOCHROMATORS FOR PHOTOBIOLOGY AND PHOTOCHEMISTRY
+1966|4.0|1.0|Agricultural Meteorology|Some physical aspects of internal control of leaf transpiration
+1967|16.0|2.0|Photochemistry and Photobiology|DIRECT DEMONSTRATION OF THE MONOMERIZATION OF THYMINECONTAINING DIMERS IN U.V.IRRADIATED DNA BY YEAST PHOTOREACTIVATING ENZYME AND LIGHT*
+1968|9.0|1.0|Psychological Bulletin|SOME UNINTENDED CONSEQUENCES OF RIGOROUS RESEARCH.
+1969|25.0|5.0|Computers and Biomedical Research|Design and implementation of a clinical data management system
+1970|16.0|2.0|Communications of The ACM|The instrumentation of multics
+1971|23.0|1.0|ACM Computing Surveys|Third Generation Computer Systems
+1972|34.0|2.0|Communications of The ACM|Curriculum recommendations for graduate professional programs in information systems
+1973|27.0|1.0|Communications of The ACM|A data definition and mapping language
+1974|20.0|1.0|Physiology & Behavior|Electrical stimulation of forebrain structures and its effect on copulatory as well as stimulus-bound behavior in ovariectomized hormone-primed rats
+1975|48.0|1.0|IEEE Transactions on Software Engineering|The programming language Concurrent Pascal
+1976|65.0|2.0|Organizational Behavior and Human Performance|Motivation through the design of work: test of a theory
+1977|44.0|1.0|Psychophysiology|On Quantifying Surprise: The Variation of EventRelated Potentials With Subjective Probability
+1978|19.0|2.0|Communications of The ACM|The SL5 procedure mechanism
+1979|48.0|2.0|Child Development|Continuity of Individual Adaptation from Infancy to Kindergarten: A Predictive Study of Ego-Resiliency and Curiosity in Preschoolers.
+1980|147.0|2.0|The New England Journal of Medicine|Hepatitis B vaccine. Demonstration of efficacy in a controlled clinical trial in a high-risk population in the United States.
+1981|73.0|2.0|Behavioral and Brain Sciences|Can human irrationality be experimentally demonstrated?
+1982|75.0|2.0|Artificial Intelligence|R1: A rule-based configurer of computer systems
+1983|576.0|2.0|Communications of The ACM|Communicating sequential processes
+1984|81.0|2.0|Artificial Intelligence|Domain-independent planning: representation and plan generation
+1985|60.0|2.0|IEEE Journal on Robotics and Automation|Navigation for an intelligent mobile robot
+1986|99.0|2.0|American Psychologist|Motivational Processes Affecting Learning.
+1987|172.0|2.0|Artificial Intelligence|Planning for conjunctive goals
+1988|130.0|2.0|Behavioral and Brain Sciences|Is the P300 component a manifestation of context updating?
+1989|211.0|2.0||The knowledge level
+1990|156.0|2.0|ACM Computing Surveys|Federated database systems for managing distributed, heterogeneous, and autonomous databases
+1991|129.0|2.0|IEEE Software|Visualizing the performance of parallel programs
+1992|99.0|2.0|European Journal of Pharmacology|Production of endogenous nitric oxide and activation of soluble guanylate cyclase are required for N-methyl-D-aspartate-produced facilitation of the nociceptive tail-flick reflex
+1993|255.0|2.0|Artificial Intelligence|Agent-oriented programming
+1994|147.0|2.0|IEEE Transactions on Software Engineering|A metrics suite for object oriented design
+1995|290.0|2.0|international symposium on computer architecture|The SPLASH-2 programs: characterization and methodological considerations
+1996|190.0|2.0||A hierarchical internet object cache
+1997|470.0|2.0|Strategic Management Journal|Dynamic capabilities and strategic management
+1998|195.0|2.0|Nature|Zebrafish organizer development and germ-layer formation require nodal-related signals
+1999|230.0|4.0|Cell|The EGF-CFC Protein One-Eyed Pinhead Is Essential for Nodal Signaling
+2000|302.0|3.0|Artificial Intelligence|On agent-based software engineering
+2001|834.0|4.0|Science|Spintronics: A Spin-Based Electronics Vision for the Future
+2002|967.0|4.0|Genome Biology|Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes
+2003|470.0|5.0|programming language design and implementation|The nesC language: A holistic approach to networked embedded systems
+2004|368.0|5.0|Psychological Review|An Integrated Theory of the Mind
+2005|873.0|4.0|Nature Materials|High-efficiency solution processable polymer photovoltaic cells by self-organization of polymer blends
+2006|270.0|4.0|Lancet Infectious Diseases|Schistosomiasis and water resources development: systematic review, meta-analysis, and estimates of people at risk
+2007|708.0|4.0|Computer Graphics Forum|A Survey of GeneralPurpose Computation on Graphics Hardware
+2008|2294.0|3.0|Behavior Research Methods|Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple mediator models
+2009|1288.0|3.0|International Journal on Semantic Web and Information Systems|Linked Data - The Story So Far
+2010|1339.0|4.0|PLOS ONE|A climatic stability approach to prioritizing global conservation investments

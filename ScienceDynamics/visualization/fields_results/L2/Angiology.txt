@@ -1,0 +1,22 @@
+----  Field Name Angiology: 
+----  Field Level 2.0: 
+----  Field Papers Number 2274:
+----  All time max citation paper: Proteolytic processing regulates receptor specificity and activity of VEGFC, 1997, (402.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1992|0|0.0|Clinical Anatomy|Observations on a double inferior vena cava: A case report with a literature review
+1995|14.0|14.0|Journal of Lightwave Technology|In-vivo biomedical monitoring by fiber-optic systems
+1997|92.0|92.0|The EMBO Journal|Proteolytic processing regulates receptor specificity and activity of VEGFC
+1998|118.0|80.0|Proceedings of the National Academy of Sciences of the United States of America|Vascular endothelial growth factor C induces angiogenesis in vivo
+1999|117.0|117.0|American Journal of Pathology|VEGFR-3 and its ligand VEGF-C are associated with angiogenesis in breast cancer.
+2000|12.0|12.0|American Journal of Pathology|Vascular Endothelial Growth Factor-C and Its Receptor VEGFR-3 in the Nasal Mucosa and in Nasopharyngeal Tumors
+2001|128.0|18.0|The EMBO Journal|Signalling via vascular endothelial growth factor receptor-3 is sufficient for lymphangiogenesis in transgenic mice
+2002|104.0|4.5|Proceedings of the National Academy of Sciences of the United States of America|Molecular characterization of lymphatic endothelial cells
+2003|89.0|6.0|American Journal of Pathology|Tumor Lymphangiogenesis : A Novel Prognostic Indicator for Cutaneous Melanoma Metastasis and Survival
+2004|66.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Dose-dependent response of FGF-2 for lymphangiogenesis
+2005|137.0|7.0|Journal of Clinical Investigation|Pathogenesis of persistent lymphatic vessel hyperplasia in chronic airway inflammation.
+2006|71.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Nonvascular VEGF receptor 3 expression by corneal epithelium maintains avascularity and vision
+2007|153.0|6.0|Cancer Research|Effect of Vascular Normalization by Antiangiogenic Therapy on Interstitial Hypertension, Peritumor Edema, and Lymphatic Metastasis: Insights from a Mathematical Model
+2008|72.0|8.0|BMC Cancer|Coexpression of VEGF-C and COX-2 and its association with lymphangiogenesis in human breast cancer
+2009|80.0|6.0|Cardiovascular Ultrasound|Feasibility and reference values of left atrial longitudinal strain imaging by two-dimensional speckle tracking
+2010|99.0|6.0|BMC Cancer|Different significance between intratumoral and peritumoral lymphatic vessel density in gastric cancer: a retrospective study of 123 cases

@@ -1,0 +1,65 @@
+----  Field Name Horticulture: 
+----  Field Level 1.0: 
+----  Field Papers Number 18728:
+----  All time max citation paper: Red and photographic infrared linear combinations for monitoring vegetation, 1979, (2226.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|3.0|3.0||Comparative histogenesis of vegetative and floral apices in Amygdalus communis with special reference to the carpel.
+1943|0|0.0|Annals of Applied Biology|Notes on Thysanoptera found on flax (Linum usitatissimum L.) in the British Isles
+1947|2.0|2.0|American Journal of Potato Research|THE INFLUENCE OF SPROUT-INHIBITIN G AND SPROUT- INDUCING TREATMENTS ON THE GROWTH AND YIELDS OF POTATOES'
+1950|2.0|1.0|JAMA|SOILS AND HEALTH
+1954|0|0.0|American Journal of Potato Research|Potato production in Florida as influenced by soil acidity and nitrogen sources
+1956|1.0|1.0||Radial Growth of Beech and Soil Moisture in a Central Ohio Forest During the Growing Season of 1952
+1957|0|0.0||Soil Mycoflora Associated with Continuous Cropping of Corn, Oats, and Wheat
+1958|14.0|14.0|Annals of Applied Biology|FURTHER STUDIES ON RASPBERRY RINGSPOT AND TOMATO BLACK RING, SOILBORNE VIRUSES THAT AFFECT RASPBERRY
+1960|3.0|1.0|American Journal of Potato Research|Sprouting, plant growth, and tuber production as affected by chemical treatment of white potato seed pieces. 2. Effect of temperature and time of treatment with gibberellic acid.
+1961|3.0|3.0|Annals of Applied Biology|Cherry leafroll virus
+1962|3.0|3.0|American Journal of Potato Research|Some effects of irrigation and pertilization on the yield and quality of Kennebec potatoes
+1963|0|0.0|American Journal of Potato Research|Influence of specific compositional factors of potatoes on chipping color
+1964|2.0|2.0||DETERMINATION OF PESTICIDE RESIDUES BY NEUTRON-ACTIVATION ANALYSIS.
+1965|4.0|0.0|Water Resources Research|Canopy and litter interception of rainfall by hardwoods of eastern United States
+1966|1.0|0.5|International Journal of Biometeorology|Tree growth as a meteorological indicator
+1967|2.0|0.0|American Journal of Potato Research|EFFECTS OF SOIL FUMIGATION ON VERTICILLIUM WILT, NEMATODES AND OTHER DISEASES OF POTATO ROOTS AND TUBERS 1
+1968|2.0|0.5|Plant and Soil|Nitrogen immobilization by rice straw incorporated in lowland rice production
+1969|3.0|1.5|Journal of the American Oil Chemists' Society|Lipids of maturing grain of corn ( Zea mays L.): I. Changes in lipid classes and fatty acid composition
+1970|13.0|2.0|Annals of Applied Biology|Needle nematodes (Longidorus spp.) and stubbyroot nematodes (Trichodorus spp.) harmful to sugar beet and other field crops in England
+1971|6.0|3.0|Radiation Botany|Comparison of the effects of simulated fallout decay and constant exposure-rate gamma-ray treatments on the survival and yield of wheat and oats
+1972|5.0|1.0|Oecologia|Mineral ion composition and osmotic relations of Atriplex confertifolia and Eurotia lanata
+1973|11.0|1.0|American Journal of Potato Research|Relative differences in sugar content of basal and apical portions of Russet Burbank potatoes
+1974|10.0|0.0|Chesapeake Science|Seasonal Changes in the Productivity, Caloric Content, and Chemical Composition of a Population of Salt-Marsh Cord-Grass (Spartina alterniflora)
+1975|11.0|2.0|Planta|Patterns of nitrogen utilization in the soybean
+1976|7.0|3.0|Chesapeake Science|Angiosperm production of three Virginia marshes in various salinity and soil nutrient regimes
+1977|19.0|2.0|Water Resources Research|Wheat canopy temperature: A practical tool for evaluating water requirements
+1978|9.0|3.0|Oecologia|The effects of water- and nitrogen-induced stresses on plant community structure in a semiarid grassland.
+1979|30.0|1.0|Remote Sensing of Environment|Red and photographic infrared linear combinations for monitoring vegetation
+1980|12.0|1.0|New Phytologist|INFLUENCE OF PLANT INTERACTIONS ON VESICULARARBUSCULAR MYCORRHIZAL INFECTIONS. I. HOST AND NONHOST PLANTS GROWN TOGETHER
+1981|139.0|2.0|Theoretical and Applied Genetics|Somaclonal variation  a novel source of variability from cell cultures for plant improvement
+1982|12.0|2.5|Marine Biology|Ecological growth strategies in the seaweeds Gracilaria foliifera (Rhodophyceae) and Ulva sp. (Chlorophyceae): Soluble nitrogen and reserve carbohydrates
+1983|18.0|1.0|Oecologia|Wound induced defences in plants and their consequences for patterns of insect grazing
+1984|14.0|1.0|Journal of Atmospheric Chemistry|Field Measurements of Emission of Nitric Oxide from Fertilized and Unfertilized Forest Soils in Sweden
+1985|25.0|2.0|Plant Ecology|North American Vegetation Patterns Observed With The NOAA-7 Advanced Very High Resolution Radiometer
+1986|24.0|3.0|Journal of Geophysical Research|Considerations regarding sources for formic and acetic acids in the troposphere
+1987|34.0|1.0|Tree Physiology|Quantifying plant response to ozone: a unifying theory
+1988|25.0|3.0|Planta|Photoinhibition of photosynthesis in willow leaves under field conditions
+1989|34.0|1.0|Oecologia|Growth and senescence in plant communities exposed to elevated CO2 concentration on an estuarine marsh
+1990|54.0|2.0|Plant Physiology|Carbon and nitrogen economy of 24 wild species differing in relative growth rate.
+1991|97.0|2.0|Journal of Geophysical Research|Threedimensional model synthesis of the global methane cycle
+1992|36.0|2.0|Journal of Geophysical Research|Areaaveraged surface fluxes and their timespace variability over the FIFE experimental domain
+1993|47.0|2.0|Plant and Soil|Elevated atmospheric CO 2 and feedback between carbon and nitrogen cycles
+1994|44.0|2.0|Botanical Review|Bateman's principle and plant reproduction: The role of pollen limitation in fruit and seed set
+1995|47.0|2.0|Agroforestry Systems|Contribution of agroforestry trees to nutrient requirements of intercropped plants.
+1996|51.0|3.0|Agricultural and Forest Meteorology|Optically-based methods for measuring seasonal variation of leaf area index in boreal conifer stands
+1997|148.0|4.0|Nature|Increased plant growth in the northern high latitudes from 1981 to 1991
+1998|47.0|3.0|Journal of Photochemistry and Photobiology B-biology|Effects on aquatic ecosystems
+1999|81.0|4.0|Applied and Environmental Microbiology|Molecular Analyses of the Methane-Oxidizing Microbial Community in Rice Field Soil by Targeting the Genes of the 16S rRNA, Particulate Methane Monooxygenase, and Methanol Dehydrogenase
+2000|115.0|4.0|Biogeochemistry|Separating root and soil microbial contributions to soil respiration: A review of methods and observations
+2001|238.0|4.0|Nature|Recent patterns and mechanisms of carbon exchange by terrestrial ecosystems
+2002|142.0|5.0|Global Change Biology|Soil carbon stocks and land use change: a meta analysis
+2003|135.0|6.0|Annual Review of Entomology|ASSESSMENT OF THE APPLICATION OF BACULOVIRUSES FOR CONTROL OF LEPIDOPTERA
+2004|209.0|6.0|Nature|Vernalization in Arabidopsis thaliana is mediated by the PHD finger protein VIN3
+2005|291.0|6.0|Geophysical Research Letters|A decrease in discharge-normalized DOC export by the Yukon River during summer through autumn
+2006|261.0|6.0|Nature|Biodiversity and ecosystem stability in a decade-long grassland experiment
+2007|388.0|6.0|Environmental and Experimental Botany|Roles of glycine betaine and proline in improving plant abiotic stress resistance
+2008|282.0|6.0|Australian Journal of Botany|'Breathing' of the terrestrial biosphere: lessons learned from a global network of carbon dioxide flux measurement systems
+2009|378.0|8.0|Ecological Economics|Economic valuation of the vulnerability of world agriculture confronted with pollinator decline.
+2010|346.0|7.0|Bioresource Technology|An overview of second generation biofuel technologies.

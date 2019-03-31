@@ -1,0 +1,49 @@
+----  Field Name Speech synthesis: 
+----  Field Level 2.0: 
+----  Field Papers Number 6051:
+----  All time max citation paper: Decline in the AIDS and death rates in the EuroSIDA study: an observational study, 2003, (673.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|0|0.0|Quarterly Journal of Experimental Psychology|Studies on sensory feedback. 3. The effects of display gain on tracking performance
+1966|0|0.0|Communications of The ACM|An approach to speech synthesis and recognition on a digital computer
+1969|4.0|3.0|IEEE Transactions on Audio and Electroacoustics|Reading machine: From text to speech
+1970|24.0|3.0|IEEE Spectrum|Synthetic voices for computers
+1972|0|0.0|Attention Perception & Psychophysics|Seeing and hearing and space and space and time
+1973|2.0|1.0|IEEE Transactions on Biomedical Engineering|Development of a Digital Spelled-Speech Reading Machine for the Blind
+1974|6.0|2.5|IEEE Transactions on Acoustics, Speech, and Signal Processing|A linear prediction vocoder simulation based upon the autocorrelation method
+1975|4.0|2.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Epoch extraction of voiced speech
+1976|7.0|3.0|Proceedings of the IEEE|Computers that talk and listen: Man-machine communication by voice
+1977|7.0|1.0|Proceedings of the IEEE|Signal processing aspects of computer music: A survey
+1978|3.0|0.0|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|Fast text-to-speech algorithms for Esperanto, Spanish, Italian, Russian and English
+1979|19.0|4.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Frequency domain coding of speech
+1980|8.0|8.0|IEEE Transactions on Communications|Embedded DPCM for Variable Bit Rate Transmission
+1981|1.0|0.0|IEEE Transactions on Circuits and Systems|Adaptive lattice analysis of speech
+1982|19.0|0.0|international conference on acoustics, speech, and signal processing|A new model of LPC excitation for producing natural-sounding speech at low bit rates
+1983|5.0|2.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|On temporal alignment of sentences of natural and synthetic speech
+1984|6.0|1.0|international conference on acoustics, speech, and signal processing|Time alignment of natural speech to synthetic speech
+1985|14.0|1.0|Social Science & Medicine|Building an effective doctor-patient relationship: from patient satisfaction to patient participation.
+1986|11.0|2.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Two-channel speech analysis
+1987|40.0|4.5|IEEE Transactions on Acoustics, Speech, and Signal Processing|A theory of multirate filter banks
+1988|62.0|2.0|IEEE Computer|The 'neural' phonetic typewriter
+1989|15.0|2.0|international conference on acoustics, speech, and signal processing|Spectral quantization and interpolation for CELP coders
+1990|34.0|2.0|international conference on acoustics, speech, and signal processing|Vector sum excited linear prediction (VSELP) speech coding at 8 kbps
+1991|20.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Optimal partitioning for classification and regression trees
+1992|14.0|2.0|IEEE Transactions on Information Theory|Application of the wavelet transform for pitch detection of speech signals
+1993|27.0|1.0||Modeling Coarticulation in Synthetic Visual Speech
+1994|27.0|2.0|IEEE Transactions on Signal Processing|Near-perfect-reconstruction pseudo-QMF banks
+1995|29.0|2.0|IEEE Transactions on Speech and Audio Processing|The challenge of spoken language systems: Research directions for the nineties
+1996|37.0|2.0||A haptic interaction method for volume visualization
+1997|30.0|2.0|computer vision and pattern recognition|Vision for a smart kiosk
+1998|53.0|2.0|Journal of Applied Psychology|Linking service climate and customer perceptions of service quality: test of a causal model.
+1999|80.0|3.0|Computer Networks|UIML: an appliance-independent XML user interface language
+2000|60.0|3.0|ACM Transactions on Computer-Human Interaction|Nomadic radio: speech and audio interaction for contextual messaging in nomadic environments
+2001|125.0|4.0|international conference on computer graphics and interactive techniques|BEAT: the Behavior Expression Animation Toolkit
+2002|81.0|4.0|ACM Computing Surveys|Spoken dialogue technology: enabling the conversational user interface
+2003|273.0|4.0|The Lancet|Decline in the AIDS and death rates in the EuroSIDA study: an observational study
+2004|142.0|5.0|The Journal of Allergy and Clinical Immunology|Eosinophilic gastrointestinal disorders (EGID)
+2005|167.0|4.0|Experimental Cell Research|Roles of bHLH genes in neural stem cell differentiation
+2006|119.0|4.0|The Lancet|Tuberculosis in sub-Saharan Africa: opportunities challenges and change in the era of antiretroviral treatment.
+2007|80.0|4.0|Computers in Human Behavior|Theory of planning behavior (TPB) and customer satisfaction in the continued use of e-service: An integrated model
+2008|223.0|3.0|BMC Public Health|A systematic review of delay in the diagnosis and treatment of tuberculosis
+2009|539.0|4.0|The New England Journal of Medicine|Vaccination with ALVAC and AIDSVAX to prevent HIV-1 infection in Thailand.
+2010|327.0|5.0|The Lancet|Effects of a mobile phone short message service on antiretroviral treatment adherence in Kenya (WelTel Kenya1): a randomised trial.

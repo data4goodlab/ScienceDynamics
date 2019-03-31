@@ -1,0 +1,45 @@
+----  Field Name Environmental economics: 
+----  Field Level 1.0: 
+----  Field Papers Number 3209:
+----  All time max citation paper: A natural resource-based view of the firm, 1994, (1413.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1969|3.0|1.5|IEEE Transactions on Computers|On the Design of Bayesian Storage Allocation Algorithms for Paging and Segmentation
+1970|2.0|2.0|Proceedings of the IEEE|Sensory aids for the blind: A challenging problem with lessons for the future
+1972|1.0|1.0|Proceedings of the IEEE|Time/frequency and transportation
+1973|1.0|1.0|Proceedings of the IEEE|New display technologies&#8212;An editorial viewpoint
+1974|1.0|1.0|IEEE Transactions on Communications|Linear Delta Modulator Integrated Circuit with 17-Mbit/s Sampling Rate
+1975|2.0|1.0|Proceedings of the IEEE|Energy impact of consumption decisions
+1977|2.0|2.0|IEEE Transactions on Communications|Network Design: An Algorithm for the Access Facility Location Problem
+1978|18.0|1.0|IEEE Transactions on Software Engineering|An Analysis of Competing Software Reliability Models
+1979|6.0|6.0|IEEE Transactions on Communications|Optimal Packet Length for Packet Voice Communication
+1980|3.0|3.0|Journal of Economics|The efficient use of a non-renewable common-pool resource is possible but unlikely
+1982|2.0|1.0|Canadian Journal of Economics|Fisheries, Extended Jurisdiction and the Economics of Common Property Resources
+1983|2.0|2.0|design automation conference|Chip Assemblers: Concepts and Capabilities
+1984|6.0|0.5|Economica|Common Property Resources, Storage Facilities and Ownership Structures: A Cournot Model of the Oil Market
+1985|1.0|1.0|Human Ecology|The common property resource problem and the creation of limited property rights
+1986|32.0|0.0|IEEE Computer|Reusing and Interconnecting Software Components
+1987|13.0|1.0|World Bank Research Observer|The Management of Common Property Resources: Finding a Cooperative Solution
+1988|4.0|3.0|international conference on robotics and automation|Dynamic model of a one-link robot manipulator with both structural and joint flexibility
+1989|16.0|3.0|Journal of Lightwave Technology|Optical networks for local loop applications
+1990|59.0|5.0|IEEE Transactions on Software Engineering|KIDS: a semiautomatic program development system
+1991|21.0|1.0|IEEE Transactions on Software Engineering|A packaging system for heterogeneous execution environments
+1992|12.0|2.0|Land Economics|Property-Rights Regimes and Natural Resources: A Conceptual Analysis
+1993|29.0|2.0|Journal of Public Economics|Strategies for the international protection of the environment
+1994|40.0|2.0|Proceedings of the IEEE|Real-time computing: a new discipline of computer science and engineering
+1995|56.0|2.0|IEEE Journal on Selected Areas in Communications|Pricing congestible network resources
+1996|25.0|1.0|winter simulation conference|Enhancing simulation education with intelligent tutoring systems
+1997|26.0|3.0|IEEE Transactions on Power Systems|Transaction analysis in deregulated power systems using game theory
+1998|12.0|1.0|Journal of Risk and Uncertainty|Common Consequence Conditions in Decision Making under Risk
+1999|67.0|3.0|international conference on software engineering|A language and environment for architecture-based software development and evolution
+2000|30.0|3.0|World Development|Empirical Regularities in the Poverty-Environment Relationship of Rural Households: Evidence From Zimbabwe
+2001|103.0|4.0|World Development|Common Property Institutions and Sustainable Governance of Resources
+2002|36.0|2.0||Improving smart card security using self-timed circuits
+2003|131.0|5.0|IEEE Computer|Pervasive computing: a paradigm for the 21st century
+2004|122.0|4.0|international conference on autonomic computing|Utility functions in autonomic systems
+2005|39.0|3.0|hawaii international conference on system sciences|PET: A PErsonalized Trust Model with Reputation and Risk Evaluation for P2P Resource Sharing
+2006|258.0|2.0||Stern Review: The Economics of Climate Change
+2007|120.0|4.0|Annual Review of Environment and Resources|The Nature and Value of Ecosystem Services: An Overview Highlighting Hydrologic Services
+2008|140.0|2.0|IEEE Transactions on Systems, Man, and Cybernetics|A Comprehensive Survey of Multiagent Reinforcement Learning
+2009|101.0|2.0|Renewable & Sustainable Energy Reviews|LCA of renewable energy for electricity generation systems--A review
+2010|131.0|5.0|Nature|Social learning promotes institutions for governing the commons

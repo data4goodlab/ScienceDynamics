@@ -1,0 +1,60 @@
+----  Field Name Communication: 
+----  Field Level 1.0: 
+----  Field Papers Number 53794:
+----  All time max citation paper: Communicating sequential processes, 1983, (4472.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1935|0|0.0|Journal of Social Psychology|Judgment of Facial Expression of Emotion in the Chimpanzee
+1940|0|0.0|Genetica|Inheritance of colours in Phaseolus vulgaris L I.
+1945|0|0.0|American Journal of Surgery|Fixity of facial expression following undermining of the skin over the nose: A modified method by which it is avoided
+1960|1.0|0.0|Journal of Applied Psychology|Cognitive similarity and interpersonal communication in industry
+1961|1.0|0.5|Journal of Theoretical Biology|The logical analysis of animal communication
+1962|4.0|4.0|Journal of Prosthetic Dentistry|Anatomy of facial expression and its prosthodontic significance
+1963|4.0|0.0|Journal of Geophysical Research|VLF DISTURBANCES CAUSED BY THE NUCLEAR DETONATION OF OCTOBER 26, 1962
+1964|1.0|1.0|Scandinavian Journal of Psychology|QUALITATIVE FACTORS OF FACIAL EXPRESSION
+1965|0|0.0|Nature|Mimicry and the Evolution of Animal Communication
+1966|37.0|2.0|Journal of Experimental Social Psychology|Components of group risk taking
+1967|3.0|2.5|Journal of Experimental Social Psychology|The effect of time pressure, time elapsed, and the opponent's concession rate on behavior in negotiation
+1968|0|0.0|Primates|Social behaviour of stump-tailed macaques in captivity
+1969|27.0|2.0|Journal of Experimental Social Psychology|The risky shift in group betting
+1970|24.0|0.0|Cognitive Psychology|The grammars of speech and language
+1971|19.0|1.0|Neuropsychologia|Language and speech capacity of the right hemisphere
+1972|9.0|0.0|Journal of Communication|Developmental Factors in Conversational Behavior.
+1973|23.0|2.0|Journal of Theoretical Biology|Tonic communication: Continual effects of discrete signs in animal communication systems
+1974|10.0|1.0|Journal of Verbal Learning and Verbal Behavior|Surface structure and presupposition
+1975|24.0|1.0|Cognitive Psychology|Effects of Context-Induced Processing Operations on Semantic Information Acquired from Discourse.
+1976|62.0|2.0|Science|Cooperative Computation of Stereo Disparity
+1977|33.0|2.0|Human Communication Research|ORAL COMMUNICATION APPREHENSION: A SUMMARY OF RECENT THEORY AND RESEARCH
+1978|58.0|1.0|Psychological Bulletin|Gender Effects in Decoding Nonverbal Cues.
+1979|122.0|2.0|Behavioral and Brain Sciences|Human ethology: concepts and implications for the sciences of man
+1980|32.0|2.0|Review of Educational Research|Cooperative Learning in Small Groups: Recent Methods and Effects on Achievement, Attitudes, and Ethnic Relations
+1981|30.0|2.0|Monographs of The Society for Research in Child Development|The Development of Comprehension Monitoring and Knowledge about Communication.
+1982|25.0|2.0||Review of Research on Practicum Supervision
+1983|576.0|2.0|Communications of The ACM|Communicating sequential processes
+1984|29.0|2.0|ACM Transactions on Database Systems|Join and Semijoin Algorithms for a Multiprocessor Database Machine
+1985|41.0|2.0|symposium on operating systems principles|The structuring of systems using upcalls
+1986|70.0|1.0|Communications of The ACM|Data parallel algorithms
+1987|101.0|2.0|ACM Transactions on Computer Systems|Reliable communication in the presence of failures
+1988|88.0|2.0|Child Development|Children's Understanding of Informational Access as Source of Knowledge.
+1989|196.0|2.0|Ethology and Sociobiology|Evolutionary psychology and the generation of culture, part II
+1990|53.0|2.0|Journal of Autism and Developmental Disorders|A Longitudinal Study of Joint Attention and Language Development in Autistic Children.
+1991|121.0|2.0|Trends in Neurosciences|The cognitive basis of a biological disorder: autism
+1992|56.0|2.0|Pattern Recognition|Automatic recognition and analysis of human faces and facial expressions: a survey
+1993|91.0|2.0||The Polyadic -Calculus: a Tutorial
+1994|52.0|2.0|Cognition|Autism: beyond theory of mind
+1995|142.0|2.0|international symposium on microarchitecture|A case for NOW (Networks of Workstations)
+1996|153.0|3.0|Neuron|Response and Habituation of the Human Amygdala during Visual Processing of Facial Expression
+1997|163.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Eigenfaces vs. Fisherfaces: recognition using class specific linear projection
+1998|193.0|3.0|The Journal of Neuroscience|Masked Presentations of Emotional Facial Expressions Modulate Amygdala Activity without Explicit Knowledge
+1999|345.0|5.0|acm ieee international conference on mobile computing and networking|Next century challenges: scalable coordination in sensor networks
+2000|238.0|5.0|Trends in Cognitive Sciences|The distributed human neural system for face perception
+2001|275.0|4.0|international world wide web conferences|Item-based collaborative filtering recommendation algorithms
+2002|345.0|6.0|Nucleic Acids Research|Gene Expression Omnibus: NCBI gene expression and hybridization array data repository
+2003|616.0|6.0|IEEE Transactions on Communications|User cooperation diversity. Part I. System description
+2004|577.0|6.0|IEEE Wireless Communications|Routing techniques in wireless sensor networks: a survey
+2005|503.0|6.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Face recognition using Laplacianfaces
+2006|420.0|6.0|Nature Neuroscience|Understanding emotions in others: mirror neuron dysfunction in children with autism spectrum disorders
+2007|359.0|6.0|American Journal of Psychiatry|Functional Neuroimaging of Anxiety: A Meta-Analysis of Emotional Processing in PTSD, Social Anxiety Disorder, and Specific Phobia
+2008|749.0|6.0|PLOS ONE|Individual Attachment Style Modulates Human Amygdala and Striatum Activation during Social Appraisal
+2009|903.0|6.0|PLOS ONE|Chimpanzees Help Each Other upon Request
+2010|468.0|6.0|Nature Communications|Development of a novel selective inhibitor of the Down syndrome-related kinase Dyrk1A

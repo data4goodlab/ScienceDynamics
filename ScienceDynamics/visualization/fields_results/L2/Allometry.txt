@@ -1,0 +1,59 @@
+----  Field Name Allometry: 
+----  Field Level 2.0: 
+----  Field Papers Number 19510:
+----  All time max citation paper: Statistical mechanics of complex networks, 2001, (3326.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1949|0|0.0|Bulletin of Mathematical Biology|Theory of the mitotic index and its application to tissue growth measurement
+1954|0|0.0|Flow Turbulence and Combustion|Test of langmuir's three halves power law, deviations due to 2-factor and secondary emission
+1956|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|ON THE ANGULAR DISTRIBUTION OF PENETRATING COSMIC-RAY PARTICLES AT A DEPTH 103 MWE BELOW GROUND
+1960|4.0|4.0|Journal of Applied Physics|CONSERVATION LAWS OF AN INTERACTING ELECTRON BEAM
+1962|0|0.0|Physics of Fluids|Thermal and Radiative Properties of Recombining Atomic Nitrogen
+1963|18.0|15.5|Journal of Geophysical Research|Asymptotic cones of acceptance and their use in the study of the daily variation of cosmic radiation
+1964|6.0|3.0|Journal of Geophysical Research|On the contribution of solarflare alpha particles to polar cap absorption events
+1965|20.0|3.5|Journal of Geophysical Research|Spatial variation of the inner zone trapped proton spectrum
+1966|11.0|8.0|Journal of Geophysical Research|Electron and proton fluxes in the tail of the magnetosphere
+1967|5.0|1.5|Journal of Geophysical Research|The propagation of cosmicray nuclei in interstellar space and solar system
+1968|19.0|4.5|Journal of Geophysical Research|Observations of electrons in the Earth's magnetotail by Vela launch 2 satellites
+1969|8.0|1.0|Journal of Geophysical Research|Measurement and interpretation of power spectrums of ionospheric scintillation at a subauroral location
+1970|4.0|1.0|Journal of Geophysical Research|On the wavelength dependence of radar echoes from the Moon
+1971|51.0|1.5|Journal of Geophysical Research|Energy spectra and angular distributions of particles in the plasma sheet and their comparison with rocket measurements over the auroral zone
+1972|24.0|1.0|Journal of Geophysical Research|Powerlaw wavenumber spectrum deduced from ionospheric scintillation observations
+1973|47.0|2.0|Reviews of Geophysics|On the rheology of the upper mantle
+1974|69.0|6.5|Journal of Geophysical Research|In situ measurements of the spectral characteristics of F region ionospheric irregularities
+1975|34.0|4.0|Journal of Applied Physics|The physics of metal oxide varistors
+1976|54.0|3.0|Geophysical Research Letters|Nonlinear equatorial spread F
+1977|31.0|2.0|Journal of Geophysical Research|Plastic flow of oriented single crystals of olivine: 1. Mechanical data
+1978|19.0|2.0|Journal of Chemical Physics|Light scattering studies of phase separation in isobutyric acid + water mixtures
+1979|36.0|2.0|Icarus|Subsolidus convective cooling histories of terrestrial planets
+1980|24.0|3.0|Tectonophysics|High temperature flow and dynamic recrystallization in carrara marble
+1981|66.0|6.0|Psychological Review|Acquisition of Cognitive Skill.
+1982|26.0|2.0|American Journal of Physical Anthropology|Allometric scaling in the dentition of primates and prediction of body weight from tooth size in fossils.
+1983|39.0|3.0|Journal of Geophysical Research|Electron velocity distributions near the earth's bow shock
+1984|33.0|2.0|Journal of Atmospheric and Solar-Terrestrial Physics|Gravity-wave motions in the mesosphere
+1985|26.0|2.0|Reviews of Geophysics|Quantitative methods for analyzing the roughness of the seafloor
+1986|37.0|2.0|Journal of Neuroscience Methods|Bivariate linear models in neurobiology: problems of concept and methodology
+1987|86.0|3.0|Journal of Chemical Physics|Dynamical effects in electron transfer reactions. II. Numerical solution
+1988|83.0|3.0|Journal of Chemical Physics|Dynamics in low temperature glasses: Theory and experiments on optical dephasing, spectral diffusion, and hydrogen tunneling
+1989|84.0|2.0|Behavioral and Brain Sciences|Reconciling Fechner and Stevens: Toward a unified psychophysical law
+1990|37.0|3.0|Applied Physics Letters|Flux creep in Bi2Sr2CaCu2O8 epitaxial films
+1991|42.0|2.0|Journal of Chemical Physics|Optical properties of disordered molecular aggregates: A numerical study
+1992|26.0|2.0|International Journal of Mechanical Sciences|Power-law creep of powder bonded by isolated contacts
+1993|28.0|2.0|Journal of Geophysical Research|Pinatubo and prePinatubo opticaldepth spectra: Mauna Loa measurements, comparisons, inferred particle size distributions, radiative effects, and relationship to lidar data
+1994|42.0|3.0|Journal of Applied Physics|Photoinduced hysteresis changes and optical storage in (Pb,La)(Zr,Ti)O3 thin films and ceramics
+1995|90.0|3.0|Neuron|Calcium control of transmitter release at a cerebellar synapse
+1996|62.0|2.0|Reviews of Geophysics|Statistical physics, seismogenesis, and seismic hazard
+1997|74.0|2.0|Journal of Applied Physics|Space-charge limited conduction with traps in poly(phenylene vinylene) light emitting diodes
+1998|134.0|2.0|Journal of The Mechanics and Physics of Solids|Indentation size effects in crystalline materials: A law for strain gradient plasticity
+1999|325.0|4.0|acm special interest group on data communication|On power-law relationships of the Internet topology
+2000|184.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Classes of small-world networks
+2001|568.0|4.0|Reviews of Modern Physics|Statistical mechanics of complex networks
+2002|444.0|4.0|Science|Hierarchical Organization of Modularity in Metabolic Networks
+2003|194.0|5.0|Journal of High Energy Physics|Warped brane worlds in six-dimensional supergravity
+2004|992.0|5.0|Nature|EXTINCTION RISK FROM CLIMATE CHANGE
+2005|266.0|5.0|Geophysical Research Letters|Seismic precursory patterns before a cliff collapse and critical point phenomena
+2006|205.0|4.0|Nature|The scaling laws of human travel
+2007|462.0|4.0|internet measurement conference|Measurement and analysis of online social networks
+2008|1227.0|5.0|Ecology|TOWARD A METABOLIC THEORY OF ECOLOGY
+2009|1471.0|5.0|Siam Review|Power-Law Distributions in Empirical Data
+2010|1055.0|5.0|international world wide web conferences|What is Twitter, a social network or a news media?

@@ -1,0 +1,52 @@
+----  Field Name Earth science: 
+----  Field Level 1.0: 
+----  Field Papers Number 21423:
+----  All time max citation paper: Initial sequencing and analysis of the human genome, 2001, (10313.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1953|0|0.0|Eos, Transactions American Geophysical Union|Report of the Standing Committee on Problems of the upper atmosphere, 19511952
+1964|2.0|0.0|Review of Educational Research|SCIENCE IN THE SECONDARY SCHOOL.
+1967|1.0|0.5|International Journal of Rock Mechanics and Mining Sciences & Geomechanics Abstracts|FAILURE OF ROCKS UNDER TENSILE CONDITIONS
+1968|6.0|6.0|Geophysical Prospecting|Magneto-telluric measurements in the North German basin
+1969|21.0|20.0|Contributions to Mineralogy and Petrology|Rare earth contribution to the origin of Hawaiian lavas
+1970|1.0|0.0|Geoderma|Rapid carbon determination by dry combustion in soil science and geochemistry
+1971|30.0|2.0|Nature|Estimation of Secondary Structure in Ribonucleic Acids
+1972|12.0|3.5|Nature|Spontaneous Release of Type C Viruses from Clonal Lines of Spontaneously Transformed Balb/3T3 Cells
+1973|2.0|1.0|International Journal of Rock Mechanics and Mining Sciences & Geomechanics Abstracts|Fracture growth around openings in thick-walled cylinders of rock subjected to hydrostatic compression
+1974|19.0|5.0|Nature|Stratospheric sink for chlorofluoromethanes: chlorine atomc-atalysed destruction of ozone
+1975|557.0|11.0|Nature|Identification of two related pentapeptides from the brain with potent opiate agonist activity
+1976|168.0|11.0|Nature|C fragment of lipotropin has a high affinity for brain opiate receptors
+1977|67.0|7.0|Nature|Role of prostaglandin endoperoxide PGG2 in inflammatory processes
+1978|33.0|4.0|Geophysical Research Letters|Differential SM/ND evolution in oceanic basalts
+1979|37.0|6.0|Journal of Geophysical Research|Convection, composition, and the thermal state of the lower mantle
+1980|406.0|5.0|Nature|The role of hormone receptors and GTP-regulatory proteins in membrane transduction.
+1981|108.0|5.0|Journal of Geophysical Research|Gradients in silicic magma chambers: Implications for lithospheric magmatism
+1982|36.0|5.0|Water Resources Research|Porous media equivalents for networks of discontinuous fractures
+1983|24.0|3.0|Journal of Geophysical Research|Heat transfer and intraplate deformation in the central Indian Ocean
+1984|15.0|2.0|Journal of Geophysical Research|Subcritical crack growth and other time and environmentdependent behavior in crustal rocks
+1985|21.0|3.0|Journal of Geophysical Research|Water displacements in the Pacific and the genesis of El Nino cycles
+1986|38.0|5.0|Tectonics|A Kinematic model of southern California
+1987|59.0|4.0|Journal of Geophysical Research|Chemistry of hydrothermal solutions from the southern Juan de Fuca Ridge
+1988|40.0|6.0|Geochimica et Cosmochimica Acta|The coordination chemistry of weathering: III. A generalization on the dissolution rates of minerals
+1989|37.0|7.0|Geochimica et Cosmochimica Acta|The surface chemistry of dissolving labradorite feldspar
+1990|77.0|5.0|Journal of Geophysical Research|Hotspots and mantle plumes: Some phenomenology
+1991|61.0|8.0|Geochimica et Cosmochimica Acta|Negative thermal ion mass spectrometry of osmium, rhenium and iridium
+1992|40.0|4.0|Cognitive Psychology|Mental Models of the Earth: A Study of Conceptual Change in Childhood.
+1993|42.0|4.0|Geochimica et Cosmochimica Acta|Complexation of trivalent rare earth elements (Ce, Eu, Gd, Tb, Yb) by carbonate ions
+1994|37.0|3.0|Journal of Geophysical Research|Twodimensional simulation of Pinatubo aerosol and its effect on stratospheric ozone
+1995|40.0|4.0|IEEE Transactions on Geoscience and Remote Sensing|Measuring soil moisture with imaging radars
+1996|295.0|3.0|Geology|Three-dimensional crustal structure of the southern Sierra Nevada from seismic fan profiles and gravity modeling
+1997|1035.0|43.0|Nature|Functional rafts in cell membranes
+1998|2478.0|46.0|Nature|Dendritic cells and the control of immunity
+1999|798.0|47.0|Nature|Molecular characterization of mitochondrial apoptosis-inducing factor
+2000|1400.0|48.0|Nature|Distinct types of diffuse large B-cell lymphoma identified by gene expressionprofiling
+2001|4579.0|37.0|Nature|Initial sequencing and analysis of the human genome
+2002|1438.0|39.0|Nature|Pluripotency of mesenchymal stem cells derived from adult marrow
+2003|1006.0|45.5|Nature|The International HapMap Project
+2004|1050.0|39.5|Nature|Identification of human brain tumour initiating cells
+2005|1559.0|41.0|Nature|MicroRNA expression profiles classify human cancers.
+2006|1988.0|32.0|Nature|Reciprocal developmental pathways for the generation of pathogenic effector TH17 and regulatory T cells
+2007|1465.0|27.0|Nature|A second generation human haplotype map of over 3.1 million SNPs.
+2008|1601.0|30.0|Nature|Building better batteries
+2009|2934.0|30.0|Nature|Large-scale pattern growth of graphene films for stretchable transparent electrodes
+2010|2096.0|18.0|Nature|A human gut microbial gene catalogue established by metagenomic sequencing

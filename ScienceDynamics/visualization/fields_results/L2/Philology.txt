@@ -1,0 +1,45 @@
+----  Field Name Philology: 
+----  Field Level 2.0: 
+----  Field Papers Number 2615:
+----  All time max citation paper: Genre as social action, 2009, (415.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1969|0|0.0|Quarterly Journal of Speech|Some Psycholinguistic Aspects of Active and Passive Sentences.
+1971|0|0.0|The Modern Language Journal|Bilingual Education: The American Experience.
+1972|4.0|2.0|Language|Phonetic Detail in Assimilation: Problems in Germanic Phonology.
+1974|1.0|1.0||Perspectives on Rhetorical Criticism of Movements: Antiwar Dissent, 1964-1970.
+1975|0|0.0|Lingua|On Contrasting the Semantics of the Modal Auxiliaries of German and English.
+1976|0|0.0||Argument as Hypothesis-Testing.
+1978|2.0|2.0|Language Learning|DEVELOPMENTAL SEQUENCE: AN ALTERNATIVE APPROACH TO MORPHEME ORDER
+1979|3.0|1.0|Journal of Verbal Learning and Verbal Behavior|The Competing Language Systems of the Multilingual: A Developmental Study of Decoding and Encoding Processes.
+1980|1.0|1.0|Communication Quarterly|Ineffability, Creativity, and Communication Competence.
+1981|2.0|1.0|Journal of Communication|McLuhan as Rhetorical Theorist
+1982|5.0|5.0|Studies in Second Language Acquisition|Teaching-induced aspects of interlanguage discourse
+1983|10.0|2.5|Journal of Verbal Learning and Verbal Behavior|The effects of phonotactic constraints on lexical processing in bilingual and monolingual subjects
+1984|29.0|0.5|Journal of Verbal Learning and Verbal Behavior|Cue validity and sentence interpretation in English, German, and Italian
+1985|12.0|1.5|TESOL Quarterly|Facilitating ESL Reading by Teaching Text Structure
+1986|6.0|0.0|Foreign Language Annals|The Relationship Between Anxiety and Foreign Language Oral Proficiency Ratings
+1987|22.0|1.5|Educational Researcher|Meaning in Method: The Rhetoric of Quantitative and Qualitative Research
+1988|9.0|2.0|The Modern Language Journal|Comprehension and Text Genre: An Analysis of Secondary School Foreign Language Readers.
+1989|33.0|4.0|Journal of Child Language|A cross-language study of prosodic modifications in mothers' and fathers' speech to preverbal infants
+1990|8.0|1.0|Foreign Language Annals|Strategy Training for Language Learners: Six Situational Case Studies and a Training Model
+1991|15.0|2.0|computational intelligence|On the need for domain communication knowledge
+1992|35.0|2.0|Studies in Second Language Acquisition|The Production of New and Similar Vowels by Adult German Learners of English
+1993|29.0|1.0|Child Development|Approval and Disapproval: Infant Responsiveness to Vocal Affect in Familiar and Unfamiliar Languages
+1994|22.0|1.0|Cognition|The influence of orthographic consistency on reading development: word recognition in English and German children
+1995|36.0|1.0|Social Science & Medicine|German translation and psychometric testing of the SF-36 Health Survey: Preliminary results from the IQOLA project
+1996|20.0|2.0|The Modern Language Journal|Effects of Multimedia Annotations on Vocabulary Acquisition
+1997|24.0|2.0|Written Communication|Rethinking Genre in School and Society: An Activity Theory Analysis.
+1998|22.0|2.5|Journal of Educational Psychology|SUPPORTING VISUAL AND VERBAL LEARNING PREFERENCES IN A SECOND LANGUAGE MULTIMEDIA LEARNING ENVIRONMENT
+1999|30.0|1.5|The Sociological Review|Conceptualising social capital in relation to the well-being of children and young people : a critical review
+2000|29.0|2.0|Journal of Educational Psychology|The Double-Deficit Hypothesis and Difficulties in Learning To Read a Regular Orthography.
+2001|81.0|3.0|symposium on the theory of computing|Spectral analysis of data
+2002|31.0|3.0|Language Learning & Technology|Social Dimensions of Telecollaborative Foreign Language Study.
+2003|36.0|4.0|The Modern Language Journal|The Effect of Synchronous and Asynchronous CMC on Oral Performance in German
+2004|47.0|4.5|Brain and Language|Brain Activity Varies with Modulation of Dynamic Pitch Variance in Sentence Melody.
+2005|66.0|4.0|American Sociological Review|From Poverty to Perversity: Ideas, Markets, and Institutions over 200 Years of Welfare Debate.
+2006|115.0|4.5|Clinical Nutrition|The German hospital malnutrition study
+2007|170.0|4.0|JAMA Internal Medicine|German acupuncture trials (GERAC) for chronic low back pain : Randomized, multicenter, blinded, parallel-group trial with 3 groups
+2008|95.0|4.0||Technology-Enhanced Learning in Developing Nations: A review
+2009|384.0|4.0|Quarterly Journal of Speech|Genre as social action
+2010|93.0|3.0|European Journal of Political Economy|Expressive behavior in economics and politics

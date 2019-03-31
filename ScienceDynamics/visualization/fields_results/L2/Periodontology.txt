@@ -1,0 +1,49 @@
+----  Field Name Periodontology: 
+----  Field Level 2.0: 
+----  Field Papers Number 4015:
+----  All time max citation paper: Microbial complexes in subgingival plaque, 1998, (1566.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1955|0|0.0|Economic Botany|Chlorophyll derivatives Their chemistry? commercial preparation and uses
+1965|14.0|14.0|Archives of Oral Biology|Caries increments, tooth discoloration, and state of oral hygiene in children given single annual applications of acid phosphate-fluoride and stannous fluoride
+1968|1.0|1.0|Journal of Public Health Dentistry|THE PERIODONTAL CONDITION OF INSTITUTIONALIZED CHILDREN; IMPROVEMENT THROUGH ORAL HYGIENE*
+1971|2.0|2.0|European Journal of Oral Sciences|Caries incidence and oral hygiene during orthodontic treatment
+1972|1.0|0.5|Toxicology and Applied Pharmacology|Preliminary safety assessment of disodium etidronate as an additive to experimental oral hygiene products
+1973|9.0|0.0|Community Dentistry and Oral Epidemiology|The effect of controlled oral hygiene and topical fluoride application on caries and gingivitis in Swedish schoolchildren
+1974|4.0|2.5|American Journal of Orthodontics|Oral hygiene for orthodontic patients: Current concepts and practical advice
+1975|11.0|9.0|Journal of Clinical Periodontology|The effect of a chlorhexidinecontaining gel on oral cleanliness and gingival health in young adults
+1976|7.0|0.0|Journal of Dentistry|Characterization of glass-ionomer cements 1. Long term hardness and compressive strength
+1977|5.0|2.5|Journal of Dentistry|Characterization of glass-ionomer cements 4. Effect of molecular weight on physical properties
+1978|55.0|2.0|Journal of Clinical Periodontology|Effect of controlled oral hygiene procedures on caries and periodontal disease in adults
+1979|3.0|2.0|Journal of Clinical Periodontology|Periodontal selfexamination A motivational tool in periodontics
+1980|26.0|2.0|Journal of Clinical Periodontology|Healing following implantation of periodontitis affected roots into bone tissue
+1981|10.0|2.0|Journal of Clinical Periodontology|Oral hygiene instruction of adults by means of a selfinstructional manual
+1982|7.0|3.0|Journal of Oral Rehabilitation|An evaluation of mechanical and adhesive properties of polycarboxylate and glass ionomer cements
+1983|60.0|2.0|Journal of Clinical Periodontology|Progression of periodontal disease in adult subjects in the absence of periodontal therapy
+1984|86.0|4.5|Journal of Clinical Periodontology|New concepts of destructive periodontal disease
+1985|23.0|6.0|Dental Materials|Shear bond strength of a composite resin to an etched glass ionomer
+1986|24.0|4.0|Journal of Clinical Periodontology|Bleeding on probing. A predictor for the progression of periodontal disease?
+1987|14.0|4.0|Journal of Clinical Periodontology|The effect of plaque control and root debridement in molar teeth
+1988|65.0|5.0|Journal of Clinical Periodontology|The role of blackpigmented Bacteroides in human oral infections
+1989|23.0|2.0|Clinical Materials|The biocompatibility of glass-ionomer cement in joint replacement: Bulk testing
+1990|10.0|2.5|Journal of Periodontal Research|Selective modulation of bacterial attachment to oral epithelial cells by enzyme activities associated with poor oral hygiene
+1991|21.0|3.0|Archives of Oral Biology|Amelogenin post-secretory processing during biomineralization in the postnatal mouse molar tooth
+1992|25.0|2.0|Journal of Clinical Periodontology|Putative periodontopathogens in diseased and nondiseased persons exhibiting poor oral hygiene
+1993|14.0|4.0|Biomaterials|Biocompatibility of glass ionomer cements
+1994|21.0|3.0|Journal of Clinical Periodontology|Periodontal regeneration of infrabony defects (V). Effect of oral hygiene on longterm stability
+1995|21.0|3.0|Dental Materials|Curing shrinkage and volumetric changes of resin-modified glass ionomer restorative materials
+1996|23.0|3.0|Journal of Oral and Maxillofacial Surgery|Mandibular alveolar ridge augmentation in the dog using distraction osteogenesis
+1997|42.0|2.0|Journal of Clinical Periodontology|Enamel matrix, cementum development and regeneration
+1998|144.0|3.0|Journal of Clinical Periodontology|Microbial complexes in subgingival plaque
+1999|22.0|4.0|Journal of Dental Research|Characterization of Recombinant Pig Enamelysin Activity and Cleavage of Recombinant Pig and Mouse Amelogenins
+2000|24.0|5.0|Dental Materials|Clinical evaluation of three adhesive systems in class V non-carious lesions
+2001|49.0|5.0|Journal of Clinical Periodontology|A longitudinal study of interleukin1 gene polymorphisms and periodontal disease in a general adult population
+2002|69.0|5.0|Journal of The American Academy of Dermatology|The clinical features, malignant potential, and systemic associations of oral lichen planus: A study of 723 patients
+2003|42.0|6.0|Journal of Periodontology|Gene therapy of bone morphogenetic protein for periodontal tissue engineering.
+2004|74.0|7.0|Stroke|Periodontal Disease as a Risk Factor for Ischemic Stroke
+2005|118.0|7.0|Journal of Periodontology|The Effect of Inter-Implant Distance on the Height of Inter-Implant Bone Crest
+2006|104.0|7.0|Journal of Oncology Practice|Practical guidelines for the prevention, diagnosis, and treatment of osteonecrosis of the jaw in patients with cancer.
+2007|116.0|6.0|Dental Materials|Review on fluoride-releasing restorative materialsFluoride release and uptake characteristics, antibacterial activity and influence on caries formation
+2008|103.0|8.0|International Endodontic Journal|Outcome of primary root canal treatment: systematic review of the literature - Part 2. Influence of clinical factors
+2009|118.0|6.0|Critical Care|A randomized trial of chlorhexidine gluconate on oral bacterial pathogens in mechanically ventilated patients.
+2010|149.0|6.0|BMC Public Health|A pilot study combining individual-based smoking cessation counseling, pharmacotherapy, and dental hygiene intervention

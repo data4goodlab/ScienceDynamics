@@ -1,0 +1,67 @@
+----  Field Name Infrared spectroscopy
+----  Field Level 2.0
+----  Field Papers Number 58518
+----  All time max citation paper Red and photographic infrared linear combinations for monitoring vegetation, 1979, (2226.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1935|1.0|1.0|Journal of Chemical Physics|Thermodynamic Properties of Sulfur Compounds II. Sulfur Dioxide, Carbon Disulfide, and Carbonyl Sulfide
+1949|3.0|2.0|Journal of Experimental Zoology|The influence of near infrared radiation on the production by nitrogen mustard of chromosome rearrangements in Drosophila.
+1951|10.0|4.0|Journal of Chemical Physics|The Vibrational Spectra of Diborane and Some of its Isotopic Derivatives
+1952|6.0|4.0|Journal of Chemical Physics|Substituted Methanes. IX. Raman and Infrared Spectra, Assignments, Potential Constants, and Calculated Thermodynamic Properties for CHClBr2 and CDClBr2
+1953|10.0|4.0|Journal of Chemical Physics|RotationVibration Spectra of Diatomic and Simple Polyatomic Molecules with Long Absorbing Paths. IX. The Spectra of the HCN and DCN Molecules from 2.5 to 0.5
+1955|12.0|4.5|Journal of Chemical Physics|Vibrational Spectra and Structure of Cyclopropane and Cyclopropaned6
+1956|21.0|5.0|Journal of Chemical Physics|Characteristic Infrared Bands of Monosubstituted Amides
+1957|21.0|3.5|Journal of Chemical Physics|Spectra of the Alkali Halides. II. The Infrared Spectra of the Sodium and Potassium Halides, RbCl, and CsCl
+1958|12.0|2.0|Journal of Chemical Physics|Infrared Spectra of Partially Deuterated Diboranes
+1959|12.0|2.0|Journal of Chemical Physics|Infrared Spectra of the Frozen Oxides of Nitrogen
+1960|21.0|4.0|Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy|Infrared spectra of inorganic ions in the cesium bromide region (700300 cm 1 )
+1961|10.0|2.0|Journal of Chemical Physics|Infrared Spectrum of Co(CO)3NO
+1962|15.0|3.5|Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy|Infrared spectroscopic study on the co-ordination bond-I: Infrared spectra of cobalt hexammine, pentammine and trans-tetraammine complexes
+1963|21.0|3.0|Journal of Applied Physics|Optical Maser Characteristics of RareEarth Ions in Crystals
+1964|24.0|2.0|Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy|Infrared spectra of some hexahalogeno complexes
+1965|26.0|2.5|Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy|The infrared spectra and structure of complexes of copper(II) halides and heterocyclic bases
+1966|20.0|0.0|Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy|Infrared spectra and structure of substituted unsaturated carbonyl compoundsIII. Enamino ketones with tertiary amino group
+1967|23.0|0.0|Journal of Geophysical Research|Anisotropic nonconservative scattering and the clouds of Venus
+1968|38.0|0.0|Journal of Geophysical Research|Altitude profile of the infrared atmospheric system of oxygen in the dayglow
+1969|18.0|0.0|Journal of Geophysical Research|Infrared emissivities of silicates: Experimental results and a cloudy atmosphere model of Spectral emission from condensed particulate mediums
+1970|23.0|0.0|Journal of Molecular Spectroscopy|-Resonance perturbations in infrared perpendicular bands
+1971|44.0|1.0|Coordination Chemistry Reviews|Infrared spectra of complexes of the thiocyanate and related ions
+1972|54.0|1.0|Icarus|Investigation of the Martian environment by infrared spectroscopy on Mariner 9
+1973|41.0|1.0|Journal of Geophysical Research|Atmospheric and surface properties of Mars obtained by infrared spectroscopy on Mariner 9
+1974|16.0|0.0|Journal of Catalysis|Infrared spectra of carbon monoxide adsorbed on supported palladium and palladium-silver alloys
+1975|41.0|2.0|Journal of Chemical Physics|Profiles of hydrogen stretching ir bands of molecules with hydrogen bonds: A stochastic theory. I. Weak and medium strength hydrogen bonds
+1976|38.0|2.0|Applied Physics Letters|Improved lightoutput linearity in stripegeometry doubleheterostructure (Al,Ga)As lasers
+1977|32.0|3.0|Icarus|The atmosphere of Saturn - An infrared perspective
+1978|60.0|3.0|Journal of Chemical Physics|Collective vibrational modes of adsorbed CO
+1979|53.0|4.0|Journal of Chemical Physics|LEED analysis of acetylene and ethylene chemisorption on the Pt(111) surface: Evidence for ethylidyne formation
+1980|32.0|4.0|Journal of Chemical Physics|Spectroscopic studies on doped polyacetylene and carotene
+1981|27.0|2.0|Journal of Catalysis|The effect of SMSI (strong metal-support interaction) behavior on CO adsorption and hydrogenation on Pd catalysts: II. Kinetic behavior in the methanation reaction
+1982|33.0|2.0|Contributions to Mineralogy and Petrology|Water in silicate glasses: An infrared spectroscopic study
+1983|48.0|3.0|Journal of Chemical Physics|Interpretation of infrared intensity changes on molecular complex formation. I. Water dimer
+1984|98.0|4.0|Journal of Chemical Physics|Intramolecular vibrational relaxation and spectra of CH and CD overtones in benzene and perdeuterobenzene
+1985|100.0|3.0|Applied Physics Letters|First observation of an extremely largedipole infrared transition within the conduction band of a GaAs quantum well
+1986|66.0|3.0|Journal of Chemical Physics|Analytic evaluation and basis set dependence of intensities of infrared spectra
+1987|64.0|3.0|Journal of Chemical Physics|Analytic evaluation of energy gradients for the single and double excitation coupled cluster (CCSD) wave function: Theory and application
+1988|176.0|4.0|Global Biogeochemical Cycles|Biogeochemical aspects of atmospheric methane
+1989|65.0|4.0|Journal of Chemical Physics|Rotationvibration spectra of icosahedral molecules. II. Icosahedral symmetry, vibrational eigenfrequencies, and normal modes of buckminsterfullerene
+1990|215.0|3.0|Applied Physics Letters|Ideal hydrogen termination of the Si(111) surface
+1991|70.0|3.0|Journal of Chemical Physics|Potential energy surfaces, quasiadiabatic channels, rovibrational spectra, and intramolecular dynamics of (HF)2 and its isotopomers from quantum Monte Carlo calculations
+1992|155.0|3.0|Applied Physics Letters|Luminescence degradation in porous silicon
+1993|66.0|3.0|Journal of Materials Research|Phase evolution in boron nitride thin films
+1994|74.0|3.0|Journal of Applied Physics|Ionassisted pulsed laser deposition of cubic boron nitride films
+1995|77.0|2.0|Journal of Chemical Physics|The Quantum Dynamics of an Excess Proton in Water.
+1996|72.0|2.0|Catalysis Today|Infrared spectrometric studies of the surface basicity of metal oxides and zeolites using adsorbed probe molecules
+1997|123.0|2.0|IEEE Transactions on Geoscience and Remote Sensing|Second Simulation of the Satellite Signal in the Solar Spectrum, 6S: an overview
+1998|120.0|3.0|IEEE Transactions on Communications|Blind equalization and multiuser detection in dispersive CDMA channels
+1999|153.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Designing conditions for in vitro formation of amyloid protofilaments and fibrils
+2000|152.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Concurrent MRI and diffuse optical tomography of breast after indocyanine green enhancement
+2001|146.0|3.0|Nature Medicine|In vivo molecular target assessment of matrix metalloproteinase inhibition
+2002|150.0|4.0|Nature Medicine|Fluorescence molecular tomography resolves protease activity in vivo.
+2003|414.0|4.0|IEEE Transactions on Information Theory|On the achievable throughput of a multiantenna Gaussian broadcast channel
+2004|404.0|5.0|Nature Biotechnology|Near-infrared fluorescent type II quantum dots for sentinel lymph node mapping
+2005|240.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Carbon nanotubes as multifunctional biological transporters and near-infrared agents for selective cancer cell destruction
+2006|369.0|4.0|IEEE Journal on Selected Areas in Communications|On the optimality of multiantenna broadcast scheduling using zero-forcing beamforming
+2007|296.0|5.0|International Journal of Remote Sensing|Canopy reflectance, photosynthesis and transpiration
+2008|583.0|5.0|Nature Biotechnology|In vivo tumor targeting and spectroscopic detection with surface-enhanced Raman nanoparticle tags
+2009|530.0|6.0|Journal of Geophysical Research|Critical Level Interaction of a Gravity Wave With Background Winds Driven By a Large-scale Wave Perturbation
+2010|543.0|6.0|Nanoscale Research Letters|Trapping Iron Oxide into Hollow Gold Nanoparticles

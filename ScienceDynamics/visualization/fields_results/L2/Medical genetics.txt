@@ -1,0 +1,48 @@
+----  Field Name Medical genetics: 
+----  Field Level 2.0: 
+----  Field Papers Number 8786:
+----  All time max citation paper: The p53 codon 72 PRO/PRO genotype may be associated with initial central visual field defects in caucasians with primary open angle glaucoma, 2012, (1952.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1967|3.0|3.0|JAMA|Paternal Immunoglobulin Abnormalities in Congenital Hypogammaglobulinemia
+1969|2.0|2.0|Journal of the Neurological Sciences|Genetic counselling in X-linked muscular dystrophy
+1971|1.0|1.0|JAMA|Genetic Counseling: Considerations for Talking to Parents and Prospective Parents
+1972|5.0|0.0|The New England Journal of Medicine|Genetic counseling: a consumers view.
+1973|1.0|1.0|Clinical Genetics|Presymptomatic detection and genetic counselling in myotonic dystrophy
+1974|12.0|6.0|Annals of Human Genetics|The use of biochemical data in screening for mutant alleles and in genetic counselling*
+1975|2.0|1.0||Prenatal diagnosis of congenital diseases
+1976|9.0|1.0|Clinical Genetics|Familial pericentric inversion of chromosome 19, inv(19) (p13q13) with a note on genetic counseling of pericentric inversion carriers
+1977|5.0|0.0|Journal of Clinical Pathology|The need for a national policy for the management of inherited metabolic disease
+1978|10.0|1.0|Diabetologia|Type I diabetes mellitus
+1979|10.0|1.0|American Journal of Medical Genetics|Sib risks of anencephaly and spina bifida in British Columbia
+1980|6.0|1.0|Journal of Human Genetics|Genetic polymorphism of the second component of human complement (C2) in Japanese
+1981|14.0|0.0|Genetics|DNA polymorphism detectable by restriction endonucleases.
+1982|8.0|1.0|Journal of Human Genetics|Chromosome banding studies in 106 cases of chronic myelogenous leukemia
+1983|10.0|1.0|American Journal of Medical Genetics|Complex segregation analysis and computerassisted genetic risk assessment for Duchenne muscular dystrophy
+1984|17.0|1.0|American Journal of Medical Genetics|Age at clinical onset and at ultrasonographic detection of adult polycystic kidney disease: Data for genetic counselling
+1985|107.0|1.0|Nature|A highly polymorphic DNA marker linked to adult polycystic kidney disease on chromosome 16
+1986|9.0|2.0|American Journal of Medical Genetics|Psychological response to amniocentesis: I. Mood state and adaptation to pregnancy
+1987|23.0|3.0|American Journal of Medical Genetics|Linkage and genetic counselling for the fragile X using DNA probes 52A, F9, DX13, and ST14
+1988|19.0|1.0|Contact Dermatitis|Racial differences in sodium lauryl sulphate induced cutaneous irritation: black and white
+1989|23.0|2.0|American Journal of Medical Genetics|Predictive testing for Huntington disease: I. Description of a pilot project in British Columbia
+1990|15.0|2.0|American Journal of Medical Genetics|Factors Influencing the Reproductive Decision After Genetic Counseling
+1991|17.0|1.0|Contact Dermatitis|Basal transepidermal water loss, skin thickness, skin blood flow and skin colour in relation to sodiumlaurylsulphate induced irritation in normal skin
+1992|21.0|1.0|American Journal of Medical Genetics|Autosomal dominant polycystic kidney disease: New information for genetic counselling
+1993|77.0|1.0|JAMA|Genetic Counseling for Families With Inherited Susceptibility to Breast and Ovarian Cancer
+1994|23.0|2.0|Journal of Investigative Dermatology|Mutations in the H1 and 1A Domains in the Keratin 1 Gene in Epidermolytic Hyperkeratosis
+1995|44.0|2.0|Nature Genetics|Identification of murine loci associated with susceptibility to chronic experimental autoimmune encephalomyelitis.
+1996|46.0|1.0|The Lancet|Severe oligozoospermia resulting from deletions of azoospermia factor gene on Y chromosome
+1997|41.0|3.0|American Journal of Medical Genetics|Clinical spectrum and molecular diagnosis of Angelman and PraderWilli syndrome patients with an imprinting mutation
+1998|164.0|5.0|American Journal of Human Genetics|Quantitative analysis of fetal DNA in maternal plasma and serum: implications for noninvasive prenatal diagnosis.
+1999|90.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|A first-generation X-inactivation profile of the human X chromosome
+2000|70.0|5.0|Journal of Cell Biology|Coupling of Gab1 to C-Met, Grb2, and Shp2 Mediates Biological Responses
+2001|54.0|6.0|Molecular Biology and Evolution|Global Patterns of Human DNA Sequence Variation in a 10-kb Region on Chromosome 1
+2002|109.0|5.0|Journal of Human Genetics|Gene-based SNP discovery as part of the Japanese Millennium Genome Project: identification of 190 562 genetic variations in the human genome
+2003|98.0|6.0|European Journal of Human Genetics|Haplotype structure and association to Crohn's disease of CARD15 mutations in two ethnically divergent populations.
+2004|134.0|7.0|American Journal on Mental Retardation|Aging in Individuals With the FMR1 Mutation
+2005|122.0|8.0|Biochemical and Biophysical Research Communications|Src kinase regulation by phosphorylation and dephosphorylation
+2006|244.0|8.0|Nature Genetics|A common haplotype of interferon regulatory factor 5 (IRF5) regulates splicing and expression and is associated with increased risk of systemic lupus erythematosus.
+2007|119.0|8.0|PLOS ONE|Clinical implementation of chromosomal microarray analysis: summary of 2513 postnatal cases.
+2008|131.0|10.0|European Heart Journal|Sudden arrhythmic death syndrome: familial evaluation identifies inheritable heart disease in the majority of families
+2009|274.0|10.0|Nature Genetics|DNA methylation profiles in monozygotic and dizygotic twins
+2010|1325.0|9.0|PLOS ONE|T Cell Specific Adapter Protein (TSAd) Interacts with Tec Kinase ITK to Promote CXCL12 Induced Migration of Human and Murine T Cells

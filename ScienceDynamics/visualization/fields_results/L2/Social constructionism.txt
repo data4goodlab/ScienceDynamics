@@ -1,0 +1,51 @@
+----  Field Name Social constructionism: 
+----  Field Level 2.0: 
+----  Field Papers Number 10674:
+----  All time max citation paper: Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources., 2009, (6860.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|2.0|2.0|Botanical Review|Regeneration and vegetative propagation.
+1946|2.0|2.0|Review of Educational Research|Influence of Science and Technology on Education
+1963|3.0|3.0||Application of pushdown-store machines
+1966|1.0|1.0||New Tools for Improving and Evaluating The Effectiveness of Research
+1968|1.0|1.0|IEEE Spectrum|Human enhancement: Beyond the machine age
+1969|0|0.0|Socio-economic Planning Sciences|Role of science and technology in advancing development of newly industrializing states
+1972|0|0.0|Journal of Bioenergetics and Biomembranes|Oxidative Phosphorylation, A History of Unsuccessful Attempts: Is It Only An Experimental Problem?
+1973|2.0|1.0|Science Education|The flight from science reconsidered: Career choice of science and engineering in the 1950's and 1960's
+1974|0|0.0|Journal of Materials Science|The generation and measurement of aerosols
+1975|4.0|0.0||Structured organization of clinical data bases
+1976|0|0.0|Research Policy|Science and technology in the European communities: the history of the cost projects
+1977|3.0|0.0|Journal of Power Sources|Review on the leadacid battery science and technology
+1978|15.0|1.0|Water Resources Research|Empirical equations for some soil hydraulic properties
+1979|1.0|0.0|Research Policy|European policies on space science and technology 1960-1978
+1980|8.0|0.0|Omega-international Journal of Management Science|Policies as theories
+1981|5.0|0.0|Environmental Management|Environmental quality criteria: Some considerations
+1982|10.0|1.0|Culture, Medicine and Psychiatry|Models and practice in medicine: menopause as syndrome or life transition?
+1983|5.0|1.0|Nuclear Physics|Microscopic nuclear dissipation: (II). Damping of collective states in subspaces which include 2p-2h states
+1984|20.0|1.5|Review of Educational Research|The Formation of Ability Conceptions: Developmental Trend or Social Construction?
+1985|71.0|1.5|American Psychologist|The Social Constructionist Movement in Modern Psychology
+1986|30.0|0.5|international symposium on physical design|Extracting qualitative dynamics from experimental data
+1987|32.0|1.0|Zeolites|N.m.r. self-diffusion studies in zeolite science and technology
+1988|9.0|1.0|Journal of Personality and Social Psychology|Context-dependent automatic processing in depression: Accessibility of negative constructs with regard to self but not others.
+1989|70.0|1.0|Journal of the American Ceramic Society|Powder Processing Science and Technology for Increased Reliability
+1990|109.0|2.0|Journal of Materials Research|Surface, interface, and thin-film magnetism
+1991|27.0|1.5|Information Systems Research|Information Technology and the Structuring of Organizations
+1992|19.0|1.0|Educational Evaluation and Policy Analysis|The Case for Participatory Evaluation.
+1993|152.0|1.0|Journal of the American Ceramic Society|Ceramic Fuel Cells
+1994|145.0|2.0|Educational Researcher|Constructing Scientific Knowledge in the Classroom.
+1995|24.0|2.0|Development and Change|Dismantling the Divide Between Indigenous and Scientific Knowledge
+1996|23.0|1.0|Electrochimica Acta|Size effects of platinum particles on the electroreduction of oxygen
+1997|51.0|2.0|IEEE Transactions on Software Engineering|Composition validation and subjectivity in GenVoca generators
+1998|39.0|2.0|very large data bases|MindReader: Querying Databases Through Multiple Examples
+1999|32.0|2.0|American Journal of Distance Education|Factors Influencing Interaction in an Online Course
+2000|70.0|4.0|Nature|Shaped-pulse optimization of coherent emission of high-harmonic softX-rays
+2001|288.0|2.0|Composites Science and Technology|Advances in the science and technology of carbon nanotubes and their composites: a review
+2002|265.0|3.0|Nature|Coulomb blockade and the Kondo effect in single-atom transistors
+2003|170.0|4.0|Fuel|Science and technology of novel processes for deep desulfurization of oil refinery streams: a review 
+2004|112.0|3.0|Research Policy|The market economy, and the scientific commons
+2005|394.0|4.0|Nature|A general strategy for nanocrystal synthesis
+2006|335.0|5.0|Nature Protocols|In-gel digestion for mass spectrometric characterization of proteins and proteomes
+2007|1029.0|7.0|Nature Protocols|Locating proteins in the cell using TargetP, SignalP and related tools.
+2008|2058.0|5.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|5.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|1420.0|5.0|Nature Protocols|I-TASSER: a unified platform for automated protein structure and function prediction

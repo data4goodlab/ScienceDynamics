@@ -1,0 +1,59 @@
+----  Field Name Operations management: 
+----  Field Level 1.0: 
+----  Field Papers Number 56284:
+----  All time max citation paper: A conceptual model of service quality and its implications for future research, 1984, (5380.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1949|0|0.0|Digestive Diseases and Sciences|Trends in diagnosis, etiology and treatment of duodenal ulcer
+1955|13.0|13.0|Journal of Chemical Physics|Mass Spectrometric Investigation of Active Nitrogen
+1957|3.0|2.0|The Journal of Agricultural Science|Measurement of feed intake of grazing sheep: I. Rate of passage of inert reference materials through the ruminant digestive tract
+1961|7.0|3.5|Geochimica et Cosmochimica Acta|Chromium, cobalt and strontium in some Bureau of Standards rock reference samples
+1962|3.0|1.0||High-speed ferrite memories
+1963|6.0|6.0|Radiation Botany|Growth inhibition, mitotic cycle time and cell number in chronically irradiated root meristems of Pisum
+1964|0|0.0||A 10 5 -bit high-speed ferrite memory system: design and operation
+1965|6.0|3.0|Journal of Geophysical Research|Explorer 14 plasma probe observations during the October 7, 1962, geomagnetic disturbance
+1966|15.0|7.0|Journal of the ACM|Time-Shared Computer Operations With Both Interarrival and Service Times Exponential
+1967|8.0|1.0|Journal of Dairy Science|Evaluation of Radiocerium as a Nonabsorbed Reference Material for Determining Gastrointestinal Sites of Nutrient Absorption and Excretion in Cattle1
+1968|6.0|2.5|Chromosoma|On the triggering of mitosis and the division cycle of polynucleate cells
+1969|6.0|1.0|IEEE Transactions on Magnetics|Potential of superconductive josephson tunneling technology for ultrahigh performance memories and processors
+1970|7.0|2.0|Attention Perception & Psychophysics|Visual and tactual form complexity:A psychophysical approach to perceptual equivalence
+1971|9.0|1.0|Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)|The Duration of Meiosis
+1972|8.0|0.0|Journal of Investigative Dermatology|SOME OBSERVATIONS ON THE POST-PLUCKING DEPRESSION IN TRITIATED THYMIDINE UTILIZATION IN MOUSE SKIN AND SOME TENTATIVE CELL KINETIC DETERMINATIONS
+1973|8.0|0.0|The Annals of Thoracic Surgery|Recent Advances in the Operative Management of Massive Chest Trauma
+1974|10.0|1.0|The Journal of Comparative Neurology|Cycle times of the neural epithelial cells of various types of neuron in the rat. An autoradiographic study
+1975|14.0|1.0|The Journal of Comparative Neurology|Autoradiographic investigations of glial proliferation in the brain of adult mice. II. Cycle time and mode of proliferation of neuroglia and endothelial cells
+1976|12.0|1.0|international conference on software engineering|Quantitative evaluation of software quality
+1977|13.0|1.0|Radio Science|Refractive index variance and its height distribution in different air masses
+1978|25.0|1.0|ACM Transactions on Database Systems|Concepts and capabilities of a database computer\
+1979|17.0|2.0|ACM Computing Surveys|Models and Measurements for Quality Assessment of Software
+1980|25.0|1.0|Cancer|Long chemotherapyfree remissions after singlecycle timedsequential chemotherapy for acute myelocytic leukemia
+1981|10.0|1.0|IEEE Transactions on Biomedical Engineering|Autoregressive Estimation of Short Segment Spectra for Computerized EEG Analysis
+1982|24.0|1.0|Cancer|Impact of irradiation technique and tumor extent in tumor control and survival of patients with unresectable nonoat cell carcinoma of the lung. Report by the radiation therapy oncology group
+1983|23.0|2.0|Environmental Research|Assessment of exposure to lead and cadmium through biological monitoring:results of a UNEP/WHO global study
+1984|23.0|2.0|Journal of Chemical Physics|Multiple pulse NMR in rotating solids
+1985|23.0|1.0|Operations Research Letters|Symmetric queues served in cyclic order
+1986|53.0|1.0|Neuroscience|Amino acid neurotoxicity: Relationship to neuronal depolarization in rat cerebellar slices
+1987|76.0|1.0|Neuroscience|Quantitative autoradiography of dopamine D 2 sites in rat caudate-putamen: Localization to intrinsic neurons and not to neocortical afferents
+1988|52.0|2.0|IEEE Transactions on Software Engineering|Understanding and controlling software costs
+1989|87.0|2.0|architectural support for programming languages and operating systems|Available instruction-level parallelism for superscalar and superpipelined machines
+1990|27.0|1.0|Radiotherapy and Oncology|Quality assurance in radiotherapy by in vivo dosimetry. 1. Entrance dose measurements, a reliable procedure
+1991|74.0|2.0|Review of Educational Research|Learning with Media.
+1992|122.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A method for registration of 3-D shapes
+1993|76.0|2.0|Annals of Internal Medicine|The Risk of Determining Risk with Multivariable Models
+1994|70.0|2.0|Medical Care|Comparisons of the costs and quality of norms for the SF-36 health survey collected by mail versus telephone interview: results from a national survey
+1995|78.0|2.0|Proteins|Protein structure prediction by threading methods: evaluation of current techniques.
+1996|79.0|2.0|IEEE Transactions on Image Processing|An image multiresolution representation for lossless and lossy compression
+1997|81.0|2.0|Journal of Molecular Biology|Protein fold recognition by prediction-based threading.
+1998|78.0|2.0|Milbank Quarterly|How Good Is the Quality of Health Care in the United States?
+1999|251.0|3.0|Journal of Molecular Biology|GenTHREADER: an efficient and reliable protein fold recognition method for genomic sequences.
+2000|524.0|3.0|Journal of Molecular Biology|Enhanced genome annotation using structural profiles in the program 3D-PSSM.
+2001|123.0|4.0|JAMA|Improving the quality of medical care: building bridges among professional pride, payer profit, and patient satisfaction.
+2002|138.0|4.0|Remote Sensing of Environment|First operational BRDF, albedo nadir reflectance products from MODIS
+2003|414.0|5.0|Journal of Management Information Systems|The DeLone and McLean Model of Information Systems Success: A Ten-Year Update
+2004|294.0|5.0|IEEE Transactions on Fuzzy Systems|Granular prototyping in fuzzy clustering
+2005|213.0|4.0|acm ieee international conference on mobile computing and networking|Architecture and evaluation of an unplanned 802.11b mesh network
+2006|213.0|5.0|Foundations and Trends in Networking|Resource allocation and cross-layer control in wireless networks
+2007|241.0|4.0|International Journal of Remote Sensing|GLC2000: a new approach to global land cover mapping from Earth observation data
+2008|590.0|4.0|Journal of Geophysical Research|Climatology of mesopause region temperature, zonal wind, and meridional wind over Fort Collins, Colorado (41N, 105W), and comparison with model simulations
+2009|222.0|4.0|Medical Teacher|A best evidence systematic review of interprofessional education: BEME Guide no. 9
+2010|524.0|6.0|Journal of Applied Ecology|Distance software: design and analysis of distance sampling surveys for estimating population size

@@ -1,0 +1,52 @@
+----  Field Name Virtual reality: 
+----  Field Level 2.0: 
+----  Field Papers Number 15964:
+----  All time max citation paper: Floral dip : a simplified method for Agrobacterium-mediated transformation of Arabidopsis thaliana, 1998, (6225.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1964|0|0.0|Ergonomics|CONTROL-DISPLAY-SU13JECT INTERACTION AND PERFORMANCE ON A COMPLEX PERCEPTUAL-MOTOR TASK*
+1966|1.0|1.0|Proceedings of the IEEE|Frequency stability requirements for space communications and tracking systems
+1967|5.0|5.0|Annals of the New York Academy of Sciences|EFFECTS OF SMOKING UPON SUSTAINED PERFORMANCE IN A SIMULATED DRIVING TASK*
+1968|5.0|5.0|Acta Psychologica|The effect of set on perceived egocentric distance
+1969|17.0|2.0|Vision Research|The sensing of retinal size.
+1970|0|0.0|Electroencephalography and Clinical Neurophysiology|Effects of binocular fusion and binocular rivalry on cortically evoked potentials
+1971|1.0|0.5|Space Science Reviews|A geopause satellite system concept
+1972|3.0|3.0|Stochastics An International Journal of Probability and Stochastic Processes|An Optimal Phase Demodulator,
+1973|2.0|2.0|IEEE Transactions on Information Theory|Transient analysis of phase-locked tracking systems in the presence of noise
+1974|6.0|4.0|Deep Sea Research and Oceanographic Abstracts|The Minimode float tracking system
+1975|14.0|14.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Visual control of flight behaviour in the hoverfly Syritta pipiens L.
+1976|11.0|3.0|Brain Research|Modification of orientation and direction selectivity of cortical cells in kittens with monocular vision
+1977|2.0|1.0|IEEE Transactions on Biomedical Engineering|A Real-Time Video System for Tracking One-Dimensional Movements of Two Objects
+1978|15.0|1.0|Communications of The ACM|Automated welfare client-tracking and service integration: the political economy of computing
+1979|9.0|3.0|Brain Research|Inverted monocular vision prevents ocular dominance shift in kittens and impairs the functional state of visual cortex in adult cats
+1980|7.0|1.5|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Angular tracking and the optomotor response an analysis of visual reflex interaction in a hoverfly
+1981|17.0|5.0|Automatica|Unification of discrete time explicit model reference adaptive control designs
+1982|5.0|3.0|design automation conference|Automated Rip-Up and Reroute Techniques
+1983|9.0|1.0|IEEE Transactions on Geoscience and Remote Sensing|Maximum-Likelihood Seismic Deconvolution
+1984|1.0|1.0|Journal of Behavioral Medicine|Comparison of Behavioral Treatments for Raynaud's Disease,
+1985|8.0|2.0|Journal of Optimization Theory and Applications|Practical stabilizability of uncertain dynamical systems: Application to robotic tracking
+1986|2.0|1.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Accommodation in anuran Amphibia and its role in depth vision
+1987|11.0|3.0|Journal of Neuroscience Methods|Perfusion-fixation of the human brain for immunohistochemistry: comparison with immersion-fixation
+1988|8.0|2.0|Experimental Brain Research|Oculo-manual tracking of visual targets: control learning, coordination control and coordination model.
+1989|12.0|1.0|Pattern Recognition Letters|Determining perspective structures using hierarchical Hough transform
+1990|29.0|3.0|international conference on computer graphics and interactive techniques|Artificial reality with force-feedback: development of desktop virtual space with compact master manipulator
+1991|27.0|1.0||The virtual windtunnel-an environment for the exploration of three-dimensional unsteady flows
+1992|46.0|4.0|international conference on computer graphics and interactive techniques|High resolution virtual reality
+1993|106.0|4.5|international conference on computer graphics and interactive techniques|View interpolation for image synthesis
+1994|74.0|4.0|international conference on computer graphics and interactive techniques|IRIS performer: a high performance multiprocessing toolkit for real-time 3D graphics
+1995|237.0|5.0|international conference on computer graphics and interactive techniques|Plenoptic modeling: an image-based rendering system
+1996|104.0|4.0|IEEE Computer Graphics and Applications|Video mosaics for virtual environments
+1997|209.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Pfinder: real-time tracking of the human body
+1998|403.0|4.0|Plant Journal|Floral dip : a simplified method for Agrobacterium-mediated transformation of Arabidopsis thaliana
+1999|185.0|4.0|Proceedings of the IEEE|Multimedia watermarking techniques
+2000|394.0|3.0|international conference on computer communications|RADAR: an in-building RF-based user location and tracking system
+2001|202.0|4.0|IEEE Computer Graphics and Applications|Recent advances in augmented reality
+2002|235.0|4.0|Neuron|The Human Hippocampus and Spatial and Episodic Memory
+2003|216.0|4.0|Pattern Recognition|Recent developments in human motion analysis
+2004|94.0|4.0|Seminars in Radiation Oncology|Tracking moving organs in real time
+2005|195.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Online selection of discriminative tracking features
+2006|152.0|4.0|international conference on computer graphics and interactive techniques|Synthesizing realistic facial expressions from photographs
+2007|218.0|3.0|IEEE Transactions on Systems, Man, and Cybernetics|Gesture Recognition: A Survey
+2008|142.0|2.0|human factors in computing systems|Reality-based interaction: a framework for post-WIMP interfaces
+2009|235.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Monocular Pedestrian Detection: Survey and Experiments
+2010|241.0|4.0|Genome Biology|Quake: Quality-aware detection and correction of sequencing errors

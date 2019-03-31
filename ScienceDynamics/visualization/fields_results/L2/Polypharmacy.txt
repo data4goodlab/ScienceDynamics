@@ -1,0 +1,28 @@
+----  Field Name Polypharmacy: 
+----  Field Level 2.0: 
+----  Field Papers Number 1189:
+----  All time max citation paper: Updating the Beers Criteria for Potentially Inappropriate Medication Use in Older Adults: Results of a US Consensus Panel of Experts, 2003, (1146.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1977|4.0|4.0|Acta Psychiatrica Scandinavica|Polypharmacy among psychiatric patients
+1985|4.0|4.0|Acta Neurologica Scandinavica|An improvement in cognitive function following polypharmacy reduction in a group of epileptic patients.
+1991|2.0|1.0|Journal of Epilepsy|Cognitive function in adult epileptic patients on long-term sodium valproate
+1992|0|0.0|Acta Psychiatrica Scandinavica|Rationalizing neuroleptic polypharmacy in chronic schizophrenics: effects of changing to a single depot preparation
+1993|8.0|8.0|Toxicology|The effects of ether anaesthesia on oxidative stress in rats--dose response.
+1994|13.0|8.5|Biochemical Pharmacology|Relationship between cytochrome P450 2E1 and acetone catabolism in rats as studied with diallyl sulfide as an inhibitor
+1995|23.0|8.5|Gastroenterology|Cytochrome P450 2E1 and glutathione S-transferase M1 polymorphisms and susceptibility to hepatocellular carcinoma
+1996|13.0|5.0|Journal of Hepatology|Hepatotoxicity induced by iron overload and alcohol
+1997|23.0|4.0|Cancer Letters|Polymorphism of metabolizing genes and lung cancer histology: prevalence of CYP2E1 in adenocarcinoma
+1998|23.0|4.5|Journal of Hepatology|Cytochrome P4502E1 inducibility and hydroxyethyl radical formation among alcoholics
+1999|28.0|7.0|Biochemical and Biophysical Research Communications|Relationship between mRNA Levels Quantified by Reverse Transcription-Competitive PCR and Metabolic Activity of CYP3A4 and CYP2E1 in Human Liver
+2000|20.0|7.0|Journal of Public Health Dentistry|Medication and Dry Mouth: Findings from a Cohort Study of Older People
+2001|36.0|10.0|Free Radical Biology and Medicine|CYP2E1-dependent toxicity and oxidative stress in HepG2 cells 1,2
+2002|62.0|7.0|Gastroenterology|Alcohol and mitochondria: A dysfunctional relationship
+2003|290.0|9.0|JAMA Internal Medicine|Updating the Beers Criteria for Potentially Inappropriate Medication Use in Older Adults: Results of a US Consensus Panel of Experts
+2004|77.0|10.5|Alcohol|Alcoholic fatty liver: its pathogenesis and mechanism of progression to inflammation and fibrosis
+2005|51.0|6.0|Gastroenterology|Hepatitis C virus core protein, cytochrome P450 2E1, and alcohol produce combined mitochondrial injury and cytotoxicity in hepatoma cells.
+2006|87.0|11.0|Journal of the American Geriatrics Society|Polypharmacy and Prescribing Quality in Older People
+2007|133.0|9.0|The American Journal of Medicine|Fixed-Dose Combinations Improve Medication Compliance: A Meta-Analysis
+2008|126.0|11.5|Free Radical Biology and Medicine|CYP2E1 and oxidative liver injury by alcohol.
+2009|66.0|10.0|BMC Health Services Research|Fall-related injuries in a nursing home setting: is polypharmacy a risk factor?
+2010|191.0|14.0|JAMA|The Patient Who Falls: It's Always a Trade-off

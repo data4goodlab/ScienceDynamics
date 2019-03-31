@@ -1,0 +1,79 @@
+----  Field Name Developmental psychology: 
+----  Field Level 1.0: 
+----  Field Papers Number 114559:
+----  All time max citation paper: Adolescence-limited and life-course-persistent antisocial behavior: a developmental taxonomy, 1993, (3212.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1933|2.0|2.0|American Heart Journal|Cardiac hypertrophy of unknown etiology in young adults: A clinical and pathological study of three cases
+1935|3.0|3.0|American Journal of Anatomy|Biological effects of roentgen rays. The determination of critical periods in mammalian development with xrays
+1939|1.0|1.0|Journal American Water Works Association|Studies on Media for Coliform Organisms.
+1940|4.0|3.0|Journal of Experimental Zoology|An experimental study of the relation of sensory control to motor function in amphibian limbs
+1941|0|0.0|Psychological Review|The need for a phenomenological system of psychology.
+1942|6.0|3.0|American Journal of Anatomy|A quantitative study of the hemopoietic organs of young adult albino rats
+1943|0|0.0|Psychometrika|A general theory of learning and conditioning: Part II
+1944|1.0|1.0|JAMA|Infectious Hepatitis in the Middle East. A Clinical Review of 200 Cases seen in a Military Hospital.
+1945|0|0.0|American Heart Journal|Traumatic rupture of the normal aorta in young adults: Report of two cases
+1946|3.0|3.0|American Heart Journal|Hypertrophy of the heart of unknown etiology in young adults: Report of four cases with autopsies
+1947|6.0|3.0|Journal of Dairy Science|Changes in Cell Volume and in Concentration of Hemoglobin and of Several Inorganic Constituents of the Blood of Calves During Early Postnatal Development1
+1948|0|0.0|Digestive Diseases and Sciences|Small intestinal deficiency pattern: Current Status
+1949|1.0|1.0|Annals of the New York Academy of Sciences|AN EVALUATION OF VITAMIN E DEFICIENCY IN THE YOUNG ADULT RAT
+1950|4.0|1.5||Parthenogenesis in animals.
+1952|0|0.0|Review of Educational Research|Chapter V: Learning Theory
+1953|0|0.0|American Heart Journal|Flicker fusion nitroglycerin tests in normal young adults
+1954|8.0|3.0|The American Journal of Medicine|Comparative effects of aspirin, ACTH and cortisone on the acute course of rheumatic fever in young adult males
+1955|1.0|1.0|Bulletin of Entomological Research|The Powers of Survival of storage and domestic Pests under Winter Conditions in Britain.
+1956|3.0|3.0|Child Development|Some Research Problems for Developmental Psychology
+1957|9.0|5.0|The American Journal of Medicine|The effect of 5-hydroxytryptamine on intestinal motor function in man
+1958|5.0|2.5|The New England Journal of Medicine|Adenovirus Infections in Children and Young Adults: With Comments on Vaccination
+1959|9.0|2.0|Nature|Ageing of Human Cartilage
+1960|6.0|0.0|Psychological Review|Learning theory and the acquisition of values
+1961|17.0|4.5|American Heart Journal|The vectorcardiogram in normal young adults Frank lead system
+1962|4.0|0.0|Journal of Child Psychology and Psychiatry|LEARNING THEORY AND CHILD PSYCHOLOGY: THERAPEUTIC POSSIBILITIES
+1963|13.0|1.0|Parasitology|The life history and development of Amplicaecum robertsi , an ascaridoid nematode of the carpet python ( Morelia spilotes variegatus ). I. Morphology and functional significance of larval stages
+1964|7.0|1.0|Animal Behaviour|Changes in chicks' responses to novel moving objects over the sensitive period for imprinting
+1965|9.0|1.0|British Journal of Nutrition|The effect of the interaction of dietary protein and calcium on the growth and maintenance of the bones of young, adult and aged rats
+1966|19.0|5.0|Virology|Functional significance of sialidase during influenza virus multiplication
+1967|12.0|1.0|The Journal of Comparative Neurology|Motor function and the corticospinal tracts in the dog and raccoon
+1968|8.0|1.0|British Journal of Nutrition|Endogenous nitrogen metabolism and plasma free amino acids in young adults given a protein-free diet
+1969|40.0|1.0|Journal of Experimental Child Psychology|Conservation acquisition: A problem of learning to attend to relevant attributes
+1970|36.0|1.5|Psychological Review|On the generality of the laws of learning
+1971|23.0|2.0|Physiology & Behavior|Sex differences in body weight and eating: Organization and activation by gonadal hormones in the rat
+1972|32.0|2.5|Journal of Verbal Learning and Verbal Behavior|Information Processing Strategies Used in the Encoding of Linear Orderings.
+1973|40.0|4.0|Journal of Verbal Learning and Verbal Behavior|Recall for words as a function of semantic, graphic, and syntactic orienting tasks
+1974|17.0|3.0|Educational Researcher|The Decline and Fall of the Laws of Learning.
+1975|50.0|2.0|Psychological Review|A Theory of Attention: Variations in the Associability of Stimuli with Reinforcement.
+1976|45.0|3.0|Behaviour Research and Therapy|The learning theory model of neurosisA new approach
+1977|94.0|3.0|Child Development|Challenges to a Science of Developmental Psychology.
+1978|51.0|3.0|Cognitive Psychology|Fact Retrieval and the Paradox of Interference.
+1979|81.0|2.0|The Journal of Comparative Neurology|Preservation of binocularity after monocular deprivation in the striate cortex of kittens treated with 6Hydroxydopamine
+1980|145.0|3.0|Psychological Review|A theory of reading: From eye fixations to comprehension
+1981|155.0|3.0|Behavioral and Brain Sciences|Contrasting approaches to a theory of learning
+1982|195.0|2.0|Psychological Review|How Does a Brain Build a Cognitive Code?
+1983|99.0|2.0|Nature|NEUROPEPTIDE-Y DISTRIBUTION IN HUMAN-BRAIN
+1984|50.0|3.0|Child Development|The Domain of Developmental Psychopathology.
+1985|87.0|3.0||Direct manipulation interfaces
+1986|120.0|3.0|Nature|Modulation of visual cortical plasticity by acetylcholine and noradrenaline.
+1987|144.0|2.0|Psychological Review|Recognition-by-components: a theory of human image understanding.
+1988|97.0|2.0|Child Development|Children's Understanding of Representational Change and Its Relation to the Understanding of False Belief and the Appearance-Reality Distinction.
+1989|146.0|3.0|Child Development|Small-Scale Deceit: Deception as a Marker of Two-, Three-, and Four-Year-Olds' Early Theories of Mind.
+1990|110.0|2.0|Educational Researcher|Conceptions of Educational Achievement
+1991|131.0|3.0|Machine Learning|Instance-Based Learning Algorithms
+1992|165.0|3.0|Cognition|Domain specificity in conceptual development: neuropsychological evidence from autism.
+1993|149.0|3.0|Psychological Review|Adolescence-limited and life-course-persistent antisocial behavior: a developmental taxonomy
+1994|145.0|3.0|Educational Researcher|Constructing Scientific Knowledge in the Classroom.
+1995|133.0|4.0|The Lancet|Effect of GPi pallidotomy on motor function in Parkinson's disease
+1996|205.0|4.0|Cell|Two Critical Periods of Sonic Hedgehog Signaling Required for the Specification of Motor Neuron Identity
+1997|175.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Reduced stress defense in heme oxygenase 1-deficient cells
+1998|242.0|5.0|Brain Research Reviews|What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience?
+1999|230.0|6.0|Psychological Review|The role of theories in conceptual coherence
+2000|164.0|6.0|Nature|Experience-dependent plasticity of dendritic spines in the developingrat barrel cortex in vivo
+2001|301.0|7.0|The Journal of Comparative Neurology|Adult neurogenesis produces a large pool of new granule cells in the dentate gyrus
+2002|326.0|8.0|Neuroscience & Biobehavioral Reviews|Emotion and motivation: the role of the amygdala, ventral striatum, and prefrontal cortex.
+2003|275.0|8.0|Annual Review of Neuroscience|Plasticity and Primary Motor Cortex
+2004|368.0|9.0|Psychological Review|An Integrated Theory of the Mind
+2005|485.0|9.0|Behavioral and Brain Sciences|Understanding and sharing intentions: The origins of cultural cognition
+2006|984.0|8.0|Nature|Resveratrol improves health and survival of mice on a high-calorie diet
+2007|388.0|8.0|Environmental and Experimental Botany|Roles of glycine betaine and proline in improving plant abiotic stress resistance
+2008|622.0|10.0|Journal of Vision|Averaging facial expression over time.
+2009|1000.0|12.0|Nature Neuroscience|Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse
+2010|1413.0|13.0|PLOS ONE|Deep Sequencing of the Vaginal Microbiota of Women with HIV

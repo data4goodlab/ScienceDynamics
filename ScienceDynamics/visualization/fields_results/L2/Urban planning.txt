@@ -1,0 +1,53 @@
+----  Field Name Urban planning: 
+----  Field Level 2.0: 
+----  Field Papers Number 32394:
+----  All time max citation paper: Landscape structure shapes habitat finding ability in a butterfly, 2012, (1954.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1961|1.0|1.0|Journal of Dairy Science|Net Energy of Pineapple Bran and Pineapple Hay When Fed to Lactating Dairy Cows1,2
+1965|1.0|1.0|Photogrammetria|Use of air photographs for interpreting and mapping rural land use in the United States
+1966|0|0.0|Scottish Geographical Journal|Some problems of regional planning in predominantly rural environments; the French experience in Corsica
+1967|1.0|0.5|Photogrammetria|Airphoto interpretation of rural land use in Western Europe
+1968|2.0|1.5|Urban Studies|Models in urban planning : a synoptic review of recent literature
+1969|5.0|4.0|Proceedings of the IEEE|Pattern recognition with measurement space and spatial clustering for multiple images
+1970|4.0|1.0|Agricultural Meteorology|Measurements of non-potential evaporation from wheat.
+1971|11.0|1.0|Communications of The ACM|A policy-driven scheduler for a time-sharing system
+1972|6.0|2.0|Urban Studies|Recent Developments in Land-use Modelling: A Review of British Research
+1973|26.0|1.0||A resource sharing executive for the ARPANET
+1974|4.0|1.0|Remote Sensing of Environment|Combined spectral and spatial processing of ERTS imagery data
+1975|32.0|2.0|Science|Energy and land constraints in food protein production
+1976|11.0|0.0|Oecologia|Forest size and avian diversity in New Jersey woodlots with some land use implications
+1977|9.0|0.5|Journal of Urban Economics|On models of racial prejudice and urban residential structure
+1978|24.0|1.0|Journal of Environmental Economics and Management|Hedonic housing prices and the demand for clean air
+1979|16.0|1.0|Atmospheric Environment|Estimated dry deposition velocities of sulfur over the eastern United States and surrounding regions
+1980|11.0|1.0|Environmental Conservation|Environmental ranking of Amazonian development projects in Brazil
+1981|13.0|1.0|Regional Science and Urban Economics|Dynamics of land-use for a closed city
+1982|13.0|1.0|Management Science|Modeling to Generate Alternatives: The HSJ Approach and an Illustration Using a Problem in Land Use Planning
+1983|15.0|1.0|Agricultural Water Management|Seasonal variations in nitrate leaching in structured clay soils under mixed land use
+1984|38.0|1.0|international conference on computer graphics and interactive techniques|An adaptive subdivision algorithm and parallel architecture for realistic image synthesis
+1985|13.0|1.0|Remote Sensing of Environment|Inferring hemispherical reflectance of the earth's surface for global energy budgets from remotely sensed nadir or directional radiance values
+1986|31.0|1.0|Strategic Management Journal|The dominant logic: A new linkage between diversity and performance
+1987|37.0|1.0|Landscape Ecology|Neutral models for the analysis of broad-scale landscape pattern
+1988|24.0|2.0|international conference on computer graphics and interactive techniques|Hierarchical B-spline refinement
+1989|30.0|1.0|Geochimica et Cosmochimica Acta|Trace-element zoning in garnets from sheared mantle xenoliths
+1990|27.0|1.0|Landscape Ecology|Influence of landscape structure on local and regional climate
+1991|18.0|1.0|Journal of Geophysical Research|Soil emissions of nitric oxide in a seasonally dry tropical forest of Mxico
+1992|47.0|1.0|Conservation Biology|Disturbance, Diversity, and Invasion: Implications for Conservation
+1993|32.0|2.0|Global Biogeochemical Cycles|Comparison of carbon dynamics in tropical and temperate soils using radiocarbon measurements
+1994|87.0|2.0|Ecology|Beyond global warming: Ecology and global change
+1995|113.0|2.0|Global Change Biology|Terrestrial ecosystems and the carbon cycle
+1996|40.0|2.0|Ecological Applications|Land use and avian species diversity along an urban gradient.
+1997|54.0|3.0|Geoderma|A comparison of the performance of nine soil organic matter models using datasets from seven long-term experiments
+1998|57.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Climate forcings in the Industrial era
+1999|169.0|4.0|Nature|Large-scale impoverishment of Amazonian forests by logging and fire
+2000|108.0|5.0|Nature|Annual fluxes of carbon from deforestation and regrowth in the BrazilianAmazon
+2001|238.0|4.0|Nature|Recent patterns and mechanisms of carbon exchange by terrestrial ecosystems
+2002|128.0|5.0|American Journal of Preventive Medicine|How the built environment affects physical activity: Views from urban planning
+2003|271.0|6.0|Annual Review of Ecology, Evolution, and Systematics|THE ECOLOGY OF INTERFACES:Riparian Zones
+2004|274.0|6.0|American Journal of Preventive Medicine|Obesity relationships with community design, physical activity, and time spent in cars
+2005|244.0|7.0|Nature|Carbon losses from all soils across England and Wales 1978|[ndash]|2003
+2006|369.0|7.0|Biological Reviews|Freshwater biodiversity: importance, threats, status and conservation challenges
+2007|199.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Quantifying the biodiversity value of tropical primary, secondary, and plantation forests
+2008|1271.0|7.0|Science|Land Clearing and the Biofuel Carbon Debt
+2009|636.0|8.0|Nature Geoscience|Trends in the sources and sinks of carbon dioxide
+2010|901.0|8.0|Renewable & Sustainable Energy Reviews|Biofuels from microalgae--A review of technologies for production, processing, and extractions of biofuels and co-products

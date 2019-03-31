@@ -1,0 +1,80 @@
+----  Field Name Nuclear medicine: 
+----  Field Level 1.0: 
+----  Field Papers Number 34242:
+----  All time max citation paper: Labeling deoxyribonucleic acid to high specific activity in vitro by nick translation with DNA polymerase I., 1977, (4672.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1928|13.0|13.0|JAMA|Clinical Experience with Irradiated Ergosterol.
+1930|4.0|1.0|JAMA|VIOSTEROL (IRRADIATED ERGOSTEROL): PROPHYLACTIC AND THERAPEUTIC DOSAGE
+1931|1.0|1.0|JAMA Internal Medicine|THE INFLUENCE OF SOLAR RAYS ON METABOLISM: WITH SPECIAL REFERENCE TO SULPHUR AND TO PELLAGRA IN SOUTHERN UNITED STATES
+1932|3.0|3.0|JAMA|MILK IRRADIATED BY THE CARBON ARC LAMP: A CLINICAL AND LABORATORY STUDY OF RICKETS
+1934|4.0|4.0|Journal of Dairy Science|Irradiated Milk: The Transmission and Antirachitic Activation of Milk Films by Ultra-Violet Radiations
+1935|2.0|1.5|Archives of Surgery|EFFECT OF CARBON ARC RADIATION ON HEALING OF BONE
+1938|4.0|2.0|JAMA|THE USE OF VITAMIN D PREPARATIONS IN THE PREVENTION AND TREATMENT OF DISEASE
+1940|20.0|4.0|Journal of Genetics|An analysis of the process of structural change in chromosomes of Drosophila.
+1941|7.0|7.0|JAMA Pediatrics|EFFECT OF ULTRAVIOLET IRRADIATION OF AIR ON INCIDENCE OF INFECTIONS IN AN INFANTS' HOSPITAL
+1942|4.0|4.0|Parasitology|The inactivation of plant viruses by radiations.
+1943|6.0|6.0|Journal of Dairy Science|Observations on the Ascorbic Acid Content of Evaporated Milk*
+1947|1.0|1.0|JAMA|THE USE OF ISOTOPES IN MEDICAL RESEARCH
+1948|1.0|1.0|Journal of Applied Physics|Measurement by Radioactive Tracers of Diffusion in Liquids
+1949|3.0|2.0|JAMA Internal Medicine|Radioactive isotopes in the study of peripheral vascular disease. I. Derivation of a circulatory index
+1950|2.0|0.0|American Journal of Botany|Biochemical mutant strains of Neurospora produced by physical and chemical treatment.
+1951|6.0|1.5|Journal of Applied Physics|The Mathematical Basis of the Interpretation of Tracer Experiments in Closed SteadyState Systems
+1953|2.0|1.0|Journal of Dairy Science|Studies of Heated Milk. V. The Reaction of Lactose with Milk Protein as Shown by Lactose -1-C141
+1954|3.0|1.0|American Journal of Public Health|Immunogenicity Studies in Human Subjects of Trivalent Tissue Culture Poliomyelitis Vaccine inactivated by Ultraviolet Irradiation.
+1955|3.0|3.0|Radiation Research|THE DIRECT ACTION OF FAST CHARGED PARTICLES ON HYALURONIC ACID, HYALURONIDASE, AND A COMBINATION OF THE ENZYME AND SUBSTRATE
+1956|11.0|1.0|JAMA|LONGEVITY AND CAUSES OF DEATH FROM IRRADIATION IN PHYSICIANS
+1957|6.0|2.5|Annals of the New York Academy of Sciences|MODIFICATION OF THE IMMUNE RESPONSE BY RADIATION AND CORTISONE
+1958|6.0|1.0|Nature|A Theory of Antibody Formation Involving Eosinophils and Reticuloendothelial Cells
+1959|3.0|0.0|The International Journal of Applied Radiation and Isotopes|Comparative metabolism of strontium and calcium in man
+1960|22.0|1.0|Journal of Dairy Science|Structure and Synthesis of Milk Fat. I. Gas Chromatographic Analysis1,2
+1961|32.0|1.0|Journal of Chemical Physics|Photoionization of Alkanes. Dissociation of Excited Molecular Ions
+1962|19.0|1.0|Geochimica et Cosmochimica Acta|RADIOACTIVE SPECIES PRODUCED BY COSMIC RAYS IN THE AROOS IRON METEORITE
+1963|39.0|2.0|Nuclear Physics|Excitation of collective optupole states in the Pd-Sm region
+1964|24.0|2.0|Nuclear Physics|Nuclear resonance fluorescence from light and medium weight nuclei
+1965|28.0|1.0|Journal of Molecular Biology|EFFECTS OF ULTRAVIOLET LIGHT ON THE TEMPLATE PROPERTIES OF POLYCYTIDYLIC ACID
+1966|42.0|1.0|Journal of Molecular Biology|Pyrimidine dimers in ultraviolet-irradiated DNA's
+1967|14.0|1.0|Journal of Clinical Investigation|Concomitant Alterations of Sodium Flux and Membrane Phospholipid Metabolism in Red Blood Cells: Studies in Hereditary Spherocytosis*
+1968|23.0|1.0|Virology|Defective phage formation by lysogens of integration deficient phage P22 mutants
+1969|38.0|2.0|Journal of Geophysical Research|Abyssal carbon and radiocarbon in the Pacific
+1970|52.0|2.0|Geochimica et Cosmochimica Acta|Noble gases in carbonaceous chondrites
+1971|53.0|1.0|Earth and Planetary Science Letters|Lunar chronology and evolution from Rb-Sr studies of Apollo 11 and 12 samples
+1972|24.0|2.0|Journal of Geophysical Research|Interaction of solar and galactic cosmicray particles with the Moon
+1973|30.0|2.0|Journal of Immunological Methods|A miniaturized mouse mixed leukocyte culture in serum-free and mouse serum supplemented media
+1974|43.0|2.0|Earth and Planetary Science Letters|Isotopic evidence for a terminal lunar cataclysm
+1975|35.0|2.0|Journal of Catalysis|The catalytic synthesis of hydrocarbons from H2CO mixtures over the group VIII metals: I. The specific activities and product distributions of supported metals
+1976|32.0|2.0|Cancer|Mantle irradiation in Hodgkin's disease. An analysis of technique, tumor eradication, and complications.
+1977|589.0|2.0|Journal of Molecular Biology|Labeling deoxyribonucleic acid to high specific activity in vitro by nick translation with DNA polymerase I.
+1978|59.0|2.0|The New England Journal of Medicine|Coronary vasospasm as a possible cause of myocardial infarction: a conclusion derived from the study of preinfrarction angina
+1979|57.0|2.0|Journal of Geophysical Research|The mean age of mantle and crustal reservoirs
+1980|72.0|2.0|Earth and Planetary Science Letters|Sm-Nd isotopic evolution of chondrites
+1981|46.0|3.0|Archives of General Psychiatry|Platelet 2-Adrenergic Receptors in Major Depressive Disorder: Binding of Tritiated Clonidine Before and After Tricyclic Antidepressant Drug Treatment
+1982|72.0|3.0|Geochimica et Cosmochimica Acta|Solar-system abundances of the elements
+1983|56.0|3.0|Microbiology|Cloning and Expression of the Tyrosinase Gene from Streptomyces antibioticus in Streptomyces lividans
+1984|168.0|2.0|Life Sciences|Characterization of the binding of 3 H-SCH 23390, a selective D-1 receptor antagonist ligand, in rat striatum
+1985|130.0|2.0|The New England Journal of Medicine|Five-year results of a randomized clinical trial comparing total mastectomy and segmental mastectomy with or without radiation in the treatment of breast cancer.
+1986|145.0|3.0|Trends in Biochemical Sciences|Promoter-specific activation of RNA polymerase II transcription by Sp1
+1987|414.0|3.0|Nature|Glycine potentiates the NMDA response in cultured mouse brain neurons
+1988|53.0|2.0|International Journal of Radiation Oncology Biology Physics|A system for stereotactic radiosurgery with a linear accelerator
+1989|88.0|2.0|Journal of Cell Biology|Ciliary neurotrophic factor induces cholinergic differentiation of rat sympathetic neurons in culture.
+1990|81.0|2.0|Journal of the American College of Cardiology|Single photon emission computed tomography with thallium-201 during adenosine-induced coronary hyperemia: correlation with coronary arteriography, exercise thallium imaging and two-dimensional echocardiography.
+1991|89.0|2.0|International Journal of Radiation Oncology Biology Physics|Tolerance of normal tissue to therapeutic irradiation.
+1992|171.0|2.0|Science|Identification of Heregulin, a Specific Activator of p185erbB2
+1993|81.0|3.0|Science|Shutdown of class switch recombination by deletion of a switch region control element
+1994|109.0|2.0|IEEE Transactions on Medical Imaging|Accelerated image reconstruction using ordered subsets of projection data
+1995|73.0|3.0|Science|Elongin (SIII): a multisubunit regulator of elongation by RNA polymerase II
+1996|610.0|3.0|Cell|The Transcriptional Coactivators p300 and CBP Are Histone Acetyltransferases
+1997|177.0|3.0|Neuron|Mice lacking p35, a neuronal specific activator of Cdk5, display cortical lamination defects, seizures, and adult lethality.
+1998|160.0|3.0|The EMBO Journal|CpGDNAspecific activation of antigenpresenting cells requires stress kinase activity and is preceded by nonspecific endocytosis and endosomal maturation
+1999|232.0|4.0|Nature|Commitment to the B-lymphoid lineage depends on the transcription factor Pax5
+2000|204.0|4.0|Medicine and Science in Sports and Exercise|Compendium of physical activities: an update of activity codes and MET intensities.
+2001|217.0|4.0|Nucleic Acids Research|Quantitative analysis of mRNA amplification by in vitro transcription.
+2002|179.0|5.0|Nature|A component of innate immunity prevents bacterial biofilm development
+2003|248.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Evidence for a lack of DNA double-strand break repair in human cells exposed to very low x-ray doses
+2004|251.0|6.0|Radiocarbon|IntCal04 terrestrial radiocarbon age calibration, 0-26 cal kyr BP.
+2005|442.0|5.0|Nature|Exogenous and endogenous glycolipid antigens activate NKT cells during microbial infections
+2006|495.0|5.0|Brain|The precuneus: a review of its functional anatomy and behavioural correlates
+2007|444.0|6.0|Cancer Cell|Molecular Definition of Breast Tumor Heterogeneity
+2008|319.0|5.0|Radiology|Effective Doses in Radiology and Diagnostic Nuclear Medicine: A Catalog1
+2009|619.0|7.0|Nature|Driving fast-spiking cells induces gamma rhythm and controls sensory responses
+2010|322.0|6.0|Microbiology|Metals, minerals and microbes: geomicrobiology and bioremediation

@@ -1,0 +1,61 @@
+----  Field Name Agricultural science: 
+----  Field Level 1.0: 
+----  Field Papers Number 6460:
+----  All time max citation paper: Toxoplasma gondii: from animals to humans., 2000, (1069.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1945|0|0.0|The Journal of Agricultural Science|The respiration rate and loss of dry matter from stored bran
+1946|6.0|6.0|Journal of Dairy Science|The Relative Importance of High Temperature and High Humidity as Factors Influencing Respiration Rate, Body Temperature, and Pulse Rate of Dairy Cows
+1950|0|0.0|Obituary Notices of Fellows of The Royal Society (1932-1954)|Rowland Harry Biffen 1874-1949.
+1953|1.0|1.0|Journal of Dairy Science|Effects of Seasonal Climatic Changes on Certain Physiological Reactions, Semen Production and Fertility of Dairy Bulls
+1954|2.0|1.0|New Phytologist|THE EFFECT OF ARTIFICIAL WILTING ON THE SUGAR CONTENT AND RESPIRATION RATE OF MATURING GREEN PEAS
+1957|2.0|2.0|American Journal of Potato Research|THE RELATION OF PHYSICAL PROPERTIES AND CHEMICAL COMPOSITION TO MEALINESS IN THE POTATO. II. CHEMICAL COMPOSITION 1
+1962|2.0|2.0|Nature|Respiration-rates of Bacteria, Bean Roots, and Bean Root Mitochondria as a Function of Oxygen Concentration
+1963|1.0|0.0|Biologia Plantarum|The distribution pattern of transpiration rate, water saturation deficit, stomata number and size, photosynthetic and respiration rate in the area of the tobacco leaf blade
+1964|3.0|0.0|Archives of Microbiology|Relationship between Substrate Concentration, Growth Rate, and Respiration Rate of Escherichia coli in Continuous Culture*
+1965|6.0|1.0|Journal of Dairy Science|Effects of Zinc Deficiency per se on Feed Efficiency, Serum Alkaline Phosphatase, Zinc in Skin, Behavior, Greying, and other Measurements in the Holstein Calf1
+1966|1.0|1.0|Journal of Food Science|Relation of Pectic and Fatty Acid Changes to Respiration Rate During Ripening of Avocado Fruits
+1967|3.0|0.5|Microbiology|The Influence of Dissolved Oxygen Concentration on the Respiration and Glucose Metabolism of Klebsiella aerogenes during Growth
+1968|5.0|3.5|Planta|The Gibberellin Content and early Seedling Growth of Plants of Phaseolus vulgaris Treated with the Growth Retardant CCC
+1969|1.0|0.5||OXYGEN CONSUMPTION AND RESPIRATORY ENERGETICS IN THE SPINY LOBSTER, PANULIRUS INTERRUPTUS (RANDALL)
+1970|4.0|0.5|Marine Biology|The ecophysiological complex of Bathyporeia pilosa and B. pelagica (Crustacea: Amphipoda). I. Respiration rates
+1971|5.0|1.0|Biotechnology and Bioengineering|Oxygen mass transfer and oxygen respiration rate measurements utilizing fast response oxygen electrodes
+1972|8.0|1.0|Planta|Embryogenesis and Germination in Rye (Secale cereale L.) II. Biochemical and Fine Structural Changes during Germination
+1973|13.0|3.0|Psychophysiology|Personality, Psychophysiology, and Performance
+1974|7.0|2.5|Plant and Soil|Heavy metal pollution and soil enzymatic activity
+1975|6.0|1.0|Comparative Biochemistry and Physiology Part A: Physiology|Respiration rates and ATP concentrations in the excised gills of the blue crab as a function of salinity
+1976|20.0|4.0|Psychophysiology|Feedback Effects and Respiratory Involvement in Voluntary Control of Heart Rate
+1977|16.0|2.5|Marine Biology|Photosynthesis, photorespiration, and dark respiration in eight species of algae
+1978|19.0|4.0|Marine Biology|Photoadaptation of photosynthesis in Gonyaulax polyedra
+1979|8.0|1.0|Oecologia|A simulation model of Bouteloua gracilis biomass dynamics on the North American shortgrass prairie
+1980|14.0|3.0|Marine Biology|Respiration and physiological state in marine bacteria
+1981|10.0|2.0|Marine Biology|Primary productivity and the flux of dissolved organic matter in several marine environments
+1982|20.0|2.0|Limnology and Oceanography|The effect of food concentration on swimming patterns, feeding behavior, ingestion, assimilation, and respiration by Daphnia1
+1983|16.0|1.0|Psychophysiology|Cardiac and Metabolic Responses to Space Invaders: An Instance of MetabolicallyExaggerated Cardiac Adjustment?
+1984|15.0|3.0|Earth and Planetary Science Letters|The stable isotopic composition of modern soil carbonate and its relationship to climate
+1985|15.0|2.0|Journal of Phycology|LIGHT DEPENDENCE OF GROWTH AND PHOTOSYNTHESIS IN PHAEODACTYLUM TRICORNUTUM (BACILLARIOPHYCEAE)1
+1986|13.0|2.0|Marine Biology|Changes of respiration and biomass of spider crab ( Hyas araneus ) larvae during starvation
+1987|15.0|2.0|Polar Biology|Effects of temperature and day length on the mass balance of Antarctic phytoplankton
+1988|17.0|1.0|FEBS Journal|Altered relationship between protonmotive force and respiration rate in nonphosphorylating liver mitochondria isolated from rats of different thyroid hormone status
+1989|23.0|1.0|Geochimica et Cosmochimica Acta|Dissolution of calcite in deep-sea sediments: pH and O 2 microelectrode results
+1990|39.0|2.5|Oecologia|Carbon balance in tussock tundra under ambient and elevated atmospheric CO2.
+1991|37.0|2.0|Psychophysiology|Prediction of Tonic Parasympathetic Cardiac Control Using Respiratory Sinus Arrhythmia: The Need for Respiratory Control
+1992|23.0|2.0|Archives of Microbiology|Oxidation of H2, organic compounds and inorganic sulfur compounds coupled to reduction of O2 or nitrate by sulfate-reducing bacteria
+1993|18.0|3.5|Oecologia|Growth, biomass distribution and CO 2 exchange of northern hardwood seedlings in high and low light: relationships with successional status and shade tolerance
+1994|41.0|4.0|Oecologia|Photosynthesis-nitrogen relations in Amazonian tree species
+1995|42.0|3.0|Parasitology Today|Worm control and anthelmintic resistance: adventures with a model
+1996|36.0|3.0|Global Biogeochemical Cycles|The global ocean flux of particulate organic carbon: Areal distribution and magnitude
+1997|64.0|3.0|Journal of Geophysical Research|Seasonal variation of carbon dioxide, water vapor, and energy exchanges of a boreal black spruce forest
+1998|146.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Bcl-2 prevents apoptotic mitochondrial dysfunction by regulating proton flux
+1999|135.0|4.0|Biochimica et Biophysica Acta|Nitric oxide and mitochondrial respiration
+2000|106.0|3.0|International Journal for Parasitology|Toxoplasma gondii: from animals to humans.
+2001|77.0|4.0|Functional Ecology|Strategy shifts in leaf physiology, structure and nutrient content between species of high and lowrainfall and high and lownutrient habitats
+2002|81.0|4.0|Soil Biology & Biochemistry|Effects of dryingrewetting frequency on soil carbon and nitrogen transformations
+2003|92.0|5.0|Applied and Environmental Microbiology|Soil Type Is the Primary Determinant of the Composition of the Total and Active Bacterial Communities in Arable Soils
+2004|79.0|4.0|Biological Conservation|The role of agri-environment schemes and farm management practices in reversing the decline of farmland birds in England
+2005|163.0|4.0|Nature|Similar response of labile and resistant soil organic matter pools to changes in temperature
+2006|137.0|5.0|Nature|Universal scaling of respiratory metabolism, size and nitrogen in plants
+2007|65.0|5.0|Soil Biology & Biochemistry|Controls on soil nitrogen cycling and microbial community composition across land use and incubation temperature
+2008|156.0|4.0|Ecology Letters|Thermal adaptation of soil microbial respiration to elevated temperature
+2009|193.0|5.0|Nature|Carbon respiration from subsurface peat accelerated by climate warming in the subarctic
+2010|159.0|4.0|Psychophysiology|Using multilevel path analysis in analyzing 24h ambulatory physiological recordings applied to medically unexplained symptoms

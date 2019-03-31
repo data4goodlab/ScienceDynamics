@@ -1,0 +1,65 @@
+----  Field Name Experimental psychology: 
+----  Field Level 2.0: 
+----  Field Papers Number 31596:
+----  All time max citation paper: Significance analysis of microarrays applied to the ionizing radiation response, 2001, (6693.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1937|0|0.0|American Journal of Potato Research|Cultural and storage research with potatoes during 1936
+1938|1.0|1.0|Annals of Applied Biology|FIELD EXPERIMENTS ON THE CONTROL OF WIREWORMS
+1939|0|0.0|Journal of Helminthology|Field Experiments in Ayrshire on Control of Heterodera schachtii by the use of Chloroacetates
+1942|1.0|1.0|Biometrika|THE TRANSFORMATION OF DATA FROM ENTOMOLOGICAL FIELD EXPERIMENTS SO THAT THE ANALYSIS OF VARIANCE BECOMES APPLICABLE
+1953|0|0.0|Journal of Dairy Science|Fertility of Bovine Spermatozoa in Buffered Whole Egg Extenders Containing Penicillin, Streptomycin, Sulfonamides and Added Glucose
+1955|1.0|1.0|The Journal of Agricultural Science|Effects of nitrogen applied at different dates, and of other cultural treatments on eyespot, lodging and yield of winter wheat. Field experiment 1952
+1958|3.0|1.5|Geochimica et Cosmochimica Acta|The isotopic composition of the nitrogen in natural gases and associated crude oils
+1959|1.0|1.0|Annals of Applied Biology|EFFECTS OF PREVIOUS WHEAT CROPS, SEEDRATE AND NITROGEN ON EYESPOT, TAKEALL, WEEDS AND YIELDS OF TWO VARIETIES OF WINTER WHEAT: FIELD EXPERIMENT 195456
+1960|1.0|1.0|Annals of Applied Biology|Field experiments on cereal root eelworm.
+1961|0|0.0|Bulletin of Entomological Research|Field experiments on the control of wheat bulb fly, Leptohylemyia coarctata (Fall.)
+1962|7.0|6.0|Journal of Chronic Diseases|A note on the analysis of repeated measurements of the same subjects
+1963|2.0|1.0|Psychometrika|Test reliability and practice effects
+1964|6.0|3.0|Journal of Chemical Physics|GasPhase Radiolysis of nPentane. A Study of the Decompositions of the Parent Ion and Neutral Excited Pentane Molecule
+1965|8.0|4.0|Journal of Chemical Physics|Effect of Electrical Fields and Density in the Radiolysis of Ethane
+1966|5.0|2.0|Earth-Science Reviews|The significance of the aluminium silicates in metamorphism
+1967|3.0|0.0|Animal Behaviour|Communication among honey bees with field experience
+1968|8.0|2.0|American Educational Research Journal|The External Validity of Experiments
+1969|1.0|1.0|Oecologia|Field experiments on the movements of Apodemus sylvaticus L. using trapping and tracking techniques
+1970|14.0|6.0|Weed Research|FIELD EXPERIMENTS TO INVESTIGATE LONGTERM EFFECTS OF REPEATED APPLICATIONS OF MCPA, TRIALLATE, SIMAZINE AND LINURON: REPORT AFTER 6 YEARS
+1971|21.0|1.0|Journal of Personality and Social Psychology|Effects of Externally Mediated Rewards on Intrinsic Motivation.
+1972|45.0|1.0|Psychological Review|Recognition and Retrieval Processes in Free Recall.
+1973|46.0|1.0|Journal of Personality and Social Psychology|Undermining children's intrinsic interest with extrinsic rewards : A test of the "overjustification" hypothesis
+1974|15.0|1.0|Journal of Experimental Psychology|Depth of Processing Pictures of Faces and Recognition Memory.
+1975|131.0|3.0|Journal of Experimental Psychology: General|Depth of Processing and the Retention of Words in Episodic Memory.
+1976|121.0|4.0|Journal of Experimental Psychology: Animal Behavior Processes|Remembrance of Places Passed: Spatial Memory in Rats.
+1977|208.0|2.0|Psychological Review|Telling more than we can know: Verbal reports on mental processes
+1978|66.0|3.0|Journal of Experimental Psychology: General|Variations in Cerebral Organization as a Function of Handedness, Hand Posture in Writing, and Sex.
+1979|38.0|3.0|Journal of Verbal Learning and Verbal Behavior|Priming in episodic and semantic memory
+1980|49.0|3.0|Plant Ecology|Detrended Correspondence Analysis: An Improved Ordination Technique
+1981|31.0|3.0|Physiology & Behavior|Effects of scopolamine on radial maze performance in rats
+1982|45.0|2.0|American Journal of Primatology|Selfawareness and the emergence of mind in primates
+1983|104.0|2.0|Water Resources Research|Threedimensional stochastic analysis of macrodispersion in aquifers
+1984|149.0|2.0|Ecological Monographs|PSEUDOREPLICATION AND THE DESIGN OF ECOLOGICAL FIELD EXPERIMENTS
+1985|82.0|2.0|Psychological Bulletin|MANOVA method for analyzing repeated measures designs: an extensive primer.
+1986|58.0|2.0|Water Resources Research|Fundamental Problems in the Stochastic ConvectionDispersion Model of Solute Transport in Aquifers and Field Soils
+1987|102.0|2.0|Psychophysiology|The Continuing Problem of False Positives in Repeated Measures ANOVA in Psychophysiology: A Multivariate Solution
+1988|72.0|2.0|SIAM Journal on Computing|A digital signature scheme secure against adaptive chosen-message attacks
+1989|78.0|2.0|Annual Review of Neuroscience|The Attention System of the Human Brain
+1990|54.0|3.0|Plant Physiology|Carbon and nitrogen economy of 24 wild species differing in relative growth rate.
+1991|65.0|2.0|Behavioural Brain Research|The effects of cholinergic drugs and cholinergic-rich foetal neural transplants on alcohol-induced deficits in radial maze performance in rats
+1992|65.0|3.0|Journal of Geophysical Research|An overview of the First International Satellite Land Surface Climatology Project (ISLSCP) Field Experiment (FIFE)
+1993|80.0|2.0|Behavioral and Brain Sciences|The psychology of folk psychology
+1994|66.0|3.0|Brain Research|Repeated stress causes reversible impairments of spatial memory performance.
+1995|86.0|2.0|Statistical Science|Bayesian Computation and Stochastic Systems
+1996|72.0|3.0|Lipids|A randomized trial of visual attention of preterm infants fed docosahexaenoic acid until nine months.
+1997|42.0|3.0|Blood|Randomized comparison of DAT versus ADE as induction chemotherapy in children and younger adults with acute myeloid leukemia. Results of the Medical Research Council's 10th AML Trial (MRC AML10)
+1998|115.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A model of saliency-based visual attention for rapid scene analysis
+1999|152.0|4.0|Plant Cell and Environment|Tree responses to rising CO2 in field experiments: implications for the future forest
+2000|501.0|5.0|The Lancet|Irinotecan combined with fluorouracil compared with fluorouracil alone as first-line treatment for metastatic colorectal cancer: a multicentre randomised trial.
+2001|1703.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Significance analysis of microarrays applied to the ionizing radiation response
+2002|263.0|6.0|Nature|A satellite view of aerosols in the climate system
+2003|722.0|8.0|The New England Journal of Medicine|A randomized trial of bevacizumab, an anti-vascular endothelial growth factor antibody, for metastatic renal cancer.
+2004|234.0|7.0|Nurse Education Today|Qualitative content analysis in nursing research: Concepts, procedures and measures to achieve trustworthiness.
+2005|244.0|8.0|Nature|Carbon losses from all soils across England and Wales 1978|[ndash]|2003
+2006|176.0|8.0|JAMA|Adjuvant Radiotherapy for Pathologically Advanced Prostate Cancer: A Randomized Clinical Trial
+2007|330.0|7.0|Circulation|Triglycerides and the Risk of Coronary Heart Disease 10 158 Incident Cases Among 262 525 Participants in 29 Western Prospective Studies
+2008|944.0|8.0|Journal of Memory and Language|Mixed-effects modeling with crossed random effects for subjects and items
+2009|393.0|8.0|The Lancet|Catheter-based renal sympathetic denervation for resistant hypertension: a multicentre safety and proof-of-principle cohort study.
+2010|488.0|8.0|Ecological Applications|Global assessment of nitrogen deposition effects on terrestrial plant diversity: a synthesis

@@ -1,0 +1,46 @@
+----  Field Name Animal welfare science: 
+----  Field Level 2.0: 
+----  Field Papers Number 1135:
+----  All time max citation paper: Habits, Rituals, and the Evaluative Brain, 2008, (486.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1964|1.0|1.0|Psychophysiology|EGO STRENGTH AND RESPONSE STEREOTYPY
+1968|1.0|1.0|Developmental Psychobiology|Development of abnormal setereotyped behaviors
+1972|11.0|6.5|European Journal of Pharmacology|The induction and antagonism of central nervous system stimulant-induced stereotyped behavior in the cat
+1974|44.0|36.0|British Journal of Pharmacology|EVIDENCE FOR INVOLVEMENT OF 5HYDROXYTRYPTAMINE IN THE ACTIONS OF AMPHETAMINE
+1975|10.0|9.5|European Journal of Pharmacology|Effects of penfluridol and other drugs on apomorphine-induced stereotyped behavior in monkeys
+1976|15.0|3.5|British Journal of Pharmacology|EFFECTS OF DRUGS ACTING ON CEREBRAL 5HYDROXYTRYPTAMINE MECHANISMS ON DOPAMINEDEPENDENT TURNING BEHAVIOUR IN MICE
+1977|12.0|3.0|European Journal of Pharmacology|A slow-release silicone pellet for chronic amphetamine administration
+1978|12.0|5.0|European Journal of Pharmacology|The effects of phencyclidine on amphetamine stereotypy in rats
+1979|24.0|5.0|Progress in Neuro-psychopharmacology|A reexamination of apomorphine induced stereotypy in the rat in light of self administration experiments
+1980|28.0|3.0|Brain Research Bulletin|Modulation of apomorphine-induced stereotypy by estrogen: Time course and dose response
+1981|30.0|3.0|Pharmacology, Biochemistry and Behavior|Sensitization to the behavioral effects of cocaine: Modification by Pavlovian conditioning
+1982|46.0|6.0|European Journal of Pharmacology|Cholecystokinin-octapeptide effects on conditioned-avoidance behavior, stereotypy and catalepsy
+1983|20.0|2.0|Neuropharmacology|Roles of dopamine and 5-hydroxytryptamine in stereotyped and non-stereotyped behaviour
+1984|13.0|4.5|Pharmacology, Biochemistry and Behavior|Serotonergic involvement in phencyclidine-induced behaviors
+1985|53.0|4.0|European Journal of Pharmacology|Behavioural stimulation is induced by separate dopamine D-1 and D-2 receptor sites in reserpine-pretreated but not in normal rats
+1986|21.0|2.5|Pharmacology, Biochemistry and Behavior|No change in neostriatal D-2 dopamine receptors after NMDA lesions of rat prefrontal cortex
+1987|35.0|6.5|Behavioural Brain Research|Natural syntax rules control action sequence of rats
+1988|26.0|7.0|FEBS Letters|Stereotaxic injection of kainic acid into the striatum of rats induces synthesis of mRNA for heat shock protein 70.
+1989|20.0|3.5|Brain Research|Reserpine enhances amphetamine stereotypies without increasing amphetamine-induced changes in striatal dialysate dopamine
+1990|22.0|1.0|Psychophysiology|Hemodynamics of Blood Pressure Responses During Active and Passive Coping
+1991|30.0|7.0|Psychopharmacology|Time course of transient behavioral depression and persistent behavioral sensitization in relation to regional brain monoamine concentrations during amphetamine withdrawal in rats.
+1992|22.0|3.5|Brain Research|Excitatory amino acids and the actions of cocaine.
+1993|31.0|7.5|Brain Research|Sex differences in striatal dopamine: in vivo microdialysis and behavioral studies
+1994|46.0|5.0|Pharmacology, Biochemistry and Behavior|Glutamate antagonists have different effects on spontaneous locomotor activity in rats
+1995|27.0|5.5|Brain Research|The dopaminergic, glutamatergic, GABAergic bases for the action of amphetamine and cocaine
+1996|40.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Developmental abnormalities and age-related neurodegeneration in a mouse model of Down syndrome
+1997|73.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Synergistic interaction between leptin and cholecystokinin to reduce short-term food intake in lean mice
+1998|23.0|6.0|European Journal of Pharmacology|Differential effects of selective adenosine A 1 and A 2A receptor agonists on dopamine receptor agonist-induced behavioural responses in rats
+1999|34.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|Disrupted cortical map and absence of cortical barrels in growth-associated protein (GAP)-43 knockout mice
+2000|21.0|6.0|Physiology & Behavior|Intraaccumbens baclofen selectively enhances feeding behavior in the rat
+2001|63.0|11.0|Trends in Neurosciences|Ideal homes? Housing effects on rodent brain and behaviour
+2002|33.0|8.0|Behavioural Brain Research|Evidence for a relationship between cage stereotypies and behavioural disinhibition in laboratory rodents.
+2003|31.0|8.0|Behavioural Brain Research|Stereotypies in caged parrots, schizophrenia and autism: evidence for a common mechanism
+2004|51.0|9.0|Movement Disorders|Punding in Parkinson's disease: Its relation to the dopamine dysregulation syndrome
+2005|68.0|9.0|BMC Biology|Sequential super-stereotypy of an instinctive fixed action pattern in hyper-dopaminergic mutant mice: a model of obsessive compulsive disorder and Tourette's
+2006|78.0|11.0|BMC Psychiatry|Regional gray matter volumetric changes in autism associated with social and repetitive behavior symptoms
+2007|126.0|12.5|Journal of Autism and Developmental Disorders|The Autism Diagnostic Observation Schedule: Revised Algorithms for Improved Diagnostic Validity.
+2008|302.0|16.0|Annual Review of Neuroscience|Habits, Rituals, and the Evaluative Brain
+2009|142.0|7.0|Archives of General Psychiatry|Lack of Efficacy of Citalopram in Children With Autism Spectrum Disorders and High Levels of Repetitive Behavior: Citalopram Ineffective in Children With Autism
+2010|131.0|9.0|Neuropsychopharmacology|Repetitive Self-Grooming Behavior in the BTBR Mouse Model of Autism is Blocked by the mGluR5 Antagonist MPEP

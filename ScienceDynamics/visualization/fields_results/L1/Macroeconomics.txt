@@ -1,0 +1,85 @@
+----  Field Name Macroeconomics: 
+----  Field Level 1.0: 
+----  Field Papers Number 216136:
+----  All time max citation paper: Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives, 2009, (9709.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1922|0|0.0|Genetica|The index cephalicus
+1930|0|0.0|Genetica|Dominance of the brachycephalic index
+1933|2.0|2.0|Journal of the American Oil Chemists' Society|An accelerated stability test using the peroxide value as an index
+1935|1.0|1.0|Journal of Genetics|A study of mutations in evolution
+1936|5.0|5.0|American Heart Journal|Notes on cardiac pain and coronary disease: Correlation of observations made during life with structural changes found at autopsy in 476 cases
+1937|6.0|1.0|Journal of Allergy|The hematologic response in food allergy eosinophilia in the leucopenic index
+1938|5.0|3.0|Journal of Allergy|The leucopenic index
+1939|2.0|2.0|Journal of Genetics|Heritable variations in Nicotiana tabacum L. induced by abnormal temperatures, and their evolutionary significance
+1940|20.0|20.0|Journal of Genetics|An analysis of the process of structural change in chromosomes of Drosophila.
+1941|1.0|0.5|Journal of Chemical Physics|Optical Sensitizing of Silver Halides by Dyes III. The Relation of Sensitizing to the Absorption Spectra and Constitution of Dyes
+1942|1.0|0.5|Journal of Genetics|X-ray-induced structural changes in the chromosomes of Drosophila pseudo-obscura
+1943|0|0.0|Proceedings of The Indian Academy of Sciences - Section A. Part 3, Mathematical Sciences|Cytological studies in the family Zingiberaceae with special reference to chromosome number and cyto-taxonomy
+1944|1.0|1.0|Journal of Dairy Science|A New Method for Indexing Dairy Bulls
+1945|4.0|4.0|Digestive Diseases and Sciences|A fasting-blood-sample procedure in the differential diagnosis and management of hepatic disease
+1946|4.0|2.0|Annals of the New York Academy of Sciences|THE DETERMINATION OF THE NITROGEN BALANCE INDEX IN NORMAL AND HYPOPROTEINEMIC DOGS
+1947|1.0|0.5|Journal of Genetics|Structural changes produced in microspores of Tradescantia by a-radiation
+1948|2.0|1.0|Digestive Diseases and Sciences|Present fundamentals of some liver function tests
+1949|3.0|1.5|JAMA Internal Medicine|Radioactive isotopes in the study of peripheral vascular disease. I. Derivation of a circulatory index
+1950|4.0|0.0|Journal of Dairy Science|Parotid Gland Lesions in Experimental Bovine Vitamin A Deficiency
+1951|6.0|6.0|Journal of Dairy Science|The Liberation of Free Amino Acids in Raw and Pasteurized Milk Cheddar Cheese during Ripening
+1952|0|0.0|American Journal of Potato Research|Varietal susceptibility of potatoes to internal black spot
+1953|6.0|2.0|American Heart Journal|Genetic studies on hypercholesteremia: Frequency in a hospital population and in families of hypercholesteremic index patients
+1954|6.0|2.0|Journal of Dairy Science|A Selection Index for Fat Production in Dairy Cattle Utilizing the Fat Yields of the Cow and Her Close Relatives1
+1955|2.0|1.0|Mathematische Zeitschrift|Groups with finite classes of conjugate subgroups
+1956|11.0|3.0|Archives of Biochemistry and Biophysics|Structural changes in the activation of chymotrypsinogen and trypsinogen. Effect of urea on chymotrypsinogen and delta-chymotrypsin
+1957|7.0|1.0|Journal of Applied Physics|Structure in Magnetically Confined Electron Beams
+1958|8.0|0.5|Acta Physiologica Scandinavica|Adaptive Structural Changes of the Vascular Walls in Hypertension and their Relation to the Control of the Peripheral Resistance.
+1959|7.0|1.0|Journal of Dairy Science|Genetic and Environmental Portions of the Variation among Herds in Butterfat Production1
+1960|7.0|0.0|Geochimica et Cosmochimica Acta|The isotopic compositions and concentrations of lead in some chondritic stone meteorites
+1961|8.0|1.5|Cell and Tissue Research|Electron microscopy of neurohypophysis in normal, adrenaline-treated and pilocarpine-treated rabbits
+1962|45.0|2.5|Journal of Chemical Physics|Structure of Water and Hydrophobic Bonding in Proteins. II. Model for the Thermodynamic Properties of Aqueous Solutions of Hydrocarbons
+1963|35.0|1.0|Biochimica et Biophysica Acta|Structural changes correlated with photochemical phosphorylation in chloroplast membranes
+1964|11.0|1.0|Journal of Applied Physics|Stacking Fault Nucleation in Epitaxial Silicon on Variously Oriented Silicon Substrates
+1965|13.0|2.0|Journal of Chemical Physics|Equation of State in the Neighborhood of the Critical Point
+1966|17.0|1.0|Microbiology|An Index to Deoxyribonucleic Acid Base Compositions of Bacterial Species
+1967|39.0|2.0|Journal of Geophysical Research|Influence of interplanetary magnetic field and plasma on geomagnetic activity during quietsun conditions
+1968|11.0|1.0|Nature|Light Scattering and Birefringence Changes during Nerve Activity
+1969|22.0|1.0|Virology|Effect of TMV multiplication on RNA and protein synthesis in tobacco chloroplasts
+1970|70.0|2.0|Geochimica et Cosmochimica Acta|Phenocryst-matrix partition coefficients for K, Rb, Sr and Ba, with applications to anorthosite and basalt genesis
+1971|23.0|1.0|Journal of Geophysical Research|STRUCTURED VARIATIONS OF THE PLASMAPAUSE: EVIDENCE OF A COROTATING PLASMA TAIL.
+1972|88.0|2.0|Communications of The ACM|On the criteria to be used in decomposing systems into modules
+1973|15.0|1.0|Experimental Cell Research|Unit membrane structural changes following cell association in Dictyostelium
+1974|69.0|1.0|Journal of Geophysical Research|In situ measurements of the spectral characteristics of F region ionospheric irregularities
+1975|53.0|2.0|Journal of Geophysical Research|A quantitative magnetospheric model derived from spacecraft magnetometer data
+1976|116.0|2.0|Journal of Geophysical Research|The amplitude distribution of fieldaligned currents at northern high latitudes observed by Triad
+1977|86.0|2.0|Journal of Geophysical Research|Empirical models of highlatitude electric fields
+1978|39.0|2.0|Journal of Applied Physics|Ironboron metallic glasses
+1979|67.0|2.0|Journal of Political Economy|STABILIZING POWERS OF MONETARY POLICY UNDER RATIONAL EXPECTATIONS
+1980|54.0|2.0|American Journal of Surgery|Prognostic nutritional index in gastrointestinal surgery
+1981|56.0|2.0|Geochimica et Cosmochimica Acta|The equilibrium speciation of dissolved components in freshwater and sea water at 25C and 1 atm pressure
+1982|62.0|2.0|Econometrica|Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation
+1983|70.0|2.0|Journal of Monetary Economics|Rules, Discretion and Reputation in a Model of Monetary Policy
+1984|55.0|2.0|International Journal of Cancer|The longterm prognostic significance of the thymidine labelling index in breast cancer
+1985|66.0|2.0|Journal of International Economics|Conditional variance and the risk premium in the foreign exchange market
+1986|43.0|2.0|Behavior Genetics|Blood polymorphisms and cognitive abilities
+1987|98.0|2.0|Cognitive Science|Why a diagram is (sometimes) worth ten thousand words
+1988|65.0|2.0|Journal of Chemical Physics|Determinant based configuration interaction algorithms for complete and restricted configuration interaction spaces
+1989|179.0|2.0|Econometrica|The Great Crash, the Oil Price Shock, and the Unit Root Hypothesis
+1990|82.0|2.0|Journal of Political Economy|Endogenous Technological Change
+1991|109.0|2.0|Biological Conservation|What to protect?Systematics and the agony of choice
+1992|132.0|2.0|Econometrica|Bond Pricing and the Term Structure of Interest Rates: A New Methodology for Contingent Claims Valuation
+1993|122.0|2.0|IEEE Transactions on Computers|Distortion invariant object recognition in the dynamic link architecture
+1994|319.0|2.0|Proteins|Combining evolutionary information and neural networks to predict protein secondary structure
+1995|187.0|2.0|Brookings Papers on Economic Activity|Economic Reform and the Process of Global Integration
+1996|127.0|2.0|international conference on data engineering|Similarity indexing with the SS-tree
+1997|309.0|3.0|Biochemical and Biophysical Research Communications|A Novel DNA Virus (TTV) Associated with Elevated Transaminase Levels in Posttransfusion Hepatitis of Unknown Etiology
+1998|321.0|3.0|Brookings Papers on Economic Activity|Economic Crises: Evidence and Insights from East Asia
+1999|360.0|3.0|Journal of Economic Literature|The New Growth Evidence
+2000|279.0|4.0||Freenet: A distributed anonymous information storage and retrieval system
+2001|625.0|4.0|Nucleic Acids Research|The RDP-II (Ribosomal Database Project)
+2002|2630.0|4.0|JAMA|Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results From the Women's Health Initiative randomized controlled trial
+2003|1291.0|5.0|Biostatistics|Exploration, normalization, and summaries of high density oligonucleotide array probe level data.
+2004|462.0|5.0|Blood|Confirmation of the molecular classification of diffuse large B-cell lymphoma by immunohistochemistry using a tissue microarray.
+2005|444.0|5.0|The Journal of Allergy and Clinical Immunology|Adipose tissue, adipokines, and inflammation
+2006|607.0|4.0|computer vision and pattern recognition|Scalable Recognition with a Vocabulary Tree
+2007|432.0|5.0|Science|GPCR Engineering Yields High-Resolution Structural Insights into 2-Adrenergic Receptor Function
+2008|443.0|4.0|Nature|Three-dimensional optical metamaterial with a negative refractive index.
+2009|8288.0|5.0|Structural Equation Modeling|Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives
+2010|1053.0|5.0|Renewable & Sustainable Energy Reviews|Microalgae for biodiesel production and other applications: A review

@@ -1,0 +1,70 @@
+----  Field Name General topology: 
+----  Field Level 2.0: 
+----  Field Papers Number 25324:
+----  All time max citation paper: A method for registration of 3-D shapes, 1992, (4546.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1938|1.0|1.0|Transactions of the American Mathematical Society|Metric spaces and positive definite functions
+1940|5.0|5.0|Transactions of the American Mathematical Society|Integration in a convex linear topological space
+1942|1.0|0.5|Transactions of the American Mathematical Society|Integration in a convex linear topological space
+1944|1.0|0.5|Transactions of the American Mathematical Society|An extension of metric distributive lattices with an application in general analysis
+1945|14.0|7.5|Journal of Chemical Physics|Thermodynamics of Dilute Solutions of High Polymers
+1950|0|0.0|Mathematical Proceedings of the Cambridge Philosophical Society|On the iteration of a continuous mapping of a compact space into itself
+1951|0|0.0|Arkiv fr Matematik|Some theorems on absolute neighborhood retracts
+1954|11.0|1.0|Transactions of the American Mathematical Society|Concerning Rings of Continuous Functions
+1955|2.0|1.0|Transactions of the American Mathematical Society|Completeness and compactness in linear topological spaces
+1956|9.0|5.5|Transactions of the American Mathematical Society|Rings of Continuous Functions in Which Every Finitely Generated Ideal is Principal
+1957|0|0.0|Transactions of the American Mathematical Society|Structure theory of faithful rings. I. Closure operations on lattices
+1958|2.0|2.0|Proceedings of the American Mathematical Society|On properties characterizing pseudo-compact spaces
+1959|2.0|0.5|Transactions of the American Mathematical Society|On the ideal structure of certain semirings and compactification of topological spaces
+1960|7.0|3.5|Bulletin of the American Mathematical Society|New results and old problems in finite transformation groups
+1961|1.0|1.0|Transactions of the American Mathematical Society|An order relation among topological spaces
+1962|31.0|12.0|Psychometrika|The analysis of proximities: Multidimensional scaling with an unknown distance function. II
+1963|9.0|5.0|Planetary and Space Science|Planetary coronae and atmospheric evaporation
+1964|8.0|0.5|Journal of Chemical Physics|Wavefunctions and Binding Energies of the Titanium Monoxide Molecule
+1965|23.0|1.0|Planetary and Space Science|Configuration of auroral radiation in space
+1966|13.0|1.0|Transactions of the American Mathematical Society|Products of nearly compact spaces
+1967|14.0|4.5|Theory of Computing Systems \/ Mathematical Systems Theory|Disjointness in Ergodic Theory, Minimal Sets, and a Problem in Diophantine Approximation
+1968|10.0|1.5|Attention Perception & Psychophysics|The psychophysical dimensions of similarity among random shapes
+1969|11.0|2.5|Bulletin of the American Mathematical Society|Cellular decompositions of 3-manifolds that yield 3-manifolds
+1970|8.0|2.0||Immunochemical studies of foot-and-mouth disease. VII. Characterization of foot-and-mouth disease virus concentrated by polyethylene glycol precipitation.
+1971|14.0|1.0|Archiv der Mathematik|On the categories of general topology and topological algebra
+1972|17.0|2.0|Transactions of the American Mathematical Society|Hyperbolic limit sets
+1973|24.0|1.0|General Topology and Its Applications|Shapes for topological spaces
+1974|9.0|2.0|IEEE Transactions on Information Theory|Source coding theorems without the ergodic assumption
+1975|7.0|1.0|Proceedings of the American Mathematical Society|Inequalities in dimension theory for posets
+1976|12.0|2.0|Reviews of Geophysics|The current status of speculations on the composition of the core of the Earth
+1977|30.0|1.0|Journal of Mathematical Biology|The dynamics of density dependent population models
+1978|28.0|1.0|Journal of Chemical Physics|Transition states, trapped trajectories, and classical bound states embedded in the continuum
+1979|17.0|1.5|Management Science|MATHEMATICAL MODELS OF ROAD TRAVEL DISTANCES
+1980|22.0|1.0|Journal of Geophysical Research|Pioneer Venus gas chromatography of the lower atmosphere of Venus
+1981|33.0|1.0|ACM Transactions on Database Systems|A normal form for relational databases that is based on domains and keys
+1982|48.0|1.0|ACM Transactions on Database Systems|A simplied universal relation assumption and its properties
+1983|24.0|1.0|Fuzzy Sets and Systems|A general concept of fuzzy connectives, negations and implications based on t-norms and t-conorms
+1984|26.0|3.0|Artificial Organs|Complement Activation During Hemodialysis: Clinical Observations, Proposed Mechanisms, and Theoretical Implications
+1985|22.0|2.0|Communications in Mathematical Physics|Hamiltonian interpretation of anomalies
+1986|18.0|2.0|Physics Letters B|World sheet instanton effects on no-scale structure
+1987|28.0|2.0||Metric Spaces as Models for Real-Time Concurrency
+1988|109.0|2.0|Apmis|The new stereological tools: Disector, fractionator, nucleator and point sampled intercepts and their use in pathological research and diagnosis
+1989|65.0|2.0|Gastroenterology|Immunobiology and immunopathology of human gut mucosa: Humoral immunity and intraepithelial lymphocytes
+1990|33.0|2.0|Earth and Planetary Science Letters|Isotopic chronometry of zoned garnets: growth kinetics and metamorphic histories
+1991|50.0|2.0|Journal of Geophysical Research|Revised and synthetic apparent polar wander paths of the African, Eurasian, North American and Indian Plates, and true polar wander since 200 Ma
+1992|122.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A method for registration of 3-D shapes
+1993|96.0|2.0|Machine Learning|A Weighted Nearest Neighbor Algorithm for Learning with Symbolic Features
+1994|37.0|2.0|international conference on robotics and automation|A motion planner for nonholonomic mobile robots
+1995|209.0|2.0|Brain Research Reviews|The inflammatory response system of brain: implications for therapy of Alzheimer and other neurodegenerative diseases
+1996|172.0|2.0|international conference on computer graphics and interactive techniques|A volumetric method for building complex models from range images
+1997|108.0|2.0|very large data bases|M-tree: An Efficient Access Method for Similarity Search in Metric Spaces
+1998|240.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Example-based learning for view-based human face detection
+1999|98.0|3.0|intelligent systems in molecular biology|Automatic Extraction of Biological Information from Scientific Text: Protein-Protein Interactions
+2000|226.0|3.0|Neurobiology of Aging|Inflammation and Alzheimers disease
+2001|306.0|4.0|Behavioral and Brain Sciences|The magical number 4 in short-term memory: A reconsideration of mental storage capacity
+2002|277.0|4.0|Genome Biology|Extensive domain shuffling in transcription regulators of DNA viruses and implications for the origin of fungal APSES transcription factors
+2003|255.0|4.0|neural information processing systems|Distance Metric Learning with Application to Clustering with Side-Information
+2004|169.0|4.0|Annual Review of Immunology|ROLE OF C5A IN INFLAMMATORY RESPONSES
+2005|258.0|4.0|IEEE Signal Processing Magazine|The dual-tree complex wavelet transform
+2006|226.0|4.0|Nature|Targeting C-reactive protein for the treatment of cardiovascular disease
+2007|258.0|4.0|International Journal of Remote Sensing|A survey of image classification methods and techniques for improving classification performance
+2008|292.0|3.0|Nature Reviews Microbiology|An integrated model of the recognition of Candida albicans by the innate immune system.
+2009|410.0|3.0|Journal of Machine Learning Research|Distance Metric Learning for Large Margin Nearest Neighbor Classification
+2010|306.0|3.0|Nature|The mutation spectrum revealed by paired genome sequences from a lung cancer patient.

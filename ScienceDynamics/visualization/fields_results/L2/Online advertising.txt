@@ -1,0 +1,50 @@
+----  Field Name Online advertising: 
+----  Field Level 2.0: 
+----  Field Papers Number 2031:
+----  All time max citation paper: Rank aggregation methods for the Web, 2001, (615.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1962|1.0|0.5|Philosophical Magazine|THE INFLUENCE OF IMPURITY ATOMS ON THE ANNEALING KINETICS OF NEUTRON IRRADIATED COPPER
+1965|9.0|6.0|Journal of Applied Physics|EFFECT OF IMPURITIES ON THE HARDENING AND COLORATION OF KCl IRRADIATED AT ROOM TEMPERATURE
+1966|1.0|1.0|Philosophical Magazine|ISOTHERMAL ANNEALING STUDIES ON VACANCY AND INTERSTITIAL LOOPS IN SINGLE- CRYSTAL GRAPHITE.
+1967|0|0.0|Acta Metallurgica|The recovery kinetics of deformed copper- palladium and gold-palladium alloys.
+1968|1.0|1.0|Journal of The Less Common Metals|Corrosion product of the tantalum-interstitial oxygen-potassium system at 1800 deg F /982 deg C/.
+1969|8.0|0.0|Philosophical Magazine|THE INFLUENCE OF BORON ON THE CLUSTERING OF RADIATION DAMAGE IN GRAPHITE. II. NUCLEATION OF INTERSTITIAL LOOPS.
+1970|2.0|0.5|Philosophical Magazine|ELECTRON DISPLACEMENT DAMAGE IN COBALT IN A HIGH VOLTAGE ELECTRON MICROSCOPE.
+1971|1.0|0.0|Acta Metallurgica|A statistical mechanical calculation of the thermodynamic properties of interstitial solid solutions involving second nearest neighbor interactions.
+1972|5.0|3.0|Journal of Physics and Chemistry of Solids|INTERSTITIAL HALOGEN CENTERS IN X-IRRADIATED CsBr.
+1973|6.0|1.0|Journal of Nuclear Materials|The effect of minor constituents on swelling in stainless steel
+1974|2.0|1.5|Journal of Nuclear Materials|Irradiation-induced primary creep
+1975|18.0|1.0|Thin Solid Films|Radiation effects on solid state diffusion
+1976|2.0|1.0|Metallurgical and Materials Transactions A-physical Metallurgy and Materials Science|Effect of hydrogen on the low-temperature deformation properties of neutron-irradiated vanadium
+1977|13.0|3.5|Applied Physics Letters|The origin of dislocation climb during laser operation
+1979|0|0.0|Journal De Physique|Dielectric loss in RbCl crystals doped with Co2+ ions
+1980|5.0|0.0|Journal of Nuclear Materials|Bias factors for radiation creep, growth and swelling
+1982|2.0|2.0|Acta Neurologica Scandinavica|Contribution of changes in click rate and intensity on diagnosis of multiple sclerosis by brainstem auditory evoked potentials
+1983|11.0|11.0|Journal of Applied Physics|Intrinsic defects in ZnO varistors
+1984|3.0|1.0|Applied Physics Letters|Increased radiation resistance in lithium-counterdoped silicon solar cells
+1985|8.0|0.0|Journal of Applied Physics|Radiation effects in fluoride glasses
+1986|8.0|8.0|Electroencephalography and Clinical Neurophysiology|Three-channel Lissajous' trajectory of human auditory brain-stem evoked potentials. II. Effects of click intensity
+1987|6.0|4.0|Electroencephalography and Clinical Neurophysiology|Auditory brain-stem evoked potentials to clicks at different presentation rates: estimating maturation of pre-term and full-term neonates
+1988|23.0|2.0|Journal of Applied Physics|Mechanism for radiation resistance of InP solar cells
+1990|3.0|1.5|IEEE Journal of Solid-state Circuits|A 10-b 75-MSPS subranging A/D converter with integrated sample and hold
+1991|11.0|2.0|Journal of Applied Physics|The influence of interstitial Ga and interfacial Au2P3 on the electrical and metallurgical behavior of Au-contacted III-V semiconductors
+1992|31.0|2.0|IEEE Transactions on Industrial Electronics|Pulsewidth modulation-a survey
+1993|8.0|4.5|Journal of Nuclear Materials|Implications of defect clusters formed in cascades on free defect generation and microstructural development
+1994|9.0|1.0|IEEE Journal of Solid-state Circuits|A 10-bit pipelined switched-current A/D converter
+1995|18.0|1.0|European Journal of Oral Sciences|Influence of light intensity on polymerization shrinkage and integrity of restorationcavity interface
+1996|23.0|0.5|Journal of Applied Physics|Binding of cobalt and iron to cavities in silicon
+1997|78.0|1.0|Journal of Applied Physics|Influence of ion energy and substrate temperature on the optical and electronic properties of tetrahedral amorphous carbon (ta-C) films
+1998|10.0|1.0|Applied Physics Letters|The dissociation energy and the charge state of a copper-pair center in silicon
+1999|28.0|3.0|Applied Physics Letters|Boron-enhanced diffusion of boron from ultralow-energy ion implantation
+2000|63.0|2.0|human factors in computing systems|The scent of a site: a system for analyzing and predicting information scent, usage, and usability of a Web site
+2001|126.0|3.0|international world wide web conferences|Rank aggregation methods for the Web
+2002|28.0|3.5|human factors in computing systems|Cognitive walkthrough for the web
+2003|51.0|5.5|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|An empirical study of the effects of interactivity on web user attitude
+2004|55.0|6.0|Journal of Cell Biology|Amylin inhibits bone resorption while the calcitonin receptor controls bone formation in vivo
+2005|117.0|6.0|Applied Physics Letters|Effects of Al addition on the native defects in hafnia
+2006|183.0|4.0|acm special interest group on data communication|Understanding the network-level behavior of spammers
+2007|157.0|5.0|international world wide web conferences|Predicting clicks: estimating the click-through rate for new ads
+2008|219.0|5.0|Tourism Management|Electronic word-of-mouth in hospitality and tourism management
+2009|143.0|4.0|international world wide web conferences|A dynamic bayesian network click model for web search ranking
+2010|124.0|5.0|computer and communications security|@spam: the underground on 140 characters or less

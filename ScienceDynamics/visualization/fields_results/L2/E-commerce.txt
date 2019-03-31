@@ -1,0 +1,43 @@
+----  Field Name E-commerce: 
+----  Field Level 2.0: 
+----  Field Papers Number 14694:
+----  All time max citation paper: A method for obtaining digital signatures and public-key cryptosystems, 1978, (5605.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1973|0|0.0||Panel session on intelligent terminals: a position paper---chairman's introduction
+1975|11.0|7.0|International Review of Neurobiology|Aggression and Central Neurotransmitters
+1976|79.0|44.5|Neuroscience|Do some nerve cells release more than one transmitter?
+1977|14.0|7.0|Neuroscience|Presynaptic inhibition leading to disinhibition of acetylcholine release from interneurons of the caudate nucleus: Effects of dopamine, -endorphin and d-Ala 2 -Pro 5 -enkephalinamide
+1978|106.0|16.0|Communications of The ACM|A method for obtaining digital signatures and public-key cryptosystems
+1979|56.0|2.0|European Journal of Pharmacology|ACh, substance P and met-enkephalin in the locus coeruleus: Pharmacological evidence for independent sites of action
+1980|24.0|6.0|Neuroscience|Electrophysiological evidence for presynaptic inhibition of acetylcholine release by 5-hydroxytryptamine in the enteric nervous system
+1981|54.0|11.0|Neuroscience|Production of specific antibodies to choline acetyltransferase purified from pig brain
+1982|24.0|6.0|Neuroscience|Release of acetylcholinesterase and aminopeptidase In vivo following infusion of amphetamine into the substantia nigra
+1983|28.0|15.0|Neuroscience|Pharmacological dissection of receptor-associated and voltage-sensitive ionic channels involved in catecholamine release.
+1984|5.0|1.0|Neuroscience|Cholinergic muscarinic receptors in rat cerebral cortex, basal ganglia and cerebellum undergo rapid and reversible changes after acute stress
+1985|10.0|3.0|Geoforum|Electronic funds transfer and the internationalisation of the banking and finance industry
+1986|37.0|8.0|Neuroscience|In vivo release of [3H]gamma-aminobutyric acid in the rat neostriatum--II. Opposing effects of D1 and D2 dopamine receptor stimulation in the dorsal caudate putamen.
+1987|33.0|7.0|Neuroscience|Acetylcholine permits long-term enhancement of neuronal responsiveness in cat primary somatosensory cortex
+1988|51.0|7.0|Neuroscience|Projections of cholinergic and non-cholinergic neurons of the brainstem core to relay and associational thalamic nuclei in the cat and macaque monkey.
+1989|48.0|5.0|Neuroscience|Serotonin release estimated by transcortical dialysis in freely-moving rats
+1990|11.0|3.0|Neuroscience|Reinnervation and recovery of mouse soleus muscle after long-term denervation
+1991|15.0|5.0|Neuroscience|Cholinergic enhancement of direction selectivity in the visual cortex of the cat
+1992|52.0|25.0|Neuroscience|Behaviour-dependent changes in acetylcholine release in normal and graft-reinnervated hippocampus: Evidence for host regulation of grafted cholinergic neurons
+1993|41.0|9.0|international conference on distributed computing systems|Proxy-based authorization and accounting for distributed systems
+1994|15.0|9.0|Neuroscience|Influence of atp and atp agonists on the physiology of the isolated semicircular canal of the frog ( Rana Pipiens )
+1995|57.0|12.0|Neuroscience|192 immunoglobulin G-saporin produces graded behavioral and biochemical changes accompanying the loss of cholinergic neurons of the basal forebrain and cerebellar Purkinje cells
+1996|68.0|7.0|International Journal of Electronic Commerce|Electronic commerce: structures and issues
+1997|100.0|5.0|international joint conference on artificial intelligence|Middle-Agents for the Internet
+1998|157.0|5.0|Proceedings of the IEEE|Multimedia data-embedding and watermarking technologies
+1999|95.0|5.5|electronic commerce|Recommender systems in e-commerce
+2000|189.0|4.0|electronic commerce|Analysis of recommendation algorithms for e-commerce
+2001|154.0|4.0|Data Mining and Knowledge Discovery|E-Commerce Recommendation Applications
+2002|146.0|4.0|Information Systems Research|Web Site Usability, Design, and Performance Metrics
+2003|449.0|4.0|Management Information Systems Quarterly|Trust and TAM in online shopping: an integrated model
+2004|395.0|4.0|IEEE Transactions on Software Engineering|QoS-aware middleware for Web services composition
+2005|455.0|3.0|Journal of Molecular Biology|Refined Structure of the Nicotinic Acetylcholine Receptor at 4A Resolution
+2006|282.0|3.0|ACM Transactions on Computer Systems|Inferring Internet denial-of-service activity
+2007|489.0|2.0|symposium on operating systems principles|Dynamo: amazon's highly available key-value store
+2008|290.0|2.0|Quarterly Journal of Economics|Did Securitization Lead to Lax Screening? Evidence from Subprime Loans
+2009|208.0|1.0|International Journal on Semantic Web and Information Systems|The Berlin SPARQL Benchmark
+2010|185.0|3.0|networked systems design and implementation|ElasticTree: saving energy in data center networks

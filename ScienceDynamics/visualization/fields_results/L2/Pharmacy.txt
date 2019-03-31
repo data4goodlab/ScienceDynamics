@@ -1,0 +1,55 @@
+----  Field Name Pharmacy: 
+----  Field Level 2.0: 
+----  Field Papers Number 12113:
+----  All time max citation paper: Arlequin (version 3.0): An integrated software package for population genetics data analysis, 2007, (3687.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1948|1.0|0.5|American Journal of Potato Research|TESTS OF CUTTING KNIFE DISINFECTANTS AND CUTTING TECHNIQUES IN THE CONTROL OF RING ROT OF POTATOES I
+1952|0|0.0|Journal of Pharmacy and Pharmacology|APPLICATIONS OF POLAROGRAPHY IN PHARMACEUTICAL ANALYSIS
+1955|1.0|0.5|Microbiology|The Mechanism of Action of the Fungicide, 2 -Heptadecyl-2-imidazoline
+1957|2.0|2.0|Journal of Pharmacy and Pharmacology|THE ANTICOAGULANT ACTIVITY AND TOXICITY OF LAMINARIN SULPHATE K
+1960|1.0|1.0|Potato Research|Field trials on the retention of potato stocks in England.
+1963|1.0|1.0|Annals of Applied Biology|The response of the feral pigeon when offered the active ingredients of commercial repellents in solution
+1968|1.0|1.0|New Zealand Journal of Agricultural Research|Heptachlor residues in soil, pasture, and stock resulting from the treatment of soil or pasture with heptachlor granules
+1969|14.0|14.0|Journal of Pharmaceutical Sciences|Pharmaceutical applications of polymorphism
+1970|11.0|11.0|Journal of Pharmaceutical Sciences|Effect of tablet processing and formulation factors on dissolution rate of the active ingredient in human gastric juice
+1971|1.0|0.5|Pharmacology & Toxicology|The Physicochemical and Pharmacokinetic Bases for the Biopharmaceutical Evaluation of Drug Biological Availability in Pharmaceutical Formulations
+1972|4.0|3.0|JAMA Internal Medicine|Effect of Pharmaceutical Formulation on Gastrointestinal Bleeding From Aspirin Tablets
+1973|7.0|1.0|Journal of Pharmacokinetics and Biopharmaceutics|Properties of the Michaelis-Menten equation and its integrated form which are useful in pharmacokinetics
+1974|2.0|1.0|Journal of Pharmacokinetics and Biopharmaceutics|Application of the Wagner-Nelson absorption method to the two-compartment open model
+1975|5.0|2.0|Journal of Dairy Science|Hygiene in the Prevention of Udder Infections III. Effectiveness of 59 Teat Dips for Reducing Bacterial Populations on Teat Skin
+1976|23.0|7.0|Journal of Pharmacokinetics and Biopharmaceutics|Linear pharmacokinetic equations allowing direct calculation of many needed pharmacokinetic parameters from the coefficients and exponents of polyexponential equations which have been fitted to the data
+1977|11.0|2.0|Environmental Research|Mirex. An overview
+1978|7.0|1.0|Journal of Pharmacokinetics and Biopharmaceutics|Time to reach steady state and prediction of steady-state concentrations for drugs obeying Michaelis-Menten elimination kinetics
+1979|2.0|0.0|European Journal of Drug Metabolism and Pharmacokinetics|The pharmacokinetics and biotransformation of the new benzodiazepine lormetazepam in humans I. Absorption, distribution, elimination and metabolism of lormetazepam-5-14C
+1980|1.0|0.0|Journal of Child Psychology and Psychiatry|THE USE OF LITHIUM CARBONATE IN ADOLESCENCE
+1981|2.0|2.0|Journal of Pharmacokinetics and Biopharmaceutics|Evidence of nonlinearity in digoxin pharmacokinetics
+1982|21.0|3.0|Survey of Ophthalmology|Pharmacokinetics of topically applied ophthalmic drugs
+1983|5.0|1.0|Journal of Pharmacokinetics and Biopharmaceutics|Pharmacokinetics of ibuprofen in manIII: Plasma protein binding
+1984|2.0|0.0|Journal of Pharmaceutical Sciences|Determination of minoxidil in bulk drug and pharmaceutical formulations by ionpairing highperformance liquid chromatography
+1985|6.0|2.0|Analytical Letters|DETERMINATION DE L'ACIDE L-ASCORBIQUE A L'AIDE D'ELECTRODES BACTERIENNES, TISSULAIRES ET ENZYMATIQUES
+1986|13.0|1.0|Journal of Pharmacy and Pharmacology|Tolerance to the anticonvulsant effect of clonazepam in mice: no concurrent change in plasma concentration
+1987|9.0|3.0||Pesticide use and toxicology in relation to wildlife: Organophosphorus and carbamate compounds
+1988|10.0|1.0|Pesticide Science|Factors affecting the foliar absorption and redistribution of pesticides. 2. Physicochemical properties of the active ingredient and the role of surfactant
+1989|9.0|0.0|Journal of Pharmacokinetics and Biopharmaceutics|The population pharmacokinetics of theophylline in neonates and young infants
+1990|3.0|0.0|Analyst|Simultaneous determination of some active ingredients in cough-cold syrups by gas-liquid chromatography
+1991|6.0|1.0|Biology and Fertility of Soils|Factors affecting l-asparaginase activity in soils
+1992|22.0|2.0|Journal of Pharmaceutical Sciences|Epithelial transport of drugs in cell culture. VII: Effects of pharmaceutical surfactant excipients and bile acids on transepithelial permeability in monolayers of human intestinal epithelial (Caco2) cells
+1993|39.0|2.5|Behaviour Research and Therapy|Psychological treatment of panic: work in progress on outcome, active ingredients, and follow-up.
+1994|17.0|2.0|Journal of Controlled Release|The influence of biodegradable microcapsule formulations on the controlled release of a protein
+1995|43.0|2.0|Journal of Pharmaceutical Sciences|Infrared spectroscopic studies of lyophilization and temperatureinduced protein aggregation
+1996|137.0|2.0|Journal of Chromatography A|Identification of chiral drug isomers by capillary electrophoresis
+1997|58.0|3.0|Development|Control of dorsoventral pattern in the chick paraxial mesoderm
+1998|52.0|3.0|Development|Specification of the hypaxial musculature
+1999|79.0|3.0|Nature Cell Biology|Indirubin, the active constituent of a Chinese antileukaemia medicine,inhibits cyclin-dependent kinases
+2000|127.0|5.0|European Journal of Pharmaceutics and Biopharmaceutics|Hydrogels in pharmaceutical formulations
+2001|93.0|6.0|Nature Medicine|A cannabinoid mechanism in relapse to cocaine seeking
+2002|152.0|5.0|Advanced Drug Delivery Reviews|Nanoparticles in cancer therapy and diagnosis
+2003|122.0|5.0|The New England Journal of Medicine|The toxicology of mercury--current exposures and clinical manifestations.
+2004|145.0|6.0|JAMA|Pharmacy Benefits and the Use of Drugs by the Chronically Ill
+2005|119.0|5.0|Journal of Nutritional Biochemistry|In vitro antiproliferative, apoptotic and antioxidant activities of punicalagin, ellagic acid and a total pomegranate tannin extract are enhanced in combination with other polyphenols as found in pomegranate juice
+2006|398.0|4.0|Biochemical Pharmacology|Molecular targets of dietary agents for prevention and therapy of cancer
+2007|2530.0|5.0|Evolutionary Bioinformatics|Arlequin (version 3.0): An integrated software package for population genetics data analysis
+2008|186.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Dissection of mechanisms of Chinese medicinal formula Realgar-Indigo naturalis as an effective treatment for promyelocytic leukemia.
+2009|225.0|5.0|Journal of Environmental Management|The presence of pharmaceuticals in the environment due to human use--present knowledge and future challenges.
+2010|541.0|5.0|Nanoscale Research Letters|Intestine-Specific, Oral Delivery of Captopril/Montmorillonite: Formulation and Release Kinetics

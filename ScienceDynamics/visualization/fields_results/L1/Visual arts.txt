@@ -1,0 +1,84 @@
+----  Field Name Visual arts: 
+----  Field Level 1.0: 
+----  Field Papers Number 61578:
+----  All time max citation paper: The capacity of wireless networks, 2000, (3177.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1931|5.0|3.0|JAMA Pediatrics|ACID-BASE STATUS IN DEHYDRATION ACCOMPANYING DIARRHEA IN INFANTS: EFFECT OF TREATMENT WITH PARENTERAL FLUIDS
+1932|3.0|2.0|The Biological Bulletin|Fat metabolism of the chick embryo under standard conditions of artificial incubation.
+1933|0|0.0|The Journal of Agricultural Science|Observations on the Mineral Metabolism of Pullets
+1934|0|0.0|Journal of Dairy Science|The Iodine Content of Milk as Affected by Feeding Iodized Dry Milk*
+1935|3.0|1.5|Journal of Dairy Science|Seasonal Variations in the Lipase Content of Milk
+1936|1.0|0.5|Digestive Diseases and Sciences|The effects on the gastric juice of man of six weeks' deprivation of vitamin B1 .
+1937|1.0|1.0|Journal of Hygiene|Studies on the influence of diet on resistance to infection I. The effect of various diets on the fertility, growth, and survival of mice
+1938|8.0|1.5|Journal of Allergy|Vitamin C deficiency: Sensitivity to neoarsphenamine and anaphylactic shock
+1939|4.0|0.5|Journal of Dairy Science|The Riboflavin Value of Milk1
+1940|6.0|1.0|JAMA|Pantothenic acid in human nutrition.
+1941|2.0|1.0|American Heart Journal|The production and study of cardiac failure in thiamin-deficient dogs.
+1942|4.0|0.0|Journal of Dairy Science|Shark Liver Oil and the Vitamin A Potency of Milk*
+1943|6.0|0.0|Journal of Dairy Science|Observations on the Ascorbic Acid Content of Evaporated Milk*
+1944|1.0|1.0|JAMA Pediatrics|RESERVES, ABSORPTION AND PLASMA LEVELS OF VITAMIN A IN PREMATURE INFANTS
+1945|1.0|0.5|Journal of Food Science|THE B VITAMIN CONTENT OF RAW AND COOKED SWEET POTATOES
+1946|2.0|1.0|Journal of Dairy Science|Lactic Acid, Pyruvic Acid, Amino Acids, Acetone Bodies, Oxygen, Carbon Dioxide, and Hemoglobin in Arterial and Mammary Venous Bloods of Cows under Various Physiological Conditions
+1948|2.0|1.0|The American Journal of Medicine|Effects of immobilization upon various metabolic and physiologic functions of normal men
+1949|3.0|1.0|Journal of Dairy Science|A Solubility Method for the Determination of Alpha and Beta Lactose in Dry Products of Milk
+1950|15.0|2.0|Biochimica et Biophysica Acta|Body size and tissue respiration.
+1951|3.0|2.0|Journal of Dairy Science|The Relationship of Stage of Lactation, Pasturage and Environmental Temperature to the Degree of Unsaturation of Cow Milk Fat1
+1952|7.0|1.5|The Lancet|THE TREND OF SERUM-CHOLESTEROL LEVELS WITH AGE
+1953|2.0|0.5|Journal of the Science of Food and Agriculture|The chemical estimation of vitaminE activity in cereal products. I.The tocopherol pattern of wheatgerm oil
+1954|7.0|1.5|Journal of Dairy Research|537. The composition of sow's milk during the course of lactation
+1955|4.0|1.0|Biochimica et Biophysica Acta|Amino-acid composition of human crystallized myoglobin and haemoglobin
+1957|14.0|2.0|Biochimica et Biophysica Acta|The possible rle of -tocopherol in the respiratory chain I. The identification and quantitative determination of -tocopherol in respiratory chain preparations
+1958|2.0|1.0|Journal of Dairy Science|Effect of Initial Vitamin A Status on Subsequent Response of Holstein Calves to Carotene Intake from Artificially Dehydrated Alfalfa1
+1959|27.0|0.0|Physics of Fluids|Interferometric Measurement in the Shock Tube of the Dissociation Rate of Oxygen
+1960|84.0|2.0|Analytical Biochemistry|A modified procedure for the automatic analysis of amino acids
+1961|17.0|2.0|Journal of Applied Physics|DISLOCATION CONTRIBUTIONS TO THE MODULUS AND DAMPING IN COPPER AT MEGACYCLE FREQUENCIES
+1962|18.0|5.0|Journal of Applied Physics|CHEMICAL ETCHING OF CHARGED-PARTICLE TRACKS IN SOLIDS
+1963|38.0|3.0|Journal of Geophysical Research|Chargedparticle observations in the Earth's outer magnetosphere
+1964|10.0|2.0|Mutation Research|X-RAY INDUCED MUTABILITY IN MALE GERM CELLS OF DROSOPHILA MELANOGASTER
+1965|4.0|1.0|Journal of Dairy Research|The effect of milking throughout the whole of pregnancy on the composition of cow's milk
+1966|16.0|2.0|Journal of Clinical Investigation|Role of dietary, adipose, and endogenously synthesized fatty acids in the pathogenesis of the alcoholic fatty liver.
+1967|25.0|1.0|British Journal of Nutrition|The effect of the amount and type of dietary fat on milk fat secretion in the cow.
+1968|23.0|2.0|Journal of Dairy Science|Bovine Ketosis and Depressed Fat Test in Milk: A Problem of Methionine Metabolism and Serum Lipoprotein Aberration1
+1969|37.0|1.0|Journal of Geophysical Research|A source for fieldaligned currents at auroral latitudes
+1970|17.0|2.0|Journal of Dairy Science|Methionine Hydroxy Analog: Varying Levels for Lactating Cows
+1971|23.0|1.0|Journal of the American Oil Chemists' Society|Protection of dietary polyunsaturated fatty acids against microbial hydrogenation in ruminants.
+1972|17.0|2.0|Journal of Geophysical Research|COMMENTS ON THE GROWTH PHASE OF MAGNETOSPHERIC SUBSTORMS.
+1973|27.0|1.0|Psychophysiology|Scaled Lateralization of Alpha Activity During Linguistic and Musical Tasks
+1974|27.0|1.0|Journal of Molecular Biology|Fluorescence of complexes of acridine dye with synthetic polydeoxyribonucleotides: A physical model of frameshift mutation
+1975|14.0|1.0|Aquaculture|Physical models of integrated waste recycling- marine polyculture systems
+1976|55.0|2.0|Solar Energy|A design procedure for solar heating systems
+1977|38.0|1.0|Journal of Experimental Psychology: General|Category and Continuum in Mental Comparisons.
+1978|78.0|2.0|Psychological Review|Mechanics of Verbal Ability.
+1979|30.0|2.0|Remote Sensing of Environment|Red and photographic infrared linear combinations for monitoring vegetation
+1980|127.0|2.0|The Lancet|BREAST vs BOTTLE: ENDOCRINE RESPONSES ARE DIFFERENT WITH FORMULA FEEDING
+1981|21.0|1.0|Icarus|Triaxial equilibrium ellipsoids among the asteroids?
+1982|87.0|1.0|Cognitive Science|Simulating a Skilled Typist: A Study of Skilled CognitiveMotor Performance
+1983|26.0|1.0|Journal of Chemical Physics|HD scattering from Pt(111): Rotational excitation probabilities
+1984|145.0|2.0|ACM Transactions on Computer Systems|Implementing remote procedure calls
+1985|34.0|1.0|Review of Scientific Instruments|Delta function convolution method (DFCM) for fluorescence decay experiments
+1986|49.0|2.0|Applied Physics Letters|Optical spectroscopy of ultrasmall structures etched from quantum wells
+1987|79.0|2.0|Cognitive Psychology|Attentional requirements of learning: Evidence from performance measures
+1988|52.0|2.0|Cognitive Psychology|Visual and spatial mental imagery: Dissociable systems of representation
+1989|61.0|2.0|Journal of Parallel and Distributed Computing|Data communication in hypercubes
+1990|151.0|2.0|international symposium on computer architecture|The directory-based cache coherence protocol for the DASH multiprocessor
+1991|332.0|2.0|American Journal of Physics|Solar engineering of thermal processes
+1992|200.0|2.0|IEEE Transactions on Parallel and Distributed Systems|Virtual-channel flow control
+1993|93.0|2.0|IEEE Transactions on Parallel and Distributed Systems|A new theory of deadlock-free adaptive routing in wormhole networks
+1994|129.0|2.0|IEEE Transactions on Information Theory|Blind identification and equalization based on second-order statistics: a time domain approach
+1995|101.0|2.0|IEEE Journal on Selected Areas in Communications|Dynamics of TCP traffic over ATM networks
+1996|414.0|2.0|IEEE Transactions on Circuits and Systems for Video Technology|A new, fast, and efficient image codec based on set partitioning in hierarchical trees
+1997|185.0|2.0|field programmable custom computing machines|Garp: a MIPS processor with a reconfigurable coprocessor
+1998|133.0|2.0|IEEE Journal on Selected Areas in Communications|Image-adaptive watermarking using visual models
+1999|242.0|3.0|IEEE Transactions on Information Theory|Good error-correcting codes based on very sparse matrices
+2000|501.0|4.0|IEEE Transactions on Information Theory|The capacity of wireless networks
+2001|342.0|4.0|Journal of Computational Chemistry|Chemistry with ADF
+2002|661.0|4.0|acm/ieee international conference on mobile computing and networking|Wireless sensor networks for habitat monitoring
+2003|687.0|4.0|international world wide web conferences|The Eigentrust algorithm for reputation management in P2P networks
+2004|550.0|5.0|acm ieee international conference on mobile computing and networking|Routing in multi-radio, multi-hop wireless mesh networks
+2005|503.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Face recognition using Laplacianfaces
+2006|420.0|5.0|Nature Reviews Neuroscience|Adult neurogenesis and functional plasticity in neuronal circuits
+2007|492.0|5.0|Journal of Vision|The appearance of figures seen through a narrow aperture under free viewing conditions: Effects of spontaneous eye motions
+2008|968.0|4.0|Nature|The missing memristor found
+2009|473.0|5.0|Nature Reviews Neuroscience|Stress, memory and the amygdala
+2010|630.0|5.0|Journal of Education Policy|The teacher's soul and the terrors of performativity

@@ -1,0 +1,71 @@
+----  Field Name World Wide Web: 
+----  Field Level 1.0: 
+----  Field Papers Number 170914:
+----  All time max citation paper: VMD-Visual Molecular Dynamics, 1996, (9063.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1941|3.0|3.0|JAMA Pediatrics|DEVELOPMENTAL PATTERN OF THE CHILD AS REFLECTED IN THE CALCIFICATION PATTERN OF THE TEETH
+1942|0|0.0|Archives of Surgery|Practical Method of Predicting the Growth of the Femur and Tibia in the Child
+1944|0|0.0|American Journal of Orthodontics and Oral Surgery|Dental abnormalities as found in the American Indian
+1945|0|0.0|American Antiquity|Periods of Prehistoric Art in the Aleutian Islands
+1949|0|0.0|American Antiquity|Excavation of Tommy Tucker Cave, Lassen County, California
+1950|3.0|0.0|Economic Botany|The taxonomy, genetics, production and uses of the cultivated species of Cucrbita.
+1951|2.0|1.0|Arctic|A New View of the History of the Aleutians
+1952|0|0.0||Effect of selection for age at time of puberty on reproductive performance in the rat
+1953|1.0|1.0||Basic data for Oregon hardwoods
+1954|1.0|0.0|Arctic|Archaeological Research in the North American Arctic
+1955|0|0.0|Soil Science Society of America Journal|Effect of soils on the establishment of tree crops
+1957|4.0|2.5|The New England Journal of Medicine|Salmonella Osteomyelitis in Patients With Sickle Cell Anemia
+1958|1.0|0.0||Proper utilization : a problem in evaluating the physiological response of plants to grazing use : a review
+1959|0|0.0|Anatomical Record-advances in Integrative Anatomy and Evolutionary Biology|An anatomical study of a case of clubfoot
+1960|12.0|2.5|Journal of Dairy Science|Autoxidation of milk lipids
+1961|1.0|1.0|IEEE Transactions on Information Theory|On the asmptotic efficiency of locally optimum detectors
+1962|13.0|4.0|Journal of the ACM|Information Retrieval Based upon Latent Class Analysis
+1963|0|0.0||El Bajo de Santa Fe'
+1964|11.0|1.0|American Journal of Orthodontics|A study of the postnatal growth of the human mandible
+1965|34.0|2.0|Planetary and Space Science|Ionospheric backscatter observations at Millstone Hill
+1966|12.0|7.0|JAMA|Prevalence of osteoporosis in high- and low-fluoride areas in North Dakota.
+1967|23.0|1.0|Journal of Experimental Social Psychology|Risky and cautious shifts in group decisions: The influence of widely held values
+1968|32.0|0.5|Science|Sea Levels during the Past 35,000 Years
+1969|6.0|1.0|Technological Forecasting|Exploratory and normative technological forecasting : a critical appraisal,
+1970|21.0|1.0|Journal of the ACM|Parsing of Graph-Representable Pictures
+1971|29.0|2.0|Journal of the ACM|An Overview of the Theory of Computational Complexity
+1972|20.0|2.0|Communications of The ACM|On the implementation of security measures in information systems
+1973|42.0|2.0|Journal of Molecular Biology|Transcription of mouse mammary tumor virus genes in tissues from high and low tumor incidence mouse strains
+1974|22.0|2.5|Siam Review|Quasi-Newton Methods, Motivation and Theory
+1975|25.0|1.0|Advances in Cancer Research|Lung Tumors in Mice: Application to Carcinogenesis Bioassay
+1976|79.0|3.0|Neuroscience|Do some nerve cells release more than one transmitter?
+1977|32.0|2.0|Journal of the ACM|On Time Versus Space
+1978|106.0|2.0|Communications of The ACM|A method for obtaining digital signatures and public-key cryptosystems
+1979|144.0|2.0|Cognitive Psychology|Scripts in Memory for Text.
+1980|24.0|1.0|Neuroscience|Electrophysiological evidence for presynaptic inhibition of acetylcholine release by 5-hydroxytryptamine in the enteric nervous system
+1981|54.0|3.0|Neuroscience|Production of specific antibodies to choline acetyltransferase purified from pig brain
+1982|39.0|2.0|Biochemical and Biophysical Research Communications|Seven peptides derived from pro-somatostatin in rat brain
+1983|90.0|4.0|ACM Computing Surveys|Concepts and Notations for Concurrent Programming
+1984|51.0|2.5|Neuroscience|Molecular regulators of brain function: A new view
+1985|52.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Stereo by Intra- and Inter-Scanline Search Using Dynamic Programming
+1986|87.0|3.0|IEEE Transactions on Computers|Graph-Based Algorithms for Boolean Function Manipulation
+1987|101.0|3.0|ACM Transactions on Computer Systems|Reliable communication in the presence of failures
+1988|89.0|4.0|IEEE Transactions on Software Engineering|The TAME project: towards improvement-oriented software environments
+1989|305.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A theory for multiresolution signal decomposition: the wavelet representation
+1990|132.0|3.0|Biochemical and Biophysical Research Communications|C-type natriuretic peptide (CNP): a new member of natriuretic peptide family identified in porcine brain.
+1991|79.0|3.0|IEEE Transactions on Information Theory|A calculus for network delay. I. Network elements in isolation
+1992|200.0|4.0|IEEE Transactions on Parallel and Distributed Systems|Virtual-channel flow control
+1993|259.0|4.0||A theory and methodology of inductive learning
+1994|288.0|4.0|Communications of The ACM|Agents that reduce work and information overload
+1995|196.0|4.0|Theoretical Computer Science|The algorithmic analysis of hybrid systems
+1996|223.0|4.0|IEEE Transactions on Information Theory|Iterative decoding of binary block and convolutional codes
+1997|298.0|3.0|Information Processing and Management|Term-weighting approaches in automatic text retrieval
+1998|524.0|4.0|Computer Networks and Isdn Systems|The anatomy of a large-scale hypertextual Web search engine
+1999|681.0|4.0|IEEE Transactions on Information Theory|Space-time block codes from orthogonal designs
+2000|1035.0|4.0|Nucleic Acids Research|The Pfam protein families database
+2001|774.0|4.0|Nature Biotechnology|Large-scale analysis of the yeast proteome by multidimensional protein identification technology.
+2002|690.0|5.0|IEEE Transactions on Evolutionary Computation|A fast and elitist multiobjective genetic algorithm: NSGA-II
+2003|1931.0|5.0|IEEE\/ACM Transactions on Networking|Chord: a scalable peer-to-peer lookup protocol for Internet applications
+2004|1944.0|5.0|IEEE Transactions on Information Theory|Cooperative diversity in wireless networks: Efficient protocols and outage behavior
+2005|3454.0|4.0||Data Mining: Concepts and Techniques
+2006|1115.0|4.0|Nucleic Acids Research|Pfam: clans, web tools and services.
+2007|769.0|4.0|Nature Methods|Target-decoy search strategy for increased confidence in large-scale protein identifications by mass spectrometry
+2008|423.0|3.0||Systemic Banking Crises: A New Database
+2009|1421.0|2.0|Bioinformatics|Jalview Version 2a multiple sequence alignment editor and analysis workbench
+2010|1728.0|3.0|Business Horizons|Users of the world, unite! The challenges and opportunities of Social Media

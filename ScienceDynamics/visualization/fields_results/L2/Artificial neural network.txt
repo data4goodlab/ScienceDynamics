@@ -1,0 +1,74 @@
+----  Field Name Artificial neural network: 
+----  Field Level 2.0: 
+----  Field Papers Number 217984:
+----  All time max citation paper: Collective dynamics of 'small-world' networks, 1998, (10030.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1934|0|0.0|Philosophical Magazine Series 1|LXVII. On the application of least squares.II
+1936|2.0|2.0|Journal of Chemical Physics|On the ZeroPoint Energy of an Activated Complex and the Reaction 2NO+O22NO2
+1937|17.0|14.5|Journal of Chemical Physics|Thermodynamic Functions for Molecules Having Restricted Internal Rotations
+1938|2.0|2.0|Journal of Chemical Physics|Exchange of Deuterium Between Methanol and Water: Vibrations of the Hydroxyl Group in Methanol and Methanold: The Entropy of Methanol
+1939|3.0|1.5|Journal of Chemical Physics|Some QuantumMechanical Considerations in the Theory of Reactions Involving an Activation Energy
+1944|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|The specific heats of the alkali halides
+1946|3.0|3.0|Journal of Chemical Physics|On the Diffusion of Vapors through Polymers
+1948|1.0|1.0|Biometrika|TESTS OF SIGNIFICANCE IN MULTIVARIATE ANALYSIS
+1950|0|0.0|Nature|Potential Barrier in Dinitrogen Tetroxide
+1951|1.0|1.0|Journal of Chemical Physics|Energy Transfer by Collision in Benzene Vapor
+1952|6.0|2.0|Journal of Chemical Physics|Kinetics of OH Radicals from Flame Emission Spectra V. A Study of the AcetyleneOxygen Flame
+1953|6.0|3.0|Journal of Chemical Physics|The Vibrational Spectra of Pyridine and Pyridined5
+1955|11.0|4.0|Journal of Chemical Physics|Intermolecular Potentials of Argon, Krypton, and Xenon
+1956|21.0|1.0|Journal of Chemical Physics|Gaseous Detonations. IX. A Study of the Reaction Zone by Gas Density Measurements
+1957|15.0|5.0|Journal of Chemical Physics|Normal Coordinate Analysis of Halogenated Ethylenes. I. General Methods
+1958|26.0|10.0|Physics of Fluids|Properties of Gases at Very High Temperatures
+1959|20.0|1.5|Journal of Chemical Physics|Paramagnetic Resonance of Methyl and ChloroSubstituted pBenzosemiquinones
+1960|21.0|3.0|Journal of Chemical Physics|Transferability of UreyBradley Force Constants. V. Bromoethylenes
+1961|15.0|4.5|Journal of Chemical Physics|Energy Levels of PrCl3
+1962|37.0|1.0|Journal of Chemical Physics|HEAT CONDUCTIVITY OF POLYATOMIC AND POLAR GASES
+1963|21.0|7.5|Journal of Chemical Physics|FORMAL KINETIC THEORY OF TRANSPORT PHENOMENA IN POLYATOMIC GAS MIXTURES
+1964|74.0|3.0|Journal of Chemical Physics|Analysis of NMR Spectra by Least Squares
+1965|32.0|3.0|Journal of Chemical Physics|Method for Calculating Internal Rotation Barriers
+1966|25.0|1.0|Biometrika|Some distance properties of latent root and vector methods used in multivariate analysis
+1967|6.0|1.0|Psychometrika|A comparison of four methods of constructing factor scores
+1968|26.0|2.0|IEEE Transactions on Power Apparatus and Systems|Optimal Power Flow Solutions
+1969|14.0|2.0|Mathematics of Computation|Extensions and applications of the Householder algorithm for solving linear least squares problems
+1970|29.0|2.0|Journal of Geophysical Research|Precise focal depth determination from amplitude spectra of surface waves
+1971|31.0|2.0|Geochimica et Cosmochimica Acta|Absolute scale for radiation ages of stony meteorites
+1972|40.0|2.0|Journal of Molecular Spectroscopy|On the calculation and interpretation of centrifugal distortion constants: A statistical basis for model testing: The calculation of the force field
+1973|19.0|1.0|IEEE Transactions on Computers|Waveform Segmentation Through Functional Approximation
+1974|63.0|1.0|Geophysical Journal International|Numerical Modelling of Instantaneous Plate Tectonics
+1975|53.0|2.0|Journal of Geophysical Research|A quantitative magnetospheric model derived from spacecraft magnetometer data
+1976|23.0|2.0|Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing|Region growing: Childhood and adolescence
+1977|40.0|3.0|Biological Cybernetics|Generation of a locomotory rhythm by a neural network with recurrent cyclic inhibition
+1978|147.0|2.0|Journal of Geophysical Research|Presentday plate motions
+1979|69.0|2.0|Cognitive Science|A Cognitive Model of Planning
+1980|82.0|2.0|Behavioral and Brain Sciences|Are central pattern generators understandable?
+1981|90.0|2.0|Analytical Biochemistry|A nonlinear regression program for small computers
+1982|62.0|2.5|Journal of Mathematical Biology|The Nature of the Coupling Between Segmental Oscillators of the Lamprey Spinal Generator for Locomotion: A Mathematical Model
+1983|67.0|2.0|IEEE Transactions on Computers|Spatial Planning: A Configuration Space Approach
+1984|68.0|2.0|Journal of Geophysical Research|Mapping the upper mantle: Threedimensional modeling of earth structure by inversion of seismic waveforms
+1985|69.0|2.0|Journal of Chemical Physics|The semiclassical quantization of nonseparable systems using the method of adiabatic switching
+1986|83.0|2.0|Applied Physics Letters|Optically detected carrier confinement to one and zero dimension in GaAs quantum well wires and boxes
+1987|105.0|3.0|IEEE Transactions on Information Theory|The capacity of the Hopfield associative memory
+1988|189.0|2.0|Neural Networks|Nonlinear neural networks: Principles, mechanisms, and architectures
+1989|159.0|2.0|Behavioral and Brain Sciences|A solution to the tag-assignment problem for neural networks
+1990|324.0|2.0|IEEE Transactions on Neural Networks|Identification and control of dynamical systems using neural networks
+1991|136.0|2.0|Journal of Cognitive Neuroscience|Eigenfaces for recognition
+1992|179.0|3.0|Automatica|Neural networks for control systems: a survey
+1993|162.0|2.0||Connectionist learning procedures
+1994|319.0|3.0|Proteins|Combining evolutionary information and neural networks to predict protein secondary structure
+1995|156.0|2.0|Protein Science|Transmembrane helices predicted at 95% accuracy.
+1996|269.0|2.0|international conference on computer graphics and interactive techniques|Light field rendering
+1997|324.0|2.0|Nature|Steroid receptor coactivator-1 is a histone acetyltransferase
+1998|406.0|3.0|Nature|Collective dynamics of 'small-world' networks
+1999|382.0|4.0|Journal of Molecular Biology|Protein secondary structure prediction based on position-specific scoring matrices
+2000|573.0|3.0|BMJ|Association of glycaemia with macrovascular and microvascular complications of type 2 diabetes (UKPDS 35): prospective observational study
+2001|834.0|4.0|Science|Spintronics: A Spin-Based Electronics Vision for the Future
+2002|724.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Mean shift: a robust approach toward feature space analysis
+2003|700.0|5.0|IEEE Transactions on Information Theory|Diversity and multiplexing: a fundamental tradeoff in multiple-antenna channels
+2004|1628.0|5.0|Journal of Molecular Biology|Improved Prediction of Signal Peptides: SignalP 3.0
+2005|673.0|4.0|The New England Journal of Medicine|Erlotinib in Lung Cancer  Molecular and Clinical Predictors of Outcome
+2006|816.0|4.0|IEEE Computational Intelligence Magazine|Ant colony optimization
+2007|1029.0|4.0|Nature Protocols|Locating proteins in the cell using TargetP, SignalP and related tools.
+2008|449.0|3.0|Brain Structure & Function|Brain structural and functional abnormalities in mood disorders: implications for neurocircuitry models of depression
+2009|1471.0|3.0|Siam Review|Power-Law Distributions in Empirical Data
+2010|929.0|5.0|Journal of Statistical Software|Inverse Modelling, Sensitivity and Monte Carlo Analysis in R Using Package FME

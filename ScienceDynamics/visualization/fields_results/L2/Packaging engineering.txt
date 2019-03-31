@@ -1,0 +1,34 @@
+----  Field Name Packaging engineering: 
+----  Field Level 2.0: 
+----  Field Papers Number 1496:
+----  All time max citation paper: Secure spread spectrum watermarking for multimedia, 1997, (1690.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1903|0|0.0|Fett-lipid|Ueber Neuerungen in der Analyse und Fabrikation von Lacken und Firnissen
+1975|1.0|0.5|Journal of The Franklin Institute-engineering and Applied Mathematics|Limit analysis of flow through conical converging dies
+1982|3.0|3.0|Journal of Crystal Growth|Effect of heat transfer on melt/solid interface shape and solute segregation in edge-defined film-fed growth: Finite element analysis
+1984|4.0|4.0|Polymer Engineering and Science|A basic study of orientation in poly(ethylene terephthalate) stretch-blow molded bottles
+1987|3.0|2.0|foundations of computer science|Distributive graph algorithms Global solutions from local data
+1988|5.0|0.0|International Journal of Food Microbiology|The growth of Aeromonas hydrophila K144 in ground pork at 5C
+1989|15.0|4.0|Journal of Microbiological Methods|Methods for recovery of deep terrestrial subsurface sediments for microbiological studies
+1990|14.0|2.5|Journal of Computational Physics|Dynamics of shear flow of a non-Newtonian fluid
+1991|1.0|0.5||A neural network approach to adaptive state-space partitioning
+1992|25.0|1.0|Constructive Approximation|On the Construction of Multivariate (pre) Wavelets
+1993|5.0|0.0|International Journal of Food Science and Technology|Carbon dioxide controlled atmosphere packaging of sliced ham
+1994|12.0|2.5|european symposium on research in computer security|The ESPRIT Project CAFE - High Security Digital Payment Systems
+1995|40.0|2.0|ACM Transactions on Software Engineering and Methodology|Formalizing style to understand descriptions of software architecture
+1996|113.0|4.0||Tamper resistance: a cautionary note
+1997|223.0|1.0|IEEE Transactions on Image Processing|Secure spread spectrum watermarking for multimedia
+1998|120.0|2.5||Protecting Mobile Agents Against Malicious Hosts
+1999|90.0|5.0||Design principles for tamper-resistant smartcard processors
+2000|41.0|4.5|mobile ad hoc networking and computing|Enforcing service availability in mobile ad-hoc WANs
+2001|43.0|3.0||ElectroMagnetic Analysis (EMA): Measures and Counter-Measures for Smart Cards
+2002|100.0|4.0|international cryptology conference|The LSD Broadcast Encryption Scheme
+2003|213.0|4.0|symposium on operating systems principles|Terra: a virtual machine-based platform for trusted computing
+2004|84.0|5.0|ACM Transactions in Embedded Computing Systems|Security in embedded systems: Design challenges
+2005|44.0|4.0|IEEE Transactions on Very Large Scale Integration Systems|Extracting secret keys from integrated circuits
+2006|125.0|6.0|IEEE Transactions on Computers|Combining Crypto with Biometrics Effectively
+2007|109.0|5.0|international cryptology conference|On privacy models for RFID
+2008|41.0|3.0|Evolution|Ossification Heterochrony in the Therian Postcranial Skeleton and the MarsupialPlacental Dichotomy
+2009|55.0|4.0|international test conference|Testing 3D chips containing through-silicon vias
+2010|73.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|E3 ubiquitin ligase APC/C-Cdh1 accounts for the Warburg effect by linking glycolysis to cell proliferation

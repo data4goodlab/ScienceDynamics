@@ -1,0 +1,93 @@
+----  Field Name Diabetes mellitus: 
+----  Field Level 1.0: 
+----  Field Papers Number 282509:
+----  All time max citation paper: Global cancer statistics, 2011, (11706.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1903|1.0|1.0|Virchows Archiv|ber Lipmie und Cholestermie, sowie ber Vernderungen des Pankreas und der Leber bei diabetes mellitus
+1910|0|0.0|Research in Experimental Medicine|Weiteres zur Kenntniss des Diabetes mellitus
+1920|0|0.0|Research in Experimental Medicine|Die Kohlensuretension in den Lungenalveolen: Ihre Bedeutung fr die Regulation der Atmung und fr die Bestimmung der Acidose beim Diabetes mellitus
+1924|1.0|1.0|Research in Experimental Medicine|Studien berden Wasserwechsel beim Diabetes mellitus sowie ber die Einwirkung des Insulins auf denselben
+1928|0|0.0|Reviews of Physiology Biochemistry and Pharmacology|Die Hyperlipmie beim Diabetes mellitus des Menschen
+1929|1.0|1.0|Journal of Dairy Science|The Solubility of Calcium Phosphate in Fresh Milk
+1930|1.0|0.0|Journal of Hygiene|Beriberi and Other Food-Deficiency Diseases in Newfoundland and Labrador.
+1931|2.0|0.5|JAMA Internal Medicine|CALCIUM AND PHOSPHORUS METABOLISM IN A CASE OF NONTROPICAL SPRUE WITH ASSOCIATED TETANY
+1932|3.0|2.0|The Biological Bulletin|Fat metabolism of the chick embryo under standard conditions of artificial incubation.
+1933|1.0|1.0|JAMA Pediatrics|Tetany in very young infants with special reference to etiology.
+1934|4.0|0.0|Journal of Dairy Science|Irradiated Milk: The Transmission and Antirachitic Activation of Milk Films by Ultra-Violet Radiations
+1935|0|0.0|The Journal of Agricultural Science|The calcium, phosphorus and vitamin D requirements of swine
+1936|2.0|2.0|JAMA Internal Medicine|SERUM CALCIUM, INORGANIC PHOSPHORUS AND PHOSPHATASE ACTIVITY: IN HYPERPARATHYROIDISM, PAGET'S DISEASE, MULTIPLE MYELOMA AND NEOPLASTIC DISEASE OF THE BONES
+1937|2.0|0.0|American Journal of Surgery|The relation of water, sodium chloride, and acid-base balance to renal function in the treatment of lesions of the urinary tract
+1938|0|0.0|Digestive Diseases and Sciences|End results after gall bladder operations with an analysis of the causes of residual symptoms
+1939|10.0|0.5|JAMA|RELATIONSHIP BETWEEN NICOTINIC ACID AND A CODEHYDROGENASE (COZYMASE): IN BLOOD OF PELLAGRINS AND NORMAL PERSONS
+1940|6.0|1.0|JAMA|Pantothenic acid in human nutrition.
+1941|2.0|1.0|JAMA Pediatrics|ENLARGEMENT OF THE THYROID GLAND IN JUVENILE PATIENTS WITH DIABETES MELLITUS: INCIDENCE OF DIABETES AND THYROID DISEASE IN THE FAMILY
+1942|0|0.0|Digestive Diseases and Sciences|The relationship between gastric acidity and calcium.
+1943|3.0|2.0|Digestive Diseases and Sciences|Newer concepts in the treatment of diabetes mellitus with protamine insulin
+1944|12.0|1.0|JAMA|A Study of "Penicillin Failures.
+1945|5.0|3.0|JAMA|Treatment of Staphyloeoceie, Pneumocoeeie, Gonococcic and other Infections with Penicillin.
+1946|8.0|5.0|JAMA Internal Medicine|Absorption, Distribution and Excretion of Streptomycin.
+1947|1.0|0.0|Journal of Dairy Science|A Comparison of the Babcock, Gerber, Minnesota, Pennsylvania, and Mojonnier Methods for Determining the Percentage of Fat in Homogenized Milk1
+1948|21.0|2.0|JAMA|Clinical Problems in Penicillin Sensitivity.
+1949|12.0|1.0|The American Journal of Medicine|Clinical and metabolic study of 11-dehydro-17-hydroxy-corticosterone acetate (Kendall Compound E) in hypertension, Addison's disease and diabetes mellitus
+1950|15.0|2.0|JAMA|Hemopoietic Changes during Administration of Chloramphenicol (Chloromyeetin).
+1951|4.0|0.0|Journal of Dairy Science|Experimental Alteration of the Sugar and Ketone Levels of the Blood of Ruminants in Relation to Ketosis1,2
+1952|7.0|1.0|American Journal of Anatomy|Autoradiographic studies of calcium, phosphorus and strontium distribution in the bones of the growing pig
+1953|9.0|2.0|Geochimica et Cosmochimica Acta|THE GEOCHEMISTRY OF THE STABLE CARBON ISOTOPES
+1954|6.0|0.5|The American Journal of Medicine|Renal function studies in an adult subject with the Fanconi syndrome
+1955|11.0|1.0|JAMA Internal Medicine|SYSTEMIC MONILIASIS AND ASPERGILLOSIS COMPLICATING CORTICOTROPIN THERAPY
+1956|66.0|2.0|Archives of Biochemistry and Biophysics|Protein chromatography on calcium phosphate columns
+1957|8.0|1.0|The American Journal of Medicine|Renal function in gout: With a commentary on the renal regulation of urate excretion, and the role of the kidney in the pathogenesis of gout
+1958|7.0|2.0|Journal of Dairy Science|Chromatographic Separation of Some Milk Lipids1
+1959|36.0|1.0|Archives of Dermatology|The Treatment of Dermatomycoses with Orally Administered Griseofulvin
+1960|18.0|2.0|Journal of Dairy Science|The action of pancreatic lipase on milk fat.
+1961|15.0|2.0|Journal of Dairy Science|Method for Removing Cationic Radionuclides from Milk
+1962|36.0|2.0|Virology|Effect of p -fluorophenylalanine and puromycin on the replication of poliovirus
+1963|90.0|2.0|The Lancet|THE GLUCOSE FATTY-ACID CYCLE ITS ROLE IN INSULIN SENSITIVITY AND THE METABOLIC DISTURBANCES OF DIABETES MELLITUS
+1964|45.0|3.0|Journal of Geophysical Research|The iron, magnesium, and calcium distribution in coexisting olivines and rhombic pyroxenes of chondrites
+1965|33.0|2.0|Journal of Clinical Investigation|Abnormalities in carbohydrate tolerance associated with elevated plasma nonesterified fatty acids.
+1966|45.0|2.0|Journal of Clinical Investigation|Hormone-fuel interrelationships during fasting.
+1967|36.0|2.0|Calcified Tissue International|Amorphous/crystalline interrelationships in bone mineral
+1968|62.0|3.0|British Journal of Pharmacology|Stimulussecretion coupling: the concept and clues from chromaffin and other cells
+1969|73.0|2.0|Journal of Clinical Investigation|Metabolic dependence of red cell deformability
+1970|118.0|2.0|Nature|Unique Biosynthesis by Kidney of a Biologically Active Vitamin D Metabolite
+1971|79.0|3.0|Biochemical and Biophysical Research Communications|Separation of regulatory and catalytic subunits of the cyclic 3, 5-adenosine monophosphate-dependent protein kinase(s) of rabbit skeletal muscle
+1972|43.0|3.0|Journal of Clinical Investigation|Evidence for a Direct Action of Cholecalciferol and 25-Hydroxycholecalciferol on the Renal Transport of Phosphate, Sodium, and Calcium
+1973|42.0|3.0|Geochimica et Cosmochimica Acta|Refractory trace elements in Ca-Al-rich inclusions in the Allende meteorite
+1974|108.0|2.0|The Journal of Comparative Neurology|Connections of the median and dorsal raphe nuclei in the rat: An autoradiographic and degeneration study
+1975|92.0|3.0|The Lancet|The essential role of glucagon in the pathogenesis of diabetes mellitus.
+1976|48.0|3.0|The New England Journal of Medicine|Adenine arabinoside therapy of herpes zoster in the immunosuppressed. NIAID collaborative antiviral study.
+1977|58.0|3.0|Journal of Geophysical Research|Cenozoic evolution of Antarctic glaciation, the circumAntarctic Ocean, and their impact on global paleoceanography
+1978|142.0|3.0|Cell|Evidence that the transforming gene of avian sarcoma virus encodes a protein kinase associated with a phosphoprotein
+1979|145.0|3.0|Gene|Prolonged incubation in calcium chloride improves the competence of Escherichia coli cells
+1980|275.0|3.0|Nature|Calmodulin--an intracellular calcium receptor.
+1981|49.0|3.0|Brain Research|Noradrenergic innervation of serotonergic neurons in the dorsal raphe: Demonstration by electron microscopic autoradiography
+1982|154.0|3.0|Nature|The role of protein phosphorylation in neural and hormonal control of cellular activity
+1983|94.0|3.0|The New England Journal of Medicine|Acquired immune deficiency in Haitians;: opportunistic infections in previously healthy Haitian immigrants.
+1984|1294.0|3.0|Nature|Inositol trisphosphate, a novel second messenger in cellular signal transduction
+1985|305.0|3.0|Nature|Human insulin receptor and its relationship to the tyrosine kinase family of oncogenes.
+1986|215.0|3.0|Nature|Structure of the receptor for platelet-derived growth factor helps define a family of closely related growth factor receptors.
+1987|225.0|3.0|Cell|A thousand and one protein kinases
+1988|200.0|3.0|Cell|The CD4 and CD8 T cell surface antigens are associated with the internal membrane tyrosine-protein kinase p56lck
+1989|188.0|3.0|Biochemical and Biophysical Research Communications|Identification of angiotensin II receptor subtypes
+1990|185.0|3.0|Trends in Biochemical Sciences|Protein kinase recognition sequence motifs.
+1991|296.0|3.0|Cell|trkC, a new member of the trk family of tyrosine protein kinases, is a receptor for neurotrophin-3
+1992|323.0|3.0|Cell|Molecular basis of myotonic dystrophy: Expansion of a trinucleotide (CTG) repeat at the 3 end of a transcript encoding a protein kinase family member
+1993|346.0|4.0|Cell|cPLA2 is phosphorylated and activated by MAP kinase
+1994|615.0|3.0|Cell|JNK1: A protein kinase stimulated by UV light and Ha-Ras that binds and phosphorylates the c-Jun activation domain
+1995|599.0|4.0|Nature Medicine|Angiogenesis in cancer, vascular, rheumatoid and other disease.
+1996|446.0|4.0|Cell|Dissection of TNF Receptor 1 Effector Functions: JNK Activation Is Not Linked to Apoptosis While NF-B Activation Prevents Cell Death
+1997|530.0|5.0|Current Opinion in Cell Biology|AP-1 function and regulation
+1998|603.0|6.0|Nature|Leptin and the regulation of body weight in mammals
+1999|508.0|7.0|Nature|Activation of nitric oxide synthase in endothelial cells by Akt-dependent phosphorylation
+2000|376.0|8.0|Circulation|Chronic Subclinical Inflammation as Part of the Insulin Resistance Syndrome The Insulin Resistance Atherosclerosis Study (IRAS)
+2001|968.0|8.0|Nature Immunology|Toll-like receptors: critical proteins linking innate and acquired immunity
+2002|1886.0|9.0|The New England Journal of Medicine|Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin
+2003|1174.0|9.0|JAMA|Prevalence of Obesity, Diabetes, and Obesity-Related Health Risk Factors,2001
+2004|557.0|10.0|Nature Reviews Immunology|NOX enzymes and the biology of reactive oxygen
+2005|726.0|9.0|Journal of Clinical Investigation|Inflammation, stress, and diabetes
+2006|787.0|10.0|Chemico-Biological Interactions|Free radicals, metals and antioxidants in oxidative stress-induced cancer
+2007|1684.0|10.0|The International Journal of Biochemistry & Cell Biology|Free radicals and antioxidants in normal physiological functions and human disease
+2008|889.0|10.0|Nature Medicine|Amyloid-beta protein dimers isolated directly from Alzheimer's brains impair synaptic plasticity and memory.
+2009|1176.0|10.0|Biochemical Journal|How mitochondria produce reactive oxygen species
+2010|1562.0|10.0|Diabetes Research and Clinical Practice|Global estimates of the prevalence of diabetes for 2010 and 2030

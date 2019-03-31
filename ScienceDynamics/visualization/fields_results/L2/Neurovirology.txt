@@ -1,0 +1,58 @@
+----  Field Name Neurovirology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1843:
+----  All time max citation paper: Ego depletion : Is the active self a limited resource ?, 1998, (1140.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1957|4.0|4.0|Microbiology|Some Characteristics of Vesicular Stomatitis Virus Growth-Curves in Tissue Culture
+1959|1.0|1.0|Archives of Microbiology|Der Einflu der Infektionsmultiplizitt auf die Lysogenisierung im System Salmonella typhimurium ? Phage P 22
+1960|2.0|2.0|Molecular Genetics and Genomics|The influence of the multiplicity of infection on crosses with bacteriophage T1.
+1962|0|0.0|Molecular Genetics and Genomics|Effects of chloramphenicol and of multiplicity of infection on induced mutation in bacteriophage T4
+1963|15.0|15.0|Journal of Molecular Biology|Effects of 5-fluorouracil, actinomycin D and mitomycin C on the induction of thymidine kinase by vaccinia-infected L-cells
+1964|7.0|7.0|Archives of Virology|An analysis of the plaque assay of herpes simplex virus in chick embryo monolayers
+1965|1.0|1.0|Microbiology|Characterization of Brucellaphages
+1966|7.0|7.0|Journal of Molecular Biology|Inhibition of host nucleic acid synthesis by bacteriophage T4: Effect of chloramphenicol at various multiplicities of infection
+1967|11.0|5.0|Virology|Viruses and renal carcinoma of Rana pipiens: III. The relationship between input multiplicity of infection and inclusion body formation in frog virus 3-infected cells
+1968|3.0|1.0|Virology|The effect of helper phages and/or multiplicity of infection on the repair of ultraviolet damages in T4
+1969|0|0.0|Archives of Virology|Growth characteristics of reovirus type 2: Ultraviolet light inactivated virion preparations and cell death
+1970|2.0|1.0|Journal of Molecular Biology|Transfer of parental X174 deoxyribonucleic acid to progeny bacteriophage particles observed at low multiplicities of infection
+1971|1.0|0.0|Archives of Virology|Methods for Increasing the Susceptibility of Primary Cultures of Porcine Kidney Cells to Infection with Foot-and-Mouth Disease Virus
+1972|13.0|2.0|Virology|Specialized transduction of tetracycline resistance by phage P22 in Salmonella typhimurium: II. Properties of a high-frequency-transducing lysate
+1973|7.0|7.0|Journal of General Virology|Effect of Interferon on Virus Production from Isolated Single Cells*
+1974|0|0.0|Archives of Virology|Multiplication of different newcastle disease virus strains in chicken brain
+1975|2.0|1.0|Acta Neuropathologica|Ultrastructural alterations of tissue cultures from human fetal brain infected with the E variant of EMC virus
+1976|7.0|2.5|Journal of Experimental Medicine|The effects of antigen on the migration of recirculating lymphocytes through single lymph nodes.
+1977|10.0|1.0|Virology|Type C virus activation in nontransformed mouse cells by UV-irradiated herpes simplex virus
+1978|10.0|2.0|Journal of General Virology|Arenavirus Defective Interfering Particles Mask the Cell-Killing Potential of Standard Virus
+1979|9.0|3.0|Journal of General Virology|Stimulation of Ornithine Decarboxylase by Human Cytomegalovirus
+1980|11.0|0.5|Journal of General Virology|Influence of Input Multiplicity of Infection on the Antiviral Activity of Interferon
+1981|14.0|1.0|Journal of General Virology|Protein Synthesis and Membrane Integrity in Interferon-treated HeLa Cells Infected with Encephalomyocarditis Virus
+1982|11.0|1.0|Virology|High multiplicities of infection favor rapid and random evolution of vesicular stomatitis virus
+1983|8.0|2.0|Journal of General Virology|Inhibition by Interferon of Herpes Simplex Virus Thymidine Kinase and DNA Polymerase in Infected and Biochemically Transformed Cells
+1984|7.0|2.0|Journal of General Virology|Replication of Transmissible Gastroenteritis Coronavirus (TGEV) in Swine Alveolar Macrophages
+1985|14.0|1.0|Virology|Genome rearrangements of bovine rotavirus after serial passage at high multiplicity of Infection
+1986|41.0|2.0|Nature|Oral vaccination of the fox against rabies using a live recombinant vaccinia virus.
+1987|5.0|4.0|Immunobiology|Stable expression of clonal specificity in murine cytomegalovirus-specific large granular lymphoblast lines propagated long-term in recombinant interleukin 2.
+1988|7.0|2.0|Archives of Virology|Porcine parvovirus: replication in and inhibition of selected cellular functions of swine alveolar macrophages and peripheral blood lymphocytes.
+1989|10.0|2.0|Environmental Research|Nitrogen dioxide exposure in vivo and human alveolar macrophage inactivation of influenza virus in vitro
+1990|31.0|10.0|Gastroenterology|Poliovirus type 1 enters the human host through intestinal M cells
+1991|19.0|2.5|Biotechnology and Bioengineering|Factors influencing recombinant protein yields in an insect cellbacuiovirus expression system: Multiplicity of infection and intracellular protein degradation
+1992|15.0|2.0|Biotechnology and Bioengineering|Modeling the population dynamics of baculovirusinfected insect cells: Optimizing infection strategies for enhanced recombinant protein yields
+1993|45.0|4.0|Cellular and Molecular Neurobiology|Herpesvirus-mediated gene delivery into the rat brain: specificity and efficiency of the neuron-specific enolase promoter.
+1994|15.0|3.0|Biotechnology and Bioengineering|Modeling and optimization of the baculovirus expression vector system in batch suspension culture
+1995|75.0|4.0|Neuroscience|Adenovirus gene transfer causes inflammation in the brain
+1996|33.0|5.0|Cancer Research|Adenovirus-mediated Transfer of a Wild-Type p53 Gene and Induction of Apoptosis in Cervical Cancer
+1997|33.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|A new reporter cell line to monitor HIV infection and drug susceptibility in vitro
+1998|83.0|7.0|Journal of Virology|Persistence and Expression of the Herpes Simplex Virus Genome in the Absence of Immediate-Early Proteins
+1999|152.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Generation of influenza A viruses entirely from cloned cDNAs
+2000|132.0|9.0|Neoplasia|Imaging Transgene Expression with Radionuclide Imaging Technologies
+2001|62.0|9.0|Journal of Virology|Improved Adenovirus Vectors for Infection of Cardiovascular Tissues
+2002|99.0|9.0|Proceedings of the National Academy of Sciences of the United States of America|A dominant block to HIV-1 replication at reverse transcription in simian cells
+2003|95.0|9.0|Gastroenterology|Smad7 prevents activation of hepatic stellate cells and liver fibrosis in rats
+2004|44.0|9.0|Progress in Brain Research|Macro-architecture of basal ganglia loops with the cerebral cortex: use of rabies virus to reveal multisynaptic circuits
+2005|527.0|11.0|Proceedings of the National Academy of Sciences of the United States of America|Robust hepatitis C virus infection in vitro
+2006|123.0|13.0|Journal of Molecular Biology|Environmentally Controlled Invasion of Cancer Cells by Engineered Bacteria
+2007|134.0|11.0|PLOS ONE|Two Chikungunya isolates from the outbreak of La Reunion (Indian Ocean) exhibit different patterns of infection in the mosquito, Aedes albopictus.
+2008|51.0|11.5|Journal of Virology|Human Cytomegalovirus Protein pp71 Displaces the Chromatin-Associated Factor ATRX from Nuclear Domain 10 at Early Stages of Infection
+2009|138.0|13.0|Journal of Virology|Quantitating the multiplicity of infection with human immunodeficiency virus type 1 subtype C reveals a non-poisson distribution of transmitted variants.
+2010|72.0|10.5|Gastroenterology|Production of Infectious Hepatitis C Virus in Primary Cultures of Human Adult Hepatocytes

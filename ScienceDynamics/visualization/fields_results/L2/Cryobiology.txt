@@ -1,0 +1,66 @@
+----  Field Name Cryobiology: 
+----  Field Level 2.0: 
+----  Field Papers Number 14324:
+----  All time max citation paper: The neuroanatomical and neurochemical basis of conditioned fear, 1999, (580.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1934|0|0.0|Journal of Dairy Research|87. Factors Affecting the Solubility of Milk Powders. III. Some Physico-chemical Properties of Concentrated Solutions of Milk Solids
+1938|1.0|1.0|Journal of Food Science|VITAMIN VALUES OF GARDENTYPE PEAS PRESERVED BY FROZENPACK METHOD. I. ASCORBIC ACID (VITAMIN C)
+1940|1.0|1.0|JAMA|THE EFFECT OF QUICK FREEZING ON THE NUTRITIVE VALUES OF FOODS
+1950|8.0|4.0|Nature|Survival of spermatozoa at low temperatures.
+1952|1.0|1.0|Journal of Dairy Science|Some Properties of Freeze-Dried Milk1
+1953|1.0|1.0|American Journal of Surgery|Freeze-dried aortic grafts?A preliminary report of experimental evaluation
+1954|2.0|1.0|Microbiology|Some Aspects of the Amino Acid Metabolism of Penicillium chrysogenum
+1955|1.0|1.0|British Journal of Nutrition|Availability of Copper in Freeze-dried Herbage and Herbage Extracts to Copper-deficient Rats
+1956|2.0|1.0|Tubercle|British freeze dried BCG vaccine: Preliminary clinical trial
+1959|3.0|2.0|Journal of Dairy Science|Free Fat in Foam-Dried Whole Milk
+1960|5.0|2.0|Nature|Lysosomal-like Particles in the Rat Mammary Gland
+1962|1.0|1.0|British Journal of Diseases of The Chest|Percutaneous multiple puncture inoculation of freeze-dried BCG
+1963|11.0|1.5|Journal of Chemical Physics|Dissociation Energy Computations in Diatomic Molecules: An Example
+1964|7.0|7.0|Clinica Chimica Acta|Paper electrophoretic analysis of b12 binding in human gastric juice
+1965|6.0|1.5|Antonie Van Leeuwenhoek International Journal of General and Molecular Microbiology|An electron microscope study of the cell surface of Cytophaga johnsonii and some observations on related organisms
+1966|1.0|1.0|Nature|Effects of Organic Solvents on the Adenosine Triphosphatase Activity of Erythrocyte Ghosts
+1967|4.0|2.0|Histochemistry and Cell Biology|Histochemical demonstration of carbonic anhydrase activity
+1968|4.0|1.0|Journal of Dairy Science|Characteristics of Lipase-Rich Fractions of Milk Protein1
+1969|9.0|3.0|Histochemistry and Cell Biology|Intact and regenerating sympathetic noradrenaline axons in the rat sciatic nerve
+1970|23.0|4.0|Metabolism-clinical and Experimental|Physiological factors regulating secretion of neurophysin
+1971|11.0|2.0|Cell and Tissue Research|Arrangement, ultrastructure, and adrenergic innervation of smooth musculature of the ductuli efferentes, ductus epididymidis and ductus deferens of man
+1972|16.0|2.0|Journal of Cell Biology|Freeze etching of cells without cryoprotectants.
+1973|9.0|1.0|Journal of Dairy Science|Lactase Potential of Various Microorganisms Grown in Whey
+1974|9.0|3.0|Journal of Cell Biology|INFLUENCE OF GLUTARALDEHYDE AND/OR OSMIUM TETROXIDE ON CELL VOLUME, ION CONTENT, MECHANICAL STABILITY, AND MEMBRANE PERMEABILITY OF EHRLICH ASCITES TUMOR CELLS
+1975|6.0|1.0|Cryobiology|Cryopreservation of human red cells in liquid nitrogen with hydroxyethyl starch
+1976|27.0|2.0|Histochemistry and Cell Biology|An improved histofluorescence procedure for freeze-dried paraffin-embedded tissue based on combined formaldehyde-glyoxylic acid perfusion with high magnesium content and acid pH
+1977|11.0|2.0|Marine Biology|Ecobiochemical Studies on the Deep-Water Pelagic Community of Korsfjorden, Western Norway. Adenine Nucleotides in Zooplankton*
+1978|23.0|1.0|Cryobiology|Microscopic observation of intracellular ice formation in unfertilized mouse ova as a function of cooling rate
+1979|11.0|3.0|Theriogenology|Deep freezing of cattle embryos in glass ampules or French straws
+1980|20.0|3.0|Theriogenology|Commercial aspects of bovine embryo transfer
+1981|15.0|2.5|Experimental Parasitology|Schistosoma mansoni: Cryopreservation of schistosomula by two-step addition of ethanediol and rapid cooling
+1982|18.0|2.0|Plant Physiology|Ethylene, Ethane, Acetaldehyde, and Ethanol Production By Plants under Stress
+1983|29.0|2.0|Journal of Neurochemistry|Metabolically Active Synaptosomes Can Be Prepared from Frozen Rat and Human Brain
+1984|19.0|1.0|Journal of Immunological Methods|The standardization of NK cell assays for use in studies of biological response modifiers
+1985|30.0|3.0|Archives of Biochemistry and Biophysics|Preservation of freeze-dried liposomes by trehalose
+1986|16.0|3.0|The Journal of Comparative Neurology|Intracephalic transplants of freezeStored rat hippocampal tissue
+1987|86.0|3.0|Journal of Chemical Physics|Molecular dynamics of a model SN2 reaction in water
+1988|44.0|3.0|Analytica Chimica Acta|Certification of a second-generation biological reference material (freeze-dried human serum) for trace element determinations
+1989|39.0|3.0|Journal of Cell Biology|Protein import through the nuclear pore complex is a multistep process.
+1990|53.0|3.0|Plant Molecular Biology|Cloning and characterization of a cold- and ABA-inducible Arabidopsis gene.
+1991|27.0|3.0|Theriogenology|Cryopreservation of ova and embryos from livestock: Current status and research needs
+1992|29.0|3.0|Theriogenology|Factors affecting low temperature survival of mammalian oocytes
+1993|66.0|2.0|Proceedings of the National Academy of Sciences of the United States of America|Structure of a human rhinovirus complexed with its receptor molecule.
+1994|40.0|3.0|Structure|Functional implications of quasi-equivalence in a T = 3 icosahedral animal virus established by cryo-electron microscopy and X-ray crystallography.
+1995|60.0|3.0|Cell|Nucleocapsid and glycoprotein organization in an enveloped virus
+1996|37.0|3.0|Neuroscience Research|Peripheral nerve regeneration
+1997|87.0|3.0|Behavioural Brain Research|Neurotoxic lesions of the dorsal hippocampus and Pavlovian fear conditioning in rats
+1998|97.0|4.0|Molecular Reproduction and Development|Open pulled straw (OPS) vitrification: A new way to reduce cryoinjuries of bovine ova and embryos
+1999|187.0|4.5|Neuroscience & Biobehavioral Reviews|The neuroanatomical and neurochemical basis of conditioned fear
+2000|182.0|6.0|Nature Genetics|Genome-wide, large-scale production of mutant mice by ENU mutagenesis.
+2001|104.0|6.0|Neuroscience & Biobehavioral Reviews|Corticosteroids in relation to fear, anxiety and psychopathology
+2002|93.0|6.0|Journal of Experimental Medicine|Epitope-specific Evolution of Human CD8+ T Cell Responses from Primary to Persistent Phases of Epstein-Barr Virus Infection
+2003|235.0|7.0|Annual Review of Physiology|The role of vitrification in anhydrobiosis.
+2004|171.0|7.0|Neuroscience & Biobehavioral Reviews|Regional dissociations within the hippocampusmemory and anxiety
+2005|194.0|7.0|Reproductive Biomedicine Online|Highly efficient vitrification method for cryopreservation of human oocytes
+2006|268.0|8.0|Chemosphere|Levels and trends of brominated flame retardants in the European environment.
+2007|162.0|8.0|Journal of Trauma-injury Infection and Critical Care|Fresh Frozen Plasma Should be Given Earlier to Patients Requiring Massive Transfusion
+2008|118.0|8.0|Biomaterials|Multiwall carbon nanotube scaffolds for tissue engineering purposes
+2009|198.0|8.0|The New England Journal of Medicine|Preservation of fertility in patients with cancer.
+2010|230.0|8.0|Journal of Experimental Botany|Phytochrome functions in Arabidopsis development

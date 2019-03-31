@@ -1,0 +1,59 @@
+----  Field Name Hardware-in-the-loop simulation: 
+----  Field Level 2.0: 
+----  Field Papers Number 17148:
+----  All time max citation paper: Lithium batteries: Status, prospects and future, 2010, (974.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1947|1.0|1.0||Power supply for generating station auxiliary services
+1956|1.0|1.0|Psychological Review|Structural balance: a generalization of Heider's theory
+1960|2.0|2.0|Journal of Applied Physics|On the Theory of the CloseSpaced Impregnated Cathode Thermionic Converter
+1961|3.0|1.0|Journal of Applied Physics|OPTIMIZATION OF EMISSION LIMITED THERMIONIC GENERATORS
+1962|0|0.0|Transactions of The American Institute of Electrical Engineers. Part Iii: Power Apparatus and Systems|Developmenbt of Power Vacuum Interrupters
+1963|0|0.0|Advanced Energy Conversion|Emitter corrosion in thermionic converters
+1964|4.0|3.0|Proceedings of The Institution of Electrical Engineers|Numerical techniques in solution of power-system load-flow problems
+1965|5.0|2.5|Proceedings of The Institution of Electrical Engineers|Effects of prime-mover governing and voltage regulation on turboalternator performance
+1966|1.0|0.5|Proceedings of The Institution of Electrical Engineers|Dynamic optimisation of a multimachine power system
+1967|14.0|1.0|Proceedings of The Institution of Electrical Engineers|Effect of excitation regulation on synchronous-machine stability
+1968|4.0|0.0|Proceedings of The Institution of Electrical Engineers|Performance of a predictive automatic load-dispatching system
+1969|3.0|0.0|Proceedings of The Institution of Electrical Engineers|Development of automatic digital control of a power system from the laboratory to a field installation
+1970|5.0|1.0|IEEE Transactions on Power Apparatus and Systems|State Estimation in Power Systems Part II: Implementation and Applications
+1971|3.0|0.0|Proceedings of The Institution of Electrical Engineers|Transient stability of power systems containing both synchronous and induction machines
+1972|3.0|1.0|IEEE Transactions on Magnetics|Superconductive energy storage for power systems
+1973|5.0|1.0|IEEE Transactions on Power Apparatus and Systems|Optimal Load Flow Solution Using the Hessian Matrix
+1974|39.0|1.0|Journal of Geophysical Research|VLF wave injection into the magnetosphere from Siple Station, Antarctica
+1975|31.0|2.0|Journal of Geophysical Research|VLF line radiation in the earth's magnetosphere and its association with power system radiation
+1976|6.0|3.0|Economic Record|A Linear Allocation of SpendingPower System:A Consumer Demand and Portfolio Model*
+1977|10.0|3.0|Journal of Applied Physics|Magnetic cutoff in highcurrent diodes
+1978|4.0|0.0|IEEE Transactions on Power Apparatus and Systems|An Improved Second Order Method for Optimal Load Flow
+1979|16.0|2.0|Journal of Chemical Physics|A highdensity fluidperturbation theory based on an inverse 12thpower hardsphere reference system
+1980|30.0|2.0|Journal of Geophysical Research|Thermal histories of convective Earth models and constraints on radiogenic heat production in the Earth
+1981|22.0|1.0|Solar Energy|Yearly average performance of the principal solar collector types
+1982|10.0|1.0|IEEE Transactions on Power Apparatus and Systems|Developments in Optimal Power Flow
+1983|12.0|1.0|IEEE Transactions on Power Apparatus and Systems|Reliable Bad Data Processing for Real-Time State Estimation
+1984|10.0|0.0|IEEE Transactions on Power Apparatus and Systems|Application of Direct Methods to Transient Stability Analysis of Power Systems
+1985|12.0|1.0|IEEE Transactions on Power Apparatus and Systems|Bad Data Identification Methods In Power System State Estimation-A Comparative Study
+1986|22.0|0.5|international conference on computer graphics and interactive techniques|Fast constructive-solid geometry display in the pixel-powers graphics system
+1987|35.0|0.0|Review of Scientific Instruments|Large-area low-noise seven-channel dc SQUID magnetometer for brain research
+1988|13.0|1.0|IEEE Transactions on Power Systems|An artificial intelligence system for power system contingency screening
+1989|27.0|1.0|Applied Physics Letters|High-efficiency indium tin oxide/indium phosphide solar cells
+1990|8.0|0.0|IEEE Transactions on Power Systems|Harmonic source monitoring and identification using neural networks
+1991|43.0|1.0|IEEE Transactions on Power Systems|Electric load forecasting using an artificial neural network
+1992|35.0|1.0|IEEE Transactions on Power Systems|Short term load forecasting using a multilayer neural network with an adaptive learning algorithm
+1993|33.0|1.0|IEEE Transactions on Power Systems|Neural network based short term load forecasting
+1994|8.0|1.0|IEEE Transactions on Power Systems|Economic dispatch in view of the Clean Air Act of 1990
+1995|38.0|1.0|Neural Networks|Chaotic simulated annealing by a neural network model with transient chaos
+1996|47.0|1.0|IEEE Transactions on Industry Applications|New trends in active filters for power conditioning
+1997|58.0|2.0|Physics Today|Thermoelectric materials: New approaches to an old problem
+1998|74.0|1.0|Developmental Biology|The Genetic Sequence of Retinal Development in the Ciliary Margin of the Xenopus Eye
+1999|48.0|2.0|Journal of Applied Physics|Performance evaluation of high-power wide band-gap semiconductor rectifiers
+2000|75.0|2.0|Nature Cell Biology|Visualization of gene activity in living cells
+2001|93.0|1.0||Interactive volume rendering using multi-dimensional transfer functions and direct manipulation widgets
+2002|113.0|2.0|Proceedings of the National Academy of Sciences of the United States of America|Complexity and robustness.
+2003|179.0|3.0||Electrical power systems quality
+2004|128.0|4.0|IEEE Transactions on Power Electronics|Power electronics as efficient interface in dispersed power generation systems
+2005|287.0|3.0|IEEE Pervasive Computing|Energy scavenging for mobile and wireless electronics
+2006|236.0|3.0|Measurement Science and Technology|Energy harvesting vibration sources for microsystems applications
+2007|410.0|2.0|Nature|Ultralow-power organic complementary circuits
+2008|342.0|2.0|IEEE Transactions on Evolutionary Computation|Particle Swarm Optimization: Basic Concepts, Variants and Applications in Power Systems
+2009|187.0|2.0|Electric Power Systems Research|Battery Energy Storage Technology for power systems-An overview
+2010|974.0|4.0|Journal of Power Sources|Lithium batteries: Status, prospects and future

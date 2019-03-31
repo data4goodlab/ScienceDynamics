@@ -1,0 +1,34 @@
+----  Field Name Landscape ecology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1857:
+----  All time max citation paper: Model selection in ecology and evolution, 2004, (1555.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1981|9.0|9.0|BioScience|Patches and Structural Components for a Landscape Ecology
+1982|4.0|4.0|Advances in Ecological Research|Landscape Ecology as an Emerging Branch of Human Ecosystem Science
+1984|6.0|1.0|Environmental Management|Hedgerows and hedgerow networks in landscape ecology
+1986|22.0|8.0|Biogeochemistry|Influence of climate, soil moisture, and succession on forest carbon and nitrogen cycles
+1987|14.0|7.0||Landscape Ecology: State of the Art
+1988|28.0|4.5|Landscape Ecology|Indices of landscape pattern
+1989|18.0|6.0|Landscape Ecology|Scaling Of `landscapes' In Landscape Ecology, Or, Landscape Ecology From A Beetle's Perspective
+1990|12.0|3.0|BioScience|Landscape conservation in a forested wetland watershed.
+1991|112.0|3.5|Biological Journal of The Linnean Society|Metapopulation dynamics: brief history and conceptual domain
+1992|14.0|3.0|Landscape Ecology|Relationships between landcover proportion and indices of landscape spatial pattern
+1993|84.0|14.5|Oikos|Ecological mechanisms and landscape ecology
+1994|16.0|7.5|Journal of Vegetation Science|Effects of fire on landscape heterogeneity in Yellowstone National Park, Wyoming
+1995|22.0|4.0|Landscape Ecology|Some general principles of landscape and regional ecology
+1996|16.0|4.0|Oecologia|Use of space and habitats by meadow voles at the home range, patch and landscape scales
+1997|49.0|6.0|Nature|Landscape ecology of algal symbionts creates variation in episodes of coral bleaching
+1998|91.0|7.5|Biological Conservation|Flagships, umbrellas, and keystones : Is single-species management pass in the landscape era ?
+1999|65.0|7.5|Biological Conservation|Matrix habitat and species richness in tropical forest remnants
+2000|103.0|8.0|Nature|The metapopulation capacity of a fragmented landscape
+2001|46.0|11.0|The American Naturalist|Toward Ecologically Scaled Landscape Indices
+2002|109.0|13.0|Freshwater Biology|Riverine landscapes: taking landscape ecology into the water
+2003|298.0|9.0|Annual Review of Ecology, Evolution, and Systematics|ROADS AND THEIR MAJOR ECOLOGICAL EFFECTS
+2004|530.0|13.0|Trends in Ecology and Evolution|Model selection in ecology and evolution
+2005|117.0|10.0|Annual Review of Ecology, Evolution, and Systematics|Landscape Ecology: What Is the State of the Science?
+2006|167.0|11.0|Landscape and Urban Planning|Urban effects on native avifauna: a review
+2007|251.0|10.0|Global Ecology and Biogeography|Landscape modification and habitat fragmentation: a synthesis
+2008|169.0|14.0|Ecology|VEGETATION PATCHES AND RUNOFFEROSION AS INTERACTING ECOHYDROLOGICAL PROCESSES IN SEMIARID LANDSCAPES
+2009|460.0|12.0|Biological Conservation|The Brazilian Atlantic Forest: How much is left, and how is the remaining forest distributed? Implications for conservation
+2010|196.0|11.0|The American Naturalist|The Matrix Matters: Effective Isolation in Fragmented Landscapes

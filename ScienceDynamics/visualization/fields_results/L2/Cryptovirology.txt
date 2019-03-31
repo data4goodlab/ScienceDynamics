@@ -1,0 +1,39 @@
+----  Field Name Cryptovirology: 
+----  Field Level 2.0: 
+----  Field Papers Number 3363:
+----  All time max citation paper: Investor Psychology and Security Market Under- and Overreactions, 1998, (1307.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1971|0|0.0|International Journal of Psychology|THE IUPS CONGRESS AS A SUBSYSTEM OF INTERNATIONAL COMMUNICATION AMONG PSYCHOLOGISTS
+1978|2.0|2.0|Cryogenics|Unit helium requirements for superconductive energy applications in the USA
+1979|0|0.0|IEEE Transactions on Magnetics|Helium requirements for a superconducting power network
+1981|10.0|10.0|ACM Transactions on Database Systems|Statistical database design
+1982|5.0|2.0|Management Science|Asymmetric Information, Incentives and Intrafirm Resource Allocation
+1983|1.0|1.0|Journal of Finance|Optimality of the Disclosure of Private Information in a ProductionExchange Economy
+1984|8.0|2.0|The RAND Journal of Economics|On Delegating Price Authority to a Regulated Firm
+1985|8.0|6.0|The RAND Journal of Economics|Noncooperative Regulation of a Nonlocalized Externality
+1986|13.0|4.0|Journal of Economic Theory|Financial intermediary-coalitions
+1987|25.0|4.0|The American Economic Review|Awarding Monopoly Franchises
+1988|12.0|3.5|international cryptology conference|How to (Really) Share a Secret
+1989|22.0|1.0|Journal of Political Economy|Convergence of Least-Squares Learning in Environments with Hidden State Variables and Private Information
+1990|16.0|4.5|Journal of Political Economy|The Efficient Market Hypothesis and Insider Trading on the Stock Market
+1991|31.0|3.0|Journal of Financial Economics|A Bayesian model of intraday specialist pricing
+1992|34.0|2.0|Journal of Finance|Sequential Sales, Learning, and Cascades
+1993|27.0|2.5|Journal of Finance|The Value of Bank Durability: Borrowers as Bank Stakeholders
+1994|32.0|2.0|Journal of Finance|Robust Financial Contracting and the Role of Venture Capitalists
+1995|24.0|2.0|Journal of Economic Perspectives|Consumption Insurance: An Evaluation of Risk-Bearing Systems in Low-Income Economies
+1996|45.0|2.0|Journal of Financial Economics|Market microstructure and asset pricing: On the compensation for illiquidity in stock returns
+1997|49.0|3.5|Journal of Human Resources|Instrumental Variables: A Study of Implicit Behavioral Assumptions Used in Making Program Evaluations
+1998|135.0|2.0|Journal of Finance|Investor Psychology and Security Market Under- and Overreactions
+1999|72.0|3.0|symposium on the theory of computing|Oblivious transfer and polynomial evaluation
+2000|40.0|2.0|international cryptology conference|Security of Signed ElGamal Encryption
+2001|107.0|4.0|Econometrica|Global Games: Theory and Applications
+2002|121.0|3.0|The American Economic Review|Social Value of Public Information
+2003|214.0|3.0|international conference on mobile systems, applications, and services|Anonymous Usage of Location-Based Services Through Spatial and Temporal Cloaking
+2004|78.0|2.0|international conference on data mining|Bottom-up generalization: a data mining solution to privacy protection
+2005|111.0|3.0|Economics Bulletin|Opting Out in a War of Attrition
+2006|119.0|3.0|Journal of Financial Economics|Momentum and post-earnings-announcement drift anomalies: The role of liquidity risk
+2007|91.0|4.0|Economics Bulletin|Income inequality, redistribution and democratization
+2008|160.0|3.5|international conference on management of data|Private queries in location based services: anonymizers are not necessary
+2009|109.0|4.0|Journal of Finance|Blockholder Trading, Market Efficiency, and Managerial Myopia
+2010|127.0|3.0|Review of Financial Studies|Distance and Private Information in Lending

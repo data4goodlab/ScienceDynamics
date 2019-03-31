@@ -1,0 +1,55 @@
+----  Field Name Reliability engineering: 
+----  Field Level 1.0: 
+----  Field Papers Number 42125:
+----  All time max citation paper: Regression Models and Life-Tables, 1992, (11495.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|9.0|9.0|Hereditas|THE MUTAGENIC EFFECT OF 8ETHOXYCAFFEIN, CAFFEIN AND DIMETHYLSULFATE IN THE OPHIOSTOMA BACKMUTATION TEST
+1962|0|0.0|Ire Transactions on Reliability and Quality Control|On Models for Reliability Prediction
+1964|3.0|3.0|IEEE Transactions on Reliability|Digital Circuit Redundancy
+1965|1.0|0.5|IEEE Transactions on Information Theory|Step-by-step decoding of the Bose-Chaudhuri- Hocquenghem codes
+1966|3.0|1.5|IEEE Transactions on Information Theory|Generalized minimum distance decoding
+1967|1.0|1.0|Psychological Research-psychologische Forschung|Changes in the Prevalence of Alpha Activity Associated with the Repetition, Performance and Magnitude of Arithmetical Calculations*
+1968|3.0|0.0|IEEE Transactions on Information Theory|Exponential error bounds for erasure, list, and decision feedback schemes
+1969|2.0|1.0|IEEE Transactions on Information Theory|Space-filling curves: Their generation and their application to bandwidth reduction
+1970|10.0|1.0|Journal of Experimental Child Psychology|Newborn Attention: Differential Response Decrement to Visual Stimuli.
+1971|12.0|1.0|IEEE Transactions on Reliability|A Method of Solving Redundancy Optimization Problems
+1972|11.0|2.0|IEEE Transactions on Information Theory|Computation of channel capacity and rate-distortion functions
+1973|15.0|1.0|Journal of Experimental Child Psychology|Developmental trends in children's component selection
+1974|15.0|4.0|Journal of Applied Physics|Oxidationinduced stacking faults in silicon. II. Electrical effects in P N diodes
+1975|14.0|2.0|Naunyn-schmiedebergs Archives of Pharmacology|Inotropic and Electrophysiological Actions of Verapamil and D 600 in Mammalian Myocardium III. Effects of the Optical Isomers on Transmembrane Action Potentials * **
+1976|26.0|1.0|IEEE Transactions on Reliability|A New Algorithm for Symbolic System Reliability Analysis
+1977|32.0|2.0|Applied Physics Letters|1500h continuous cw operation of doubleheterostructure GaInAsP/InP lasers
+1978|18.0|1.5|IEEE Transactions on Software Engineering|An Analysis of Competing Software Reliability Models
+1979|15.0|2.0|IEEE Transactions on Reliability|An Improved Algorithm for Network Reliability
+1980|65.0|1.0|Journal of Experimental Psychology: General|Dividing attention without alternation or automaticity
+1981|27.0|2.0|IEEE Transactions on Computers|Some Experiments in Local Microcode Compaction for Horizontal Machines
+1982|39.0|2.0|Annals of Statistics|Cox's Regression Model for Counting Processes: A Large Sample Study
+1983|29.0|2.0|Communications of The ACM|Design rules based on analyses of human error
+1984|28.0|2.0|Applied Physics Letters|Improvement of crystal homogeneities in liquidencapsulated Czochralski grown, semiinsulating GaAs by heat treatment
+1985|58.0|3.0|Proceedings of the IEEE|Vector quantization in speech coding
+1986|32.0|2.5|Philosophical Transactions of the Royal Society A|Brittle Failure in Compression: Splitting, Faulting and Brittle-Ductile Transition
+1987|29.0|2.0|IEEE Transactions on Information Theory|An updated table of minimum-distance bounds for binary linear codes
+1988|65.0|3.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Complete discrete 2-D Gabor transforms by neural networks for image analysis and compression
+1989|37.0|2.0|Nature|Production of a mutation in mouse En-2 gene by homologous recombination in embryonic stem cells
+1990|132.0|2.0|Biochemical and Biophysical Research Communications|C-type natriuretic peptide (CNP): a new member of natriuretic peptide family identified in porcine brain.
+1991|79.0|2.0|Review of Scientific Instruments|Using diode lasers for atomic physics
+1992|1801.0|2.0||Regression Models and Life-Tables
+1993|139.0|2.0|Communications of The ACM|The process group approach to reliable distributed computing
+1994|154.0|2.0|ACM Computing Surveys|RAID: high-performance, reliable secondary storage
+1995|147.0|2.0|IEEE Transactions on Software Engineering|Formal verification for fault-tolerant architectures: prolegomena to the design of PVS
+1996|226.0|3.0|Cell|Mutations of the human homolog of Drosophila patched in the nevoid basal cell carcinoma syndrome.
+1997|276.0|3.0|Cell|Cbfa1 , a Candidate Gene for Cleidocranial Dysplasia Syndrome, Is Essential for Osteoblast Differentiation and Bone Development
+1998|280.0|4.0|Journal of Experimental Medicine|Human Toll-like Receptor 2 Confers Responsiveness to Bacterial Lipopolysaccharide
+1999|154.0|4.0|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|Simplifying decision trees
+2000|235.0|4.0|American Journal of Human Genetics|A general test of association for quantitative traits in nuclear families.
+2001|157.0|4.0|Journal of Hepatology|Rates and risk factors of liver fibrosis progression in patients with chronic hepatitis C
+2002|311.0|5.0|Human Mutation|The IARC TP53 database: New Online mutation analysis and recommendations to users.
+2003|375.0|6.0|IEEE Transactions on Communications|Achieving near-capacity on a multiple-antenna channel
+2004|415.0|6.0|IEEE Transactions on Dependable and Secure Computing|Basic concepts and taxonomy of dependable and secure computing
+2005|234.0|5.0|Methods in Enzymology|Isolating Microsatellite DNA Loci
+2006|326.0|5.0|Cell|An Allosteric Mechanism for Activation of the Kinase Domain of Epidermal Growth Factor Receptor
+2007|261.0|4.0|computer vision and pattern recognition|Saliency Detection: A Spectral Residual Approach
+2008|402.0|4.0|Nature|Kemp elimination catalysts by computational enzyme design
+2009|340.0|3.0|Cancer Research|PIK3CA Mutations in Colorectal Cancer Are Associated with Clinical Resistance to EGFR-Targeted Monoclonal Antibodies
+2010|544.0|5.0|Nanoscale Research Letters|Nano-Floating Gate Memory Devices Composed of ZnO Thin-Film Transistors on Flexible Plastics

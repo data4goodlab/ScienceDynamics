@@ -1,0 +1,56 @@
+----  Field Name Avionics: 
+----  Field Level 2.0: 
+----  Field Papers Number 16992:
+----  All time max citation paper: A simple and very efficient method for generating cDNA libraries., 1983, (2311.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|8.0|4.0|Journal of Chemical Physics|ELECTRON SPIN RESONANCE STUDIES OF THE POTASSIUM SALT OF m-DINITROBENZENE NEGATIVE ION
+1961|1.0|1.0|Proceedings of The Institute of Radio Engineers|Oscillations and Noise in Low-Pressure DC Discharges
+1963|0|0.0|Proceedings of the IEEE|A pulse compression system employing a linear FM Gaussian signal
+1964|0|0.0|Proceedings of the IEEE|Orbital properties of the West Ford dipole belt
+1965|3.0|1.0|Proceedings of the IEEE|The Rayleigh region
+1966|20.0|1.5|Electroencephalography and Clinical Neurophysiology|Comprehensive spectral analysis of human EEG generators in posterior cerebral regions
+1967|6.0|0.0|Proceedings of the IEEE|An introduction to computer graphic terminals
+1968|3.0|1.0|Proceedings of the IEEE|The theoretical analysis of data compression systems
+1969|11.0|2.0|Journal of Geophysical Research|Composition and temperature of the neutral tropic lower thermosphere
+1970|4.0|0.5|Journal of Geophysical Research|On the wavelength dependence of radar echoes from the Moon
+1971|10.0|2.0|Transactions of the American Mathematical Society|Cubes with Knotted Holes,
+1972|16.0|1.5|Planetary and Space Science|Thermospheric observations combining chemical seeding and ground-based techniques. I - Winds, turbulence and the parameters of the neutral atmosphere.
+1973|42.0|0.0|Journal of Geophysical Research|Twin payload observations of incident and backscattered auroral electrons
+1974|16.0|4.5|Radio Science|Fieldaligned scattering from a heated region of the ionosphereObservations at HF and VHF
+1975|14.0|1.0|Journal of Geophysical Research|Simultaneous measurements of auroral particles and electric currents by a rocketborne instrument system: Introductory remarks
+1976|13.0|1.5|Applied Physics Letters|14 and 16 gasdynamic CO2 lasers
+1977|12.0|1.0|IEEE Journal of Oceanic Engineering|A scanning multichannel microwave radiometer for Nimbus-G and SeaSat-A
+1978|23.0|1.0|Icarus|Saturn's rings: Particle composition and size distribution as constrained by microwave observations. I - Radar observations
+1979|18.0|1.0|Journal of Geophysical Research|Gravity model improvement using Geos 3 (GEM 9 and 10)
+1980|31.0|2.0|Journal of Geophysical Research|Geoid height versus age for symmetric spreading ridges
+1981|21.0|2.0|Naunyn-schmiedebergs Archives of Pharmacology|Further evidence for negative feedback control of serotonin release in the central nervous system
+1982|32.0|3.0|Journal of Geophysical Research|The relationship between wind vector and normalized radar cross section used to derive SEASATA satellite scatterometer winds
+1983|533.0|2.0|Gene|A simple and very efficient method for generating cDNA libraries.
+1984|25.0|2.0|Biochemical and Biophysical Research Communications|L-Proline is an essential amino acid for hepatocyte growth in culture
+1985|17.0|1.5|Journal of Geophysical Research|Subionospheric VLF/LF phase perturbations produced by lightningwhistler induced particle precipitation
+1986|84.0|2.0|Experimental Brain Research|Linear and nonlinear effects in the interactions of motor units and muscle spindle afferents
+1987|40.0|1.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|A theory of multirate filter banks
+1988|23.0|2.0|IEEE Journal on Selected Areas in Communications|Multichannel bandwidth allocation in a broadband packet switch
+1989|23.0|2.0|IEEE Assp Magazine|Applications of distributed arithmetic to digital signal processing: a tutorial review
+1990|119.0|2.0|IEEE Computer|Real-time scheduling theory and Ada
+1991|113.0|2.0|vehicular technology conference|Overview of cellular CDMA
+1992|43.0|2.0|Geophysical Journal International|Antarctic marine gravity field from high-density satellite altimetry
+1993|61.0|1.0|Neuroscience Letters|Nitric oxide synthase in guinea pig lower airway innervation
+1994|39.0|2.0|Proceedings of the IEEE|Generalized rate-monotonic scheduling theory: a framework for developing real-time systems
+1995|48.0|2.0|IEEE Transactions on Information Theory|Optimum soft-output detection for channels with intersymbol interference
+1996|54.0|2.0|IEEE Journal on Selected Areas in Communications|Design of logical topologies for wavelength-routed optical networks
+1997|71.0|2.0|computer vision and pattern recognition|Coupled hidden Markov models for complex action recognition
+1998|60.0|2.0|Journal of Dairy Science|Trans-Octadecenoic Acids and Milk Fat Depression in Lactating Dairy Cows1
+1999|152.0|3.0|Journal of High Speed Networks|Terabit burst switching
+2000|193.0|3.0|automated software engineering|Model checking programs
+2001|103.0|2.5|IEEE Communications Magazine|Techniques for optical packet switching and optical burst switching
+2002|202.0|3.0|Nature|Questioning the evidence for Earth's oldest fossils.
+2003|130.0|3.0|IEEE Transactions on Circuits and Systems for Video Technology|H.264/AVC over IP
+2004|196.0|4.0|recent advances in intrusion detection|Anomalous Payload-Based Network Intrusion Detection
+2005|197.0|3.0|Gastroenterology|Prospective comparison of transient elastography, Fibrotest, APRI, and liver biopsy for the assessment of fibrosis in chronic hepatitis C
+2006|275.0|3.0|Polymer|Advanced functional polymer membranes
+2007|232.0|3.0|IEEE Control Systems Magazine|Information consensus in multivehicle cooperative control
+2008|142.0|2.0|IEEE Communications Surveys and Tutorials|A survey of techniques for internet traffic classification using machine learning
+2009|240.0|2.0|The International Journal of Aviation Psychology|The Evolution of Crew Resource Management Training in Commercial Aviation
+2010|176.0|4.0|IEEE Transactions on Control Systems and Technology|A Survey of Fault Detection, Isolation, and Reconfiguration Methods

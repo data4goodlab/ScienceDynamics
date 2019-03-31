@@ -1,0 +1,48 @@
+----  Field Name Engineering design process: 
+----  Field Level 2.0: 
+----  Field Papers Number 3462:
+----  All time max citation paper: An efficient constraint handling method for genetic algorithms, 2000, (998.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1967|12.0|7.0||The AED approach to generalized computer-aided design
+1969|0|0.0|Experimental Mechanics|Determination of mechanical properties of the bones of the skull
+1970|17.0|9.0|Communications of The ACM|Representations for space planning
+1971|0|0.0|Proceedings of the IEEE|Educational aspects of computer-aided design
+1972|4.0|0.5|Proceedings of the IEEE|Automatic recognition of print and script
+1973|1.0|0.0|IEEE Transactions on Biomedical Engineering|Technologic and Biologic Considerations in Neuro-Urologic Prostheses Development
+1974|4.0|2.0|Nuclear Engineering and Design|Status and safety aspects of the 300 MW(e) GCFR demonstration plant
+1976|4.0|1.0|International Journal of Hydrogen Energy|Metal hydride storage for mobile and stationary applications
+1977|14.0|1.0|Review of Scientific Instruments|Optics of singlestage accelerated ion beams extracted from a plasma
+1978|8.0|2.0|Journal of Computational Physics|Optics of ion beams of arbitrary perveance extracted from a plasma
+1979|2.0|2.0|Experimental Mechanics|On the variation of fatigue-crack-opening load with measurement location
+1980|2.0|2.0|Combustion Science and Technology|A Fundamental Model for Predicting Fuel Consumption, NO x and HC Emissions of the Conventional Spark-Ignited Engine
+1981|6.0|3.0|Journal of Geophysical Research|Electric fields and plasma waves resulting from a Barium Injection Experiment
+1982|2.0|1.0|ACM Sigsoft Software Engineering Notes|The disciplined use of simplifying assumptions
+1983|8.0|3.0|design automation conference|Design Through Transformation
+1984|27.0|1.5|very large data bases|A Transaction Mechanism for Engineering Design Databases
+1985|2.0|0.0|Materials Science and Engineering|Applications of high performance ceramics in heat engine design
+1986|37.0|4.0||The architecture of the EXODUS extensible DBMS
+1987|13.0|4.0|Water Resources Research|Groundwater contamination from waste management sites: The interaction between riskbased engineering design and regulatory policy: 2. Results
+1988|4.0|1.0|international conference on supercomputing|The connection machines CM-1 and CM-2: solving nonlinear network problems
+1989|19.0|2.5|international symposium on physical design|Ascend: an object-oriented computer environment for modeling and analysis
+1990|9.0|3.0|Journal of Construction Engineering and Management-asce|Expert Systems Applications in Construction Management and Engineering
+1991|25.0|1.0|Journal of Applied Physics|On optimizing maximumpower heat engines
+1992|16.0|3.0|Fuzzy Sets and Systems|Engineering design calculations with fuzzy parameters
+1993|18.0|1.0||An Overview of the n-dim environment
+1994|18.0|2.0|IEEE MultiMedia|Shastra: multimedia collaborative design environment
+1995|16.0|1.0|Journal of Vibration and Acoustics|Imprecision in Engineering Design
+1996|23.0|1.0|Journal of Global Optimization|A branch-and-reduce approach to global optimization
+1997|29.0|2.0|Management Science|A predictive model of sequential iteration in engineering design
+1998|31.0|2.0|Structural Optimization|A Rigorous Framework for Optimization of Expensive Functions by Surrogates
+1999|168.0|2.0|acm ieee international conference on mobile computing and networking|Next century challenges: mobile networking for Smart Dust
+2000|82.0|3.0|Computer Methods in Applied Mechanics and Engineering|An efficient constraint handling method for genetic algorithms
+2001|113.0|4.0|Management Science|Product Development Decisions: A Review of the Literature
+2002|81.0|4.0||A Functional Basis for Engineering Design: Reconciling and Evolving Previous Efforts
+2003|135.0|3.0|IEEE Transactions on Nanotechnology|Array-based architecture for FET-based, nanoscale electronics
+2004|114.0|5.0|Computers & Chemical Engineering|Optimization under uncertainty: state-of-the-art and opportunities
+2005|59.0|3.5|Metabolic Engineering|Novel pathway engineering design of the anaerobic central metabolic pathway in Escherichia coli to increase succinate yield and productivity.
+2006|147.0|5.0|IEEE Transactions on Automatic Control|Adaptive synchronization of an uncertain complex dynamical network
+2007|106.0|4.0|Journal of Mechanical Design|Review of Metamodeling Techniques in Support of Engineering Design Optimization
+2008|84.0|4.0|Computer Methods in Applied Mechanics and Engineering|Computational methods in optimization considering uncertainties  An overview
+2009|98.0|4.0|Renewable & Sustainable Energy Reviews|Logistics issues of biomass: The storage problem and the multi-biomass supply chain
+2010|208.0|4.0|Acta Mechanica|A novel heuristic optimization method: charged system search

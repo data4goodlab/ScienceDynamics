@@ -1,0 +1,60 @@
+----  Field Name Process control: 
+----  Field Level 2.0: 
+----  Field Papers Number 23684:
+----  All time max citation paper: Model predictive control: theory and practicea survey, 1989, (1066.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1955|3.0|3.0|Radiation Research|THE DIRECT ACTION OF FAST CHARGED PARTICLES ON HYALURONIC ACID, HYALURONIDASE, AND A COMBINATION OF THE ENZYME AND SUBSTRATE
+1956|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|SPECTROPHOTOMETRIC ESTIMATION OF URANIUM(VI) BY MORELLIN
+1959|0|0.0||MEASUREMENT OF ELECTRON FLUX IN IRRADIATED MEDIA BY AC METHODS (thesis)
+1960|7.0|7.0|Archives of Biochemistry and Biophysics|On the mechanism of enzyme action. LXXI. Acylations of trypsin in organic solvents
+1961|0|0.0|Journal of the Optical Society of America|The Dielectric Bolometer, A New Type of Thermal Radiation Detector
+1962|12.0|0.5|Biochemical Pharmacology|THE EFFECT OF CYTOTOXIC AGENTS ON THE PRODUCTION OF ANTIBODY TO T.A.B. VACCINE IN THE MOUSE
+1963|2.0|0.0|Analytical Biochemistry|Analysis of estrogens with bromine-82
+1964|6.0|1.0|JAMA|Indirect Basophil Degranulation Test in Penicillin Allergy
+1965|4.0|1.5|Geochimica et Cosmochimica Acta|The zinc contents of some geochemical standards by neutron activation and X-ray fluorescence analysis
+1966|11.0|2.0|Archives of Dermatology|PHOTOALLERGIC CONTACT DERMATITIS DUE TO HALOGENATED SALICYLANILIDES AND RELATED COMPOUNDS.
+1967|5.0|1.0|Journal of Geophysical Research|Preliminary results on the wavelength dependence and aspect sensitivity of radar auroral echoes between 50 and 3000 Mhz
+1968|12.0|2.0|Radiation Botany|POST-IRRADIATION OXYGEN SENSITIVITY OF BARLEY SEEDS VARYING SLIGHTLY IN WATER CONTENT.
+1969|8.0|1.0|Molecular Genetics and Genomics|Common Steps in the Repair of Alkylation and Radiation Damage in Yeast,
+1970|6.0|2.0|Experimental Parasitology|Sensory basis of activation in nematodes
+1971|2.0|0.0|IEEE Journal of Solid-state Circuits|Some reliability considerations pertaining to LSI technology
+1972|17.0|1.5|Cryogenics|JOSEPHSON EFFECT DEVICES AND LOW-FREQUENCY FIELD SENSING.
+1973|7.0|1.0|Journal of Hydrology|The role of sensitivity analysis in hydrologic modeling
+1974|9.0|2.0|Journal of Low Temperature Physics|Principles and methods of low frequency electric and magnetic measurements using an rf biased point contact superconducting device
+1975|9.0|4.0|Applied Physics Letters|High-sensitivity optical recording in KTN by two-photon absorption
+1976|18.0|0.0|Photochemistry and Photobiology|ACTION SPECTRA FOR LETHALITY IN RECOMBINATIONLESS STRAINS OF SALMONELLA TYPHIMURIUM AND ESCHERICHIA COLI*
+1977|11.0|3.5|Journal of Applied Physics|SQUID instruments and shielding for lowlevel magnetic measurements
+1978|24.0|5.0|IEEE Computer|The Honeywell Experimental Distributed Processor &#8211; an Overview
+1979|37.0|3.5|Automatica|Self-tuning regulators for a class of multivariable systems
+1980|30.0|3.0|Automatica|A multivariable self-tuning controller
+1981|46.0|5.0|Archives of General Psychiatry|Platelet 2-Adrenergic Receptors in Major Depressive Disorder: Binding of Tritiated Clonidine Before and After Tricyclic Antidepressant Drug Treatment
+1982|29.0|4.5|IEEE Computer|Evolution of the Ethernet Local Computer Network
+1983|32.0|2.0|Applied Physics Letters|Photothermal Spectroscopy Using a Pyroelectric Thin Film Detector.
+1984|26.0|3.0|Automatica|Practical Issues in the Implementation of Self-Tuning Control
+1985|27.0|3.0|Communications of The ACM|On design principles for a molecular computer
+1986|31.0|3.0|IEEE Computer|An Architectural Comparison of Dataflow Systems
+1987|37.0|2.0|Remote Sensing of Environment|Relationships between vegetation indices, radiation absorption, and net photosynthesis evaluated by a sensitivity analysis
+1988|47.0|1.0|IEEE Software|Characterizing the software process: a maturity framework
+1989|78.0|2.0|international symposium on microarchitecture|Distributed fault-tolerant real-time systems: the Mars approach
+1990|48.0|2.0|Computers & Chemical Engineering|Adaptive networks for fault diagnosis and process control
+1991|59.0|3.0|New Phytologist|MECHANISMS OF ACTION OF ABSCISIC-ACID AT THE CELLULAR-LEVEL
+1992|117.0|2.0|IEEE Transactions on Neural Networks|Gaussian networks for direct adaptive control
+1993|72.0|3.0|IEEE Transactions on Fuzzy Systems|Fuzzy control of pH using genetic algorithms
+1994|114.0|2.0|Journal of Applied Physics|Raman fingerprinting of amorphous carbon films
+1995|83.0|2.0|Cytometry|Computer image analysis of comparative genomic hybridization.
+1996|67.0|2.0|Journal of Geophysical Research|Origin of ozone and NOx in the tropical troposphere: A photochemical analysis of aircraft observations over the South Atlantic basin
+1997|78.0|2.5|IEEE Journal of Solid-state Circuits|A 1.9-GHz wide-band IF double conversion CMOS receiver for cordless telephone applications
+1998|125.0|2.0|Advances in Marine Biology|The Effects of Fishing on Marine Ecosystems
+1999|55.0|3.0|Journal of Clinical Epidemiology|Further Evidence Supporting an SEM-Based Criterion for Identifying Meaningful Intra-Individual Changes in Health-Related Quality of Life
+2000|89.0|3.0|American Journal of Human Genetics|Melanocortin-1 Receptor Polymorphisms and Risk of Melanoma: Is the Association Explained Solely by Pigmentation Phenotype?
+2001|211.0|4.0|international acm sigir conference on research and development in information retrieval|A study of smoothing methods for language models applied to Ad Hoc information retrieval
+2002|81.0|4.0|Human Brain Mapping|Monte Carlo simulation studies of EEG and MEG localization accuracy
+2003|165.0|5.0|Chest|Noninvasive Staging of Non-small Cell Lung Cancer: A Review of the Current Evidence
+2004|374.0|4.0|Journal of Geophysical Research|Analysis of process controls in land surface hydrological cycle over the continental United States
+2005|268.0|5.0|Proteomics|Overview of the HUPO Plasma Proteome Project: Results from the pilot phase with 35 collaborating laboratories and multiple analytical groups, generating a core dataset of 3020 proteins and a publiclyavailable database
+2006|273.0|4.0|International Journal of Cancer|Overview of the European and North American studies on HPV testing in primary cervical cancer screening
+2007|179.0|5.0|Journal of Neurophysiology|Reward Value Coding Distinct From Risk Attitude-Related Uncertainty Coding in Human Reward Systems
+2008|568.0|2.0|Proceedings of the National Academy of Sciences of the United States of America|Tipping elements in the Earth's climate system.
+2009|398.0|2.0|Biosensors and Bioelectronics|Glucose oxidase-graphene-chitosan modified electrode for direct electrochemistry and glucose sensing.
+2010|929.0|3.0|Journal of Statistical Software|Inverse Modelling, Sensitivity and Monte Carlo Analysis in R Using Package FME

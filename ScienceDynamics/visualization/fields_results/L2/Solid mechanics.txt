@@ -1,0 +1,71 @@
+----  Field Name Solid mechanics
+----  Field Level 2.0
+----  Field Papers Number 65511
+----  All time max citation paper Measurement of the Elastic Properties and Intrinsic Strength of Monolayer Graphene, 2008, (4174.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1937|0|0.0|Philosophical Magazine Series 1|XXXVII. A dynamical method for the measurement of Young's Modulus for imperfectly elastic metals, and the application of the method to nickel and some of its alloys
+1944|0|0.0||Bionomics and Control of the Nigra Scale, Saissetia nigra.
+1946|1.0|1.0|Annals of Applied Biology|A mosaic disease of cowpea (Vigna sinensis Endl.)
+1948|1.0|1.0|Annals of Applied Biology|Observations on a Virus Disease of certain Crucifers in Trinidad.
+1949|3.0|3.0|Journal of Applied Physics|The Compatibility, Efficiency and Permanence of Plasticizers
+1950|7.0|3.5|Journal of Applied Physics|Mechanical and Electrical Properties of Plasticized Vinyl Chloride Compositions
+1951|1.0|1.0|Journal of Applied Physics|Relation of Tensile Strength to Brittle Temperature in Plasticized Polymers
+1952|1.0|1.0|Journal of Chemical Physics|Statistical Theory of Networks of NonGaussian Flexible Chains
+1953|1.0|0.0|Journal of Chemical Physics|On the Kinetics of the DisorderOrder Transformation in Cu3Au
+1955|3.0|1.0|Journal of Applied Physics|Creep of Zinc Crystals
+1956|8.0|5.0|Journal of Applied Physics|Transformations in Disordered Gold Copper Alloys
+1957|5.0|2.0|Microbiology|Autolytic Release and Osmotic Properties of Protoplasts from Staphylococcus aureus
+1958|5.0|2.0|Journal of the American Ceramic Society|HighTemperature Mechanical Properties of Ceramic Materials: I, Magnesium Dititanate
+1959|7.0|5.0|Progress in Metal Physics|X-RAY STUDIES OF DEFORMED METALS
+1960|34.0|6.5|Physics of Fluids|Irreversible Processes in Ionized Gases
+1961|10.0|2.0|Nuclear Physics|NUCLEAR OCTUPOLE DEFORMATION AND THE MECHANISM OF FISSION
+1962|18.0|1.5|Journal of Applied Physics|CHEMICAL ETCHING OF CHARGED-PARTICLE TRACKS IN SOLIDS
+1963|37.0|2.0|Journal of Geophysical Research|Whistler evidence of a knee in the magnetospheric ionization density profile
+1964|11.0|1.5|Journal of the American Ceramic Society|Creep, Strength, Expansion, and Elastic Moduli of Sintered BeO As a Function of Grain Size, Porosity, and Grain Orientation
+1965|27.0|1.0|Journal of Geophysical Research|Some new measurements of linear compressibility of rocks
+1966|15.0|2.0|Journal of Geophysical Research|Elasticity of ultrabasic rocks
+1967|9.0|1.0|Geochimica et Cosmochimica Acta|Some characteristics of enstatite from enstatite achondrites.
+1968|21.0|1.0|Journal of Geophysical Research|Elevation differences on Mars.
+1969|18.0|1.0|Journal of Geophysical Research|The elastic constants of singlecrystal orthopyroxene
+1970|28.0|1.0|Journal of Physics and Chemistry of Solids|On the fourth-order anharmonic equation of state of solids
+1971|13.0|1.0|Engineering Fracture Mechanics|Finite elements for determination of crack tip elastic stress intensity factors.
+1972|26.0|1.5|Journal of Geophysical Research|Seismicwave attenuation and partial melting in the upper mantle of North America
+1973|20.0|1.0|Journal of Geophysical Research|Mariner 9 television observations of Phobos and Deimos, 2
+1974|21.0|1.0|Journal of The Mechanics and Physics of Solids|Limitations to the small scale yielding approximation for crack tip plasticity
+1975|57.0|1.0|Reviews of Geophysics|Structure and constitution of the lower oceanic crust
+1976|13.0|2.0|Journal of Geophysical Research|Seismic structure of the Juan de Fuca Ridge: Ocean bottom seismometer results from the Median Valley
+1977|47.0|1.0|Journal of Geophysical Research|Viscoelastic properties of fluidsaturated cracked solids
+1978|23.0|1.0|Journal of Applied Physics|The influence of structural relaxation on the density and Youngs modulus of metallic glasses
+1979|24.0|2.0|Icarus|Tharsis Province of Mars - Geologic sequence, geometry, and a deformation mechanism
+1980|27.0|1.0|Journal of Structural Geology|Extensional structures in anisotropic rocks
+1981|39.0|2.0|Journal of The Mechanics and Physics of Solids|Flow localization in the plane strain tensile test
+1982|46.0|1.0|Developmental Brain Research|Retinocollicular projections in the neonatal rat: an anatomical basis for plasticity
+1983|54.0|2.0|Materials and Structures|Crack band theory for fracture of concrete
+1984|92.0|2.0|Journal of Structural Geology|S-C Mylonites
+1985|88.0|2.0|Acta Metallurgica|Effect of boron on grain-boundaries in Ni 3 Al
+1986|54.0|2.0|Journal of the American Ceramic Society|Strength Characteristics of TransformationToughened Zirconia
+1987|64.0|2.0|Journal of The Mechanics and Physics of Solids|Small-Scale Crack Bridging and the Fracture Toughness of Particulate-Reinforced Ceramics,
+1988|138.0|2.0|Brain Research Reviews|Neurotransmitters in the regulation of neuronal cytoarchitecture
+1989|97.0|2.0|Brain Research|Hippocampal interneuron loss and plasticity in human temporal lobe epilepsy
+1990|154.0|3.0|Journal of the American Ceramic Society|Perspective on the Development of HighToughness Ceramics
+1991|107.0|2.0|Journal of the American Ceramic Society|Theory of Mechanical Properties of CeramicMatrix Composites
+1992|96.0|2.0|Annals of Neurology|Functional reorganization of the brain in recovery from striatocapsular infarction in man
+1993|326.0|2.0|Pain|Contribution of central neuroplasticity to pathological pain: review of clinical and experimental evidence
+1994|49.0|2.0|European Journal of Neuroscience|Rat Hippocampal Kindling Induces Changes in the Glutamate Receptor mRNA Expression Patterns in Dentate Granule Neurons
+1995|68.0|2.0|Bone|Predicting vertebral deformity using bone densitometry at various skeletal sites and calcaneus ultrasound
+1996|55.0|2.0|Journal of Geophysical Research|Poisson's ratio and crustal seismology
+1997|110.0|2.0|Nature|Controlled production of aligned-nanotube bundles
+1998|134.0|3.0|Journal of The Mechanics and Physics of Solids|Indentation size effects in crystalline materials: A law for strain gradient plasticity
+1999|85.0|3.0|Trends in Neurosciences|Coherent oscillations and short-term plasticity in corticothalamic networks
+2000|541.0|4.0|Acta Materialia|Stabilization of metallic supercooled liquid and bulk amorphous alloys
+2001|257.0|4.0|Stem Cells|BONE MARROW STROMAL STEM CELLS: NATURE, BIOLOGY, AND POTENTIAL APPLICATIONS
+2002|142.0|5.0|Neuroscience|Nervous system reorganization following injury
+2003|418.0|5.0|Annual Review of Biochemistry|MATRIX PROTEOGLYCANS: From Molecular Design to Cellular Function
+2004|135.0|5.0|Polymer|Mechanical properties and electrical conductivity of carbon-nanotube filled polyamide-6 and its blends with acrylonitrile/butadiene/styrene
+2005|448.0|6.0|Annual Review of Neuroscience|ADULT NEUROGENESIS IN THE MAMMALIAN CENTRAL NERVOUS SYSTEM
+2006|593.0|5.0|Annual Review of Neuroscience|NEURAL MECHANISMS OF ADDICTION: The Role of Reward-Related Learning and Memory
+2007|274.0|5.0|Science|Ultrastrong and Stiff Layered Polymer Nanocomposites
+2008|2243.0|6.0|Science|Measurement of the Elastic Properties and Intrinsic Strength of Monolayer Graphene
+2009|473.0|6.0|Nature Reviews Neuroscience|Stress, memory and the amygdala
+2010|539.0|6.0|Nanoscale Research Letters|Characterization of Films with Thickness Less than 10 nm by Sensitivity-Enhanced Atomic Force Acoustic Microscopy

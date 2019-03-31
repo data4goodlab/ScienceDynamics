@@ -1,0 +1,44 @@
+----  Field Name Mathematical and theoretical biology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1742:
+----  All time max citation paper: PATHOGEN POPULATION GENETICS, EVOLUTIONARY POTENTIAL, AND DURABLE RESISTANCE, 2003, (568.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1954|1.0|1.0|Bulletin of Mathematical Biology|Topology and life: In search of general mathematical principles in biology and sociology
+1962|0|0.0|Bulletin of Mathematical Biology|Dimensional analysis in mathematical biology. II
+1969|2.0|2.0|Quarterly Journal of Experimental Psychology|Judging the order of visual stimuli
+1971|0|0.0|Bulletin of Mathematical Biology|Organismic Supercategories and Qualitative Dynamics of Systems
+1973|1.0|0.5|Bellman Prize in Mathematical Biosciences|A system of axioms for mathematical biology
+1978|0|0.0|Russian Mathematical Surveys|CRITICAL POINTS OF FUNCTIONS ON A MANIFOLD WITH BOUNDARY, THE SIMPLE LIE GROUPS Bk, Ck, AND F4 AND SINGULARITIES OF EVOLUTES
+1979|2.0|1.0|Bulletin of Mathematical Biology|The bifurcation diagram of a model chemical reaction-II. Two dimensional time-periodic patterns
+1980|6.0|5.0|Journal of Mathematical Biology|Transition from polar to duplicate patterns
+1981|6.0|4.0||The Correlation Theory of Brain Function
+1982|7.0|5.5|Physica D: Nonlinear Phenomena|A picture of the global bifurcation diagram in ecological interacting and diffusing systems
+1983|1.0|1.0||NATURAL TRANSFORMATION MODELS IN MOLECULAR BIOLOGY
+1984|21.0|3.0|Journal of Fluid Mechanics|The topological properties of magnetic helicity
+1985|6.0|3.0|Physics of Fluids|Three-drift-wave interaction at finite parallel wavelength: Bifurcations and transition to turbulence
+1986|7.0|2.0|Communications in Mathematical Physics|Bifurcations of circle maps: Arnol'd tongues, bistability and rotation intervals
+1987|10.0|5.0|Journal of Statistical Physics|Homoclinic orbits and mixed-mode oscillations in far-from-equilibrium systems
+1988|17.0|3.5|Biometrics|Regression trees for censored data
+1989|10.0|1.0|Journal of Dynamics and Differential Equations|Equivariant bifurcation theory and symmetry breaking
+1990|22.0|1.0|Geophysical Research Letters|Are earthquakes an example of deterministic chaos?
+1991|11.0|3.0|Combustion and Flame|Bifurcation behavior in homogeneous-heterogeneous combustion: I. Experimental results over platinum
+1992|16.0|0.5|Journal of Chemical Physics|Mixedmode oscillations in chemical systems
+1993|19.0|1.0|Journal of Vegetation Science|Ecological response surfaces for North American boreal tree species and their use in forest classification
+1994|14.0|2.0|Journal of Applied Physics|Diffusive void bifurcation in stressed solid
+1995|50.0|2.0|Current Opinion in Neurobiology|Binding in models of perception and brain function
+1996|17.0|1.0|Chemical Engineering Science|Classification of steady-state and dynamic behavior of distributed reactor models
+1997|21.0|2.0|Journal of Chemical Physics|Oscillatory instabilities during formic acid oxidation on Pt(100), Pt(110) and Pt(111) under potentiostatic control. II. Model calculations
+1998|17.0|3.0|Journal of Rheology|Closure approximations for the Doi theory: Which to use in simulating complex flows of liquid-crystalline polymers?
+1999|19.0|2.0|Journal of Theoretical Biology|Emerging patterns and food recruitment in ants : an analytical study
+2000|39.0|3.0|Physica D: Nonlinear Phenomena|From Kuramoto to Crawford: exploring the onset of synchronization in populations of coupled oscillators
+2001|41.0|4.0|Journal of Chemical Physics|Coarse Stability and Bifurcation Analysis Using Stochastic Simulators: Kinetic Monte Carlo Examples
+2002|57.0|3.0|BioEssays|The dynamics of cell cycle regulation
+2003|148.0|4.0|Annual Review of Phytopathology|PATHOGEN POPULATION GENETICS, EVOLUTIONARY POTENTIAL, AND DURABLE RESISTANCE
+2004|144.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Detection of multistability, bifurcations, and hysteresis in a large class of biological positive-feedback systems
+2005|38.0|5.0|Plant and Soil|A numerical investigation into the influence of soil type and root architecture on tree anchorage
+2006|86.0|4.0|Biophysical Journal|Analysis of a generic model of eukaryotic cell-cycle regulation.
+2007|46.0|4.0|Chaos Solitons & Fractals|Complex dynamics of a Holling type II preypredator system with state feedback control
+2008|95.0|3.0|Mathematical and Computer Modelling|Solution of delay differential equations via a homotopy perturbation method
+2009|113.0|3.0|Molecular Biology and Evolution|Spatial Inference of Admixture Proportions and Secondary Contact Zones
+2010|121.0|5.0|Philosophical Transactions of the Royal Society B|Evolutionary Dynamics in Structured Populations

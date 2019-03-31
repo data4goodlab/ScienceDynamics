@@ -1,0 +1,49 @@
+----  Field Name Cognitive science: 
+----  Field Level 1.0: 
+----  Field Papers Number 17819:
+----  All time max citation paper: Cognitive and emotional influences in anterior cingulate cortex, 2000, (2771.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1966|1.0|1.0|Biological Cybernetics|An Information processing theory of human decision making under uncertainty and risk
+1968|1.0|1.0|Journal of School Psychology|The effectiveness of a new sequential learning program with culturally disadvantaged preschool children
+1969|6.0|5.0|Child Development|Deep Structure in the Noun-Pair Learning of Children and Adults.
+1971|5.0|0.0|Journal of Experimental Child Psychology|Transfer and Sequence in Learning Double Classification Skills.
+1972|4.0|1.0|IEEE Transactions on Computers|On the Synthesis of Finite-State Machines from Samples of Their Behavior
+1973|6.0|0.0|Journal of Experimental Psychology|Contextual Associations and Memory for Serial Position.
+1974|9.0|2.0|Journal of Learning Disabilities|WISC Subtest Scores of Disabled Readers: A Review With Respect to Bannatyne's Recategorization
+1975|6.0|1.0|Electroencephalography and Clinical Neurophysiology|A simulation study of the efficacy of stepwise discriminant analysis in the detection and comparison of event related potentials
+1976|38.0|5.0|Organizational Behavior and Human Performance|Task complexity and contingent processing in decision making: An information search and protocol analysis
+1977|65.0|4.0|Electroencephalography and Clinical Neurophysiology|On the influence of task relevance and stimulus probability on event-related potential components
+1978|56.0|3.5|Cognitive Psychology|The psychology of syllogisms
+1979|57.0|5.5|Behavioral and Brain Sciences|On the demystification of mental imagery
+1980|164.0|6.0|Behavioral and Brain Sciences|Computation and cognition: issues in the foundations of cognitive science
+1981|71.0|4.5|Behavioral and Brain Sciences|Modeling a paranoid mind
+1982|47.0|4.0|Cognitive Science|Connectionist Models and Their Properties
+1983|257.0|3.5|Behavioral and Brain Sciences|Intentional systems in cognitive ethology: The Panglossian paradigm defended
+1984|56.0|7.5|Nature|Brain potentials during reading reflect word expectancy and semantic association.
+1985|57.0|4.0|Electroencephalography and Clinical Neurophysiology|Auditory frequency discrimination and event-related potentials
+1986|72.0|3.0|Psychophysiology|Separability of Different Negative Components of the EventRelated Potential Associated with Auditory Stimulus Processing
+1987|163.0|6.0|Psychophysiology|The N1 Wave of the Human Electric and Magnetic Response to Sound: A Review and an Analysis of the Component Structure
+1988|372.0|4.0|Cognition|Connectionism and cognitive architecture: a critical analysis
+1989|125.0|5.5|Journal of Experimental Psychology: General|Implicit learning and tacit knowledge.
+1990|135.0|5.0||Anchored instruction and its relationship to situated cognition
+1991|197.0|5.0|Behavioral and Brain Sciences|Is human information processing conscious?
+1992|165.0|4.0|Cognition|Domain specificity in conceptual development: neuropsychological evidence from autism.
+1993|114.0|4.0|Behavioral and Brain Sciences|How we know our minds: the illusion of first-person knowledge of intentionality
+1994|142.0|4.0|Behavioral and Brain Sciences|The representing brain: Neural correlates of motor intention and imagery
+1995|90.0|4.0|Journal of Cognitive Neuroscience|Functional mapping of sequence learning in normal humans
+1996|104.0|4.0|Proceedings of the IEEE|Fundamentals of Artificial Neural Networks
+1997|90.0|5.0|Behavioral and Brain Sciences|What memory is for
+1998|92.0|5.0|Psychological Bulletin|Situation models in language comprehension and memory.
+1999|198.0|7.0|Behavioral and Brain Sciences|Perceptual symbol systems
+2000|492.0|8.0|Trends in Cognitive Sciences|Cognitive and emotional influences in anterior cingulate cortex
+2001|190.0|9.0|Current Opinion in Neurobiology|Imaging the premotor areas.
+2002|251.0|9.0|international world wide web conferences|Simulation, verification and automated composition of web services
+2003|263.0|9.0|American Psychologist|A perspective on judgment and choice: mapping bounded rationality.
+2004|386.0|9.0|Nature Neuroscience|Neural systems supporting interoceptive awareness.
+2005|782.0|11.0|IEEE Transactions on Knowledge and Data Engineering|Toward the next generation of recommender systems: a survey of the state-of-the-art and possible extensions
+2006|495.0|10.0|Brain|The precuneus: a review of its functional anatomy and behavioural correlates
+2007|671.0|10.0|Nature Neuroscience|Microglia: active sensor and versatile effector cells in the normal and pathologic brain.
+2008|682.0|9.0|Journal of Vision|Human trimodal perception follows optimal statistical inference
+2009|1000.0|9.0|Nature Neuroscience|Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse
+2010|727.0|7.0|Nature Neuroscience|A robust and high-throughput Cre reporting and characterization system for the whole mouse brain

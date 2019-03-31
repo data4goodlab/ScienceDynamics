@@ -1,0 +1,38 @@
+----  Field Name International finance: 
+----  Field Level 2.0: 
+----  Field Papers Number 1509:
+----  All time max citation paper: Long Swings in the Dollar: Are They in the Data and Do Markets Know It?, 1990, (470.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1979|2.0|2.0|European Economic Review|A clarification of the interest rate parity theorem
+1980|0|0.0|Review of World Economics|The deviations from interest rate parity along the term structure of forward exchange rates
+1981|5.0|3.0|Journal of Monetary Economics|The Term Structure of the Forward Premium
+1982|4.0|4.0||Macroeconomic Implications of Alternative Exchange Rate Models
+1983|6.0|6.0||Capital Controls and Covered Interest Parity
+1984|47.0|22.0||International Interest Rate and Price Level Linkages under Flexible Exchange Rates: A Review of Recent Evidence
+1985|8.0|3.0||International capital mobility and crowding-out in the U.S. economy: imperfect integration of financial markets or of goods markets?
+1986|1.0|0.0||U.S. Monetary Policy Regimes and U.S.-Japan Financial Relations
+1987|23.0|3.0|Journal of Monetary Economics|Is it risk?: Explaining deviations from uncovered interest parity
+1988|2.0|1.0|Journal of International Money and Finance|Arbitrage boundaries, treasury bills, and covered interest parity
+1989|10.0|2.0||Long Swings in the Exchange Rate: Are they in the Data and Do Markets Know It?
+1990|46.0|4.5|The American Economic Review|Long Swings in the Dollar: Are They in the Data and Do Markets Know It?
+1991|25.0|2.0||The EMS, the Emu, and the Transition to a Common Currency
+1992|25.0|2.0|Journal of Monetary Economics|A Reconsideration of the Uncovered Interest Parity Relationship
+1993|23.0|1.0|Journal of Monetary Economics|A re-assessment of the relationship between real exchange rates and real interest rates: 19741990
+1994|26.0|0.0||International Portfolio Choice and Asset Pricing: An Integrative Survey
+1995|26.0|2.0|Journal of Econometrics|Do purchasing power parity and uncovered interest rate parity hold in the long run? An example of likelihood inference in a multivariate time-series model
+1996|18.0|2.0|Journal of International Money and Finance|Dollar jump fears, 1984-1992: distributional abnormalities implicit in currency futures options
+1997|19.0|3.0|Journal of Economic Theory|Capital Market Imperfections, International Credit Markets, and Nonconvergence
+1998|34.0|2.0|Journal of Financial Economics|Another look at the role of the industrial structure of markets for international diversification strategies
+1999|48.0|2.0||The New Open Economy Macroeconomics: a Survey
+2000|71.0|4.0|Journal of Monetary Economics|Exchange rate anomalies in the industrial countries: A solution with a structural VAR approach
+2001|112.0|3.5|Economic Policy|Is the crisis problem growing more severe?
+2002|59.0|3.0|Ssrn Electronic Journal|Monetary policy rules in the open economy: effects of welfare and business cycles
+2003|35.0|3.0|Journal of Monetary Economics|Monetary policy's role in exchange rate behavior
+2004|79.0|4.0|Economics Bulletin|Risk neutral valuation and uncovered interest rate parity in a stochastic two-country-economy with two goods
+2005|39.0|3.0||Pitfalls of a State-Dominated Financial System: The Case of China
+2006|131.0|3.0|neural information processing systems|Correlated topic models
+2007|61.0|2.0|Journal of Financial Intermediation|Governance and bank valuation
+2008|70.0|3.0|Journal of Financial Economics|Cost of capital effects and changes in growth expectations around U.S. cross-listings.
+2009|163.0|2.0||Financial institutions and markets across countries and over time - data and analysis
+2010|112.0|5.0|World Bank Economic Review|Financial institutions and markets across countries and over time : the updated financial development and structure database

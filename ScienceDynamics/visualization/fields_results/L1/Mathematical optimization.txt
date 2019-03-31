@@ -1,0 +1,65 @@
+----  Field Name Mathematical optimization: 
+----  Field Level 1.0: 
+----  Field Papers Number 201567:
+----  All time max citation paper: Particle swarm optimization, 1995, (8124.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1946|0|0.0|Bulletin of the American Mathematical Society|The triangulation problem and its role in analysis
+1950|4.0|4.0|Annals of Mathematical Statistics|Some Problems in Minimax Point Estimation
+1952|3.0|3.0|American Journal of Potato Research|Nitrate content of red mcclure potatoes unchanged by 2,4-d treatment
+1954|11.0|11.0|Transactions of the American Mathematical Society|Concerning Rings of Continuous Functions
+1956|2.0|1.0|Proceedings of the American Mathematical Society|On the Equivalence of the Ring, Lattice, and Semigroup of Continuous Functions
+1957|1.0|0.0|Management Science|A Linear Programming Solution to Dynamic Leontief type Models
+1958|1.0|1.0|Mathematische Zeitschrift|Extremal structure of convex sets. II
+1959|5.0|2.0|Numerische Mathematik|Newton's method for convex programming and Tchebycheff approximation
+1960|27.0|1.5|Journal of Mathematical Physics|Invariant Imbedding and Mathematical Physics. I. Particle Processes
+1961|19.0|0.5|Journal of Mathematical Analysis and Applications|VARIATIONAL METHODS IN PROBLEMS OF CONTROL AND PROGRAMMING
+1962|2.0|0.0|Pacific Journal of Mathematics|Lattice-ordered rings and function rings.
+1963|7.0|1.0|Management Science|A Heuristic Program for Locating Warehouses
+1964|6.0|1.0|Journal of Mathematical Analysis and Applications|SEGMENTAL DIFFERENTIAL APPROXIMATION AND THE 'BLACK BOX' PROBLEM,
+1965|13.0|2.0|Proceedings of the American Mathematical Society|On the subdifferentiability of convex functions
+1966|35.0|2.0|Journal of Geophysical Research|Atmospheric composition in the lower thermosphere.
+1967|11.0|2.0|Proceedings of the IEEE|Computer-aided network optimization the state-of-the-art
+1968|26.0|1.0|IEEE Transactions on Power Apparatus and Systems|Optimal Power Flow Solutions
+1969|26.0|2.0|Operations Research|An Appraisal of Some Shortest-Path Algorithms
+1970|17.0|1.0|Communications of The ACM|Representations for space planning
+1971|17.0|1.0|IEEE Transactions on Circuit Theory|The Sparse Tableau Approach to Network Analysis and Design
+1972|13.0|1.0|Pattern Recognition|Stochastic programmed grammars for syntactic pattern recognition
+1973|35.0|2.0|Communications of The ACM|A model and stack implementation of multiple environments
+1974|52.0|2.0|Sigplan Notices|Programming with abstract data types
+1975|28.0|1.0|Journal of Mathematical Analysis and Applications|The set of all nondominated solutions in linear cases and a multicriteria simplex method
+1976|49.0|1.0|Management Science|An Interactive Programming Method for Solving the Multiple Criteria Problem
+1977|26.0|2.0|symposium on the theory of computing|Propositional modal logic of programs
+1978|78.0|2.0|FEBS Journal|The Interrelations between the Transport of Sodium and Calcium in Mitochondria of Various Mammalian Tissues
+1979|44.0|2.0|Econometrica|Prospect Theory: An Analysis of Decision under Risk
+1980|30.0|2.0|foundations of computer science|Area-Efficient Graph Layouts (for VLSI).
+1981|25.0|2.0|design automation conference|Virtual Grid Symbolic Layout
+1982|37.0|2.0|Communications of The ACM|Linearizer: a heuristic algorithm for queueing network models of computing systems
+1983|107.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|On the Foundations of Relaxation Labeling Processes
+1984|71.0|2.0|IEEE Transactions on Computers|Computational Geometry&#8212;A Survey
+1985|52.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Stereo by Intra- and Inter-Scanline Search Using Dynamic Programming
+1986|46.0|2.0|foundations of computer science|Approximate and exact parallel scheduling with applications to list, tree and graph problems
+1987|90.0|2.0|JAMA|Evaluation of heterosexual partners children and household contacts of adults with AIDS.
+1988|128.0|2.0|Psychological Review|Optimality in human motor performance: Ideal control of rapid aimed movements.
+1989|73.0|2.0|Automatica|Model predictive control: theory and practicea survey
+1990|84.0|2.0|SIAM Journal on Matrix Analysis and Applications|Partitioning sparse matrices with eigenvectors of graphs
+1991|163.0|2.0|IEEE Journal on Selected Areas in Communications|Equivalent capacity and its application to bandwidth allocation in high-speed networks
+1992|107.0|3.0|Operations Research|Job shop scheduling by simulated annealing
+1993|182.0|3.0|American Journal of Human Genetics|Faster sequential genetic linkage computations.
+1994|454.0|3.0|Nuclear Physics|Electric - magnetic duality, monopole condensation, and confinement in N=2 supersymmetric Yang-Mills theory
+1995|481.0|2.0|Nuclear Physics|String theory dynamics in various dimensions
+1996|118.0|2.0|systems man and cybernetics|Ant system: optimization by a colony of cooperating agents
+1997|166.0|2.0|IEEE Transactions on Medical Imaging|Multimodality image registration by maximization of mutual information
+1998|227.0|3.0|SIAM Journal on Scientific Computing|A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs
+1999|223.0|3.0|IEEE Transactions on Evolutionary Computation|Multiobjective evolutionary algorithms: a comparative case study and the strength Pareto approach
+2000|378.0|3.0|Automatica|Constrained model predictive control: Stability and optimality
+2001|528.0|4.0|design automation conference|Chaff: engineering an efficient SAT solver
+2002|690.0|4.0|IEEE Transactions on Evolutionary Computation|A fast and elitist multiobjective genetic algorithm: NSGA-II
+2003|375.0|4.0|IEEE Transactions on Communications|Achieving near-capacity on a multiple-antenna channel
+2004|639.0|5.0|Statistics and Computing|A tutorial on support vector regression
+2005|429.0|4.0|IEEE Transactions on Information Theory|Decoding by linear programming
+2006|1330.0|4.0|IEEE Transactions on Information Theory|Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information
+2007|858.0|4.0|Nature|Unravelling the pathogenesis of inflammatory bowel disease
+2008|1030.0|3.0|Briefings in Bioinformatics|Recent developments in the MAFFT multiple sequence alignment program
+2009|741.0|3.0|Journal of Vision|Looking ahead: The perceived direction of gaze shifts before the eyes move
+2010|1330.0|4.0|PLOS ONE|Circadian Plasticity in Photoreceptor Cells Controls Visual Coding Efficiency in Drosophila melanogaster

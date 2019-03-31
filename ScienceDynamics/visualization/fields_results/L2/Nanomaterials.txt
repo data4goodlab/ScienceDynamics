@@ -1,0 +1,61 @@
+----  Field Name Nanomaterials
+----  Field Level 2.0
+----  Field Papers Number 58982
+----  All time max citation paper Nanowire dye-sensitized solar cells., 2005, (2405.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1934|0|0.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|Lange's colloidal gold reaction and the estimation of total proteins in the cerebrospinal fluid of rhodesian sleeping sickness, and their significance in prognosis
+1949|8.0|8.0|Journal of Applied Physics|Particle Size Determination by Soft XRay Scattering
+1952|2.0|1.0|Journal of Chemical Physics|Isotopic Composition of Oxygen in the Catalytic Decomposition of Hydrogen Peroxide
+1954|0|0.0|Journal of the American Ceramic Society|ParticleSizeDistribution Analysis by a Modification of the Turbidimetric Procedure of Musgrave and Harner
+1955|8.0|4.0|Journal of Applied Physics|Electron Microscopy of Monodisperse Latexes
+1957|3.0|3.0|Geochimica et Cosmochimica Acta|Lognormal-type distributionsIII
+1959|3.0|0.0|Colloid and Polymer Science|Statistical theory of parcticle size distributions in emulsions and suspensions
+1962|2.0|2.0|Rheologica Acta|Relative viscosity of suspensions of rigid spheres in Newtonian liquids
+1964|1.0|0.0|Journal of Colloid Science|Determination of latex particle size distribution by analytical ultracentrifugation
+1965|3.0|3.0|Experimental and Molecular Pathology|Experimental amyloidosis. IV. Effect of colloidal gold on the development of amyloidosis.
+1966|2.0|1.0|Journal of the American Ceramic Society|Mechanical Behavior of Polycrystalline Magnesium Oxide at High Temperatures
+1967|23.0|8.0|Journal of Geophysical Research|Anisotropic nonconservative scattering and the clouds of Venus
+1968|7.0|4.0|Planetary and Space Science|On the particle size distribution of lunar soil
+1969|16.0|3.5|Space Science Reviews|An analysis of Martian photometry and polarimetry.
+1970|9.0|1.0|Journal of Colloid and Interface Science|The self-bodying action of the mixed emulsifier cetrimide/ cetostearyl alcohol
+1971|5.0|0.0|Engineering Geology|GRAIN SIZE, MINERALOGY AND CHEMISTRY OF A QUICK-CLAY SAMPLE FROM THE ULLENSAKER SLIDE, NORWAY
+1972|31.0|2.0|Icarus|Variable features on Mars - Preliminary Mariner 9 television results.
+1973|34.0|3.0|Journal of Geophysical Research|Variable features on Mars, 2, Mariner 9 global results
+1974|8.0|2.0|Journal of Physics and Chemistry of Solids|Optical properties of silver colloidal centers in KCl crystals
+1975|26.0|7.0|Journal of Geophysical Research|Theoretical singledomain grain size range in magnetite and titanomagnetite
+1976|22.0|3.0|Icarus|Saltation threshold on Mars: The effect of interparticle force, surface roughness, and low atmospheric density
+1977|46.0|4.0|Journal of Histochemistry and Cytochemistry|Colloidal gold, a useful marker for transmission and scanning electron microscopy.
+1978|29.0|2.0|Icarus|Planetesimals to planets: Numerical simulation of collisional evolution
+1979|18.0|2.0|BioScience|Consumer regulation of nutrient cycling
+1980|31.0|2.0|Journal of Geophysical Research|Cloud and haze properties from Pioneer Venus polarimetry
+1981|39.0|2.0|Reviews of Geophysics|Chemistry within aqueous atmospheric aerosols and raindrops
+1982|26.0|4.0|Geophysical Research Letters|Particle size distribution of nitrate and sulfate in the marine atmosphere
+1983|32.0|4.0|Icarus|Particle size distributions in Saturn's rings from Voyager 1 radio occultation
+1984|38.0|3.0|Icarus|An Idealized Short Period Comet Model: Surface Insolation, H2O Flux, Dust Flux and Mantle Evolution
+1985|54.0|3.0|Journal of Investigative Dermatology|Bullous pemphigoid antigen localization suggests an intracellular association with hemidesmosomes.
+1986|49.0|4.0|Applied Physics Letters|Optical spectroscopy of ultrasmall structures etched from quantum wells
+1987|55.0|3.0|The Journal of Comparative Neurology|Wheat germ agglutininapoHRP gold: A new retrograde tracer for light and electronmicroscopic single and doublelabel studies
+1988|24.0|2.0|Icarus|Methane rain on Titan
+1989|48.0|3.5|Journal of Geophysical Research|Ozone destruction through heterogeneous chemistry following the eruption of El Chichn
+1990|33.0|3.0|Planta|Cellulose and pectin localization in roots of mycorrhizal Allium porrum: labelling continuity between host cell wall and interfacial material.
+1991|65.0|3.0|IEEE Journal of Quantum Electronics|Vertical-cavity surface-emitting lasers: Design, growth, fabrication, characterization
+1992|52.0|3.0|Geophysical Research Letters|Climate forcing by stratospheric aerosols
+1993|82.0|3.0|Geophysical Research Letters|Balloonborne measurements of Pinatubo aerosol during 1991 and 1992 at 41N: Vertical profiles, size distribution, and volatility
+1994|68.0|3.0|Water Resources Research|An experimental investigation of nonaqueous phase liquid dissolution in saturated subsurface systems: Steady state mass transfer rates
+1995|87.0|3.0|Neuroscience|High-resolution immunogold localization of AMPA type glutamate receptor subunits at synaptic and non-synaptic sites in rat hippocampus.
+1996|41.0|3.0|Neuroscience Letters|EM colocalization of AMPA and NMDA receptor subunits at synapses in rat cerebral cortex
+1997|110.0|3.0|Nature|Controlled production of aligned-nanotube bundles
+1998|78.0|3.0|Applied Physics Letters|Nanoscale silicon wires synthesized using simple physical evaporation
+1999|176.0|4.0|Nature|Marine viruses and their biogeochemical and ecological effects.
+2000|195.0|5.0|Science|Ultrahigh-Density Nanowire Arrays Grown in Self-Assembled Diblock Copolymer Templates
+2001|191.0|6.0|Polymer|Nylon 6 nanocomposites: the effect of matrix molecular weight
+2002|239.0|7.0|Nature|High tensile ductility in a nanostructured metal
+2003|462.0|7.0|Journal of Geophysical Research|Effect of grain size sorting on the formation of shorefaceconnected sand ridges
+2004|276.0|7.0|Applied Physics Letters|Fabrication and ethanol sensing characteristics of ZnO nanowire gas sensors
+2005|697.0|7.0|Biomaterials|Synthesis and surface engineering of iron oxide nanoparticles for biomedical applications.
+2006|794.0|7.0|Science|Piezoelectric Nanogenerators Based on Zinc Oxide Nanowire Arrays
+2007|695.0|7.0|Nature|Coaxial silicon nanowires as solar cells and nanoelectronic power sources
+2008|1135.0|7.0|Nature Nanotechnology|High-performance lithium battery anodes using silicon nanowires
+2009|599.0|8.0|Nature|Plasmon lasers at deep subwavelength scale
+2010|864.0|8.0|Nature Nanotechnology|Boron nitride substrates for high-quality graphene electronics

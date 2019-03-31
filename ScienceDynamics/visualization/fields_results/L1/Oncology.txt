@@ -1,0 +1,50 @@
+----  Field Name Oncology: 
+----  Field Level 1.0: 
+----  Field Papers Number 35936:
+----  All time max citation paper: Angiogenesis in cancer, vascular, rheumatoid and other disease., 1995, (4278.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1961|5.0|5.0|Cancer|The time of metastasis and release of circulating tumor cells as determined in an experimental system.
+1962|2.0|2.0|Digestive Diseases and Sciences|A simplified multiple-retrieving small-bowel biopsy tube
+1966|2.0|2.0|Digestive Diseases and Sciences|Esophageal motor abnormalities in scleroderma and related diseases
+1967|2.0|1.0|Pediatric Research|The Relation of Metabolic Rate to Body Weight and Organ Size
+1968|1.0|0.0|Pediatric Research|Sweat Composition in Relation to Rate of Sweating in Patients with Cystic Fibrosis of the Pancreas
+1969|6.0|3.0|Pediatric Research|Hemoglobin C in Newborn Sheep and Goats: A Possible Explanation for its Function and Biosynthesis
+1970|4.0|4.0|Journal of Surgical Oncology|Facilitated metastatic distribution of the Walker 256 tumor in spraguedawley rats with hydrocortisone and/or cyclophosphamide
+1972|2.0|2.0|Digestive Diseases and Sciences|Cellular and humoral sensitivity to gluten fractions in patients with treated nontropical sprue
+1973|8.0|5.5|Pediatric Research|Development of Methyltransferase Activities of Human Fetal Tissues
+1976|3.0|0.0|Cancer|The role of immune factors in the survival of circulating tumor cells
+1977|9.0|9.0|Cancer Research|Comparative Epidemiology of Tobacco-related Cancers
+1978|18.0|10.0|Cancer|The epidemiology of breast cancer in 785 united states caucasian women
+1979|12.0|9.0|Medical and Pediatric Oncology|Improved remission induction rate with DZAPO but unimproved remission duration with addition of immunotherapy to chemotherapy in previously untreated children with ANLL
+1980|4.0|1.0|Journal of Surgical Oncology|Malignant pheochromocytoma (paraganglioma) of the organ of zuckerkandl: A study of two cases
+1981|2.0|1.5|Molecular and Cellular Biochemistry|Pharmacology of GABA-mediated inhibition of spinal cord neurons in vivo and in primary dissociated cell culture
+1982|17.0|5.0|Cancer and Metastasis Reviews|Role of natural killer cells in control of cancer metastasis
+1983|10.0|2.5|Pediatric Research|An Enzyme-Linked Immunoassay of Surfactant Apoproteins. Its Application to the Study of Fetal Lung Development in the Rat
+1984|6.0|3.0|Pediatric Research|Fat Digestion by Lingual Lipase: Mechanism of Lipolysis in the Stomach and Upper Small Intestine
+1985|7.0|1.0|International Journal of Radiation Oncology Biology Physics|Kinetics of cellular inactivation by fractionated and hyperfractionated irradiation in Lewis lung carcinoma.
+1986|6.0|0.0|Pediatric Research|Effects of the Thromboxane Synthetase Inhibitor, Dazmegrel (UK 38,485), on Pulmonary Gas Exchange and Hemodynamics in Neonatal Sepsis
+1987|10.0|2.0|Clinical & Experimental Metastasis|Tumor cell-platelet interactions in vitro and their relationship to in vivo arrest of hematogenously circulating tumor cells
+1988|6.0|1.0|Brain Research Bulletin|Endogenous opioid systems and neural cancer: transmission and scanning electron microscopic studies of murine neuroblastoma in tissue culture.
+1989|66.0|1.0|Cytometry|Threecolor fluorescence in situ hybridization for the simultaneous detection of multiple nucleic acid sequences
+1990|69.0|2.5|Cytometry|Multiple fluorescence in situ hybridization
+1991|18.0|2.0|Pediatric Research|Congenital Hypoplastic Anemia, Diabetes, and Severe Renal Tubular Dysfunction Associated with a Mitochondrial DNA Deletion
+1992|31.0|2.0|Journal of Clinical Epidemiology|Decision making during serious illness: What role do patients really want to play?
+1993|18.0|4.0|Seminars in Surgical Oncology|Surgery for small liver cancers
+1994|10.0|2.0|Social Science & Medicine|Oncology and narrative time
+1995|599.0|15.0|Nature Medicine|Angiogenesis in cancer, vascular, rheumatoid and other disease.
+1996|56.0|5.0|Pediatric Research|The Very Low Birth Weight Premature Infant Is Capable of Synthesizing Arachidonic and Docosahexaenoic Acids from Linoleic and Linolenic Acids
+1997|106.0|5.0|Pediatric Research|Maternal Intrauterine Infection, Cytokines, and Brain Damage in the Preterm Newborn
+1998|522.0|5.0|Nature Medicine|Neurogenesis in the adult human hippocampus
+1999|121.0|5.0|Cancer Research|Relation of TNF-related apoptosis-inducing ligand (TRAIL) receptor and FLICE-inhibitory protein expression to TRAIL-induced apoptosis of melanoma
+2000|455.0|9.0|Nature|Molecular classification of cutaneous malignant melanoma by gene expressionprofiling
+2001|172.0|9.5|Pediatric Research|Neurobiology of Periventricular Leukomalacia in the Premature Infant
+2002|94.0|8.5|Journal of the National Cancer Institute|Dominant Negative ATM Mutations in Breast Cancer Families
+2003|332.0|11.0|Leukemia|Design and standardization of PCR primers and protocols for detection of clonal immunoglobulin and T-cell receptor gene recombinations in suspect lymphoproliferations: Report of the BIOMED-2 Concerted Action BMH4-CT98-3936
+2004|272.0|12.0|Nature Medicine|VX-680, a potent and selective small-molecule inhibitor of the Aurora kinases, suppresses tumor growth in vivo.
+2005|217.0|12.0|Clinical Cancer Research|Prediction of BRCA1 status in patients with breast cancer using estrogen receptor and basal phenotype.
+2006|417.0|15.0|Molecular Cancer|Analysis of gene expression and chemoresistance of CD133+ cancer stem cells in glioblastoma
+2007|2530.0|15.0|Evolutionary Bioinformatics|Arlequin (version 3.0): An integrated software package for population genetics data analysis
+2008|889.0|13.0|Nature Medicine|Amyloid-beta protein dimers isolated directly from Alzheimer's brains impair synaptic plasticity and memory.
+2009|573.0|17.0|Nature Medicine|CD8+ effector T cells contribute to macrophage recruitment and adipose tissue inflammation in obesity
+2010|410.0|18.0|Proceedings of the National Academy of Sciences of the United States of America|Isolation of circulating tumor cells using a microvortex-generating herringbone-chip

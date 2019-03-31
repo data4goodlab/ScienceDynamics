@@ -1,0 +1,38 @@
+----  Field Name Expert system: 
+----  Field Level 2.0: 
+----  Field Papers Number 9408:
+----  All time max citation paper: Induction of Decision Trees, 1986, (4887.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1975|0|0.0|Intelligence\/sigart Bulletin|Some considerations for the implementation of knowledge-based expert systems
+1980|6.0|6.0||Expert Systems: Looking Back and Looking Ahead
+1981|13.0|4.0|international joint conference on artificial intelligence|Computational methods for a mathematical theory of evidence
+1982|61.0|11.5|Artificial Intelligence|The organization of expert systems, a tutorial
+1983|79.0|7.0|Fuzzy Sets and Systems|The role of fuzzy logic in the management of uncertainty in expert systems
+1984|35.0|4.0|international conference on management of data|An optimizing prolog front-end to a relational query system
+1985|81.0|3.0|Artificial Intelligence|A blackboard architecture for control
+1986|232.0|3.0|Machine Learning|Induction of Decision Trees
+1987|65.0|3.0|Communications of The ACM|Interface design issues for advice-giving expert systems
+1988|87.0|2.0|Communications of The ACM|Connectionist expert systems
+1989|100.0|1.0|Machine Learning|The CN2 Induction Algorithm
+1990|113.0|1.0||Local computations with probabilities on graphical structures and their application to expert systems
+1991|89.0|1.0|IEEE Transactions on Computers|Neural-network-based fuzzy logic control and decision system
+1992|138.0|2.0|Machine Learning|A Bayesian Method for the Induction of Probabilistic Networks from Data
+1993|85.0|1.0|Statistical Science|Bayesian analysis in expert systems
+1994|83.0|1.0|Nature Genetics|Automated construction of genetic linkage maps using an expert system (MultiMap): a human genome linkage map
+1995|57.0|2.0|Communications of The ACM|Applications of machine learning and rule induction
+1996|62.0|1.0|IEEE Intelligent Systems|Distributed intelligent agents
+1997|58.0|2.0|international conference on case-based reasoning|Refining Conversational Case Libraries
+1998|68.0|2.0|IEEE Journal on Selected Areas in Communications|Iterative decoding of compound codes by probability propagation in graphical models
+1999|219.0|2.0|Information Retrieval|An Evaluation of Statistical Approaches to Text Categorization
+2000|64.0|2.0|Journal of Microbiological Methods|Artificial neural networks: fundamentals, computing, design, and application
+2001|124.0|2.5|Plant Physiology|Analysis of the Arabidopsis Mitochondrial Proteome
+2002|135.0|3.0|international world wide web conferences|SWORD: A Developer Toolkit for Web Service Composition
+2003|82.0|3.0|Toxicology and Applied Pharmacology|Contemporary issues in toxicology - The role of metabonomics in toxicology and its evaluation by the COMET project
+2004|162.0|3.0|IEEE Transactions on Medical Imaging|Ridge-based vessel segmentation in color images of the retina
+2005|169.0|2.0|IEEE Transactions on Energy Conversion|Condition Monitoring and Fault Diagnosis of Electrical Motors&#8212;A Review
+2006|153.0|3.0|Automatica|Tracking control for multi-agent consensus with an active leader and variable topology
+2007|533.0|2.0|Information Sciences|Rudiments of rough sets
+2008|109.0|3.0|Progress in Energy and Combustion Science|Artificial intelligence techniques for photovoltaic applications: A review
+2009|294.0|2.0|Nature Protocols|Protein structure homology modeling using SWISS-MODEL workspace.
+2010|84.0|2.0|Bioanalytical Reviews|Advances in structure elucidation of small molecules using mass spectrometry.

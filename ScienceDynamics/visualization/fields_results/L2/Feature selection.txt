@@ -1,0 +1,54 @@
+----  Field Name Feature selection: 
+----  Field Level 2.0: 
+----  Field Papers Number 17667:
+----  All time max citation paper: Controlling the false discovery rate: a practical and powerful approach to multiple testing, 1995, (16286.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1948|1.0|1.0|Annals of Mathematical Statistics|A Class of Statistics with Asymptotically Normal Distribution
+1953|1.0|1.0|Annals of Mathematical Statistics|The Power of Rank Tests
+1957|1.0|1.0|Geochimica et Cosmochimica Acta|SEMI-QUANTITATIVE SPECTROGRAPHIC ANALYSIS AND RANK CORRELATION IN GEOCHEMISTRY
+1961|0|0.0|Journal of the American Statistical Association|On the Use of Partially Ordered Observations in Measuring the Support for a Complete Order
+1966|0|0.0|Annals of Mathematical Statistics|Some Concepts of Dependence
+1967|1.0|1.0|Attention Perception & Psychophysics|Population norms of top sensory magnitudes and S. S. Stevens exponents
+1968|5.0|5.0|Journal of Dairy Science|Effects of Errors in the Age Adjustment of First Lactations
+1970|9.0|6.0|IEEE Transactions on Computers|Application of the Karhunen-Lo&#232;ve Expansion to Feature Selection and Ordering
+1971|3.0|0.5|Psychopharmacology|Drug, doctor warmth, and clinic setting in the symptomatic response to minor tranquilizers
+1972|6.0|0.5|International Journal of Biometeorology|Seasonal fluctuations of reproductive functions in Zebu cattle
+1973|1.0|1.0|Hydrobiologia|Population dynamics of pond zooplankton II Daphnia ambigua Scourfield
+1974|3.0|0.0|Canadian Geographer|SOME PROBLEMS IN THE USE OF STEPWISE REGRESSION TECHNIQUES IN GEOGRAPHICAL RESEARCH
+1975|9.0|5.0|IEEE Transactions on Computers|An Optimal Set of Discriminant Vectors
+1976|11.0|4.0|ACM Transactions on Database Systems|Decompositiona strategy for query processing
+1977|5.0|1.0|Journal of Dairy Science|Sire Evaluation By Second Lactation Records of Daughters
+1978|32.0|2.0|Cancer Research|Covalent Intercalative Binding to DNA in Relation to the Mutagenicity of Hydrocarbon Epoxides and N-Acetoxy-2-acetylaminofluorene
+1979|12.0|3.0|Marine Biology|The infaunal benthos of a natural oil seep in the Santa Barbara channel
+1980|17.0|3.0|Marine Biology|Bacterioplankton in the Coastal Euphotic Zone: Distribution, Activity and Possible Relationships with Phytoplankton
+1981|8.0|5.0|Estuarine Coastal and Shelf Science|Structure analysis of shallow water ecosystems: Interaction of microbiological, chemical and physical characteristics measured in the overlying waters of sandy beach sediments
+1982|15.0|2.0|Naunyn-schmiedebergs Archives of Pharmacology|Correlations Between Different Measures of Antiserotonin Activity of Drugs Study with Neuroleptics and Serotonin Receptor Blockers
+1983|10.0|1.0|Biochemical and Biophysical Research Communications|Cholesterol-free phospholipid domains may be the membrane feature selected by N-dansyl-L-lysine and merocyanine 540
+1984|12.0|1.0|Journal of the American College of Cardiology|The pacing stress test: thallium-201 myocardial imaging after atrial pacing. Diagnostic value in detecting coronary artery disease compared with exercise testing.
+1985|16.0|3.0|Social Indicators Research|Modeling the psychological determinants of life quality
+1986|40.0|2.0|The International Journal of Robotics Research|3DPO: A three-dimensional part orientation system
+1987|27.0|1.0|Analytical Biochemistry|Variable selection method improves the prediction of protein secondary structure from circular dichroism spectra
+1988|25.0|1.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Structural stereopsis for 3-D vision
+1989|42.0|3.0|American Journal of Public Health|Modeling and variable selection in epidemiologic analysis.
+1990|31.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Invariant image recognition by Zernike moments
+1991|55.0|3.0|Cancer Research|Centromeric Copy Number of Chromosome 7 Is Strongly Correlated with Tumor Grade and Labeling Index in Human Bladder Cancer
+1992|34.0|1.0|international conference on machine learning|A practical approach to feature selection
+1993|16.0|4.0|Quantitative Structure-activity Relationships|Generating Optimal Linear PLS Estimations (GOLPE): An Advanced Chemometric Tool for Handling 3DQSAR Problems
+1994|51.0|2.0|computer vision and pattern recognition|Good features to track
+1995|52.0|3.0|Bone|Do ultrasound measurements on the os calcis reflect more the bone microarchitecture than the bone mass?: A two-dimensional histomorphometric study
+1996|86.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Using discriminant eigenfeatures for image retrieval
+1997|146.0|4.0|Artificial Intelligence|Wrappers for feature subset selection
+1998|89.0|4.0||Data mining approaches for intrusion detection
+1999|162.0|5.0|Circulation|Endogenous Nitric Oxide Synthase Inhibitor A Novel Marker of Atherosclerosis
+2000|531.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Statistical pattern recognition: a review
+2001|1703.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Significance analysis of microarrays applied to the ionizing radiation response
+2002|610.0|5.0|NeuroImage|Thresholding of statistical maps in functional neuroimaging using the false discovery rate
+2003|1030.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|Statistical significance for genomewide studies
+2004|573.0|7.0|Annals of Statistics|Least Angle Regression
+2005|410.0|6.0|Journal of The Royal Statistical Society Series B-statistical Methodology|Regularization and variable selection via the elastic net
+2006|609.0|5.0|ACM Computing Surveys|Object tracking: A survey
+2007|498.0|5.0|Nature Methods|Genome-wide profiles of STAT1 DNA association using chromatin immunoprecipitation and massively parallel sequencing
+2008|309.0|5.0|Nature Biotechnology|An integrated software system for analyzing ChIP-chip and ChIP-seq data
+2009|871.0|4.0|PLOS ONE|An Introspective Comparison of Random Forest-Based Classifiers for the Analysis of Cluster-Correlated Data by Way of RF++
+2010|584.0|6.0|Journal of Statistical Software|Feature Selection with the Boruta Package

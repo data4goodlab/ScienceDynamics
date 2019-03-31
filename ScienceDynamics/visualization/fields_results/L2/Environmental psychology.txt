@@ -1,0 +1,38 @@
+----  Field Name Environmental psychology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1268:
+----  All time max citation paper: Applying the Technology Acceptance Model and Flow Theory to Online Consumer Behavior, 2002, (810.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1977|3.0|1.5|International Journal of Psychology|Multiple scientific paradigms in environmental psychology
+1978|3.0|1.5|Human Ecology|Definitions, measurements, and classifications of stimuli, situations, and environments
+1979|4.0|2.0|Population and Environment|Ecological Approaches to Understanding Human Crowding.
+1981|6.0|1.5|Journal of Environmental Psychology|The case for developing a cognitive environmental psychology that does not underestimate the abilities of young children
+1982|19.0|1.5|Journal of Environmental Psychology|The phenomenological contribution to environmental psychology
+1983|16.0|8.0|Environment and Behavior|Personal Projects A Rationale and Method for Investigation
+1984|4.0|2.0|Annals of Tourism Research|Environmental psychology and tourism.
+1985|11.0|11.0|American Journal of Community Psychology|The importance of neighbors: The social, cognitive, and affective components of neighboring
+1987|2.0|0.0|Infant Behavior & Development|Mouthing and grasping in neonates: Evidence for the early detection of what hard or soft substances afford for action
+1988|3.0|3.0|Journal of Environmental Psychology|Research on residential thermal comfort: some contributions from environmental psychology
+1989|159.0|1.0|Behavioral and Brain Sciences|A solution to the tag-assignment problem for neural networks
+1990|0|0.0|Journal of Housing and The Built Environment|CHANGING A SMALL-SCALE LANDSCAPE: ENVIRONMENTAL PSYCHOLOGY APPLIED TO THE PROBLEMS OF THE COUNTRYSIDE
+1991|1.0|0.5|Journal of Environmental Psychology|Environmental psychology, global issues, and local landscape research
+1992|35.0|2.5|conference on computer supported cooperative work|The affordances of media spaces for collaboration
+1993|2.0|1.0|Journal of Environmental Psychology|Place attachment and mobility during leisure time
+1994|4.0|4.0|Journal of Environmental Psychology|The environmental psychology of child sexual abuse
+1995|13.0|2.0|American Psychologist|The paradox of environmental psychology.
+1996|8.0|0.5|Journal of the Academy of Marketing Science|The Effects of the Service Environment on Affect and Consumer Perception of Waiting Time: An Integrative Review and Research Propositions
+1997|44.0|2.0|The Journal of Neuroscience|Environmental Knowledge Is Subserved by Separable Dorsal/Ventral Neural Areas
+1998|33.0|6.0|Behavioral and Brain Sciences|Representation is representation of similarities
+1999|32.0|6.5|ACM Transactions on Computer-Human Interaction|Is paper safer? The role of paper flight strips in air traffic control
+2000|27.0|6.5|Neural Networks|Synthetic brain imaging: grasping, mirror neurons and imitation
+2001|36.0|10.5|Journal of Environmental Psychology|Sense of place as an attitude: lakeshore owners attitudes toward their properties
+2002|168.0|5.0|Information Systems Research|Applying the Technology Acceptance Model and Flow Theory to Online Consumer Behavior
+2003|53.0|3.0|Journal of Environmental Psychology|Beyond house and haven: toward a revisioning of emotional relationships with places
+2004|26.0|6.0|Journal of Environmental Psychology|Effects of place attachment on users perceptions of social and environmental conditions in a natural setting
+2005|104.0|6.0|Journal of Environmental Psychology|A review of intervention studies aimed at household energy conservation
+2006|75.0|6.0|BMC Public Health|Vitamin G: effects of green space on health, well-being, and social safety
+2007|88.0|8.0|Biology Letters|Psychological benefits of greenspace increase with biodiversity
+2008|64.0|6.0|Ecological Economics|Valuation of the ecosystem services: A psycho-cultural perspective
+2009|264.0|7.5|Journal of Environmental Psychology|Encouraging pro-environmental behaviour: An integrative review and research agenda
+2010|242.0|7.5|human factors in computing systems|The design of eco-feedback technology

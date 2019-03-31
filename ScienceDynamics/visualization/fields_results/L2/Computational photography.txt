@@ -1,0 +1,51 @@
+----  Field Name Computational photography: 
+----  Field Level 2.0: 
+----  Field Papers Number 4646:
+----  All time max citation paper: Rapid object detection using a boosted cascade of simple features, 2001, (4504.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1927|2.0|2.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Experiments on color vision in mice in relation to the duplicity theory
+1967|2.0|2.0|IEEE Transactions on Antennas and Propagation|Depolarization of EM waves by slightly rough surfaces
+1968|3.0|0.0|Proceedings of the IEEE|Radiation models using discrete radiator ensembles
+1969|0|0.0|IEEE Journal of Quantum Electronics|On pressure broadening in a He-Ne laser
+1970|2.0|2.0|IEEE Transactions on Magnetics|Magnetic film domain-wall motion devices
+1971|2.0|1.5|Attention Perception & Psychophysics|Visual masking by light offset
+1972|4.0|4.0|IEEE Transactions on Circuit Theory|Trajectories of nonlinear RLC networks: A geometric approach
+1973|1.0|0.0|IEEE Transactions on Communications|Aeronautical Channel Characterization
+1974|1.0|0.5|IEEE Transactions on Biomedical Engineering|An Intraventricular Ultrasound Method for Measurement of Left-Ventricular Dimensions
+1975|8.0|0.0|Journal of Chemical Physics|Laserinduced rate processes in gases: Reduction of generalized to ordinary master equation
+1976|0|0.0|IEEE Transactions on Antennas and Propagation|Diurnal variations of radar backscatter from a vegetation canopy
+1977|6.0|0.5|IEEE Transactions on Biomedical Engineering|Precision Requirements for Electrocardiographic Measurements Computed Automatically
+1978|7.0|1.0|IEEE Transactions on Antennas and Propagation|Backscattering from a Gaussian-distributed perfectly conducting rough surface
+1979|5.0|1.0||Numerical Shape from Shading and Occluding Contours in a Single View
+1980|15.0|7.5|Journal of Chemical Physics|Collisional effects in the multiphoton dissociation of CF2CFCl
+1981|10.0|6.5|IEEE Transactions on Geoscience and Remote Sensing|Microwave Backscatter Dependence on Surface Roughness, Soil Moisture, And Soil Texture: Part III-Soil Tension
+1982|7.0|2.0|IEEE Transactions on Geoscience and Remote Sensing|Multifrequency Microwave Radiometer Measurements of Soil Moisture
+1983|23.0|2.5|Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing|Segment-Based Stereo Matching
+1984|42.0|1.0|Proceedings of the IEEE|Extended Gaussian images
+1985|22.0|0.0|international joint conference on artificial intelligence|Shape and source from shading
+1986|37.0|4.0|Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing|The variational approach to shape from shading
+1987|23.0|2.0|Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing|Neural dynamics of surface perception: boundary webs, illuminants, and shape-from-shading
+1988|53.0|3.0|International Journal of Radiation Oncology Biology Physics|A system for stereotactic radiosurgery with a linear accelerator
+1989|14.0|1.0|Limnology and Oceanography|Modeling in situ phytoplankton absorption from total absorption spectra in productive inland marine waters
+1990|47.0|2.5|IEEE Transactions on Pattern Analysis and Machine Intelligence|Recovery of parametric models from range images: the case for superquadrics with global deformations
+1991|101.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|The design and use of steerable filters
+1992|21.0|2.0|Attention Perception & Psychophysics|On the perception of shape from shading
+1993|38.0|2.0|Journal of Chemical Physics|Optical control of molecular dynamics: Molecular cannons, reflectrons, and wavepacket focusers
+1994|24.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Shape from focus
+1995|33.0|3.0|International Journal of Computer Vision|Generalization of the Lambertian model and implications for machine vision
+1996|269.0|3.0|international conference on computer graphics and interactive techniques|Light field rendering
+1997|61.0|3.0|Chemical Physics Letters|Feedback quantum control of molecular electronic population transfer
+1998|36.0|2.0|international conference on computer graphics and interactive techniques|Recovering photometric properties of architectural scenes from photographs
+1999|98.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Shape-from-shading: a survey
+2000|78.0|3.0|international conference on computer graphics and interactive techniques|Surface light fields for 3D photography
+2001|702.0|3.5|computer vision and pattern recognition|Rapid object detection using a boosted cascade of simple features
+2002|122.0|3.0|Nature|Quantum control of energy flow in light harvesting
+2003|175.0|2.0|Nature|Attosecond control of electronic processes by intense light fields
+2004|75.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Appearance-based face recognition and light-fields
+2005|237.0|3.0|Journal of Applied Physics|Plasmonics: Localization and guiding of electromagnetic energy in metal/dielectric structures
+2006|223.0|2.5|IEEE Transactions on Pattern Analysis and Machine Intelligence|One-shot learning of object categories
+2007|142.0|2.5|international conference on computer graphics and interactive techniques|Image and depth from a conventional camera with a coded aperture
+2008|344.0|2.0|Journal of Materials Chemistry|Superhydrophobic surfaces: from structural control to functional application
+2009|203.0|2.0|Nature|A picogram- and nanometre-scale photonic-crystal optomechanical cavity
+2010|101.0|3.0|Nature Photonics|In situ wavefront correction and its application to micromanipulation

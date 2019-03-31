@@ -1,0 +1,65 @@
+----  Field Name Geophysics: 
+----  Field Level 1.0: 
+----  Field Papers Number 66653:
+----  All time max citation paper: Initial sequencing and analysis of the human genome, 2001, (10313.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1946|0|0.0|Proceedings of the Physical Society|Geomagnetic secular variations and surveys
+1949|2.0|2.0|Eos, Transactions American Geophysical Union|Significance of radioactivity in geophysics  Thermal history of the Earth
+1953|4.0|4.0|Journal of Applied Physics|Measurement of Particle Size of Fine Ferromagnetic Powders
+1954|7.0|7.0|Journal of Chemical Physics|Polarization Effects in the Ionic Conductivity of Silver Bromide
+1955|4.0|4.0|Journal of Geophysical Research|Evidence of polar shift since triassic time
+1957|14.0|7.0|Journal of Applied Physics|Magnetic Anisotropy and Rotational Hysteresis in Elongated FineParticle Magnets
+1958|6.0|2.5|Journal of Applied Physics|Relation Between Crystallite Orientation and Magnetic Properties of Elongated SingleDomain Iron Particles
+1959|5.0|1.0|Proceedings of The Institute of Radio Engineers|Abnormal Ionization in the Lower Ionosphere Associated with Cosmic-Ray Flux Enhancements
+1960|3.0|1.0|Nature|Nuclear Fission in the Early History of the Earth
+1961|20.0|5.0|Journal of Geophysical Research|Effect of hydromagnetic waves on the lifetime of Van Allen radiation protons
+1962|19.0|1.0|Experimental Neurology|Impedance measurements in brain tissue of animals using microvolt signals
+1963|69.0|6.0|Journal of Geophysical Research|Explorer 10 magnetic field measurements
+1964|145.0|6.0|Journal of Geophysical Research|Initial results of the imp 1 magnetic field experiment
+1965|75.0|7.0|Journal of Geophysical Research|Nightside magnetosphere configuration as obtained from trapped electrons at 1100 kilometers
+1966|64.0|9.0|Journal of Geophysical Research|Inflation of the inner magnetosphere during a magnetic storm
+1967|94.0|6.5|Journal of Geophysical Research|OGOA magnetic field observations
+1968|198.0|9.0|Journal of Geophysical Research|Marine magnetic anomalies, geomagnetic field reversals, and motions of the ocean floor and continents
+1969|47.0|5.0|Journal of Geophysical Research|Highlatitude plasma transport: The polar wind
+1970|119.0|7.0|Journal of Geophysical Research|Mountain belts and the new global tectonics
+1971|144.0|5.0|Journal of Geophysical Research|Reykjanes ridge crest: A detailed geophysical study
+1972|59.0|6.0|Journal of Geophysical Research|PITCH-ANGLE DIFFUSION OF RADIATION-BELT ELECTRONS WITHIN THE PLASMASPHERE.
+1973|69.0|7.0|Journal of Geophysical Research|Satellite studies of magnetospheric substorms on August 15, 1968: 9. Phenomenological model for substorms
+1974|70.0|6.0|Journal of Geophysical Research|The diurnal flow pattern of fieldaligned currents
+1975|557.0|5.0|Nature|Identification of two related pentapeptides from the brain with potent opiate agonist activity
+1976|168.0|8.0|Nature|C fragment of lipotropin has a high affinity for brain opiate receptors
+1977|94.0|6.0|Journal of Geophysical Research|Plasma bubbles and irregularities in the equatorial ionosphere
+1978|47.0|4.0|Earth and Planetary Science Letters|Plate kinematics: The Americas, East Africa, and the rest of the world
+1979|90.0|5.0|Contributions to Mineralogy and Petrology|Petrogenetic implications of Ti, Zr, Y, and Nb variations in volcanic rocks
+1980|406.0|6.0|Nature|The role of hormone receptors and GTP-regulatory proteins in membrane transduction.
+1981|113.0|4.0|Physics of the Earth and Planetary Interiors|Preliminary reference Earth model
+1982|45.0|5.0|Journal of Geophysical Research|Precipitating electron energy flux and auroral zone conductancesAn empirical model
+1983|81.0|4.0|Earth and Planetary Science Letters|The East Pacific Rise near 21N, 13N and 20S: inferences for along-strike variability of axial processes of the Mid-Ocean Ridge
+1984|164.0|5.0|Journal of Applied Physics|PrFe and NdFebased materials: A new class of highperformance permanent magnets (invited)
+1985|72.0|4.0|Geophysical Research Letters|A theory of magnetic flux transfer at the Earth's magnetopause
+1986|73.0|4.0|Water Resources Research|Review of Parameter Identification Procedures in Groundwater Hydrology: The Inverse Problem
+1987|74.0|3.0|Planetary and Space Science|Global quantitative models of the geomagnetic field in the cislunar magnetosphere for different disturbance levels
+1988|57.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|The computation of visible-surface representations
+1989|55.0|4.0|Solid State Communications|Transport and magnetic anomalies at the structural transition to the new low temperature phase in La2xBaxCuO4
+1990|173.0|3.0|IEEE Transactions on Computers|Priority inheritance protocols: an approach to real-time synchronization
+1991|78.0|3.0|Reviews of Geophysics|Hotspots, mantle plumes, flood basalts, and true polar wander
+1992|238.0|4.0|Journal of Geophysical Research|A new geomagnetic polarity time scale for the Late Cretaceous and Cenozoic
+1993|65.0|4.0|Earth and Planetary Science Letters|Volcanic eruption of the mid-ocean ridge along the East Pacific Rise crest at 945-52'N: direct submersible observations of seafloor phenomena associated with an eruption event in April, 1991
+1994|195.0|4.0|Journal of Geophysical Research|Degree 12 model of shear velocity heterogeneity in the mantle
+1995|336.0|4.0|Journal of Geophysical Research|Revised calibration of the geomagnetic polarity timescale for the Late Cretaceous and Cenozoic
+1996|295.0|3.0|Geology|Three-dimensional crustal structure of the southern Sierra Nevada from seismic fan profiles and gravity modeling
+1997|1035.0|7.0|Nature|Functional rafts in cell membranes
+1998|2478.0|10.0|Nature|Dendritic cells and the control of immunity
+1999|798.0|9.0|Nature|Molecular characterization of mitochondrial apoptosis-inducing factor
+2000|1400.0|9.0|Nature|Distinct types of diffuse large B-cell lymphoma identified by gene expressionprofiling
+2001|4579.0|7.0|Nature|Initial sequencing and analysis of the human genome
+2002|1438.0|7.0|Nature|Pluripotency of mesenchymal stem cells derived from adult marrow
+2003|1006.0|8.0|Nature|The International HapMap Project
+2004|1050.0|9.0|Nature|Identification of human brain tumour initiating cells
+2005|1559.0|9.0|Nature|MicroRNA expression profiles classify human cancers.
+2006|1988.0|7.0|Nature|Reciprocal developmental pathways for the generation of pathogenic effector TH17 and regulatory T cells
+2007|1465.0|7.0|Nature|A second generation human haplotype map of over 3.1 million SNPs.
+2008|1601.0|7.0|Nature|Building better batteries
+2009|2934.0|7.0|Nature|Large-scale pattern growth of graphene films for stretchable transparent electrodes
+2010|2096.0|6.0|Nature|A human gut microbial gene catalogue established by metagenomic sequencing

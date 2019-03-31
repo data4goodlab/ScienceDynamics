@@ -1,0 +1,49 @@
+----  Field Name Statistics education: 
+----  Field Level 2.0: 
+----  Field Papers Number 3906:
+----  All time max citation paper: Fast approximate energy minimization via graph cuts, 2001, (1803.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1954|1.0|1.0|Arctic|Limnology in the North American Arctic and Subarctic
+1957|0|0.0|Arctic|Geological Investigations in Ellesmere and Axel Heiberg Islands, 1956
+1969|3.0|3.0|Polymer Journal|Light-Scattering Patterns from Polyethylene Films in Relation to Spherulitic Crystalline Texture
+1970|0|0.0|JAMA|Polyethylene Intrauterine Contraceptive Device: Endometrial Changes Following Long-Term Use
+1972|10.0|10.0|Geochimica et Cosmochimica Acta|Radiometric evidence for the rapid growth rate of shallow-water, continental margin manganese nodules
+1973|5.0|2.0|Journal of Geophysical Research|Semiempirical rates of formation of cosmic ray tracks in spherical objects exposed in space: Preatmospheric and postatmospheric depth profiles
+1974|0|0.0|Transportation Research|ALTERNATIVE STRATEGIES FOR REDUCING GASOLINE CONSUMPTION BY PRIVATE AUTOMOBILES
+1975|1.0|1.0|Journal of Hydrology|HYDROGRAPH RESPONSES TO WATERSHED MODEL SIZE AND SIMILITUDE RELATIONS
+1976|15.0|4.0|Contraception|Clinical experience with the uterine progesterone system (Progestasert  )
+1977|7.0|3.5|Atmospheric Environment|Size discrimination and chemical composition of ambient airborne sulfate particles by diffusion sampling
+1978|32.0|2.0|Atmospheric Environment|Chemical properties of tropospheric sulfur aerosols
+1979|13.0|1.0|Environmental Research|Cytotoxicity to alveolar macrophages of trace metals adsorbed on fly ash
+1980|21.0|2.0|Journal of Geophysical Research|Sulfate enrichment in marine aerosols owing to biogenic gaseous sulfur compounds
+1981|14.0|2.0|Brain Research|Sizes of soma and stem dendrites in intracellularly labelled -motoneurones of the cat
+1982|7.0|2.0|Journal of Geophysical Research|Settling velocity distribution of natural aggregates
+1983|24.0|2.0|Journal of Catalysis|Evidence for slow uptake of hydrogen by titania-supported metal samples: Consequences for estimating metallic surface areas
+1984|17.0|2.0|Journal of the American Ceramic Society|HighTemperature Failure of Polycrystalline Alumina: II, Creep Crack Growth and Blunting
+1985|104.0|3.5|The Journal of Comparative Neurology|Compartmentalization of the cat lateral gastrocnemius motor nucleus
+1986|19.0|2.5|Journal of Applied Physics|dc magnetron- and diode-sputtered polycrystalline Fe and amorphous Tb(FeCo) films: Morphology and magnetic properties
+1987|8.0|1.5|American Journal of Physical Anthropology|Shape in morphometrics: Comparative analyses
+1988|91.0|1.0|Journal of the American Ceramic Society|Toughening Behavior in WhiskerReinforced Ceramic Matrix Composites
+1989|22.0|3.0|Journal of the American Ceramic Society|Transformation Zone Shape, Size, and CrackGrowthResistance [RCurve] Behavior of CeriaPartiallyStabilized Zirconia Polycrystals
+1990|28.0|3.0|Journal of Geophysical Research|Aerosol size distributions and optical properties found in the marine boundary layer over the Atlantic Ocean
+1991|38.0|2.0|Journal of Chemical Physics|The energetics and structure of nickel clusters: Size dependence
+1992|19.0|2.5|Journal of Materials Research|Nanoindentation of nanocrystalline ZnO
+1993|33.0|3.0|Journal of the American Ceramic Society|Mechanisms and Kinetics of ReactionBonded Aluminum Oxide Ceramics
+1994|49.0|3.5|Journal of Biomedical Materials Research|Macrophage/particle interactions: effect of size, composition and surface area.
+1995|54.0|2.5|Journal of Molecular and Cellular Cardiology|Preconditioning in isolated superfused human muscle
+1996|74.0|4.0|Ecology|An experimental study of plant community invasibility.
+1997|50.0|2.0|computer vision and pattern recognition|Pedestrian detection using wavelet templates
+1998|164.0|3.0|American Journal of Cardiology|Hypertriglyceridemia as a Cardiovascular Risk Factor
+1999|27.0|5.0|Journal of Chemical Physics|Evolution of the electronic structure and properties of neutral and charged aluminum clusters: A comprehensive analysis
+2000|128.0|5.0|Conservation Biology|A survey and overview of habitat fragmentation experiments.
+2001|185.0|4.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Fast approximate energy minimization via graph cuts
+2002|109.0|6.0|British Journal of Ophthalmology|The definition and classification of glaucoma in prevalence surveys.
+2003|161.0|9.0|Annual Review of Entomology|Plasticity in Life-History Traits
+2004|139.0|6.0|Traffic|Molecular Dynamics and Interactions for Creation of StimulationInduced Stabilized Rafts from Small Unstable SteadyState Rafts
+2005|97.0|7.0|Gastrointestinal Endoscopy|Impact of colonic cleansing on quality and diagnostic yield of colonoscopy : the European Panel of Appropriateness of Gastrointestinal Endoscopy European multicenter study
+2006|75.0|5.0|Biology Letters|The scaling and temperature dependence of vertebrate metabolism
+2007|146.0|6.0|Advanced Materials|Gold Nanorods Mediate Tumor Cell Death by Compromising Membrane Integrity
+2008|101.0|7.0|Journal of Insect Science|The effects of hydration on growth of the house cricket, Acheta domesticus.
+2009|492.0|7.0|Science|Widespread increase of tree mortality rates in the western United States.
+2010|107.0|6.0|PLOS ONE|MiRNA expression profile of human subcutaneous adipose and during adipocyte differentiation.

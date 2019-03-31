@@ -1,0 +1,43 @@
+----  Field Name Metaheuristic: 
+----  Field Level 2.0: 
+----  Field Papers Number 18586:
+----  All time max citation paper: A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood., 2003, (8435.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1971|1.0|1.0|IEEE Transactions on Instrumentation and Measurement|One-Way Time Synchronization via Geostationary Satellites at UHF
+1973|1.0|1.0|symposium on the theory of computing|Toward mechanical verification of properties of roundoff error propagation
+1975|2.0|1.0|Journal of the ACM|Exact, Approximate, and Guaranteed Accuracy Algorithms for the Flow-Shop Problem n/2/F / F
+1976|4.0|4.0|symposium on the theory of computing|Some complexity results for the Traveling Salesman Problem
+1977|0|0.0|General Relativity and Gravitation|A test theory of special relativity: II. First order tests
+1979|56.0|2.0|ACM Transactions on Database Systems|A Majority consensus approach to concurrency control for multiple copy databases
+1980|9.0|9.0|Management Science|Pivot and Complement--A Heuristic for 0-1 Programming
+1981|1.0|0.0|IEEE Transactions on Reliability|Reliability Indices for Topological Design of Computer Communication Networks
+1982|6.0|1.0|IEEE Transactions on Communications|Linear Phase-Locked Loop Theory for Cyclostationary Input Disturbances
+1983|9.0|6.5|Journal of Insect Physiology|Search strategy of sex pheromone-stimulated male German cockroaches
+1984|34.0|6.5|principles of distributed computing|Fault-tolerant clock synchronization
+1985|20.0|13.0|principles of distributed computing|Inexact agreement: accuracy, precision, and graceful degradation
+1986|27.0|3.0|Computers & Operations Research|Future paths for integer programming and links to artificial intelligence
+1987|121.0|10.0|Machine Learning|Knowledge Acquisition Via Incremental Conceptual Clustering
+1988|30.0|4.0|Information & Computation|A new fault-tolerant algorithm for clock synchronization
+1989|37.0|3.5|Distributed Computing|Probabilistic clock synchronization
+1990|151.0|5.0|Informs Journal on Computing|Tabu SearchPart II
+1991|34.0|2.0|foundations of genetic algorithms|Evolution in Time and Space  The Parallel Genetic Algorithm
+1992|106.0|5.5|national conference on artificial intelligence|A new method for solving hard satisfiability problems
+1993|100.0|6.0|Annals of Operations Research|A user's guide to tabu search
+1994|47.0|5.0|national conference on artificial intelligence|Noise strategies for improving local search
+1995|147.0|4.0|IEEE Transactions on Software Engineering|Formal verification for fault-tolerant architectures: prolegomena to the design of PVS
+1996|118.0|4.0|systems man and cybernetics|Ant system: optimization by a colony of cooperating agents
+1997|122.0|3.0|IEEE Transactions on Evolutionary Computation|Ant colony system: a cooperative learning approach to the traveling salesman problem
+1998|98.0|3.0|national conference on artificial intelligence|Boosting combinatorial search through randomization
+1999|121.0|5.0|Artificial Life|Ant algorithms for discrete optimization
+2000|80.0|3.0|Artificial Intelligence|The spatial semantic hierarchy
+2001|115.0|4.0|Artificial Intelligence|Planning as heuristic search
+2002|416.0|5.0|IEEE Transactions on Evolutionary Computation|The particle swarm - explosion, stability, and convergence in a multidimensional complex space
+2003|1683.0|6.0|Systematic Biology|A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood.
+2004|233.0|5.0|international conference on embedded networked sensor systems|The flooding time synchronization protocol
+2005|227.0|4.0|Theoretical Computer Science|Ant colony optimization theory: a survey
+2006|305.0|4.0|IEEE Transactions on Evolutionary Computation|Comprehensive learning particle swarm optimizer for global optimization of multimodal functions
+2007|299.0|4.0|Journal of Global Optimization|A powerful and efficient algorithm for numerical function optimization: artificial bee colony (ABC) algorithm
+2008|342.0|3.0|IEEE Transactions on Evolutionary Computation|Particle Swarm Optimization: Basic Concepts, Variants and Applications in Power Systems
+2009|466.0|2.0|Applied Mathematics and Computation|A comparative study of Artificial Bee Colony algorithm
+2010|242.0|5.0|Clinical Orthopaedics and Related Research|A New Metaheuristic Bat-Inspired Algorithm

@@ -1,0 +1,58 @@
+----  Field Name Celestial mechanics: 
+----  Field Level 2.0: 
+----  Field Papers Number 16339:
+----  All time max citation paper: Overview of the radiometric and biophysical performance of the MODIS vegetation indices, 2002, (1670.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|4.0|3.0|Journal of Genetics|Cytogenetics of Brassica hybrids and species.
+1959|0|0.0|Management Science|The Systems Research Laboratory's Air Defense Experiments
+1961|5.0|0.0||The Thermal Accommodation Coefficient: A Critical Survey
+1962|1.0|1.0|Journal of The Franklin Institute-engineering and Applied Mathematics|THE COSMIC RAY STORM OF JULY 1961
+1963|38.0|5.0|Journal of Geophysical Research|Chargedparticle observations in the Earth's outer magnetosphere
+1964|79.0|20.0|Journal of Geophysical Research|HIGH-LATITUDE GEOPHYSICAL STUDIES WITH SATELLITE INJUN 3. 3. PRECIPITATION OF ELECTRONS INTO THE ATMOSPHERE
+1965|42.0|7.0|Journal of Geophysical Research|Diurnal and latitudinal effects observed for 10kev electrons at low satellite altitudes
+1966|26.0|2.5|Journal of Geophysical Research|Correlation of magnetic fields and energetic electrons on the IMP 1 satellite
+1967|39.0|5.0|Journal of Geophysical Research|Influence of interplanetary magnetic field and plasma on geomagnetic activity during quietsun conditions
+1968|36.0|5.0|Journal of Geophysical Research|Fieldaligned electron bursts at high latitudes observed by OGO 4
+1969|39.0|2.5|Journal of Geophysical Research|Bow shock associated waves observed in the far upstream interplanetary medium
+1970|43.0|3.0|Journal of Geophysical Research|Characteristics of transverse magnetic disturbances observed at 1100 kilometers in the auroral oval
+1971|7.0|1.0|Reviews of Geophysics|Dynamical aspects of lunar origin
+1972|6.0|1.0|Journal of Geophysical Research|Some implications of satellite spin effects in cylindrical probe measurements
+1973|44.0|5.0|Planetary and Space Science|Auroral heating and the composition of the neutral atmosphere.
+1974|29.0|5.0|Journal of Geophysical Research|Whistler waves observed upstream from collisionless shocks
+1975|38.0|2.0|Journal of Geophysical Research|Directionfinding measurements of auroral kilometric radiation
+1976|31.0|2.5|Journal of Geophysical Research|Solar wind stream evolution at large heliocentric distances: Experimental demonstration and the test of a model
+1977|28.0|5.0|Journal of Geophysical Research|VLF emissions associated with enhanced magnetospheric electrons
+1978|29.0|3.0|Icarus|Planetesimals to planets: Numerical simulation of collisional evolution
+1979|25.0|3.0|Journal of Geophysical Research|Characteristics of the magnetospheric boundary layer and magnetopause layer as observed by Imp 6
+1980|38.0|6.0|IEEE Transactions on Communications|Multiaccess Protocols in Packet Communication Systems
+1981|61.0|5.0|Journal of Geophysical Research|Direct plasma measurements in the Io torus and inner magnetosphere of Jupiter
+1982|12.0|3.0|Journal of Mathematical Physics|Melnikov's method and Arnold diffusion for perturbations of integrable Hamiltonian systems
+1983|17.0|2.0|Icarus|Chaotic behavior and the origin of the 3/1 Kirkwood gap
+1984|51.0|3.0|Experimental Cell Research|2-Acetylaminofluorene-modified probes for the indirect hybridocytochemical detection of specific nucleic acid sequences
+1985|34.0|4.0|Icarus|Collisional balance of the meteoritic complex
+1986|28.0|3.0|Icarus|Global distribution and migration of subsurface ice on Mars
+1987|44.0|3.0|Schizophrenia Bulletin|The Disorder of Consciousness in Schizophrenia
+1988|25.0|2.0|Icarus|Where do the Apollo objects come from?
+1989|33.0|3.0|Geophysical Research Letters|Observational determination of the adiabatic index in the quiet time plasma sheet
+1990|38.0|2.0|Journal of Geophysical Research|Distribution of tropospheric ozone determined from satellite data
+1991|44.0|3.0|Remote Sensing of Environment|Normalized difference vegetation index measurements from the Advanced Very High Resolution Radiometer
+1992|52.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A theory of multiscale, curvature-based shape representation for planar curves
+1993|26.0|3.0|Journal of Geophysical Research|Global climatologies of solar radiation budgets at the surface and in the atmosphere from 5 years of ERBE data
+1994|39.0|2.0|Nature Genetics|Minisatellite mutation rate variation associated with a flanking DNA sequence polymorphism.
+1995|81.0|3.0|IEEE Personal Communications|Wireless personal communications: what is it?
+1996|55.0|3.0|Journal of Geophysical Research|Validation of UARS Microwave Limb Sounder ozone measurements
+1997|123.0|4.5|IEEE Transactions on Geoscience and Remote Sensing|Second Simulation of the Satellite Signal in the Solar Spectrum, 6S: an overview
+1998|57.0|2.0|IEEE Transactions on Geoscience and Remote Sensing|The Moderate Resolution Imaging Spectroradiometer (MODIS): land remote sensing for global change research
+1999|101.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Enhancing versus suppressive effects of stress hormones on skin immune function
+2000|47.0|2.0|IEEE Transactions on Automatic Control|Controllability and motion algorithms for underactuated Lagrangian systems on Lie groups
+2001|86.0|2.5|Journal of Geophysical Research|Variations in northern vegetation activity inferred from satellite data of vegetation index during 1981 to 1999
+2002|209.0|3.0|Remote Sensing of Environment|Overview of the radiometric and biophysical performance of the MODIS vegetation indices
+2003|144.0|3.0|computer and communications security|Monitoring and early warning for internet worms
+2004|181.0|4.0|Astronomy and Astrophysics|A long-term numerical solution for the insolation quantities of the Earth
+2005|237.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Regional vegetation die-off in response to global-change-type drought
+2006|152.0|5.0|IEEE Transactions on Geoscience and Remote Sensing|The ozone monitoring instrument
+2007|223.0|4.0|Nature|Origins of major human infectious diseases
+2008|198.0|2.0|Annual Review of Public Health|Heat Stress and Public Health: A Critical Review
+2009|594.0|2.0|Nature|Early-warning signals for critical transitions
+2010|273.0|6.0|IEEE Transactions on Circuits and Systems I-regular Papers|Consensus of Multiagent Systems and Synchronization of Complex Networks: A Unified Viewpoint

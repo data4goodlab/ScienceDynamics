@@ -1,0 +1,80 @@
+----  Field Name Physiology: 
+----  Field Level 1.0: 
+----  Field Papers Number 125790:
+----  All time max citation paper: Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources., 2009, (6860.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1931|0|0.0|Journal of Dairy Science|The Effect of Dilution on the Titratable Acidity of Cows Milk*
+1934|2.0|2.0|Journal of Dairy Science|A study of the Relationships Between Hydrogen Ion Concentration Titratrable Acidity, and Quality in Cheddar Cheese
+1935|3.0|2.0|Journal of Dairy Science|Seasonal Variations in the Lipase Content of Milk
+1937|3.0|3.0|The Lancet|EFFECTS OF PROLONGED STRIN-STIMULATION ON THE CERVIX UTERI
+1938|6.0|3.0|JAMA|Riboflavin. Physiology and Pathology.
+1940|2.0|2.0|Journal of Dairy Science|The Coagulation Temperature of Milk as Affected by pH, Salts, Evaporation and Previous Heat Treatment
+1941|0|0.0|Journal of Cellular and Comparative Physiology|Anaerobic metabolism in the larvae of tenebrio molitor L.: Gaseous metabolism and changes in glycogen, sugar, fat and lactic acid
+1942|4.0|4.0|American Heart Journal|The effect of high altitude and rebreathing on the duration of electrical systole in man
+1944|1.0|0.5|American Heart Journal|Observations on the heart size of natives living at high altitudes
+1945|1.0|0.5|American Journal of Obstetrics and Gynecology|Squamous metaplasia of the cervix uteri
+1946|16.0|16.0|The Journal of Pediatrics|The retention of electrolyte during recovery fromsevere dehydration due to diarrhea
+1947|1.0|1.0|American Heart Journal|Physiologic condition of the heart in the natives of high altitudes
+1948|7.0|4.0|Journal of Dairy Science|Frozen Homogenized Milk. IV. Keeping Quality of Frozen Homogenized Milk after Thawing
+1949|1.0|0.0|British Journal of Nutrition|The Distribution of Radioactive Cobalt in Pigs
+1950|9.0|3.0|The New England Journal of Medicine|Body-Huid physiology : the rote of potassium in clinical disturbances of body water and electrolyte.
+1951|0|0.0|Anatomical Record-advances in Integrative Anatomy and Evolutionary Biology|The vascular system of the rabbit ovary and its relationship to ovulation
+1952|2.0|1.0|Journal of Dairy Science|Action of Bacteriophage on Mixed Strain Starter Cultures. II. Relation to Acid Production of the Proportion of Resistant Bacteria
+1953|2.0|2.0|Journal of Cellular and Comparative Physiology|The chemistry and function of the pyruvate oxidation factor (lipoic acid)
+1954|13.0|5.0|Archives of Biochemistry and Biophysics|The effect of ionizing radiation on deoxyribonuclease activities of body fluids. I. The effect of total body exposure on the urinary excretion of deoxyribonucleases
+1955|3.0|3.0|Annals of the New York Academy of Sciences|FACTORS IN THE RADIOSENSITIVITY OF MAMMALIAN CELLS
+1956|3.0|1.5|The New England Journal of Medicine|Hormonal influences on the growth and progression of cancer: tests for hormone dependency in mammary and prostatic cancer.
+1958|2.0|1.0|Annals of the New York Academy of Sciences|SOME CHEMICAL AND BIOLOGICAL PROPERTIES OF 19NOR17ETHYNYLTESTOSTERONE
+1959|2.0|0.5|JAMA Pediatrics|The Association of Various Factors and Hypernatremic Diarrheal Dehydration
+1960|19.0|2.0|Biochimica et Biophysica Acta|Studies on the mechanism of fatty acid synthesis. VII. Biosynthesis of fatty acids from malonyl CoA.
+1961|14.0|1.0|Journal of Investigative Dermatology|The Melanosome: A Distinctive Subcellular Particle of Mammalian Melanocytes and the Site of Melanogenesis1
+1962|13.0|1.0|Icarus|A search for water vapor and trace constituents in the venus atmosphere
+1963|20.0|3.0|Journal of Geophysical Research|Simultaneous balloon observations at Fort Churchill and Minneapolis during the solar cosmic ray events of July 1961
+1964|17.0|2.0|Journal of Geophysical Research|Precipitation of energetic electrons into the atmosphere
+1965|56.0|2.5|Journal of Geophysical Research|Positive ion composition in the magnetoionosphere obtained from the OgoA satellite
+1966|34.0|2.0|Journal of Geophysical Research|Transverse magnetic disturbances at 1100 kilometers in the auroral region
+1967|25.0|3.0|Journal of Geophysical Research|Ion temperature in the upper atmosphere
+1968|59.0|3.0|Journal of Geophysical Research|Contraction of the plasmasphere during geomagnetically disturbed periods
+1969|43.0|2.0|Biochemical and Biophysical Research Communications|Adenyl cyclase activity in human platelets.
+1970|40.0|2.0|Brain Research|A study of glycolipid metabolism in myelination disorder of jimpy and quaking mice.
+1971|80.0|2.5|Advances in Cancer Research|Alpha-Fetoprotein in Ontogenesis and its Association with Malignant Tumors
+1972|58.0|3.0|Contraception|Radioimmunoassay of serum progesterone in women receiving oral contraceptive steroids
+1973|42.0|2.0|Journal of Molecular Biology|Transcription of mouse mammary tumor virus genes in tissues from high and low tumor incidence mouse strains
+1974|79.0|2.0|Brain Research|Visual pathways and the central neural control of a circadian rhythm in pineal serotonin N-acetyltransferase activity
+1975|82.0|2.0|Cell|The T-locus of the mouse
+1976|64.0|3.0|The New England Journal of Medicine|Estrogens and endometrial cancer in a retirement community.
+1977|69.0|3.0|Journal of Neurophysiology|Mouse spinal cord in cell culture. I. Morphology and intrinsic neuronal electrophysiologic properties.
+1978|69.0|3.0|Applied Physics Letters|Spatially controlled crystal regrowth of ion-implanted silicon by laser irradiation
+1979|94.0|3.0|Cell|The evolution and sequence comparison of two recently diverged mouse chromosomal -globin genes
+1980|88.0|3.0|Journal of Applied Physics|Supersaturated substitutional alloys formed by ion implantation and pulsed laser annealing of groupIII and groupV dopants in silicon
+1981|262.0|3.0|Pflgers Archiv: European Journal of Physiology|Improved patch-clamp techniques for high-resolution current recording from cells and cell-free membrane patches.
+1982|108.0|3.0|Brain Research|Voltage-clamp analysis of muscarinic excitation in hippocampal neurons
+1983|95.0|3.0|JAMA|Acquired immunodeficiency with reversed T4/T8 ratios in infants born to promiscuous and drug-addicted mothers.
+1984|198.0|3.0|Cell|Cell-cycle control of c-myc but not c-ras expression is lost following chemical transformation
+1985|199.0|3.0|The New England Journal of Medicine|The inverse relation between fish consumption and 20-year mortality from coronary heart disease.
+1986|129.0|3.0|Journal of Clinical Investigation|Atrial natriuretic factor in normal subjects and heart failure patients. Plasma levels and renal, hormonal, and hemodynamic responses to peptide infusion.
+1987|176.0|3.0|Nature|A new type of glutamate receptor linked to inositol phospholipid metabolism
+1988|204.0|3.0|Journal of Neurochemistry|Cooperative Modulation of [3H]MK801 Binding to the NMethyldAspartate ReceptorIon Channel Complex by lGlutamate, Glycine, and Polyamines
+1989|93.0|3.0|Applied Physics Letters|Hightemperature superconductivity in ultrathin films of Y1Ba2Cu3O7x
+1990|149.0|3.0|Science|Biophysical and molecular mechanisms of Shaker potassium channel inactivation.
+1991|273.0|3.0|Science|Ca2+ permeability of KA-AMPA--gated glutamate receptor channels depends on subunit composition.
+1992|512.0|3.0|Science|Heteromeric NMDA receptors: molecular and functional distinction of subtypes.
+1993|125.0|3.0|Neuron|A novel adenylyl cyclase-activating serotonin receptor (5-HT7) implicated in the regulation of mammalian circadian rhythms
+1994|161.0|3.0|Trends in Neurosciences|Modulation of ion-channel function by G-protein-coupled receptors
+1995|635.0|4.0|Neuropharmacology|The metabotropic glutamate receptors: structure and functions.
+1996|268.0|4.0|Cell|CD4-independent infection by HIV-2 is mediated by fusin/CXCR4.
+1997|658.0|5.0|Nature|The capsaicin receptor: a heat-activated ion channel in the pain pathway
+1998|252.0|5.0|Nature|Genetic basis and molecular mechanism for idiopathic ventricular fibrillation
+1999|367.0|6.0|Nature|Vanilloid receptors on sensory nerves mediate the vasodilator action of anandamide
+2000|438.0|6.0|Circulation|Long-Term Follow-Up of Patients With Mild Coronary Artery Disease and Endothelial Dysfunction
+2001|311.0|7.0|Nature|Bradykinin and nerve growth factor release the capsaicin receptor from PtdIns(4,5)P2-mediated inhibition
+2002|572.0|8.0|Nature|Coordination of circadian timing in mammals
+2003|606.0|8.0|Nature Genetics|PGC-1|[alpha]|-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes
+2004|394.0|8.0|Nature|Mustard oils and cannabinoids excite sensory nerve fibres through the TRP channel ANKTM1
+2005|558.0|8.0|Nature Neuroscience|Neural systems of reinforcement for drug addiction: from actions to habits to compulsion
+2006|673.0|8.0|European Heart Journal|Expert consensus document on arterial stiffness: methodological issues and clinical applications
+2007|1029.0|8.0|Nature Protocols|Locating proteins in the cell using TargetP, SignalP and related tools.
+2008|2058.0|9.0|Nature Protocols|Analyzing real-time PCR data by the comparative CT method
+2009|5660.0|8.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|1420.0|9.0|Nature Protocols|I-TASSER: a unified platform for automated protein structure and function prediction

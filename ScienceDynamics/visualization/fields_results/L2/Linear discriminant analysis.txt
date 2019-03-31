@@ -1,0 +1,71 @@
+----  Field Name Linear discriminant analysis
+----  Field Level 2.0
+----  Field Papers Number 109223
+----  All time max citation paper Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives, 2009, (9709.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1937|0|0.0|Journal of Genetics|Failure of chromosome pairing as evidence of secondary diploidy in Zea mays
+1939|0|0.0|Psychiatric Quarterly|The serum lipids in schizophrenia
+1941|0|0.0|Biometrika|THE STATISTICAL SIGNIFICANCE OF CANONICAL CORRELATIONS
+1943|2.0|2.0|Psychometrika|The concept of test and item reliability in relation to factor pattern
+1947|3.0|3.0|Annals of Mathematical Statistics|On Optimum Tests of Composite Hypotheses With one Constraint
+1950|1.0|1.0|Psychometrika|On the identifiability of parameters in Thurstone's multiple factor analysis
+1951|2.0|1.0|Psychometrika|A factorial study of the reasoning and closure factors
+1953|0|0.0|Systematic Biology|An Application of Factor Analysis to the Systematics of Kalotermes
+1954|5.0|1.0|Psychometrika|The concept of parsimony in factor analysis
+1955|0|0.0||SOME CONTRIBUTIONS TO FACTOR ANALYSIS
+1956|0|0.0|Educational and Psychological Measurement|Factor Analysis in the Measurement of Personality Integration
+1957|2.0|1.0|Psychometrika|The development of hierarchical factor solutions
+1958|7.0|1.0|Psychometrika|An inter-battery method of factor analysis
+1959|3.0|1.5|Psychometrika|Domain sampling formulation of cluster and factor analysis
+1960|13.0|7.5|Journal of Chemical Physics|Dielectric Constants of Imperfect Gases. I. Helium, Argon, Nitrogen, and Methane
+1961|11.0|1.0|Journal of Dairy Science|Ratio Factors for Adjusting Monthly Test-Day Data for Age and Season of Calving and Ratio Factors for Extending Part Lactation Records
+1962|9.0|0.0|Psychometrika|Some rao-guttman relationships
+1963|2.0|2.0|Journal of the American Statistical Association|Techniques for Constructing Fractional Replicate Plans
+1964|7.0|2.5|Journal of Chemical Physics|ESR STUDY OF A SINGLE CRYSTAL OF L-CYSTINE DIHYDROCHLORIDE IRRADIATED AT LOW TEMPERATURE
+1965|17.0|2.0|Psychometrika|Alpha factor analysis
+1966|6.0|1.0|Journal of Dairy Science|Maximum Likelihood Estimates of Age Effects
+1967|11.0|2.0|Organizational Behavior and Human Performance|An empirical investigation of the motivational determinants of task performance: interactive effects between instrumentality-valence and motivation-ability,
+1968|38.0|1.0|Proceedings of the IEEE|State of the art in pattern recognition
+1969|22.0|1.0|Physiology & Behavior|Interactive effects of experience and olfactory bulb lesions in male rat copulation
+1970|16.0|1.0|IEEE Transactions on Computers|A Generalized Technique for Spectral Analysis
+1971|29.0|1.0|Earth and Planetary Science Letters|Ophiolite origin investigated by discriminant analysis using Ti, Zr and Y
+1972|13.0|1.0|Psychometrika|Relations Between Multidimensional Scaling and Three-Mode Factor Analysis.
+1973|53.0|1.0|Journal of Personality and Social Psychology|Social Psychology As History
+1974|23.0|2.0|Psychophysiology|Interactive Effects of Alpha Feedback and Instructional Set on Subjective State
+1975|35.0|2.0|Journal of Geophysical Research|The isostatic state of Martian topography
+1976|27.0|1.5|International Journal of Psychology|Comparative research methodology: Crosscultural studies
+1977|113.0|1.0|ACM Transactions on Database Systems|Multivalued dependencies and a new normal form for relational databases
+1978|26.0|2.0|Child Development|Family Interaction in Abusive, Neglectful, and Normal Families.
+1979|64.0|2.0|Annals of Statistics|Bootstrap Methods: Another Look at the Jackknife
+1980|52.0|2.0|Psychological Bulletin|Significance tests and goodness of fit in the analysis of covariance structures.
+1981|73.0|2.0|Intelligence|Reaction time, evoked brain potentials, and psychometric g in the severely retarded
+1982|39.0|2.0|Annals of Statistics|Cox's Regression Model for Counting Processes: A Large Sample Study
+1983|88.0|2.0|Intelligence|Speed of information processing and general intelligence
+1984|51.0|2.0|Intelligence|Individual Differences in Visual Imagery and Spatial Ability.
+1985|82.0|2.0|Psychological Bulletin|MANOVA method for analyzing repeated measures designs: an extensive primer.
+1986|53.0|2.0|American Journal of Cardiology|Left ventricular diastolic filling and its association with age
+1987|102.0|2.0|Psychophysiology|The Continuing Problem of False Positives in Repeated Measures ANOVA in Psychophysiology: A Multivariate Solution
+1988|145.0|2.0|JAMA|Lipid alterations and decline in the incidence of coronary heart disease in the Helsinki Heart Study.
+1989|45.0|2.0|Psychological Bulletin|Multivariate Analysis Versus Multiple Univariate Analyses
+1990|85.0|2.0|Computational Linguistics|Word association norms, mutual information, and lexicography
+1991|92.0|2.0|Personnel Psychology|THE BIG FIVE PERSONALITY DIMENSIONS AND JOB PERFORMANCE: A METAANALYSIS
+1992|84.0|2.0|Scientific Programming|Programming in Vienna Fortran
+1993|221.0|2.0|Medical Care|The MOS 36-Item Short-Form Health Survey (SF-36): II. Psychometric and clinical tests of validity in measuring physical and mental health constructs
+1994|101.0|2.0|Journal of Econometrics|Five alternative methods of estimating long-run equilibrium relationships
+1995|119.0|2.0|Psychological Bulletin|A contrarian view of the five-factor approach to personality description.
+1996|142.0|3.0|Journal of Finance|Multifactor Explanations of Asset Pricing Anomalies
+1997|163.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Eigenfaces vs. Fisherfaces: recognition using class specific linear projection
+1998|295.0|4.0|Geophysical Research Letters|The Arctic Oscillation signature in the wintertime geopotential height and temperature fields
+1999|286.0|4.0|Kidney International|Inflammation enhances cardiovascular risk and mortality in hemodialysis patients.
+2000|573.0|5.0|BMJ|Association of glycaemia with macrovascular and microvascular complications of type 2 diabetes (UKPDS 35): prospective observational study
+2001|364.0|5.0||A conceptual framework and a toolkit for supporting the rapid prototyping of context-aware applications
+2002|2630.0|6.0|JAMA|Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results From the Women's Health Initiative randomized controlled trial
+2003|641.0|7.0|Image and Vision Computing|Image registration methods: a survey
+2004|467.0|6.0|The New England Journal of Medicine|Oxaliplatin, fluorouracil, and leucovorin as adjuvant treatment for colon cancer.
+2005|503.0|6.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Face recognition using Laplacianfaces
+2006|700.0|6.0|The New England Journal of Medicine|Lapatinib plus capecitabine for HER2-positive advanced breast cancer
+2007|492.0|6.0|Physiological Reviews|Physiology and Pathophysiology of Purinergic Neurotransmission
+2008|607.0|7.0|The Lancet|Efficacy assessment of a cell-mediated immunity HIV-1 vaccine (the Step Study): a double-blind, randomised, placebo-controlled, test-of-concept trial
+2009|8288.0|6.0|Structural Equation Modeling|Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives
+2010|1614.0|7.0|Journal of Statistical Software|Regularization Paths for Generalized Linear Models via Coordinate Descent

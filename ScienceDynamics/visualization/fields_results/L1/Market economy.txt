@@ -1,0 +1,51 @@
+----  Field Name Market economy: 
+----  Field Level 1.0: 
+----  Field Papers Number 19340:
+----  All time max citation paper: Endogenous Technological Change, 1990, (3009.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1955|11.0|11.0|Journal of Chemical Physics|On the Electronic Structure and Electronic Spectra of EthyleneLike Molecules
+1956|16.0|16.0|Journal of Chemical Physics|Electronic Interaction in the FreeElectron Network Model for Conjugated Systems. II. Spectra of Aromatic Hydrocarbons
+1966|0|0.0||The USSR and The National Liberation Movement
+1967|1.0|0.0|Nuclear Physics|Possible deformed states in 115 In and 117 In
+1969|0|0.0|Theoretical Chemistry Accounts|Effects of inductive substituents on electronic spectra aza analogs of fluoranthene
+1970|1.0|0.0|The Economic Journal|Family Planning Prospects in Less-Developed Countries, and a Cost-benefit Analysis of Various Alternatives
+1971|6.0|1.0|Review of Educational Research|Manipulating Incentives to Enhance School Learning.
+1973|8.0|4.5|Physiology & Behavior|Influence of type of reinforcement on operant responding by rats with ventromedial lesions
+1974|8.0|0.0|Review of Educational Research|Incentives for Innovation in the Public Schools.
+1975|16.0|1.0||Economic analysis of projects
+1976|4.0|1.0|Imf Staff Papers|The Productivity Bias in Purchasing Power Parity: An Econometric Investigation
+1977|9.0|0.0|Journal of Economic Theory|Some new results on the local stability of the process of capital accumulation
+1978|10.0|1.5|Journal of International Economics|Purchasing power parity and exchange rates : Another look at the evidence
+1979|20.0|1.0|Journal of International Economics|Purchasing Power Parity: Doctrinal Perspective and Evidence from the 1920s
+1980|55.0|2.0|Psychophysiology|The Three Arousal Model: Implications of Gray's TwoFactor Learning Theory for Heart Rate, Electrodermal Activity, and Psychopathy
+1981|8.0|1.0|Journal of Theoretical Biology|Energy intensities in ecological and economic systems
+1982|14.0|1.0|Psychophysiology|The Heart Beats to Reward: The Effect of Monetary Incentive on Heart Rate
+1983|23.0|1.0|Journal of Finance|Deviations from Purchasing Power Parity in the Long Run
+1984|47.0|2.0||International Interest Rate and Price Level Linkages under Flexible Exchange Rates: A Review of Recent Evidence
+1985|35.0|1.5|Neuroscience & Biobehavioral Reviews|Behavioural pharmacology of food, water and salt intake in relation to drug actions at benzodiazepine receptors
+1986|99.0|2.0|American Psychologist|Motivational Processes Affecting Learning.
+1987|39.0|3.0||Ricardian Equivalence: An Evaluation of Theory and Evidence
+1988|28.0|2.0|World Bank Research Observer|Export promoting trade strategy : issues and evidence
+1989|17.0|2.0|Educational Researcher|The Impact of Differential Expenditures on School Performance.
+1990|82.0|2.0|Journal of Political Economy|Endogenous Technological Change
+1991|49.0|1.0|Journal of Political Economy|Real Exchange Rates under the Gold Standard
+1992|20.0|2.0|Surface and Interface Analysis|Random uncertainties in AES and XPS: I: Uncertainties in peak energies, intensities and areas derived from peak synthesis
+1993|52.0|2.0|Journal of Business & Economic Statistics|A fractional Cointegration Analysis of Purchasing Power Parity
+1994|90.0|2.0|Handbook of International Economics|Perspectives on PPP and Long-Run Real Exchange Rates
+1995|82.0|2.0|The New England Journal of Medicine|A National Survey of the arrangements managed-care plans make with physicians
+1996|90.0|3.0|World Bank Economic Review|A New Data Set Measuring Income Inequality
+1997|147.0|2.0|Quarterly Journal of Economics|Does Social Capital Have an Economic Payoff? A Cross-Country Investigation
+1998|69.0|2.0|Journal of International Economics|The behavior of real exchange rates during the post-Bretton Woods period
+1999|178.0|3.0|Journal of Economic Literature|Financial Development and Economic Growth: Views and Agenda
+2000|225.0|3.0|Journal of Economic Perspectives|Beyond Computation: Information Technology, Organizational Transformation and Business Performance
+2001|186.0|3.0|Journal of Economic Growth|Growth is Good for the Poor
+2002|159.0|4.0||An Estimated Stochastic Dynamic General Equilibrium Model of the Euro Area
+2003|179.0|4.0||Breaking the conflict trap : civil war and development policy
+2004|236.0|4.0|Econometric Theory|Panel Cointegration: Asymptotic and Finite Sample Properties of Pooled Time Series Tests with an Application to the PPP Hypothesis
+2005|184.0|4.0|Journal of the American College of Cardiology|Platelet reactivity in patients and recurrent events post-stenting: results of the PREPARE POST-STENTING Study.
+2006|385.0|4.0|Proceedings of the National Academy of Sciences of the United States of America|Powering the planet: Chemical challenges in solar energy utilization
+2007|904.0|4.0|Proceedings of the IEEE|Consensus and Cooperation in Networked Multi-Agent Systems
+2008|423.0|4.0|Ecological Economics|Designing payments for environmental services in theory and practice: An overview of the issues
+2009|305.0|4.0||Conditional cash transfers : reducing present and future poverty
+2010|313.0|4.0|Journal of Membrane Science|Power plant post-combustion carbon dioxide capture: An opportunity for membranes

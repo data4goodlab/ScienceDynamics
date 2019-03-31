@@ -1,0 +1,43 @@
+----  Field Name Agroforestry: 
+----  Field Level 1.0: 
+----  Field Papers Number 2932:
+----  All time max citation paper: Disturbances and structural development of natural forest ecosystems with silvicultural implications, using Douglas-fir forests as an example, 2002, (567.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1950|0|0.0|Journal of Wildlife Management|Spreading tendencies of multiflora rose in the Southeast
+1957|3.0|3.0|Annals of Applied Biology|ANEMONE MOSAICA VIRUS DISEASE
+1970|5.0|3.0|Annals of Applied Biology|Air movement near windbreaks and a hypothesis of the mechanism of the accumulation of airborne insects
+1975|1.0|1.0|Eos, Transactions American Geophysical Union|Soil erosion Sediment yield research in progress
+1977|0|0.0|Forest Ecology and Management|Natural versus man-made forests as buffers against environmental deterioration.
+1978|1.0|1.0|Environmental Management|Designing gully control systems for eroding watersheds
+1980|23.0|1.0|Water Resources Research|A stochastic-conceptual analysis of rainfall-runoff processes on a hillslope.
+1981|4.0|4.0|Economic Botany|Vegetative fallows and potential value of the neem tree (Azadirachta indica) in the tropics
+1982|1.0|1.0|Annals of The Association of American Geographers|Geography and the Quality of Life
+1983|5.0|2.0|Agroforestry Systems|Role of woody perennials in animal agroforestry.
+1984|5.0|2.5|Economic Botany|Development policy, forests and peasant farms: reflections on Huastec-managed forests' contribution to commercial production and resource conservation.
+1985|7.0|0.0|Annals of The Association of American Geographers|Historical Floodplain Sedimentation in the Galena River Basin, Wisconsin and Illinois
+1986|3.0|2.0|Agroforestry Systems|Acacia albida and other multipurpose trees on the Fur farmlands in the Jebel Marra highlands, Western Darfur, Sudan.
+1987|2.0|0.0||FARM LEVEL DYNAMIC ANALYSIS OF SOIL CONSERVATION: AN APPLICATION TO THE PIEDMONT AREA OF VIRGINIA
+1988|3.0|2.0|Landscape Ecology|Landscape planning: a working method applied to a case study of soil conservation
+1989|10.0|2.0|Experimental Agriculture|A Method for Farmer-participatory Research and Technology Transfer: Upland Soil Conservation in the Philippines
+1990|13.0|2.0|Nutrient Cycling in Agroecosystems|Share of agriculture in nitrogen and phosphorus emissions into the surface waters of Western Europe against the background of their eutrophication.
+1991|19.0|2.0|Advances in Agronomy|Agroforestry in acid soils of the humid tropics.
+1992|33.0|2.0|Plant and Soil|Biological nitrogen fixation in trees in agro-ecosystems.
+1993|20.0|2.0|Journal of Applied Ecology|Comparative effects of isolated trees on their undercanopy environments in high- and low-rainfall savannas.
+1994|12.0|2.0|Climatic Change|Integrated Land-Use Systems: Assessment of Promising Agroforest and Alternative Land-Use Practices to Enhance Carbon Conservation and Sequestration
+1995|47.0|3.0|Agroforestry Systems|Contribution of agroforestry trees to nutrient requirements of intercropped plants.
+1996|11.0|2.5|Land Degradation & Development|Deforestation and landuse effects on soil degradation and rehabilitation in western Nigeria. I. Soil physical and hydrological properties
+1997|19.0|2.0|Soil & Tillage Research|Residue management, conservation tillage and soil restoration for mitigating greenhouse effect by CO 2 -enrichment
+1998|22.0|3.0|Geomorphology|The recent history of erosion and sedimentation on the Southern Tablelands of southeastern Australia: sediment flux dominated by channel incision
+1999|24.0|5.0|Biological Conservation|Reflections on the tropical deforestation crisis
+2000|40.0|4.0|Forest Ecology and Management|Biodiversity, disturbances, ecosystem function and management of European forests.
+2001|60.0|3.0|Soil & Tillage Research|Soil management concepts and carbon sequestration in cropland soils
+2002|133.0|4.0|Forest Ecology and Management|Disturbances and structural development of natural forest ecosystems with silvicultural implications, using Douglas-fir forests as an example
+2003|58.0|6.0|Global and Planetary Change|Recent trends in the suspended sediment loads of the world's rivers
+2004|109.0|5.0|Agriculture, Ecosystems & Environment|Hydrological functions of tropical forests: not seeing the soil for the trees?
+2005|38.0|6.0|Ecological Economics|Biodiversity, yield, and shade coffee certification
+2006|91.0|7.0|Geomorphology|Human impact on landocean sediment transfer by the world's rivers
+2007|142.0|8.5|Food Policy|Farmers adoption of conservation agriculture: A review and synthesis of recent research
+2008|242.0|6.0|Philosophical Transactions of the Royal Society B|Greenhouse gas mitigation in agriculture
+2009|227.0|7.0|Field Crops Research|Conservation agriculture and smallholder farming in Africa: The heretics view
+2010|190.0|7.0|Nature Communications|Sustainable biochar to mitigate global climate change.

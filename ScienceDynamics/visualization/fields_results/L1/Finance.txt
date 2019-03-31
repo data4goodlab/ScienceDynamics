@@ -1,0 +1,68 @@
+----  Field Name Finance: 
+----  Field Level 1.0: 
+----  Field Papers Number 104203:
+----  All time max citation paper: Prospect Theory: An Analysis of Decision under Risk, 1979, (6489.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1910|0|0.0|Annals of The American Academy of Political and Social Science|Bibliography On Securities and Stock Exchanges
+1931|1.0|1.0|JAMA Pediatrics|MALNUTRITION IN CHILDREN: AN ATTEMPT AT STANDARDIZATION OF A DIETARY
+1938|1.0|1.0|Botanical Review|Competition among fungi
+1942|1.0|1.0|Bulletin of Mathematical Biology|An expression for the rate of return of an egg after artificial deformation
+1944|0|0.0||Bionomics and Control of the Nigra Scale, Saissetia nigra.
+1952|0|0.0|Review of Educational Research|Chapter IV: Financial Management
+1954|8.0|8.0|Psychological Bulletin|The theory of decision making
+1955|6.0|0.0|Journal of Dairy Science|Selection Indices Based on Milk and Fat Yield, Fat Per Cent, and Type Classification1
+1956|1.0|1.0|Annals of Mathematical Statistics|Some Continuous Monte Carlo Methods for the Dirichlet Problem
+1958|2.0|1.5|Geochimica et Cosmochimica Acta|Cosmic-ray-induced radioactivities in meteoritesII Al 26 , Be 10 and Co 60 , aerolites, siderites and tektites
+1959|1.0|1.0|Journal of Chemical Physics|Kinetics of the Thermal Decomposition of Dimethylmercury. I. Cyclopentane Inhibition
+1960|2.0|1.0|Biometrika|The properties of a stochastic model for the predator-prey type of interaction between two species
+1961|2.0|2.0|The Journal of Business|Dividend Policy, Growth, and the Valuation of Shares
+1962|10.0|0.0|Psychological Review|The selection of strategies in cue learning
+1963|3.0|1.5|Geochimica et Cosmochimica Acta|The sodium cycle and the age of the ocean
+1964|5.0|3.0|Icarus|A stochastic model of the formation and survival of lunar craters: I. Distribution of diameter of clean craters
+1965|8.0|7.5|Clinica Chimica Acta|Exogenous urinary amines of plant origin.
+1966|7.0|3.0|Icarus|A stochastic model of the formation and survival of lunar craters: II. Approximate distribution of diameter of all observable craters
+1967|14.0|1.5|Brain Research|Ascending axon degeneration following hemisection of the spinal cord in the tegu lizard ( Tupinambis nigropunctatus )
+1968|6.0|2.0|Biometrika|Stochastic models for the population growth of the sexes
+1969|6.0|2.0|Communications of The ACM|Degree of multiprogramming in page-on-demand systems
+1970|39.0|3.0|Journal of Finance|EFFICIENT CAPITAL MARKETS: A REVIEW OF THEORY AND EMPIRICAL WORK
+1971|13.0|2.0||Theory of rational option pricing
+1972|10.0|1.5|Journal of Geophysical Research|Observed correlations between auroral and VLF emissions
+1973|19.0|1.0|Psychophysiology|Pupillary and Cardiac Activity During Visual Attention
+1974|17.0|1.0|Journal of Financial Economics|The effects of dividend yield and dividend policy on common stock prices and returns
+1975|16.0|2.0||Economic analysis of projects
+1976|20.0|2.0||The Valuation of Uncertain Income Streams and the Pricing of Options
+1977|17.0|2.0|Journal of Financial Economics|Risk-adjusted discount rates and capital budgeting under uncertainty
+1978|19.0|1.0|Clinical & Experimental Allergy|The diagnosis of hypersensitivity to ingested foods. Reliability of skin prick testing and the radioallergosorbent test with different materials.
+1979|48.0|1.0|Journal of Financial Economics|An intertemporal asset pricing model with stochastic consumption and investment opportunities
+1980|132.0|2.0|Journal of Financial Economics|Measuring security price performance
+1981|72.0|1.0|Journal of Financial Economics|The relationship between return and market value of common stocks
+1982|75.0|2.0|Journal of Economic Literature|The Expected Utility Model: Its Variants, Purposes, Evidence and Limitations
+1983|36.0|2.0|Journal of Finance|International Portfolio Choice and Corporation Finance: A Synthesis
+1984|41.0|2.0|Journal of Financial Economics|Convertible debt issuance, capital structure change and financing-related information: Some new evidence
+1985|211.0|2.0|Journal of Financial Economics|Using daily stock returns: The case of event studies
+1986|124.0|2.0|Journal of Financial Economics|Investment banking and the capital acquisition process
+1987|100.0|2.0|Journal of Financial Economics|Expected stock returns and volatility
+1988|86.0|2.0|Neuroscience|N-methyl-d-aspartate promotes the survival of cerebellar granule cells in culture
+1989|66.0|2.0|Journal of Risk and Uncertainty|An Experimental Test of Several Generalized Utility Theories
+1990|62.0|2.0|Journal of Finance|Initial Public Offerings and Underwriter Reputation
+1991|183.0|2.0|Journal of Finance|Efficient Capital Markets: II
+1992|225.0|2.0|Journal of Finance|The CrossSection of Expected Stock Returns
+1993|125.0|2.0|Journal of Financial Economics|Common risk factors in the returns on stocks and bonds
+1994|73.0|2.0|IEEE Journal on Selected Areas in Communications|Design study for a CDMA-based third-generation mobile radio system
+1995|131.0|2.0|Journal of Finance|The New Issues Puzzle
+1996|93.0|2.0|international cryptology conference|Keying Hash Functions for Message Authentication
+1997|171.0|2.0|IEEE Communications Magazine|CORBA: integrating diverse applications within distributed heterogeneous environments
+1998|167.0|3.0||The Onset of the East Asian Financial Crisis
+1999|360.0|3.0|Journal of Economic Literature|The New Growth Evidence
+2000|225.0|3.0|Journal of Economic Perspectives|Beyond Computation: Information Technology, Organizational Transformation and Business Performance
+2001|186.0|3.0|Journal of Economic Growth|Growth is Good for the Poor
+2002|446.0|3.0|IEEE Computer|Networks on chips: a new SoC paradigm
+2003|328.0|3.0|Nature|Noise in eukaryotic gene expression.
+2004|447.0|4.0|Systematic Biology|Bayesian phylogenetic analysis of combined data
+2005|321.0|4.0|The American Economic Review|The Cyclical Behavior of Equilibrium Unemployment and Vacancies
+2006|321.0|3.0|Nature|Neurons in the orbitofrontal cortex encode economic value
+2007|1831.0|3.0|BMC Evolutionary Biology|BEAST: Bayesian evolutionary analysis by sampling trees
+2008|928.0|3.0|Marketing Science|Mental Accounting and Consumer Choice
+2009|594.0|3.0|Nature|Early-warning signals for critical transitions
+2010|625.0|4.0|Journal of Development Economics|A New Data Set of Educational Attainment in the World, 1950-2010

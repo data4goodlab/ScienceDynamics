@@ -1,0 +1,54 @@
+----  Field Name Risk management
+----  Field Level 2.0
+----  Field Papers Number 89348
+----  All time max citation paper The Central Role of the Propensity Score in Observational Studies for Causal Effects., 1983, (6190.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1958|0|0.0|Journal of General Psychology|Delay and risk: influence of a delay in performance on maximum risk-taking levels
+1962|2.0|2.0|Psychopharmacology|The effects of d-amphetamine on risk taking
+1965|24.0|6.0|Journal of Experimental Social Psychology|The roles of information, discussion, and consensus in group risk taking
+1966|37.0|31.0|Journal of Experimental Social Psychology|Components of group risk taking
+1967|10.0|5.5|Journal of Experimental Social Psychology|ARE RISK TAKERS MORE PERSUASIVE THAN CONSERVATIVES IN GROUP DISCUSSION.
+1968|15.0|6.5|Journal of Experimental Social Psychology|Individual and group risk-taking in a two-choice situation
+1969|11.0|3.0|Journal of Experimental Social Psychology|Group risk-taking in a two-choice situation: Replication, extension, and a model
+1970|13.0|3.0|Journal of Experimental Social Psychology|Risk taking in the context of intergroup negotiation
+1971|5.0|5.0|Journal of Personality and Social Psychology|Cultural Values and the Risky Shift: A Cross-Cultural Test in Uganda and the United States.
+1972|4.0|1.0|Journal of School Psychology|The Effects of Probability of Test Success, Test Importance, and Risk of Detection on the Incidence of Cheating.
+1973|1.0|0.0|Social Behavior and Personality|Risk-taking as a personality trait
+1974|15.0|2.0|Journal of Economic Theory|Increases in risk and in risk aversion,
+1975|16.0|7.0||Economic analysis of projects
+1976|13.0|1.5|Journal of Political Economy|Sharing Risks of Deferred Payment
+1977|25.0|2.0|The New England Journal of Medicine|Adverse effects on offspring of maternal alcohol abuse during pregnancy.
+1978|24.0|0.5|Policy Sciences|HOW SAFE IS SAFE ENOUGH? A PSYCHOMETRIC STUDY OF ATTITUDES TOWARDS TECHNOLOGICAL RISKS AND BENEFITS
+1979|49.0|3.0|Neuroscience|Postnatal development of retinal projections in Syrian hamsters: A study using autoradiographic and anterograde degeneration techniques
+1980|89.0|3.0|Journal of Political Economy|Agency Problems and the Theory of the Firm
+1981|38.0|3.0|Journal of Child Psychology and Psychiatry|Stress, Coping and Development: Some Issues and Some Questions.
+1982|28.0|1.0|Management Science|Sources of Bias in Assessment Procedures for Utility Functions
+1983|20.0|2.0|Biometrika|The Central Role of the Propensity Score in Observational Studies for Causal Effects.
+1984|32.0|3.0|Journal of Finance|A Critical Reexamination of the Empirical Evidence on the Arbitrage Pricing Theory
+1985|46.0|2.0|Ethology and Sociobiology|Competitiveness, risk taking, and violence: the young male syndrome
+1986|81.0|3.0|The Journal of Business|Economic Forces and the Stock Market
+1987|87.0|3.0|Toxicology and Applied Pharmacology|Physiologically based pharmacokinetics and the risk assessment process for methylene chloride
+1988|53.0|3.0|The New England Journal of Medicine|Reduced rate of energy expenditure as a risk factor for body-weight gain
+1989|60.0|3.0|JAMA|The emerging epidemic of melanoma and squamous cell skin cancer.
+1990|95.0|2.0|The New England Journal of Medicine|A prospective study of obesity and risk of coronary heart disease in women.
+1991|30.0|2.0|Neuroscience & Biobehavioral Reviews|The characterization and modelling of antipredator defensive behavior
+1992|47.0|3.0|Educational Researcher|Compliant Cognition: The Misalliance of Management and Instructional Goals in Current School Reform
+1993|76.0|2.0|Annals of Internal Medicine|The Risk of Determining Risk with Multivariable Models
+1994|893.0|3.0|The New England Journal of Medicine|A comparison of balloon-expandable-stent implantation with balloon angioplasty in patients with coronary artery disease
+1995|118.0|3.0|Nature Genetics|Susceptibility to human type 1 diabetes at IDDM2 is determined by tandem repeat variation at the insulin gene minisatellite locus
+1996|103.0|3.0|BMJ|Variability in risk of gastrointestinal complications with individual non-steroidal anti-inflammatory drugs: results of a collaborative meta-analysis.
+1997|307.0|3.0|The New England Journal of Medicine|The Risk of Cancer Associated With Specific Mutations of BRCA1 and BRCA2 Among Ashkenazi Jews
+1998|336.0|4.0||Polychemotherapy for early breast cancer: An overview of the randomised trials
+1999|123.0|5.0|The Lancet|Elective caesarean-section versus vaginal delivery in prevention of vertical HIV-1 transmission: a randomised clinical trial
+2000|573.0|5.0|BMJ|Association of glycaemia with macrovascular and microvascular complications of type 2 diabetes (UKPDS 35): prospective observational study
+2001|269.0|5.0|Psychological Bulletin|Risk as feelings.
+2002|337.0|6.0|European Heart Journal|Management of acute coronary syndromes in patients presenting without persistent ST-segment elevation
+2003|435.0|6.0|Circulation|From Vulnerable Plaque to Vulnerable Patient A Call for New Definitions and Risk Assessment Strategies: Part I
+2004|992.0|8.0|Nature|EXTINCTION RISK FROM CLIMATE CHANGE
+2005|1028.0|7.0|Nature|The global distribution of clinical episodes of Plasmodium falciparum malaria
+2006|446.0|7.0|Aquatic Toxicology|ECOTOXICOLOGY OF HUMAN PHARMACEUTICALS
+2007|627.0|7.0|The New England Journal of Medicine|Genomewide Association Analysis of Coronary Artery Disease
+2008|489.0|7.0|Osteoporosis International|FRAX and the assessment of fracture probability in men and women from the UK.
+2009|1015.0|10.0|Clinical Infectious Diseases|Clinical Practice Guidelines for the Management Candidiasis: 2009 Update by the Infectious Diseases Society of America
+2010|1087.0|9.0|European Heart Journal|Guidelines for the management of atrial fibrillation : the Task Force for the Management of Atrial Fibrillation of the European Society of Cardiology (ESC).

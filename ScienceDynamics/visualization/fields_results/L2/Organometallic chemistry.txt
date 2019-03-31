@@ -1,0 +1,72 @@
+----  Field Name Organometallic chemistry
+----  Field Level 2.0
+----  Field Papers Number 103105
+----  All time max citation paper Ab initio effective core potentials for molecular calculations. Potentials for the transition metal atoms Sc to Hg, 1985, (5068.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1934|3.0|3.0|Journal of Chemical Physics|The InterRelations of Hydrogen and Deuterium Molecules
+1938|5.0|5.0|Physica D: Nonlinear Phenomena|Paramagnetic dispersion in chromium alum and its interpretation
+1940|3.0|3.0|Physica D: Nonlinear Phenomena|Paramagnetic absorption and dispersion in chromium potassium alum
+1942|1.0|1.0|Physica D: Nonlinear Phenomena|On the high frequency rest-susceptibility of chromium-alum
+1948|2.0|1.0|Physica D: Nonlinear Phenomena|On the empty electron bands of lowest energy of the transition metals Mn and Fe and their oxides
+1950|5.0|4.0|British Journal of Nutrition|Copper pine of calves.
+1951|9.0|5.0|Journal of Chemical Physics|The Exchange of Water Between Hydrated Cations and Solvent
+1952|5.0|0.5|Physica D: Nonlinear Phenomena|On paramagnetic relaxation in chromium alum
+1953|11.0|3.0|Geochimica et Cosmochimica Acta|Minor element content of Ontario diabase
+1954|3.0|1.0|Journal of the American Ceramic Society|Solid Solution and Chromium Oxide Loss in Part of the System MgOAl2O3Cr2O3SiO2
+1955|14.0|1.0|Journal of Chemical Physics|Electronic Structures of TransitionMetal Complexes
+1956|8.0|4.0|Journal of Chemical Physics|Proton Relaxation in Solutions of Chromium (III) Complexes
+1957|21.0|2.0|Journal of Physics and Chemistry of Solids|The distribution of transition metal cations in spinels
+1958|6.0|1.0|British Journal of Nutrition|Excretion of chromium sesquioxide and polyethyleneglycol by dairy cows
+1959|12.0|1.5|Journal of Applied Physics|DIFFUSION OF INTERSTITIAL SOLUTES IN THE GROUP V TRANSITION METALS
+1960|23.0|1.0|Journal of Applied Physics|Equation of State for Nineteen Metallic Elements from ShockWave Measurements to Two Megabars
+1961|7.0|1.0|Geochimica et Cosmochimica Acta|Chromium, cobalt and strontium in some Bureau of Standards rock reference samples
+1962|17.0|1.0|Journal of Applied Physics|Work Function Variation of Metals Coated by Metallic Films
+1963|15.0|2.0|Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy|VIBRATIONAL SPECTRA AND FORCE CONSTANTS OF THE HEXACARBONYLS OF CHROMIUM, MOLYBDENUM AND TUNGSTEN
+1964|14.0|1.5|Journal of Applied Physics|Influence of Temperature, Strain Rate, Surface Condition, and Composition on the Plasticity of TransitionMetal Carbide Crystals
+1965|52.0|1.0|Nuclear Physics|Gamma-ray energies determined with a lithium-drifted germanium detector
+1966|54.0|1.0|Nuclear Physics|Effective nucleon-nucleon interactions in the nuclei with 29 and 30 neutrons
+1967|35.0|1.0|Geochimica et Cosmochimica Acta|The distribution of some trace elements in iron meteorites, as determined by neutron activation
+1968|29.0|1.0|Journal of Cell Biology|ULTRASTRUCTURE OF HUMAN LEUKOCYTES AFTER SIMULTANEOUS FIXATION WITH GLUTARALDEHYDE AND OSMIUM TETROXIDE AND "POSTFIXATION" IN URANYL ACETATE
+1969|28.0|2.0|Journal of Cell Biology|Cytochemical localization of catalase in leaf microbodies (peroxisomes).
+1970|22.0|1.0|Geochimica et Cosmochimica Acta|GOLD AND IRIDIUM IN METEORITES AND SOME SELECTED ROCKS.
+1971|37.0|1.0|Geochimica et Cosmochimica Acta|Partitioning of rare earth, alkali and alkaline earth elements between phenocrysts and acidic igneous magma
+1972|50.0|1.0|Journal of Cell Biology|VARIATIONS IN TIGHT AND GAP JUNCTIONS IN MAMMALIAN TISSUES
+1973|16.0|1.0|Geochimica et Cosmochimica Acta|Trace element geochemistry and genesis of the Pindos ophiolite suite
+1974|21.0|1.0|Journal of Electron Spectroscopy and Related Phenomena|Charge transfer transition accompanying x-ray photoionization in transition-metal compounds
+1975|63.0|1.0|Science|Host phase of a strange xenon component in Allende
+1976|42.0|1.0|Earth and Planetary Science Letters|Geochemistry of Archaean spinifex-textured peridotites and magnesian and low-magnesian tholeiites
+1977|98.0|1.0|Earth and Planetary Science Letters|Petrogenesis of basalts from the FAMOUS area: Mid-Atlantic Ridge
+1978|53.0|2.0|Earth and Planetary Science Letters|Ultramafic inclusions from San Carlos, Arizona - Petrologic and geochemical data bearing on their petrogenesis
+1979|61.0|2.0|Journal of Chemical Physics|Chemisorption geometry of hydrogen on Ni/111/ - Order and disorder
+1980|78.0|2.0|Journal of Applied Physics|Optically induced conductivity changes in dischargeproduced hydrogenated amorphous silicon
+1981|44.0|1.0|Geochimica et Cosmochimica Acta|Rare earth element geochemistry of oceanic ferromanganese nodules and associated sediments
+1982|37.0|1.0|Journal of Catalysis|The formation of oxygen-containing organic molecules by the hydrogenation of carbon monoxide using a lanthanum rhodate catalyst
+1983|69.0|2.0|The Journal of Comparative Neurology|Centrifugal innervation of goldfish retina from ganglion cells of the nervus terminalis
+1984|59.0|2.0|Hearing Research|Cross-links between stereocilia in the guinea pig organ of Corti, and their possible relation to sensory transduction
+1985|77.0|2.0|Journal of Chemical Physics|Ab initio effective core potentials for molecular calculations. Potentials for main group elements Na to Bi
+1986|72.0|2.0|Journal of Chemical Physics|Metal cluster ion photofragmentation
+1987|73.0|2.0|Applied Physics Letters|Formation of thin superconducting films by the laser processing method
+1988|106.0|2.0|Journal of Chemical Physics|An efficient internally contracted multiconfigurationreference configuration interaction method
+1989|143.0|2.0|Journal of Neurochemistry|Transition Metals, Ferritin, Glutathione, and Ascorbic Acid in Parkinsonian Brains
+1990|66.0|2.0|Journal of Chemical Physics|Gaussian-1 theory of molecular energies for second-row compounds
+1991|72.0|2.0|Journal of Materials Research|Mechanical behavior of nanocrystalline Cu and Pd
+1992|226.0|2.0|Journal of Neurochemistry|Reactive Oxygen Species and the Central Nervous System
+1993|152.0|2.0|Journal of the American Ceramic Society|Ceramic Fuel Cells
+1994|103.0|2.0|Advances in Protein Chemistry|Structure of Serum Albumin
+1995|151.0|2.0|Science|Zeta phosphorylation without ZAP-70 activation induced by TCR antagonists or partial agonists
+1996|270.0|2.0|Trends in Biochemical Sciences|Coiled coils: new structures and new functions
+1997|266.0|2.0|Proceedings of the National Academy of Sciences of the United States of America|Fatty acids and eicosanoids regulate gene expression through direct interactions with peroxisome proliferator-activated receptors  and 
+1998|572.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Osteoclast differentiation factor is a ligand for osteoprotegerin/osteoclastogenesis-inhibitory factor and is identical to TRANCE/RANKL
+1999|284.0|3.0|Journal of Clinical Investigation|Safety and antitumor activity of recombinant soluble Apo2 ligand
+2000|278.0|4.0|The EMBO Journal|The ErbB signaling network: receptor heterodimerization in development and cancer
+2001|834.0|3.0|Science|Spintronics: A Spin-Based Electronics Vision for the Future
+2002|308.0|4.0|Genome Biology|Phylogenetic analysis of 277 human G-protein-coupled receptors as a tool for the prediction of orphan receptor ligands.
+2003|360.0|5.0|Annual Review of Microbiology|Iron Metabolism in Pathogenic Bacteria
+2004|313.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Nitric oxide, oxidants, and protein tyrosine nitration
+2005|1266.0|5.0|Journal of Applied Physics|A comprehensive review of ZnO materials and devices
+2006|993.0|4.0|Nucleic Acids Research|From genomics to chemical genomics: new developments in KEGG
+2007|1015.0|5.0|Science|High-resolution crystal structure of an engineered human beta2-adrenergic G protein-coupled receptor.
+2008|2448.0|5.0|Theoretical Chemistry Accounts|The M06 suite of density functionals for main group thermochemistry, thermochemical kinetics, noncovalent interactions, excited states, and transition elements: two new functionals and systematic testing of four M06-class functionals and 12 other functionals
+2009|1318.0|5.0|Journal of Computational Chemistry|AutoDock4 and AutoDockTools4: Automated Docking with Selective Receptor Flexibility
+2010|1756.0|6.0|Journal of Computational Chemistry|AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading

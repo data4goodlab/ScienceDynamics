@@ -1,0 +1,58 @@
+----  Field Name Neurophysiology: 
+----  Field Level 2.0: 
+----  Field Papers Number 8290:
+----  All time max citation paper: A Common Neurodynamical Mechanism Could Mediate Externally Induced and Intrinsically Generated Transitions in Visual Awareness, 2013, (1420.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1950|10.0|2.0|Electroencephalography and Clinical Neurophysiology|The identity of spreading depression and suppression
+1951|0|0.0|Electroencephalography and Clinical Neurophysiology|On the conditions for the recording of Leao's spreading depression
+1959|9.0|6.5|Journal of Cellular and Comparative Physiology|Chloride movements in cerebral cortex after circulatory arrest and during spreading depression
+1960|3.0|3.0|Electroencephalography and Clinical Neurophysiology|The use of spreading depression to analyse the mutual relationship between the neocortex and the hippocampus
+1963|1.0|1.0|Electroencephalography and Clinical Neurophysiology|Excitability changes in non-specific thalamic nuclei during cortical spreading depression in the rat
+1964|11.0|7.0|Experimental Neurology|Evoked responses from the auditory cortex.
+1965|16.0|9.0|Experimental Neurology|The spinocervical tract- dorsal column linkage, conduction velocity, primary afferent spectrum
+1966|18.0|3.0|Experimental Neurology|Membrane potential of cerebral cortical cells during spreading depression and asphyxia
+1967|8.0|3.5|Neuropsychologia|Anxiety, attentiveness-alertness: A phenomenological study of the CNV
+1968|9.0|2.0|Electroencephalography and Clinical Neurophysiology|Further observations of psychological factors involved in CNV genesis.
+1969|10.0|4.0|Annals of the New York Academy of Sciences|Some neurological species differences - A posteriori
+1970|17.0|2.0|Journal of Neurobiology|Glutamate release from the retina during spreading depression
+1971|8.0|2.5|Physiology & Behavior|Subcortical mediation of learned taste aversion
+1972|21.0|4.5|The Journal of General Physiology|Spectral and polarization sensitivity of the Dipteran visual system
+1973|10.0|4.0|Physiology & Behavior|Cortical and subcortical components of the conditioned saccharin aversion
+1974|18.0|2.5|Circulation Research|Role of central and peripheral adrenergic mechanisms in neurogenic hypertension produced by brainstem lesions in rat
+1975|43.0|4.0|Electroencephalography and Clinical Neurophysiology|Stimulus novelty, task relevance and the visual evoked potential in man
+1976|9.0|3.0|Journal of Neurochemistry|Adenosine 3,5 monophosphate in rat cerebral cortex: effect of potassium ions in vivo (cortical spreading depression)
+1977|12.0|3.0|Neuropsychologia|The division of attention and the human auditory evoked potential
+1978|21.0|2.0|Neuroscience|Extracellular ionic variations during spreading depression
+1979|14.0|6.5|Hormones and Behavior|Supraspinal influences on the penile reflexes of the male rat: A comparison of the effects of copulation, spinal transection, and cortical spreading depression
+1980|22.0|4.0|Acta Physiologica Scandinavica|Relationship between local changes in cortical blood flow and extracellular K+ during spreading depression*
+1981|27.0|1.0|Acta Physiologica Scandinavica|Extracellular ion concentrations during spreading depression and ischemia in the rat brain cortex
+1982|22.0|2.0|Acta Neurologica Scandinavica|Selective neuron loss after cerebral ischemia in the rat: Possible role of transmitter glutamate
+1983|23.0|3.0|Neurobiology of Aging|Loss of place specificity in hippocampal complex spike cells of senescent rat
+1984|12.0|3.5|Developmental Brain Research|Seizure-like spreading depression in immature rabbit hippocampus in vitro
+1985|27.0|4.0|The Lancet|IS MIGRAINE EXPLAINED BY LEAO'S SPREADING DEPRESSION?
+1986|26.0|2.5|Brain Research|Chlorpromazine protects brain tissue in hypoxia by delaying spreading depression-mediated calcium influx
+1987|21.0|7.0|Acta Neurologica Scandinavica|Regional cerebral blood flow during cortical spreading depression in rat brain: increased reactive hyperperfusion in lowflow states
+1988|52.0|6.0|Cognitive Psychology|Visual and spatial mental imagery: Dissociable systems of representation
+1989|38.0|5.0|The Journal of Neuroscience|Intracellular pH transients of mammalian astrocytes
+1990|49.0|6.0|Brain Research|Application of potassium chloride to the brain surface induces the c-fos proto-oncogene: reversal by MK-801
+1991|43.0|3.0|Brain Research|Calcium-dependent glutamate release concomitant with massive potassium flux during cerebral ischemia in vivo
+1992|81.0|3.0|Visual Neuroscience|Normalization of cell responses in cat striate cortex
+1993|65.0|6.0|The Journal of Neuroscience|Nerve growth factor-induced hyperalgesia in the neonatal and adult rat
+1994|41.0|5.0|Magnetic Resonance in Medicine|Spreading waves of decreased diffusion coefficient lifter cortical stimulation in the rat brain
+1995|42.0|4.0|Progress in Neurobiology|Neuronal expression of AP-1 proteins in excitotoxic-neurodegenerative disorders and following nerve fiber lesions
+1996|78.0|4.0|Progress in Neurobiology|Activation of c-fos in the brain.
+1997|90.0|4.0|Progress in Neurobiology|Altered glutamatergic transmission in neurological disorders: from high extracellular glutamate to excessive synaptic efficacy.
+1998|121.0|4.0|The Journal of Neuroscience|Increased neurogenesis in the dentate gyrus after transient global ischemia in gerbils.
+1999|105.0|8.5|Proceedings of the National Academy of Sciences of the United States of America|A tetracycline derivative, minocycline, reduces inflammation and protects against focal cerebral ischemia with a wide therapeutic window
+2000|139.0|5.0|Nature|Real-time prediction of hand trajectory by ensembles of cortical neuronsin primates
+2001|158.0|5.0|Trends in Cognitive Sciences|Temporal binding and the neural correlates of sensory awareness
+2002|171.0|4.0|Nature Medicine|Intrinsic brain activity triggers trigeminal meningeal afferents in a migraine model
+2003|149.0|4.0|IEEE Transactions on Neural Networks|Simple model of spiking neurons
+2004|164.0|3.0|IEEE Transactions on Neural Networks|Which model to use for cortical spiking neurons?
+2005|70.0|2.0|IEEE Transactions on Biomedical Engineering|Spike detection using the continuous wavelet transform
+2006|161.0|2.0|Annals of Neurology|Suppression of cortical spreading depression in migraine prophylaxis.
+2007|166.0|2.0|Annual Review of Neuroscience|Orbitofrontal Cortex and Its Contribution to Decision-Making
+2008|203.0|3.0|IEEE Signal Processing Magazine|Optimizing Spatial filters for Robust EEG Single-Trial Analysis
+2009|177.0|2.0|Brain|Cortical spreading ischaemia is a novel process involved in ischaemic damage in patients with aneurysmal subarachnoid haemorrhage
+2010|304.0|4.0|Annual Review of Neuroscience|Neural Mechanisms for Interacting with a World Full of Action Choices

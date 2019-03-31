@@ -1,0 +1,37 @@
+----  Field Name Distributed algorithm: 
+----  Field Level 2.0: 
+----  Field Papers Number 9971:
+----  All time max citation paper: Ant colony system: a cooperative learning approach to the traveling salesman problem, 1997, (2454.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1975|2.0|2.0|IEEE Transactions on Computers|Minimization of Switching Functions&#8212;A Fast Technique
+1981|23.0|7.0|Management Science|Combining Probability Distributions from Dependent Information Sources
+1982|26.0|4.0|ACM Transactions on Programming Languages and Systems|An O ( n log n ) Unidirectional Algorithm for the Circular Extrema Problem
+1983|61.0|5.0|ACM Transactions on Programming Languages and Systems|A Distributed Algorithm for Minimum-Weight Spanning Trees
+1984|34.0|5.0|principles of distributed computing|Fault-tolerant clock synchronization
+1985|87.0|3.5|Journal of the ACM|Impossibility of distributed consensus with one faulty process
+1986|31.0|3.0|Statistical Science|Combining Probability Distributions: A Critique and an Annotated Bibliography
+1987|88.0|4.0|principles of distributed computing|Hierarchical correctness proofs for distributed algorithms
+1988|18.0|2.0|Mathematical Programming|DUAL COORDINATE STEP METHODS FOR LINEAR NETWORK FLOW PROBLEMS
+1989|53.0|4.0|International Journal of Forecasting|Combining forecasts: A review and annotated bibliography
+1990|28.0|2.0|Journal of Experimental and Theoretical Artificial Intelligence|GENITOR II.: a distributed genetic algorithm
+1991|49.0|2.0|IEEE Journal on Selected Areas in Communications|Autonet: a high-speed, self-configuring local area network using point-to-point links
+1992|34.0|1.0|IEEE Computer|Load distributing for locally distributed systems
+1993|54.0|2.0|vehicular technology conference|A simple distributed autonomous power control algorithm and its convergence
+1994|36.0|2.0||An Asynchronous Distributed Algorithm for Power Control in Cellular Radio Systems
+1995|52.0|2.0|vehicular technology conference|Integrated power control and base station assignment
+1996|177.0|3.0|Journal of the ACM|Unreliable failure detectors for reliable distributed systems
+1997|180.0|3.0|international conference on computer communications|A highly adaptive distributed routing algorithm for mobile wireless networks
+1998|91.0|4.0|IEEE Transactions on Software Engineering|KLAIM: a kernel language for agents interaction and mobility
+1999|179.0|5.0|IEEE\/ACM Transactions on Networking|Optimization flow controlI: basic algorithm and convergence
+2000|145.0|4.0|IEEE\/ACM Transactions on Networking|Dynamic tuning of the IEEE 802.11 protocol to achieve a theoretical throughput limit
+2001|170.0|4.0|international conference on computer communications|Distributed topology control for power efficient operation in multihop wireless ad hoc networks
+2002|206.0|5.0|IEEE Transactions on Parallel and Distributed Systems|Dominating sets and neighbor elimination-based broadcasting algorithms in wireless networks
+2003|435.0|5.0|Circulation|From Vulnerable Plaque to Vulnerable Patient A Call for New Definitions and Risk Assessment Strategies: Part I
+2004|740.0|5.0|IEEE Transactions on Automatic Control|Consensus problems in networks of agents with switching topology and time-delays
+2005|359.0|5.0|IEEE Signal Processing Magazine|Locating the nodes: cooperative localization in wireless sensor networks
+2006|582.0|5.0|IEEE Journal on Selected Areas in Communications|A simple Cooperative diversity method based on network path selection
+2007|904.0|4.0|Proceedings of the IEEE|Consensus and Cooperation in Networked Multi-Agent Systems
+2008|1079.0|3.0|BMJ|GRADE: an emerging consensus on rating quality of evidence and strength of recommendations
+2009|392.0|3.0|Journal of the American College of Cardiology|Cardiovascular magnetic resonance in myocarditis: A JACC White Paper.
+2010|345.0|3.0|Annals of Internal Medicine|International Consensus Recommendations on the Management of Patients With Nonvariceal Upper Gastrointestinal Bleeding

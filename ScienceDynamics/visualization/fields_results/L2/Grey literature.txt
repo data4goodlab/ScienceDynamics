@@ -1,0 +1,61 @@
+----  Field Name Grey literature: 
+----  Field Level 2.0: 
+----  Field Papers Number 15543:
+----  All time max citation paper: Theory of rational option pricing, 1971, (2691.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1950|0|0.0||Glacial Sluiceways and Lacustrine Plains of Southern Indiana
+1951|0|0.0||Effect of environmental temperature and the thyroid gland on fertility in the male rabbit
+1952|0|0.0||Effect of selection for age at time of puberty on reproductive performance in the rat
+1953|1.0|1.0||Basic data for Oregon hardwoods
+1954|0|0.0||Gypsum and Anhydrite Deposits in Southwestern Indiana
+1955|0|0.0|Soil Science Society of America Journal|Effect of soils on the establishment of tree crops
+1958|1.0|1.0||Proper utilization : a problem in evaluating the physiological response of plants to grazing use : a review
+1960|12.0|0.0|Journal of Dairy Science|Autoxidation of milk lipids
+1962|0|0.0||Barley in rations for layers
+1964|6.0|3.0|Annals of the New York Academy of Sciences|Carbonic anhydrase isozymes of neonatal and adult human and some animal erythrocytes
+1965|34.0|3.0|Planetary and Space Science|Ionospheric backscatter observations at Millstone Hill
+1967|23.0|11.0|Journal of Experimental Social Psychology|Risky and cautious shifts in group decisions: The influence of widely held values
+1968|5.0|0.0|Journal of the ACM|Computational Complexity of One-Tape Turing Machine Computations
+1969|6.0|1.0|Technological Forecasting|Exploratory and normative technological forecasting : a critical appraisal,
+1970|21.0|1.0|Journal of the ACM|Parsing of Graph-Representable Pictures
+1971|29.0|6.0|Journal of the ACM|An Overview of the Theory of Computational Complexity
+1972|20.0|3.0|Communications of The ACM|On the implementation of security measures in information systems
+1973|19.0|1.0|Communications of The ACM|Design and implementation of a diagnostic compiler for PL/I
+1974|22.0|2.0|Siam Review|Quasi-Newton Methods, Motivation and Theory
+1975|12.0|1.0|Journal of Public Economics|A many-person Ramsey tax rule
+1976|37.0|2.0|Communications of The ACM|Verifying properties of parallel programs: an axiomatic approach
+1977|32.0|1.5|Journal of the ACM|On Time Versus Space
+1978|29.0|1.5|Communications of The ACM|List processing in real time on a serial computer
+1979|144.0|2.0|Cognitive Psychology|Scripts in Memory for Text.
+1980|18.0|4.0|Peptides|Effect of L-prolyl-L-leucyl-glycinamide (PLG) on neuroleptic-induced catalepsy and dopamine/neuroleptic receptor bindings
+1981|20.0|2.0|Journal of Econometrics|Short-run labor productivity in a dynamic model
+1982|24.0|2.0|ACM Transactions on Programming Languages and Systems|Synchronization in Distributed Programs
+1983|90.0|4.0|ACM Computing Surveys|Concepts and Notations for Concurrent Programming
+1984|24.0|3.0|ACM Computing Surveys|A taxonomy of parallel sorting
+1985|46.0|3.0|Journal of Accounting and Economics|The effect of bonus schemes on accounting decisions
+1986|61.0|3.0|Communications of The ACM|Another look at automatic text-retrieval systems
+1987|101.0|3.0|ACM Transactions on Computer Systems|Reliable communication in the presence of failures
+1988|89.0|2.5|IEEE Transactions on Software Engineering|The TAME project: towards improvement-oriented software environments
+1989|78.0|3.0|programming language design and implementation|Process decomposition through locality of reference
+1990|66.0|2.0|ACM Computing Surveys|Interoperability of multiple autonomous databases
+1991|52.0|3.0||Logics and Models of Real Time: A Survey
+1992|132.0|3.0|Econometrica|Bond Pricing and the Term Structure of Interest Rates: A New Methodology for Contingent Claims Valuation
+1993|259.0|2.0||A theory and methodology of inductive learning
+1994|147.0|4.0|IEEE Transactions on Software Engineering|A metrics suite for object oriented design
+1995|196.0|2.0|Theoretical Computer Science|The algorithmic analysis of hybrid systems
+1996|177.0|3.0|Journal of the ACM|Unreliable failure detectors for reliable distributed systems
+1997|298.0|3.0|Information Processing and Management|Term-weighting approaches in automatic text retrieval
+1998|58.0|3.0||Implementing multiple protection domains in java
+1999|187.0|3.0|ad hoc networks|Securing ad hoc networks
+2000|115.0|2.0|symposium on the theory of computing|The small-world phenomenon: an algorithmic perspective
+2001|135.0|3.0|international conference on computer communications|On the placement of Web server replicas
+2002|280.0|3.0|acm special interest group on data communication|Scalable application layer multicast
+2003|271.0|3.0||Enforceable security policies
+2004|415.0|3.0|IEEE Transactions on Dependable and Secure Computing|Basic concepts and taxonomy of dependable and secure computing
+2005|128.0|3.0|Financial Management|Agency Costs of Overvalued Equity
+2006|204.0|3.0|Journal of Financial Economics|CEO incentives and earnings management
+2007|399.0|3.0|IEEE Transactions on Knowledge and Data Engineering|Duplicate Record Detection: A Survey
+2008|423.0|3.0||Systemic Banking Crises: A New Database
+2009|118.0|2.0|The American Economic Review|Nudging Farmers to Use Fertilizer: Theory and Experimental Evidence from Kenya
+2010|1338.0|3.0|PLOS ONE|The prevalence of sexually transmitted infections in Papua New Guinea: a systematic review and meta-analysis.

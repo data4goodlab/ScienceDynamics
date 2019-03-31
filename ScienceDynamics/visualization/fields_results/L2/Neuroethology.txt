@@ -1,0 +1,54 @@
+----  Field Name Neuroethology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1557:
+----  All time max citation paper: Review of Ecological Effects of Roads on Terrestrial and Aquatic Communities, 2000, (912.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1963|1.0|1.0|Nature|Electric Receptors in a Non-electric Fish (Clarias)
+1964|2.0|2.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|PACEMAKER ACTIVITY OF THE MEDULLARY NUCLEUS CONTROLLING ELECTRIC ORGANS IN ~IIGH-FRE QUENCY GYMNOTID FISH
+1965|1.0|1.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Activity rhythm of an electric fish, Gymnorhamphichthys hypostomus , ellis
+1966|0|0.0|Animal Behaviour|Escape responses of three herbivorous gastropods to the predatory gastropod Conus textile
+1967|7.0|5.5|Physiology & Behavior|A latency-change mechanism involved in sensory coding of electric fish (mormyrids)
+1968|1.0|1.0|Palaeogeography, Palaeoclimatology, Palaeoecology|On the biology and palaeontology of some predators of bivalved mollusca
+1969|12.0|5.0|Tissue & Cell|The organization of ampullary sense organs in the electric fish, Gymnarchus niloticus
+1970|9.0|6.5|Physiology & Behavior|Electroconvulsive shock induced impairment and enhancement of a learned escape response
+1971|2.0|2.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Non-visual functions of crustacean eyestalk ganglia
+1972|5.0|0.5||THE ORGANIZATION OF ESCAPE BEHAVIOUR IN THE CRAYFISH
+1973|5.0|3.0|Nature|Lightning as Background Noise for Communication among Electric Fish
+1974|11.0|5.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Electrosensory Input to the Corpus Cerebelli of the High Frequency Electric Fish Eigenmannia virescens
+1975|21.0|2.0|Journal of Comparative and Physiological Psychology|Learned helplessness in the rat: time course, immunization, and reversibility.
+1976|48.0|5.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Stimulus Filtering and Electroreception: Tuberous Electroreceptors in Three Species of Gymnotoid Fish
+1977|36.0|6.5|Nature|Corollary discharge to cockroach giant interneurones
+1978|18.0|8.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|The Escape Behavior of the Cockroach PeHplaneta americana II. Detection of Natural Predators by Air Displacement
+1979|4.0|2.5|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Frequency response characteristics of electroreceptors in the weakly electric fish,Gymnotus carapo
+1980|12.0|3.0|Physiology & Behavior|Escape induced by combined stimulation in medial hypothalamus and central gray
+1981|22.0|4.0|The Journal of Comparative Neurology|The cytology of the posterior lateral line lobe of highfrequency weakly electric fish (gymnotidae): Dendritic differentiation and synaptic specificity in a simple cortex
+1982|15.0|3.5|Journal of Molecular and Cellular Cardiology|Electrical and contractile consequences of Na + or Ca 2+ gradient reduction in cultured heart cells
+1983|17.0|1.5|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Coordination of lateral giant and non-giant systems in crayfish escape behavior
+1984|33.0|5.0|Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology|Differential activation of Mauthncr and non-Mauthner startle circuits in the zebrafish: Implications for functional substitution
+1985|27.0|2.0|Physiology & Behavior|Radial maze in the water tank: An aversively motivated spatial working memory task
+1986|116.0|4.5|Behavioral and Brain Sciences|Adaptability of innate motor patterns and motor control mechanisms
+1987|25.0|3.0|Behavioral and Brain Sciences|Levels of modeling of mechanisms of visually guided behavior
+1988|24.0|2.0|The Journal of Comparative Neurology|Anatomical and functional organization of the prepacemaker nucleus in gymnotiform electric fish: The accommodation of two behaviors in one nucleus
+1989|15.0|4.0|Molecular Neurobiology|Regulation of Nicotinic Acetylcholine Receptors by Protein Phosphorylation
+1990|18.0|2.0|The Journal of Comparative Neurology|Structural and functional organization of a diencephalic sensorymotor interface in the gymnotiform fish, Eigenmannia
+1991|32.0|2.0|Journal of Chemical Neuroanatomy|An atlas of the brain of the electric fish Apteronotus leptorhynchus
+1992|19.0|4.5|Journal of Chemical Neuroanatomy|Substance P-like immunoreactivity in the brain of the gymnotiform fish Apteronotus leptorhynchus : Presence of sex differences
+1993|20.0|3.0|Hydrobiologia|Rotifers as predators on small ciliates
+1994|8.0|3.0|Journal of Chemical Neuroanatomy|The distribution of somatostatin binding sites in the brain of gymnotiform fish, Apteronotus leptorhynchus
+1995|75.0|4.0|Neuron|Targeted expression of tetanus toxin light chain in Drosophila specifically eliminates synaptic transmission and causes behavioral defects.
+1996|21.0|6.0|Pharmacology, Biochemistry and Behavior|Opposed regulation by dorsal raphe nucleus 5-HT pathways of two types of fear in the elevated T-maze
+1997|66.0|5.0|Nature|Synaptic plasticity in a cerebellum-like structure depends on temporal order
+1998|52.0|5.0|Trends in Ecology and Evolution|Sensory ecology, receiver biases and sexual selection
+1999|47.0|5.0|Neuron|Laser Ablations Reveal Functional Relationships of Segmental Hindbrain Neurons in Zebrafish
+2000|143.0|6.0|Conservation Biology|Review of Ecological Effects of Roads on Terrestrial and Aquatic Communities
+2001|44.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|Behavioral screening for cocaine sensitivity in mutagenized zebrafish
+2002|57.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|Disruption of estrogen receptor  gene impairs spatial learning in female mice
+2003|194.0|8.0|Hormones and Behavior|The concept of allostasis in biology and biomedicine
+2004|34.0|7.0|Ecology|Predators reduce prey population growth by inducing changes in prey behavior
+2005|78.0|10.0|Proceedings of The Royal Society B: Biological Sciences|Fear in animals: a meta-analysis and review of risk assessment
+2006|47.0|8.0|PLOS Pathogens|RpoS Controls the Vibrio cholerae Mucosal Escape Response
+2007|78.0|8.0|Journal of International Business Studies|Outward Foreign Direct Investment as Escape Response to Home Country Institutional Constraints
+2008|106.0|11.0|Brain Research|Voluntary exercise produces antidepressant and anxiolytic behavioral effects in mice.
+2009|135.0|9.0|Journal of Insect Science|Conglobation in the pill bug, Armadillidium vulgare, as a water conservation mechanism.
+2010|108.0|9.0|Nature Neuroscience|Anandamide suppresses pain initiation through a peripheral endocannabinoid mechanism

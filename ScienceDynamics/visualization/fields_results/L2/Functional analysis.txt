@@ -1,0 +1,76 @@
+----  Field Name Functional analysis: 
+----  Field Level 2.0: 
+----  Field Papers Number 55135:
+----  All time max citation paper: Nonlinear total variation based noise removal algorithms, 1992, (3317.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1930|3.0|3.0|JAMA|SERUM DISEASE AND SERUM ACCIDENTS
+1931|3.0|2.5|Parasitology|Studies on Trypanosoma grayi . III. Life-Cycle in the Tsetse-fly and in the Crocodile
+1937|2.0|2.0|American Journal of Public Health|Epidemiological Studies in Influenza.
+1938|0|0.0|Journal of Helminthology|On Culicoides as a vector of Onchocerca gibsoni (Cleland & Johnston, 1910).
+1940|1.0|0.5|Journal of Hygiene|The distribution of vitamin C in foods sold on the open market.
+1942|0|0.0|Journal of Hygiene|The influence of social conditions upon diphtheria, measles, tuberculosis and whooping cough in early childhood in London.
+1943|2.0|1.5|Transactions of the American Mathematical Society|On the direct product of Banach spaces
+1947|10.0|2.5|Transactions of the American Mathematical Society|The group algebra of a locally compact group
+1949|1.0|0.0|British Journal of Nutrition|The Distribution of Radioactive Cobalt in Pigs
+1950|5.0|2.0|Proceedings of the American Mathematical Society|Natural homomorphisms in Banach spaces
+1951|9.0|3.0|Journal of Chemical Physics|The Exchange of Water Between Hydrated Cations and Solvent
+1952|3.0|1.0|Transactions of the American Mathematical Society|Banach spaces with the extension property
+1953|9.0|3.0|Geochimica et Cosmochimica Acta|THE GEOCHEMISTRY OF THE STABLE CARBON ISOTOPES
+1954|1.0|0.5|Archives of Biochemistry and Biophysics|STUDIES ON THE MECHANISM OF PROTECTION BY AURINTRICARBOXYLIC ACID IN BERYLLIUM POISONING. IV. COMPARATIVE EFFECTS OF RELATED COMPOUNDS ON SURVIVAL OF Be-POISONED ANIMALS AND ON DISTRIBUTION OF Be
+1955|5.0|1.0|Transactions of the American Mathematical Society|Strict convexity and smoothness of normed spaces
+1956|4.0|1.0|Transactions of the American Mathematical Society|Tensor algebras over Hilbert spaces. I
+1957|5.0|1.0|Transactions of the American Mathematical Society|The differential equations of birth-and-death processes, and the Stieltjes moment problem
+1958|6.0|2.5|Journal of Atmospheric and Solar-Terrestrial Physics|On the production of radioisotopes in the atmosphere by cosmic radiation and their application to meteorology
+1959|7.0|1.0|Mathematische Annalen|Functional analysis and partial differential equations. II
+1960|34.0|2.5|Physics of Fluids|Irreversible Processes in Ionized Gases
+1961|16.0|1.0|Mathematische Annalen|On the spectral theory of elliptic differential operators. I
+1962|10.0|1.0|Geochimica et Cosmochimica Acta|K/Rb ratios in the evolution of the Younger Granites of Northern Nigeria
+1963|38.0|3.0|Journal of Geophysical Research|Chargedparticle observations in the Earth's outer magnetosphere
+1964|43.0|3.0|Journal of Mathematical Physics|An Algebraic Approach to Quantum Field Theory
+1965|25.0|2.0|Journal of Geophysical Research|Morphology of the outer zone electron distribution at low altitudes from January through July and September 1963 from Injun 3
+1966|20.0|2.0|Bulletin of the American Mathematical Society|The solution by iteration of linear functional equations in Banach spaces
+1967|58.0|4.0|Journal of the ACM|A Machine-Independent Theory of the Complexity of Recursive Functions
+1968|22.0|2.0|Bulletin of the American Mathematical Society|A complete elementary proof that Hilbert space is homeomorphic to the countable infinite product of lines
+1969|25.0|2.0|Journal of Mathematical Analysis and Applications|Dynamical systems and stability
+1970|40.0|2.0|Journal of Geophysical Research|Vela 4 plasma observations near the Earths bow shock
+1971|28.0|2.0|Planetary and Space Science|The entry of solar protons over the polar caps
+1972|23.0|1.0|Transactions of the American Mathematical Society|Bounded continuous functions on a completely regular space
+1973|22.0|2.0|Journal of Geophysical Research|Latitudinal distribution of a debris mantle on the Martian surface
+1974|25.0|1.0|Journal of Functional Analysis|On groups of automorphisms of operator algebras
+1975|47.0|2.0||INGRES: a relational data base system
+1976|116.0|2.0|Journal of Geophysical Research|The amplitude distribution of fieldaligned currents at northern high latitudes observed by Triad
+1977|134.0|2.0|Journal of Experimental Medicine|Functional analysis of two human T-cell subpopulations: help and suppression of B-cell responses by T cells bearing receptors for IgM or IgG.
+1978|35.0|2.0|Journal of Chemical Physics|Photoabsorption in molecular nitrogen: A moment analysis of discretebasisset calculations in the staticexchange approximation
+1979|60.0|2.0|Phytochemistry|Polyphenol oxidases in plants
+1980|35.0|1.0|Journal of Verbal Learning and Verbal Behavior|An evaluation of alternative functional models of narrative schemata
+1981|63.0|2.0|Geochimica et Cosmochimica Acta|Influence of diet on the distribution of nitrogen isotopes in animals
+1982|39.0|1.0|Cell|Nucleotide sequence comparisons and functional analysis of yeast centromere DNAs
+1983|52.0|2.0|Transactions of the American Mathematical Society|Viscosity solutions of Hamilton-Jacobi equations
+1984|146.0|1.0|The Journal of Comparative Neurology|Glutamate- and GABA-containing neurons in the mouse and rat brain, as demonstrated with a new immunocytochemical technique
+1985|49.0|2.0|Bulletin of the American Mathematical Society|A polynomial invariant for knots via von Neumann algebras
+1986|69.0|1.0|Brain Research|Regional distribution of Neuropeptide K and other tachykinins (Neurokinin A, Neurokinin B and substance P) in rat central nervous system
+1987|120.0|1.0|Cell|Isolation of cDNA encoding transcription factor Sp1 and functional analysis of the DNA binding domain
+1988|133.0|1.0|Behavioral and Brain Sciences|A framework for the functional analysis of behaviour
+1989|110.0|2.0|ACM Computing Surveys|The family of concurrent logic programming languages
+1990|68.0|2.0|acm sigplan symposium on principles and practice of parallel programming|Supporting shared data structures on distributed memory architectures
+1991|165.0|2.0|ACM Transactions on Computer Systems|Lightweight causal and atomic group multicast
+1992|84.0|2.0|Scientific Programming|Programming in Vienna Fortran
+1993|147.0|2.0|IEEE Transactions on Information Theory|Universal approximation bounds for superpositions of a sigmoidal function
+1994|147.0|2.0|FEBS Letters|Distribution and characterization of immunoreactive adrenomedullin in human tissue and plasma
+1995|179.0|2.0|Cell|Cloning and functional analysis of BAG-1: A novel Bcl-2-binding protein with anti-cell death activity
+1996|220.0|2.0|Cell|MADR2 Maps to 18q21 and Encodes a TGFRegulated MADRelated Protein That Is Functionally Mutated in Colorectal Carcinoma
+1997|192.0|2.0|Journal of Chemical Physics|Assessment of Gaussian-2 and density functional theories for the computation of enthalpies of formation
+1998|350.0|3.0|Yeast|Additional modules for versatile and economical PCRbased gene deletion and modification in Saccharomyces cerevisiae
+1999|282.0|3.0|Nature Medicine|Characterization of circulating T cells specific for tumor-associatedantigens in melanoma patients
+2000|552.0|3.0|Nature|Proteomics to study genes and genomes.
+2001|431.0|3.0|IEEE Transactions on Information Theory|Factor graphs and the sum-product algorithm
+2002|418.0|3.0|Applied Geochemistry|A review of the source, behaviour and distribution of arsenic in natural waters
+2003|332.0|4.0||Inverse acoustic and electromagnetic scattering theory
+2004|254.0|4.0|American Journal of Human Genetics|Functional Analysis of Genetic Variation in Catechol-O-Methyltransferase ( COMT ): Effects on mRNA, Protein, and Enzyme Activity in Postmortem Human Brain
+2005|526.0|4.0|Nature Neuroscience|5-HTTLPR polymorphism impacts human cingulate-amygdala interactions: a genetic susceptibility mechanism for depression.
+2006|921.0|4.0|Ecological Modelling|Maximum entropy modeling of species geographic distributions
+2007|230.0|3.0|Journal of Mathematical Analysis and Applications|Viscosity approximation methods for equilibrium problems and fixed point problems in Hilbert spaces
+2008|299.0|4.0|Marketing Science|Optimal Pricing and Return Policies for Perishable Commodities
+2009|1969.0|4.0|Nucleic Acids Research|Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists
+2010|227.0|3.0|Journal of Insect Physiology|Mechanisms of dsRNA uptake in insects and potential of RNAi for pest control: a review.

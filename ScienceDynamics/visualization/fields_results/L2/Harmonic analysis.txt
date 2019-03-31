@@ -1,0 +1,75 @@
+----  Field Name Harmonic analysis: 
+----  Field Level 2.0: 
+----  Field Papers Number 17073:
+----  All time max citation paper: Texture features for browsing and retrieval of image data, 1996, (1677.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1930|1.0|1.0|Acta Mathematica|Generalized harmonic analysis
+1933|1.0|1.0|Mathematische Annalen|On the summability of fourier series. III
+1934|3.0|3.0|Transactions of the American Mathematical Society|Almost periodic functions in a group. I
+1935|0|0.0|Transactions of the American Mathematical Society|Continuity and summability for double Fourier series
+1937|1.0|1.0|Mathematische Zeitschrift|On the absolute summability of the Allied series of a fourier series
+1939|0|0.0|Transactions of the American Mathematical Society|Mean motions and almost periodic functions
+1941|0|0.0|Proceedings of The Edinburgh Mathematical Society|On the Fourier coefficients of a discontinuous function
+1947|10.0|10.0|Transactions of the American Mathematical Society|The group algebra of a locally compact group
+1949|2.0|2.0|Transactions of the American Mathematical Society|Abstract ergodic theorems and weak almost periodic functions
+1950|2.0|0.5|Bulletin of the American Mathematical Society|Functions on locally compact groups
+1952|4.0|2.0|Transactions of the American Mathematical Society|Investigations in harmonic analysis
+1953|2.0|0.0|Transactions of the American Mathematical Society|Finite Fourier series and equations in finite fields
+1954|0|0.0|Transactions of The Ire Professional Group on Circuit Theory|The Approximation Problem of Network Synthesis
+1955|16.0|10.0|Bulletin of the American Mathematical Society|The structure of topological semigroups
+1956|2.0|1.0|Journal of Applied Physics|Stability of PeriodicField Beam Focusing
+1957|1.0|1.0|Transactions of the American Mathematical Society|On Walsh-Fourier series
+1958|17.0|0.0|Journal of Chemical Physics|Microwave Spectra of Molecules Exhibiting Internal Rotation. IV. Isobutane, Tertiary Butyl Fluoride, and Trimethylphospine
+1959|7.0|1.0|Progress in Metal Physics|X-RAY STUDIES OF DEFORMED METALS
+1960|9.0|5.0|Archive for Rational Mechanics and Analysis|Fourier-transform methods in the theory of approximation
+1961|12.0|0.5|Journal of Mathematical Physics|On the general theory of the approach to equilibrium. II. Interacting particles
+1962|4.0|2.0|Transactions of the American Mathematical Society|A decomposition theory for unitary representations of locally compact groups
+1963|18.0|3.0|Journal of Geophysical Research|Asymptotic cones of acceptance and their use in the study of the daily variation of cosmic radiation
+1964|5.0|1.0|Transactions of the American Mathematical Society|Extensions and low dimensional cohomology theory of locally compact groups. I, II
+1965|30.0|2.0|Journal of Geophysical Research|An evaluation of the main geomagnetic field, 19401962
+1966|2.0|0.0|International Journal of Solids and Structures|SOME THREE-DIMENSIONAL INCLUSION PROBLEMS IN ELASTICITY
+1967|9.0|1.0|Journal of Functional Analysis|Induced Banach representations of Banach algebras and locally compact groups
+1968|6.0|1.0|Journal of the American Statistical Association|The estimation of probability densities and cumulatives by Fourier Series Methods
+1969|23.0|0.5|Journal of Geophysical Research|An improved model equatorial electrojet with a meridional current system
+1970|8.0|2.0|Journal of the ACM|Accumulation of Round-Off Error in Fast Fourier Transforms
+1971|16.0|1.0|Journal of Geophysical Research|Spherical harmonic analysis of worldwide cosmic ray variations during geomagnetic storms
+1972|13.0|1.0|Transactions of the American Mathematical Society|Weighted norm inequalities for the Hardy maximal function
+1973|10.0|1.0|Bulletin of the American Mathematical Society|Singular integrals and estimates for the Cauchy-Riemann equations
+1974|19.0|2.0|Radio Science|Midlatitude thermospheric winds from incoherent scatter radar and theory
+1975|35.0|2.0|Journal of Geophysical Research|The isostatic state of Martian topography
+1976|28.0|1.0|Biological Cybernetics|Elementary movement detectors in an insect visual system
+1977|25.0|1.5|Journal of Chemical Physics|Analysis of torsional spectra of molecules with two internal C3v rotors. II - Far infrared and low frequency Raman spectra of dimethylether isotopes
+1978|28.0|1.0|Proceedings of the IEEE|On the use of windows for harmonic analysis with the discrete Fourier transform
+1979|22.0|1.0|Journal of Geophysical Research|Nighttime thermospheric winds at high latitudes
+1980|30.0|2.0|Journal of Computational Physics|Spectral methods for problems in complex geometries
+1981|15.0|2.0|Journal of Geophysical Research|The role of hiss in magnetospheric chorus emissions
+1982|24.0|2.0|Journal of Geophysical Research|Gravity model improvement for SEASAT
+1983|25.0|1.0|Journal of Chemical Physics|NonMarkovian theory of activated rate processes. I. Formalism
+1984|30.0|1.0|Journal of Computational Physics|Spectral multigrid methods for elliptic equations
+1985|40.0|2.0|Journal of Chemical Physics|On the adiabatic invariance method of calculating semiclassical eigenvalues
+1986|40.0|1.5|Journal of Chemical Physics|Partial Averaging Approach to Fourier Coefficient Path Integration
+1987|25.0|2.0|Journal of Chemical Physics|Two-dimensional imaging of state-selected photodissociation products detected by multiphoton ionization
+1988|65.0|2.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Complete discrete 2-D Gabor transforms by neural networks for image analysis and compression
+1989|38.0|2.0|Journal of Fluid Mechanics|Characteristic-eddy decomposition of turbulence in a channel
+1990|73.0|2.0|International Journal of Climatology|Mean seasonal and spatial variability in gaugecorrected, global precipitation
+1991|61.0|2.0|Journal of Geophysical Research|Extension of the MSIS thermosphere model into the middle and lower atmosphere
+1992|33.0|1.0|Queueing Systems|The Fourier-series method for inverting transforms of probability distributions
+1993|42.0|1.5|Journal of the ACM|Constant depth circuits, Fourier transform, and learnability
+1994|99.0|2.0||Accelerated volume rendering and tomographic reconstruction using texture mapping hardware
+1995|35.0|1.0|computational science and engineering|An introduction to wavelets
+1996|168.0|1.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Texture features for browsing and retrieval of image data
+1997|52.0|2.0|Vision Research|Sparse coding with an overcomplete basis set: A strategy employed by V1?
+1998|37.0|2.0|Computer Methods in Applied Mechanics and Engineering|A numerical method for computing the overall response of nonlinear composites with complex microstructure
+1999|152.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Classifying facial actions
+2000|43.0|2.0|IEEE Transactions on Communications|Equal-gain diversity receiver performance in wireless channels
+2001|80.0|2.0|IEEE Transactions on Medical Imaging|Consistent image registration
+2002|175.0|3.0|IEEE Transactions on Image Processing|Gabor feature based classification using the enhanced fisher linear discriminant model for face recognition
+2003|188.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Lambertian reflectance and linear subspaces
+2004|136.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Gabor-based kernel PCA with fractional power polynomial models for face recognition
+2005|94.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Geometric diffusions as a tool for harmonic analysis and structure definition of data: Diffusion maps
+2006|347.0|3.0|Journal of Geophysical Research|Imaging of structure at and near the core mantle boundary using a generalized Radon transform: 1- Construction of image gathers
+2007|468.0|2.0|Journal of Geophysical Research|Imaging of structure at and near the coremantle boundary using a generalized radon transform: 2. Statistical inference of singularities
+2008|85.0|2.0|Pattern Recognition|Palmprint verification based on robust line orientation code
+2009|401.0|1.0|Siam Review|From Sparse Solutions of Systems of Equations to Sparse Modeling of Signals and Images
+2010|238.0|2.5|Annals of Statistics|Kernel density estimation via diffusion

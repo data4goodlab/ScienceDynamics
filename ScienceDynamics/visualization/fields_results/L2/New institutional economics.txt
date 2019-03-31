@@ -1,0 +1,46 @@
+----  Field Name New institutional economics: 
+----  Field Level 2.0: 
+----  Field Papers Number 7556:
+----  All time max citation paper: Theory of the firm: Managerial behavior, agency costs and ownership structure, 1976, (4964.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|1.0|1.0||Growth of the Agricultural Firm: Problems and Theories
+1972|3.0|1.5|Journal of Economic Literature|Theory of the Firm: Past, Present, and Future; An Interpretation
+1973|3.0|2.0|Economic Inquiry|EXTERNALITIES, LIABILITY AND THE COASE THEOREM:A MATHEMATICAL ANALYSIS
+1974|7.0|1.0|Journal of Financial Economics|Transactions costs and the relationship between put and call prices
+1975|5.0|3.0||Optimization and Evolution in the Theory of the Firm
+1976|17.0|2.5|Journal of Financial Economics|Theory of the firm: Managerial behavior, agency costs and ownership structure
+1977|2.0|1.5|Journal of Monetary Economics|Transaction costs and marketability services in the Eurocurrency money market
+1978|2.0|1.0|Journal of Economic Theory|A reexamination of the store of value in a sequence economy with transaction costs
+1979|4.0|1.0|Journal of Monetary Economics|The role of transaction costs and rates of return on the demand deposit decision
+1980|89.0|2.0|Journal of Political Economy|Agency Problems and the Theory of the Firm
+1981|10.0|4.5|Regional Science and Urban Economics|Optimum location and the theory of the firm under demand uncertainty
+1982|18.0|1.0|Journal of Financial Economics|Consumption correlatedness and risk measurement in economies with non-traded assets and heterogeneous information
+1983|14.0|2.0||Property Rights, Transaction Costs, and X-Efficiency: An Essay in Economic Theory.
+1984|29.0|6.0|Journal of Finance|A Simple Implicit Measure of the Effective BidAsk Spread in an Efficient Market
+1985|12.0|2.0|Journal of Finance|Option Pricing and Replication with Transactions Costs
+1986|20.0|2.0|Journal of Political Economy|The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integration
+1987|21.0|2.0|Journal of Economic Behavior and Organization|The function of authority in transaction cost economics
+1988|30.0|3.0|Strategic Management Journal|Transaction cost analysis of strategystructure choice
+1989|23.0|3.0|The Journal of Business|Mutual Fund Performance: An Analysis of Quarterly Portfolio Holdings
+1990|24.0|2.0|Administrative Science Quarterly|The R&D Boundaries of the Firm: An Empirical Analysis
+1991|56.0|1.0|Journal of Management|A Historical Comparison of Resource-Based Theory and Five Schools of Thought Within Industrial Organization Economics: Do We Have a New Theory of the Firm?
+1992|21.0|2.0|Strategic Management Journal|The choice of organizational form: Vertical financial ownership versus other methods of vertical integration
+1993|54.0|3.0|Academy of Management Journal|Strategic Alliance Structuring: A Game Theoretic and Transaction Cost Examination of Interfirm Cooperation
+1994|51.0|2.0|Strategic Management Journal|Trustworthiness as a Source of Competitive Advantage
+1995|23.0|2.0|Management Science|Electronic data interchange: competitive externalities and strategic implementation policies
+1996|136.0|2.0|Strategic Management Journal|Toward a knowledgebased theory of the firm
+1997|51.0|3.0|Strategic Management Journal|COST, VALUE AND FOREIGN MARKET ENTRY MODE: THE TRANSACTION AND THE FIRM
+1998|92.0|4.0|Journal of Economic Perspectives|The Boundaries of the Firm Revisited
+1999|178.0|4.0|Journal of Economic Literature|Financial Development and Economic Growth: Views and Agenda
+2000|156.0|3.0|Journal of Economic Literature|The New Institutional Economics: Taking Stock, Looking Ahead
+2001|120.0|3.0|International Economic Review|Nonlinear MeanReversion in Real Exchange Rates: Toward a Solution To the Purchasing Power Parity Puzzles
+2002|121.0|3.0|Industrial and Corporate Change|Modular production networks: a new American model of industrial organization
+2003|100.0|4.0||Land policies for growth and poverty reduction.
+2004|116.0|3.0|Management Information Systems Quarterly|How do suppliers benefit from information technology use in supply chain relationships?
+2005|307.0|4.0|Journal of Economic Literature|Neuroeconomics: How Neuroscience Can Inform Economics
+2006|237.0|3.0|Review of International Political Economy|The governance of global value chains
+2007|176.0|3.0|Economics Bulletin|Evaluating coasean bargaining experiments with meta-analysis
+2008|192.0|3.0|Marketing Science|The Salesperson as Outside Agent or Employee: A Transaction Cost Analysis
+2009|187.0|3.0|Journal of Financial Economics|Do liquidity measures measure liquidity?
+2010|202.0|3.0|Ecological Economics|An institutional analysis of payments for environmental services

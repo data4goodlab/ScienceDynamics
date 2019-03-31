@@ -1,0 +1,37 @@
+----  Field Name Customer Relationship Management: 
+----  Field Level 2.0: 
+----  Field Papers Number 9903:
+----  All time max citation paper: The Anatomy of the Grid: Enabling Scalable Virtual Organizations, 2001, (2011.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|19.0|19.0|Journal of Molecular Biology|Studies on the regulation of tryptophan biosynthesis in Escherichia coli
+1969|4.0|4.0|Mutation Research|Fine structure analysis of a chromosome segment in Drosophila melanogaster analysis of ethyl methanesulphonate-induced lethals
+1974|0|0.0|Proceedings of The Institution of Electrical Engineers|Calculation of opinion scores for telephone connections
+1979|5.0|5.0|Biochimie|Modifications of aldolase during in vivo aging of rabbit red cells
+1982|4.0|4.0|Ibm Journal of Research and Development|Design verification system for large-scale LSI designs
+1984|0|0.0|Journal of Environmental Systems|Commercial Recreation and Tourism: A Component Analysis of Customer Satisfaction
+1985|5.0|4.0|Journal of General Virology|Pseudorecombinants between Cloned DNAs of Two Isolates of Cassava Latent Virus
+1986|3.0|0.0|Journal of Business Research|Relationship management: Managing the selling and the buying interface
+1987|5.0|5.0|The Journal of Allergy and Clinical Immunology|Monosodium l-glutamate-induced asthma
+1989|3.0|3.0|Journal of the Academy of Marketing Science|Furthering the Integration of Marketing and Logistics Through Customer Service in the Channel
+1990|8.0|2.0|IEEE Software|Software-reliability engineering: technology for the 1990s
+1991|13.0|1.0|Journal of Economic Psychology|A framework for comparing customer satisfaction across individuals and product categories
+1992|55.0|1.5|Journal of Marketing|A national customer satisfaction barometer: the Swedish experience
+1993|42.0|2.0|Marketing Science|The Antecedents and Consequences of Customer Satisfaction for Firms
+1994|54.0|1.0|Journal of Marketing|Customer satisfaction, market share, and profitability: Findings from Sweden
+1995|143.0|2.0|Communications of The ACM|RMM: a methodology for structured hypermedia design
+1996|28.0|2.0|Journal of Product Innovation Management|PDMA Success Measurement Project: Recommended Measures for Product Development Success and Failure
+1997|33.0|3.0|IEEE Computer|Investigating the influence of formal methods
+1998|79.0|3.0|Journal of Consumer Research|Consumers and Their Brands: Developing Relationship Theory in Consumer Research
+1999|95.0|4.0|electronic commerce|Recommender systems in e-commerce
+2000|74.0|3.0|Journal of the Academy of Marketing Science|Service Quality, Profitability, and the Economic Worth of Customers: What We Know and What We Need to Learn
+2001|803.0|5.0|high performance computing|The Anatomy of the Grid: Enabling Scalable Virtual Organizations
+2002|137.0|4.0|Information Systems Research|The Measurement of Web-Customer Satisfaction: An Expectation and Disconfirmation Approach
+2003|227.0|5.0||The Anatomy of the Grid
+2004|205.0|5.0|ACM Sigmis Database|Information systems outsourcing: a survey and analysis of the literature
+2005|68.0|4.0|Journal of Business Research|Trust and commitment influences on customer retention: insights from business-to-business services
+2006|216.0|4.0|language resources and evaluation|SENTIWORDNET: A Publicly Available Lexical Resource for Opinion Mining
+2007|133.0|4.0|Journal of Operations Management|The impact of enterprise systems on corporate performance: A study of ERP, SCM, and CRM system implementations
+2008|120.0|3.0|Personnel Psychology|EMPLOYEE ATTRIBUTIONS OF THE WHY OF HR PRACTICES: THEIR EFFECTS ON EMPLOYEE ATTITUDES AND BEHAVIORS, AND CUSTOMER SATISFACTION
+2009|188.0|3.0|Journal of Applied Psychology|Individual- and organizational-level consequences of organizational citizenship behaviors: A meta-analysis.
+2010|184.0|4.0|International Journal of Information Management|Understanding customer satisfaction and loyalty: An empirical study of mobile instant messages in China

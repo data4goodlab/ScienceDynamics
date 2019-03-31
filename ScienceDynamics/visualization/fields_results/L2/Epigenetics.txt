@@ -1,0 +1,83 @@
+----  Field Name Epigenetics: 
+----  Field Level 2.0: 
+----  Field Papers Number 912755:
+----  All time max citation paper: SINGLE STEP METHOD OF RNA ISOLATION BY ACID GUANIDINIUM-THIOCYANATE-PHENOL-CHLOROFORM EXTRACTION, 1987, (36778.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1924|1.0|1.0|Molecular Genetics and Genomics|A genetic and cytological analysis of a section deficiency involving four units of the X-chromosome in Drosophila melanogaster
+1929|7.0|7.0|New Phytologist|CELL GROWTH AND CELL DIVISION IN THE SHOOT OF THE FLOWERING PLANT
+1930|3.0|1.0|Journal of Genetics|Chromosomal aberrants and gene mutations in Nicotiana obtained by grafting.
+1931|0|0.0|Genetica|Contributions to the Genetics of PISUM
+1932|4.0|3.5|The Journal of Allergy and Clinical Immunology|Serum sensitiveness after toxin-antitoxin. A clinical and laboratory study
+1933|1.0|1.0|Journal of Genetics|A new allelomorphic compound presenting the phenotype of the wild Drosophila melanogaster
+1935|3.0|3.0|Genetica|Crossover and disjunctional properties of X chromosome inversions in Drosophila melanogaster
+1938|9.0|9.0|Genetics|The Production of Homozygous Deficient Tissues with Mutant Characteristics by Means of the Aberrant Mitotic Behavior of Ring-Shaped Chromosomes
+1940|4.0|1.0|Journal of Genetics|Cytogenetics of Brassica hybrids and species.
+1941|1.0|0.0|Journal of Genetics|The effect of sex on the spontaneous mutation rate in Drosophila melanogaster
+1942|4.0|2.5|Journal of Experimental Zoology|A cytological and experimental analysis of the meiotic behavior of the univalent X chromosome in the bearberry aphid Tamalia (Phyllaphis) coweni (Ckll.)
+1943|0|0.0|Journal of Genetics|The incompatibility sieve for producing polyploids
+1945|1.0|0.0|Acta Physiologica Scandinavica|The Reabsorption of Glycine and Other Amino Acids in the Kidneys of Man
+1946|1.0|0.5|Journal of Morphology|Cytological studies on Acrididae. IV. The structure of the Xchromosome in the meiosis of Phlaeoba infumata
+1947|1.0|0.5|Botanical Review|Supernumerary chromonemal reproductions: Polytene chromosomes, endomitosis, multiple chromosome complexes, polysomaty
+1949|3.0|3.0|Journal of Experimental Zoology|The influence of near infrared radiation on the production by nitrogen mustard of chromosome rearrangements in Drosophila.
+1950|5.0|1.0|Genetics|The genetic basis of heterosis in maize.
+1951|5.0|1.5|Cold Spring Harbor Symposia on Quantitative Biology|Chromosome Organization and Genic Expression
+1952|4.0|2.5|Nature|Mode of Action of Chloramphenicol
+1953|5.0|0.0|Journal of Allergy|The etiological role of streptococcus toxin-antitoxin systems in the experimental production of arterial sensitization
+1954|2.0|1.0|Biochimica et Biophysica Acta|Relation between microsomal pentose nucleic acid (PNA) and protein synthesis in the hypocotyl of germinating bean embryo
+1955|12.0|1.5|Biochimica et Biophysica Acta|The role of the nucleus in protein synthesis in Amoeba
+1956|10.0|2.5|Cancer Research|Carcinogenesis by Radioactive Substances
+1957|20.0|2.5|Virology|The effect of the inhibition of protein synthesis on the establishment of lysogeny
+1958|16.0|2.0|Biochimica et Biophysica Acta|Protein synthesis and RNA turnover in a pyrimidine-deficient bacterium
+1959|21.0|2.0|Archives of Biochemistry and Biophysics|Protein synthesis by isolated nucleoprotein particles
+1960|51.0|2.0|Virology|The Initiation of Vaccinia Infection.
+1961|51.0|2.0|Radiation Botany|Some factors affecting the responses of plants to acute and chronic radiation exposures
+1962|36.0|3.0|Virology|Effect of p -fluorophenylalanine and puromycin on the replication of poliovirus
+1963|44.0|2.0|Journal of Molecular Biology|Protein synthesis by free and bound rat liver ribosomes in vivo and in vitro
+1964|60.0|2.0|Journal of Molecular Biology|The puromycin reaction and its relation to protein synthesis
+1965|58.0|2.0|Journal of Molecular Biology|Binding of transfer ribonucleic acid to ribosomes engaged in protein synthesis: Number and properties of ribosomal binding sites
+1966|66.0|2.0|Journal of Molecular Biology|DNA replication and messenger RNA production after induction of wild-type  bacteriophage and  mutants
+1967|30.0|2.0|Journal of Molecular Biology|Bacterial protein synthesis: The effects of antibiotics
+1968|121.0|2.5||Ribonucleic acids from animal cells.
+1969|140.0|3.0|Nature|Isolation of an E. coli Strain with a Mutation affecting DNA Polymerase
+1970|73.0|3.0|Journal of Molecular Biology|Mitochondrial DNA's from respiratory-sufficient and cytoplasmic respiratory-deficient mutant yeast
+1971|52.0|4.0|Journal of Cell Biology|MICROFILAMENTS AND CELL LOCOMOTION
+1972|70.0|3.0|Cancer Research|Malignant Transformation of Cells Derived from Mouse Prostate by Epoxides and Other Derivatives of Polycyclic Hydrocarbons
+1973|93.0|3.0|Journal of Molecular Biology|Initiation of mammalian protein synthesis: the importance of ribosome and initiation factor quality for the efficiency of in vitro systems
+1974|80.0|3.0|Science|Cell-Cycle Analysis in 20 Minutes
+1975|557.0|3.0|Nature|Identification of two related pentapeptides from the brain with potent opiate agonist activity
+1976|168.0|4.0|Nature|C fragment of lipotropin has a high affinity for brain opiate receptors
+1977|589.0|3.0|Journal of Molecular Biology|Labeling deoxyribonucleic acid to high specific activity in vitro by nick translation with DNA polymerase I.
+1978|94.0|3.0|Nature|Sister chromatid exchange as an indicator of mutagenesis
+1979|208.0|3.0|Cell|The induction of gene activity in drosophila by heat shock
+1980|406.0|3.0|Nature|The role of hormone receptors and GTP-regulatory proteins in membrane transduction.
+1981|146.0|3.0|Cell|ALL CLASSES OF INTERMEDIATE FILAMENTS SHARE A COMMON ANTIGENIC DETERMINANT DEFINED BY A MONOCLONAL-ANTIBODY
+1982|223.0|3.0|Nature|Alternative RNA processing in calcitonin gene expression generates mRNAs encoding different polypeptide products
+1983|257.0|3.0|Science|Dietary Carcinogens and Anticarcinogens.
+1984|1522.0|3.0|Nature|The role of protein kinase C in cell surface signal transduction and tumour promotion.
+1985|283.0|3.0|Nature|Autocrine growth factors and cancer
+1986|314.0|3.0|Nature|Complementary DNA for a novel human interleukin (BSF-2) that induces B lymphocytes to produce immunoglobulin
+1987|2194.0|3.0|Analytical Biochemistry|SINGLE STEP METHOD OF RNA ISOLATION BY ACID GUANIDINIUM-THIOCYANATE-PHENOL-CHLOROFORM EXTRACTION
+1988|261.0|3.0|Nature|Identification of a second human retinoic acid receptor
+1989|306.0|4.0|Journal of Cell Biology|The scanning model for translation: an update.
+1990|242.0|4.0|Cell|The protein Id: A negative regulator of helix-loop-helix DNA binding proteins
+1991|452.0|4.0|Cell|Molecular themes in oncogenesis
+1992|581.0|4.0|Cell|Induction of apoptosis in fibroblasts by c-myc protein
+1993|451.0|4.0|Cell|Molecular cloning and expression of the fas ligand, a novel member of the tumor necrosis factor family
+1994|453.0|4.0|Annual Review of Immunology|Function and activation of NF-kappa B in the immune system.
+1995|1358.0|5.0|Science|Apoptosis in the pathogenesis and treatment of disease
+1996|610.0|6.0|Cell|The Transcriptional Coactivators p300 and CBP Are Histone Acetyltransferases
+1997|1035.0|9.0|Nature|Functional rafts in cell membranes
+1998|2478.0|10.0|Nature|Dendritic cells and the control of immunity
+1999|860.0|10.0|Cell|Akt Promotes Cell Survival by Phosphorylating and Inhibiting a Forkhead Transcription Factor
+2000|1400.0|11.0|Nature|Distinct types of diffuse large B-cell lymphoma identified by gene expressionprofiling
+2001|4579.0|11.0|Nature|Initial sequencing and analysis of the human genome
+2002|1438.0|12.0|Nature|Pluripotency of mesenchymal stem cells derived from adult marrow
+2003|1545.0|12.0|Nature Immunology|Foxp3 programs the development and function of CD4+CD25+ regulatory T cells.
+2004|2121.0|13.0|The New England Journal of Medicine|Activating mutations in the epidermal growth factor receptor underlying responsiveness of non-small-cell lung cancer to gefitinib
+2005|1749.0|12.0|Cell|Conserved seed pairing, often flanked by adenosines, indicates that thousands of human genes are microRNA targets.
+2006|1988.0|13.0|Nature|Reciprocal developmental pathways for the generation of pathogenic effector TH17 and regulatory T cells
+2007|2123.0|13.0|Cell|Induction of Pluripotent Stem Cells from Adult Human Fibroblasts by Defined Factors
+2008|2146.0|14.0|Nature Methods|Mapping and quantifying mammalian transcriptomes by RNA-Seq
+2009|5660.0|13.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|2096.0|13.0|Nature|A human gut microbial gene catalogue established by metagenomic sequencing

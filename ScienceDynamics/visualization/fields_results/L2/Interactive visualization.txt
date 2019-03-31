@@ -1,0 +1,38 @@
+----  Field Name Interactive visualization: 
+----  Field Level 2.0: 
+----  Field Papers Number 1558:
+----  All time max citation paper: VMD-Visual Molecular Dynamics, 1996, (9063.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1976|1.0|1.0|Memory & Cognition|Interactive visual imagery and memory search for words and pictures
+1977|5.0|5.0|Vision Research|Effects of interacting visual patterns on single cell responses in cat's striate cortex
+1980|2.0|2.0|European Journal of Operational Research|An interactive visual simulation system for industrial management
+1981|6.0|6.0|international conference on computer graphics and interactive techniques|A method of interactive visualization of CAD surface models on a color video display
+1983|15.0|15.0|Journal of Molecular Biology|Actin-myosin interactions visualized by the quick-freeze, deep-etch replica technique
+1984|3.0|3.0|Journal of Geophysical Research|Measurements of the optical emission produced during the laboratory beam plasma discharge
+1985|5.0|2.5|international conference on computer graphics and interactive techniques|Fast image generation of construcitve solid geometry using a cellular array processor
+1986|3.0|2.5|Physica D: Nonlinear Phenomena|Visualizing mathematics: Evolution of vortical flows
+1987|5.0|5.0|Biological Cybernetics|Comparison between the Movement Detection Systems Underlying the Optomotor and the Landing Response in the Housefly
+1988|10.0|0.0|IEEE Computer Graphics and Applications|Interactive visualization of 3D seismic data: a volumetric method
+1989|23.0|14.0|IEEE Computer|Interactive visualization of 3D medical data
+1990|10.0|4.5|Computing Systems in Engineering|Advanced interactive visualization for CFD
+1991|14.0|1.0||Interactive data visualization using focusing and linking
+1992|14.0|8.0||Interactive visualization of flow fields
+1993|27.0|6.0||A probe for local flow field visualization
+1994|8.0|4.0|IEEE Computer|Interactive visualization of Earth and space science computations
+1995|45.0|4.0|Current Biology|Size-contrast illusions deceive the eye but not the hand
+1996|134.0|5.5|Journal of Molecular Graphics|VMD-Visual Molecular Dynamics
+1997|37.0|6.0|Computer Graphics Forum|Efficient Impostor Manipulation for RealTime Visualization of Urban Scenery
+1998|45.0|5.0|Cognition|The objects of action and perception
+1999|39.0|6.0||Hierarchical parallel coordinates for exploration of large datasets
+2000|47.0|4.0||Topology preserving and controlled topology simplifying multiresolution isosurface extraction
+2001|97.0|5.0|Nucleic Acids Research|REPuter: the manifold applications of repeat analysis on a genomic scale
+2002|182.0|5.0|Nucleic Acids Research|CDD: a database of conserved domain alignments with links to domain three-dimensional structure.
+2003|90.0|4.0|Nucleic Acids Research|CASTp: Computed Atlas of Surface Topography of proteins
+2004|75.0|5.0|BMC Bioinformatics|VisANT: an online visualization and analysis tool for biological interaction data.
+2005|93.0|4.0|Data Mining and Knowledge Discovery|Hierarchical Clustering Algorithms for Document Datasets
+2006|69.0|5.0|BMC Bioinformatics|Tools for integrated sequence-structure analysis with UCSF Chimera.
+2007|437.0|5.0|BMC Bioinformatics|Dendroscope: An interactive viewer for large phylogenetic trees
+2008|208.0|4.0|NeuroImage|Diffusion spectrum magnetic resonance imaging (DSI) tractography of crossing fibers
+2009|181.0|4.0|Bioinformatics|The Integrated Genome Browser: free software for distribution and exploration of genome-scale datasets
+2010|108.0|3.0|BMC Bioinformatics|Mayday - integrative analytics for expression data

@@ -1,0 +1,58 @@
+----  Field Name Neurochemistry: 
+----  Field Level 2.0: 
+----  Field Papers Number 8203:
+----  All time max citation paper: A default mode of brain function, 2001, (4332.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1959|8.0|8.0|Journal of Neurochemistry|THE INTRALAMINAR DISTRIBUTION OF DIPEPTIDASE ACTIVITY IN HUMAN FRONTAL ISOCORTEX*
+1960|3.0|2.0|Journal of Neurochemistry|INTRALAMINAR DISTRIBUTION OF CYTOCHROME OXIDASE ACTIVITY IN HUMAN FRONTAL ISOCORTEX*
+1961|5.0|5.0|Journal of Neurochemistry|INTRALAMINAR DISTRIBUTION OF ADENOSINETRIPHOSPHATASE ACTIVITY IN HUMAN FRONTAL ISOCORTEX*
+1962|1.0|1.0|Annals of Applied Biology|The cumulative action of insecticides on adult mosquitoes
+1963|21.0|1.0|Progress in Brain Research|FUNCTIONAL SIGNIFICANCE OF DRUG-INDUCED CHANGES IN BRAIN MONOAMINE LEVELS
+1964|1.0|1.0|Biochemical Pharmacology|Acute toxicity of alkyl and phenylalkylphosphonates in the guinea pig and rabbit in relation to their anticholinesterase activity and their enzymatic inactivation
+1965|0|0.0||The influence of hallucinogenic drugs upon in vivo brain levels of adenine nucleotides, phosphocreatine and inorganic phosphate in the rat.
+1966|10.0|5.5|Experimental Parasitology|Histochemical observations on Posthodiplostomum minimum. II. Esterases in subcuticular cells, holdfast organ cells, and the nervous system.
+1967|13.0|6.0|The Journal of General Physiology|Water Permeability of Thin Lipid Membranes
+1968|11.0|5.0|Journal of Experimental Zoology|Acetylcholinesterase and choline acetyltransferase activity in the developing chick spinal cord
+1969|20.0|6.5|Journal of Neurochemistry|CONTROL OF ACETYLCHOLINE SYNTHESISTHE INHIBITION OF CHOLINE ACETYLTRANSFERASE BY ACETYLCHOLINE
+1970|35.0|5.0|Journal of Neurochemistry|TOPOGRAPHICAL AND SUBCELLULAR LOCALIZATION OF CHOLINE ACETYLTRANSFERASE IN RAT HIPPOCAMPAL REGION
+1971|33.0|4.0|Journal of Neurochemistry|PURIFICATION AND PROPERTIES OF CHOLINE ACETYLTRANSFERASE FROM OX BRAIN STRIATE NUCLEI
+1972|22.0|3.0|Journal of Neurochemistry|A simple quick microassay for choline acetyltransferase
+1973|95.0|8.0|British Journal of Pharmacology|The determination of dopamine by a modification of the dihydroxyindole fluorimetric assay
+1974|66.0|10.0|Brain Research|Choline acetyltransferase content of limbic nuclei of the rat
+1975|169.0|10.0|Journal of Neurochemistry|A rapid radiochemical method for the determination of choline acetyltransferase.
+1976|75.0|4.0|Cell|The expression of three abundance classes of messenger RNA in mouse tissues
+1977|46.0|6.0|British Journal of Pharmacology|Effects of mianserin, a new antidepressant, on the in vitro and in vivo uptake of monoamines.
+1978|85.0|4.0|Brain Research|A mapping of the distribution of acetylcholine, choline acetyltransferase and acetylcholinesterase in discrete areas of rat brain
+1979|55.0|3.5|Brain Research|Cholinergic neuronotrophic factors: I. Survival, neurite outgrowth and choline acetyltransferase activity in monolayer cultures from chick embryo ciliary ganglia
+1980|49.0|4.0|Neurobiology of Aging|Age-related alterations in the rodent brain cholinergic system and behavior
+1981|274.0|4.0|The Journal of Comparative Neurology|The central cholinergic system studied by choline acetyltransferase immunohistochemistry in the cat
+1982|124.0|6.5|Neuroscience Letters|Topography of choline acetyltransferase-containing neurons in the forebrain of the rat
+1983|314.0|9.5|The Journal of Comparative Neurology|Cholinergic innervation of cortex by the basal forebrain: Cytochemistry and cortical connections of the septal area, diagonal band nuclei, nucleus basalis (Substantia innominata), and hypothalamus in the rhesus monkey
+1984|153.0|6.0|Neuroscience|Atlas of cholinergic neurons in the forebrain and upper brainstem of the macaque based on monoclonal choline acetyltransferase immunohistochemistry and acetylcholinesterase histochemistry
+1985|116.0|9.0|Brain Research|Cholinergic projections from the midbrain and pons to the thalamus in the rat, identified by combined retrograde tracing and choline acetyltransferase immunohistochemistry.
+1986|127.0|10.0|Molecular Brain Research|Nerve growth factor increases choline acetyltransferase activity in developing basal forebrain neurons
+1987|77.0|10.0|Neuroscience Letters|Cholinergic nucleus basalis neurons may influence the cortex via the thalamus
+1988|74.0|8.0|Developmental Brain Research|Developmental change in the nerve growth factor action from induction of choline acetyltransferase to promotion of cell survival in cultured basal forebrain cholinergic neurons from postnatal rats
+1989|109.0|7.0|The Journal of Comparative Neurology|Nerve growth factor receptor and choline acetyltransferase colocalization in neurons within the rat forebrain: Response to fimbriafornix transection
+1990|61.0|4.5|Synapse|Differential effects of intracerebroventiricular colchicine administration on the expression of mrnas for neuropeptides and neurotransmitter enzymes, with specila emphasis on galanin: An in situ Hybridization Study
+1991|52.0|6.0|British Journal of Pharmacology|L-NG-nitro arginine methyl ester exhibits antinociceptive activity in the mouse.
+1992|104.0|7.0|The Journal of Comparative Neurology|Nitric oxide synthetase (NOS)containing sympathoadrenal cholinergic neurons of the rat IMLcell column: Evidence from histochemistry, immunohistochemistry, and retrograde labeling
+1993|59.0|5.0|European Journal of Neuroscience|The Neurotrophins BDNF, NT3 and NT4/5, But Not NGF, Upregulate the Cholinergic Phenotype of Developing Motor Neurons
+1994|73.0|6.0|The Journal of Comparative Neurology|TrkA-Immunoreactive Profiles in the Central Nervous System: Colocalization With Neurons Containing p75 Nerve Growth Factor Receptor, Choline Acetyltransferase, and Serotonin
+1995|66.0|7.0|Neuroscience Letters|Memory deficits and cholinergic impairments in apolipoprotein E-deficient mice
+1996|88.0|6.0|Neuroscience|Neurochemical classification of myenteric neurons in the guinea-pig ileum
+1997|200.0|7.5|Cell|MeCP2 Is a Transcriptional Repressor with Abundant Binding Sites in Genomic Chromatin
+1998|81.0|6.0|The EMBO Journal|In mouse brain profilin I and profilin II associate with regulators of the endocytic pathway and actin assembly
+1999|125.0|8.0|Neuropsychopharmacology|Dissociable Deficits in the Decision-Making Cognition of Chronic Amphetamine Abusers, Opiate Abusers, Patients with Focal Damage to Prefrontal Cortex, and Tryptophan-Depleted Normal Volunteers: Evidence for Monoaminergic Mechanisms
+2000|176.0|8.0|Progress in Neurobiology|Neuronal nicotinic receptors in the human brain.
+2001|329.0|8.0|Proceedings of the National Academy of Sciences of the United States of America|A default mode of brain function
+2002|173.0|8.0|Annals of Neurology|Upregulation of choline acetyltransferase activity in hippocampus and frontal cortex of elderly subjects with mild cognitive impairment
+2003|209.0|11.0|The Lancet|Oligodendrocyte dysfunction in schizophrenia and bipolar disorder
+2004|456.0|12.0|The Lancet|Possible transmission of variant Creutzfeldt-Jakob disease by blood transfusion
+2005|180.0|9.0|International Journal of Developmental Neuroscience|Neuroanatomic observations of the brain in autism: a review and future directions
+2006|133.0|12.0|NeuroImage|A temporal comparison of BOLD, ASL, and NIRS hemodynamic responses to motor stimuli in adult humans
+2007|724.0|13.0|Clinical Neurophysiology|Updating P300: An integrative theory of P3a and P3b
+2008|181.0|15.0|Annals of Internal Medicine|Effectiveness of Cholinesterase Inhibitors and Memantine for Treating Dementia: Evidence Review for a Clinical Practice Guideline
+2009|836.0|14.5|Science|The Nuclear DNA Base 5-Hydroxymethylcytosine Is Present in Purkinje Neurons and the Brain
+2010|281.0|16.0|Science|Generating a Prion with Bacterially Expressed Recombinant Prion Protein

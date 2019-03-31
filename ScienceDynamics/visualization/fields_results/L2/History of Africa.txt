@@ -1,0 +1,53 @@
+----  Field Name History of Africa: 
+----  Field Level 2.0: 
+----  Field Papers Number 4284:
+----  All time max citation paper: Advanced functional polymer membranes, 2006, (645.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1961|1.0|1.0|Annals of the New York Academy of Sciences|EXPERIMENTAL ANALYSIS OF GENETIC DETERMINANTS IN RESISTANCE TO INFECTIOUS DISEASE*
+1963|21.0|16.0|Journal of Molecular Biology|The alkaline transition of BU-containing DNA and its bearing on the replication of DNA
+1964|34.0|29.0|Journal of Molecular Biology|Fractionation of complementary RNA
+1965|15.0|4.0|Journal of Molecular Biology|Effects of cupric ions on thermal denaturation of nucleic acids
+1966|42.0|24.0|Journal of Molecular Biology|Pyrimidine dimers in ultraviolet-irradiated DNA's
+1967|14.0|14.0|Brain Research|Ascending axon degeneration following hemisection of the spinal cord in the tegu lizard ( Tupinambis nigropunctatus )
+1968|8.0|8.0|Journal of Molecular Biology|Different mutagenic specificities in phages S13 and T4: in vivo treatment with N -methyl- N -nitro- N -nitrosoguanidine
+1971|7.0|2.5|Solid-state Electronics|Electromagnetic theory of heterostructure injection lasers
+1972|30.0|28.0|Journal of Molecular Biology|Replication of Sindbis virus: I. Relative size and genetic content of 26 s and 49 s RNA
+1973|1.0|0.5|Comparative and General Pharmacology|A comparative study of the effects of two copper compounds on the respiration and survival of biomphalaria glabrata (mollusca: pulmonata)
+1974|3.0|2.0|Mutation Research|Oral contraceptives and chromosome segregation in oocytes of mice
+1975|14.0|9.0|Journal of Molecular and Cellular Cardiology|Sensitivity to H, Li and Mg ions of the slow inward sodium current in frog atrial fibres
+1976|18.0|0.0|Advances in Immunology|Ionizing Radiation and the Immune Response
+1977|8.0|4.5|Neuroscience|The spatial distribution of ionic conductances in normal and axotomized motorneurons
+1978|1.0|0.0|Immunochemistry|Immunochemical studies of the a allotypes of rabbit heavy chain variable regionsII: Immunological properties of peptides from variable regions of heavy chains of limited heterogeneity and a3 allotype
+1979|3.0|1.5|Comparative Biochemistry and Physiology Part A: Physiology|Functional properties of hemoglobin and whole blood in an aquatic mammal, the Amazonian manatee ( Trichechus inunguis )
+1980|81.0|2.0|Gene|Sequence of a yeast DNA fragment containing a chromosomal replicator and the TRP1 gene
+1981|116.0|1.0|Gene|Plasmid vectors for high-efficiency expression controlled by the PL promoter of coliphage lambda
+1982|8.0|1.0|The Journal of Neuroscience|Granule cell as a site of gene action in the weaver mouse cerebellum: evidence from heterozygous mutant chimeras
+1983|11.0|2.5|The Journal of Allergy and Clinical Immunology|Inhaled verapamil in histamine-induced bronchoconstriction
+1984|44.0|5.0|The Journal of Allergy and Clinical Immunology|Comparison of results of skin tests, RAST, and double-blind, placebo-controlled food challenges in children with atopic dermatitis
+1985|44.0|3.0|Neuropharmacology|The use of quaternary narcotic antagonists in opiate research
+1986|6.0|2.0|FEBS Letters|Transcription control of the 32 kDa-Q B protein of photosystem II in differentiated bundle sheath and mesophyll chloroplasts of maize
+1987|71.0|5.0|Gene|Transformation of Aspergillus based on the hygromycin B resistance marker from Escherichia coli
+1988|22.0|3.5|Trends in Pharmacological Sciences|Endogenous opioid peptides and epilepsy: quieting the seizing brain?
+1989|22.0|2.0|IEEE Transactions on Software Engineering|A visual language compiler
+1990|31.0|4.0|Brain Research|Memory formation in the chick depends on membrane-bound protein kinase C
+1991|15.0|3.0|Journal of Dairy Science|Responses of Dairy Cows to Supplemental Rumen-Protected Forms of Methionine and Lysine
+1992|12.0|2.0|Journal of Experimental Marine Biology and Ecology|Proximate and elemental composition of gelatinous zooplankton from the Southern Ocean
+1993|25.0|4.0|Gastroenterology|Role of calcitonin gene-related peptide and nitric oxide in the gastroprotective effect of capsaicin in the rat
+1994|27.0|2.5|Gastroenterology|Structural and functional adaptation following jejunal resection in rabbits: Effect of epidermal growth factor
+1995|32.0|4.0|Gene|Identification of new schistosoma mansoni genes by the EST strategy using a directional cDNA library
+1996|38.0|3.0|FEBS Letters|Molecular cloning and functional expression of a novel rat heart P2X purinoceptor.
+1997|31.0|3.0|FEBS Letters|Induction of UCP 2 mRNA by thyroid hormones in rat heart
+1998|31.0|2.5|Biophysical Journal|Electropermeabilization of Mammalian Cells to Macromolecules: Control by Pulse Duration
+1999|39.0|5.0|The Journal of Allergy and Clinical Immunology|Chemokines and allergic disease
+2000|20.0|4.0|Surface Science|First-principles study of the adsorption of atomic H on Ni(111), (100) and (110)
+2001|153.0|5.0|Gastroenterology|Probiotic bacteria enhance murine and human intestinal epithelial barrier function
+2002|100.0|6.0|Gastroenterology|Immunostimulatory DNA ameliorates experimental and spontaneous murine colitis
+2003|119.0|5.0|Gut|Expression of NOD2 in Paneth cells: a possible link to Crohn's ileitis.
+2004|110.0|4.0|Journal of Dairy Science|Nomenclature of the proteins of cows' milk--sixth revision.
+2005|218.0|6.0|Automatica|Network-based robust H control of systems with uncertainty
+2006|275.0|6.0|Polymer|Advanced functional polymer membranes
+2007|62.0|5.0|Biophysical Journal|A Thin-Layer Model for Viscoelastic, Stress-Relaxation Testing of Cells Using Atomic Force Microscopy: Do Cell Properties Reflect Metastatic Potential?
+2008|131.0|5.0|Automatica|H filtering for uncertain stochastic time-delay systems with sector-bounded nonlinearities
+2009|150.0|5.0|Automatica|Robust H control for a class of nonlinear discrete time-delay stochastic systems with missing measurements
+2010|94.0|5.0|The Journal of Allergy and Clinical Immunology|Structure and Function of Immunoglobulins

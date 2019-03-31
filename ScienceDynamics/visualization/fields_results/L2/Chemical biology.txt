@@ -1,0 +1,54 @@
+----  Field Name Chemical biology: 
+----  Field Level 2.0: 
+----  Field Papers Number 21638:
+----  All time max citation paper: New perspectives in cell adhesion: RGD and integrins., 1987, (2481.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1963|25.0|18.5|Journal of Geophysical Research|A PROCEDURE FOR GEOCHEMICAL INTERPRETATION OF TERRESTRIAL RARE-EARTH ABUNDANCE PATTERNS,
+1964|5.0|5.0|American Journal of Cardiology|Physiologic actions of heparin not related to blood clotting
+1965|10.0|8.0|Journal of Geophysical Research|Paleomagnetism of late Cretaceous granitic plutons in the Sierra Nevada, California: Further results
+1966|10.0|6.5|Journal of Clinical Investigation|Evidence for the release of bradykinin in carcinoid syndrome.
+1967|47.0|21.0|Journal of Cell Biology|Fine structural localization of a blood-brain barrier to exogenous peroxidase.
+1968|3.0|3.0|Journal of Cell Biology|AUTOPHAGIC VACUOLES PRODUCED IN VITRO II. Studies on the Mechanism of Formation of Autophagic Vacuoles Produced by Chloroquine
+1969|62.0|24.5|Journal of Geophysical Research|Fine structure of the upper mantle
+1970|10.0|5.0|Acta Physiologica Scandinavica|Effects of Vasoactive Drugs on Circulation in Canine Subcutaneous Adipose Tissue
+1971|15.0|4.0|Journal of Clinical Investigation|Effect of renal vasodilatation on the distribution of cortical blood flow in the kidney of the dog
+1972|6.0|6.0|Experimental Parasitology|Reaction of the main proteolytic fraction of Schistosoma mansoni cercarial enzymes with synthetic substrates and inhibitors of proteolytic enzymes
+1973|3.0|1.0|European Journal of Pharmacology|The biphasic response of the isolated guinea-pig ileum by bradykinin
+1974|11.0|4.0|Journal of Cell Biology|Pinocytosis in fibroblasts. Quantitative studies in vitro.
+1975|26.0|4.0|Diabetologia|Platelet hyperaggregation and increased plasma level of Von Willebrand factor in diabetics with retinopathy.
+1976|16.0|5.5|Nature|Molecular weights of antihaemophilic factor and von Willebrand factor proteins in human plasma
+1977|22.0|3.0|Journal of Supramolecular Structure|The transport of lysosomal enzymes
+1978|14.0|3.0|International Journal of Rock Mechanics and Mining Sciences & Geomechanics Abstracts|THE HYDROFRACTURING STRESS MEASURING METHOD AND RECENT FIELD RESULTS
+1979|23.0|2.0|International Journal of Rock Mechanics and Mining Sciences & Geomechanics Abstracts|Crack growth and development during creep of Barre granite
+1980|24.0|2.0|International Journal of Rock Mechanics and Mining Sciences & Geomechanics Abstracts|PERMEABILITY OF CRYSTALLINE AND ARGILLACEOUS ROCKS
+1981|14.0|2.0|British Journal of Haematology|Response of factor VIII/von Willebrand factor to DDAVP in healthy subjects and patients with haemophilia A and von Willebrand's disease.
+1982|24.0|3.0|Nature|Adenosine diphosphate induces binding of von Willebrand factor to human platelets
+1983|140.0|4.0|Journal of Cell Biology|Endocytosis and the recycling of plasma membrane.
+1984|33.0|3.0|Journal of Neurochemistry|Identification of Bradykinin in Mammalian Brain
+1985|27.0|3.0|British Journal of Pharmacology|Inflammatory oedema induced by synergism between calcitonin generelated peptide (CGRP) and mediators of increased vascular permeability
+1986|37.0|3.0|Cell|Inducible secretion of large, biologically potent von Willebrand factor multimers
+1987|612.0|3.5|Science|New perspectives in cell adhesion: RGD and integrins.
+1988|38.0|3.0|Journal of Neurochemistry|Stimulation of Formation of Inositol Phosphates in Primary Cultures of Bovine Adrenal Chromaffin Cells by Angiotensin II, Histamine, Bradykinin, and Carbachol
+1989|65.0|4.0|Trends in Biochemical Sciences|Helix-turn-helix, zinc-finger, and leucine-zipper motifs for eukaryotic transcriptional regulatory proteins
+1990|80.0|3.0|Cell|IL-6DBP, a nuclear protein involved in interleukin-6 signal transduction, defines a new family of leucine zipper proteins related to C/EBP.
+1991|108.0|3.0|Cell|cDNA cloning of a Novel 85 kd protein that has SH2 domains and regulates binding of PI3-kinase to the PDGF -receptor
+1992|260.0|4.0|Cell|SH2 and SH3 domains: From structure to function
+1993|475.0|5.0|Cell|SH2 Domains Recognize Specific Phosphopeptide Sequences
+1994|243.0|5.0|Cell|Structural basis for the binding of proline-rich peptides to SH3 domains
+1995|234.0|6.0|Journal of Experimental Medicine|Dendritic cells use macropinocytosis and the mannose receptor to concentrate macromolecules in the major histocompatibility complex class II compartment: downregulation by cytokines and bacterial products.
+1996|270.0|6.0|Trends in Biochemical Sciences|Coiled coils: new structures and new functions
+1997|691.0|10.0|Nucleic Acids Research|The PROSITE database, its status in 1997
+1998|239.0|9.0|Nature|Immunoreceptor DAP12 bearing a tyrosine-based activation motif is involved in activating NK cells
+1999|305.0|9.0|Cell|Stat3 as an Oncogene
+2000|211.0|10.0|Trends in Plant Science|The WRKY superfamily of plant transcription factors
+2001|196.0|11.0|Nature|Identification of the cellular receptor for anthrax toxin
+2002|282.0|14.0|Genome Biology|The repertoire of protein kinases encoded in the draft version of the human genome: atypical variations and uncommon domain combinations
+2003|439.0|11.5|Annual Review of Immunology|IRF FAMILY OF TRANSCRIPTION FACTORS AS REGULATORS OF HOST DEFENSE
+2004|249.0|13.0|Circulation|Plasticity of Human Adipose Lineage Cells Toward Endothelial Cells Physiological and Therapeutic Perspectives
+2005|248.0|10.0|Nature Biotechnology|Selecting and screening recombinant antibody libraries.
+2006|347.0|11.0|Nature Reviews Immunology|IRFs: master regulators of signalling by Toll-like receptors and cytosolic pattern-recognition receptors.
+2007|226.0|11.0|Nature Reviews Cancer|Human T-cell leukaemia virus type 1 (HTLV-1) infectivity and cellular transformation
+2008|493.0|12.0|Nature Genetics|Genome-wide association scan in women with systemic lupus erythematosus identifies susceptibility variants in ITGAM, PXK, KIAA1542 and other loci
+2009|335.0|11.0|Nature|Programming cells by multiplex genome engineering and accelerated evolution
+2010|709.0|10.0|Nature|Clinical efficacy of a RAF inhibitor needs broad target blockade in BRAF-mutant melanoma

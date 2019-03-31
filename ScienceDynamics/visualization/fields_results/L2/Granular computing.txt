@@ -1,0 +1,48 @@
+----  Field Name Granular computing: 
+----  Field Level 2.0: 
+----  Field Papers Number 5887:
+----  All time max citation paper: Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives, 2009, (9709.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|2.0|1.0|Journal of Fluid Mechanics|A stability criterion for steady finite amplitude convection with an external magnetic field
+1966|4.0|2.5|Journal of Differential Equations|Liapunov criteria for weak stochastic stability
+1967|5.0|3.5|Geochimica et Cosmochimica Acta|X-Ray diffraction analysis of cohenite from iron meteorites
+1969|4.0|4.0||Failure Criteria for Filamentary Composites.
+1970|3.0|2.5|Synthese|Probabilistic Grammars for Natural Languages.
+1971|0|0.0|Journal of Experimental Child Psychology|A Nonarbitrary Behavioral Criterion for Conservation of Illusion-Distorted Length in Five-Year-Olds.
+1972|8.0|8.0|Econometrica|Weaker Criteria and Tests for Linear Restrictions in Regression
+1973|1.0|1.0|Engineering Fracture Mechanics|The measurements of fracture toughness of ductile materials
+1975|7.0|3.5|Educational Researcher|They Teach Concepts, Dont They?
+1976|5.0|4.5|Journal of School Psychology|Scoring Difficulty of the WPPSI Geometric Design Subtest.
+1977|0|0.0||The Development and Use of Classroom Observation Instruments.
+1980|6.0|5.0|Child Development|Factors Influencing Young Children's Use of Motives and Outcomes as Moral Criteria.
+1981|15.0|3.0|Psychological Bulletin|The Relative Accuracy of Self-Predictions and Judgments by Others in Psychological Assessment.
+1982|3.0|3.0|Journal of Child Psychology and Psychiatry|MOTHERTOINFANT BONDING
+1983|3.0|2.0|Vision Research|Two-criterion threshold techniques: Evidence for separate spatial and temporal mechanisms?
+1984|13.0|3.0|Child Development|Psychopathology in Infancy and Early Childhood: Clinical Perspectives on the Organization of Sensory and Affective-Thematic Experience.
+1985|6.0|2.0|Elementary School Journal|Improving Conditions for Principal Effectiveness: Policy Implications of Research.
+1986|8.0|2.0|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|Comparison of rough-set and statistical methods in inductive learning
+1987|22.0|3.0|Child Development|Causality, Confirmation, Credulity, and Structural Equation Modeling.
+1988|16.0|1.0|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|Rough sets: probabilistic versus deterministic approach
+1989|7.0|2.0|Science Education|Assessing Teaching/Learning Successes in Multiple Domains of Science and Science Education.
+1990|47.0|0.5|Psychological Review|A Theory of Visual Attention.
+1991|18.0|2.0|Ai & Society|Double-level languages and co-operative working
+1992|17.0|4.5|decision support systems|Group decision support with the analytic hierarchy process
+1993|42.0|1.0|Journal of Computer and System Sciences|Variable precision rough set model
+1994|18.0|4.0|European Journal of Operational Research|Rough set approach to multi-attribute decision analysis
+1995|42.0|5.0|American Journal of Obstetrics and Gynecology|Angioarchitecture of monochorionic placentas in relation to the twin-twin transfusion syndrome
+1996|56.0|4.0|Environmental Toxicology and Chemistry|TECHNICAL BASIS AND PROPOSAL FOR DERIVING SEDIMENT QUALITY CRITERIA FOR METALS
+1997|23.0|4.0|Annals of Neurology|The impact of inpatient rehabilitation on progressive multiple sclerosis
+1998|41.0|4.0|Information Sciences|Automated extraction of medical expert system rules from clinical databases based on rough set theory
+1999|110.0|5.0|Intelligence|Emotional intelligence meets traditional standards for an intelligence
+2000|82.0|4.0|IEEE Transactions on Neural Networks|Neuro-fuzzy rule generation: survey in soft computing framework
+2001|83.0|4.0|European Journal of Operational Research|Rough sets theory for multicriteria decision analysis
+2002|94.0|3.0|IEEE Transactions on Neural Networks|Data mining in soft computing framework: a survey
+2003|95.0|5.0|Pattern Recognition Letters|Rough set methods in feature selection and recognition
+2004|100.0|4.0|Methods|Techniques to study amyloid fibril formation in vitro
+2005|120.0|3.0|Annals of the Rheumatic Diseases|Evaluation of clinically relevant changes in patient- reported outcomes in knee and hip osteoarthritis: the Minimal Clinically Important Improvement
+2006|108.0|3.0|Pattern Recognition Letters|Information-preserving hybrid data reduction based on fuzzy-rough techniques
+2007|540.0|2.0|Journal of Clinical Epidemiology|Quality criteria were proposed for measurement properties of health status questionnaires
+2008|231.0|2.0|Journal of Clinical Child and Adolescent Psychology|Evidence-Based Comprehensive Treatments for Early Autism
+2009|8288.0|2.0|Structural Equation Modeling|Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives
+2010|243.0|4.0|Psychological Review|A motivational theory of life-span development.

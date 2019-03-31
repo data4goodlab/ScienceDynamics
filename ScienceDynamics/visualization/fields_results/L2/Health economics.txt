@@ -1,0 +1,49 @@
+----  Field Name Health economics: 
+----  Field Level 2.0: 
+----  Field Papers Number 42321:
+----  All time max citation paper: High-efficiency solution processable polymer photovoltaic cells by self-organization of polymer blends, 2005, (2764.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1968|5.0|4.0|Journal of Economic Theory|EFFICIENCY PRICES IN AN INFINITE-DIMENSIONAL SPACE.
+1969|13.0|4.0||A survey of techniques for recognizing parallel processable streams in computer programs
+1970|0|0.0|College & Research Libraries|Quantitative Management in Libraries.
+1971|4.0|2.0|Information Storage and Retrieval|Computer assisted indexing
+1972|8.0|3.0||Privacy and security in databank systems: measures of effectiveness, costs, and protector-intruder interactions
+1973|23.0|2.0|Journal of the ACM|Benefit-Cost Analysis of Coding Techniques for the Primal Transportation Algorithm
+1974|3.0|1.0|Proceedings of the IEEE|Practical surface acoustic wave devices
+1975|16.0|2.0||Economic analysis of projects
+1976|32.0|1.0|ACM Computing Surveys|Fault Tolerant Operating Systems
+1977|11.0|1.0|Preventive Medicine|Controlling hypertension: A cost-effective model
+1978|24.0|2.0|IEEE Computer|The Honeywell Experimental Distributed Processor &#8211; an Overview
+1979|11.0|2.0|Solar Energy|Performance of combined solar-heat pump systems
+1980|20.0|3.0|Communications of The ACM|Computer assisted instruction: current trends and critical issues
+1981|37.0|1.0|Administrative Science Quarterly|Information in Organizations as Signal and Symbol.
+1982|21.0|1.0|JAMA|Syncope of Unknown Origin: The Need for a More Cost-effective Approach to Its Diagnostic Evaluation
+1983|16.0|1.0|Journal of Behavioral Medicine|Psychological preparation for invasive medical and dental procedures.
+1984|42.0|2.0|The Lancet|A randomised controlled trial of hospice care.
+1985|27.0|2.0|American Journal of Public Health|The cost and effectiveness of school-based preventive dental care.
+1986|40.0|2.0|Journal of Chemical Physics|Theoretical dipole moments for the first-row transition metal hydrides
+1987|65.0|2.0|Chemosphere|Determination of 2,3,7,8-TCDD toxic equivalent factors (TEFs): support for the use of the in vitro AHH induction assay
+1988|56.0|2.0|IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems|SOCRATES: a highly efficient automatic test pattern generation system
+1989|79.0|2.0|symposium on operating systems principles|The Amber system: parallel programming on a network of multiprocessors
+1990|59.0|2.0|JAMA|Long-term Cost-effectiveness of Various Initial Monotherapies for Mild to Moderate Hypertension
+1991|88.0|2.0|Administrative Science Quarterly|Comparative Economic Organization: The Analysis of Discrete Structural Alternatives.
+1992|182.0|2.0|international symposium on computer architecture|Active messages: a mechanism for integrated communication and computation
+1993|84.0|2.0|international symposium on computer architecture|A comparison of dynamic branch predictors that use two levels of branch history
+1994|96.0|2.0|The New England Journal of Medicine|The efficacy and cost effectiveness of vaccination against influenza among elderly persons living in the community.
+1995|100.0|3.0|international symposium on computer architecture|The MIT Alewife machine: architecture and performance
+1996|131.0|3.0|Journal of Chemical Physics|A complete basis set model chemistry. V. Extensions to six or more heavy atoms
+1997|114.0|3.0|Journal of Clinical Epidemiology|Response rates to mail surveys published in medical journals.
+1998|191.0|4.0|Journal of Consulting and Clinical Psychology|Defining empirically supported therapies.
+1999|218.0|4.0|Radiology|Small Hepatocellular Carcinoma: Treatment with Radio-frequency Ablation versus Ethanol Injection
+2000|263.0|5.0|international conference on software engineering|Bandera: extracting finite-state models from Java source code
+2001|156.0|5.0|Demography|Estimating Wealth Effects Without Expenditure DataOr Tears: An Application to Educational Enrollments in States of India
+2002|119.0|5.0|European Urology|Guidelines on bladder cancer.
+2003|280.0|6.0|acm ieee international conference on mobile computing and networking|Range-free localization schemes for large scale sensor networks
+2004|387.0|6.0|Proceedings of the IEEE|An overview of MIMO communications - a key to gigabit wireless
+2005|873.0|6.0|Nature Materials|High-efficiency solution processable polymer photovoltaic cells by self-organization of polymer blends
+2006|430.0|6.0|Nature Biotechnology|Antimicrobial and host-defense peptides as new anti-infective therapeutic strategies
+2007|336.0|6.0|Nature Protocols|Arabidopsis mesophyll protoplasts: a versatile cell system for transient gene expression analysis
+2008|375.0|7.0|Osteoporosis International|European guidance for the diagnosis and management of osteoporosis in postmenopausal women
+2009|454.0|7.0|Nature Materials|Complexity in biomaterials for tissue engineering
+2010|1327.0|8.0|PLOS ONE|Development of a new tacaribe arenavirus infection model and its use to explore antiviral activity of a novel aristeromycin analog

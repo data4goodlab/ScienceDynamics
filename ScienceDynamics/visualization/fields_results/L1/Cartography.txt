@@ -1,0 +1,77 @@
+----  Field Name Cartography: 
+----  Field Level 1.0: 
+----  Field Papers Number 77469:
+----  All time max citation paper: Very high resolution interpolated climate surfaces for global land areas, 2005, (4687.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1930|1.0|0.5|Journal of Hygiene|Beriberi and Other Food-Deficiency Diseases in Newfoundland and Labrador.
+1931|0|0.0|Zoomorphology|Beitr?ge zur morphologie und physiologie der sehorgane der cicindelinen (Col.)
+1933|0|0.0|Protoplasma|I Risultati dell'indagine morfologica e le piu recenti teorie della contrazione muscolare
+1940|3.0|1.0|Annals of Applied Biology|APHIS MIGRATION. AN ANALYSIS OF THE RESULTS OF FIVE SEASONS TRAPPING IN NORTH WALES
+1944|5.0|5.0|Annals of Applied Biology|A two years' survey of the potato aphides in the Northern Agricultural Advisory Province
+1945|0|0.0|JAMA Internal Medicine|Rate of water and heat loss from the respiratory tract of normal subjects in a subtropical climate.
+1946|1.0|1.0|Annals of Applied Biology|A mosaic disease of cowpea (Vigna sinensis Endl.)
+1947|4.0|3.0|Biological Reviews|ANIMAL BREEDING IN RELATION TO NUTRITION AND ENVIRONMENTAL CONDITIONS
+1948|0|0.0|Bulletin of Entomological Research|The common House-fly, Musca domestica , L., and its Behaviour to Temperature and Humidity
+1949|3.0|2.0|Microbiology|The Investigation of Influenza and Related Viruses in the Electron Microscope, by a New Technique
+1950|2.0|0.0|The Biological Bulletin|Adaptation to cold in arctic and tropical mammals and birds in relation to body temperature, insulation, and basal metabolic rate.
+1951|4.0|2.0|Annals of Applied Biology|The Control of Blowflies infesting Slaughter-Houses. I. Field Observations of the Habits of Blowflies.
+1952|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|Sound velocities in some Indian rock specimens
+1953|0|0.0|Journal of Atmospheric and Solar-Terrestrial Physics|Ions and condensation nuclei in the atmosphere, balance of ions and value of cosmic radiation at sea level
+1954|1.0|0.0|Arctic|Limnology in the North American Arctic and Subarctic
+1955|1.0|0.5|Journal of the Physical Society of Japan|ON THE MOMENTUM SPECTRUM OF $mu$-MESONS NEAR SEA-LEVEL AT 24 N
+1956|0|0.0|Journal of the Physical Society of Japan|A Cloud Chamber Study of the Cosmic-Ray Hard Showers
+1957|3.0|1.0|American Heart Journal|Electrocardiographic observations on ten subjects at sea level and during one year of residence at high altitudes
+1958|5.0|0.0|Eos, Transactions American Geophysical Union|The geochemistry of tritium
+1959|0|0.0|Journal of Cell Biology|C14 Assays and Autoradiographic Studies on the Rooster Comb
+1960|25.0|1.0|Microbiology|The genetic control of the enzymes of histidine biosynthesis in Salmonella typhimurium.
+1961|17.0|2.0|Physics and Chemistry of The Earth|Eustatic changes in sea level
+1962|8.0|0.5|The Journal of Geology|Pleistocene Ice Volumes and Sea-Level Lowering
+1963|27.0|4.0|Journal of Geophysical Research|Structure of the crust and upper mantle in the western United States
+1964|29.0|1.0|Journal of Geophysical Research|The significance of paleomagnetic results from Africa
+1965|10.0|1.0|Journal of Geophysical Research|Highenergy solar neutrons: 2. Flux at the Earth
+1966|7.0|2.0|Journal of Geophysical Research|Lunar radar measurements of the Earth's magnetospheric wake
+1967|19.0|1.5|Journal of Geophysical Research|Confinement of a magnetic field by a beam of ions
+1968|32.0|2.0|Science|Sea Levels during the Past 35,000 Years
+1969|21.0|3.5|Journal of Dairy Science|Enzyme and Metabolite Levels in Mammary and Abdominal Adipose Tissue of Lactating Dairy Cows1,2
+1970|33.0|2.0|Journal of Geophysical Research|Flexural rigidity, thickness, and viscosity of the lithosphere
+1971|144.0|2.0|Journal of Geophysical Research|Reykjanes ridge crest: A detailed geophysical study
+1972|19.0|1.0|Deep Sea Research and Oceanographic Abstracts|Southward penetrations of the North Atlantic polar front: faunal and floral evidence of large-scale surface water mass movements over the last 225,000 years
+1973|45.0|3.0|Journal of Geophysical Research|Double ion streams in the solar wind
+1974|27.0|1.0|Quaternary Research|Quaternary sea level fluctuations on a tectonic coast: New 230Th234U dates from the Huon Peninsula, New Guinea
+1975|35.0|2.0|Journal of Geophysical Research|The isostatic state of Martian topography
+1976|73.0|4.5|Journal of Geophysical Research|Ion convection velocity reversals in the dayside cleft
+1977|65.0|3.0|Geophysical Research Letters|The sources of island arcs as indicated by Nd and Sr isotopic studies
+1978|32.0|3.0|Journal of Geophysical Research|On isostatic geoid anomalies
+1979|116.0|3.0|Nature|COMPLETE NUCLEOTIDE SEQUENCE OF SV40 DNA
+1980|29.0|3.0|Journal of Geophysical Research|Pioneer Venus Radar results: Geology from images and altimetry
+1981|57.0|4.0|Geochimica et Cosmochimica Acta|Columbia River volcanism: the question of mantle heterogeneity or crustal contamination
+1982|67.0|3.0|Ophthalmology|Argon Laser Trabeculoplasty in the Presurgical Glaucoma Patient
+1983|51.0|3.0|Developmental Brain Research|Tetrodotoxin inhibits the formation of refined retinotopography in goldfish
+1984|44.0|3.0|Geochimica et Cosmochimica Acta|Isotopic constraints on Columbia River flood basalt genesis and the nature of the subcontinental mantle
+1985|104.0|3.0|The Journal of Comparative Neurology|Compartmentalization of the cat lateral gastrocnemius motor nucleus
+1986|76.0|3.0|Nature|Oxygen isotopes and sea level
+1987|57.0|2.0|Quaternary Science Reviews|Oxygen isotopes, ice volume and sea level
+1988|57.0|2.5|Journal of Geophysical Research|Uplift of the Central Andean Plateau and bending of the Bolivian orocline
+1989|44.0|3.0|Journal of Geophysical Research|Seasonal variability in global sea level observed with Geosat altimetry
+1990|151.0|3.0|international symposium on computer architecture|The directory-based cache coherence protocol for the DASH multiprocessor
+1991|79.0|3.0|Journal of Neurochemistry|Selective Increase of Iron in Substantia Nigra Zona Compacta of Parkinsonian Brains
+1992|96.0|3.0|european conference on computer vision|Camera Self-Calibration: Theory and Experiments
+1993|70.0|3.0|Paleoceanography|On the structure and origin of major glaciation cycles 2. The 100,000year cycle
+1994|93.0|3.0|Journal of Geophysical Research|TOPEX/POSEIDON mission overview
+1995|83.0|3.0|acm ieee international conference on mobile computing and networking|Improving TCP/IP performance over wireless networks
+1996|73.0|3.0|Biogeochemistry|Regional nitrogen budgets and riverine N & P fluxes for the drainages to the North Atlantic Ocean: Natural and human influences
+1997|69.0|4.0||The measured access characteristics of world-wide-web client proxy caches
+1998|114.0|4.0|Journal of Cell Biology|Vascular Endothelial Growth Factor Induces Endothelial Fenestrations In Vitro
+1999|161.0|5.0|Nature|Oceanic forcing of the wintertime North Atlantic Oscillation and European climate
+2000|291.0|6.0|hawaii international conference on system sciences|Energy-efficient communication protocol for wireless microsensor networks
+2001|434.0|6.0|Science|Historical overfishing and the recent collapse of coastal ecosystems
+2002|614.0|6.0|international conference on computer communications|An energy-efficient MAC protocol for wireless sensor networks
+2003|462.0|7.0|Journal of Geophysical Research|Effect of grain size sorting on the formation of shorefaceconnected sand ridges
+2004|992.0|7.0|Nature|EXTINCTION RISK FROM CLIMATE CHANGE
+2005|801.0|8.0|International Journal of Climatology|Very high resolution interpolated climate surfaces for global land areas
+2006|455.0|8.0|Perspectives on Sexual and Reproductive Health|Disparities in Rates of Unintended Pregnancy In the United States, 1994 and 2001
+2007|273.0|8.0|Proceedings of the National Academy of Sciences of the United States of America|Projected distributions of novel and disappearing climates by 2100 AD
+2008|896.0|8.0|Science|A global map of human impact on marine ecosystems.
+2009|911.0|9.0|PLOS ONE|Substantial contribution of submicroscopical Plasmodium falciparum gametocyte carriage to the infectious reservoir in an area of seasonal transmission.
+2010|1340.0|9.0|PLOS ONE|Influence of climate warming on arctic mammals? New insights from ancient DNA studies of the collared lemming Dicrostonyx torquatus.

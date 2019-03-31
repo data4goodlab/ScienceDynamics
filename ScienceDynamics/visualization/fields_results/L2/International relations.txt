@@ -1,0 +1,53 @@
+----  Field Name International relations: 
+----  Field Level 2.0: 
+----  Field Papers Number 9284:
+----  All time max citation paper: Let's Argue!: Communicative Action in World Politics, 2000, (531.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|1.0|1.0|Journal of Conflict Resolution|The function of theory in international relations
+1961|0|0.0|Journal of Social Issues|Current and Needed Psychological Research in International Relations
+1963|2.0|1.0||A discriminant method for automatically classifying documents
+1966|0|0.0||What it Means to Win - A Post World War II Survey
+1968|3.0|1.5|Journal of Conflict Resolution|A structural approach to the analysis of international relations
+1969|1.0|0.5|Technological Forecasting|Forecasting international relations: A proposed investigation of three-mode factor analysis
+1970|0|0.0|Journal of Conflict Resolution|The psychology of conflict and international relations : a course plan and bibliography
+1971|0|0.0|Isotopes in Environmental and Health Studies|DEVELOPMENT OF ISOTOPE AND RADIATION TECHNIQUES IN THE GERMAN DEMOCRATIC REPUBLIC.
+1972|14.0|1.0|Proceedings of the IEEE|Topological optimization of computer networks
+1973|0|0.0|Energy Policy|Energy policy interactions in the United States
+1974|0|0.0|Human Relations|Multinational Corporations and International Professional Associations
+1975|1.0|1.0|Studies in Comparative International Development|Transnational corporations as international political actors
+1976|2.0|0.0|Psychophysiology|Period Analysis of the Electroencephalogram: Normative Data
+1977|7.0|2.0|Studies in Comparative Communism|The Cuban Military in Africa and the Middle East: from Algeria to Angola,
+1978|0|0.0||Satellite Power System (SPS) military implications
+1979|3.0|0.5|Environment and Behavior|Water Resource Preservation: Personal Values and Public Support.
+1980|9.0|4.0|Food Policy|Food insecurity in developing countries
+1981|4.0|0.0|Social Problems|Towards a Conceptualization of Immigrant Labor
+1982|4.0|1.0|Journal of Psycholinguistic Research|Probabilistic Assignments of Sentence Relations on the Basis of Differentially Weighted Interpretive Cues
+1983|6.0|1.0|Management Science|A Corporate System Model of a Sports Club: Using Simulation as an Aid to Policy Making in a Crisis
+1984|3.0|0.5|Social Science & Medicine|National security and the health of people: Human needs and the allocation of scarce resources
+1985|4.0|1.5|IEEE Transactions on Information Theory|A subexponential-time algorithm for computing discrete logarithms over GF(p^2)
+1986|14.0|2.0|Journal of Mathematical Psychology|A theory of information structure. II. A theory of perceptual organization
+1987|8.0|0.5||Hegemonic Stability Theories of the International Monetary System
+1988|12.0|1.0|Journal of Geophysical Research|Marine gravity of the southern ocean and Antarctic margin from Geosat
+1989|16.0|1.5|International Studies Quarterly|Event Count Models for International Relations: Generalizations and Applications
+1990|10.0|1.0|european conference on object oriented programming|Kaleidoscope: mixing objects, constraints, and imperative programming
+1991|14.0|2.0|Development Policy Review|The Role of NGOs in Changing StateSociety Relations: Perspectives from Eastern and Southern Africa
+1992|16.0|1.0|World Development|The IMF, the World Bank and Africa's adjustment and external debt problems: An unofficial view
+1993|13.0|1.0|ieee symposium on security and privacy|Trust relationships in secure systems-a distributed authentication perspective
+1994|13.0|1.0|annual computer security applications conference|Automated detection of vulnerabilities in privileged programs by execution monitoring
+1995|17.0|0.0||What Is Information Warfare?
+1996|27.0|1.0|Journal of Common Market Studies|Exploring the Nature of the Beast: International Relations Theory and Comparative Policy Analysis Meet the European Union
+1997|44.0|1.0|International Organization|Taking Preferences Seriously: A Liberal Theory of International Politics
+1998|69.0|1.0|IEEE Communications Magazine|An architecture for large scale Internet measurement
+1999|131.0|1.0|Journal of Clinical Densitometry|Discordance in Patient Classification Using T-Scores
+2000|97.0|2.0||When Capital Inflows Come to a Sudden Stop: Consequences and Policy Options
+2001|186.0|1.0|Journal of Economic Growth|Growth is Good for the Poor
+2002|58.0|1.0|Journal of Monetary Economics|Institutional causes, macroeconomic symptoms: volatility, crises and growth
+2003|203.0|1.0|high performance distributed computing|Security for Grid services
+2004|78.0|1.0||Cassandra: flexible trust management, applied to electronic health records
+2005|98.0|2.0|international workshop on security|Security and Privacy Issues in E-passports
+2006|228.0|2.0|Nuclear Data Sheets|ENDF/B-VII.0: Next Generation Evaluated Nuclear Data Library for Nuclear Science and Technology
+2007|137.0|2.0|The World Economy|Exports and Productivity: A Survey of the Evidence from Firmlevel Data
+2008|149.0|2.0|Agricultural Economics|Anatomy of a crisis: the causes and consequences of surging food prices
+2009|124.0|2.0|Journal of Financial Economics|Costly External Finance, Corporate Investment, and the Subprime Mortgage Credit Crisis
+2010|119.0|2.0|BMC Genomics|Deletions of Immunoglobulin heavy chain and T cell receptor gene regions are uniquely associated with lymphoid blast transformation of chronic myeloid leukemia

@@ -1,0 +1,57 @@
+----  Field Name Economic forecasting: 
+----  Field Level 2.0: 
+----  Field Papers Number 4465:
+----  All time max citation paper: The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity, 2002, (1567.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1936|1.0|1.0|Botanical Review|The chemistry and physiology of the pectins. II
+1949|0|0.0|Economic Botany|Mycological production of citric acid the submerged culture method
+1951|0|0.0|Economic Botany|Small grains for starch production
+1954|1.0|1.0|Economic Botany|Industrial production and utilization of enzymes from flowering plants
+1955|4.0|2.5|Journal of the Science of Food and Agriculture|The value of certain agricultural, marine and industrial products and byproducts in livestock feeding. II. Nonruminants
+1957|1.0|1.0|Management Science|A Linear Programming Solution to Dynamic Leontief type Models
+1964|0|0.0|Economic Botany|The occurrence and industrial production of Rutin in Southeastern Australia
+1966|0|0.0|IEEE Spectrum|Superconducting thin-film technology and applications
+1967|0|0.0||FOUR PAPERS ON PROBLEMS OF STRATEGY
+1968|0|0.0|Journal of the American Oil Chemists' Society|Tung oil research and development at the southern regional laboratory
+1970|6.0|0.0|Geochimica et Cosmochimica Acta|Sources of geochemical standards-II
+1971|6.0|6.0|IEEE Transactions on Power Apparatus and Systems|An Experimental Alternator With A Superconducting Rotating Field Winding
+1972|2.0|1.0|Regional and Urban Economics|A test of alternative models for projecting county industrial production at the 2, 3, and 4-digit standard industrial code levels
+1973|20.0|3.0|Tellus A|Industrial production of carbon dioxide from fossil fuels and limestone
+1974|22.0|12.5|IEEE Transactions on Computers|The Cost of Developing Large-Scale Software
+1975|30.0|6.5|Reviews of Geophysics|Chlorofluoromethanes in the environment
+1976|1.0|1.0|Journal of Environmental Economics and Management|On the taxation of nonreplenishable natural resources
+1977|5.0|3.0||Perspectives for the international location of the steel industry
+1978|18.0|2.0|IEEE Transactions on Software Engineering|An Analysis of Competing Software Reliability Models
+1979|8.0|0.0|Journal of Econometrics|Market Analysis with Rational Expectations: Theory and Estimation.
+1980|6.0|1.5|Industrial Marketing Management|Industrial Market Segmentation by the Structure of the Purchasing Process
+1981|68.0|1.5|Proceedings of the IEEE|Spectrum analysis&#8212;A modern perspective
+1982|47.0|2.0|ACM Computing Surveys|Computational Approaches to Image Understanding
+1983|3.0|0.0|IEEE Transactions on Power Apparatus and Systems|Evaluation of Economy and/or Security Oriented Objective Functions for Reactive Power Scheduling in Large Scale Systems
+1984|6.0|1.0|Industrial Marketing Management|Criteria for screening new industrial products
+1985|15.0|1.0|Artificial Intelligence|Artificial intelligence and robotics
+1986|9.0|3.0|IEEE Micro|The TX16: A Highly Programmable Multi-microprocessor Architecture
+1987|43.0|3.0|Journal of Econometrics|Interpreting the evidence on money-income causality
+1988|13.0|0.0|Management Science|Lead user analyses for the development of new industrial products
+1989|11.0|1.0|hawaii international conference on system sciences|Use of group decision support systems as an appropriation process
+1990|21.0|1.0|Management Science|The timing of competitive market entry: an exploratory study of new industrial products
+1991|43.0|1.5|IEEE Transactions on Power Systems|Electric load forecasting using an artificial neural network
+1992|23.0|1.0|IEEE Transactions on Software Engineering|Semantically extended dataflow diagrams: a formal specification tool
+1993|33.0|2.0|IEEE Transactions on Power Systems|Neural network based short term load forecasting
+1994|14.0|2.0|Water Air and Soil Pollution|Modeling the Global Society-Biosphere-Climate System: Part 1: Model Description and Testing
+1995|18.0|1.0|Journal of Financial Economics|Increased debt and industry product markets an empirical analysis
+1996|36.0|1.5|Atmospheric Environment|Sulfur hexafluorideA powerful new atmospheric tracer
+1997|56.0|2.0|European Journal of Operational Research|Quantitative models for reverse logistics: A review
+1998|47.0|1.0|Journal of Development Economics|Equity and bond flows to Latin America and Asia: the role of global and country factors
+1999|42.0|3.0|Nature Biotechnology|Conversion of Lactococcus lactis from homolactic to homoalanine fermentation through metabolic engineering
+2000|70.0|3.0|Journal of Geophysical Research|A history of chemically and radiatively important gases in air deduced from ALE/GAGE/AGAGE
+2001|201.0|3.0||Economic Report of the President
+2002|190.0|4.0||The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity
+2003|165.0|4.0|Plant Journal|An enhanced transient expression system in plants based on suppression of gene silencing by the p19 protein of tomato bushy stunt virus
+2004|207.0|4.0|Process Biochemistry|Cyclodextrins and their uses: a review
+2005|216.0|4.0|Toxicology in Vitro|In vitro toxicity of nanoparticles in BRL 3A rat liver cells
+2006|168.0|4.0|Toxicology Letters|Multi-walled carbon nanotubes induce T lymphocyte apoptosis
+2007|110.0|4.0|Journal of Econometrics|Asymptotics for out of sample tests of Granger causality
+2008|110.0|3.0|BMC Genomics|Novel insights into the unfolded protein response using Pichia pastoris specific DNA microarrays
+2009|162.0|2.0|Progress in Organic Coatings|Solgel coatings on metals for corrosion protection
+2010|154.0|6.0|The International Journal of Advanced Manufacturing Technology|Industrial Product-Service Systems (IPS2)

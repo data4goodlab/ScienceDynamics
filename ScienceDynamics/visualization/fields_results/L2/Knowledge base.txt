@@ -1,0 +1,43 @@
+----  Field Name Knowledge base: 
+----  Field Level 2.0: 
+----  Field Papers Number 14874:
+----  All time max citation paper: Absorptive Capacity: A New Perspective on Learning and Innovation, 1990, (9897.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1974|4.0|4.0||Behavioral semantics of nonrecursive control structures
+1975|18.0|6.0|Artificial Intelligence|Production Rules as a Representation for a Knowledge-Based Consultation Program
+1976|23.0|18.0|Memory & Cognition|Short-term memory limitations in children: Capacity or processing deficits?
+1977|12.0|5.0|international joint conference on artificial intelligence|A network-based knowledge representation and its natural deduction system
+1978|7.0|5.0|Memory & Cognition|Hunting for individual differences in cognitive processes: Verbal ability and semantic processing of pictures and words
+1979|127.0|5.0|ACM Transactions on Database Systems|Extending the database relational model to capture more meaning
+1980|12.0|2.0|international conference on management of data|An entity-based database user interface
+1981|62.0|7.0|international joint conference on artificial intelligence|REASONING ABOUT KNOWLEDGE AND ACTION
+1982|41.0|3.0|Cognitive Psychology|Automatic access of the meanings of ambiguous words in context: Some limitations of knowledge-based processing
+1983|59.0|3.0|IEEE Computer|Expert computer systems
+1984|63.0|5.0|Communications of The ACM|Talking to UNIX in English: an overview of UC
+1985|58.0|5.0|IEEE Transactions on Software Engineering|The Programmer's Apprentice: A Session with KBEmacs
+1986|51.0|3.0|international conference on computer graphics and interactive techniques|An object-oriented user interface management system
+1987|60.0|4.0|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|Use of a domain model to drive an interactive knowledge-editing tool
+1988|87.0|2.0|Communications of The ACM|Connectionist expert systems
+1989|64.0|2.0|IEEE Intelligent Systems|Viewing knowledge bases as qualitative models
+1990|125.0|2.0|Educational Researcher|Research on Teaching and Teacher Research: The Issues That Divide
+1991|99.0|2.0|Psychological Review|Probabilistic Mental Models: A Brunswikian Theory of Confidence.
+1992|83.0|2.0|Genomics|A knowledge base for predicting protein localization sites in eukaryotic cells.
+1993|105.0|2.0|Communications of The ACM|Knowledge-based augmented reality
+1994|139.0|2.0|Educational Researcher|Conducting Research on Practice.
+1995|87.0|2.0|Communications of The ACM|CYC: a large-scale investment in knowledge infrastructure
+1996|99.0|2.0|Organization Science|Prospering in Dynamically-Competitive Environments: Organizational Capability as Knowledge Integration
+1997|156.0|2.0|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|The Ontolingua Server: a tool for collaborative ontology construction
+1998|117.0|2.0|national conference on artificial intelligence|Learning to extract symbolic knowledge from the World Wide Web
+1999|91.0|3.0|Proteins|Improved recognition of nativelike protein structures using a combination of sequencedependent and sequenceindependent features of proteins
+2000|488.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Knowledge-based analysis of microarray gene expression data by using support vector machines
+2001|100.0|3.0|Journal of the American College of Cardiology|Epidemiology and natural history of atrial fibrillation: clinical implications.
+2002|216.0|3.0||The theory of composites
+2003|190.0|4.0|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|The evolution of Protg: an environment for knowledge-based systems development
+2004|586.0|4.0|Nucleic Acids Research|The KEGG resource for deciphering the genome
+2005|801.0|3.0|International Journal of Climatology|Very high resolution interpolated climate surfaces for global land areas
+2006|488.0|3.0|Machine Learning|Markov logic networks
+2007|414.0|3.0|international world wide web conferences|Yago: a core of semantic knowledge
+2008|1129.0|3.0|Nucleic Acids Research|KEGG for linking genomes to life and the environment.
+2009|1718.0|3.0|Nucleic Acids Research|The Carbohydrate-Active EnZymes database (CAZy): an expert resource for Glycogenomics
+2010|1005.0|4.0|Nucleic Acids Research|KEGG for representation and analysis of molecular networks involving diseases and drugs.

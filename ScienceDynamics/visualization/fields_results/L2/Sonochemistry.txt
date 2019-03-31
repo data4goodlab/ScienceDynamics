@@ -1,0 +1,38 @@
+----  Field Name Sonochemistry: 
+----  Field Level 2.0: 
+----  Field Papers Number 1941:
+----  All time max citation paper: Applications of Ultrasound to the Synthesis of Nanostructured Materials, 2010, (326.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1974|9.0|9.0|Journal of Cell Biology|INFLUENCE OF GLUTARALDEHYDE AND/OR OSMIUM TETROXIDE ON CELL VOLUME, ION CONTENT, MECHANICAL STABILITY, AND MEMBRANE PERMEABILITY OF EHRLICH ASCITES TUMOR CELLS
+1975|1.0|1.0|Journal of Cell Biology|The relation between sporulation and the induction of antibiotic synthesis and of amino acid uptake in Bacillus brevis.
+1977|2.0|2.0|Journal of Cell Biology|Biochemical and cytochemical evidence for ATPase activity in basal bodies isolated from oviduct.
+1979|1.0|1.0|Biochimica et Biophysica Acta|Inactive 3-hydroxy-3-methylglutaryl-coenzyme A reductase in broken cell preparations of various mammalian tissues and cell cultures.
+1981|0|0.0|Biochimica et Biophysica Acta|Possible effects of the detachment of stromal lamellae from granal stacks on salt-induced changes in spillover. A study by sonication of chloroplasts.
+1982|3.0|3.0|FEBS Letters|Accessibility of glucose 6-phosphate: phosphohydrolase to antibody attack in modified microsomal vesicles
+1984|0|0.0||Stomatal Behaviour after Sonication in Commelina communis,Tradescantia reflexa and Vicia faba
+1985|6.0|2.0|Journal of Cell Biology|Partial disassembly of peroxisomes.
+1986|4.0|4.0|Ultrasonics|Use of ultrasound in chemical synthesis
+1987|6.0|5.0|Journal of Clinical Microbiology|Increased microbial yield from continuous ambulatory peritoneal dialysis peritonitis effluent after chemical or physical disruption of phagocytes.
+1988|3.0|3.0|Journal of Medical Virology|New and sensitive standard cell culture technique for the detection of cytomegalovirus in clinical specimens
+1989|6.0|3.0|Experimental Eye Research|Studies on the nature of the water-insoluble fraction from aged bovine lenses
+1990|6.0|1.0|Journal of Oral Pathology & Medicine|Cytotoxic and immunostimulatory effects of Bacteroides cell products
+1991|0|0.0|Journal of The British Contact Lens Association|Efficacy of an ultraviolet light contact lensdisinfection unit against microbial pathogenic organisms
+1992|25.0|4.0|Free Radical Biology and Medicine|Free radical formation induced by ultrasound and its biological implications.
+1994|19.0|4.0|Electrochimica Acta|Sonoelectrochemistry in aqueous electrolyte: A new type of sonoelectroreactor
+1995|23.0|3.0|Water Research|Chemical and structural (2D) linkage between bacteria within activated sludge flocs
+1996|12.0|2.5|Journal of Materials Chemistry|Ultrasound in materials chemistry
+1997|7.0|3.0|Journal of Experimental Medicine|Mycobacterium tuberculosis chaperonin 10 stimulates bone resorption: A potential contributory factor in Pott's disease
+1998|32.0|5.0|Applied and Environmental Microbiology|Production of Respirable Vesicles Containing LiveLegionella pneumophila Cells by TwoAcanthamoeba spp.
+1999|21.0|4.0|Biophysical Journal|Physical and Biological Properties of Cationic Triesters of Phosphatidylcholine
+2000|25.0|5.0|Analytica Chimica Acta|Sonoelectrochemically enhanced nitrite detection
+2001|31.0|4.0|Journal of Materials Chemistry|Mesoporous titanium dioxide: sonochemical synthesis and application in dye-sensitized solar cells
+2002|33.0|6.0|Journal of Colloid and Interface Science|Sonochemical synthesis of cerium oxide nanoparticles - Effect of additives and quantum size effect
+2003|63.0|7.0|Annual Review of Materials Science|APPLICATIONS OF ULTRASOUND TO MATERIALS CHEMISTRY
+2004|58.0|5.0|Ultrasonics Sonochemistry|Sonodynamic therapya review of the synergistic effects of drugs and ultrasound
+2005|58.0|8.0|Proceedings of the National Academy of Sciences of the United States of America|Dynamic reassembly of peptide RADA16 nanofiber scaffold
+2006|126.0|5.0|Nature Protocols|Chromatin immunoprecipitation and microarray-based analysis of protein location
+2007|78.0|13.0|Journal of Dispersion Science and Technology|Dispersion of Carbon Nanotubes in Liquids
+2008|99.0|12.0|Biomaterials|Sonication-induced gelation of silk fibroin for cell encapsulation.
+2009|168.0|10.0|Advanced Functional Materials|Enhanced Antibacterial Activity of Nanocrystalline ZnO Due to Increased ROSMediated Cell Injury
+2010|326.0|12.0|Advanced Materials|Applications of Ultrasound to the Synthesis of Nanostructured Materials

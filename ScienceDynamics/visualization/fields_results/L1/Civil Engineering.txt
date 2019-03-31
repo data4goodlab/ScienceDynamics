@@ -1,0 +1,63 @@
+----  Field Name Civil Engineering: 
+----  Field Level 1.0: 
+----  Field Papers Number 94639:
+----  All time max citation paper: The rise of graphene, 2007, (9404.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1920|0|0.0|The Lancet|Medical Experiences in Macedonia and the Caucasus. A Lecture Delivered before a Meeting of the Royal Society of Medicine.
+1950|3.0|1.5|Journal of the American Ceramic Society|Preparation, Structure, and Applications of Thin Films of Silicon Monoxide and Titanium Dioxide
+1953|2.0|2.0||Charts relating the compressive buckling stress of longitudinally supported plates to the effective deflectional and rotational stiffness of the supports
+1957|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|AN INTERPRETATION OF THE SOLAR ANISOTROPY OF PRIMARY COSMIC RADIATION
+1958|26.0|26.0|Physics of Fluids|Properties of Gases at Very High Temperatures
+1959|1.0|1.0|Il Nuovo Cimento|THE INTERACTIONS OF POSITIVE K-MESONS WITH NUCLEI IN PHOTOGRAPHIC EMULSION AT ENERGIES IN THE REGION (240 TO 300) Mev
+1960|13.0|2.0|Annals of the New York Academy of Sciences|LOW TEMPERATURE PREPARATION TECHNIQUES FOR ELECTRON MICROSCOPY OF BIOLOGICAL SPECIMENS BASED ON RAPID FREEZING WITH LIQUID HELIUM II
+1961|1.0|1.0|Journal of Dairy Science|Net Energy of Pineapple Bran and Pineapple Hay When Fed to Lactating Dairy Cows1,2
+1962|6.0|0.5|Journal of Chemical Physics|REFLECTION AND DISSOCIATION OF H2 ON TUNGSTEN
+1963|27.0|7.0|Journal of Geophysical Research|Structure of the crust and upper mantle in the western United States
+1964|27.0|3.5|Journal of Geophysical Research|Excitation by local electric fields in the aurora and airglow
+1965|25.0|1.0|Journal of Molecular Biology|Repair of damage induced by a monofunctional alkylating agent in a transformable, ultraviolet-sensitive strain of Bacillus subtilis
+1966|8.0|1.0|Journal of Geophysical Research|Seismic wave attenuation in rock due to friction
+1967|88.0|3.0|Journal of Geophysical Research|Mechanism of earthquakes and nature of faulting on the midoceanic ridges
+1968|12.0|1.0|IEEE Transactions on Information Theory|On a class of majority-logic decodable cyclic codes
+1969|62.0|3.0|Journal of Geophysical Research|Fine structure of the upper mantle
+1970|23.0|2.0|Journal of Geophysical Research|Reflection of PP seismic waves from discontinuities in the mantle
+1971|64.0|1.0|Journal of Geophysical Research|Temperature field and geophysical effects of a downgoing slab
+1972|26.0|1.5|Journal of Geophysical Research|Elasticwave velocities of polycrystalline stishovite
+1973|27.0|2.0|Journal of Molecular Biology|Structural dynamics of bacterial ribosomes: I. Characterization of vacant couples and their relation to complexed ribosomes
+1974|25.0|1.0|Geophysical Research Letters|Deep lunar interior inferred from recent seismic data
+1975|32.0|2.0|Science|Energy and land constraints in food protein production
+1976|26.0|1.0|Journal of Fluid Mechanics|The mixing layer at high Reynolds number: large-structure dynamics and entrainment
+1977|63.0|2.0|Journal of Geophysical Research|The energy release in great earthquakes
+1978|24.0|2.0|Journal of Environmental Economics and Management|Hedonic housing prices and the demand for clean air
+1979|43.0|3.0|Journal of Chemical Physics|Simple bond rupture reactions in multiphoton dissociation of molecules
+1980|42.0|2.0|Contributions to Mineralogy and Petrology|Anhydrous melting of peridotite at 015 Kb pressure and the genesis of tholeiitic basalts
+1981|46.0|1.0|Journal of Geophysical Research|Determination of earthquake source parameters from waveform data for studies of global and regional seismicity
+1982|28.0|2.0|Earth and Planetary Science Letters|Seismicity, normal faulting, and the geomorphological development of the Gulf of Corinth (Greece): the Corinth earthquakes of February and March 1981
+1983|44.0|2.0|Journal of Geophysical Research|Age dependence of oceanic intraplate seismicity and implications for lithospheric evolution
+1984|68.0|1.0|Journal of Geophysical Research|Mapping the upper mantle: Threedimensional modeling of earth structure by inversion of seismic waveforms
+1985|35.0|2.0|Journal of Cell Biology|N-CAM at the vertebrate neuromuscular junction.
+1986|47.0|2.0|Nature|Transition region of the Earth's upper mantle
+1987|37.0|2.0|Landscape Ecology|Neutral models for the analysis of broad-scale landscape pattern
+1988|87.0|2.0|Machine Learning|Queries and Concept Learning
+1989|64.0|2.0|IEEE Intelligent Systems|Viewing knowledge bases as qualitative models
+1990|81.0|2.0|Journal of the American Ceramic Society|Development of Superplastic Structural Ceramics
+1991|70.0|2.0|Communications in Mathematical Physics|On quantum gauge theories in two dimensions
+1992|87.0|2.0|international symposium on computer architecture|T: a multithreaded massively parallel architecture
+1993|73.0|2.0|Geophysical Research Letters|Importance of anelasticity in the interpretation of seismic tomography
+1994|87.0|2.0|Ecology|Beyond global warming: Ecology and global change
+1995|113.0|2.0|Global Change Biology|Terrestrial ecosystems and the carbon cycle
+1996|90.0|2.0|Journal of Geophysical Research|Global mantle shear velocity model developed using nonlinear asymptotic coupling theory
+1997|98.0|2.0|Applied and Environmental Microbiology|Molecular microbial diversity in soils from eastern Amazonia: evidence for unusual microorganisms and microbial population shifts associated with deforestation.
+1998|130.0|3.0|Journal of Geophysical Research|Closing the gap between regional and global travel time tomography
+1999|179.0|3.0|IEEE\/ACM Transactions on Networking|Optimization flow controlI: basic algorithm and convergence
+2000|241.0|4.0|Magnetic Resonance in Medicine|In vivo fiber tractography using DTMRI data
+2001|238.0|3.0|Nature|Recent patterns and mechanisms of carbon exchange by terrestrial ecosystems
+2002|214.0|4.0|Nature|Long-term dendritic spine stability in the adult cortex
+2003|286.0|5.0|Nature Materials|Ferromagnetism above room temperature in bulk and transparent thin films of Mn-doped ZnO
+2004|384.0|5.0|Nature Materials|Giant tunnelling magnetoresistance at room temperature with MgO (100) tunnel barriers
+2005|873.0|5.0|Nature Materials|High-efficiency solution processable polymer photovoltaic cells by self-organization of polymer blends
+2006|533.0|5.0|Nature Materials|A strong regioregularity effect in self-organizing conjugated polymer films and high-efficiency polythiophene:fullerene solar cells
+2007|4087.0|5.0|Nature Materials|The rise of graphene
+2008|1271.0|5.0|Science|Land Clearing and the Biofuel Carbon Debt
+2009|1250.0|5.0|Nature Materials|Understanding biophysicochemical interactions at the nano|[ndash]|bio interface
+2010|901.0|6.0|Renewable & Sustainable Energy Reviews|Biofuels from microalgae--A review of technologies for production, processing, and extractions of biofuels and co-products

@@ -1,0 +1,51 @@
+----  Field Name Oligopoly: 
+----  Field Level 2.0: 
+----  Field Papers Number 13859:
+----  All time max citation paper: Endogenous Technological Change, 1990, (3009.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1957|0|0.0|Nature|Expression of Sex in Flowering Plants
+1961|2.0|2.0|The Journal of Business|Dividend Policy, Growth, and the Valuation of Shares
+1964|4.0|2.0|Journal of Investigative Dermatology|A Study of the Differentiation Products of the Hair Follicle Cells with the Electron Microscope1
+1965|1.0|1.0||Firm Size, Market Structure, Opportunity, and the Output of Patented Inventions
+1970|6.0|6.0|The Economic Journal|Marginal-cost Pricing with Joint Costs
+1971|3.0|1.5|International Journal of Game Theory|The Assignment Game I: The Core
+1972|4.0|2.0||Models for determining least-cost investments in electricity supply
+1973|78.0|1.5|Science|Food production and the energy crisis
+1974|3.0|0.0|Transportation Research|ENERGY AND MATERIALS FLOWS IN THE URBAN SPACE ECONOMY
+1975|19.0|7.0|Journal of Economic Literature|Market Structure and Innovation: A Survey
+1976|11.0|1.5|Economica|Price-Cost Margins and Market Structure
+1977|19.0|3.0|Chemical Geology|Geochemical discrimination of different magma series and their differentiation products using immobile elements
+1978|10.0|1.0|Journal of Public Economics|Product differentiation and performance in insurance markets
+1979|33.0|3.0|Journal of International Economics|Increasing returns, monopolistic competition, and international trade
+1980|35.0|2.0|Journal of International Economics|Intra-industry trade under perfect monopolistic competition
+1981|24.0|2.0|Journal of International Economics|International trade in the presence of product differentiation, economies of scale and monopolistic competition : A Chamberlin-Heckscher-Ohlin approach
+1982|29.0|3.0|Journal of Economic Literature|Market Structure and Multiproduct Industries
+1983|11.0|1.0|Journal of Finance|Economies of Scale and Economies of Scope in Multiproduct Financial Institutions: A Study of British Columbia Credit Unions
+1984|20.0|1.0|Marketing Science|Testing Competitive Market Structures
+1985|21.0|2.0|Journal of Cell Biology|Initial Appearance and Regional Distribution of the Neuron-Glia Cell Adhesion Molecule in the Chick Embryo
+1986|20.0|1.0|Annals of The Association of American Geographers|Industrialization and Urbanization: A Geographical Agenda
+1987|19.0|1.0|Journal of Finance|A Multiproduct Cost Study of Savings and Loans
+1988|17.0|2.0|International Economic Review|Regulating without Cost Information: The Incremental Surplus Subsidy Scheme
+1989|29.0|2.0|Marketing Science|Price-Induced Patterns of Competition
+1990|82.0|3.0|Journal of Political Economy|Endogenous Technological Change
+1991|15.0|2.0|Science|The Economics of Pesticide Use and Regulation
+1992|25.0|1.0|Journal of Investigative Dermatology|Acute or Chronic Topical Retinoic Acid Treatment of Human Skin In Vivo Alters the Expression of Epidermal Transglutaminase, Loricrin, Involucrin, Filaggrin, and Keratins 6 and 13 but not Keratins 1, 10, and 14
+1993|25.0|2.0||Dynamic general equilibrium models with imperfectly competitive product markets
+1994|425.0|2.0|Journal of Applied Physics|Largebandgap SiC, IIIV nitride, and IIVI ZnSebased semiconductor device technologies
+1995|57.0|2.0|Journal of Finance|An Empirical Analysis of the Limit Order Book and the Order Flow in the Paris Bourse
+1996|95.0|2.0|Journal of Financial Economics|Dealer versus auction markets: A paired comparison of execution costs on NASDAQ and the NYSE
+1997|138.0|2.0|Analytical Biochemistry|Product differentiation by analysis of DNA melting curves during the polymerase chain reaction.
+1998|40.0|2.0|Journal of International Economics|Multinational firms and the new trade theory
+1999|186.0|3.0|Nature Genetics|Sox9 is required for cartilage formation.
+2000|101.0|3.0|Proceedings of the IEEE|Rationale and challenges for optical interconnects to electronic chips
+2001|103.0|3.0|Canadian Journal of Economics|Using the gravity equation to differentiate among alternative theories of trade
+2002|190.0|3.0||The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity
+2003|132.0|3.0|Current Biology|Experimental conversion of liver to pancreas
+2004|145.0|4.0|Journal of International Economics|Optimal monetary policy in a currency area
+2005|220.0|3.0|The American Economic Review|The Variety and Quality of a Nation's Exports
+2006|173.0|3.0|The RAND Journal of Economics|Competition in two-sided markets
+2007|190.0|3.0|Journal of Financial Economics|Private credit in 129 countries
+2008|108.0|3.0|Economics Bulletin|Bargaining over Managerial Contracts in Delegation Games: The Differentiated Goods Case
+2009|195.0|3.0|european symposium on research in computer security|Enabling public verifiability and data dynamics for storage security in cloud computing
+2010|157.0|3.0|BMC Public Health|Consumer perceptions of beef healthiness: results from a qualitative study in four European countries

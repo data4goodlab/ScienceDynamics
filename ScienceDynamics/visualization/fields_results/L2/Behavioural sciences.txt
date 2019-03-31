@@ -1,0 +1,52 @@
+----  Field Name Behavioural sciences: 
+----  Field Level 2.0: 
+----  Field Papers Number 3368:
+----  All time max citation paper: Common method biases in behavioral research: a critical review of the literature and recommended remedies., 2003, (7662.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1955|2.0|1.0|Review of Educational Research|Philosophy of the Behavioral Sciences
+1965|4.0|1.0|Human Relations|The Causal Texture of Organizational Environments
+1967|0|0.0|Industrial Relations|The Behavioral Sciences in Industry
+1968|3.0|1.5||Efficiency vs responsiveness in a multiple-services computer facility
+1969|19.0|19.0|Psychometrika|A monte carlo investigation of the statistical significance of Kruskal's nonmetric scaling procedure
+1970|2.0|1.0|Social Psychiatry and Psychiatric Epidemiology|Health care planning for low income urban residents
+1971|5.0|2.0|Physiology & Behavior|Free-operant and T-maze avoidance performance by septal and hippocampal-damaged rats
+1972|1.0|1.0|Journal of School Psychology|The game machine: A technological approach to classroom control
+1973|2.0|2.0|Social Science & Medicine|Behavioral sciences and medical education: The case of sociology
+1974|7.0|0.5|Organizational Behavior and Human Performance|Organizational Structure: A Review of Structural Dimensions and Their Conceptual Relationships with Individual Attitudes and Behavior.
+1975|1.0|1.0|Perceptual and Motor Skills|Cooperative Versus Conflictive Problem Solving in Three Telecommunication Modes.
+1976|11.0|1.0|IEEE Computer|The Improvement of Program Behavior
+1977|3.0|0.0|International Journal of Psychology|Population psychology in perspective(1)
+1978|1.0|0.0|Management Science|A Framework for the Study of Work Settings
+1979|2.0|2.0|Pharmacology, Biochemistry and Behavior|Increasing the rate of ethanol consumption in food- and water-satiated rats
+1980|25.0|4.5|Behavioral Ecology and Sociobiology|Age, coloration and dominance in nonbreeding hummingbirds: A test of the asymmetry hypothesis
+1981|36.0|1.0|ACM Computing Surveys|Human Factors Studies of Database Query Languages: A Survey and Assessment
+1982|11.0|3.0|Behavioral Ecology and Sociobiology|Nestmate recognition and incompatibility between colonies of the acacia-ant Pseudomyrmex ferruginea
+1983|39.0|2.0|Child Development|The Use and Abuse of Environment in Behavior-Genetic Research.
+1984|25.0|2.0|Primates|Learning how to learn: The significance and current status of learning set formation
+1985|74.0|6.5|Brain Research|Memory impairments following basal forebrain lesions.
+1986|10.0|1.0|Behavioural Brain Research|Deficits in spatial-memory tasks following lesions of septal dopaminergic terminals in the rat
+1987|12.0|4.5|Behavioral Ecology and Sociobiology|Facultative polyandry and the role of infant-carrying in wild saddle-back tamarins ( Saguinus fuscicollis )
+1988|20.0|0.5|Brain Research|Age-related deterioration of ability of acquisition in memory and learning in senescence accelerated mouse: SAM-P/8 as an animal model of disturbances in recent memory
+1989|11.0|2.0|hawaii international conference on system sciences|Use of group decision support systems as an appropriation process
+1990|41.0|3.0|Behavioural Brain Research|The effects of forebrain ischaemia on spatial learning
+1991|17.0|2.0|Psychological Science|The Gene Chase in Behavioral Science
+1992|19.0|2.5|IEEE Transactions on Systems, Man, and Cybernetics|Browsing in hypertext: a cognitive study
+1993|9.0|0.0|Journal of Offender Rehabilitation|Examining the effectiveness of in-jail substance abuse treatment
+1994|22.0|3.0||Exploratory sequential data analysis: foundations
+1995|51.0|3.0|Psychological Bulletin|The correspondence bias.
+1996|78.0|6.0|Educational Researcher|Confronting Counsels of Despair for the Behavioral Sciences.
+1997|22.0|2.0|Behavioural Brain Research|Latent inhibition and autonomic respones: a psychophysiological approach
+1998|117.0|2.0|Journal of Educational and Behavioral Statistics|Using SAS PROC MIXED To Fit Multilevel Models, Hierarchical Models, and Individual Growth Models.
+1999|54.0|4.0|Hormones and Behavior|Estrogen Replacement Enhances Acquisition of a Spatial Memory Task and Reduces Deficits Associated with Hippocampal Muscarinic Receptor Inhibition
+2000|30.0|5.0|Behaviour Research and Therapy|Dimensionality of posttraumatic stress symptoms : A confirmatory factor analysis of DSM-IV symptom clusters and other symptom models
+2001|79.0|6.0|Neuroscience & Biobehavioral Reviews|Imitation, mirror neurons and autism
+2002|165.0|7.0|Psychological Bulletin|Risky families: family social environments and the mental and physical health of offspring.
+2003|670.0|5.5|Journal of Applied Psychology|Common method biases in behavioral research: a critical review of the literature and recommended remedies.
+2004|92.0|8.0|Neuroscience & Biobehavioral Reviews|The role of impulsivity in the development of substance use and eating disorders
+2005|155.0|5.0|Nature Reviews Neuroscience|Choosing the greater of two goods: neural currencies for valuation and decision making
+2006|176.0|6.0|American Psychologist|Beyond the Hedonic Treadmill: Revising the Adaptation Theory of Well-Being.
+2007|551.0|5.0|Strategic Management Journal|Explicating dynamic capabilities: the nature and microfoundations of (sustainable) enterprise performance
+2008|2294.0|3.0|Behavior Research Methods|Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple mediator models
+2009|393.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A Survey of Affect Recognition Methods: Audio, Visual, and Spontaneous Expressions
+2010|196.0|3.0|Annual Review of Public Health|The Role of Behavioral Science Theory in Development and Implementation of Public Health Interventions

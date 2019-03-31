@@ -1,0 +1,42 @@
+----  Field Name Pragmatics: 
+----  Field Level 2.0: 
+----  Field Papers Number 2460:
+----  All time max citation paper: Organizational Routines as a Source of Continuous Change, 2000, (432.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|1.0|1.0|IEEE Spectrum|Machine recognition of human language Part I - Automatic speech recognition
+1976|2.0|2.0|Journal of Child Language|Unravelling Competence, Performance and Pragmatics in the Speech of Young Children.
+1977|8.0|8.0|Journal of Verbal Learning and Verbal Behavior|Pragmatics in Memory: A Study of Natural Conversation.
+1978|5.0|4.5|Journal of Verbal Learning and Verbal Behavior|Sentential devices for conveying givenness and newness: A cross-cultural developmental study
+1979|5.0|1.0|Journal of Experimental Child Psychology|Children's Understanding of Definite Descriptions: Pragmatic Inferences to the Speaker's Intent.
+1980|5.0|2.5|Journal of Verbal Learning and Verbal Behavior|Contextual Aspects of Pronoun Assignment.
+1981|3.0|1.5|Anthropology & Education Quarterly|The Consequences of Literacy in Pragmatic and Theoretical Perspectives
+1982|11.0|11.0|Language|Hearers and speech acts
+1983|1.0|0.5|Studies in Second Language Acquisition|Linguistic Systems and Linguistic Change in an Interlanguage
+1984|8.0|3.0|Language in Society|Jewish Argument as Sociability.
+1985|7.0|3.0|Child Development|Pragmatics of Sibling Speech to One Year Olds.
+1986|31.0|3.0|Journal of Memory and Language|A Verb Is Worth a Thousand Words: The Causes and Consequences of Interpersonal Events Implicit in Language.
+1987|11.0|0.5|Applied Psycholinguistics|The resolution of conflicts among competing systems: A bidirectional perspective
+1988|81.0|3.0|Journal of Autism and Developmental Disorders|Social and pragmatic deficits in autism: cognitive or affective?
+1989|8.0|2.5|Child Development|Mental Terms and the Development of Certainty.
+1990|17.0|2.0|Journal of Child Language|On the pragmatics of contrast
+1991|7.0|2.5|Studies in Second Language Acquisition|Research Methods in Interlanguage Pragmatics
+1992|9.0|0.0|Journal of Child Language|Beyond the Basics: Preschool Children Label Objects Flexibly at Multiple Hierarchical Levels.
+1993|26.0|2.0|Journal of Child Language|Comparing communicative competence in child and chimp: the pragmatics of repetition
+1994|7.0|1.5|Cognition|Conversation, Co-ordination and Convention: An Empirical Investigation of How Groups Establish Linguistic Conventions.
+1995|18.0|3.0|Machine Learning|Inductive Policy: The Pragmatics of Bias Selection
+1996|29.0|1.0|Ai Magazine|Steps toward Formalizing Context
+1997|17.0|2.0|Cognition|Conceptual Perspective and Lexical Choice in Acquisition.
+1998|26.0|3.0|international conference on computational logistics|Breaking abstractions and unstructuring data structures
+1999|14.0|1.5|Journal of Pragmatics|What are discourse markers?
+2000|47.0|2.0|Organization Science|Organizational Routines as a Source of Continuous Change
+2001|31.0|3.0|Cognition|When children are more logical than adults: experimental investigations of scalar implicature
+2002|70.0|4.0|IEEE Transactions on Software Engineering|Watermarking, tamper-proofing, and obfuscation - tools for software protection
+2003|68.0|5.0|Language & Communication|Indexical order and the dialectics of sociolinguistic life
+2004|58.0|4.0|international symposium on software testing and analysis|Testing malware detectors
+2005|145.0|7.0|ieee symposium on security and privacy|Semantics-aware malware detection
+2006|52.0|6.0|Neuropsychologia|Brain correlates of discourse processing: an fMRI investigation of irony and conventional metaphor comprehension.
+2007|106.0|5.0|computer and communications security|Attribute-based encryption with non-monotonic access structures
+2008|108.0|4.0|Human Brain Mapping|The extended language network: A metaanalysis of neuroimaging studies on text comprehension
+2009|51.0|4.0|Journal of Autism and Developmental Disorders|Conversational Behaviors in Youth with High-functioning ASD and Asperger Syndrome
+2010|86.0|2.0|Developmental Science|Seventeenmontholds appeal to false beliefs to interpret others referential communication

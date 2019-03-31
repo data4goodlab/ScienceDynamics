@@ -1,0 +1,58 @@
+----  Field Name Astrophysics: 
+----  Field Level 1.0: 
+----  Field Papers Number 25022:
+----  All time max citation paper: Initial sequencing and analysis of the human genome, 2001, (10313.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1958|3.0|3.0|Journal of Applied Physics|HighTemperature Heat Conductivity of Some Metal Oxides
+1960|27.0|4.0|Journal of Mathematical Physics|Invariant Imbedding and Mathematical Physics. I. Particle Processes
+1961|1.0|1.0|Journal of Mathematical Analysis and Applications|Stochastic equations in radiative transfer by invariant imbedding method
+1962|8.0|4.0|Planetary and Space Science|Kinetic properties of interplanetary matter
+1963|6.0|1.0|Geochimica et Cosmochimica Acta|ON THE RADIOACTIVITY OF STONE METEORITES
+1964|19.0|5.0|Geochimica et Cosmochimica Acta|The growth of the Widmansttten pattern in metallic meteorites
+1965|12.0|3.5|Physics of Fluids|Shock Structure in a Radiating, Heat Conducting, and Viscous Gas
+1966|5.0|1.0|Icarus|Estimation of internal source distributions using external field measurements in radiative transfer
+1967|23.0|1.0|Journal of Geophysical Research|Anisotropic nonconservative scattering and the clouds of Venus
+1968|42.0|1.0|Icarus|Infrared optical properties of water and ice spheres
+1969|30.0|1.0|Journal of Geophysical Research|Structure of the Venus and Mars atmospheres
+1970|10.0|1.5|Journal of Plasma Physics|Radiation from a charged particle in a magnetoplasma
+1971|30.0|2.0|Nature|Estimation of Secondary Structure in Ribonucleic Acids
+1972|17.0|1.5|Journal of Geophysical Research|Mariner 6 and 7 Ultraviolet Spectrometer Experiment: Analysis of the O I 1304 and 1356A emissions
+1973|15.0|2.0|IEEE Transactions on Information Theory|Some new algorithms for recursive estimation in constant linear systems
+1974|47.0|4.0|Journal of Geophysical Research|Temperature dependence of some ionospheric ionneutral reactions from 300900K
+1975|557.0|2.0|Nature|Identification of two related pentapeptides from the brain with potent opiate agonist activity
+1976|168.0|10.0|Nature|C fragment of lipotropin has a high affinity for brain opiate receptors
+1977|67.0|5.5|Nature|Role of prostaglandin endoperoxide PGG2 in inflammatory processes
+1978|30.0|2.0|Journal of Geophysical Research|Ion acoustic waves in the solar wind
+1979|22.0|2.0|Icarus|Atmospheric thermal structures of the giant planets
+1980|406.0|4.5|Nature|The role of hormone receptors and GTP-regulatory proteins in membrane transduction.
+1981|26.0|3.0|Icarus|Study of the Ammonia ice cloud layer in the equatorial region of Jupiter from the infrared interferometric experiment on voyager
+1982|25.0|3.0|Reviews of Geophysics|Optical properties of snow
+1983|21.0|2.0|Journal of Geophysical Research|A numerical model of gravity wave breaking and stress in the mesosphere
+1984|34.0|3.0|Icarus|Bidirectional reflectance spectroscopy: 3. Correction for macroscopic roughness
+1985|23.0|2.0|Icarus|Application of a radiative transfer model to bright icy satellites
+1986|24.0|2.0|Reviews of Geophysics|Dust and neutral gas modeling of the inner atmospheres of comets
+1987|37.0|4.0|Remote Sensing of Environment|Relationships between vegetation indices, radiation absorption, and net photosynthesis evaluated by a sensitivity analysis
+1988|33.0|3.0|Applied Optics|Exact Rayleigh scattering calculations for use with the Nimbus-7 Coastal Zone Color Scanner
+1989|29.0|2.0|Applied Optics|Time resolved reflectance and transmittance for the noninvasive measurement of tissue optical properties
+1990|44.0|2.0|Journal of Geophysical Research|Intercomparison and interpretation of climate feedback processes in 19 atmospheric general circulation models
+1991|58.0|1.5|Physics Letters B|Symmetries of cosmological superstring vacua
+1992|52.0|4.0|Remote Sensing of Environment|Vegetation canopy PAR absorptance and the normalized difference vegetation index - An assessment using the SAIL model
+1993|20.0|2.0|IEEE Transactions on Geoscience and Remote Sensing|Calculation of the angular radiance distribution for a coupled atmosphere and canopy
+1994|44.0|2.0|Journal of Geophysical Research|Coherent variations of monthly mean total ozone and lower stratospheric temperature
+1995|55.0|3.0|Journal of Geophysical Research|Seasonal cycle of the residual mean meridional circulation in the stratosphere
+1996|39.0|2.0|Nuclear Physics|The Electroweak Phase Transition: A Non-Perturbative Analysis
+1997|1035.0|30.5|Nature|Functional rafts in cell membranes
+1998|2478.0|35.0|Nature|Dendritic cells and the control of immunity
+1999|798.0|34.0|Nature|Molecular characterization of mitochondrial apoptosis-inducing factor
+2000|1400.0|36.5|Nature|Distinct types of diffuse large B-cell lymphoma identified by gene expressionprofiling
+2001|4579.0|12.0|Nature|Initial sequencing and analysis of the human genome
+2002|1438.0|22.5|Nature|Pluripotency of mesenchymal stem cells derived from adult marrow
+2003|1006.0|20.0|Nature|The International HapMap Project
+2004|1050.0|25.0|Nature|Identification of human brain tumour initiating cells
+2005|1559.0|23.0|Nature|MicroRNA expression profiles classify human cancers.
+2006|1988.0|16.0|Nature|Reciprocal developmental pathways for the generation of pathogenic effector TH17 and regulatory T cells
+2007|1465.0|12.0|Nature|A second generation human haplotype map of over 3.1 million SNPs.
+2008|1601.0|15.0|Nature|Building better batteries
+2009|2934.0|26.0|Nature|Large-scale pattern growth of graphene films for stretchable transparent electrodes
+2010|2096.0|11.0|Nature|A human gut microbial gene catalogue established by metagenomic sequencing

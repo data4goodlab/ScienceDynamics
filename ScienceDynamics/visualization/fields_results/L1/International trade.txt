@@ -1,0 +1,52 @@
+----  Field Name International trade: 
+----  Field Level 1.0: 
+----  Field Papers Number 19472:
+----  All time max citation paper: Profiting from technological innovation: Implications for integration, collaboration, licensing and public policy, 1986, (3262.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1962|1.0|1.0|Kyklos|ECONOMETRIC RESEARCH IN INTERNATIONAL TRADE: A REVIEW
+1964|16.0|8.0|Journal of Geophysical Research|Crustal structure from pacific basin to central Nevada
+1966|2.0|2.0||The Gain from International Trade and Investment : A Neo-Heckscher-Ohlin Approach
+1967|0|0.0|Kyklos|ELASTICITY OPTIMISM IN INTERNATIONAL TRADE
+1969|2.0|2.0|IEEE Transactions on Audio and Electroacoustics|Reading aids for the blind: A special case of machine-to-man communication
+1970|8.0|2.5|Journal of Stored Products Research|The spread of insecticide resistance in Tribolium castaneum (Herbst) (Coleptera, Tenebrionidae).
+1971|5.0|3.0|Journal of International Economics|An isovalue locus involving intermediate goods and its applications to the pure theory of international trade
+1972|1.0|1.0|International Economic Review|Real Wages, Factor Prices and Gain from International Trade
+1973|5.0|1.5|IEEE Transactions on Biomedical Engineering|A Nonstationary Analysis of the Electroencephalogram
+1974|8.0|2.0|Journal of International Economics|Some of the theorems of international trade with many goods and factors
+1975|11.0|2.0|Journal of Geophysical Research|Evidence for highdensity crust and mantle beneath the Chile Trench due to the descending lithosphere
+1976|18.0|2.5|Journal of Economic Literature|The Environment in Economics: A Survey
+1977|33.0|2.5|Journal of Geophysical Research|The moment of inertia and isostasy of Mars
+1978|28.0|2.0|The Economic Journal|Short-Run Capital Specificity and the Pure Theory of International Trade
+1979|33.0|2.0|Journal of International Economics|Increasing returns, monopolistic competition, and international trade
+1980|9.0|2.5|Journal of International Economics|The theorems of international trade with joint production
+1981|24.0|2.0|Journal of International Economics|International trade in the presence of product differentiation, economies of scale and monopolistic competition : A Chamberlin-Heckscher-Ohlin approach
+1982|31.0|1.0|Journal of Geophysical Research|The SEASAT altimeter mean sea surface model
+1983|31.0|2.5|Journal of Geophysical Research|A coupled ice-ocean model of upwelling in the marginal ice zone
+1984|53.0|1.0|The Economic Journal|International Trade Policy for Oligopolistic Industries
+1985|26.0|2.0|Journal of International Economics|Trade and trade policy with imperfect competition: The case of identical products and free entry
+1986|58.0|2.0|Research Policy|Profiting from technological innovation: Implications for integration, collaboration, licensing and public policy
+1987|20.0|1.0||International Macroeconomic Policy Coordination
+1988|47.0|2.0|Journal of Geophysical Research|A new gravitational model for the Earth from satellite tracking data: GEMT1
+1989|33.0|2.0|Journal of Finance|Capital Controls and International Capital Market Segmentation: The Evidence from the Japanese and American Stock Markets
+1990|82.0|1.0|Journal of Political Economy|Endogenous Technological Change
+1991|19.0|2.0|The Economic Journal|The Interface between Environmental and Trade Policies
+1992|40.0|1.0||Cross-Country Patterns of Change in Relative Wages
+1993|33.0|2.0|European Economic Review|International R&D spillovers
+1994|38.0|2.0|Journal of Geophysical Research|Gravity model development for TOPEX/POSEIDON: Joint gravity models 1 and 2
+1995|94.0|1.0|Journal of Economic Perspectives|The Boundaries of Multinational Enterprises and the Theory of International Trade
+1996|295.0|2.0|Geology|Three-dimensional crustal structure of the southern Sierra Nevada from seismic fan profiles and gravity modeling
+1997|74.0|2.0|World Bank Economic Review|Openness and wage inequality in developing countries : the Latin American challenge to east Asian conventional wisdom
+1998|55.0|2.0|Journal of International Money and Finance|Contagion and trade : why are currency crises regional?
+1999|205.0|2.0|Nber Macroeconomics Annual|Trade Policy and Economic Growth: a Skeptic's Guide to Cross-National Evidence
+2000|62.0|2.0|Physics Letters B|Neutrino masses and mixings in non-factorizable geometry
+2001|186.0|3.0|Journal of Economic Growth|Growth is Good for the Poor
+2002|190.0|3.0||The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity
+2003|283.0|3.0|Ssrn Electronic Journal|Governance Matters III: Governance Indicators for 1996-2002
+2004|180.0|3.0|Journal of Economic Literature|Trade Liberalization and Poverty: The Evidence So Far
+2005|143.0|4.0|Journal of International Economics|A simple model of firm heterogeneity, international trade, and wages
+2006|205.0|3.0|Nature|The scaling laws of human travel
+2007|156.0|3.0|Journal of Economic Perspectives|Transportation Costs and International Trade in the Second Era of Globalization
+2008|391.0|3.0|The American Economic Review|Distorted Gravity: The Intensive and Extensive Margins of International Trade
+2009|636.0|3.0|Nature Geoscience|Trends in the sources and sinks of carbon dioxide
+2010|153.0|4.0|Journal of the Royal Society Interface|The complex network of global cargo ship movements

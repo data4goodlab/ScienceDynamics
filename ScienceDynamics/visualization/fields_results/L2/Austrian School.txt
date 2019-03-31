@@ -1,0 +1,47 @@
+----  Field Name Austrian School: 
+----  Field Level 2.0: 
+----  Field Papers Number 9085:
+----  All time max citation paper: Asset stock accumulation and sustainability of competitive advantage, 1989, (3208.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1962|5.0|5.0|Systems Research and Behavioral Science|Measurement of social power, opportunity costs, and the theory of twoperson bargaining games
+1967|0|0.0|Staff Studies|Interest rates and the demand for consumer durable goods
+1970|2.0|1.0|Journal of Experimental Social Psychology|The effects of opportunity costs and target compliance on the behavior of a threatening source
+1971|5.0|2.5|Management Science|A Multiple Product Sales Force Allocation Model
+1974|1.0|1.0|Social Indicators Research|Estimating the cost of children and some results from urban United States
+1975|16.0|16.0||Economic analysis of projects
+1976|4.0|4.0||The consequences of free trade in manufactures between Israel and the EEC
+1977|5.0|1.5|Journal of International Economics|Tariff concessions in the Kennedy Round and the structure of protection in West Germany: An econometric assessment
+1978|12.0|0.5|Review of World Economics|Export incentives and export performance in developing countries : a comparative analysis
+1979|3.0|1.0|Demography|Employment trends of young mothers and the opportunity cost of babies in the United States.
+1980|7.0|1.5|Review of World Economics|Internalization as a general theory of foreign direct investment: A re-appraisal of the literature
+1981|3.0|2.0|Public Choice|The size of government
+1982|9.0|1.0||General Equilibrium and Business Cycles
+1983|9.0|0.5|Land Economics|The Opportunity Cost of Travel Time in Recreation Demand Models
+1984|42.0|2.0|Ethology and Sociobiology|Prestige and reproductive success in man
+1985|15.0|1.0|Journal of Financial Economics|Time preference and capital asset pricing models
+1986|13.0|2.0|Marketing Science|The Impact of Competitive Entry in a Developing Market Upon Dynamic Pricing Strategies
+1987|44.0|2.0|Journal of Economic Perspectives|Is Free Trade Passe?
+1988|28.0|2.0|World Bank Research Observer|Export promoting trade strategy : issues and evidence
+1989|53.0|2.0|Management Science|Asset stock accumulation and sustainability of competitive advantage
+1990|21.0|1.0||Measurable Dynamic Gains from Trade
+1991|11.0|1.0|European Economic Review|International Trade with Endogenous Technological Change
+1992|21.0|2.0|Journal of Economic Perspectives|The Case for Trade Liberalization in Developing Countries
+1993|42.0|1.0|Drug and Alcohol Dependence|Behavioral economics: a novel experimental approach to the study of drug dependence
+1994|37.0|2.0|Quarterly Journal of Economics|North-South Trade and the Environment
+1995|28.0|2.0|The American Economic Review|Trade and Transboundary Pollution
+1996|53.0|2.0|World Bank Research Observer|Some lessons from the East Asian miracle
+1997|74.0|3.0|Journal of Economic Literature|Entrepreneurial Discovery and the Competitive Market Process: An Austrian Approach
+1998|34.0|2.0|Journal of Development Economics|Trade liberalization, market discipline and productivity growth: new evidence from India
+1999|50.0|3.0|World Bank Economic Review|Household Income and Child Schooling in Vietnam
+2000|112.0|3.0|Organization Science|Prior Knowledge and the Discovery of Entrepreneurial Opportunities
+2001|81.0|3.0|African Development Review|A Profile of Poverty in Egypt
+2002|341.0|2.0|Journal of Economic Literature|Time Discounting and Time Preference: A Critical Review
+2003|127.0|3.0|Brookings Papers on Economic Activity|Liberalization, Growth, and Financial Crises: Lessons from Mexico and the Developing World
+2004|180.0|3.0|Journal of Economic Literature|Trade Liberalization and Poverty: The Evidence So Far
+2005|380.0|3.0|Trends in Ecology and Evolution|The role of propagule pressure in explaining species invasions
+2006|180.0|3.0|Water Resources Research|How probability weighting affects participation in water markets
+2007|198.0|3.0|Conservation Biology|The Efficiency of Payments for Environmental Services in Tropical Conservation
+2008|205.0|3.0|Econometrica|Eliciting Risk and Time Preferences
+2009|266.0|3.0|web search and data mining|Diversifying search results
+2010|169.0|3.0|The American Economic Review|Risk and Time Preferences: Linking Experimental and Household Survey Data from Vietnam

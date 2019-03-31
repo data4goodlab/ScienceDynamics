@@ -1,0 +1,47 @@
+----  Field Name Computational statistics: 
+----  Field Level 2.0: 
+----  Field Papers Number 1250:
+----  All time max citation paper: Bootstrap Methods: Another Look at the Jackknife, 1979, (5087.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1954|5.0|5.0||Statistical Computation of Mean Dimensions of Macromolecules. I
+1959|27.0|27.0|Journal of Chemical Physics|New Method for the Statistical Computation of Polymer Dimensions
+1963|3.0|3.0|Journal of Chemical Physics|Statistical Computation of Configuration and Free Volume of a Polymer Molecule with Solvent Interaction
+1966|2.0|2.0|Journal of Allergy|Statistical computation of numerical indices for grading the severity of asthma
+1971|7.0|7.0|Journal of Multivariate Analysis|An overview of multivariate data analysis
+1974|3.0|3.0|Computers and Biomedical Research|Interactive programs for statistical computations and information display in chronic obstructive pulmonary disease research
+1975|2.0|2.0|Journal of Chemical Physics|Repulsive potentials for Na+R and Al+R (R= rare gas atoms) derived from beam experiments
+1976|0|0.0|IEEE Journal of Oceanic Engineering|Estimating coastal design extremes for given risks: A new approach
+1977|0|0.0|Behavior Research Methods|Survey of integrated statistical computer packages
+1978|2.0|2.0|Psychometrika|Robust techniques for testing heterogeneity of variance effects in factorial designs
+1979|64.0|64.0|Annals of Statistics|Bootstrap Methods: Another Look at the Jackknife
+1981|14.0|7.0|Canadian Journal of Statistics-revue Canadienne De Statistique|Nonparametric standard errors and confidence intervals
+1982|33.0|17.5|Water Resources Research|Stochastic modeling of groundwater flow by unconditional and conditional probabilities: 1. Conditional simulation and the direct problem
+1983|2.0|0.0|Marketing Science|Assessing the Reliability of Psychographic Analyses
+1984|7.0|4.0|Annals of Statistics|Jackknife Approximations to Bootstrap Estimates
+1985|82.0|1.0|Psychological Bulletin|MANOVA method for analyzing repeated measures designs: an extensive primer.
+1986|42.0|6.0||Cellular automata machines
+1987|13.0|6.5|Journal of Immunological Methods|Limiting dilution assays: Experimental design and statistical analysis
+1988|10.0|2.0|IEEE Transactions on Computers|Throughput analysis of cache-based multiprocessors with multiple buses
+1989|26.0|3.5|Annals of Statistics|The Jackknife and the Bootstrap for General Stationary Observations
+1990|13.0|1.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|Detecting a transient signal by bispectral analysis
+1991|30.0|1.0|Physics Letters B|B-meson properties from lattice QCD
+1992|106.0|3.0|international symposium on physical design|Testing for nonlinearity in time series: the method of surrogate data
+1993|4.0|1.0|Japan Journal of Industrial and Applied Mathematics|Random partition of a finite set by cycles of permutation
+1994|17.0|4.0|Stochastic Processes and their Applications|Simple conditions for the convergence of the Gibbs sampler and Metropolis-Hastings algorithms
+1995|30.0|1.0|American Journal of Medical Genetics|Association and linkage studies of the TAQI A1 allele at the dopamine D2 receptor gene in samples of female and male alcoholics
+1996|8.0|1.0|Computers & Fluids|Parallel benchmarks of turbulence in complex geometries
+1997|21.0|1.0|IEEE Internet Computing|MMM: a Web-based system for sharing statistical computing modules
+1998|105.0|2.5|IEEE Transactions on Information Theory|Wavelet analysis of long-range-dependent traffic
+1999|13.0|1.0|Analytica Chimica Acta|Application of curve resolution based methods to kinetic data
+2000|109.0|2.0|International Journal of Computer Vision|A Parametric Texture Model Based on Joint Statistics of Complex Wavelet Coefficients
+2001|568.0|2.0|Reviews of Modern Physics|Statistical mechanics of complex networks
+2002|66.0|2.0|Ecological Modelling|GAMs with integrated model selection using penalized regression splines and applications to environmental modelling
+2003|62.0|4.5|Transportation Research Part B-methodological|Simulation estimation of mixed discrete choice models using randomized and scrambled Halton sequences
+2004|109.0|6.0|Computers & Geosciences|Multivariable geostatistics in S: the gstat package
+2005|527.0|7.5|IEEE Transactions on Neural Networks|Survey of clustering algorithms
+2006|85.0|3.0|Trends in Cognitive Sciences|Implicit learning and statistical learning: one phenomenon, two approaches
+2007|252.0|3.0|The Annals of Applied Statistics|Pathwise coordinate optimization
+2008|302.0|6.0|Molecular Ecology Resources|ldne: a program for estimating effective population size from data on linkage disequilibrium
+2009|282.0|4.0|New Journal of Physics|Detecting the overlapping and hierarchical community structure in complex networks
+2010|910.0|5.0|Journal of Statistical Software|Measures of Analysis of Time Series (MATS): A MATLAB Toolkit for Computation of Multiple Measures on Time Series Data Bases

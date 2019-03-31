@@ -1,0 +1,49 @@
+----  Field Name Computational linguistics: 
+----  Field Level 2.0: 
+----  Field Papers Number 2661:
+----  All time max citation paper: Building a large annotated corpus of English: the penn treebank, 1993, (2171.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1967|12.0|12.0|Theory of Computing Systems \/ Mathematical Systems Theory|CONTROL SETS ON GRAMMARS.
+1968|1.0|1.0|Communications of The ACM|Computational linguistics in a Ph.D. computer science program
+1969|36.0|7.5|Communications of The ACM|The teachable language comprehender: a simulation program and theory of language
+1970|36.0|4.5|Communications of The ACM|Transition network grammars for natural language analysis
+1971|6.0|5.0|Journal of Computer and System Sciences|AFL with the semilinear property
+1972|15.0|8.0|Communications of The ACM|Generating English discourse from semantic networks
+1973|12.0|11.0|Artificial Intelligence|Inference and the computer understanding of natural language.
+1974|0|0.0|Communications of The ACM|The equivalence of reducing transition languages and deterministic languages
+1975|10.0|6.5|Communications of The ACM|An intelligent analyzer and understander of English
+1976|35.0|1.0|Cognition|On some supposed contributions of artificial intelligence to the scientific study of language
+1977|5.0|0.0|Cognitive Science|DialogueGames: Metacommunication Structures for Natural Language Interaction
+1978|37.0|4.5|International Journal of Human-computer Studies \/ International Journal of Man-machine Studies|PRUFa meaning representation language for natural languages
+1980|5.0|1.0|Cognitive Science|Conversation as Planned Behavior
+1981|13.0|3.0|meeting of the association for computational linguistics|Transportable natural-language interfaces to databases
+1982|15.0|15.0|national conference on artificial intelligence|A Nonclausal Connection-Graph Resolution Theorem-Proving Program
+1983|28.0|3.0|meeting of the association for computational linguistics|Parsing as deduction
+1984|19.0|0.0|Linguistics and Philosophy|Direct parsing of ID/LP grammars
+1985|15.0|15.0|Linguistics and Philosophy|Evidence Against the Context-Freeness of Natural Language
+1986|110.0|4.0|Computational Linguistics|Attention, intentions, and the structure of discourse
+1987|15.0|0.0||Rhetorical Structure Theory: Description and Construction of Text Structures
+1988|12.0|4.0|meeting of the association for computational linguistics|Conditional descriptions in Functional Unification Grammar
+1989|20.0|2.0||Approaches to the Planning of Coherent Text
+1990|16.0|0.0|Linguistics and Philosophy|The logic of unification in grammar
+1991|6.0|2.0|Information Processing and Management|A thesaural model of information retrieval
+1992|37.0|5.0|IEEE Transactions on Neural Networks|Multilayer perceptron, fuzzy sets, and classification
+1993|87.0|1.5|Computational Linguistics|Building a large annotated corpus of English: the penn treebank
+1994|10.0|1.0||Disconnected Operation in the Thor Object-Oriented Database System
+1995|109.0|3.0|Computational Linguistics|Centering: a framework for modeling the local coherence of discourse
+1996|157.0|3.0|IEEE Transactions on Fuzzy Systems|Fuzzy logic = computing with words
+1997|45.0|4.0|logic in computer science|Towards a mathematical operational semantics
+1998|41.0|1.0||Designing conversation policies using joint intention theory
+1999|44.0|3.0|Cognition|Correlates of linguistic rhythm in the speech signal
+2000|70.0|6.5|Proceedings of the IEEE|Two decades of statistical language modeling: where do we go from here?
+2001|58.0|4.0|working conference on reverse engineering|Identifying similar code with program dependence graphs
+2002|71.0|3.0|IEEE Intelligent Systems|DAML+OIL: an ontology language for the Semantic Web
+2003|132.0|6.0|ACM Transactions on Information Systems|Measuring praise and criticism: Inference of semantic orientation from association
+2004|140.0|3.0||Introduction to the CoNLL-2004 shared task : Semantic role labeling
+2005|242.0|4.0|Computational Linguistics|The Proposition Bank: An Annotated Corpus of Semantic Roles
+2006|81.0|5.0|Computational Linguistics|Similarity of Semantic Relations
+2007|138.0|5.0|international conference on data engineering|Top-k Query Processing in Uncertain Databases
+2008|117.0|3.0||The CoNLL-2008 shared task on joint parsing of syntactic and semantic dependencies
+2009|92.0|2.0||The CoNLL-2009 Shared Task: Syntactic and Semantic Dependencies in Multiple Languages
+2010|156.0|3.0|Cognitive Science|Composition in distributional models of semantics

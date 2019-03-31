@@ -1,0 +1,40 @@
+----  Field Name Agribusiness: 
+----  Field Level 2.0: 
+----  Field Papers Number 2553:
+----  All time max citation paper: An Androgenic Agricultural Contaminant Impairs Female Reproductive Behaviour in a Freshwater Fish, 2013, (1423.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|1.0|1.0||Growth of the Agricultural Firm: Problems and Theories
+1971|1.0|1.0||World Demand Prospects for Grain in 1980: With Emphasis on Trade by the Less Developed Countries
+1974|2.0|2.0||INCORPORATING MULTIPLE GOALS INTO THE DECISION-MAKING PROCESS: A SIMULATION APPROACH TO FIRM GROWTH ANALYSIS
+1976|0|0.0||Decision-Making and Agriculture
+1979|4.0|4.0||Impacts of Climatic Variability in Australian Agriculture: A Review
+1980|0|0.0||A Survey of Methods for Determining A Planning Horizon
+1982|3.0|0.0||Size Economies in Australian Agriculture
+1983|0|0.0||Statistical Cost Analysis of the Existing North Dakota Country Elevator Industry
+1985|0|0.0|Forest Ecology and Management|A simulation model for economic analysis of timber/forage production alternatives in rocky mountain aspen stands
+1986|8.0|1.0|Agricultural Economics|Persistent underinvestment in public agricultural research
+1987|9.0|4.5|Agricultural Economics|On why agriculture declines with economic growth
+1988|6.0|1.0||New Theoretical Approaches to Measuring Industry Performance
+1989|10.0|3.0|Agricultural Economics|Agricultural supply response: A survey
+1990|3.0|1.5|Agriculture, Ecosystems & Environment|Ecological analysis of a cluster of villages emphasising land use of different tribes in Meghalaya in North-East India
+1991|4.0|1.0|Crop Protection|Airborne permethrin and off-target deposits from an aerial ultra-low volume silvicultural spray
+1992|9.0|1.0|Environmental Toxicology and Chemistry|Terrestrial wildlife exposed to agrochemicals: An ecological risk assessment perspective
+1993|8.0|0.0|Human Pathology|Human health effects of agrichemical use
+1994|6.0|1.0|Euphytica|Local seed systems and their importance for an improved seed supply in developing countries
+1995|6.0|1.0||Agriculture and Economic Recovery in African Countries
+1996|7.0|1.0|Water Science and Technology|The occurrence, distribution, and remediation of transient pollution events in agricultural and silvicultural environments
+1997|13.0|2.5|Agricultural Economics|The economic and financial gains from water markets in Chile
+1998|18.0|2.0|Canadian Medical Association Journal|Agricultural use of antibiotics and the evolution and transfer of antibiotic-resistant bacteria
+1999|19.0|1.0|The International Food and Agribusiness Management Review|Global Change In Agrifood Grades And Standards: Agribusiness Strategic Responses In Developing Countries
+2000|24.0|1.0|Agricultural Economics|Agroindustrialization, globalization, and international development: An overview of issues, patterns, and determinants
+2001|33.0|1.0|Agricultural Systems|Organic farming and the sustainability of agricultural systems
+2002|64.0|1.0|Agriculture, Ecosystems & Environment|Field margins in northern Europe: their functions and interactions with agriculture
+2003|49.0|1.0|European Journal of Agronomy|An evaluation of whole-farm nitrogen balances and related indices for efficient nitrogen use
+2004|60.0|2.0|Rural Sociology|New! Improved? The Transformation of the Global Agrifood System*
+2005|87.0|2.0|Journal of Rural Studies|Should We Go ''Home'' to Eat?: Toward a Reflexive Politics of Localism.
+2006|44.0|1.0|Journal of Rural Studies|Injecting social psychology theory into conceptualisations of agricultural agency: Towards a post-productivist farmer self-identity?
+2007|48.0|1.0|Energy Conversion and Management|21st Century's Energy: Hydrogen Energy System
+2008|282.0|1.0|Australian Journal of Botany|'Breathing' of the terrestrial biosphere: lessons learned from a global network of carbon dioxide flux measurement systems
+2009|108.0|2.0|BMC Public Health|Pattern of pesticide storage before pesticide self-poisoning in rural Sri Lanka
+2010|234.0|2.0|PLOS ONE|High Levels of Miticides and Agrochemicals in North American Apiaries: Implications for Honey Bee Health

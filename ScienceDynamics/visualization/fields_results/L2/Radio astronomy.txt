@@ -1,0 +1,81 @@
+----  Field Name Radio astronomy
+----  Field Level 2.0
+----  Field Papers Number 118100
+----  All time max citation paper A simple transmit diversity technique for wireless communications, 1998, (4759.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1927|0|0.0|Protoplasma|THE PERMEABILITY AND THE THICKNESS OF THE PLASMA MEMBRANE AS DETERMINED BY ELECTRIC CURRENTS OF HIGH AND LOW FREQUENCY
+1928|2.0|2.0|Protoplasma|The high frequency wheatstone bridge as a tool in cytological studies : with some observations on the resistance and capacity of the cells of the beet root
+1931|3.0|3.0|Genetica|The chromosome constitution of Cardamine pratensis and Verbascum phoeniceum
+1932|0|0.0||An Experimental and Analytical Investigation of Earthed Receiving Aerials
+1935|0|0.0||A method of exciting the aerial system of a rotating radio beacon
+1936|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|Polarisation of the Raman bands of water and deuterium oxide
+1938|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|Low frequency Raman lines in organic crystals
+1939|0|0.0|Journal of Genetics|Sterility mutations in Drosophila melanogaster
+1940|3.0|1.5|Journal of Chemical Physics|The Vibration Frequencies and Thermodynamic Functions of Long Chain Hydrocarbons
+1942|1.0|1.0|Physica D: Nonlinear Phenomena|On the high frequency rest-susceptibility of chromium-alum
+1945|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|Intensity variations in the first positive and second positive bands of nitrogen excited by high frequency oscillations
+1947|3.0|2.0|Journal of Chemical Physics|InfraRed Spectra of Monomeric Formic Acid and Its Deuterated Forms. I. High Frequency Region
+1948|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|Photometry of Raman spectra of crystals
+1949|36.0|36.0|Journal of Chemical Physics|Classification of Spectra of CataCondensed Hydrocarbons
+1950|20.0|3.5|Journal of Chemical Physics|Structural Investigations by Means of Nuclear Magnetism. II. Hindered Rotation in Solids
+1951|1.0|1.0||Application of the compensation theorem to certain radiation and propagation problems
+1952|9.0|0.5|Journal of Chemical Physics|Nuclear Electric Quadrupole Spectra in Solids
+1953|4.0|0.0|Journal of Atmospheric and Solar-Terrestrial Physics|The heights of ionospheric winds as measured at long radio wavelengths
+1954|13.0|2.0|Journal of Geophysical Research|Recombination in the lower ionosphere
+1955|7.0|3.0|Journal of Geophysical Research|Regularlyobservable aspectsensitive radio reflections from ionization aligned with the Earth's magnetic field and located within the ionospheric layers at middle latitudes
+1956|15.0|2.0|Journal of Chemical Physics|LowFrequency Librations and the Vibrational Spectra of Molecular Crystals
+1957|18.0|5.0|Journal of Chemical Physics|Infrared Studies of Hydrogen Bonding of Methanol by the Matrix Isolation Technique
+1958|4.0|0.0|Journal of Chemical Physics|Determination of the Faradaic Impedance at Solid Electrodes and the Electrodeposition of Copper
+1959|10.0|2.0|American Journal of Cardiology|The displacement vibrocardiogram of the precordium in the low frequency range
+1960|15.0|1.0|Journal of Chemical Physics|Dielectric Relaxation of Polar Liquids
+1961|25.0|1.0|Journal of Applied Physics|Elastic Constants of Single Crystals of the bcc Transition Elements V, Nb, and Ta
+1962|17.0|2.0|Journal of Applied Physics|LowFrequency Negative Resistance in Thin Anodic Oxide Films
+1963|38.0|3.0|Journal of Geophysical Research|A plasma instability resulting in fieldaligned irregularities in the ionosphere
+1964|88.0|2.0|Journal of Geophysical Research|Deformation of the geomagnetic field by the solar wind
+1965|67.0|4.0|Journal of Geophysical Research|Electron and molecular nitrogen temperature and density in the thermosphere.
+1966|121.0|4.0|Journal of Geophysical Research|Limit on stably trapped particle fluxes
+1967|94.0|5.0|Journal of Geophysical Research|OGOA magnetic field observations
+1968|41.0|5.0|Journal of Geophysical Research|Mass spectrometric studies of the composition of the lower thermosphere during summer 1967
+1969|66.0|3.0|Journal of Geophysical Research|A study of polar magnetic substorms
+1970|62.0|4.0|Journal of Geophysical Research|Field-aligned current at 1100 km in the auroral region measured by satellite
+1971|111.0|4.0|Journal of Geophysical Research|Rocket measurements of upper atmospheric nitric oxide and their consequences to the lower ionosphere
+1972|71.0|4.0|Journal of Geophysical Research|Observations of magneticfieldaligned auroralelectron precipitation
+1973|69.0|5.0|Journal of Geophysical Research|Satellite studies of magnetospheric substorms on August 15, 1968: 9. Phenomenological model for substorms
+1974|107.0|4.0|Journal of Geophysical Research|Empirical model of global thermospheric temperature and composition based on data from the Ogo 6 quadrupole mass spectrometer
+1975|53.0|4.0|Journal of Geophysical Research|On the formation of auroral arcs and acceleration of auroral electrons
+1976|116.0|3.0|Journal of Geophysical Research|The amplitude distribution of fieldaligned currents at northern high latitudes observed by Triad
+1977|128.0|3.0|Journal of Geophysical Research|A global thermospheric model based on mass spectrometer and incoherent scatter data MSIS, 2. Composition
+1978|81.0|3.0|Geophysical Research Letters|The latitudinal, diurnal, and altitudinal distributions of upward flowing energetic ions of ionospheric origin
+1979|64.0|3.0|Geophysical Research Letters|Association of lowfrequency waves with suprathermal ions in the upstream solar wind
+1980|47.0|3.0|Journal of Geophysical Research|Generation of largescale regions of auroral currents, electric potentials, and precipitation by the divergence of the convection electric field
+1981|139.0|3.0|Theoretical and Applied Genetics|Somaclonal variation  a novel source of variability from cell cultures for plant improvement
+1982|45.0|3.0|Journal of Geophysical Research|Precipitating electron energy flux and auroral zone conductancesAn empirical model
+1983|107.0|3.0|Journal of Geophysical Research|A Revised thermospheric model based on mass spectrometer and incoherent scatter data: MSIS83
+1984|290.0|3.0|Nature|The CD4 (T4) antigen is an essential component of the receptor for the AIDS retrovirus
+1985|65.0|3.0|Journal of Chemical Physics|Structure and dynamics of the excited CHchromophore in (CF3)3CH
+1986|281.0|3.0|Nature|Selective impairment of learning and blockade of long-term potentiation by an N-methyl-D-aspartate receptor antagonist, AP5.
+1987|74.0|3.0|Journal of Chemical Physics|Subpicosecond resolution studies of solvation dynamics in polar aprotic and alcohol solvents
+1988|129.0|3.0|Genetics|A Stable Genomic Source of P Element Transposase in Drosophila Melanogaster
+1989|46.0|2.0|Planetary and Space Science|Pressure-driven magnetopause motions and attendant response on the ground
+1990|53.0|2.0|Cell|High-frequency P element loss in Drosophila is homolog dependent
+1991|73.0|2.0|Applied Physics Letters|Oscillations up to 712 GHz in InAs/AlSb resonanttunneling diodes
+1992|85.0|2.0|Journal of Chemical Physics|Ultrafast solvent dynamics: Connection between time resolved fluorescence and optical Kerr measurements
+1993|85.0|2.0|Proceedings of the IEEE|The indoor radio propagation channel
+1994|72.0|2.0|Journal of Chemical Physics|Instantaneous normal mode analysis of liquid water
+1995|121.0|3.0|Cell|Suppression of intestinal neoplasia by DNA hypomethylation
+1996|246.0|3.0|Psychological Review|Understanding normal and impaired word reading: computational principles in quasi-regular domains.
+1997|219.0|3.0|Journal of Computational Physics|A numerical method for the study of the circulation of the world ocean
+1998|513.0|3.0|IEEE Journal on Selected Areas in Communications|A simple transmit diversity technique for wireless communications
+1999|383.0|3.0|Circulation Research|Bone Marrow Origin of Endothelial Progenitor Cells Responsible for Postnatal Vasculogenesis in Physiological and Pathological Neovascularization
+2000|1252.0|3.0|Nature|A Toll-like receptor recognizes bacterial DNA
+2001|239.0|4.0|Genome Biology|Functional and phylogenetic analysis of the ubiquitylation system in Caenorhabditis elegans: ubiquitin-conjugating enzymes, ubiquitin-activating enzymes, and ubiquitin-like proteins
+2002|454.0|4.0|Journal of the American College of Cardiology|Guidelines for the ultrasound assessment of endothelial-dependent flow-mediated vasodilation of the brachial artery: a report of the International Brachial Artery Reactivity Task Force
+2003|454.0|4.0|Journal of Geophysical Research|SpreadF/sporadic E coupling at ChungLi, especially for postsunset periods of sunspot maximum years
+2004|507.0|4.0|IEEE Journal on Selected Areas in Communications|Fading relay channels: performance limits and space-time signal design
+2005|317.0|4.0|Journal of Geophysical Research|Electrostatic potentials in the downward auroral current region
+2006|840.0|4.0|Computer Networks|NeXt generation/dynamic spectrum access/cognitive radio wireless networks: a survey
+2007|1049.0|4.0|Science|The genomic landscapes of human breast and colorectal cancers.
+2008|720.0|3.0|PLOS ONE|The Male Sex Pheromone of the Butterfly Bicyclus anynana : Towards an Evolutionary Analysis
+2009|531.0|3.0|Journal of Geophysical Research|Role of offshelf to onshelf transitions for East Antarctic sea ice dynamics during spring 2003
+2010|703.0|4.0|Journal of Geophysical Research|Impact of atmospheric turbulence on geodetic very long baseline interferometry

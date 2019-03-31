@@ -1,0 +1,58 @@
+----  Field Name Field research: 
+----  Field Level 2.0: 
+----  Field Papers Number 13422:
+----  All time max citation paper: A Theoretical Extension of the Technology Acceptance Model: Four Longitudinal Field Studies, 2000, (3780.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1958|0|0.0|Annals of Human Genetics|MUSCULAR DYSTROPHY IN CHILDHOOD. THE GENETIC ASPECT.: A FIELD STUDY IN THE LEEDS REGION OF CLINICAL TYPES AND THEIR INHERITANCE
+1959|2.0|2.0|Parasitology|Field studies on the seasonal incidence of Nematodirus battus and N. filicollis in sheep
+1960|3.0|3.0|American Journal of Potato Research|Sprouting, plant growth, and tuber production as affected by chemical treatment of white potato seed pieces. 2. Effect of temperature and time of treatment with gibberellic acid.
+1961|13.0|1.0|Journal of Geophysical Research|The paleomagnetism of the New Jersey Triassic: A field study of the inclination error in red sediments
+1962|12.0|12.0|Annals of the New York Academy of Sciences|A FIELD STUDY OF THE SOCIOBIOLOGY OF RHESUS MONKEYS, MACACA MULATTA*
+1963|5.0|5.0|Cell and Tissue Research|The hypothalamo-hypophysial neuro secretory system of the zebra finch, Taeniopygia castanotis
+1965|0|0.0|Journal of Chronic Diseases|Applications of field studies to research on the physiology of human reproduction Lactation and its effects upon birth intervals in eleven Punjab villages, India
+1966|1.0|0.0|American Journal of Potato Research|EFFECT OF SOIL APPLICATIONS OF POTASSIUM, MAGNESIUM SULFATE AND MAGNESIUM SULFATE SPRAY ON POTATO YIELD, COMPOSITION AND NUTRIENT UPTAKE 1
+1967|7.0|7.0|Comparative Biochemistry and Physiology|An electrophysiological field study of hearing in fish
+1968|5.0|4.0|Animal Behaviour|Short-term effects of weather on bird migration: A field study using multivariate statistics
+1969|5.0|2.5|Electroencephalography and Clinical Neurophysiology|Field studies of averaged visually evoked EEG potentials in a patient with a split chiasm
+1970|16.0|2.5|Parasitology|A field study of nematode parasite populations in the lactating ewe.
+1971|5.0|0.0|Journal of Experimental Marine Biology and Ecology|Podon polyphemoides Leuckart and Bosmina coregoni maritima (P. E. Mller) in relation to temperature and salinity in field studies and laboratory experiments
+1972|12.0|1.0|Journal of Geophysical Research|Metalion concentrations in seasurface microlayer and sizeseparated atmospheric aerosol samples in Hawaii
+1973|9.0|3.0|Netherlands Journal of Sea Research|Theoretical, experimental and field studies concerning reactions of radioisotopes with sediments and suspended particles of the sea Part C: Applications to field studies
+1974|7.0|2.0|Journal of Geophysical Research|Cinder cone growth modeled after Northeast Crater, Mount Etna, Sicily
+1975|20.0|2.5|Journal of Dairy Science|Fertility in New York Artificially Inseminated Holstein Herds in Dairy Herd Improvement
+1976|10.0|2.0|Journal of Applied Psychology|Effect of Performance Feedback and Goal Setting on Productivity and Satisfaction in an Organizational Setting.
+1977|13.0|4.0|Atmospheric Environment|Urban-nonurban relationships of halocarbons, SF6, N2O, and other atmospheric trace constituents
+1978|12.0|2.0|Journal of Geophysical Research|Eddies, islands, and mixing
+1979|23.0|3.0|Nature|The surface charge of suspended particles in estuarine and coastal waters
+1980|61.0|2.0|Psychological Bulletin|Goal Setting and Task Performance: 1969-1980
+1981|21.0|2.5|Philosophical Transactions of the Royal Society B|The Population Dynamics of Microparasites and Their Invertebrate Hosts
+1982|36.0|3.0|Water Resources Research|Porous media equivalents for networks of discontinuous fractures
+1983|28.0|3.0|The Journal of Geology|Development of pull-apart basins
+1984|39.0|3.0|Water Resources Research|FluxAveraged and VolumeAveraged Concentrations in Continuum Approaches to Solute Transport
+1985|42.0|3.0|Water Resources Research|Modeling the Effects of Acid Deposition: Estimation of LongTerm Water Quality Responses in a Small Forested Catchment
+1986|26.0|2.0|Water Resources Research|A natural gradient experiment on solute transport in a sand aquifer: 4. Sorption of organic solutes and its influence on mobility
+1987|24.0|4.0|international conference on software engineering|On building software process models under the lamppost
+1988|89.0|2.0|Communications of The ACM|A field study of the software design process for large systems
+1989|39.0|2.0|decision support systems|Experience at IBM with group support systems: A field study
+1990|26.0|2.0|Tectonics|Uplift of deep crust during orogenic extensional collapse: A model based on field studies in the SognSunnfjord Region of western Norway
+1991|52.0|2.0|Plant Cell and Environment|The effects of increasing CO2 on crop photosynthesis and productivity: a review of field studies
+1992|42.0|3.0|Ethology|Ecological and Social Factors Affecting the Vocal Behavior of Adult Female Squirrel Monkeys
+1993|34.0|3.0|Earth-Science Reviews|Iron and manganese in lakes
+1994|56.0|3.0|conference on computer supported cooperative work|Augmenting the organizational memory: a field study of answer garden
+1995|98.0|3.0|Environmental Management|Incidence of Adverse Biological Effects Within Ranges of Chemical Concentrations in Marine and Estuarine Sediments
+1996|54.0|4.0|conference on computer supported cooperative work|Walking away from the desktop computer: distributed collaboration and mobility in a product design team
+1997|77.0|4.0|Theriogenology|In vitro produced and cloned embryos: Effects on pregnancy, parturition and offspring
+1998|159.0|4.0|Nature|Inbreeding and extinction in a butterfly metapopulation
+1999|196.0|5.0|Management Information Systems Quarterly|A set of principles for conducting and evaluating interpretive field studies in information systems
+2000|294.0|5.0|Management Science|A Theoretical Extension of the Technology Acceptance Model: Four Longitudinal Field Studies
+2001|108.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|The structure of scientific collaboration networks
+2002|55.0|7.0|Atmospheric Environment|The water-soluble ionic composition of PM2.5 in Shanghai and Beijing, China
+2003|237.0|7.0|Annual Review of Microbiology|The Uncultured Microbial Majority
+2004|160.0|6.0|Management Science|Work Groups, Structural Diversity, and Knowledge Sharing in a Global Organization
+2005|129.0|8.0|Administrative Science Quarterly|Creating Something from Nothing: Resource Construction through Entrepreneurial Bricolage
+2006|207.0|7.0|Nature Biotechnology|Transgenic crops expressing Bacillus thuringiensis toxins and biological control.
+2007|359.0|7.0|Science|Rethinking Organic Aerosols: Semivolatile Emissions and Photochemical Aging
+2008|260.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|Interaction ruling animal collective behavior depends on topological rather than metric distance: Evidence from a field study
+2009|209.0|8.0|BMJ|Association between change in high density lipoprotein cholesterol and cardiovascular disease morbidity and mortality: systematic review and meta-regression analysis
+2010|1326.0|8.0|PLOS ONE|Ambient temperature influences Australian native stingless bee (Trigona carbonaria) preference for warm nectar.

@@ -1,0 +1,26 @@
+----  Field Name Multimethodology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1902:
+----  All time max citation paper: Combining IS Research Methods: Towards a Pluralist Methodology, 2001, (431.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1977|0|0.0|Mathematics of Computation|A least squares decomposition method for solving elliptic equations
+1980|9.0|9.0|Mathematics of Computation|Analysis of mixed methods using mesh dependent norms
+1991|23.0|23.0|SIAM Journal on Numerical Analysis|Error analysis of some Galerkin least squares methods for the elasticity equations
+1992|1.0|1.0|Siam Journal on Scientific and Statistical Computing|A comparison of three mixed methods for the time-dependent Maxwell's equations
+1994|0|0.0|Mathematics of Computation|Remarks on mixed finite element methods for problems with rough coefficients
+1996|0|0.0|Applied Mathematics Letters|Some observations on mixed methods for fully nonlinear parabolic problems in divergence form
+1997|22.0|13.0|Omega-international Journal of Management Science|Multimethodology: Towards a framework for mixing methodologies
+1998|3.0|3.0|Mathematics of Computation|Multigrid and multilevel methods for nonconforming  elements
+1999|5.0|3.5|Mathematics of Computation|Approximation of the vibration modes of a plate by Reissner-Mindlin equations
+2000|14.0|8.5|Journal of Advanced Nursing|An exploration of the epistemological intricacies of using qualitative data to develop a quantitative measure of user views of health care
+2001|92.0|9.0|Information Systems Research|Combining IS Research Methods: Towards a Pluralist Methodology
+2002|4.0|2.0|Research in Nursing & Health|Theory building through mixed-method evaluation of a dementia special care unit.
+2003|25.0|7.0|Information Systems Journal|The paucity of multimethod research: a review of the information systems literature
+2004|73.0|9.0|European Journal of Operational Research|Problem structuring methods in action
+2005|25.0|7.5||Combining the Quantitative and Qualitative Approaches to Poverty Measurement and Analysis
+2006|26.0|8.0|Nursing Inquiry|Case study: a bridge across the paradigms.
+2007|28.0|7.0|Health & Place|Determinants of variation in food cost and availability in two socioeconomically contrasting neighbourhoods of Hamilton, Ontario, Canada.
+2008|25.0|6.5|Health Policy|Give me a break!: Informal caregiver attitudes towards respite care
+2009|148.0|5.0|Quality & Quantity|A typology of mixed methods research designs
+2010|67.0|5.0|European Journal of Operational Research|A Review of the Recent Contribution of Systems Thinking to Operational Research and Management Science

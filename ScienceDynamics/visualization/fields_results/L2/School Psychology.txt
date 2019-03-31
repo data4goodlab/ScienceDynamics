@@ -1,0 +1,49 @@
+----  Field Name School Psychology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1143:
+----  All time max citation paper: A Promising Approach for Expanding and Sustaining School-Wide Positive Behavior Support, 2006, (146.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1968|3.0|2.0|Journal of School Psychology|Behavior therapy in the classroom: A case report
+1969|1.0|1.0|Journal of School Psychology|The present status of school of psychology as a major sub-discipline
+1970|3.0|2.0|Journal of School Psychology|Who is a school psychologist? (and what does he do?)
+1971|1.0|1.0|Journal of School Psychology|Should schools have psychologists?
+1972|4.0|0.0|Behavior Therapy|A school behavior modification program: Teacher attitudes a year later
+1973|6.0|1.0|Psychology in the Schools|The reinforcement hierarchy
+1974|8.0|1.5|Journal of School Psychology|Training the school psychologist for consultation
+1975|7.0|2.5|Journal of School Psychology|Separate Factor Analyses of the McCarthy Scales For Groups of Black and White Children.
+1976|14.0|2.0|Journal of School Psychology|Consultant skill and efficiency and the implementation and outcomes of consultation
+1977|8.0|1.5|Journal of School Psychology|Priority Roles for School Psychologists as Seen by Superintendents.
+1978|19.0|1.0|Journal of School Psychology|School Psychologists at Three-Quarters Century: Congruence Between Training, Practice, Preferred Role and Competence.
+1979|8.0|2.0|Journal of School Psychology|Evaluating programs in applied settings through behavioral consultation
+1980|7.0|2.0|Journal of School Psychology|Teacher reactions to school-based consultation services: A multivariate analysis
+1981|10.0|2.0|Journal of School Psychology|Assessment of children's social skills
+1982|3.0|1.0|Journal of School Psychology|Utilization of program evaluation information in public schools: Perspectives and guidelines for school psychologists
+1983|6.0|1.5|Journal of School Psychology|A fresh look at the retention-promotion controversy
+1984|2.0|1.0|Journal of School Psychology|School Psychology and Limited-English-Proficient (LEP) Children: New Competencies.
+1985|5.0|1.0|Psychology in the Schools|What Reasons are Given by Teachers Who Refer Problem Behavior Students?.
+1986|4.0|1.0|Journal of School Psychology|Training Teachers in Behavioral Consultation and Therapy: An Analysis of Verbal Behaviors.
+1987|9.0|1.0|Journal of School Psychology|Consumers' and Clients' Pretreatment Acceptability Ratings of Classroom Group Contingencies.
+1988|6.0|1.0|Psychology in the Schools|A National Survey of Burnout among School Psychologists.
+1989|5.0|1.0|Review of Educational Research|Childrens Anxiety and Phobic Disorders in School Settings: Classification, Assessment, and Intervention Issues
+1990|7.0|1.0|Journal of School Psychology|Reconceptualizing School Psychology from a Service Delivery Perspective: Implications for Practice, Training, and Research.
+1991|3.0|1.0|Psychology in the Schools|Characteristics of Children Referred to School Psychologists: A Discriminant Analysis.
+1992|7.0|0.0|Journal of School Psychology|Behavioral Parent-Teacher Consultation: Conceptual and Research Considerations.
+1993|7.0|1.0|Journal of School Psychology|Consultant Directiveness and Support as Predictors of Consultation Outcomes.
+1994|3.0|0.0|Journal of School Psychology|Acceptability of Curriculum-Based Assessment by School Psychologists.
+1995|3.0|2.0|Journal of School Psychology|Why Didn't--Why Doesn't--School Psychology Realize Its Promise?.
+1996|7.0|1.5|School Psychology Quarterly|Innovative Methodology in Ecological Consultation: Use of Scripts to Promote Treatment Acceptability and Integrity.
+1997|2.0|0.0|Journal of School Psychology|The application of persuasion research to consultation in school psychology
+1998|17.0|2.0|Journal of School Psychology|The Other Side of School Violence: Educator Policies and Practices That May Contribute to Student Misbehavior
+1999|15.0|1.5|Clinical Psychology Review|Toward collaboration in the growing educationmental health interface
+2000|15.0|3.5|Psychology in the Schools|Role change for school psychology: The challenge continues in the new millennium
+2001|20.0|4.5|Journal of School Psychology|Further Support for the Developmental Significance of the Quality of the TeacherStudent Relationship
+2002|47.0|4.0|School Psychology Quarterly|Evidence-Based Interventions in School Psychology: Conceptual Foundations of the Procedural and Coding Manual of Division 16 and the Society for the Study of School Psychology Task Force.
+2003|23.0|5.0|School Psychology Review|Bullies and Victims in the Peer Ecology: Four Questions for Psychologists and School Professionals.
+2004|29.0|4.0|Journal of the American Academy of Child and Adolescent Psychiatry|Have There Been Changes in Children's Psychiatric Symptoms and Mental Health Service Use? A 10-Year Comparison from Finland.
+2005|39.0|3.0|School Psychology Review|Understanding the Effects of Physical and Relational Victimization: The Utility of Multiple Perspectives in Predicting Social-Emotional Adjustment
+2006|60.0|7.0|School Psychology Review|A Promising Approach for Expanding and Sustaining School-Wide Positive Behavior Support
+2007|55.0|4.0|School Psychology Quarterly|An Array of Qualitative Data Analysis Tools: A Call for Data Analysis Triangulation.
+2008|109.0|4.0|Child & Family Behavior Therapy|The evolution of discipline practices: School-wide positive behavior supports
+2009|40.0|4.5|Journal of Special Education|Reported Prevalence of Evidence-Based Instructional Practices in Special Education.
+2010|141.0|4.0|Educational Researcher|What Can Be Done About School Bullying? Linking Research to Educational Practice

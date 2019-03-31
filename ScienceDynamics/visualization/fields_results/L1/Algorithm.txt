@@ -1,0 +1,64 @@
+----  Field Name Algorithm: 
+----  Field Level 1.0: 
+----  Field Papers Number 200395:
+----  All time max citation paper: MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods., 2011, (17325.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1939|0|0.0|Journal of Symbolic Logic|On the reduction of the decision problem. First paper. Ackermann prefix, a single binary predicate
+1944|3.0|3.0|Bulletin of the American Mathematical Society|Recursively enumerable sets of positive integers and their decision problems
+1951|0|0.0||Transonic Flow past a Wedge Profile with Detached Bow Wave : Details of Analysis
+1953|9.0|6.0|Journal of Chemical Physics|ELECTRONIC STATES OF DIATOMIC MOLECULES: THE OXYGEN MOLECULE
+1956|0|0.0||Theoretical pressure distributions for some slender wing-body combinations at zero lift
+1957|0|0.0|Proceedings of The Indian Academy of Sciences-mathematical Sciences|Emission spectrum of bromine excited in the presence of argon. Part I
+1959|3.0|1.5||THE EPILITHIC ALGAL COMMUNITIES OCCURRING ALONG THE COAST OF THE NETHERLANDS
+1960|27.0|1.0|Journal of Mathematical Physics|Invariant Imbedding and Mathematical Physics. I. Particle Processes
+1961|8.0|1.0|Transactions of the American Mathematical Society|Decision problems of finite automata design and related arithmetics
+1962|8.0|5.0|Physics of Fluids|Collision Integrals for the Transport Properties of Dissociating Air at High Temperatures
+1963|21.0|1.0|Journal of Molecular Biology|The alkaline transition of BU-containing DNA and its bearing on the replication of DNA
+1964|4.0|0.0|Proceedings of The Institution of Electrical Engineers|Numerical techniques in solution of power-system load-flow problems
+1965|39.0|2.0|Transactions of the American Mathematical Society|On the computational complexity of algorithms
+1966|9.0|2.0|Proceedings of the IEEE|AEDNET: A simulator for nonlinear networks
+1967|7.0|3.0|IEEE Transactions on Electronic Computers|Digital Real-Time Spectral Analysis
+1968|10.0|2.0|Journal of the ACM|Analysis of Two Time-Sharing Algorithms Designed for Limited Swapping
+1969|26.0|2.0|Operations Research|An Appraisal of Some Shortest-Path Algorithms
+1970|12.0|2.0|Polymer Journal|Light-Scattering Patterns from Collagen Films in Relation to the Texture of a Random Assembly of Anisotropic Rods in Three Dimensions
+1971|74.0|2.0|symposium on the theory of computing|The complexity of theorem-proving procedures
+1972|18.0|2.0|Journal of the ACM|Recursive Properties of Abstract Complexity Classes
+1973|29.0|2.0|symposium on the theory of computing|Word problems requiring exponential time(Preliminary Report)
+1974|52.0|2.0|ACM Computing Surveys|A Characterization of Ten Hidden-Surface Algorithms
+1975|23.0|2.0|Journal of the ACM|On the Structure of Polynomial Time Reducibility
+1976|62.0|2.0|Science|Cooperative Computation of Stereo Disparity
+1977|36.0|2.0|Biological Cybernetics|Analysis of a Cooperative Stereo Algorithm,
+1978|63.0|3.0|Cognitive Science|Diagnostic Models for Procedural Bugs in Basic Mathematical Skills
+1979|59.0|2.0|ACM Transactions on Database Systems|Computational problems related to the design of normal form relational schemas
+1980|210.0|3.0|Behavioral and Brain Sciences|Methodological solipsism considered as a research strategy in cognitive psychology
+1981|251.0|2.0|Science|The framing of decisions and the psychology of choice
+1982|50.0|3.0|Communications of The ACM|Plane-sweep algorithms for intersecting geometric figures
+1983|107.0|2.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|On the Foundations of Relaxation Labeling Processes
+1984|115.0|3.0|Artificial Intelligence|Qualitative process theory
+1985|136.0|3.0|Behavioral and Brain Sciences|Four frames suffice: A provisional model of vision and space
+1986|87.0|3.0|Journal of the ACM|How to construct random functions
+1987|172.0|3.0|Artificial Intelligence|Planning for conjunctive goals
+1988|93.0|3.0|design automation conference|Tutorial on high-level synthesis
+1989|110.0|2.0|ACM Computing Surveys|The family of concurrent logic programming languages
+1990|176.0|2.0|neural information processing systems|The cascade-correlation learning architecture
+1991|120.0|3.0||Performance analysis of k -ary n -cube interconnection networks
+1992|221.0|3.0|IEEE Transactions on Image Processing|Image coding using wavelet transform
+1993|264.0|3.0|IEEE Transactions on Signal Processing|Embedded image coding using zerotrees of wavelet coefficients
+1994|248.0|3.0|Signal Processing|Independent component analysis, a new concept?
+1995|207.0|2.0|Proceedings of the IEEE|Human and machine recognition of faces: a survey
+1996|414.0|2.0|IEEE Transactions on Circuits and Systems for Video Technology|A new, fast, and efficient image codec based on set partitioning in hierarchical trees
+1997|166.0|2.0|IEEE Transactions on Medical Imaging|Multimodality image registration by maximization of mutual information
+1998|587.0|3.0|IEEE Transactions on Information Theory|Space-time codes for high data rate wireless communication: performance criterion and code construction
+1999|681.0|4.0|IEEE Transactions on Information Theory|Space-time block codes from orthogonal designs
+2000|561.0|3.0|Genetics|Inference of Population Structure Using Multilocus Genotype Data
+2001|1006.0|4.0|American Journal of Human Genetics|A New Statistical Method for Haplotype Reconstruction from Population Data
+2002|967.0|4.0|Genome Biology|Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes
+2003|1683.0|5.0|Systematic Biology|A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood.
+2004|1580.0|5.0|Nucleic Acids Research|MUSCLE: multiple sequence alignment with high accuracy and high throughput.
+2005|1030.0|5.0|Journal of Computational Chemistry|Scalable molecular dynamics with NAMD.
+2006|582.0|4.0|IEEE Journal on Selected Areas in Communications|A simple Cooperative diversity method based on network path selection
+2007|977.0|4.0|Applied and Environmental Microbiology|Naive Bayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy.
+2008|1612.0|3.0|Genome Research|Velvet: Algorithms for de novo short read assembly using de Bruijn graphs
+2009|3768.0|3.0|Genome Biology|Ultrafast and memory-efficient alignment of short DNA sequences to the human genome
+2010|4648.0|5.0|Bioinformatics|Fast and accurate long-read alignment with BurrowsWheeler transform

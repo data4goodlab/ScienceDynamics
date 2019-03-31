@@ -1,0 +1,52 @@
+----  Field Name Urban design: 
+----  Field Level 2.0: 
+----  Field Papers Number 2489:
+----  All time max citation paper: Environmental correlates of walking and cycling: Findings from the transportation, urban design, and planning literatures, 2003, (791.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1963|1.0|1.0|Journal of Experimental Psychology|Perception of the postural vertical in normals and subjects with labyrinthine defects
+1965|0|0.0||Predicting the susceptibility to vestibular sickness under conditions of weightlessness.
+1966|6.0|6.0|Reading Research Quarterly|READABILITY--A NEW APPROACH.
+1968|1.0|1.0||Hue Discrimination Related to Linguistic Habits.
+1969|1.0|0.5|Journal of Literacy Research|Language and Reading Problems of Spanish Speaking Children in the Southwest
+1970|5.0|0.5|Journal of Literacy Research|The Cloze Procedure: A Conspectus
+1971|1.0|0.0|IEEE Spectrum|Biomechanical studies in aerospace physiology
+1972|7.0|2.0|Progress in Brain Research|Comparative Anatomy of the Vestibular Nuclear Complex in Submammalian Vertebrates
+1973|9.0|4.0|Journal of Verbal Learning and Verbal Behavior|The reconstructive process in sentence memory
+1974|2.0|1.0|Journal of Autism and Developmental Disorders|Language Behavior and Hierarchic Integration in a Psychotic Child.
+1975|8.0|2.0|Journal of Experimental Child Psychology|The elaboration of the noun phrase in children's description of objects
+1976|11.0|1.0|Monographs of The Society for Research in Child Development|Children's first word combinations
+1977|11.0|0.5|Cognition|Word associations and the development of lexical memory
+1978|2.0|0.0|Cognition|Speech Timing of Grammatical Categories.
+1979|30.0|2.0|Review of Educational Research|Linguistic Interdependence and the Educational Development of Bilingual Children
+1980|5.0|1.0|Journal of Verbal Learning and Verbal Behavior|Contextual Aspects of Pronoun Assignment.
+1981|3.0|0.5|Anthropology & Education Quarterly|The Consequences of Literacy in Pragmatic and Theoretical Perspectives
+1982|6.0|2.5|Child Development|Leopards Are Kitty-Cats: Object Labeling by Mothers for Their Thirteen-Month-Olds.
+1983|7.0|1.0||Polynomial Time Inference of Extended Regular Pattern Languages
+1984|4.0|2.0|symposium on theoretical aspects of computer science|Polynomial Time Inference of General Pattern Languages
+1985|7.0|2.0|Applied Psycholinguistics|The Spelling's the Thing: Knowledge of Derivational Morphology in Orthography and Phonology among Older Students.
+1986|23.0|4.0|Journal of Experimental Child Psychology|Children's Use of Analogy in Learning to Read: A Developmental Study.
+1987|30.0|2.0|Journal of Child Language|Learning to Use Prepositions: A Case Study.
+1988|87.0|2.0|Machine Learning|Queries and Concept Learning
+1989|33.0|3.0|Journal of Child Language|A cross-language study of prosodic modifications in mothers' and fathers' speech to preverbal infants
+1990|9.0|1.5|Studies in Second Language Acquisition|Connectionism and Universals of Second Language Acquisition
+1991|8.0|2.0|Language|Adaptation to language: Evidence from babbling and first words in four languages
+1992|56.0|4.0|Cognitive Psychology|The monolingual nature of speech segmentation by bilinguals
+1993|66.0|3.0|Child Development|Infants' Preference for the Predominant Stress Patterns of English Words
+1994|35.0|3.0|IEEE Transactions on Software Engineering|A framework for source code search using program patterns
+1995|29.0|2.0|symposium on principles of database systems|Similarity-based queries
+1996|71.0|3.0|conference on computer supported cooperative work|Re-place-ing space: the roles of place and space in collaborative systems
+1997|31.0|2.0||Evolving frameworks: a pattern language for developing object-oriented frameworks
+1998|42.0|2.0|Journal of Computational Biology|Approaches to the automatic discovery of patterns in biosequences
+1999|49.0|3.0|human factors in computing systems|Urp: a luminous-tangible workbench for urban planning and design
+2000|80.0|4.0|Neuron|EphB2 guides axons at the midline and is necessary for normal vestibular function.
+2001|30.0|3.0||A pattern language for security models
+2002|128.0|5.0|American Journal of Preventive Medicine|How the built environment affects physical activity: Views from urban planning
+2003|235.0|4.5|Annals of Behavioral Medicine|Environmental correlates of walking and cycling: Findings from the transportation, urban design, and planning literatures
+2004|115.0|5.0|Cognitive Psychology|Learning at a Distance: I. Statistical Learning of Non-Adjacent Dependencies.
+2005|52.0|5.0|American Journal of Preventive Medicine|Evaluation of the California Safe Routes to School Legislation: Urban Form Changes and Children's Active Transportation to School
+2006|167.0|5.0|Landscape and Urban Planning|Urban effects on native avifauna: a review
+2007|64.0|5.0|Brain and Language|The Role of Animacy and Thematic Relationships in Processing Active English Sentences: Evidence from Event-Related Potentials.
+2008|319.0|5.0|Medicine and Science in Sports and Exercise|Built environment correlates of walking: a review.
+2009|69.0|3.0|Ecological Engineering|Runoff water quality from intensive and extensive vegetated roofs.
+2010|181.0|4.0|Journal of The American Planning Association|Travel and the Built Environment

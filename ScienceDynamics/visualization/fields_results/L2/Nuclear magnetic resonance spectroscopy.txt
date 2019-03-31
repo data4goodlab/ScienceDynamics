@@ -1,0 +1,62 @@
+----  Field Name Nuclear magnetic resonance spectroscopy: 
+----  Field Level 2.0: 
+----  Field Papers Number 40625:
+----  All time max citation paper: Synthesis of graphene-based nanosheets via chemical reduction of exfoliated graphite oxide, 2007, (4432.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1953|37.0|34.0|Journal of Chemical Physics|NUCLEAR MAGNETIC RESONANCE MULTIPLETS IN LIQUIDS
+1956|26.0|26.0|Journal of Chemical Physics|Rate Processes and Nuclear Magnetic Resonance Spectra. II. Hindered Internal Rotation of Amides
+1957|0|0.0|Nature|Chemical Shifts in C5H5- and C7H7+ Ions: the Free Electron Model
+1958|1.0|0.0|Journal of Chemical Physics|Nuclear Magnetic Resonance of Molten and Solid Thallium Salts
+1959|1.0|0.5|Molecular Physics|Chemical shifts of thallium resonance spectra in solutions of thallous salts
+1960|12.0|4.5|Journal of Chemical Physics|On the Nature of Solvent Effects in the Proton Resonance Spectra of Unsaturated Ring Compounds. I. Substituted Benzenes
+1961|29.0|8.0|Journal of Chemical Physics|Strong Coupling in Nuclear Resonance Spectra. IV. Exact Analysis of ThreeSpin Spectra
+1962|25.0|7.5|Journal of Chemical Physics|An NMR Study of Indene Using a ProtonProton Decoupling Technique
+1963|21.0|5.0|Journal of Chemical Physics|Anomalous Chemical Shifts in the Proton Magnetic Resonance Spectra of the Dimethylcyclohexanes and Related Hydrocarbons
+1964|74.0|6.5|Journal of Chemical Physics|Analysis of NMR Spectra by Least Squares
+1965|16.0|4.0|Journal of Chemical Physics|Chemical Shifts and Electron Densities in Nitrogen Heterocyclic Molecules
+1966|8.0|0.5|Tetrahedron|Solvent effects in NMR spectroscopyVI Chemical shifts induced by benzene in quinones
+1967|26.0|1.0|Geochimica et Cosmochimica Acta|Applications of the Mssbauer effect to silicate mineralogyI. Iron silicates of known crystal structure
+1968|64.0|0.0|Journal of Molecular Biology|Nuclear magnetic resonance studies of erythrocyte membranes
+1969|6.0|1.0|Journal of Molecular Spectroscopy|A conformational study of butadiene and of its homologues by NMR spectroscopy
+1970|13.0|1.0|Magnetic Resonance in Chemistry|Carbon13 chemical shifts of bicyclic compounds
+1971|10.0|0.0|Journal of Molecular Spectroscopy|High resolution 13 C nuclear magnetic resonance spectra for symmetrical orthodihalobenzenes including long-range 13 CH couplings
+1972|14.0|0.5|FEBS Letters|Molecular dynamics of cerebrosidecholesterol and sphingomyelincholesterol interactions: Implications for myelin membrane structure
+1973|12.0|0.0|Tetrahedron|Conformational studies on pertrimethylsilyl derivatives of some mono- and disaccharides by 220 MHz PMR spectroscopy
+1974|37.0|1.0|Chemistry and Physics of Lipids|Phospholipid hydration studied by deuteron magnetic resonance spectroscopy
+1975|15.0|2.0|Biochemical and Biophysical Research Communications|31P chemical shifts in phosphate diester monoanions. Bond angle and torsional angle effects
+1976|19.0|1.0|Biochemical and Biophysical Research Communications|On the atomic or local contributions to proton chemical shifts due to the anisotropy of the diamagnetic susceptibility of the nucleic acid bases
+1977|20.0|2.0|Journal of Theoretical Biology|On the conformational dependence of the proton chemical shifts in nucleosides and nucleotides. I. Proton shifts in the ribose ring of pyrimidine nucleosides as a function of the torsion angle about the glycosyl bond
+1978|42.0|2.0|Journal of Magnetic Resonance|The use of cross-sections and of projections in two-dimensional NMR spectroscopy
+1979|103.0|1.0|Journal of Chemical Physics|Investigation of exchange processes by twodimensional NMR spectroscopy
+1980|32.0|2.0|Journal of Applied Physics|Electron spectroscopy study of silicon surfaces exposed to XeF2 and the chemisorption of SiF4 on silicon
+1981|24.0|2.0|FEBS Journal|Structure Determination of Oligosaccharides Isolated from A+, H+ and AH HogSubmaxillaryGland Mucin Glyoproteins, by 360MHz 1HNMR Spectroscopy, Permethylation Analysis and Mass Spectrometry
+1982|30.0|1.0|FEBS Journal|HighResolution 1HNMR Spectroscopy of Free and Glycosidically Linked O Acetylated Sialic Acids
+1983|47.0|3.0|Journal of Magnetic Resonance|Correlation of proton and nitrogen-15 chemical shifts by multiple quantum NMR
+1984|70.0|3.0|The Lancet|CEREBRAL ENERGY METABOLISM STUDIED WITH PHOSPHORUS NMR SPECTROSCOPY IN NORMAL AND BIRTH-ASPHYXIATED INFANTS
+1985|92.0|2.0|Journal of Magnetic Resonance|Optimization of two-dimensional homonuclear relayed coherence transfer NMR spectroscopy
+1986|161.0|2.0|Journal of Magnetic Resonance|Image-selected in Vivo spectroscopy (ISIS). A new technique for spatially selective nmr spectroscopy
+1987|39.0|3.0|Geochimica et Cosmochimica Acta|High-resolution 23 Na, 27 Al and 29 Si NMR spectroscopy of framework Aluminosilicate glasses
+1988|68.0|3.0|Journal of Magnetic Resonance|COMATOSE, a method for constrained refinement of macromolecular structure based on two-dimensional nuclear overhauser effect spectra
+1989|86.0|2.0|Cell|The structure of the Antennapedia homeodomain determined by NMR spectroscopy in solution: Comparison with prokaryotic repressors
+1990|53.0|2.0|Journal of Molecular Biology|Time-averaged nuclear overhauser effect distance restraints applied to tendamistat
+1991|151.0|2.0|Journal of Molecular Biology|Relationship between nuclear magnetic resonance chemical shift and protein secondary structure
+1992|72.0|2.0|Protein Science|Selection of representative protein data sets
+1993|78.0|2.0|Journal of Chemical Physics|Effects of electron correlation in the calculation of nuclear magnetic resonance chemical shifts
+1994|51.0|2.0|Magnetic Resonance in Medicine|Rapid monitoring of changes in water diffusion coefficients during reversible ischemia in cat and rat brain
+1995|128.0|2.0|Journal of Biomolecular NMR|1H, 13C and 15N random coil NMR chemical shifts of the common amino acids. I. Investigations of nearest-neighbor effects.
+1996|101.0|3.0|Journal of Chemical Physics|A comparison of models for calculating nuclear magnetic resonance shielding tensors
+1997|153.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Attenuated T2 relaxation by mutual cancellation of dipoledipole coupling and chemical shift anisotropy indicates an avenue to NMR structures of very large biological macromolecules in solution
+1998|71.0|3.0|Journal of Chemical Physics|Broadband dipolar recoupling in the nuclear magnetic resonance of rotating solids: A compensated C7 pulse sequence
+1999|321.0|4.0|Journal of Biomolecular NMR|Protein backbone angle restraints from searching a database for chemical shift and sequence homology.
+2000|186.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|NMR solution structure of the human prion protein
+2001|342.0|4.0|Journal of Computational Chemistry|Chemistry with ADF
+2002|255.0|5.0|Environmental Toxicology and Chemistry|Metabonomic assessment of toxicity of 4fluoroaniline, 3,5difluoroaniline and 2fluoro4methylaniline to the earthworm Eisenia veneta (rosa): Identification of new endogenous biomarkers
+2003|286.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Nanoshell-mediated near-infrared thermal therapy of tumors under magnetic resonance guidance
+2004|515.0|6.0|The New England Journal of Medicine|Impaired mitochondrial activity in the insulin-resistant offspring of patients with type 2 diabetes.
+2005|184.0|5.0|Diabetes|Reversal of Nonalcoholic Hepatic Steatosis, Hepatic Insulin Resistance, and Hyperglycemia by Moderate Weight Reduction in Patients With Type 2 Diabetes
+2006|230.0|3.0|Cell|Structural Basis for the Methylation State-Specific Recognition of Histone H4-K20 by 53BP1 and Crb2 in DNA Repair
+2007|1639.0|5.0|Carbon|Synthesis of graphene-based nanosheets via chemical reduction of exfoliated graphite oxide
+2008|302.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Symbiotic gut microbes modulate human metabolic phenotypes
+2009|870.0|7.0|PLOS ONE|Theory and validation of magnetic resonance fluid motion estimation using intensity flow data
+2010|505.0|6.0|Proteins|Improved sidechain torsion potentials for the Amber ff99SB protein force field

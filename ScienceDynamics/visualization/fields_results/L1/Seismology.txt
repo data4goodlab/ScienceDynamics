@@ -1,0 +1,58 @@
+----  Field Name Seismology: 
+----  Field Level 1.0: 
+----  Field Papers Number 12547:
+----  All time max citation paper: Preliminary reference Earth model, 1981, (2605.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1955|2.0|2.0|Journal of Applied Physics|Theory of Elasticity and Consolidation for a Porous Anisotropic Solid
+1960|12.0|12.0|Colloid and Polymer Science|Transversely isotropic fluids
+1961|15.0|7.0|Journal of Geophysical Research|Free oscillations of the Earth observed on strain and pendulum seismographs
+1962|22.0|22.0|Icarus|EVIDENCE FROM THE MOON'S SURFACE FEATURES FOR THE PRODUCTION OF LUNAR GRANITES
+1963|27.0|5.0|Journal of Geophysical Research|Structure of the crust and upper mantle in the western United States
+1964|17.0|4.0|Journal of Geophysical Research|On the composition of the Earth's interior
+1965|0|0.0|Mathematika|A note on linear transversely isotropic fluids
+1966|10.0|3.5|Journal of Fluid Mechanics|A theory of transversely isotropic fluids
+1967|22.0|12.5|Reviews of Geophysics|A model for planetary igneous differentiation
+1968|7.0|3.5|Journal of Geophysical Research|Elastic properties of CaO under pressure and temperature
+1969|14.0|2.0|IEEE Transactions on Microwave Theory and Techniques|Design of Surface Wave Delay Lines with Interdigital Transducers
+1970|26.0|3.0|Journal of Geophysical Research|Petrology of the lunar soil and geophysical implications.
+1971|64.0|6.0|Journal of Geophysical Research|Temperature field and geophysical effects of a downgoing slab
+1972|35.0|4.0|Journal of Geophysical Research|Plate convergence, transcurrent faults, and internal deformation adjacent to Southeast Asia and the western Pacific
+1973|33.0|1.0|Journal of Geophysical Research|An overview of geological results from Mariner 9
+1974|63.0|1.5|Geophysical Journal International|Numerical Modelling of Instantaneous Plate Tectonics
+1975|30.0|5.5|Earth and Planetary Science Letters|Regionality of group velocities of Rayleigh waves in the Pacific and thickening of the plate
+1976|46.0|3.0|Journal of Geophysical Research|Volcanic explosions and climatic change: A theoretical assessment
+1977|33.0|2.0|Journal of Geophysical Research|Some Martian volcanic features as viewed from the Viking orbiters
+1978|15.0|4.0|Icarus|Theoretical models for Mars and their seismic properties
+1979|52.0|6.0|Contributions to Mineralogy and Petrology|Abyssal tholeiites from the Oceanographer Fracture Zone. II - Phase equilibria and mixing
+1980|24.0|2.5|Physics of the Earth and Planetary Interiors|Seismicity and the subduction process
+1981|113.0|4.0|Physics of the Earth and Planetary Interiors|Preliminary reference Earth model
+1982|21.0|3.0|Reviews of Geophysics|Stratospheric aerosols: Observation and theory
+1983|29.0|3.0|Tectonophysics|Seismic coupling and uncoupling at subduction zones
+1984|68.0|4.0|Journal of Geophysical Research|Mapping the upper mantle: Threedimensional modeling of earth structure by inversion of seismic waveforms
+1985|27.0|3.0|Journal of Geophysical Research|Lateral heterogeneity and azimuthal anisotropy of the upper mantle: Love and Rayleigh waves 100250 s
+1986|24.0|4.0|Tectonophysics|Intraplate earthquakes and the state of stress in oceanic lithosphere
+1987|39.0|3.0|Geophysical Research Letters|A revised estimate of PacificNorth America motion and implications for Western North America Plate boundary zone tectonics
+1988|32.0|3.0|Tectonics|Strikeslip fault geometry in Turkey and its influence on earthquake activity
+1989|48.0|3.0|Journal of Geophysical Research|Ozone destruction through heterogeneous chemistry following the eruption of El Chichn
+1990|38.0|3.0|Icarus|Coronae of Mnemosyne Regio - Morphology and origin
+1991|40.0|4.0|Journal of Geophysical Research|Global upper mantle tomography of seismic velocities and anisotropies
+1992|66.0|3.0|Geophysical Journal International|Seismic traveltime inversion for 2D crustal velocity structure
+1993|53.0|2.0|Journal of Geophysical Research|Highresolution global upper mantle structure and plate tectonics
+1994|64.0|3.0|Geophysical Research Letters|ozone loss in the lower stratosphere over the United States in 19921993: Evidence for heterogeneous chemistry on the Pinatubo aerosol
+1995|33.0|3.0|Journal of Geophysical Research|Localized boundary layer below the midPacific velocity anomaly identified from a PcP precursor
+1996|55.0|2.0|Journal of Geophysical Research|Poisson's ratio and crustal seismology
+1997|44.0|3.0|Proceedings of the IEEE|Application of antenna arrays to mobile communications. II. Beam-forming and direction-of-arrival considerations
+1998|57.0|3.0|Proceedings of the National Academy of Sciences of the United States of America|Climate forcings in the Industrial era
+1999|86.0|4.0|IEEE Computer|Chameleon: hierarchical clustering using dynamic modeling
+2000|74.0|3.0|Journal of Geophysical Research|Active folding of fluvial terraces across the Siwaliks Hills, Himalayas of central Nepal
+2001|46.0|4.0|Journal of The Mechanics and Physics of Solids|Slip dynamics at an interface between dissimilar materials
+2002|427.0|4.0|Journal of Geophysical Research|Volcanic eruptions on midocean ridges: New evidence from the superfast spreading East Pacific Rise, 1719S
+2003|102.0|5.0|EURASIP Journal on Advances in Signal Processing|Collaborative in-network processing for target tracking
+2004|80.0|4.0|Geophysical Research Letters|Emergence of broadband Rayleigh waves from correlations of the ambient seismic noise
+2005|250.0|5.0|Geophysical Research Letters|Thick and anisotropic D layer beneath Antarctic Ocean
+2006|347.0|5.0|Journal of Geophysical Research|Subglacial sediments as a control on the onset and location of two Siple Coast ice streams, West Antarctica
+2007|135.0|5.0|Geophysical Journal International|Ambient noise Rayleigh wave tomography across Europe
+2008|320.0|4.0|Geophysical Research Letters|Complex fabric development revealed by englacial seismic reflectivity: Jakobshavn Isbr, Greenland
+2009|296.0|4.0|Geophysics|An overview of full-waveform inversion in exploration geophysics
+2010|185.0|5.0|Energy Conversion and Management|Overview of recent advances in thermo-chemical conversion of biomass

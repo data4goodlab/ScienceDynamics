@@ -1,0 +1,73 @@
+----  Field Name Internal medicine: 
+----  Field Level 1.0: 
+----  Field Papers Number 41938:
+----  All time max citation paper: Collective dynamics of 'small-world' networks, 1998, (10030.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1931|0|0.0|American Heart Journal|Electrocardiographic studies in infectious diseases : Preliminary report
+1933|0|0.0|JAMA|THE MATERNITY WARD OF THE GENERAL HOSPITAL
+1936|0|0.0|Psychiatric Quarterly|Report of the treatment of a severe case of pellagra and alcoholism with recovery
+1939|0|0.0|Public Health|Some aspects of immunity in infectious disease*
+1941|1.0|1.0|Journal of Hygiene|Infectious diseases in a semiclosed community
+1942|0|0.0|Archives of Dermatology|TRICHOPHYTON PURPUREUM (BANG) AND TRICHOPHYTON GYPSEUM (BODIN): DIFFERENTIATION IN CULTURE
+1944|0|0.0|Digestive Diseases and Sciences|The treatment of acute gingivo-stomatitis (vincent)
+1948|4.0|1.0|The American Journal of Medicine|Mechanisms of action of serum albumin therapy in internal medicine
+1949|8.0|6.0|The American Journal of Medicine|Chloramphenicol (chloromycetin) in the treatment of infectious diseases
+1950|1.0|1.0|The New England Journal of Medicine|Serologic Tests in the Diagnosis of Infectious Diseases
+1951|3.0|3.0|The New England Journal of Medicine|Herpangina: Clinical Studies of a Specific Infectious Disease
+1952|2.0|2.0|The American Journal of Medicine|Circulating blood eosinophils in acute infectious disease and the eosinopenic response
+1955|1.0|0.5|The Journal of Pediatrics|A review of BCG and other antituberculosis vaccines
+1956|0|0.0|British Journal of Tuberculosis and Diseases of The Chest|The Changing Place of Artificial Pneumothorax in the Treatment of Pulmonary Tuberculosis.
+1957|7.0|3.5|The New England Journal of Medicine|ACTH and Adrenocorticosteroids as Therapeutic Adjuncts in Infectious Diseases
+1958|2.0|2.0|JAMA|THE CASPER PROJECT-AN ENFORCED MASS-CULTURE STREPTOCOCCIC CONTROL PROGRAM: 1. CLINICAL ASPECTS
+1960|7.0|2.0|JAMA|Tetracycline Resistance of Group A Beta Hemolytic Streptococci.
+1961|3.0|1.0|JAMA|Demethylchlortetracycline in Clinical Practice: Results of Mass Clinical Field Trials and Description of Electronic Data Processing Methods Used in Tabulation and Analysis
+1962|1.0|0.5|Journal of Chronic Diseases|Prevention of apparently non-infectious disease by detection and treatment of infections of the urinary tract 
+1963|2.0|1.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|A medical service for children under five years of age in West Africa
+1964|0|0.0|The Journal of Pathology and Bacteriology|Inclusionbearing cells in urinary sediment in infectious diseases
+1965|0|0.0|Economic Botany|Man and plants against pain
+1966|2.0|1.5|JAMA|Human Experimentation in Infectious Diseases
+1967|2.0|0.0|Pediatric Research|The Relation of Metabolic Rate to Body Weight and Organ Size
+1968|1.0|1.0|Pediatric Research|Sweat Composition in Relation to Rate of Sweating in Patients with Cystic Fibrosis of the Pancreas
+1969|6.0|1.0|Pediatric Research|Hemoglobin C in Newborn Sheep and Goats: A Possible Explanation for its Function and Biosynthesis
+1970|7.0|2.0|The Journal of Pediatrics|Nosocomial colonization with kanamycin-resistant Klebsiella pneumoniae, types 2 and 11, in a premature nursery
+1971|9.0|2.0|JAMA Internal Medicine|Infectious Disease Problems of Narcotic Addicts
+1972|9.0|1.0|The Journal of Pediatrics|Urban measles in the vaccine era: A clinical, epidemiologic, and serologic study
+1973|8.0|3.0|Pediatric Research|Development of Methyltransferase Activities of Human Fetal Tissues
+1974|10.0|5.0|Medical Microbiology and Immunology|Prostaglandins of the E and F Series in Rabbit Cerebrospinal Fluid during Fever Induced by Newcastle Disease Virus, E. coli-Endotoxin, or Endogenous Pyrogen*
+1975|16.0|6.0|Medical Care|Dimensions of Patient Attitudes Regarding Doctors and Medical Care Services
+1976|11.0|0.5|Journal of Experimental Medicine|H-2 restriction of virus-specific t-cell-mediated effector functions in vivo. II. Adoptive transfer of delayed-type hypersensitivity to murine lymphocytic choriomeningitis virus is restricted by the k and d region of h-2.
+1977|19.0|3.0|Scandinavian Journal of Immunology|Oligoclonal IgG and Free Light Chains in the Cerebrospinal Fluid of Patients with Multiple Sclerosis and Infectious Diseases of the Central Nervous System
+1978|23.0|2.5|Journal of Neurology|Serum-CSF protein gradients, the blood-CSF barrier and the local immune response
+1979|46.0|3.0|Nature|Population biology of infectious diseases: Part II
+1980|22.0|2.5|Preventive Medicine|The effect of breast self-exam practices and physician examinations on extent of disease at diagnosis.
+1981|10.0|2.0|The American Journal of Medicine|Restructuring an internal medicine residency program to meet regional and national needs for general internists
+1982|23.0|2.0|Journal of Experimental Medicine|Immunization of mice against African trypanosomiasis using anti-idiotypic antibodies.
+1983|67.0|3.0|The Lancet|IS SCHIZOPHRENIA AN INFECTIOUS DISEASE?
+1984|43.0|2.0|Cognitive Science|Causal Reasoning in Medicine: Analysis of a Protocol
+1985|26.0|2.0|JAMA|Intracranial Lesions in the Acquired Immunodeficiency Syndrome: Radiological (Computed Tomographic) Features
+1986|48.0|2.0|JAMA|Human T-Cell Lymphotropic Virus Type III Infection of the Central Nervous System: A Preliminary In Situ Analysis
+1987|90.0|2.0|JAMA|Evaluation of heterosexual partners children and household contacts of adults with AIDS.
+1988|34.0|1.0|Science|A larger spectrum of severe HIV-1--related disease in intravenous drug users in New York City
+1989|37.0|1.0|JAMA|Serum Immunoreactive Erythropoietin in HIV-Infected Patients
+1990|16.0|1.0|Journal of General Internal Medicine|Needlestick injuries among resident physicians.
+1991|143.0|2.0|Science|Monoclonal antibodies in diagnosis and therapy
+1992|106.0|3.0|JAMA|Variations in Resource Utilization Among Medical Specialties and Systems of Care: Results From the Medical Outcomes Study
+1993|23.0|2.0|Cytometry|Guideline for flow cytometric immunophenotyping: A report from the national institute of allergy and infectious diseases, division of AIDS
+1994|34.0|3.0|Xenotransplantation|Miniature swine as organ donors for man: Strategies for prevention of xenotransplantassociated infections
+1995|284.0|3.0|JAMA|Changing Physician Performance: A Systematic Review of the Effect of Continuing Medical Education Strategies
+1996|357.0|4.0|Trends in Neurosciences|Microglia: a sensor for pathological events in the CNS
+1997|232.0|5.0|Proceedings of the National Academy of Sciences of the United States of America|Effects of a polymorphism in the human tumor necrosis factor  promoter on transcriptional activation
+1998|919.0|5.0|Nature|Deciphering the biology of Mycobacterium tuberculosis from thecomplete genome sequence
+1999|231.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|CpG DNA: A potent signal for growth, activation, and maturation of human dendritic cells
+2000|1252.0|6.5|Nature|A Toll-like receptor recognizes bacterial DNA
+2001|434.0|7.0|Science|Historical overfishing and the recent collapse of coastal ecosystems
+2002|428.0|8.0|Nature|CD4 + CD25 + regulatory T cells control Leishmania major persistence and immunity
+2003|2194.0|8.0|Annual Review of Immunology|Immunobiology of Dendritic Cells
+2004|507.0|9.0|Intensive Care Medicine|Surviving Sepsis Campaign guidelines for management of severe sepsis and septic shock
+2005|375.0|9.0|Nature Immunology|Natural regulatory T cells in infectious disease
+2006|533.0|12.0|Nature Reviews Immunology|Neutrophils and immunity: challenges and opportunities
+2007|750.0|12.0|European Journal of Vascular and Endovascular Surgery|Inter-Society Consensus for the Management of Peripheral Arterial Disease (TASC II)
+2008|919.0|14.0|Clinical Infectious Diseases|Revised definitions of invasive fungal disease from the European Organization for Research and Treatment of Cancer/Invasive Fungal Infections Cooperative Group and the National Institute of Allergy and Infectious Diseases Mycoses Study Group (EORTC/MSG) Consensus Group.
+2009|1015.0|14.0|Clinical Infectious Diseases|Clinical Practice Guidelines for the Management Candidiasis: 2009 Update by the Infectious Diseases Society of America
+2010|1119.0|18.0|Trials|CONSORT 2010 Statement: updated guidelines for reporting parallel group randomised trials

@@ -1,0 +1,43 @@
+----  Field Name Allelopathy: 
+----  Field Level 2.0: 
+----  Field Papers Number 4526:
+----  All time max citation paper: On the temperature dependence of soil respiration, 1994, (1595.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|6.0|2.5|Soil Biology & Biochemistry|Simple methods for measuring and maintaining the proportion of carbon dioxide in air, for use in ecological studies of soil respiration
+1973|10.0|10.0|Archives of Microbiology|Quantification of bacterial and fungal contributions to soil respiration
+1975|4.0|4.0|Soil Biology & Biochemistry|The interdependent effects of soil temperature and water content on soil respiration rate and plant root decomposition in arid grassland soils
+1977|8.0|3.5|Botanical Review|Plant decomposition and soil respiration in terrestrial ecosystems
+1978|4.0|2.0|Oecologia|Enchytraeid numbers, biomass and respiratory metabolism in a beech woodland - Wytham Woods, Oxford
+1979|8.0|7.5|Journal of Phycology|INTERACTION (ALLELOPATHY) BETWEEN MARINE DIATOMS: THALASSIOSIRA PSEUDONANA AND PHAEODACTYLUM TRICORNUTUM1
+1980|13.0|3.0|Advances in Agronomy|Competitive Aspects of the Grass-Legume Association
+1981|3.0|2.0|Soil Biology & Biochemistry|Soil respiration in a tropical grassland
+1982|7.0|1.0|Phytochemistry|Sesquiterpene lactones from Centaurea repens
+1983|8.0|6.5|Earth Surface Processes and Landforms|A world model of soil carbon dioxide
+1984|15.0|1.5|Earth and Planetary Science Letters|The stable isotopic composition of modern soil carbonate and its relationship to climate
+1985|11.0|1.0|Ecological Entomology|Insect chemosensory responses: a chemical legacy hypothesis
+1986|22.0|2.0|Entomologia Experimentalis Et Applicata|Plant Proteinase inhibitors: A defense against herbivorous insects?
+1987|12.0|2.0|Journal of Geophysical Research|Application of Advanced Very High Resolution Radiometer vegetation index to study atmospherebiosphere exchange of CO2
+1988|28.0|2.0|Ecology|Chemical Ecology of the Tiger Swallowtail: Mediation of Host Use by Phenolic Glycosides
+1989|12.0|3.0|New Phytologist|Inhibition of phytopathogenic fungi in vitro by cell free culture media of ectomycorrhizal fungi
+1990|17.0|3.0|Oecologia|Growth versus molting time of caterpillars as a function of temperature, nutrient concentration and the phenolic rutin.
+1991|19.0|6.0|Journal of Geophysical Research|Atmospherebiosphere exchange of carbon dioxide in boreal forests
+1992|15.0|3.5|Soil Biology & Biochemistry|Mechanisms controlling soil respiration (CO2 and CH4) in southern peatlands
+1993|21.0|3.0|Plant Ecology|Free air carbon dioxide enrichment: development, progress, results
+1994|47.0|5.0|Functional Ecology|On the temperature dependence of soil respiration
+1995|54.0|3.0|Soil Biology & Biochemistry|The temperature dependence of soil organic matter decomposition, and the effect of global warming on soil organic C storage
+1996|16.0|3.5|Soil Biology & Biochemistry|Soil surface CO 2 flux as an index of soil respiration in situ: A comparison of two chamber methods
+1997|34.0|6.0|The EMBO Journal|I kappa B epsilon, a novel member of the IB family, controls RelA and cRel NFB activity
+1998|78.0|4.0|Global Change Biology|Soil water content and temperature as independent or confounded factors controlling soil respiration in a temperate mixed hardwood forest
+1999|25.0|7.0|Global Change Biology|The effects of chamber pressurization on soilsurface CO2 flux and the implications for NEE measurements under elevated CO2
+2000|115.0|7.0|Biogeochemistry|Separating root and soil microbial contributions to soil respiration: A review of methods and observations
+2001|106.0|9.0|Nature|Acclimatization of soil respiration to warming in a tall grass prairie
+2002|74.0|10.0|Global Change Biology|Annual variation in soil respiration and its components in a coppice oak forest in Central Italy
+2003|169.0|11.0|Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)|Mechanisms underlying the impacts of exotic plant invasions.
+2004|88.0|11.0|New Phytologist|Below-ground process responses to elevated CO2 and temperature: a discussion of observations, measurement methods, and models
+2005|205.0|12.5||Insect-plant biology.
+2006|296.0|14.0|Annual Review of Plant Biology|THE ROLE OF ROOT EXUDATES IN RHIZOSPHERE INTERACTIONS WITH PLANTS AND OTHER ORGANISMS
+2007|91.0|12.0|Global Change Biology|Precipitation pulses and soil CO2 flux in a Sonoran Desert ecosystem
+2008|156.0|14.0|Ecology Letters|Thermal adaptation of soil microbial respiration to elevated temperature
+2009|206.0|11.0|Global Change Biology|Reappraisal of drying and wetting effects on C and N mineralization and fluxes in soils
+2010|280.0|10.0|Nature|Temperature-associated increases in the global soil respiration record

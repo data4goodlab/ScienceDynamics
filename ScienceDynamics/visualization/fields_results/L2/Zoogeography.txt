@@ -1,0 +1,46 @@
+----  Field Name Zoogeography: 
+----  Field Level 2.0: 
+----  Field Papers Number 1726:
+----  All time max citation paper: Generality of leaf trait relationships: A test across six biomes, 1999, (343.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1970|1.0|0.5|Comparative Biochemistry and Physiology|Tolerance limits of the toad, Bufo marinus , in South Florida
+1971|0|0.0|Comparative Biochemistry and Physiology Part A: Physiology|Selectively neutral mutations, transferrins and the evolution of natricine snakes
+1972|0|0.0|Behavior Research Methods|The measurement of human oral forces
+1973|5.0|5.0|Journal of the Neurological Sciences|Fibre sizes of human masseter muscle in relation to bite force
+1974|1.0|1.0|International Journal for Parasitology|The malarial parasites of Anolis species (Sauria: Iguanidae) in Panama
+1975|3.0|3.0|Proceedings of the IEEE|Computerized data acquisition and analysis for real-time electromyography in clinical dentistry
+1976|4.0|4.0|Archives of Oral Biology|The regulation of the jaw bite force in man
+1978|1.0|1.0|Zoological Journal of the Linnean Society|New Spirorbidae (Polychaeta: Sedentaria) from the East Pacific, Atlantic, Indian and Southern Oceans
+1979|9.0|7.0|Journal of Prosthetic Dentistry|EMG, bite force, and elongation of the masseter muscle under isometric voluntary contractions and variations of vertical dimension
+1980|8.0|5.0|American Journal of Orthodontics|Biomechanics of differences in lower facial height
+1981|6.0|3.5|Archives of Oral Biology|Effect of bite force on the power spectrum of the surface electromyogram of human jaw muscles
+1982|6.0|4.0|Journal of Oral Rehabilitation|Maximal bite force with centric and eccentric load
+1983|6.0|3.5|Journal of Human Evolution|Marginal habitats of chimpanzees
+1984|5.0|5.0|Journal of Oral Rehabilitation|The effect of sustained submaximal clenching on maximum bite force in myofascial pain dysfunction patients
+1985|10.0|2.0|Journal of Biomechanics|Predicted pattern of human muscle activity during clenching derived from a computer assisted model: Symmetric vertical bite forces
+1986|6.0|3.0|Journal of Oral Rehabilitation|Changes in bite force and chewing efficiency after denture treatment in edentulous patients with denture adaptation difficulties
+1987|5.0|4.0|Journal of Prosthetic Dentistry|Interfering occlusal contacts and distribution of chewing and biting forces in dentitions with fixed cantilever prostheses
+1988|22.0|3.0|Journal of Biomechanics|A three-dimensional mathematical model of the human masticatory system predicting maximum possible bite forces
+1989|12.0|2.5|European Journal of Oral Sciences|Clinical significance of isometric bite force versus electrical activity in temporal and masseter muscles
+1990|14.0|4.0|Journal of Biomechanics|Coactivation of jaw muscles: Recruitment order and level as a function of bite force direction and magnitude
+1991|10.0|6.0|Journal of Fish Biology|Genetic comparisons of New and Old World coregonid fishes*
+1992|8.0|2.0|Journal of Oral and Maxillofacial Surgery|A preliminary study of maximum voluntary bite force and jaw muscle efficiency in pre-orthognathic surgery patients
+1993|10.0|3.0|European Journal of Oral Sciences|A novel bite force recorder and maximal isometric bite force values for healthy young adults
+1994|21.0|2.0|The American Naturalist|Variation in geographical range size among mammals of the palearctic
+1995|17.0|1.0|International Journal for Parasitology|Aspects of the ecology of metazoan ectoparasites of marine fishes
+1996|11.0|3.0|Journal of Oral and Maxillofacial Surgery|Bite forces before and after surgical correction of mandibular prognathism
+1997|11.0|3.0|Head and Neck-journal for The Sciences and Specialties of The Head and Neck|A comparison of masticatory function in patients with or without reconstruction of the mandible
+1998|19.0|2.5|American Journal of Physical Anthropology|Mandibular corpus strain in primates: Further evidence for a functional link between symphyseal fusion and jawadductor muscle force
+1999|57.0|3.0|Ecology|Generality of leaf trait relationships: A test across six biomes
+2000|35.0|5.5|American Journal of Physical Anthropology|Symphyseal fusion and jawadductor muscle force: An EMG study
+2001|55.0|5.0|Global Ecology and Biogeography|Small mammal diversity along elevational gradients in the Philippines: an assessment of patterns and hypotheses
+2002|30.0|4.0|Functional Ecology|Relationships between head size, bite force, prey handling efficiency and diet in two sympatric lacertid lizards
+2003|35.0|8.0|Functional Ecology|The implications of food hardness for diet in bats
+2004|37.0|5.0|Proceedings of The Royal Society B: Biological Sciences|Performance capacity, fighting tactics and the evolution of lifestage male morphs in the green anole lizard (Anolis carolinensis)
+2005|47.0|6.0|Functional Ecology|Morphology, performance and fighting capacity in male lizards, Gallotia galloti
+2006|29.0|4.0|Functional Ecology|Divergent roles for multiple sexual signals in a polygynous lizard
+2007|43.0|5.0|Journal of Human Evolution|Masticatory biomechanics and its relevance to early hominid phylogeny: An examination of palatal thickness using finite-element analysis
+2008|98.0|6.0|Parasitology|Systematics and evolution of ticks with a list of valid genus and species names.
+2009|71.0|7.0|The American Journal of Clinical Nutrition|Effect of bite size and oral processing time of a semisolid food on satiation.
+2010|96.0|4.0|The American Naturalist|The Zoogeography of Mammalian Basal Metabolic Rate

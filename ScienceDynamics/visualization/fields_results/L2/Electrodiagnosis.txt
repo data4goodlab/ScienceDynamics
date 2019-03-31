@@ -1,0 +1,34 @@
+----  Field Name Electrodiagnosis: 
+----  Field Level 2.0: 
+----  Field Papers Number 1184:
+----  All time max citation paper: Standardized low-resolution brain electromagnetic tomography (sLORETA) : technical details, 2002, (896.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1980|9.0|9.0|Journal of the Neurological Sciences|A sensitive method for the detection and quantification of conduction deficits in nerve
+1983|9.0|9.0|American Heart Journal|Comparison of two-dimensional echocardiography with radionuclide angiography during dynamic exercise for the detection of coronary artery disease
+1985|3.0|1.5|Journal of the Neurological Sciences|Effects of acute nerve compression on conduction of impulse trains of increasing frequency.
+1986|1.0|1.0|Acta Neurologica Scandinavica|GuillainBarr syndrome. A clinical electrophysiological and biochemical study
+1987|7.0|1.0|American Journal of Cardiology|Relation between ventricular premature complexes and sudden cardiac death in apparently healthy men
+1988|21.0|1.0|Muscle & Nerve|Muscular dystrophy in a litter of golden retriever dogs
+1989|6.0|3.0|American Journal of Cardiology|Cardiac event rate after non-Q-wave acute myocardial infarction and the significance of its anterior location
+1990|44.0|9.0|Epilepsia|Ketamine, phencyclidine, and Mk-801 protect against kainic acid-induced seizure-related brain damage
+1991|8.0|2.5|Muscle & Nerve|Comparison of electrodiagnostic criteria for primary demyelination in chronic polyneuropathy
+1992|12.0|2.0|Pediatric Neurology|Quantitative analysis of EEG in boys with attention-deficit-hyperactivity disorder: Controlled study with clinical implications
+1993|22.0|2.0|Muscle & Nerve|Sensitivity of three mediantoulnar comparative tests in diagnosis of mild carpal tunnel syndrome
+1994|20.0|3.0|Muscle & Nerve|Multifocal motor neuropathy: Electrodiagnostic features
+1995|104.0|3.0|Circulation|Role of Right Atrial Endocardial Structures as Barriers to Conduction During Human Type I Atrial Flutter Activation and Entrainment Mapping Guided by Intracardiac Echocardiography
+1996|47.0|3.0|Spine|Inefficient muscular stabilization of the lumbar spine associated with low back pain - A motor control evaluation of transversus abdominis
+1997|36.0|4.0|Spine|Stabilizing function of trunk flexor-extensor muscles around a neutral spine posture
+1998|106.0|5.0|Circulation|Cellular Basis for the Normal T Wave and the Electrocardiographic Manifestations of the Long-QT Syndrome
+1999|53.0|6.0|The New England Journal of Medicine|A mechanism of central sleep apnea in patients with heart failure
+2000|108.0|5.0|Circulation|Noninvasive Coronary Angiography by Retrospectively ECG-Gated Multislice Spiral CT
+2001|78.0|4.0|Human Brain Mapping|Spatial-temporal structures of human alpha rhythms: theory, microcurrent sources, multiscale measurements, and global binding of local networks
+2002|136.0|7.0|JAMA Neurology|The Role of Cerebrospinal Fluid Hypocretin Measurement in the Diagnosis of Narcolepsy and Other Hypersomnias
+2003|245.0|7.0|Cardiovascular Research|Relationships between preclinical cardiac electrophysiology, clinical QT interval prolongation and torsade de pointes for a broad range of drugs: evidence for a provisional safety margin in drug development
+2004|79.0|12.0|Chest|Normal polysomnographic respiratory values in children and adolescents.
+2005|36.0|6.0|Clinical Neurophysiology|Transcranial magnetic stimulation of deep brain regions: evidence for efficacy of the H-Coil
+2006|38.0|7.0|Clinical Neurophysiology|EEG in CreutzfeldtJakob disease
+2007|45.0|6.0|American Journal of Sports Medicine|Rehabilitation of scapular muscle balance: which exercises to prescribe?
+2008|85.0|6.0|Clinical Neurophysiology|Evaluation and management of peripheral nerve injury
+2009|45.0|6.0|Acta Oto-laryngologica|Auditory-evoked Potential Studies of Cortical Maturation in Normal Hearing and Implanted Children: Correlations with Changes in Structure and Speech Perception
+2010|48.0|5.0|international conference of the ieee engineering in medicine and biology society|Discriminating Stress From Cognitive Load Using a Wearable EDA Device

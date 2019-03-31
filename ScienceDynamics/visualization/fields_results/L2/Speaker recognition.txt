@@ -1,0 +1,45 @@
+----  Field Name Speaker recognition: 
+----  Field Level 2.0: 
+----  Field Papers Number 3154:
+----  All time max citation paper: An introduction to biometric recognition, 2004, (1307.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|0|0.0||A method of voice communication with a digital computer
+1971|1.0|1.0|Insect Biochemistry|Analysis of lipid during the life cycle of the house cricket, Acheta domesticus
+1972|3.0|3.0|Respiration Physiology|Gas exchange by a bird's embryo
+1974|3.0|3.0|Insect Biochemistry|Phenoloxidase activity at various stages of development in the egyptian cotton worm Spodoptera littoralis
+1975|4.0|2.5|Insect Biochemistry|The cytochrome system of the early embryonic stages of the silkworm
+1976|4.0|3.5|Proceedings of the IEEE|Automatic recognition of speakers from their voices
+1977|1.0|1.0|Experimental Parasitology|Ascaris suum: Hatching of embryonated eggs in swine
+1978|3.0|2.5|IEEE Transactions on Information Theory|Optimal feature selection and decision rules in classification problems with time series
+1979|1.0|0.0|European Journal of Pharmacology|Effects of chlorpromazine and some of its metabolites on the EEG and on dopamine metabolism of the isolated perfused rat brain
+1980|8.0|8.0|Gamete Research|Artificial fertilization of gametes from the South African clawed frog, Xenopus laevis
+1982|6.0|1.0|International Journal of Andrology|The role of spermbound hyaluronidase in the dispersal of the cumulus oophorus surrounding rat ova
+1983|18.0|6.0|Gamete Research|Gametes and fertilization in the Chinese hamster
+1984|63.0|6.0|Gamete Research|Zonafree hamster eggs: Their use in assessing fertilizing capacity and examining chromosomes of human spermatozoa
+1985|18.0|9.0|Gastroenterology|Glucagon-evoked gastric dysrhythmias in humans shown by an improved electrogastrographic technique
+1986|3.0|1.5|Journal of Experimental Marine Biology and Ecology|Subitaneous and diapause eggs of Labidocera aestiva Wheeler (Copepoda : Calanoida): Differences in fall velocity and density
+1987|17.0|2.0|Gastroenterology|Spectral analysis of tachygastria recorded during motion sickness.
+1988|4.0|2.0|Respiration Physiology|Regional differences in diffusive conductance/perfusion ratio in the shell of the hen's egg
+1989|13.0|5.0|Gamete Research|Effects of protein kinase C stimulation and free Ca2+ rise in mammalian egg activation
+1990|11.0|4.0|IEEE Computer|An introduction to speech and speaker recognition
+1991|19.0|4.0|FEBS Letters|A rapid change in phosphorylation on tyrosine accompanies fertilization of sea urchin eggs
+1992|18.0|9.0|Journal of Food Science|Immunoglobulins from Egg Yolk: Isolation and Purification
+1993|22.0|3.0|Gastroenterology|Accuracy of cutaneous recordings of gastric electrical activity
+1994|21.0|2.0|Proceedings of the IEEE|Applications of voice processing to telecommunications
+1995|35.0|3.0|Molecular Reproduction and Development|Identification and localization of integrin subunits in oocytes and eggs of the mouse
+1996|28.0|4.0||An Overview of Speaker Recognition Technology
+1997|58.0|3.0|Proceedings of the IEEE|Speaker recognition: a tutorial
+1998|39.0|4.0|Developmental Biology|Requirement for Microtubules in New Membrane Formation during Cytokinesis of Xenopus Embryos
+1999|40.0|6.0|IEEE Transactions on Neural Networks|Fusion of face and speech data for person identity verification
+2000|156.0|5.0|Digital Signal Processing|Speaker verification using adapted Gaussian mixture models
+2001|43.0|4.0|ieee symposium on security and privacy|Cryptographic key generation from voice
+2002|65.0|6.0|Developmental Biology|Egg-to-embryo transition is driven by differential responses to Ca(2+) oscillation number.
+2003|70.0|5.5|international conference on acoustics, speech, and signal processing|Channel robust speaker verification via feature mapping
+2004|494.0|4.0|IEEE Transactions on Circuits and Systems for Video Technology|An introduction to biometric recognition
+2005|56.0|5.0|international conference on acoustics, speech, and signal processing|Advances in channel compensation for SVM speaker recognition
+2006|158.0|4.0|IEEE Signal Processing Letters|Support vector machines using GMM supervectors for speaker verification
+2007|163.0|3.0|The Journal of Allergy and Clinical Immunology|The prevalence of food allergy: A meta-analysis
+2008|73.0|2.0|IEEE Transactions on Audio, Speech, and Language Processing|A Study of Interspeaker Variability in Speaker Verification
+2009|111.0|2.0|The Journal of Allergy and Clinical Immunology|Work Group report: oral food challenge testing.
+2010|225.0|3.0|Speech Communication|An overview of text-independent speaker recognition: From features to supervectors

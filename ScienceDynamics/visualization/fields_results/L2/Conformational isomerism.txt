@@ -1,0 +1,50 @@
+----  Field Name Conformational isomerism: 
+----  Field Level 2.0: 
+----  Field Papers Number 1956:
+----  All time max citation paper: Reversibility of cardiac wall-motion abnormalities predicted by positron tomography., 1986, (627.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|2.0|1.5|Journal of the Science of Food and Agriculture|Analysis of the structural carbohydrates of herbage
+1968|5.0|4.0|Origins of Life and Evolution of Biospheres|CURRENT STATUS OF CHEMICAL STUDIES ON THE ORIGIN OF LIFE.
+1969|0|0.0||Carbohydrate components of Paleozoic plants.
+1970|4.0|3.0|British Journal of Nutrition|Calorie conversion factors. An experimental reassessment of the factors used in the calculation of the energy value of human diets.
+1971|3.0|3.0|The Journal of Pediatrics|The response of infants to carbohydrate oral loads after recovery from diarrhea
+1972|3.0|3.0|International Review of Cytology-a Survey of Cell Biology|Chloroplasts and algae as symbionts in molluscs.
+1973|2.0|2.0|Phytochemistry|Determination of l-galactose in polysaccharide material
+1974|16.0|14.0|Journal of Nutrition|Role of Vitamin D Metabolites in Phosphate Transport of Rat Intestine
+1975|6.0|3.5|Journal of Molecular and Cellular Cardiology|Sugar transport in the perifused left atrium: Effects of contraction frequency, digitalis and ionic alterations
+1976|1.0|0.5|Journal of Nutrition|Effect of Dietary Chromium on Glucose Tolerance and Serum Cholesterol in Guinea Pigs
+1977|12.0|4.0|Analytical Biochemistry|Anhydrous hydrogen fluoride deglycosylates glycoproteins
+1978|7.0|7.0|Environmental Research|Toxicity of petroleum products: Effects on alkaline phosphatase and lipid peroxidation
+1979|14.0|5.0|Phytochemistry|Hydrolysis of plant polysaccharides and GLC analysis of their constituent neutral sugars
+1980|6.0|3.0|Biotechnology and Bioengineering|Substrate utilization kinetic model for biological treatment process
+1981|45.0|2.0|Annals of Neurology|18FDG positron emission computed tomography in a study of aphasia
+1982|17.0|6.0|The Journal of Neuroscience|(14C)2-deoxyglucose uptake in ground squirrel brain during hibernation
+1983|27.0|3.0|Annals of Neurology|In vivo disturbance of the oxidative metabolism of glucose in human cerebral gliomas
+1984|18.0|2.0|Environmental Mutagenesis|Structural features of nitroaromatics that determine mutagenic activity in salmonella typhimurium
+1985|40.0|2.0|Biochemical and Biophysical Research Communications|Polyphosphoinositides are present in plant tissue culture cells.
+1986|63.0|3.0|The New England Journal of Medicine|Reversibility of cardiac wall-motion abnormalities predicted by positron tomography.
+1987|21.0|3.0|Experimental Cell Research|Development of a chemically defined serum-free medium for differentiation of rat adipose precursor cells
+1988|31.0|4.5|Annals of Neurology|The glucose transporter of the human brain and blood-brain barrier.
+1989|61.0|5.0|American Journal of Cardiology|Positron emission tomography using fluorine-18 deoxyglucose in evaluation of coronary artery bypass grafting
+1990|13.0|4.0|Plant Science|High frequency of pollen embryoid formation and plant regeneration in Triticum aestivum L. on monosaccharide containing media
+1991|23.0|5.5|Journal of Experimental Marine Biology and Ecology|The amino-acid and sugar composition of 16 species of microalgae used in mariculture
+1992|16.0|2.5|Acta Paediatrica|Trans fatty acids may impair biosynthesis of longchain polyunsaturates and growth in man
+1993|13.0|4.0|Plant Physiology|Induction of UDP-Glucose:Salicylic Acid Glucosyltransferase Activity in Tobacco Mosaic Virus-Inoculated Tobacco (Nicotiana tabacum) Leaves
+1994|19.0|2.0|FEBS Letters|Elucidation of the poly-l-proline binding site in Acanthamoeba profilin I by NMR spectroscopy
+1995|60.0|4.5|FEBS Letters|Characterization of a novel protein-binding module  the WW domain
+1996|28.0|2.0|Electrophoresis|Electrokinetic chromatography in suppressed electroosmotic flow environment: Use of a charged cyclodextrin for the separation of enantiomers and geometric isomers
+1997|57.0|4.5|Protein Science|Bayesian statistical analysis of protein side-chain rotamer preferences.
+1998|36.0|5.0|Gut|Intestinal permeability and inflammation in patients on NSAIDs.
+1999|33.0|6.0|Genes & Development|Crystal structure of an OCA-B peptide bound to an Oct-1 POU domain/octamer DNA complex: specific recognition of a protein-DNA interface.
+2000|106.0|4.0|Nature Biotechnology|A general definition of metabolic pathways useful for systematic organizationand analysis of complex metabolic networks
+2001|211.0|5.0|Genome Biology|Characterizing glycosylation pathways
+2002|84.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Poly(ADP-ribose) polymerase-1 dependence of stress-induced transcription factors and associated gene expression in glia
+2003|45.0|5.0|Journal of Chromatography A|Characterization of triacylglycerol and diacylglycerol composition of plant oils using high-performance liquid chromatography-atmospheric pressure chemical ionization mass spectrometry
+2004|172.0|4.0|Molecular and Cellular Biology|Leukemia proto-oncoprotein MLL forms a SET1-like histone methyltransferase complex with menin to regulate Hox gene expression.
+2005|162.0|5.0|FEBS Letters|The interplay between structure and function in intrinsically unstructured proteins
+2006|98.0|3.0|Antonie Van Leeuwenhoek International Journal of General and Molecular Microbiology|Alcoholic fermentation of carbon sources in biomass hydrolysates by Saccharomyces cerevisiae: current status
+2007|98.0|3.5|Journal of Molecular Biology|The Alzheimer's peptides Abeta40 and 42 adopt distinct conformations in water: a combined MD / NMR study.
+2008|63.0|8.0|Ecology|ECOLOGICAL CONSEQUENCES OF CARBON SUBSTRATE IDENTITY AND DIVERSITY IN A LABORATORY STUDY
+2009|68.0|6.0|Forensic Science International|Fluoromethcathinone, a new substance of abuse
+2010|505.0|6.5|Proteins|Improved sidechain torsion potentials for the Amber ff99SB protein force field

@@ -1,0 +1,30 @@
+----  Field Name Tropical medicine: 
+----  Field Level 2.0: 
+----  Field Papers Number 4790:
+----  All time max citation paper: How long do nosocomial pathogens persist on inanimate surfaces? A systematic review, 2006, (560.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1930|1.0|0.5|Archives of Dermatology|SIGNIFICANCE OF MYCOLOGY IN TROPICAL MEDICINE
+1950|1.0|1.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|Chloramphenicol (Chloromycetin) and Tropical Medicine.
+1957|1.0|1.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|The tissue stages and sporogony of Plasmodium knowlesi
+1963|2.0|1.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|A medical service for children under five years of age in West Africa
+1966|1.0|1.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|Present Knowledge of the Role of Vitamin A in Health and Disease.
+1980|9.0|3.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|Epidemiological aspects of three Trypanosoma cruzi zymodemes in Bahia State, Brazil
+1984|0|0.0|Journal of Adolescent Health Care|Leprosy in teenage immigrants: Case reports and clinical review
+1992|1.0|0.5|Clinical Neurology and Neurosurgery|Unusual presentation of tuberculous meningitis
+1993|0|0.0|Diabetes Research and Clinical Practice|Glucose and insulin responses to intravenous glucose challenge in relatives of Nigerian patients with non-insulin-dependent diabetes mellitus
+1996|5.0|5.0|Academic Emergency Medicine|Emergency medicine expeditions to the developing world: the Loma Linda University experience in Papua New Guinea.
+1997|5.0|2.5|Atherosclerosis|The prevalence of insulin resistance and other cardiovascular disease risk factors in healthy elderly southwestern nigerians
+1998|1.0|1.0|Gynecologic Oncology|Resection of a Giant Aggressive Angiomyxoma in the Philippines
+1999|2.0|1.5|Academic Emergency Medicine|A Comparison of Australasian and United States Emergency Medicine Training Programs**
+2000|11.0|2.0|American Journal of Tropical Medicine and Hygiene|Mosquito isolates of Ross River virus from Cairns, Queensland, Australia.
+2001|17.0|8.0|American Journal of Tropical Medicine and Hygiene|The appearance of a second genotype of Japanese encephalitis virus in the Australasian region
+2002|42.0|14.0|BMC Infectious Diseases|Association of circulating Chlamydia pneumoniae DNA with cardiovascular disease: a systematic review
+2003|65.0|9.0|Malaria Journal|Sub-grouping of Plasmodium falciparum 3D7 var genes based on sequence analysis of coding and non-coding regions
+2004|58.0|8.5|Tropical Medicine & International Health|Fake antimalarials in Southeast Asia are a major impediment to malaria control: multinational crosssectional survey on the prevalence of fake antimalarials
+2005|108.0|27.0|PLOS Medicine|"Rapid-impact interventions": how a policy of integrated control for Africa's neglected tropical diseases could benefit the poor.
+2006|216.0|22.0|BMC Infectious Diseases|How long do nosocomial pathogens persist on inanimate surfaces? A systematic review
+2007|125.0|11.0|Malaria Journal|The decline in paediatric malaria admissions on the coast of Kenya
+2008|108.0|33.0|BMC Infectious Diseases|Frequency distribution of hepatitis C virus genotypes in different geographical regions of Pakistan and their possible routes of transmission.
+2009|99.0|34.5|BMC Infectious Diseases|Clinical impact of a commercially available multiplex PCR system for rapid detection of pathogens in patients with presumed sepsis
+2010|144.0|57.0|Malaria Journal|Malaria in Brazil: an overview

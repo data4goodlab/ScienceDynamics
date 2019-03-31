@@ -1,0 +1,56 @@
+----  Field Name Hydraulic engineering: 
+----  Field Level 2.0: 
+----  Field Papers Number 11687:
+----  All time max citation paper: Harmful algal blooms and eutrophication: nutrient sources, composition, and consequences., 2002, (727.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|1.0|1.0||Nitrate concentration and ion balance in relation to citrus nutrition.
+1950|0|0.0|American Journal of Potato Research|Air and soil temperatures in potato fields, Kern County, California, during spring and early summer.
+1955|1.0|1.0||Reclamation of a saline and high boron soil in the Coachella Valley of California
+1960|2.0|0.0|Nature|Paddy soils and rice production.
+1962|1.0|1.0|International Journal of Heat and Mass Transfer|HEAT TRANSFER AT THE INTERFACE OF DISSIMILAR MATERIALS: EVIDENCE OF THERMAL- COMPARATOR EXPERIMENTS
+1963|2.0|2.0|Planetary and Space Science|ATOM CONCENTRATION MEASUREMENTS USING ELECTRON PARAMAGNETIC RESONANCE
+1964|18.0|9.5|Geochimica et Cosmochimica Acta|The determination of rubidium and caesium in stony meteorites by neutron activation analysis and by mass spectrometry
+1965|0|0.0|Experimental Agriculture|Plant Water Relations, Irrigation Management and Crop Yield
+1966|4.0|3.0|Earth and Planetary Science Letters|Effects of weathering on the U Pb ages of zircon from the Morton Gneiss, Minnesota
+1970|4.0|1.0||Movement of s-triazine herbicides in soils.
+1971|37.0|2.0|Geochimica et Cosmochimica Acta|Partitioning of rare earth, alkali and alkaline earth elements between phenocrysts and acidic igneous magma
+1972|8.0|0.0|International Journal of Heat and Mass Transfer|Heat transfer to the transpired turbulent boundary layer.
+1973|8.0|0.0|Talanta|Determination of vanadium and molybdenum by atomic-absorption spectrophotometry.
+1974|14.0|7.0|Journal of Geophysical Research|Frontal structure of a river plume
+1975|1.0|0.0|Journal of Chromatography A|Centrifugal elution chromatography with eluate monitoring
+1976|7.0|6.0|Estuarine and Coastal Marine Science|A two-dimensional numerical model of estuarine circulation: The effects of altering depth and river discharge
+1977|14.0|1.0|Nature|Nile Cone: Late Quaternary stratigraphy and sediment dispersal
+1978|8.0|2.0|Sedimentology|Suspended matter in surface waters: influence of river discharge and of upwelling*
+1979|10.0|3.0||Fate of fertilizer nitrogen applied to wetland rice.
+1980|15.0|2.0|Earth and Planetary Science Letters|226 Ra behavior in the Pee Dee River-Winyah Bay estuary
+1981|5.0|1.5|Estuarine Coastal and Shelf Science|Simulation model of Skeletonema costatum population dynamics in northern San Francisco Bay, California
+1982|15.0|3.0|Water Resources Research|The effects of acid rain on forest nutrient status
+1983|14.0|5.0|Journal of Geophysical Research|Transport and fate of river discharge on the continental shelf of the southeastern United States
+1984|37.0|2.0|Journal of Geophysical Research|Chemical kinetics of waterrock interactions
+1985|25.0|2.0|Hydrobiologia|Temporal dynamics of estuarine phytoplankton: A case study of San Francisco Bay
+1986|13.0|2.0|Environmental Toxicology and Chemistry|Unsaturated zone studies of the degradation and movement of aldicarb and aldoxycarb residues
+1987|15.0|2.0|Limnology and Oceanography|Sestonic bacteria as a food source for filtering invertebrates in two southeastern blackwater rivers
+1988|8.0|1.0|Estuaries|Sediment-water oxygen and nutrient fluxes in a river-dominated estuary
+1989|25.0|2.0|Environmental Toxicology and Chemistry|Groundwater ubiquity score: A simple method for assessing pesticide leachability
+1990|33.0|2.0|Geochimica et Cosmochimica Acta|The formation of leached layers on albite surfaces during dissolution under hydrothermal conditions
+1991|20.0|2.0||Technical Support Document for Water Quality-based Toxics Control
+1992|9.0|2.0|Journal of Irrigation and Drainage Engineering-asce|Hydrodynamic Furrow Irrigation Model with Specified Space Steps
+1993|39.0|2.0|Geochimica et Cosmochimica Acta|Authigenic apatite formation and burial in sediments from non-upwelling, continental margin environments
+1994|18.0|2.0||Fractionated martian atmosphere in the nakhlites?
+1995|47.0|3.0|Netherlands Journal of Sea Research|The European Regional Seas Ecosystem Model, A Complex Marine Ecosystem Model
+1996|32.0|2.0|Continental Shelf Research|Fluid-mud processes on the Amazon continental shelf
+1997|38.0|3.0|Science of The Total Environment|Nutrient transport in the Humber rivers
+1998|28.0|3.0|Biophysical Journal|Simulations of the Erythrocyte Cytoskeleton at Large Deformation. II. Micropipette Aspiration
+1999|45.0|5.0|Marine Geology|Estimating river-sediment discharge to the ocean: application to the Eel margin, northern California
+2000|52.0|4.0|Ecosystems|Long-term nitrogen additions and nitrogen saturation in two temperate forests.
+2001|49.0|6.0|Environmental Pollution|Leaching of heavy metals from contaminated soils using EDTA
+2002|97.0|6.0|Estuaries|Harmful algal blooms and eutrophication: nutrient sources, composition, and consequences.
+2003|116.0|6.0|Nature|Coral record of increased sediment flux to the inner Great Barrier Reef since European settlement
+2004|140.0|7.0|Nature|Export of dissolved organic carbon from peatlands under elevated carbon dioxide levels
+2005|83.0|7.0|Nature|Refractory periods and climate forcing in cholera dynamics
+2006|81.0|7.0|Agricultural Water Management|Water scarcity : Fact or fiction?
+2007|234.0|7.0|Journal of Experimental Botany|Deficit irrigation for reducing agricultural water use
+2008|156.0|8.0|Agronomy Journal|The charcoal vision: a win-win-win scenario for simultaneously producing bioenergy, permanently sequestering carbon, while improving soil and water quality.
+2009|187.0|8.0|Soil Science|Impact of biochar amendment on fertility of a southeastern Coastal Plain soil.
+2010|264.0|7.0|Journal of Climate|Two Types of El Nio Events: Cold Tongue El Nio and Warm Pool El Nio

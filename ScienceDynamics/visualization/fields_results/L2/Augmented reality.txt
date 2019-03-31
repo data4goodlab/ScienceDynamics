@@ -1,0 +1,47 @@
+----  Field Name Augmented reality: 
+----  Field Level 2.0: 
+----  Field Papers Number 7299:
+----  All time max citation paper: Talk to the Virtual Hands: Self-Animated Avatars Improve Communication in Head-Mounted Display Virtual Environments, 2011, (1824.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1965|22.0|22.0|Journal of Applied Physics|GasSurface Interactions and FieldIon Microscopy of Nonrefractory Metals
+1966|0|0.0|American Industrial Hygiene Association Journal|Effect of Humidity and Dose on Latent Image Stability
+1970|3.0|3.0|Proceedings of The Institution of Electrical Engineers|Combined delay- and loss-queuing system
+1972|4.0|3.5|Proceedings of The Institution of Electrical Engineers|Computer-controlled queuing system with service interruptions
+1973|0|0.0|Proceedings of The Institution of Electrical Engineers|Transient in a single-server queuing system
+1974|1.0|1.0|Proceedings of The Institution of Electrical Engineers|Computer-controlled queuing system with switching network and general service times
+1975|5.0|0.5|Vision Research|Accuracy of image stabilization by an optical-electronic feedback system
+1976|0|0.0|annual simulation symposium|A queuing model with discrete service speeds
+1977|0|0.0|Operations Research|Capacity Design and Service Quality Control in a Queuing System
+1979|8.0|4.5|Biological Cybernetics|A mathematical model of the optokinetic reflex
+1980|84.0|2.5|Journal of the ACM|Mean-Value Analysis of Closed Multichain Queuing Networks
+1981|4.0|1.0|Journal of Geophysical Research|An energetics total load sediment transport model for a plane sloping beach
+1982|3.0|2.5|Journal of the ACM|Maximum Processing Rates of Memory Bound Systems
+1983|11.0|2.0|Vision Research|Effects of practice and the separation of test targets on foveal and peripheral stereoacuity
+1984|30.0|2.5|Journal of the ACM|Graph Problems on a Mesh-Connected Processor Array
+1985|5.0|2.0|Vision Research|Electrophysiological evidence for the existence of coarse and fine disparity mechanisms in human
+1986|1.0|1.0|Journal of The Optical Society of America A-optics Image Science and Vision|What is psychophysically perfect image stabilization? Do perfectly stabilized images always disappear?
+1987|4.0|2.0|Vision Research|The role of eye movements in motion detection
+1988|9.0|3.0|Ophthalmology|Binocular Function in Unilateral Aphakia: Correlation with Aniseikonia and Stereoacuity
+1989|46.0|9.0|Communications of The ACM|Efficient distributed event-driven simulations of multiple-loop networks
+1990|21.0|3.0|IEEE Journal on Selected Areas in Communications|Analysis of a discrete-time single-server queue with bursty inputs for traffic control in ATM networks
+1991|25.0|4.0|IEEE Journal on Selected Areas in Communications|Characterization of video codecs as autoregressive moving average processes and related queueing system performance
+1992|46.0|4.0|international conference on computer graphics and interactive techniques|Merging virtual objects with the real world: seeing ultrasound imagery within the patient
+1993|105.0|7.5|Communications of The ACM|Knowledge-based augmented reality
+1994|68.0|8.5|international conference on computer graphics and interactive techniques|Improving static and dynamic registration in an optical see-through HMD
+1995|50.0|6.5|user interface software and technology|The world through the computer: computer augmented interaction with real world environments
+1996|86.0|6.0|international conference on computer graphics and interactive techniques|Superior augmented reality registration by integrating landmark tracking and magnetic tracking
+1997|265.0|4.5|human factors in computing systems|Tangible bits: towards seamless interfaces between people, bits and atoms
+1998|122.0|3.0|international conference on computer graphics and interactive techniques|The office of the future: a unified approach to image-based modeling and spatially immersive displays
+1999|141.0|5.0|human factors in computing systems|Bridging physical and virtual worlds with electronic tags
+2000|241.0|4.0|ACM Transactions on Computer-Human Interaction|Charting past, present, and future research in ubiquitous computing
+2001|202.0|5.0|IEEE Computer Graphics and Applications|Recent advances in augmented reality
+2002|89.0|5.0|IEEE\/ACM Transactions on Networking|The BLUE active queue management algorithms
+2003|196.0|4.0|IEEE\/ACM Transactions on Networking|A duality model of TCP and queue management algorithms
+2004|388.0|4.0|Journal of Geophysical Research|Eulerian flow velocities in the swash zone: Field data and model predictions
+2005|118.0|4.0|computer vision and pattern recognition|ARTag, a fiducial marker system using digital techniques
+2006|165.0|3.0|Mayo Clinic Proceedings|The Risk of Bloodstream Infection in Adults With Different Intravascular Devices: A Systematic Review of 200 Published Prospective Studies
+2007|422.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|MonoSLAM: Real-Time Single Camera SLAM
+2008|190.0|3.0|Solar Physics|The Solar Optical Telescope for the Hinode Mission: An Overview
+2009|275.0|2.0|IEEE Pervasive Computing|The Case for VM-Based Cloudlets in Mobile Computing
+2010|129.0|3.0|user interface software and technology|Combining multiple depth cameras and projectors for interactions on, above and between surfaces

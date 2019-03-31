@@ -1,0 +1,40 @@
+----  Field Name Machine vision: 
+----  Field Level 2.0: 
+----  Field Papers Number 6182:
+----  All time max citation paper: A Computational Approach to Edge Detection, 1986, (6540.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1975|1.0|1.0|Proceedings of the IEEE|Infrared detector arrays by new technologies
+1976|3.0|3.0|IEEE Transactions on Computers|Finding Picture Edges Through Collinearity of Feature Points
+1978|6.0|4.5|Applied Optics|Calculating the Reflectance Map.
+1979|1.0|1.0|Proceedings of the IEEE|Computer analysis of scenes with curved objects
+1981|12.0|12.0|IEEE Computer|Representation of Moving Rigid Objects Based on Visual Observations
+1982|9.0|4.0|international conference on computer graphics and interactive techniques|A new general triangulation method for planar contours
+1983|16.0|14.5|Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing|The detection of intensity changes by computer and biological vision systems
+1984|42.0|2.0|Proceedings of the IEEE|Extended Gaussian images
+1985|23.0|3.0|international conference on robotics and automation|Warp as a machine for low-level vision
+1986|160.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|A Computational Approach to Edge Detection
+1987|46.0|6.0|Journal of The Optical Society of America A-optics Image Science and Vision|Model for the extraction of image flow
+1988|81.0|4.0|Proceedings of the IEEE|Ill-posed problems in early vision
+1989|39.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Polymorphic-torus architecture for computer vision
+1990|78.0|2.0|Journal of The Optical Society of America A-optics Image Science and Vision|Preattentive texture discrimination with early vision mechanisms
+1991|42.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|On three-dimensional surface reconstruction methods
+1992|94.0|3.0|Ai Magazine|Algorithms for constraint-satisfaction problems: a survey
+1993|61.0|2.0|computer vision and pattern recognition|Space-time gestures
+1994|123.0|3.0|IEEE Transactions on Image Processing|Representing moving images with layers
+1995|69.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Efficient color histogram indexing for quadratic form distance functions
+1996|33.0|3.0|IEEE Intelligent Systems|Rapidly adapting machine vision for automated vehicle steering
+1997|68.0|2.0|IEEE Transactions on Neural Networks|Face recognition/detection by probabilistic decision-based neural network
+1998|104.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Efficient region tracking with parametric models of geometry and illumination
+1999|55.0|3.0|Psychological Science|The Role of Fixation Position in Detecting Scene Changes Across Saccades
+2000|161.0|3.0|Vision Research|A saliency-based search mechanism for overt and covert shifts of visual attention
+2001|58.0|3.0|international conference on robotics and automation|Vision-based mobile robot localization and mapping using scale-invariant features
+2002|113.0|4.0||Silhouette-based human identification from body shape and gait
+2003|386.0|5.5|international conference on computer vision|Video Google: a text retrieval approach to object matching in videos
+2004|198.0|4.0|european conference on computer vision|A Boosted Particle Filter: Multitarget Detection and Tracking
+2005|187.0|3.0|computer vision and pattern recognition|Fields of Experts: a framework for learning image priors
+2006|211.0|3.0|IEEE Transactions on Pattern Analysis and Machine Intelligence|Recovering 3D human pose from monocular images
+2007|261.0|3.0|computer vision and pattern recognition|Saliency Detection: A Spectral Residual Approach
+2008|963.0|2.0|Computer Vision and Image Understanding|Speeded-Up Robust Features (SURF)
+2009|194.0|2.0|international conference on machine learning|Online dictionary learning for sparse coding
+2010|813.0|3.0|International Journal of Computer Vision|The Pascal Visual Object Classes (VOC) Challenge

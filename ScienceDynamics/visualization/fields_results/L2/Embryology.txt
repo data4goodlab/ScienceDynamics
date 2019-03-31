@@ -1,0 +1,70 @@
+----  Field Name Embryology: 
+----  Field Level 2.0: 
+----  Field Papers Number 6408:
+----  All time max citation paper: Full-term development of mice from enucleated oocytes injected with cumulus cell nuclei, 1998, (1216.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1931|3.0|3.0|Parasitology|Studies on Trypanosoma grayi . III. Life-Cycle in the Tsetse-fly and in the Crocodile
+1934|8.0|4.0|Biological Reviews|GENES AND INDUCTORS OF SEX DIFFERENTIATION IN AMPHIBIANS1
+1936|2.0|2.0|Journal of Experimental Zoology|The respiratory rate of developing amphibia with special reference to sex differentiation
+1939|1.0|0.5|Journal of Morphology|Sex differentiation during the early pouch stages of the opossum (Didelphys virginiana) and a comparison of the anatomical changes induced by male and female sex hormones
+1940|4.0|1.0|Anatomical Record-advances in Integrative Anatomy and Evolutionary Biology|Sex differentiation in triploid newts (Triturus viridescens)
+1941|0|0.0|Anatomical Record-advances in Integrative Anatomy and Evolutionary Biology|Sex differentiation of chick and duck gonads as studied in homoplastic and heteroplastic hostgraft combinations
+1943|4.0|2.0|Journal of Experimental Zoology|Sexual differentiation in the opossum after early gonadectomy
+1945|0|0.0|Journal of Morphology|The development of the guinea pig ovary from sexual differentiation to maturity
+1950|2.0|2.0|Journal of Experimental Zoology|Sex differentiation in triploid Rana pipiens larvae and the subsequent reversal of females to males
+1955|0|0.0|Anatomical Record-advances in Integrative Anatomy and Evolutionary Biology|Hormonal influences on sex differentiation in the toad, bufo americanus
+1956|9.0|5.0|Journal of Experimental Zoology|Growth and sexual differentiation of hydra in mass culture
+1957|1.0|1.0|Transactions of The Royal Society of Tropical Medicine and Hygiene|Transmission of Plasmodium knowlesi by Anopheles stephensi.
+1959|0|0.0|Journal of Cell Science|The Feulgen Reaction in the Different Stages of the Life-cycles of Certain Sporozoa
+1960|7.0|1.0|American Journal of Anatomy|Sensitive stages for the production of developmental abnormalities in mice with 5fluorouracil
+1961|7.0|1.0|Developmental Biology|Experimental analysis of the origin of cell types in the development of the mouse thymus.
+1962|7.0|1.0|Developmental Biology|Epitheliomesenchymal interaction in pancreatic morphogenesis
+1963|1.0|0.0|Nature|Congenital abnormalities and competition in man and other mammals at different maternal ages.
+1964|21.0|4.0|Journal of Experimental Zoology|Synthetic processes and early development in the mammalian egg.
+1965|4.0|2.5|Developmental Biology|Induction of somite chondrogenesis by cartilage and notochord. A correlation between inductive activity and specific stages of cytodifferentiation.
+1966|1.0|0.0|Cell and Tissue Research|Elektronenmikroskopische Untersuchung an dem Sporozoon Eucoccidium dinophili Grell
+1967|16.0|3.0|Developmental Biology|Early pancreas organogenesis. Morphogenesis, tissue interactions, and mass effects.
+1968|17.0|2.0|Developmental Biology|Ultrastructural studies of early morphogenesis and cytodifferentiation in the embryonic mammalian pancreas.
+1969|17.0|2.0|Cell and Tissue Research|A Histochemical Study of the Primary Catecholamines in the Hypothalamic Neurons of the Rat in Relation to the Ontogenetic and Sexual Differentiation*
+1970|19.0|3.0|Nature|Parthenogenetic mouse blastocysts.
+1971|23.0|4.0|Physiology & Behavior|Sex differences in body weight and eating: Organization and activation by gonadal hormones in the rat
+1972|46.0|3.0|Biological Reviews|X-chromosome inactivation and developmental patterns in mammals.
+1973|24.0|3.0|Developmental Biology|Electrophysiologic study of cultured neurons dissociated from spinal cords and dorsal root ganglia of fetal mice
+1974|15.0|4.0|Nature|A receptor mediating sexual differentiation?
+1975|31.0|4.0|Differentiation|Long Term Culture of Cells Derived from Mouse Blastocysts
+1976|79.0|3.5|Cell|Plasminogen activator in early embryogenesis: Enzyme production by trophoblast and parietal endoderm
+1977|95.0|5.5|Immunological Reviews|Mouse Teratocarcinoma and Embryonic Antigens
+1978|42.0|4.0|Cell|Expression of a Forssman antigenic specificity in the preimplantation mouse embryo
+1979|40.0|4.0|Cell|Gap junctional communication in the post-implantation mouse embryo
+1980|49.0|4.0|Neuroscience & Biobehavioral Reviews|Differentiation of coital behavior in mammals: A comparative analysis
+1981|56.0|5.0|Experimental Cell Research|Changes in the expression and polarization of blood group i and i antigens in post-implantation embryos and teratocarcinomas of mouse associated with cell differentiation.
+1982|70.0|4.0|The Journal of Comparative Neurology|Axonal guidance during development of the great cerebral commissures: Descriptive and experimental studies, in vivo, on the role of preformed glial pathways
+1983|41.0|4.0|Nature|L1 mono- and polyclonal antibodies modify cell migration in early postnatal mouse cerebellum.
+1984|61.0|5.5|Nature|Development of reconstituted mouse eggs suggests imprinting of the genome during gametogenesis
+1985|23.0|3.0|Brain Research|The distribution of monoaminergic cells and fibers in a periventricular preoptic nucleus involved in the control of gonadotropin release: Immunohistochemical evidence for a dopaminergic sexual dimorphism
+1986|12.0|2.0|Brain Research|Testosterone induces hypothalamic aromatase during early development in quail
+1987|201.0|5.5|Cell|The sex-determining region of the human Y chromosome encodes a finger protein
+1988|37.0|4.0|The Journal of Comparative Neurology|Development of the dopaminergic innervation in the prefrontal cortex of the rat
+1989|39.0|4.0|Synapse|Review: Fine structure of synaptogenesis in the vertebrate central nervous system
+1990|58.0|4.0|Evolution and Human Behavior|Epigenetic rules and Darwinian algorithms
+1991|39.0|4.5|Science|Control of doublesex alternative splicing by transformer and transformer-2 in Drosophila
+1992|44.0|5.0|Development|Mox-1 and Mox-2 define a novel homeobox gene subfamily and are differentially expressed during early mesodermal patterning in mouse embryos.
+1993|62.0|3.0|Critical Reviews in Toxicology|Developmental and reproductive toxicity of dioxins and related compounds: cross-species comparisons.
+1994|186.0|6.0|Cell|A cell-specific nuclear receptor is essential for adrenal and gonadal development and sexual differentiation
+1995|37.0|5.0|Mechanisms of Development|Retinoic acid induces stage-specific antero-posterior transformation of rostral central nervous system
+1996|176.0|4.0|Cell|Definitive Hematopoiesis Is Autonomously Initiated by the AGM Region
+1997|160.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Requirement of STAT5b for sexual dimorphism of body growth rates and liver gene expression.
+1998|344.0|8.0|Nature|Full-term development of mice from enucleated oocytes injected with cumulus cell nuclei
+1999|105.0|8.0|Frontiers in Neuroendocrinology|Novel Mechanisms of Estrogen Action in the Brain: New Players in an Old Story
+2000|81.0|8.0|Toxicological Sciences|Perinatal Exposure to the Phthalates DEHP, BBP, and DINP, but Not DEP, DMP, or DOTP, Alters Sexual Differentiation of the Male Rat
+2001|117.0|7.0|Proceedings of the National Academy of Sciences of the United States of America|Genome-wide analysis of developmental and sex-regulated gene expression profiles in Caenorhabditis elegans
+2002|218.0|9.0|Aquaculture|Sex determination and sex differentiation in fish: an overview of genetic, physiological, and environmental influences
+2003|176.0|10.0|Journal of Biomedical Informatics|A reference ontology for biomedical informatics: the foundational model of anatomy
+2004|113.0|8.0|Nature Neuroscience|Sexual differentiation of the vertebrate nervous system.
+2005|201.0|8.0|Development|Cdx2 is required for correct cell fate specification and differentiation of trophectoderm in the mouse blastocyst
+2006|102.0|10.0|Proceedings of the National Academy of Sciences of the United States of America|Neocortical neurogenesis in humans is restricted to development
+2007|285.0|9.5|Nature|Prostaglandin E2 regulates vertebrate haematopoietic stem cell homeostasis
+2008|124.0|8.0|Cancer|Prognostic relevance of a novel TNM classification system for upper gastroenteropancreatic neuroendocrine tumors
+2009|216.0|8.0|Cell Host & Microbe|Drosophila Intestinal Response to Bacterial Infection: Activation of Host Defense and Stem Cell Proliferation
+2010|293.0|8.0|Cancer Cell|DNA Methylation Signatures Identify Biologically Distinct Subtypes in Acute Myeloid Leukemia

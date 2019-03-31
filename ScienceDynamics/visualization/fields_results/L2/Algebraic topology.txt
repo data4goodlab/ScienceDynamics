@@ -1,0 +1,62 @@
+----  Field Name Algebraic topology: 
+----  Field Level 2.0: 
+----  Field Papers Number 8446:
+----  All time max citation paper: A unified statistical approach for determining significant signals in images of cerebral activation, 1996, (1498.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1952|0|0.0|Transactions of the American Mathematical Society|On periodic maps and the Euler characteristics of associated spaces
+1954|11.0|11.0|Transactions of the American Mathematical Society|Concerning Rings of Continuous Functions
+1955|1.0|1.0|Transactions of the American Mathematical Society|Homotopy resolutions of semi-simplicial complexes
+1956|2.0|1.0|Proceedings of the American Mathematical Society|On the Equivalence of the Ring, Lattice, and Semigroup of Continuous Functions
+1959|1.0|0.0|Mathematika|Covering space with equal spheres
+1960|0|0.0|Bulletin of the American Mathematical Society|Loop spaces of $H$-spaces
+1961|3.0|1.0|Proceedings of the American Mathematical Society|BOUNDS FOR SOLUTIONS OF ORDINARY DIFFERENTIAL EQUATIONS
+1962|5.0|3.0|Mathematika|DUALITY IN HOMOTOPY THEORY
+1963|4.0|1.0|Bulletin of the American Mathematical Society|On the immersion problem for real projective spaces
+1964|1.0|0.5|Mathematische Annalen|Holomorphic vector bundles on a compact Riemann surface
+1965|6.0|2.0|Transactions of the American Mathematical Society|The space of minimal prime ideals of a commutative ring
+1966|16.0|6.0|Topology|Homotopy theory of infinite dimensional manifolds
+1967|16.0|1.0|Journal of Geophysical Research|On the low-altitude trapped electron boundary collapse during magnetic storms.
+1968|8.0|5.0|Topology|Milgram's classifying space of a topological group
+1969|5.0|1.0|Transactions of the American Mathematical Society|Classifying spaces and infinite symmetric products
+1970|5.0|1.0|Topology|Weighted homogeneous polynomials and fundamental groups
+1971|12.0|1.0|Advances in Mathematics|Simplicial homotopy theory
+1972|12.0|1.5|Topology|Singularities of complex surfaces with solvable local fundamental group
+1973|11.0|2.0|Inventiones Mathematicae|Configuration-spaces and iterated loop-spaces
+1974|10.0|1.0|Transactions of the American Mathematical Society|Shape theory and compact connected abelian topological groups
+1975|12.0|1.0|Inventiones Mathematicae|Real homotopy theory of Kahler manifolds
+1976|9.0|2.0|Transactions of the American Mathematical Society|Essential embeddings of annuli and Mbius bands in 3-manifolds
+1977|37.0|1.0|Publications Mathmatiques de l'IHS|Infinitesimal computations in topology
+1978|7.0|1.0|Topology|The uniqueness of infinite loop space machines
+1979|22.0|2.0|Journal of Mathematical Physics|GROUP THEORY OF THE INTERACTING BOSON MODEL OF THE NUCLEUS
+1980|7.0|1.0|Inventiones Mathematicae|The surgery obstruction groups for finite 2-groups
+1981|5.0|1.0|Transactions of the American Mathematical Society|The stable geometric dimension of vector bundles over real projective spaces
+1982|12.0|2.0|Inventiones Mathematicae|Ends of maps, II
+1983|14.0|1.0|Inventiones Mathematicae|The second homology group of the mapping class group of an orientable surface
+1984|28.0|1.0|Annals of Mathematics|THE SULLIVAN CONJECTURE ON MAPS FROM CLASSIFYING SPACES
+1985|15.0|2.0|Communications in Mathematical Physics|Index theorem and equivariant cohomology on the loop space
+1986|13.0|1.5|Inventiones Mathematicae|The Euler characteristic of the moduli space of curves
+1987|39.0|3.0|Topology|A polynomial invariant of oriented links
+1988|33.0|1.5|Communications in Mathematical Physics|An instanton-invariant for $3$-manifolds
+1989|111.0|2.0|Nuclear Physics|On the Structure of the Topological Phase of Two-dimensional Gravity
+1990|69.0|2.0|Nuclear Physics|Mean field theory, topological field theory, and multi-matrix models
+1991|70.0|1.0|Communications in Mathematical Physics|On quantum gauge theories in two dimensions
+1992|73.0|1.0|Journal of Geometry and Physics|Two Dimensional Gauge Theories Revisited
+1993|46.0|2.0|symposium on the theory of computing|The asynchronous computability theorem for t -resilient tasks
+1994|125.0|2.0|Physics Letters B|Simple singularities and N=2 supersymmetric Yang-Mills theory
+1995|97.0|1.5|Nuclear Physics|Black hole condensation and the unification of string vacua
+1996|121.0|1.0|Human Brain Mapping|A unified statistical approach for determining significant signals in images of cerebral activation
+1997|83.0|1.0|international conference on computer graphics and interactive techniques|Progressive simplicial complexes
+1998|24.0|1.0|Experimental Neurology|Regeneration and Sprouting of Chronically Injured Corticospinal Tract Fibers in Adult Rats Promoted by NT-3 and the mAb IN-1, Which Neutralizes Myelin-Associated Neurite Growth Inhibitors
+1999|40.0|2.0|Journal of High Energy Physics|D-branes and Discrete Torsion II
+2000|81.0|2.0|Computer Physics Communications|Morphological image analysis
+2001|56.0|2.0|Journal of High Energy Physics|Geometric Transitions, Brane Dynamics and Gauge Theories
+2002|181.0|2.0|Journal of High Energy Physics|Multi-Instanton Calculus and Equivariant Cohomology
+2003|88.0|2.0|Journal of High Energy Physics|Supersymmetric Orientifolds of Gepner Models
+2004|151.0|3.0|Journal of High Energy Physics|Chiral Supersymmetric Gepner Model Orientifolds
+2005|266.0|3.0|Geophysical Research Letters|Seismic precursory patterns before a cliff collapse and critical point phenomena
+2006|93.0|3.0|Journal of High Energy Physics|Proof of vanishing cohomology at the tachyon vacuum
+2007|161.0|2.0|Global Environmental Change-human and Policy Dimensions|Vulnerability: A generally applicable conceptual framework for climate change research
+2008|151.0|3.0|Journal of High Energy Physics|Selfdual strings and loop space Nahm equations
+2009|125.0|2.0|Journal of High Energy Physics|Monodromies, fluxes, and compact three-generation F-theory GUTs
+2010|82.0|2.0|Journal of High Energy Physics|Tailoring Three-Point Functions and Integrability

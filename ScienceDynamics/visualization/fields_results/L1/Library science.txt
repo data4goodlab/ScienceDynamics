@@ -1,0 +1,71 @@
+----  Field Name Library science: 
+----  Field Level 1.0: 
+----  Field Papers Number 14724:
+----  All time max citation paper: The COG database: an updated version includes eukaryotes, 2003, (1957.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1940|2.0|2.0|Journal of Dairy Science|The vitamin A requirements of dairy cows for the production of butterfat of high vitamin A value. I. Artificially dried alfalfa hay (carotene)1
+1941|3.0|3.0|JAMA Pediatrics|DEVELOPMENTAL PATTERN OF THE CHILD AS REFLECTED IN THE CALCIFICATION PATTERN OF THE TEETH
+1942|0|0.0|The Journal of Pediatrics|Human milk technology.
+1944|0|0.0|American Journal of Orthodontics and Oral Surgery|Dental abnormalities as found in the American Indian
+1945|0|0.0|American Antiquity|Periods of Prehistoric Art in the Aleutian Islands
+1949|0|0.0|American Antiquity|Excavation of Tommy Tucker Cave, Lassen County, California
+1950|3.0|0.0|Economic Botany|The taxonomy, genetics, production and uses of the cultivated species of Cucrbita.
+1951|2.0|2.0||Electromagnetic Radiation Fundamentals and their Applications in Food Technology
+1952|1.0|0.5|Journal of Dairy Science|Sulfur Dioxide Preservation of Forage Crops1
+1953|1.0|0.5|Oral Surgery, Oral Medicine, Oral Pathology|The occurrence of torus palatinus and torus mandibularis in 2,478 dental patients
+1954|1.0|0.5|Arctic|Archaeological Research in the North American Arctic
+1957|9.0|2.5|The New England Journal of Medicine|INTRAVENOUS INFUSION OF BONE MARROW IN PATIENTS RECEIVING RADIATION AND CHEMOTHERAPY
+1958|0|0.0|American Anthropologist|ORIGIN OF THE MESCAL BEAN CULT
+1959|1.0|0.0|Journal of Dairy Science|Radiation Preservation of Milk and Milk Products. V. Precursors to the Radiation-Induced Oxidation Flavor of Milk Fat1
+1960|5.0|5.0|American Journal of Physical Anthropology|A functional approach to craniology
+1961|1.0|1.0|American Journal of Potato Research|EFFECT OF IRRADIATION ON STORAGE QUALITY OF POTATOES.
+1962|4.0|4.0|Journal of Chemical Physics|Color Centers in a CeriumContaining Silicate Glass
+1963|9.0|4.5|Radiation Botany|Fruit irradiationphysical methods
+1964|11.0|0.5|American Journal of Orthodontics|A study of the postnatal growth of the human mandible
+1965|4.0|2.0|Arctic|Radiocarbon Dating, Barrow, Alaska
+1966|12.0|2.0|JAMA|Prevalence of osteoporosis in high- and low-fluoride areas in North Dakota.
+1967|11.0|0.0|Geochimica et Cosmochimica Acta|Cooling rates of 27 iron and stony-iron meteorites
+1968|32.0|2.0|Science|Sea Levels during the Past 35,000 Years
+1969|18.0|1.0|Journal of Clinical Investigation|Hemoglobin function in stored blood
+1970|23.0|1.0|Metabolism-clinical and Experimental|Physiological factors regulating secretion of neurophysin
+1971|7.0|2.5|Cryobiology|Changes in red cells following rapid freezing with extracellular cryoprotective agents
+1972|7.0|0.0|Journal of Vocational Behavior|Occupational choice of male graduate students as related to values and personality: A test of Holland's theory
+1973|18.0|1.5|Kidney International|Skeletal abnormalities in chronic renal insufficiency before and during maintenance hemodialysis
+1974|19.0|1.0|Social Indicators Research|Developing measures of perceived life quality: Results from several national surveys
+1975|18.0|2.0|Journal of Human Evolution|Multivariate analysis in biological anthropology: Some considerations
+1976|14.0|2.0|Kidney International|Bone histology in incipient and advanced renal failure.
+1977|25.0|2.0|Limnology and Oceanography|A trophic state index for lakes
+1978|31.0|1.0|Icarus|Taxonomy of asteroids
+1979|25.0|2.0|Reviews of Geophysics|Are carbonaceous chondrites primitive or processed? A review
+1980|18.0|1.0|Educational Evaluation and Policy Analysis|An Analysis of Alternative Approaches to Evaluation
+1981|31.0|1.0|Journal of Neurochemistry|Postmortem changes of amino compounds in human and rat brain.
+1982|16.0|2.0|Journal of Neurosurgery|Influence of the type of intracranial lesion on outcome from severe head injury A multicenter study using a new classification system
+1983|29.0|2.5|Quaternary Science Reviews|Dynamic Plant Ecology: the Spectrum of Vegetational Change in Space and Time
+1984|24.0|2.0|Quaternary Research|Holocene climatic change in the northern Midwest: Pollen-derived estimates
+1985|26.0|1.0|The New England Journal of Medicine|Paleolithic nutrition: a consideration of its nature and current implications
+1986|24.0|1.0|Journal of Vocational Behavior|Sex Differences in Work Values.
+1987|17.0|1.0|national conference on artificial intelligence|TEST: a model-driven application shell
+1988|25.0|2.0|Sex Roles|Increasing Similarity in the Values and Life Plans of Male and Female College Students? Evidence and Implications.
+1989|17.0|2.0|Journal of Clinical Epidemiology|Methodology for measuring health-state preferencesII: Scaling methods
+1990|76.0|1.0|Child Development|Young Children's Understanding of Fact Beliefs versus Value Beliefs
+1991|17.0|1.0|Journal of Archaeological Science|Aspects of the Chemistry of Modern and Fossil Biological Apatites
+1992|34.0|1.0|Journal of Molecular and Cellular Cardiology|Ischaemic preconditioning and contractile function: Studies with normothermic and hypothermic global ischaemia
+1993|71.0|2.0|Review of Educational Research|Beyond Cold Conceptual Change, The Role of Motivational Beliefs and Classroom Contextual Factors in the Process of Conceptual Change
+1994|67.0|2.0|Catena|A classification of natural rivers
+1995|86.0|2.0|Survey of Ophthalmology|An international classification and grading system for age-related maculopathy and age-related macular degeneration
+1996|54.0|2.0|FEBS Letters|Generation of active oxygen in elicited cells of Arabidopsis thaliana is mediated by a NADPH oxidase-like enzyme
+1997|138.0|3.0|International Journal of Systematic and Evolutionary Microbiology|Proposal for a New Hierarchic Classification System, Actinobacteria classis nov.
+1998|109.0|3.0|knowledge discovery and data mining|Integrating Classification and Association Rule Mining
+1999|66.0|3.0|The Journal of Urology|NEPHRON SPARING SURGERY FOR LOCALIZED RENAL CELL CARCINOMA: IMPACT OF TUMOR SIZE ON PATIENT SURVIVAL, TUMOR RECURRENCE AND TNM STAGING
+2000|158.0|4.0|Microbiology and Molecular Biology Reviews|A functional-phylogenetic classification system for transmembrane solute transporters.
+2001|152.0|4.0|Biochemical Journal|Structure, function and evolution of glutathione transferases: implications for classification of non-mammalian members of an ancient enzyme superfamily.
+2002|356.0|5.0|Cancer Research|Serum Protein Fingerprinting Coupled with a Pattern-matching Algorithm Distinguishes Prostate Cancer from Benign Prostate Hyperplasia and Healthy Men
+2003|664.0|5.0|BMC Bioinformatics|The COG database: an updated version includes eukaryotes
+2004|232.0|5.0|Gastroenterology|Hepatocellular carcinoma in cirrhosis: incidence and risk factors.
+2005|237.0|5.0|Pharmaceutical Research|Predicting drug disposition via application of BCS: transport/absorption/ elimination interplay and development of a biopharmaceutics drug disposition classification system.
+2006|258.0|5.0||Stern Review: The Economics of Climate Change
+2007|342.0|5.0|Nature Reviews Genetics|A unified classification system for eukaryotic transposable elements
+2008|313.0|5.0|Archives of Virology|Geminivirus strain demarcation and nomenclature.
+2009|378.0|5.0|Journal of Environmental Management|Recent developments in Life Cycle Assessment
+2010|244.0|5.0|Acta Tropica|Expert consensus for the diagnosis and treatment of cystic and alveolar echinococcosis in humans

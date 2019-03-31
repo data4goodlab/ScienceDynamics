@@ -1,0 +1,49 @@
+----  Field Name Population ecology: 
+----  Field Level 2.0: 
+----  Field Papers Number 1415:
+----  All time max citation paper: More than mere numbers: the impact of lethal control on the social stability of a top-order predator., 2009, (968.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1960|3.0|3.0|The American Naturalist|The genetic factor in population ecology.
+1967|0|0.0|International Journal of Pest Management: Part A|The Importance of Population Ecology Studies in Approaching Insect Control Problems
+1969|3.0|1.5|Journal of Zoology|The population ecology of a selfmaintaining colony of the Common frog (Rana temporaria)
+1970|1.0|1.0||Changes in Mean Fitness under Natural Selection
+1971|2.0|2.0|Oecologia|The population ecology of the Cinnabar Moth, Tyria jacobaeae L. (Lepidoptera, Arctiidae)
+1972|6.0|5.5|Oecologia|The Influence of Vegetational Diversity on the Population Ecology of a Specialized Herbivore, Phyllotreta cruciferae (Coleoptera: Chrysomelidae)
+1974|23.0|6.0|Advances in Ecological Research|Population Cycles in Small Mammals
+1975|8.0|4.5|Marine Biology|Growth and form in the reef-building coral Montastrea annularis
+1976|5.0|3.0|Hydrobiologia|CALCIUM AS A LIMITING FACTOR IN THE BIOLOGY OF BIOMPHALARIA PFEIFFERI (KRAUSS), (GASTROPODA: PLANORBIDAE)
+1977|5.0|4.0|Hydrobiologia|The population ecology of gammarus tigrinus (sexton) in the reed beds of the Tjeukemeer
+1978|7.0|3.0|Marine Biology|Spatial and temporal dynamics of a subtidal estuarine gastrotrich assemblage
+1979|4.0|3.5|Oecologia|Population regulation in Bromus rubens and B. mollis: Life cycle components and competition
+1980|11.0|0.0|Oecologia|Reproductive effort of winkles ( Littorina spp.) with contrasted methods of reproduction
+1981|9.0|2.5|Oecologia|The population ecology of a natural population of the pierid butterfly Colias alexandra
+1982|10.0|3.0|Marine Biology|Patchy distribution of zooplankton: Behavior, population assessment and sampling problems
+1983|14.0|2.5|Hydrobiologia|Invertebrate predation on planktonic rotifers
+1984|6.0|1.0|Journal of Experimental Marine Biology and Ecology|Population ecology of the temperate reef fish Pseudolabrus celidotus Bloch & Schneider (Pisces: Labridae). II. Factors influencing adult density
+1985|5.0|1.0|Biocontrol|Evolution of pesticide resistance in apple pests and their natural enemies
+1986|3.0|2.0|Australian Journal of Botany|Population dynamics and regeneration of a hybrid zone between Eucalyptus risdonii Hook. f. and E. amygdalina Labill
+1987|10.0|2.0|Hydrobiologia|The analysis of planktonic rotifer populations: A plea for long-term investigations
+1988|8.0|3.0|Academy of Management Review|Properties of Emerging Organizations
+1989|2.0|1.0|Oecologia|Population ecology and life history of the diurnal skink Morethia boulengeri in arid Australia
+1990|22.0|2.0|Philosophical Transactions of the Royal Society B|Density Dependence, Regulation and Variability in Animal Populations
+1991|11.0|2.0|Oecologia|Fluctuating food supply affects the clutch size of Tengmalm's owl independent of laying date
+1992|14.0|1.5|American Journal of Botany|Genetic diversity and spatial subdivision of Populus tremuloides (Salicaceae) in a heterogeneous landscape
+1993|5.0|2.0|Oecologia|The regeneration niche of the grey mangrove (14 vicennia marina): effects of salinity, light and sediment factors on establishment, growth and survival in the field
+1994|17.0|2.0|Journal of Animal Ecology|Population cycles of forest Lepidoptera: a maternal effect hypothesis
+1995|17.0|3.0|Netherlands Journal of Sea Research|Why the whelk ( Buccinum undatum ) has become extinct in the dutch Wadden Sea
+1996|18.0|3.0|Oecologia|Effects of an invading coccinellid on native coccinellids in an agricultural landscape.
+1997|26.0|4.5|Fungal Biology|Population ecology of Suillus variegatus in old Swedish Scots pine forests
+1998|59.0|5.0|Trends in Ecology and Evolution|Population dynamics of large herbivores: variable recruitment with constant adult survival
+1999|93.0|5.5|Neuroscience & Biobehavioral Reviews|Coping styles in animals: current status in behavior and stress-physiology
+2000|61.0|5.0|Biological Conservation|Restoration ecology and conservation biology
+2001|85.0|5.0|Oecologia|Ecological effects of the North Atlantic Oscillation
+2002|54.0|6.0|Journal of Animal Ecology|Variation in survivorship of a migratory songbird throughout its annual cycle
+2003|49.0|8.5|Applied and Environmental Microbiology|Automated enumeration of groups of marine picoplankton after fluorescence in situ hybridization.
+2004|111.0|7.0|Nature|Why large-scale climate indices seem to predict ecological processes better than local weather
+2005|54.0|7.0|Nature|Host immunity and synchronized epidemics of syphilis across the United States
+2006|187.0|6.0|Ecology Letters|Biotic Interactions and Plant Invasions
+2007|122.0|8.0|Annual Review of Entomology|Population ecology of insect invasions and their management
+2008|125.0|10.0|Trends in Ecology and Evolution|Collapsing population cycles
+2009|886.0|8.5|PLOS ONE|More than mere numbers: the impact of lethal control on the social stability of a top-order predator.
+2010|193.0|7.0|Annual Review of Ecology, Evolution, and Systematics|Citizen Science as an Ecological Research Tool: Challenges and Benefits

@@ -1,0 +1,51 @@
+----  Field Name Pulmonology: 
+----  Field Level 2.0: 
+----  Field Papers Number 5646:
+----  All time max citation paper: Influenza Vaccination in Adults with Chronic Obstructive Pulmonary Disease: The Impact of a Diagnostic Breathing Test on Vaccination Rates, 2013, (1420.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1955|1.0|1.0|The American Journal of Medicine|Improved apparatus for determining the functional residual capacity of the lung by the open circuit method
+1965|1.0|0.5|Canadian Journal of Anaesthesia-journal Canadien D Anesthesie|Alveolar collapse induced by enitrogenation
+1967|2.0|1.0|Pediatric Research|The Relation of Metabolic Rate to Body Weight and Organ Size
+1968|9.0|4.0|Journal of Clinical Investigation|A comparison of the effects of vasodilator stimuli on peripheral resistance vessels in normal subjects and in patients with congestive heart failure.
+1969|6.0|3.0|Pediatric Research|Hemoglobin C in Newborn Sheep and Goats: A Possible Explanation for its Function and Biosynthesis
+1970|10.0|2.0|Acta Physiologica Scandinavica|Effects of Vasoactive Drugs on Circulation in Canine Subcutaneous Adipose Tissue
+1972|2.0|1.0|American Heart Journal|Densitography - A new method for evaluation of cardiac performance of rest and during exercise.
+1973|8.0|3.0|Pediatric Research|Development of Methyltransferase Activities of Human Fetal Tissues
+1974|2.0|0.0|Acta Paediatrica|DEVELOPMENT OF PULMONARY FUNCTION IN LATE GESTATION: I. The Functional Residual Capacity of the Lung in Premature Children
+1975|1.0|1.0|Psychophysiology|Cephalic and Digital Vasomotor Orienting Responses: The Effect of Stimulus Intensity and Rise Time
+1976|25.0|0.0|Psychophysiology|Digital Temperature Autoregulation and Associated Cardiovascular Changes
+1977|1.0|0.5|Atherosclerosis|Limb blood flow in treated hyperlipoproteinaemic patients with peripheral vascular disease
+1978|3.0|2.0|Respiration Physiology|A theoretical analysis of the barometric method for measurement of tidal volume
+1979|7.0|1.0|Journal of Clinical Investigation|Increased surface tension favors pulmonary edema formation in anesthetized dogs' lungs.
+1980|7.0|1.0|Environmental Research|Acute effects of inhaled SO 2 plus NaCl droplet aerosol on pulmonary function in asthmatic adolescents
+1981|9.0|1.0|Acta Physiologica Scandinavica|Duration of increase in vascular volume during venous stasis
+1982|9.0|1.0|Pediatric Research|Human Erythrocyte Prolidase and Prolidase Deficiency
+1983|10.0|2.0|Pediatric Research|An Enzyme-Linked Immunoassay of Surfactant Apoproteins. Its Application to the Study of Fetal Lung Development in the Rat
+1984|6.0|1.0|Pediatric Research|Fat Digestion by Lingual Lipase: Mechanism of Lipolysis in the Stomach and Upper Small Intestine
+1985|17.0|0.0|The Lancet|DOUBLE-BLIND TRIAL OF CL115,347, A TRANSDERMALLY ABSORBED PROSTAGLANDIN E2 ANALOGUE, IN TREATMENT OF RAYNAUD'S PHENOMENON
+1986|6.0|0.0|Pediatric Research|Effects of the Thromboxane Synthetase Inhibitor, Dazmegrel (UK 38,485), on Pulmonary Gas Exchange and Hemodynamics in Neonatal Sepsis
+1987|8.0|1.0|The Journal of Allergy and Clinical Immunology|Inhalation methods for the study of airway responsiveness
+1988|4.0|0.0|Acta Paediatrica|Abnormalities of Functional Residual Capacity in Symptomatic and Asymptomatic Young Asthmatics
+1989|12.0|0.0|International Journal of Radiation Oncology Biology Physics|Results of a prospective study evaluating the effects of mantle irradiation on pulmonary function
+1990|12.0|2.0|Pain|Pain and vascular reflexes in man elicited by prolonged noxious mechano-stimulation
+1991|18.0|3.0|Pediatric Research|Congenital Hypoplastic Anemia, Diabetes, and Severe Renal Tubular Dysfunction Associated with a Mitochondrial DNA Deletion
+1992|12.0|2.0|Intensive Care Medicine|An experimental randomized study of five different ventilatory modes in a piglet model of severe respiratory distress.
+1993|6.0|1.0|Journal of Vascular Surgery|Detection of outflow obstruction in chronic venous insufficiency
+1994|16.0|1.5|The Journal of Pediatrics|High-dose, short-duration ribavirin aerosol therapy compared with standard ribavirin therapy in children with suspected respiratory syncytial virus infection
+1995|25.0|1.0|Journal of Pediatric Surgery|Prenatal hormonal therapy improves pulmonary compliance in the nitrofen-induced CDH rat model
+1996|56.0|5.0|Pediatric Research|The Very Low Birth Weight Premature Infant Is Capable of Synthesizing Arachidonic and Docosahexaenoic Acids from Linoleic and Linolenic Acids
+1997|137.0|5.0|Journal of Clinical Investigation|Tetrahydrobiopterin restores endothelial function in hypercholesterolemia.
+1998|102.0|5.0|Pediatric Research|Visual acuity and the essentiality of docosahexaenoic acid and arachidonic acid in the diet of term infants.
+1999|82.0|5.0|Pediatric Research|The New BPD: An Arrest of Lung Development
+2000|79.0|8.0|Pediatric Research|Antenatal Glucocorticoids and Programming of the Developing CNS
+2001|172.0|8.0|Pediatric Research|Neurobiology of Periventricular Leukomalacia in the Premature Infant
+2002|77.0|8.0|Pediatric Research|Surfactant Protein D Gene Polymorphism Associated with Severe Respiratory Syncytial Virus Infection
+2003|102.0|8.0|The Journal of Allergy and Clinical Immunology|Tucson children's respiratory study: 1980 to present
+2004|206.0|8.0|European Respiratory Journal|Effects of tiotropium on lung hyperinflation, dyspnoea and exercise tolerance in COPD
+2005|67.0|9.0|Pediatric Research|Erythropoietin Improves Functional and Histological Outcome in Neonatal Stroke
+2006|59.0|8.0|Pediatric Research|Reduced Enterobacterial and Increased Staphylococcal Colonization of the Infantile Bowel: An Effect of Hygienic Lifestyle?
+2007|117.0|8.0|NeuroImage|Low Frequency Fluctuations in the Cardiac Rate as a Source of Variance in the Resting-State fMRI BOLD Signal
+2008|134.0|10.0|The Journal of Allergy and Clinical Immunology|Obesity and asthma: Possible mechanisms
+2009|444.0|9.0|Pediatric Research|Epidemiology of pervasive developmental disorders.
+2010|116.0|9.0|Pediatric Research|Intraventricular hemorrhage in premature infants: mechanism of disease.

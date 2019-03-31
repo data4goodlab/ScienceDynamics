@@ -1,0 +1,40 @@
+----  Field Name Combinatorial chemistry: 
+----  Field Level 1.0: 
+----  Field Papers Number 25002:
+----  All time max citation paper: MUSCLE: multiple sequence alignment with high accuracy and high throughput., 2004, (9555.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1973|4.0|4.0|IEEE Transactions on Computers|A Hybrid Digital/Optical Computer System
+1976|1.0|1.0|Review of Scientific Instruments|Gridless retarding potential analyzer for use in very-low-energy charged particle detection
+1979|18.0|2.0|IEEE Transactions on Information Theory|Tree algorithms for packet broadcast channels
+1980|5.0|2.5||The Distributed Double-Loop Computer Network (DDLCN)
+1981|5.0|1.0|international symposium on computer architecture|Efficient interprocessor communication for MIMD multiprocessor systems
+1982|0|0.0|IEEE Transactions on Components, Hybrids, and Manufacturing Technology|Development of the Spherical Silicon Solar Cell
+1983|8.0|1.0|IEEE Transactions on Computers|Dynamic Time Warp Pattern Matching Using an Integrated Multiprocessing Array
+1984|76.0|12.0|Nature|Mechanism of ion permeation through calcium channels
+1985|23.0|0.5|IEEE Transactions on Communications|Flow Control in Local-Area Networks of Interconnected Token Rings
+1986|2.0|1.0|IEEE Transactions on Acoustics, Speech, and Signal Processing|A ring array processor architecture for highly parallel dynamic time warping
+1987|12.0|4.0|IEEE Transactions on Communications|A New Error Control Scheme for Hybrid ARQ Systems
+1988|83.0|5.0||iWarp: an integrated solution to high-speed parallel computing
+1989|24.0|1.0|international symposium on computer architecture|High Performance Communications In Processor Networks
+1990|52.0|3.5|very large data bases|Parity Striping of Disk Arrays: Low-Cost Reliable Storage with Acceptable Throughput
+1991|22.0|3.0|Journal of Vlsi Signal Processing Systems for Signal Image and Video Technology|Carry-Save Architectures for High-Speed Digital Signal Processing
+1992|19.0|1.5|Electrophoresis|Highthroughput automated DNA sequencing facility with fluorescent labels at the European Molecular Biology Laboratory
+1993|69.0|3.0|IEEE Transactions on Circuits and Systems Ii: Analog and Digital Signal Processing|The CNN universal machine: an analogic array computer
+1994|78.0|3.0|symposium on operating systems principles|Fbufs: a high-bandwidth cross-domain transfer facility
+1995|43.0|4.0|Chemistry & Biology|New promise in combinatorial chemistry: synthesis, characterization, and screening of small-molecule libraries in solution
+1996|214.0|3.0|Tetrahedron|Solid-phase organic reactions: A review of the recent literature
+1997|106.0|6.0|Proceedings of the National Academy of Sciences of the United States of America|Directed evolution of a fucosidase from a galactosidase by DNA shuffling and screening.
+1998|403.0|6.0|Plant Journal|Floral dip : a simplified method for Agrobacterium-mediated transformation of Arabidopsis thaliana
+1999|642.0|6.0|Nature Genetics|High density synthetic oligonucleotide arrays
+2000|996.0|7.0|Nature|A comprehensive analysis of protein|[ndash]|protein interactions in Saccharomyces cerevisiae
+2001|264.0|9.0|Methods|An overview of real-time quantitative PCR: applications to quantify cytokine gene expression.
+2002|967.0|10.0|Genome Biology|Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes
+2003|847.0|10.0|American Journal of Human Genetics|A Comparison of Bayesian Methods for Haplotype Reconstruction from Population Genotype Data
+2004|5732.0|10.0|Briefings in Bioinformatics|MEGA3: Integrated software for Molecular Evolutionary Genetics Analysis and sequence alignment
+2005|767.0|9.0|Cancer Cell|Activating mutation in the tyrosine kinase JAK2 in polycythemia vera, essential thrombocythemia, and myeloid metaplasia with myelofibrosis
+2006|880.0|9.0|Molecular Systems Biology|Construction of Escherichia coli K12 inframe, singlegene knockout mutants: the Keio collection
+2007|865.0|9.0|Nature|Genome-wide atlas of gene expression in the adult mouse brain
+2008|2983.0|10.0|Acta Crystallographica Section A|A short history of SHELX
+2009|5660.0|9.0|Nature Protocols|Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+2010|2576.0|11.0|Nature Methods|QIIME allows analysis of high-throughput community sequencing data

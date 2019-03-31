@@ -1,0 +1,68 @@
+----  Field Name Operating system: 
+----  Field Level 1.0: 
+----  Field Papers Number 223063:
+----  All time max citation paper: Clustal W and Clustal X version 2.0, 2007, (8914.0 citations)
+----  Papers with max citations after 5 year 
+ Year|Citations|Median Citations|Venue Name|Title
+1935|0|0.0|Journal of Ecology|A Study of the Natural Control of Ragwort (Senecio jacobaea L.).
+1937|0|0.0||Detection and measurement of stream pollution
+1938|4.0|4.0|JAMA|POLIOMYELITIS VIRUS IN HUMAN STOOLS
+1940|2.0|1.0|Parasitology|The Longevity of the fasting Bed-bug (C. lecularius, L.) under experimental Conditions and particularly in Relation to the Saturation Deficiency Law of Water-loss.
+1941|0|0.0||The problem of cooling an air-cooled cylinder on an aircraft engine
+1948|1.0|1.0|Journal of the American Oil Chemists' Society|Partial hydrogenation of linseed oil by a continuous process
+1950|8.0|4.0|Nature|Survival of spermatozoa at low temperatures.
+1953|4.0|4.0||The hydraulic geometry of stream channels and some physiographic implications
+1954|0|0.0|Antonie Van Leeuwenhoek International Journal of General and Molecular Microbiology|Chromatographie des composants ternaires du mycelium dePenicillium brevicompactum
+1957|1.0|1.0|Management Science|A Linear Programming Solution to Dynamic Leontief type Models
+1959|5.0|3.5|Proceedings of The Institute of Radio Engineers|Abnormal Ionization in the Lower Ionosphere Associated with Cosmic-Ray Flux Enhancements
+1960|2.0|2.0|Bulletin of Entomological Research|Observations on the Simulium neavei complex at Amani in Tanganyika.
+1961|15.0|9.0|Journal of Dairy Science|Method for Removing Cationic Radionuclides from Milk
+1962|10.0|4.5|Journal of Applied Physics|Dislocations and Plastic Flow in NaCl Single Crystals. I
+1963|34.0|5.0||Sketchpad: a man-machine graphical communication system
+1964|27.0|4.0|Journal of Geophysical Research|Excitation by local electric fields in the aurora and airglow
+1965|21.0|2.0|Journal of Geophysical Research|Electron acceleration and plasma instabilities in the transition region
+1966|33.0|1.0|Planetary and Space Science|HYDROMAGNETIC FLOW AROUND THE MAGNETOSPHERE
+1967|58.0|4.5|Journal of the ACM|A Machine-Independent Theory of the Complexity of Recursive Functions
+1968|33.0|2.0|Journal of Geophysical Research|Universaltime control of the lowenergy electron fluxes in the polar regions
+1969|30.0|3.0|ACM Computing Surveys|A Survey of Analytical Time-Sharing Models
+1970|58.0|2.0|Journal of Geophysical Research|Observation of a solar flare induced interplanetary shock and heliumenriched driver gas
+1971|34.0|2.0|Journal of the ACM|Principles of Optimal Page Replacement
+1972|32.0|2.0|Communications of The ACM|Trace-driven modeling and analysis of CPU scheduling in a multiprogramming system
+1973|47.0|2.0|Advances in Cancer Research|Genetic control of murine viral leukemogenesis.
+1974|118.0|1.0|Communications of The ACM|Monitors: an operating system structuring concept
+1975|93.0|2.0|Journal of the ACM|Open, Closed, and Mixed Networks of Queues with Different Classes of Customers
+1976|86.0|2.0|ACM Transactions on Database Systems|The design and implementation of INGRES
+1977|54.0|1.0|Journal of Geophysical Research|Properties of aerosols in the Martian atmosphere, as inferred from Viking Lander imaging data
+1978|117.0|2.0|Advances in Computers|Notes on Data Base Operating Systems
+1979|38.0|2.0|Journal of the Operational Research Society|The Future of Operational Research is Past
+1980|37.0|2.0|Automatica|Human dynamics in man-machine systems
+1981|60.0|2.0|symposium on operating systems principles|Accent: A communication oriented network operating system kernel
+1982|81.0|2.0|American Psychologist|Cumulative Development of Attentional Theory.
+1983|140.0|2.0|Journal of Cell Biology|Endocytosis and the recycling of plasma membrane.
+1984|145.0|2.0|ACM Transactions on Computer Systems|Implementing remote procedure calls
+1985|79.0|2.0|ACM Transactions on Database Systems|Modeling concepts for VLSI CAD objects
+1986|194.0|2.0|international conference on management of data|The design of POSTGRES
+1987|305.0|2.0|IEEE Computer|Hypertext: An Introduction and Survey
+1988|101.0|2.0|architectural support for programming languages and operating systems|A VLIW architecture for a trace scheduling compiler
+1989|94.0|2.0|winter simulation conference|Introduction to SIMAN
+1990|173.0|2.0|IEEE Transactions on Computers|Priority inheritance protocols: an approach to real-time synchronization
+1991|123.0|3.0|Journal of Computer and System Sciences|How to emulate shared memory
+1992|295.0|3.0|acm conference on systems programming languages and applications software for humanity|SPLASH: Stanford parallel applications for shared-memory
+1993|255.0|3.0|Artificial Intelligence|Agent-oriented programming
+1994|189.0|3.0|international symposium on computer architecture|The Stanford FLASH multiprocessor
+1995|290.0|3.0|international symposium on computer architecture|The SPLASH-2 programs: characterization and methodological considerations
+1996|157.0|3.0|IEEE Computer|TreadMarks: shared memory computing on networks of workstations
+1997|284.0|3.0|FEBS Letters|Uncoupling protein-3: a new member of the mitochondrial carrier family with tissue-specific expression.
+1998|513.0|3.0|IEEE Journal on Selected Areas in Communications|A simple transmit diversity technique for wireless communications
+1999|386.0|4.0|IEEE\/ACM Transactions on Networking|Promoting the use of end-to-end congestion control in the Internet
+2000|394.0|4.0|international conference on computer communications|RADAR: an in-building RF-based user location and tracking system
+2001|952.0|4.0||Pastry: Scalable, Decentralized Object Location, and Routing for Large-Scale Peer-to-Peer Systems
+2002|614.0|4.0|international conference on computer communications|An energy-efficient MAC protocol for wireless sensor networks
+2003|863.0|4.0|symposium on operating systems principles|Xen and the art of virtualization
+2004|927.0|4.0||Image processing with ImageJ
+2005|623.0|4.0|International Journal of Climatology|An improved method of constructing a database of monthly climate observations and associated high-resolution grids
+2006|369.0|3.0|IEEE Journal on Selected Areas in Communications|On the optimality of multiantenna broadcast scheduling using zero-forcing beamforming
+2007|4319.0|3.0|Bioinformatics|Clustal W and Clustal X version 2.0
+2008|2009.0|2.0|Intensive Care Medicine|Surviving Sepsis Campaign: international guidelines for management of severe sepsis and septic shock: 2008.
+2009|1646.0|2.0||Above the Clouds: A Berkeley View of Cloud Computing
+2010|974.0|3.0|Journal of Power Sources|Lithium batteries: Status, prospects and future
