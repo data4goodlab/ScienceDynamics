@@ -3,6 +3,7 @@ import itertools
 from collections import Counter
 import pycld2 as cld2
 
+
 def get_column_count_sframe(sf, col_name, sort_by_count=True):
     g = sf.groupby(col_name, {'Count': agg.COUNT()})
     if sort_by_count:
@@ -45,7 +46,8 @@ def count_value_in_dict_values_lists(d, value):
 
 def grouper(n, iterable, fillvalue=None):
     args = [iter(iterable)] * n
-    return itertools.izip_longest(fillvalue=fillvalue, *args)
+    return itertools.zip_longest(fillvalue=fillvalue, *args)
+
 
 def detect_lang(t):
     """

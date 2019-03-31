@@ -1,16 +1,17 @@
 from pymongo import MongoClient
-from configs import *
 import turicreate as tc
+
+from ScienceDynamics.configs import AUTHROS_FEATURES_SFRAME, EXTENDED_PAPERS_SFRAME, SJR_SFRAME, AMINER_MAG_JOIN_SFRAME, \
+    logger
 
 
 class MongoDBConnector(object):
     def __init__(self, host="localhost", port=27017):
         """
         Create connection to the relevant mongo server
-        :param user_id:  user id
-        :param password:  password
+
         """
-        self._client = MongoClient(host, port )
+        self._client = MongoClient(host, port)
 
     def insert_sframe(self, sf, db_name, collection_name, insert_rows_iter=100000, index_cols_list=()):
         """
@@ -61,12 +62,13 @@ class MongoDBConnector(object):
 
 def _convert_sframe_dict_key_to_str(sf, col_names):
     for c in col_names:
-        sf[c] = sf[c].apply(lambda d: {str(int(k)): [i for i in v if i is not '']  for k, v in d.iteritems()})
-    #remove empty lists
+        sf[c] = sf[c].apply(lambda d: {str(int(k)): [i for i in v if i is not ''] for k, v in d.iteritems()})
+    # remove empty lists
     for c in col_names:
-        sf[c] = sf[c].apply(lambda d: {k:v for k,v in d.iteritems() if v != []})
+        sf[c] = sf[c].apply(lambda d: {k: v for k, v in d.iteritems() if v != []})
     sf.materialize()
     return sf
+
 
 def load_sframes():
     """
@@ -76,33 +78,28 @@ def load_sframes():
     md = MongoDBConnector()
     sf = tc.load_sframe(AUTHROS_FEATURES_SFRAME)
     sf = _convert_sframe_dict_key_to_str(sf, [c for c in sf.column_names() if "Year" in c])
-    sf['Sequence Number by Year Dict'] = sf['Sequence Number by Year Dict'].apply(lambda d: {k:[str(int(i)) for i in v] for k,v in d.iteritems()})
+    sf['Sequence Number by Year Dict'] = sf['Sequence Number by Year Dict'].apply(
+        lambda d: {k: [str(int(i)) for i in v] for k, v in d.iteritems()})
     sf.materialize()
-    index_list = [('Author ID',True), ('Author name', False)]
+    index_list = [('Author ID', True), ('Author name', False)]
     md.insert_sframe(sf, 'journals', 'authors_features', index_cols_list=index_list)
-
 
     logger.info("Loading papers features")
     sf = tc.load_sframe(EXTENDED_PAPERS_SFRAME)
-    index_list = [('Original venue name',False), ('Paper ID', True), ('Conference ID mapped to venue name', False),
+    index_list = [('Original venue name', False), ('Paper ID', True), ('Conference ID mapped to venue name', False),
                   ('Journal ID mapped to venue name', False)]
     md.insert_sframe(sf, 'journals', 'papers_features', index_cols_list=index_list)
 
-
     logger.info("Loading SJR features")
     sf = tc.load_sframe(SJR_SFRAME)
-    sf = sf.rename({c:c.replace(".","") for c in sf.column_names()})
-    sf['Title'] = sf['Title'].apply(lambda t: unicode(t,errors='ignore').encode('utf-8'))
-    index_list = [('Title',False), ('ISSN', False)]
+    sf = sf.rename({c: c.replace(".", "") for c in sf.column_names()})
+    sf['Title'] = sf['Title'].apply(lambda t: t.encode('utf-8'))
+    index_list = [('Title', False), ('ISSN', False)]
     md.insert_sframe(sf, 'journals', 'sjr_journals', index_cols_list=index_list)
 
-
     sf = tc.load_sframe(AMINER_MAG_JOIN_SFRAME)
-    sf = sf.rename({c:c.replace(".","") for c in sf.column_names()})
-    index_list = [('Original venue name',False), ('MAG Paper ID', True), ('Conference ID mapped to venue name', False),
+    sf = sf.rename({c: c.replace(".", "") for c in sf.column_names()})
+    index_list = [('Original venue name', False), ('MAG Paper ID', True), ('Conference ID mapped to venue name', False),
                   ('Journal ID mapped to venue name', False), ('issn', False)]
 
     md.insert_sframe(sf, 'journals', 'aminer_mag_papers', index_cols_list=index_list)
-
-
-

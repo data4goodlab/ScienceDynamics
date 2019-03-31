@@ -1,7 +1,9 @@
-from configs import *
-from papers_collection_analyer import *
-import json, os
-import math
+import os
+import json
+import traceback
+from ScienceDynamics.configs import VenueType, VENUE_FETCHER, PAPERS_FETCHER, logger
+from ScienceDynamics.paper import Paper
+from ScienceDynamics.papers_collection_analyer import PapersCollection
 
 
 class Venue(PapersCollection):
@@ -33,8 +35,7 @@ class Venue(PapersCollection):
         if venue_id is None and venue_name is None and len(issn_list) == 0:
             raise Exception("Cannot consturct venue venue_id, venue_name, and issn list are empty")
         logger.info(
-            "Consturcting a Venue object with the following params venue_id=%s, venue_name=%s, issn_list=%s " % (
-                venue_id, venue_name, issn_list))
+            f"Consturcting a Venue object with the following params venue_id={venue_id}, venue_name={venue_name}, issn_list={issn_list}")
         self._venue_id = venue_id
         self._name = venue_name
         self._venue_type = venue_type
@@ -47,16 +48,15 @@ class Venue(PapersCollection):
 
         if papers_list is not None:
             super(Venue, self).__init__(papers_list=papers_list, papers_filter_func=papers_filter_func)
-            logger.info("Consturcted a Venue object with %s papers" % len(papers_list))
+            logger.info(f"Consturcted a Venue object with {len(papers_list)} papers")
         else:
             super(Venue, self).__init__(papers_ids=papers_ids, papers_filter_func=papers_filter_func)
-            logger.info("Consturcted a Venue object with %s papers" % len(papers_ids))
+            logger.info(f"Consturcted a Venue object with {len(papers_ids)} papers")
 
         if venue_name is not None or len(issn_list) > 0:
             self._sjr_features = VENUE_FETCHER.get_sjr_dict(venue_name, issn_list)
         self._issn_list = issn_list
         self._features = {}
-
 
     def _calculate_venue_features_over_time(self, features_list, start_year, end_year):
         """
@@ -76,7 +76,7 @@ class Venue(PapersCollection):
              "type": t, 'start_year': self.min_publication_year, "end_year": self.max_publication_year, 'features': {}}
 
         for f in features_list:
-            logger.info("Calculating venue=%s feature=%s" % (self.name, f))
+            logger.info(f"Calculating venue={self.name} feature={f}")
             d['features'][f] = self.calculate_feature_over_time(f, start_year, end_year)
         return d
 
@@ -109,8 +109,7 @@ class Venue(PapersCollection):
 
 
 if __name__ == "__main__":
-    import json
-    import traceback
+
     min_ref_number = 5
     min_journal_papers_num = 100
     sf = VENUE_FETCHER.get_valid_venues_papers_ids_sframe_from_mag(min_ref_number=min_ref_number,
@@ -120,18 +119,18 @@ if __name__ == "__main__":
         j_id = d['Journal ID mapped to venue name']
         path = "/data/journals/%s.json" % j_id
         n = d['Journal name'].replace('ieee', 'IEEE').replace('acm', 'ACM').title()
-        logger.info('Getting %s (%s) venue features' % (j_id, n))
+        logger.info(f'Getting {j_id} ({n}) venue features')
         if os.path.isfile(path):
             continue
         try:
             papers_data_list = PAPERS_FETCHER.get_journal_papers_data(j_id)
             papers_list = [Paper(j['Paper ID'], json_data=j) for j in papers_data_list]
-            papers_list = [p for p in papers_list if p.references_count >= min_ref_number ]
+            papers_list = [p for p in papers_list if p.references_count >= min_ref_number]
 
-            logger.info('Created %s paper objects for %s venue' % (len(papers_list), j_id))
-            v = Venue(venue_id=j_id, venue_name=n, papers_list=papers_list, papers_filter_func=lambda p:p.publish_year >= 2015)
+            logger.info(f'Created {len(papers_list)} paper objects for {j_id} venue')
+            v = Venue(venue_id=j_id, venue_name=n, papers_list=papers_list,
+                      papers_filter_func=lambda p: p.publish_year >= 2015)
             f = v.features_dict
-            json.dump(f, file(path, "w"))
-        except Exception, e:
-            logger.error("Failed to get features of %s\n - %s\n\n%s" % (j_id, e.message, traceback.format_exc()))
-
+            json.dump(f, open(path, "w"))
+        except Exception as e:
+            logger.error(f"Failed to get features of {j_id}\n - {e.message}\n\n{traceback.format_exc()}")

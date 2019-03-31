@@ -1,12 +1,12 @@
 import sys
 
-sys.path.extend([".."])
-
-from configs import *
+from ScienceDynamics.configs import EXTENDED_PAPERS_SFRAME, TMP_DIR, PAPER_AUTHOR_AFFILIATIONS_SFRAME, \
+    AUTHOR_NAMES_SFRAME, FIRST_NAMES_SFRAME, logger
 import turicreate as tc
 import turicreate.aggregate as agg
 import os
-from collections import Counter
+
+sys.path.extend([".."])
 
 
 def _entities_years_list_to_dict(l):
@@ -18,7 +18,7 @@ def _entities_years_list_to_dict(l):
     """
     d = {}
     for y, eid in l:
-        y =  str(y) # for easier mongo insert key need to be str
+        y = str(y)  # for easier mongo insert key need to be str
         if y not in d:
             d[y] = []
         d[y].append(eid)
@@ -45,7 +45,7 @@ class AuthorsFeaturesExtractor(object):
         """
         if paper_min_ref is None:
             return tc.load_sframe(EXTENDED_PAPERS_SFRAME)
-        sf_path = "%s/extended_paper_min_ref_%s.sfrmae" % (TMP_DIR, paper_min_ref)
+        sf_path = f"{TMP_DIR}/extended_paper_min_ref_{paper_min_ref}.sfrmae"
         if os.path.isdir(sf_path):
             return tc.load_sframe(sf_path)
 

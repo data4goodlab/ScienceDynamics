@@ -1,14 +1,13 @@
-from repoze.lru import lru_cache
-from configs import VenueType
-from configs import AUTHORS_FETCHER
-from utils import join_all_lists
-from collections import *
-
+from ScienceDynamics.configs import VenueType
+from ScienceDynamics.configs import AUTHORS_FETCHER
+from ScienceDynamics.utils import join_all_lists
+from ScienceDynamics.papers_collection_analyer import PapersCollection
+from  collections import Counter
 
 class Author(object):
     def __init__(self, author_id, fullname=None, authors_fetcher=AUTHORS_FETCHER):
         """
-        Consturct an Author object that contains the authors features
+        Construct an Author object that contains the authors features
         :param author_id: an author id
         :param authors_fetcher: an authors fetcher object
         :type author_id: str
@@ -114,7 +113,7 @@ class Author(object):
         :param venue_type: venue type of (can be VenueType.journal or VenueType.conference)
         :param start_year: the start year
         :param end_year: the end year
-        :return: return a list of all the veunues the author published in between the input years
+        :return: return a list of all the venues the author published in between the input years
         :rtype: list of str
         """
         k = 'Journal ID by Year Dict'
@@ -160,7 +159,7 @@ class Author(object):
     @property
     def gender(self):
         """
-        Return the author's gender if it was identfieid by his/her first name
+        Return the author's gender if it was identified by his/her first name
         :return: The authors gender or None
         :rtype: str
         """
@@ -203,7 +202,7 @@ class Author(object):
         :rtype: str
         :note: if the name as less than two words the property will return None
         """
-        l =  self.fullname.split()
+        l = self.fullname.split()
         if len(l) < 2:
             return None
         return l[0]
@@ -216,7 +215,7 @@ class Author(object):
         :rtype: str
         :note: if the name as less than two words the property will return None
         """
-        l =  self.fullname.split()
+        l = self.fullname.split()
         if len(l) < 2:
             return None
         return l[-1]
@@ -287,7 +286,7 @@ class Author(object):
     def last_publication_year(self):
         """
         The year in which the author's last paper was published according to the dataset
-        :return: the year in whcih the authors first paper was pbulish
+        :return: the year in which the authors first paper was publish
         """
         if self._last_year is None and self.papers_dict is not None:
             self._last_year = max(self.papers_dict.keys())
@@ -299,11 +298,10 @@ class Author(object):
         """
         Return PaperCollection object for analyzing the authors papers
         :return: paper collection analyzer object
-        :rtype: PaperCollections
+        :rtype: PapersCollection
         """
-        from papers_collection_analyer import PaperCollections
         if self._paper_collection_analyzer is None:
-            self._paper_collection_analyzer = PaperCollections(papers_ids=self.papers_list)
+            self._paper_collection_analyzer = PapersCollection(papers_ids=self.papers_list)
 
         return self._paper_collection_analyzer
 
@@ -311,6 +309,7 @@ class Author(object):
     def find_authors_id_by_name(author_name, authors_fetcher=AUTHORS_FETCHER):
         """
         Returns a list of ids for authors with the input author name
+        :param authors_fetcher:
         :param author_name: author's full name or regex object
         :param: authors_fetcher: Author Fetcher object
         :return: list of author_ids

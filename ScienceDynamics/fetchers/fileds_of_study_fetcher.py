@@ -1,6 +1,7 @@
-from configs import *
 import turicreate as tc
-from repoze.lru import lru_cache
+from functools import lru_cache
+
+from ScienceDynamics.configs import FIELD_OF_STUDY_PAPERS_ID_SFRAME
 
 
 class FieldsOfStudyFetcher(object):
@@ -15,7 +16,7 @@ class FieldsOfStudyFetcher(object):
         :rtype: dict<str,str>
         """
         if self._id_name_dict is None:
-            self._id_name_dict =  {r['Field of study ID']: r['Field of study name'] for r in self._sf}
+            self._id_name_dict = {r['Field of study ID']: r['Field of study name'] for r in self._sf}
         return self._id_name_dict
 
     def _get_field_data_value(self, field_id, key_name):
@@ -109,4 +110,3 @@ class FieldsOfStudyFetcher(object):
         """
         d = {k: v for k, v in self._get_id_to_name_dict().iteritems() if name_regex.match(v) is not None}
         return d
-

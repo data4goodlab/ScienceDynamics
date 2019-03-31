@@ -1,0 +1,7 @@
+matplotlib
+altair
+pycld2
+networkx
+numpy
+turicreate
+pymongo

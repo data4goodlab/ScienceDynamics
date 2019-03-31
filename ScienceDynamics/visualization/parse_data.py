@@ -1,5 +1,6 @@
 import math
 
+
 def json2nvd3(j):
     d = {}
     for k, v in j.iteritems():
@@ -11,18 +12,20 @@ def json2nvd3(j):
             d[k] = data2nvd3(v)
     return d
 
+
 def data2nvd3(d):
-    d = {int(k): v for k, v in d.iteritems() if (isinstance(v, float) or isinstance(v, int) ) and not math.isnan(v)}
+    d = {int(k): v for k, v in d.iteritems() if (isinstance(v, float) or isinstance(v, int)) and not math.isnan(v)}
     keys = d.keys()
     keys.sort()
     l = []
     for k in keys:
-        l.append({'x':k, 'y': d[k]})
+        l.append({'x': k, 'y': d[k]})
 
     return l
 
+
 def genderdata2nvd3(d):
-    d = {int(k): v for k, v in d.iteritems()  }
+    d = {int(k): v for k, v in d.iteritems()}
     keys = d.keys()
     keys.sort()
     l = []
@@ -35,13 +38,14 @@ def genderdata2nvd3(d):
         if "Male" not in gender_dict:
             gender_dict["Male"] = 0
 
-        y = float(gender_dict["Female"])/(gender_dict["Female"] + gender_dict["Male"])
-        l.append({'x':k, 'y': y})
+        y = float(gender_dict["Female"]) / (gender_dict["Female"] + gender_dict["Male"])
+        l.append({'x': k, 'y': y})
     return l
+
 
 def keywords_clean(d):
     clean_dict = {}
-    for k,v in d.iteritems():
+    for k, v in d.iteritems():
         if v == {}:
             continue
         clean_dict[int(k)] = v

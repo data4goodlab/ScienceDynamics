@@ -1,7 +1,7 @@
-from configs import VenueType
-from author import Author
-from configs import PAPERS_FETCHER, AUTHORS_FETCHER
-from repoze.lru import lru_cache
+from ScienceDynamics.configs import VenueType, PAPERS_FETCHER, AUTHORS_FETCHER
+from ScienceDynamics.author import Author
+from functools import lru_cache
+
 
 class Paper(object):
     def __init__(self, paper_id, papers_fetcher=PAPERS_FETCHER, authors_fetcher=AUTHORS_FETCHER, json_data=None):
@@ -18,7 +18,6 @@ class Paper(object):
         if json_data is None:
             self._json_data = papers_fetcher.get_paper_data(paper_id)
 
-
     def _get_data_value(self, k):
         """
         Returns a paper feature value by name, if the key exists otherwise returns None
@@ -29,7 +28,6 @@ class Paper(object):
             return self._json_data[k]
         return None
 
-    # <editor-fold desc="Authors Published in Venue Functions">
     # ------------------------------------#
     # Times Authors Published in Venue    #
     # ------------------------------------#
@@ -101,10 +99,10 @@ class Paper(object):
         n = "Total Citations by Year"
         if not include_self_citation:
             n = "Total Citations by Year without Self Citations"
-        d = self._get_data_value(n) # type: dict
+        d = self._get_data_value(n)  # type: dict
 
         if d is not None:
-            d = {int(y): v for y, v in d.iteritems()}
+            d = {int(y): v for y, v in d.items()}
         return d
 
     @lru_cache(maxsize=400)
@@ -119,8 +117,8 @@ class Paper(object):
         d = self.get_total_citation_number_by_year_dict(include_self_citation)
         if year not in d:
             return 0
-        #calculating the previous year with citations
-        years = [y for y in d.keys() if y< year]
+        # calculating the previous year with citations
+        years = [y for y in d.keys() if y < year]
         if len(years) == 0:
             return d[year]
         year_before = max(years)
@@ -134,7 +132,8 @@ class Paper(object):
         :rtype: int
         """
         return (
-            self.get_total_citations_number_in_year(year, True) - self.get_total_citations_number_in_year(year, False))
+                self.get_total_citations_number_in_year(year, True) - self.get_total_citations_number_in_year(year,
+                                                                                                              False))
 
     def get_max_citations_number_in_year(self, include_self_citation=True):
         """
@@ -146,7 +145,7 @@ class Paper(object):
         d = self.get_total_citation_number_by_year_dict(include_self_citation)
         start_year = min(d.keys())
         end_year = max(d.keys())
-        l = [self.get_total_citations_number_in_year(y,include_self_citation)  for y in range(start_year, end_year+1)]
+        l = [self.get_total_citations_number_in_year(y, include_self_citation) for y in range(start_year, end_year + 1)]
         return max(l)
 
     def total_citations_number_by_year(self, end_year, include_self_citation):
@@ -376,6 +375,7 @@ class Paper(object):
         :rtype: dict
         """
         return self._get_data_value('Title Bag of Words')
+
     # </editor-fold>
 
     @property
@@ -413,6 +413,3 @@ class Paper(object):
         :rtype: str
         """
         return self._get_data_value('issn')
-
-
-    # </editor-fold>

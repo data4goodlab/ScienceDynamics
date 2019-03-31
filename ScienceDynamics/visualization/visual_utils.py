@@ -2,7 +2,6 @@ import altair as alt
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
-import turicreate.aggregate as agg
 
 
 def filter_sframe_by_years(sf, start_year, end_year):
@@ -112,7 +111,8 @@ def draw_features_yearly_chart_multi_lines(sf, var_name, value_name, start_year,
 
 def draw_features_decade_dist(sf, var_name, start_year, end_year, col_warp=4, sharex=False, sharey=False):
     """
-    Return chart using seaborn package taht draw the SFrame input var name disturibtion over the decades
+    Return chart using seaborn package that draw the SFrame input var name distribution over the decades
+    :param sharey:
     :param sf: input sframe
     :param var_name: input varname
     :param start_year: start year
