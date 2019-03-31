@@ -1,13 +1,15 @@
-from authors_list_analyzer import AuthorsListAnalyzer
-from paper import Paper
 import itertools
-from repoze.lru import lru_cache
+import math
+import random
 from collections import Counter
+from functools import lru_cache
+
 import numpy as np
-from configs import AUTHORS_FETCHER, PAPERS_FETCHER, VenueType
-import sys, math, random
 import turicreate as tc
-from configs import logger
+
+from ScienceDynamics.authors_list_analyzer import AuthorsListAnalyzer
+from ScienceDynamics.configs import AUTHORS_FETCHER, PAPERS_FETCHER, VenueType, logger
+from ScienceDynamics.paper import Paper
 
 
 class PapersCollection(object):
@@ -29,8 +31,8 @@ class PapersCollection(object):
 
         if papers_list is None:
             papers_list = []
-        self.__papers_list = papers_list  # type: list<Paper>
-        self.__papers_ids = papers_ids  # type: list<str>
+        self.__papers_list = papers_list  # type: list[Paper]
+        self.__papers_ids = papers_ids  # type: list[str]
         self._min_year = None
         self._max_year = None
 
@@ -41,7 +43,7 @@ class PapersCollection(object):
         if len(self.__papers_list) > self.MAX_PAPERS:
             logger.warn(
                 "PapersCollection contains over maximal number of papers %s.\n Randomly selecting %s papers\b" % (
-                len(self.__papers_list), self.MAX_PAPERS))
+                    len(self.__papers_list), self.MAX_PAPERS))
             self.__randomly_select_papers(self.MAX_PAPERS)
 
     def __filter_papers(self, filter_func=lambda p: p):
@@ -117,7 +119,7 @@ class PapersCollection(object):
         if start_year is None:
             start_year = 0
         if end_year is None:
-            end_year = sys.maxint
+            end_year = float("inf")
 
         return [p for p in self.papers_list if end_year >= p.publish_year >= start_year]
 
@@ -154,7 +156,7 @@ class PapersCollection(object):
 
     def paper_with_max_citation_after_years(self, publication_year, after_years, include_self_citations):
         l = self.papers_citations_after_years_list(publication_year, after_years, include_self_citations)
-        l = sorted(l, lambda x: x[1], reverse=True)
+        l = sorted(l, key=lambda x: x[1], reverse=True)
         return l[0]
 
     @lru_cache(maxsize=100)
@@ -187,6 +189,7 @@ class PapersCollection(object):
     def get_yearly_most_cited_papers_sframe(self, citation_after_year, max_publish_year):
         """
         Returns SFrame, with the most cited in each year papers details
+        :param max_publish_year:
         :param citation_after_year: number of years to check the number of citations after paper publication year
         :param: max_publish_year: the maximal publish year
         :return: SFrame with the most cited paper details in each year
@@ -509,7 +512,7 @@ class PapersCollection(object):
         """
         l = self.papers_length_list(year)
         if len(l) > 0:
-            return (np.average(l), len(l))
+            return np.average(l), len(l)
         return None
 
     def papers_median_citations_after_years(self, publish_year, after_years, include_self_citations):
@@ -587,7 +590,7 @@ class PapersCollection(object):
         d = self.get_citations_number_after_years_dict(after_years, include_self_citations)
         d = {k: v for k, v in d.iteritems() if v != []}
 
-        for y, papers_list in d.iteritems():
+        for y, papers_list in d.items():
             if y > max_year or len(papers_list) == 0:
                 continue
 
@@ -611,7 +614,7 @@ class PapersCollection(object):
         if feature_name not in dir(PapersCollection):
             raise Exception("Invalid PaperCollection function - %s" % feature_name)
         for y in range(start_year, end_year + 1):
-            f_value = eval("self.%s(%s)" % (feature_name, y))
+            f_value = eval(f"self.{feature_name}({y})")
             if f_value is None or str(f_value) == 'nan' or (type(f_value) is float and math.isnan(f_value)):
                 continue
             if feature_name not in d:

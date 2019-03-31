@@ -1,10 +1,10 @@
-from configs import *
-from papers_collection_analyer import PapersCollection
-import random
+from ScienceDynamics.configs import FIELDS_OF_STUDY_FETCHER, logger
+from ScienceDynamics.papers_collection_analyer import PapersCollection
+import turicreate as tc
+
 
 class FieldOfStudy(PapersCollection):
     """Calls for analyzing field of study papers """
-
 
     FIELD_FEATURES_LIST = ('papers_number', 'authors_number', 'authors_average_age', 'authors_median_age',
                            'first_authors_average_age', 'first_authors_median_age',
@@ -19,7 +19,6 @@ class FieldOfStudy(PapersCollection):
         :param field_id: field of study id
         :param papers_filter_func: paper filter function
         :param field_of_study_fetcher: FieldOfStudyFetcher object (optional)
-        :param randomly_select_papers: if True randomly select MAX_PAPERS
         """
         self._id = field_id
         self._field_of_study_fetcher = field_of_study_fetcher
@@ -38,7 +37,7 @@ class FieldOfStudy(PapersCollection):
         """
         Get's field features as dict object which includes the field meta information including the most cited papers
          in each year
-        :param citation_after_year:
+        :param add_field_features_over_time:
         :param cited_max_year:
         :return: dict with the field of study information including the most cited papers in each year
         :rtype: dict
@@ -62,11 +61,10 @@ class FieldOfStudy(PapersCollection):
 
     def print_fields_features(self):
         d = self.features_dict()
-        l = []
-        print "Field ID %s: " % d["field_id"]
-        print "Field Name %s: " % d["name"]
-        print "Field Level %s: " % d["level"]
-        print "Field Papers Number %s:" % d["papers_number"]
+        print(f"Field ID {d['field_id']}: ")
+        print(f"Field Name {d['name']}: ")
+        print(f"Field Level {d['level']}: ")
+        print(f"Field Papers Number {d['papers_number']}")
         sf = tc.SFrame(d["yearly_most_cited_papers"])
         sf = sf.sort("year", ascending=False)
         sf.print_rows(len(sf))

@@ -1,8 +1,9 @@
-from  configs import *
-from utils import get_papers_sframe, get_authors_sframe
-import graphlab as gl
-import graphlab.aggregate as agg
+from ScienceDynamics.configs import VenueType
+import turicreate.aggregate as agg
 from collections import Counter
+
+from ScienceDynamics.sframe_creators.create_mag_sframes import get_papers_sframe
+
 
 class VenuesAnalyzer(object):
     def __init__(self, min_ref_num=5, venue_type=VenueType.journal):
@@ -23,10 +24,9 @@ class VenuesAnalyzer(object):
     def get_venues_authors_ids(self, end_year):
         p_sf = get_papers_sframe(min_ref_num=self._min_ref_num, end_year=end_year)
         a_sf = get_authors_sframe(min_ref_num=self._min_ref_num, end_year=end_year)
-        sf = a_sf.join(p_sf,on="Paper ID")
+        sf = a_sf.join(p_sf, on="Paper ID")
 
         return sf.groupby(self._venue_col_name, {'authors_list': agg.CONCAT('Author ID')})
-
 
     def get_venue_features(self, end_year):
         p_sf = self.get_venue_features(end_year=end_year)

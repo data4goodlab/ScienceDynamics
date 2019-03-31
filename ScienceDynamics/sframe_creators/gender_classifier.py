@@ -16,15 +16,14 @@ def create_ground_truth_names(baby_names_path, wikitree_users_path, ratio=0.9):
             https://www.wikitree.com/wiki/Help:Database_Dumps
     """
     sf = tc.SFrame.read_csv("%s/*.txt" % baby_names_path, header=False)
-    sf = sf.rename({'X1':'First Name', 'X2':'Gender', 'X3': 'Count'})
-
+    sf = sf.rename({'X1': 'First Name', 'X2': 'Gender', 'X3': 'Count'})
 
     w_sf = tc.SFrame.read_csv(wikitree_users_path, delimiter="\t", header=True)
-    w_sf = w_sf[['Preferred Name','Gender']]
+    w_sf = w_sf[['Preferred Name', 'Gender']]
     w_sf = w_sf.rename({'Preferred Name': 'First Name'})
     w_sf = w_sf[w_sf['Gender'] != 0]
     w_sf['First Name'] = w_sf['First Name'].apply(lambda n: n.split()[0] if len(n) > 0 else '')
-    w_sf = w_sf[w_sf['First Name'] != '' ]
+    w_sf = w_sf[w_sf['First Name'] != '']
     w_sf['Gender'] = w_sf['Gender'].apply(lambda g: 'M' if g == 1 else 'F')
     w_sf = w_sf.groupby(['First Name', 'Gender'], {'Count': agg.COUNT()})
 
@@ -32,18 +31,17 @@ def create_ground_truth_names(baby_names_path, wikitree_users_path, ratio=0.9):
     sf['First Name'] = sf['First Name'].apply(lambda n: n.lower())
     g = sf.groupby(['First Name', 'Gender'], agg.SUM('Count'))
 
-
-
     g['stat'] = g.apply(lambda r: (r['Gender'], r['Sum of Count']))
-    sf = g.groupby('First Name', {'Stats': agg.CONCAT('stat') })
+    sf = g.groupby('First Name', {'Stats': agg.CONCAT('stat')})
     sf['Total Births'] = sf['Stats'].apply(lambda l: sum([i[1] for i in l]))
     sf['Total Males'] = sf['Stats'].apply(lambda l: sum([i[1] for i in l if i[0] == 'M']))
-    sf['Percentage Males'] = sf.apply(lambda r: float(r['Total Males'])/r['Total Births'])
+    sf['Percentage Males'] = sf.apply(lambda r: float(r['Total Males']) / r['Total Births'])
     sf = sf[sf['Total Births'] >= 5]
+
     def get_name_gender(p):
         if p >= ratio:
             return 'Male'
-        if p<= (1-ratio):
+        if p <= (1 - ratio):
             return 'Female'
         return 'Unisex'
 

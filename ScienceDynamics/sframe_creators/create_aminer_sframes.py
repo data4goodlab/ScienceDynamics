@@ -1,12 +1,15 @@
 import sys
 
-sys.path.extend([".."])
+from ScienceDynamics.configs import AMINER_PAPERS_SFRAME, AMINER_TXT_FILES, AMINER_MAG_JOIN_SFRAME, \
+    EXTENDED_PAPERS_SFRAME, SJR_SFRAME, logger
 
-from configs import *
 import turicreate as tc
 import turicreate.aggregate as agg
 import os
 import re
+
+sys.path.extend([".."])
+
 
 def create_aminer_sframe():
     """
@@ -16,7 +19,7 @@ def create_aminer_sframe():
     if os.path.isdir(AMINER_PAPERS_SFRAME):
         return
 
-    sf = tc.SFrame.read_json(AMINER_TXT_FILES,  orient='lines')
+    sf = tc.SFrame.read_json(AMINER_TXT_FILES, orient='lines')
     sf.save(AMINER_PAPERS_SFRAME)
 
 
@@ -31,13 +34,13 @@ def create_aminer_mag_links_by_doi_sframe():
     sf = tc.load_sframe(EXTENDED_PAPERS_SFRAME)
     g1 = sf.groupby('Paper Document Object Identifier (DOI)', {'Count': agg.COUNT()})
     s1 = set(g1[g1['Count'] > 1]['Paper Document Object Identifier (DOI)'])
-    sf = sf[sf['Paper Document Object Identifier (DOI)'].apply(lambda doi: doi not in s1 )]
+    sf = sf[sf['Paper Document Object Identifier (DOI)'].apply(lambda doi: doi not in s1)]
     sf.materialize()
 
     sf2 = tc.load_sframe(AMINER_PAPERS_SFRAME)
     g2 = sf2.groupby('doi', {'Count': agg.COUNT()})
     s2 = set(g2[g2['Count'] > 1]['doi'])
-    sf2 = sf2[sf2['doi'].apply(lambda doi: doi not in s2 )]
+    sf2 = sf2[sf2['doi'].apply(lambda doi: doi not in s2)]
     sf2.materialize()
 
     j = sf.join(sf2, {'Paper Document Object Identifier (DOI)': 'doi'})
@@ -46,10 +49,10 @@ def create_aminer_mag_links_by_doi_sframe():
     j = j[j['title_len'] > 0]
     j = j[j['title_len2'] > 0]
 
-
     j = j.rename({"Paper ID": "MAG Paper ID", "id": "Aminer Paper ID"})
     j = j.remove_columns(['title_len', 'title_len2'])
     j.save(AMINER_MAG_JOIN_SFRAME)
+
 
 def create_aminer_mag_sjr_sframe(year):
     """
@@ -62,8 +65,8 @@ def create_aminer_mag_sjr_sframe(year):
     sf = sf[sf['issn'] != None]
     sf = sf[sf['issn'] != 'null']
     sf.materialize()
-    r = re.compile("(\d+)-(\d+)")
-    sf['issn_str'] = sf['issn'].apply(lambda i: "".join(r.findall(i)[0]) if len(r.findall(i))> 0 else None)
+    r = re.compile(r"(\d+)-(\d+)")
+    sf['issn_str'] = sf['issn'].apply(lambda i: "".join(r.findall(i)[0]) if len(r.findall(i)) > 0 else None)
     sf = sf[sf['issn_str'] != None]
     sjr_sf = tc.load_sframe(SJR_SFRAME)
     sjr_sf = sjr_sf[sjr_sf['Year'] == year]

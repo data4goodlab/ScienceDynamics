@@ -1,8 +1,10 @@
 from unittest import TestCase
 import sys
+
+from ScienceDynamics.paper import Paper
+
 sys.path.extend([".."])
-from paper import *
-from configs import PAPERS_FETCHER
+
 
 class TestPaper(TestCase):
     def testPaperFeatures(self):

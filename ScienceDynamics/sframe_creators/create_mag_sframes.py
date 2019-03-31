@@ -1,14 +1,19 @@
 import sys
 
-sys.path.extend([".."])
+from ScienceDynamics.configs import PAPER_REFERENCES_SFRAME, PAPER_REFERENCES_TXT, PAPER_REFERENCES_COUNT_SFRAME, \
+    PAPERS_SFRAME, PAPERS_TXT, PAPER_URLS_SFRAME, PAPER_URLS_TXT, PAPER_KEYWORDS_SFRAME, PAPER_KEYWORDS_TXT, \
+    PAPER_KEYWORDS_LIST_SFRAME, FIELDS_OF_STUDY_SFRAME, FIELDS_OF_STUDY_TXT, PAPER_AUTHOR_AFFILIATIONS_SFRAME, \
+    PAPER_AUTHOR_AFFILIATIONS_TXT, PAPERS_ORDERED_AUTHORS_LIST_SFRAME, FIELDS_OF_STUDY_HIERARCHY_TXT, \
+    FIELDS_OF_STUDY_HIERARCHY_SFRAME, TMP_DIR, AUTHORS_NAMES_TXT, AUTHOR_NAMES_SFRAME, PAPERS_FIELDS_OF_STUDY_SFRAME, \
+    KEYWORDS_SFRAME, EXTENDED_PAPER_REFERENCES_SFRAME, PAPERS_CITATIONS_BYYEAR_SFRAME, EXTENDED_PAPERS_SFRAME, \
+    FIELD_OF_STUDY_PAPERS_ID_SFRAME, logger
+from ScienceDynamics.sframe_creators.fields_of_study_hieararchy_analyzer import FieldsHierarchyAnalyzer
 
-from configs import *
 import turicreate as tc
 import turicreate.aggregate as agg
-from fields_of_study_hieararchy_analyzer import FieldsHierarchyAnalyzer
 import os
-from fields_of_study_analyzer import FieldsOfStduyAnalyzer
 
+sys.path.extend([".."])
 
 """
 The code creates all the SFrame objects from the MAG KDD Cup 2016 Dataset
@@ -159,7 +164,7 @@ def _get_tmp_papers_sframe_path(min_ref_num, start_year, end_year):
     :return: a path to the Papers SFrame which contains papers with the above filter
     :rtype: str
     """
-    return "%s/papers_sframe_minref_%s_%s_%s" % (TMP_DIR, min_ref_num, start_year, end_year)
+    return f"{TMP_DIR}/papers_sframe_minref_{min_ref_num}_{start_year}_{end_year}"
 
 
 def get_papers_sframe(min_ref_num=None, start_year=None, end_year=None):
@@ -178,7 +183,7 @@ def get_papers_sframe(min_ref_num=None, start_year=None, end_year=None):
         return tc.load_sframe(tmp_papers_sf_path)
 
     if min_ref_num is not None:
-        logger.info("Getting papers ids with at least refrences %s " % min_ref_num)
+        logger.info(f"Getting papers ids with at least refrences {min_ref_num}")
         sf = sf.groupby('Paper ID', {'Ref Count': agg.COUNT()})  # There are 30058322 in the list
         sf = sf[sf['Ref Count'] >= min_ref_num]  # left with 22,083,058
         sf.__materialize__()
@@ -212,7 +217,7 @@ def create_authors_names_sframe():
     a_sf.save(AUTHOR_NAMES_SFRAME)
 
 
-def create_papers_fields_of_study(flevels=(0, 1, 2,3)):
+def create_papers_fields_of_study(flevels=(0, 1, 2, 3)):
     """
     Create SFrame with each paper fields of study by hierarchical levels
     :param flevels: list of levels, for each level add the papers fields of study in this level
@@ -355,11 +360,11 @@ def _create_field_of_study_paper_ids_sframe(level):
     sf = sf.stack(col, new_column_name=new_col_name)
     sf = sf[sf[col] != None]
     g = sf.groupby(new_col_name, {'Paper IDs': agg.CONCAT("Paper ID")})
-    f_sf = tc.load_sframe((FIELDS_OF_STUDY_SFRAME))
+    f_sf = tc.load_sframe(FIELDS_OF_STUDY_SFRAME)
     g = g.join(f_sf, on={new_col_name: "Field of study ID"})
     g['Number of Paper'] = g['Paper IDs'].apply(lambda l: len(l))
     g['Level'] = level
-    g = g.rename({new_col_name : "Field of study ID"})
+    g = g.rename({new_col_name: "Field of study ID"})
     return g
 
 

@@ -1,8 +1,7 @@
-from code.consts import *
-from code.sframe_creators.fields_of_study_hieararchy_analyzer import FieldsHierarchyAnalyzer
+from ScienceDynamics.sframe_creators.fields_of_study_hieararchy_analyzer import FieldsHierarchyAnalyzer
 
 
-class FieldsOfStduyAnalyzer(object):
+class FieldsOfStudyAnalyzer(object):
     def __init__(self):
         self._fh = None
 
@@ -10,7 +9,7 @@ class FieldsOfStduyAnalyzer(object):
         d = {}
 
         for flevel in range(3):
-            col_name = "Fields of study parent list (L%s)" % flevel
+            col_name = f"Fields of study parent list (L{flevel}s)"
             for r in papers_features_sframe:
                 p_id = r['Paper ID']
                 f_list = r[col_name]

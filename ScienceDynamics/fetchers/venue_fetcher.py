@@ -1,5 +1,5 @@
-from repoze.lru import lru_cache
-from configs import logger, VenueType, AMINER_MAG_JOIN_SFRAME, SJR_SFRAME, EXTENDED_PAPERS_SFRAME
+from functools import lru_cache
+from ScienceDynamics.configs import logger, VenueType, AMINER_MAG_JOIN_SFRAME, SJR_SFRAME, EXTENDED_PAPERS_SFRAME
 import turicreate as tc
 import turicreate.aggregate as agg
 
@@ -34,7 +34,7 @@ class VenueFetcher(object):
             if venue_type == VenueType.conference:
                 papers_ids += [j[paper_id_col] for j in col.find({"Conference ID mapped to venue name": venue_id})]
 
-        if venue_id is None and venue_name is not None: # get papers by name only if venue id is missing
+        if venue_id is None and venue_name is not None:  # get papers by name only if venue id is missing
             papers_ids += [j[paper_id_col] for j in col.find({"Original venue name": venue_name})]
 
         return list(set(papers_ids))
@@ -43,6 +43,7 @@ class VenueFetcher(object):
     def get_papers_ids_dict(self, venue_id, venue_name, venue_type=VenueType.journal, issn_list=()):
         """
         Returns the venue's paper ids both that appear in the MAG paper dataset and in the AMingerMag join dataset
+        :param venue_type:
         :param venue_id: the MAG venue id
         :param venue_name: the venue's name
         :param issn_list: ISSNs list
@@ -50,11 +51,9 @@ class VenueFetcher(object):
         :rtyoe: dict
         :note: ISSN format \d{4}-\d{4} (with '-')
         """
-        logger.info(
-            "Getting papers id of venue_id=%s,venue_name=%s. and issn_list=%s" % (venue_id, venue_name, issn_list))
-        papers_ids_dict = {}
+        logger.info(f"Getting papers id of venue_id={venue_id},venue_name={venue_name}. and issn_list={issn_list}")
+        papers_ids_dict = {'papers_ids': self._get_papers_ids(venue_id, venue_name, venue_type)}
 
-        papers_ids_dict['papers_ids'] = self._get_papers_ids(venue_id, venue_name, venue_type)
         l = self._get_papers_ids(venue_id, venue_name, venue_type, use_join_col=True)
         for issn in issn_list:
             l += [j['MAG Paper ID'] for j in self._papers_join_collection.find({"issn": issn})]
@@ -71,7 +70,7 @@ class VenueFetcher(object):
         :rtype: list<dict>
         :noteo: isssn values in SJR dataset are 8 digits
         """
-        logger.info("Get SJR data of venue_name=%s, issn_list=%s" % (venue_name, issn_list))
+        logger.info(f"Get SJR data of venue_name={venue_name}, issn_list={issn_list}")
         sjr_data = {}
         l = [j for j in self._sjr_collection.find({"Title": venue_name})]
         for issn in issn_list:
@@ -109,15 +108,17 @@ class VenueFetcher(object):
 
         # Criteria IV: Each venue need to have at least min_journal_papers_num papers with at
         # least min_ref_number refs in each paper
-        sf = tc.load_sframe(EXTENDED_PAPERS_SFRAME)['Journal ID mapped to venue name','Original venue name', 'Paper ID', 'Ref Number']
+        sf = tc.load_sframe(EXTENDED_PAPERS_SFRAME)[
+            'Journal ID mapped to venue name', 'Original venue name', 'Paper ID', 'Ref Number']
         sf = sf[sf['Ref Number'] >= min_ref_number]
         sf.materialize()
         sf = sf[sf['Journal ID mapped to venue name'].apply(lambda i: i in venues_ids)]
         sf['Journal name'] = sf['Original venue name'].apply(lambda n: n.lower().strip())
         sf.materialize()
-        #Notice that with the full Papers SFrmae journal can have several names
-        g = sf.groupby(['Journal ID mapped to venue name'], {'Count': agg.COUNT(), 'Paper IDs List': agg.CONCAT("Paper ID"),
-                                                             'Journals names': agg.CONCAT('Journal name')})
+        # Notice that with the full Papers SFrmae journal can have several names
+        g = sf.groupby(['Journal ID mapped to venue name'],
+                       {'Count': agg.COUNT(), 'Paper IDs List': agg.CONCAT("Paper ID"),
+                        'Journals names': agg.CONCAT('Journal name')})
         g['Journals names'] = g['Journals names'].apply(lambda l: list(set(l)))
         g = g[g['Count'] >= min_journal_papers_num]
         g = g[g['Journals names'].apply(lambda l: len(l) == 1)]
@@ -129,13 +130,15 @@ class VenueFetcher(object):
 
     @staticmethod
     def get_valid_venues_papers_ids_sframe_from_mag(min_ref_number, min_journal_papers_num):
-        sf = tc.load_sframe(EXTENDED_PAPERS_SFRAME)['Journal ID mapped to venue name','Original venue name', 'Paper ID', 'Ref Number']
+        sf = tc.load_sframe(EXTENDED_PAPERS_SFRAME)[
+            'Journal ID mapped to venue name', 'Original venue name', 'Paper ID', 'Ref Number']
         sf = sf[sf['Ref Number'] >= min_ref_number]
         sf.materialize()
         sf['Journal name'] = sf['Original venue name'].apply(lambda n: n.lower().strip())
         sf.materialize()
-        g = sf.groupby(['Journal ID mapped to venue name'], {'Count': agg.COUNT(), 'Paper IDs List': agg.CONCAT("Paper ID"),
-                                                             'Journals names': agg.CONCAT('Journal name')})
+        g = sf.groupby(['Journal ID mapped to venue name'],
+                       {'Count': agg.COUNT(), 'Paper IDs List': agg.CONCAT("Paper ID"),
+                        'Journals names': agg.CONCAT('Journal name')})
         g['Journals names'] = g['Journals names'].apply(lambda l: list(set(l)))
         g = g[g['Count'] >= min_journal_papers_num]
         g = g[g['Journals names'].apply(lambda l: len(l) == 1)]
@@ -143,7 +146,6 @@ class VenueFetcher(object):
         g = g.rename({'Journals names': 'Journal name'})
         g.materialize()
         return g
-
 
     @staticmethod
     def get_sjr_journals_dict():
@@ -158,6 +160,5 @@ class VenueFetcher(object):
             if t not in d:
                 d[t] = []
             d[t].append(r['ISSN'])
-        d = {k: set(v) for k, v in d.iteritems()}
+        d = {k: set(v) for k, v in d.items()}
         return d
-

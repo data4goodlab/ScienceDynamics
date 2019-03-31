@@ -1,18 +1,16 @@
-from code.consts import *
-from code.utils import get_papers_sframe
 import turicreate as tc
 import turicreate.aggregate as agg
-from code.authors_fetcher import *
-from code.mongo_connector import *
 
-from fields_of_study_hieararchy_analyzer import *
-import os
+from ScienceDynamics.configs import PAPERS_ORDERED_AUTHORS_LIST_SFRAME, PAPER_REFERENCES_SFRAME, PAPER_KEYWORDS_SFRAME, \
+    JOURNALS_DETAILS_SFRAME, logger
+from ScienceDynamics.sframe_creators.create_mag_sframes import get_papers_sframe
 
 
 class PapersAnalyzer(object):
     """
     Creates papers features using SFrame object
     """
+
     def __init__(self, start_year, end_year, min_ref_num=5):
         self._papers_sf = get_papers_sframe(min_ref_num=min_ref_num, start_year=start_year, end_year=end_year)
 
@@ -50,7 +48,7 @@ class PapersAnalyzer(object):
         self._papers_sf["Title Tf-Idf"] = self._papers_sf["Original paper title"].apply(lambda t: t.lower())
         self._papers_sf['Title Tf-Idf'] = tc.text_analytics.tf_idf(self._papers_sf["Title Tf-Idf"])
         self._papers_sf['Title Tf-Idf'] = self._papers_sf['Title Tf-Idf'].dict_trim_by_keys(
-            tc.text_analytics.stopwords(), True)
+            tc.text_analytics.stop_words(), True)
 
     def _add_title_bag_of_words(self):
         """
@@ -60,7 +58,7 @@ class PapersAnalyzer(object):
         self._papers_sf["Title Bag of Words"] = tc.text_analytics.count_ngrams(self._papers_sf["Original paper title"],
                                                                                1)
         self._papers_sf["Title Bag of Words"] = self._papers_sf["Title Bag of Words"].dict_trim_by_keys(
-            tc.text_analytics.stopwords(), True)
+            tc.text_analytics.stop_words(), True)
 
     def _add_keywords(self):
         """
@@ -77,7 +75,7 @@ class PapersAnalyzer(object):
         :return:
         """
         logger.info('Adding journal details')
-        j_sf =tc.load_sframe(JOURNALS_DETAILS_SFRAME)
+        j_sf = tc.load_sframe(JOURNALS_DETAILS_SFRAME)
         j_sf['Title'] = j_sf['Title'].apply(lambda t: t.lower())
         j_sf['Year'] = j_sf['Year'].astype(int)
         self._papers_sf['Original venue name'] = self._papers_sf['Original venue name'].apply(lambda s: s.lower())
@@ -86,7 +84,6 @@ class PapersAnalyzer(object):
 
     def _add_fields_of_study(self):
         g = self.get_paper_fields_of_study()
-
 
     def _add_citation_number(self):
         """
@@ -99,7 +96,6 @@ class PapersAnalyzer(object):
         self._papers_sf = self._papers_sf.fillna("Citation Number", 0)
 
     def get_papers_basic_features(self, venues_set=None):
-
         sf = self._papers_sf
         if venues_set is not None:
             sf['filter'] = sf.apply(lambda r: r['Journal ID mapped to venue name'] in venues_set or
@@ -110,13 +106,6 @@ class PapersAnalyzer(object):
         basic_features = ['Paper ID', 'Journal ID mapped to venue name', 'Conference ID mapped to venue name',
                           'Ref Count', 'Authors Number', 'Title Bag of Words', 'Keywords List']
         return sf[basic_features]
-
-
-
-
-
-
-
 
     def filter_papers(self, min_reference_count=5):
         """
