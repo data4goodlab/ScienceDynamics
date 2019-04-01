@@ -1,5 +1,5 @@
 from functools import lru_cache
-from ScienceDynamics.config.configs import AuthorNotFound
+from ScienceDynamics.exceptions import AuthorNotFound
 from ScienceDynamics.config.log_config import logger
 
 
