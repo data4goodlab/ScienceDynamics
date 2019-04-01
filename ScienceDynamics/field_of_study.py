@@ -1,4 +1,5 @@
-from ScienceDynamics.configs import FIELDS_OF_STUDY_FETCHER, logger
+from ScienceDynamics.config.configs import FIELDS_OF_STUDY_FETCHER
+from ScienceDynamics.config.log_config import logger
 from ScienceDynamics.papers_collection_analyer import PapersCollection
 import turicreate as tc
 

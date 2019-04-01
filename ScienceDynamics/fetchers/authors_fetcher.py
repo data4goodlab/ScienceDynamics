@@ -1,5 +1,6 @@
 from functools import lru_cache
-from ScienceDynamics.configs import logger, AuthorNotFound
+from ScienceDynamics.config.configs import AuthorNotFound
+from ScienceDynamics.config.log_config import logger
 
 
 class AuthorsFetcher(object):
