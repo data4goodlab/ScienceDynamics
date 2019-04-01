@@ -1,7 +1,8 @@
 import sys
 
-from ScienceDynamics.configs import EXTENDED_PAPERS_SFRAME, TMP_DIR, PAPER_AUTHOR_AFFILIATIONS_SFRAME, \
-    AUTHOR_NAMES_SFRAME, FIRST_NAMES_SFRAME, logger
+from ScienceDynamics.config.configs import EXTENDED_PAPERS_SFRAME, TMP_DIR, PAPER_AUTHOR_AFFILIATIONS_SFRAME, \
+    AUTHOR_NAMES_SFRAME, FIRST_NAMES_SFRAME
+from ScienceDynamics.config.log_config import logger
 import turicreate as tc
 import turicreate.aggregate as agg
 import os

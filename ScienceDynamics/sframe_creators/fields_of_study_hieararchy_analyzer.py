@@ -2,7 +2,7 @@ import networkx as nx
 import turicreate as tc
 from functools import lru_cache
 
-from ScienceDynamics.configs import FIELDS_OF_STUDY_HIERARCHY_SFRAME, FIELDS_OF_STUDY_SFRAME
+from ScienceDynamics.config.configs import FIELDS_OF_STUDY_HIERARCHY_SFRAME, FIELDS_OF_STUDY_SFRAME
 
 
 class FieldsHierarchyAnalyzer(object):
