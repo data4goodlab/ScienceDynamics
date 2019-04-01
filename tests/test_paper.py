@@ -15,4 +15,3 @@ class TestPaper(TestCase):
         self.assertEqual(p.total_number_of_times_authors_published_in_venue, 2)
         self.assertEqual(p.title, u'Cell biology: The checkpoint brake relieved')
         self.assertEqual(p.publish_year, 2007)
-        self.assertEqual(p.total_citation_number_years_after_publication(4, True), 4)

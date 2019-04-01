@@ -2,29 +2,30 @@ import turicreate as gl
 from pymongo import MongoClient
 
 from ScienceDynamics.fetchers.authors_fetcher import AuthorsFetcher
+from ScienceDynamics.paper import Paper
 
-
-def create_venues_sframe(v1, v2):
-    client = MongoClient('mongodb://%s:%s@127.0.0.1' % ('myAdmin', 'ty501u!%'))
-    a = AuthorsFetcher(client)
-    sf = gl.load_sframe('/data/sframes/papers_features_2015.sframe')
-    v1_sf = sf[sf["Journal ID mapped to venue name"] == v1]
-    v2_sf = sf[sf["Journal ID mapped to venue name"] == v2]
-    set_size = min(len(v1_sf), len(v2_sf))
-    sf = v1_sf[:set_size].append(v2_sf[:set_size])
-    l = []
-    for r in sf:
-        l.append(PaperAnalyzer(r, a).get_paper_features([v1, v2]))
-    sf = gl.load_sframe(l)
-    sf = sf.unpack("X1", column_name_prefix='')
-    sf = sf.fillna('Keywords', [])
-    for feature in ['last_author_number_of_papers', 'first_author_number_of_papers', 'author_max_number_of_papers']:
-        sf = sf.fillna(feature, 0)
-
-    stop_keywords = {'nature', 'physical sciences'}
-    sf['Keywords'] = sf['Keywords'].apply(lambda l: [i for i in l if i.lower() not in stop_keywords])
-
-    return sf
+#
+# def create_venues_sframe(v1, v2):
+#     client = MongoClient('mongodb://%s:%s@127.0.0.1' % ('myAdmin', 'ty501u!%'))
+#     a = AuthorsFetcher(client)
+#     sf = gl.load_sframe('/data/sframes/papers_features_2015.sframe')
+#     v1_sf = sf[sf["Journal ID mapped to venue name"] == v1]
+#     v2_sf = sf[sf["Journal ID mapped to venue name"] == v2]
+#     set_size = min(len(v1_sf), len(v2_sf))
+#     sf = v1_sf[:set_size].append(v2_sf[:set_size])
+#     l = []
+#     for r in sf:
+#         l.append(Paper(r, a).get_paper_features([v1, v2]))
+#     sf = gl.load_sframe(l)
+#     sf = sf.unpack("X1", column_name_prefix='')
+#     sf = sf.fillna('Keywords', [])
+#     for feature in ['last_author_number_of_papers', 'first_author_number_of_papers', 'author_max_number_of_papers']:
+#         sf = sf.fillna(feature, 0)
+#
+#     stop_keywords = {'nature', 'physical sciences'}
+#     sf['Keywords'] = sf['Keywords'].apply(lambda l: [i for i in l if i.lower() not in stop_keywords])
+#
+#     return sf
 
 
 def evaluate_single_feature_contribution(sf):
