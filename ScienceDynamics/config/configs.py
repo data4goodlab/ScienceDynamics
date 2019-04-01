@@ -98,10 +98,6 @@ class VenueType(Enum):
     conference = 2
 
 
-class AuthorNotFound(Exception):
-    pass
-
-
 HOST = "localhost"
 PORT = 27017
 MD = MongoDBConnector(HOST, PORT)
