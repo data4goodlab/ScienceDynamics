@@ -5,7 +5,7 @@ import sys
 sys.path.extend([".."])
 
 from ScienceDynamics.author import Author
-from ScienceDynamics.config.configs import AUTHORS_FETCHER
+from ScienceDynamics.config.fetch_config import AUTHORS_FETCHER
 import re
 from collections import Counter
 
