@@ -1,5 +1,5 @@
 from functools import lru_cache
-from ScienceDynamics.configs import logger
+from ScienceDynamics.config.log_config import logger
 
 
 class PapersFetcher(object):

@@ -1,7 +1,7 @@
 import turicreate as tc
 from functools import lru_cache
 
-from ScienceDynamics.configs import FIELD_OF_STUDY_PAPERS_ID_SFRAME
+from ScienceDynamics.config.configs import FIELD_OF_STUDY_PAPERS_ID_SFRAME
 
 
 class FieldsOfStudyFetcher(object):

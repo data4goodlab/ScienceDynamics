@@ -1,7 +1,5 @@
-import logging
 import multiprocessing
 from enum import Enum
-from logging.handlers import RotatingFileHandler
 
 import turicreate as tc
 
@@ -93,17 +91,6 @@ AMINER_TXT_FILES = "%s/AMiner/*.txt" % DATASETS_AMINER_DIR
 AMINER_MAG_JOIN_SFRAME = "%s/PapersAMinerMagJoin.sframe" % SFRAMES_BASE_DIR
 
 SJR_SFRAME = "%s/sjr.sframe" % SFRAMES_BASE_DIR
-
-logFormatter = logging.Formatter("%(asctime)s [%(threadName)-12.12s] [%(levelname)-5.5s]  %(message)s")
-logger = logging.getLogger()
-fileHandler = RotatingFileHandler(TMP_DIR + '/complex_network.log', mode='a', maxBytes=5 * 1024 * 1024,
-                                  backupCount=2, encoding=None, delay=0)
-fileHandler.setFormatter(logFormatter)
-logger.addHandler(fileHandler)
-consoleHandler = logging.StreamHandler()
-consoleHandler.setFormatter(logFormatter)
-logger.addHandler(consoleHandler)
-logger.setLevel(logging.DEBUG)
 
 
 class VenueType(Enum):

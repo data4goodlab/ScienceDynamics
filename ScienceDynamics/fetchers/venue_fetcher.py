@@ -1,5 +1,6 @@
 from functools import lru_cache
-from ScienceDynamics.configs import logger, VenueType, AMINER_MAG_JOIN_SFRAME, SJR_SFRAME, EXTENDED_PAPERS_SFRAME
+from ScienceDynamics.config.configs import VenueType, AMINER_MAG_JOIN_SFRAME, SJR_SFRAME, EXTENDED_PAPERS_SFRAME
+from ScienceDynamics.config.log_config import logger
 import turicreate as tc
 import turicreate.aggregate as agg
 

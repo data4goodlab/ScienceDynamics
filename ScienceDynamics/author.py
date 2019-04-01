@@ -1,8 +1,9 @@
-from ScienceDynamics.configs import VenueType
-from ScienceDynamics.configs import AUTHORS_FETCHER
+from ScienceDynamics.config.configs import VenueType
+from ScienceDynamics.config.configs import AUTHORS_FETCHER
 from ScienceDynamics.utils import join_all_lists
 from ScienceDynamics.papers_collection_analyer import PapersCollection
-from  collections import Counter
+from collections import Counter
+
 
 class Author(object):
     def __init__(self, author_id, fullname=None, authors_fetcher=AUTHORS_FETCHER):

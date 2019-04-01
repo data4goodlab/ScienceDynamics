@@ -1,8 +1,8 @@
 from pymongo import MongoClient
 import turicreate as tc
 
-from ScienceDynamics.configs import AUTHROS_FEATURES_SFRAME, EXTENDED_PAPERS_SFRAME, SJR_SFRAME, AMINER_MAG_JOIN_SFRAME, \
-    logger
+from ScienceDynamics.config.configs import AUTHROS_FEATURES_SFRAME, EXTENDED_PAPERS_SFRAME, SJR_SFRAME, AMINER_MAG_JOIN_SFRAME
+from ScienceDynamics.config.log_config import logger
 
 
 class MongoDBConnector(object):

@@ -1,7 +1,8 @@
 import sys
 
-from ScienceDynamics.configs import AMINER_PAPERS_SFRAME, AMINER_TXT_FILES, AMINER_MAG_JOIN_SFRAME, \
-    EXTENDED_PAPERS_SFRAME, SJR_SFRAME, logger
+from ScienceDynamics.config.configs import AMINER_PAPERS_SFRAME, AMINER_TXT_FILES, AMINER_MAG_JOIN_SFRAME, \
+    EXTENDED_PAPERS_SFRAME, SJR_SFRAME
+from ScienceDynamics.config.log_config import logger
 
 import turicreate as tc
 import turicreate.aggregate as agg

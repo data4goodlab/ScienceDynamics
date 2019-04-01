@@ -1,4 +1,4 @@
-from ScienceDynamics.configs import VenueType, PAPERS_FETCHER, AUTHORS_FETCHER
+from ScienceDynamics.config.configs import VenueType, PAPERS_FETCHER, AUTHORS_FETCHER
 from ScienceDynamics.author import Author
 from functools import lru_cache
 
@@ -348,8 +348,7 @@ class Paper(object):
         """
         return [a.fullname for a in self.authors_list]
 
-    # </editor-fold>
-    # <editor-fold desc="Paper's Title/Keywords Properties">
+
     @property
     def title(self):
         return self._get_data_value("Original paper title")
@@ -376,7 +375,6 @@ class Paper(object):
         """
         return self._get_data_value('Title Bag of Words')
 
-    # </editor-fold>
 
     @property
     def paper_length(self):

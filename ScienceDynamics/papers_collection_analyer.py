@@ -8,7 +8,8 @@ import numpy as np
 import turicreate as tc
 
 from ScienceDynamics.authors_list_analyzer import AuthorsListAnalyzer
-from ScienceDynamics.configs import AUTHORS_FETCHER, PAPERS_FETCHER, VenueType, logger
+from ScienceDynamics.config.configs import AUTHORS_FETCHER, PAPERS_FETCHER, VenueType
+from ScienceDynamics.config.log_config import logger
 from ScienceDynamics.paper import Paper
 
 

@@ -1,4 +1,4 @@
-from ScienceDynamics.configs import VenueType
+from ScienceDynamics.config.configs import VenueType
 import turicreate.aggregate as agg
 from collections import Counter
 

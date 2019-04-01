@@ -2,7 +2,7 @@ import turicreate as tc
 import os
 import re
 
-from ScienceDynamics.configs import SJR_SFRAME, DATASETS_SJR_DIR
+from ScienceDynamics.config.configs import SJR_SFRAME, DATASETS_SJR_DIR
 
 
 def create_sjr_sframe():
