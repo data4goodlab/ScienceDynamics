@@ -1,7 +1,8 @@
 import os
 import json
 import traceback
-from ScienceDynamics.config.configs import VenueType, VENUE_FETCHER, PAPERS_FETCHER
+from ScienceDynamics.config.configs import VenueType
+from ScienceDynamics.config.fetch_config import PAPERS_FETCHER, VENUE_FETCHER
 from ScienceDynamics.config.log_config import logger
 from ScienceDynamics.paper import Paper
 from ScienceDynamics.papers_collection_analyer import PapersCollection

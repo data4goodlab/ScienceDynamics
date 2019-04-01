@@ -1,5 +1,5 @@
 from ScienceDynamics.config.configs import VenueType
-from ScienceDynamics.config.configs import AUTHORS_FETCHER
+from ScienceDynamics.config.fetch_config import AUTHORS_FETCHER
 from ScienceDynamics.utils import join_all_lists
 from ScienceDynamics.papers_collection_analyer import PapersCollection
 from collections import Counter

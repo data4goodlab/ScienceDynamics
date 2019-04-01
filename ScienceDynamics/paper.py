@@ -1,4 +1,5 @@
-from ScienceDynamics.config.configs import VenueType, PAPERS_FETCHER, AUTHORS_FETCHER
+from ScienceDynamics.config.configs import VenueType
+from ScienceDynamics.config.fetch_config import AUTHORS_FETCHER, PAPERS_FETCHER
 from ScienceDynamics.author import Author
 from functools import lru_cache
 
