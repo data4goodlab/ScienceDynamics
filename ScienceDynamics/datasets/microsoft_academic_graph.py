@@ -26,7 +26,9 @@ class MicrosoftAcademicGraph(object):
         """
         Create the Papers SFrame object from txt files which contains information on each paper
         """
+        print("Loading papers")
         papers = SFrame.read_csv(str(self._dataset_dir / "Papers.txt"), header=False, delimiter="\t")
+        print("Loaded")
 
         papers = papers.rename({"X1": "Paper ID", "X2": "Original paper title", "X3": "Normalized paper title",
                                 "X4": "Paper publish year", "X5": "Paper publish date",
