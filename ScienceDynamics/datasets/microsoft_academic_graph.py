@@ -1,7 +1,7 @@
 import pathlib
 from turicreate import SFrame, load_sframe
 from ScienceDynamics.datasets.configs import MAG_URL
-from ScienceDynamics.datasets.utils import download_file, save_load
+from ScienceDynamics.datasets.utils import download_file, save_sframe
 import turicreate.aggregate as agg
 
 from ScienceDynamics.sframe_creators.fields_of_study_hieararchy_analyzer import FieldsHierarchyAnalyzer
@@ -21,7 +21,7 @@ class MicrosoftAcademicGraph(object):
                 f.extractall(self._dataset_dir)
 
     @property
-    @save_load(sframe="Papers.sframe")
+    @save_sframe(sframe="Papers.sframe")
     def papers(self):
         """
         Create the Papers SFrame object from txt files which contains information on each paper
@@ -37,7 +37,7 @@ class MicrosoftAcademicGraph(object):
         return papers
 
     @property
-    @save_load(sframe="PaperReferences.sframe")
+    @save_sframe(sframe="PaperReferences.sframe")
     def references(self):
         """Creating the references SFrame from txt files"""
         references = SFrame.read_csv(str(self._dataset_dir / "PaperReferences.txt"), header=False, delimiter="\t")
@@ -45,12 +45,12 @@ class MicrosoftAcademicGraph(object):
         return references
 
     @property
-    @save_load(sframe="PaperReferencesCount.sframe")
+    @save_sframe(sframe="PaperReferencesCount.sframe")
     def reference_count(self):
         return self.references.groupby("Paper ID", {"Ref Number": agg.COUNT()})
 
     @property
-    @save_load(sframe="PaperReferencesCount.sframe")
+    @save_sframe(sframe="PaperReferencesCount.sframe")
     def keywords(self):
         """
         Creating Keywords SFrame from txt files
@@ -59,7 +59,7 @@ class MicrosoftAcademicGraph(object):
         return keywords.rename({"X1": "Paper ID", "X2": "Keyword name", "X3": "Field of study ID mapped to keyword"})
 
     @property
-    @save_load(sframe="PaperKeywordsList.sframe")
+    @save_sframe(sframe="PaperKeywordsList.sframe")
     def paper_keywords_list(self):
         """
         Creating Paper Keywords List SFrame
@@ -67,7 +67,7 @@ class MicrosoftAcademicGraph(object):
         return self.keywords.groupby("Paper ID", {"Keywords List": agg.CONCAT("Keyword name")})
 
     @property
-    @save_load(sframe="FieldsOfStudy.sframe")
+    @save_sframe(sframe="FieldsOfStudy.sframe")
     def fields_of_study(self):
         """
         Creating Field of study SFrame from txt files
@@ -76,7 +76,7 @@ class MicrosoftAcademicGraph(object):
         return fields_of_study.rename({"X1": "Field of study ID", "X2": "Field of study name"})
 
     @property
-    @save_load(sframe="PaperAuthorAffiliations.sframe")
+    @save_sframe(sframe="PaperAuthorAffiliations.sframe")
     def paper_author_affiliations(self):
         """
         Creating authors affiliation SFrame from txt files
@@ -89,7 +89,7 @@ class MicrosoftAcademicGraph(object):
              "X5": "Normalized affiliation name", "X6": "Author sequence number"})
 
     @property
-    @save_load(sframe="PapersOrderedAuthorsList.sframe")
+    @save_sframe(sframe="PapersOrderedAuthorsList.sframe")
     def papers_authors_lists(self):
         """
         Create SFrame in which each row contains paper id and a sorted list of the paper's authors
@@ -106,7 +106,7 @@ class MicrosoftAcademicGraph(object):
         return g
 
     @property
-    @save_load(sframe="FieldOfStudyHierarchy.sframe")
+    @save_sframe(sframe="FieldOfStudyHierarchy.sframe")
     def field_of_study_hierarchy(self):
         """
         Creates field of study hierarchy sframe from txt files
@@ -160,7 +160,7 @@ class MicrosoftAcademicGraph(object):
         return sf
 
     @property
-    @save_load(sframe="AuthorNames.sframe")
+    @save_sframe(sframe="AuthorNames.sframe")
     def author_names(self):
         """
         Creates authors names SFrames from txt files
@@ -171,7 +171,7 @@ class MicrosoftAcademicGraph(object):
         author_names['Last name'] = author_names['Author name'].apply(lambda s: s.split()[-1])
         return author_names
 
-    @save_load(sframe="PapersFieldsOfStudy.sframe")
+    @save_sframe(sframe="PapersFieldsOfStudy.sframe")
     def papers_fields_of_study(self, flevels=(0, 1, 2, 3)):
         """
         Create SFrame with each paper fields of study by hierarchical levels
@@ -204,7 +204,7 @@ class MicrosoftAcademicGraph(object):
         return g
 
     @property
-    @save_load(sframe="ExtendedPaperReferences.sframe")
+    @save_sframe(sframe="ExtendedPaperReferences.sframe")
     def extended_references(self):
         """
         Create SFrame with references data with additional column that state if the reference is self-citation
@@ -259,7 +259,7 @@ class MicrosoftAcademicGraph(object):
         return h.remove_column("Citation by Years")
 
     @property
-    @save_load(sframe="PapersCitationByYear.sframe")
+    @save_sframe(sframe="PapersCitationByYear.sframe")
     def papers_citation_number_by_year(self):
         """
         Create SFrame with each paper's citation numbers by year dict
@@ -271,7 +271,7 @@ class MicrosoftAcademicGraph(object):
         return r_sf.join(r_sf2, on="Paper ID")
 
     @property
-    @save_load(sframe="PaperUrls.sframe")
+    @save_sframe(sframe="PaperUrls.sframe")
     def urls(self):
 
         """
@@ -282,7 +282,7 @@ class MicrosoftAcademicGraph(object):
         return sf.groupby("Paper ID", {"Urls": agg.CONCAT("Url")})
 
     @property
-    @save_load(sframe="ExtendedPapers.sframe")
+    @save_sframe(sframe="ExtendedPapers.sframe")
     def extended_papers(self):
         """
         Created extended papers SFrame which contains various papers features, such as
@@ -318,7 +318,7 @@ class MicrosoftAcademicGraph(object):
         g['Level'] = level
         return g.rename({new_col_name: "Field of study ID"})
 
-    @save_load(sframe="FieldsOfStudyPapersIds.sframe")
+    @save_sframe(sframe="FieldsOfStudyPapersIds.sframe")
     def fields_of_study_papers_ids_sframes(self, levels=(1, 2, 3)):
         """
         Creates SFrames with each Fields of study paper ids

@@ -1,8 +1,7 @@
 import pathlib
-from turicreate import SFrame, load_sframe
+from turicreate import SFrame
 from ScienceDynamics.datasets.configs import AMINER_URLS
-from ScienceDynamics.datasets.utils import download_file, save_load
-import turicreate.aggregate as agg
+from ScienceDynamics.datasets.utils import download_file, save_sframe
 
 
 import zipfile
@@ -22,10 +21,11 @@ class Aminer(object):
                     f.extractall(self._dataset_dir)
 
     @property
-    @save_load(sframe="PapersAMiner.sframe")
+    @save_sframe(sframe="PapersAMiner.sframe")
     def data(self):
         """
-        Create AMiner Papers sFrame from the AMiner text files. After creating the SFrame, it is save to AMINER_PAPERS_SFRAME
+        Create AMiner Papers sFrame from the AMiner text files.
+        After creating the SFrame, it is saved to the disk
         """
 
         return SFrame.read_json(self._dataset_dir.joinpath("AMiner/*.txt"), orient='lines')
