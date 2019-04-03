@@ -22,7 +22,7 @@ DATASETS_SJR_DIR.mkdir(exist_ok=True)
 
 cores = multiprocessing.cpu_count() // 2
 
-tc.config.set_runtime_config('TURI_CACHE_FILE_LOCATIONS', TMP_DIR)
+tc.config.set_runtime_config('TURI_CACHE_FILE_LOCATIONS', str(TMP_DIR))
 tc.config.set_runtime_config('TURI_DEFAULT_NUM_PYLAMBDA_WORKERS', cores)
 tc.config.set_runtime_config('TURI_DEFAULT_NUM_GRAPH_LAMBDA_WORKERS', cores)
 
