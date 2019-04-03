@@ -1,95 +1,102 @@
 import multiprocessing
 from enum import Enum
-
 import turicreate as tc
+import pathlib
 
 # Mongo
 
-TMP_DIR = '/data/tmp'
+STORAGE_DIR_NAME = ".scidyn"
+STORAGE_PATH = pathlib.Path.home().joinpath(STORAGE_DIR_NAME)
+STORAGE_PATH.mkdir(exist_ok=True)
+
+TMP_DIR = STORAGE_PATH.joinpath('tmp')
+TMP_DIR.mkdir(exist_ok=True)
+
+SFRAMES_BASE_DIR = STORAGE_PATH.joinpath("sframes")
+SFRAMES_BASE_DIR.mkdir(exist_ok=True)
+DATASETS_BASE_DIR = STORAGE_PATH.joinpath("MAG")
+DATASETS_AMINER_DIR = STORAGE_PATH.joinpath("AMiner")
+DATASETS_AMINER_DIR.mkdir(exist_ok=True)
+DATASETS_SJR_DIR = STORAGE_PATH.joinpath("sjr")
+DATASETS_SJR_DIR.mkdir(exist_ok=True)
+
 cores = multiprocessing.cpu_count() // 2
 
 tc.config.set_runtime_config('TURI_CACHE_FILE_LOCATIONS', TMP_DIR)
 tc.config.set_runtime_config('TURI_DEFAULT_NUM_PYLAMBDA_WORKERS', cores)
 tc.config.set_runtime_config('TURI_DEFAULT_NUM_GRAPH_LAMBDA_WORKERS', cores)
 
-SFRAMES_BASE_DIR = "/data/sframes"
-DATASETS_BASE_DIR = "/data/MAG"
-DATASETS_AMINER_DIR = "/data/AMiner"
-DATASETS_SJR_DIR = "/data/sjr"
+PAPERS_ALL_FEATURES = SFRAMES_BASE_DIR.joinpath("PapersAllFeatures.sframe")
+FIELDS_OF_STUDY_TXT = DATASETS_BASE_DIR.joinpath("FieldsOfStudy.txt")
+FIELDS_OF_STUDY_SFRAME = SFRAMES_BASE_DIR.joinpath("FieldsOfStudy.sframe")
 
-PAPERS_ALL_FEATURES = "%s/PapersAllFeatures.sframe" % SFRAMES_BASE_DIR
-FIELDS_OF_STUDY_TXT = "%s/FieldsOfStudy.txt" % DATASETS_BASE_DIR
-FIELDS_OF_STUDY_SFRAME = "%s/FieldsOfStudy.sframe" % SFRAMES_BASE_DIR
+FIELDS_OF_STUDY_HIERARCHY_TXT = DATASETS_BASE_DIR.joinpath("FieldOfStudyHierarchy.txt")
+FIELDS_OF_STUDY_HIERARCHY_SFRAME = SFRAMES_BASE_DIR.joinpath("FieldOfStudyHierarchy.sframe")
 
-FIELDS_OF_STUDY_HIERARCHY_TXT = "%s/FieldOfStudyHierarchy.txt" % DATASETS_BASE_DIR
-FIELDS_OF_STUDY_HIERARCHY_SFRAME = "%s/FieldOfStudyHierarchy.sframe" % SFRAMES_BASE_DIR
+PAPERS_TXT = DATASETS_BASE_DIR.joinpath("Papers.txt")
+PAPERS_SFRAME = SFRAMES_BASE_DIR.joinpath("Papers.sframe")
+EXTENDED_PAPERS_SFRAME = SFRAMES_BASE_DIR.joinpath("ExtendedPapers.sframe")
 
-PAPERS_TXT = "%s/Papers.txt" % DATASETS_BASE_DIR
-PAPERS_SFRAME = "%s/Papers.sframe" % SFRAMES_BASE_DIR
-EXTENDED_PAPERS_SFRAME = "%s/ExtendedPapers.sframe" % SFRAMES_BASE_DIR
+CLEAN_EXTENDED_PAPERS_SFRAME = SFRAMES_BASE_DIR.joinpath("CleanExtendedPapers.sframe")
+FEATURES_EXTENDED_PAPERS_SFRAME = SFRAMES_BASE_DIR.joinpath("FeaturesCleanExtendedPapers.sframe")
 
-CLEAN_EXTENDED_PAPERS_SFRAME = "%s/CleanExtendedPapers.sframe" % SFRAMES_BASE_DIR
+PAPER_AUTHOR_AFFILIATIONS_TXT = DATASETS_BASE_DIR.joinpath("PaperAuthorAffiliations.txt")
+PAPER_AUTHOR_AFFILIATIONS_SFRAME = SFRAMES_BASE_DIR.joinpath("PaperAuthorAffiliations.sframe")
 
-FEATURES_EXTENDED_PAPERS_SFRAME = "%s/FeaturesCleanExtendedPapers.sframe" % SFRAMES_BASE_DIR
+AUTHOR_NAMES_SFRAME = SFRAMES_BASE_DIR.joinpath("authors_names.sframe")
 
-PAPER_AUTHOR_AFFILIATIONS_TXT = "%s/PaperAuthorAffiliations.txt" % DATASETS_BASE_DIR
-PAPER_AUTHOR_AFFILIATIONS_SFRAME = "%s/PaperAuthorAffiliations.sframe" % SFRAMES_BASE_DIR
+CONFERENCES_TAT = DATASETS_BASE_DIR.joinpath("Conferences.txt")
+CONFERENCES_SAME = SFRAMES_BASE_DIR.joinpath("Conferences.sframe")
 
-AUTHOR_NAMES_SFRAME = "%s/authors_names.sframe" % SFRAMES_BASE_DIR
+JOURNALS_TXT = DATASETS_BASE_DIR.joinpath("Journals.txt")
+JOURNALS_SFRAME = SFRAMES_BASE_DIR.joinpath("Journals.sframe")
 
-CONFERENCES_TAT = "%s/Conferences.txt" % DATASETS_BASE_DIR
-CONFERENCES_SAME = "%s/Conferences.sframe" % SFRAMES_BASE_DIR
+PAPER_KEYWORDS_TXT = DATASETS_BASE_DIR.joinpath("PaperKeywords.txt")
+PAPER_KEYWORDS_SFRAME = SFRAMES_BASE_DIR.joinpath("PaperKeywords.sframe")
+PAPER_KEYWORDS_LIST_SFRAME = SFRAMES_BASE_DIR.joinpath("PaperKeywordsList.sframe")
 
-JOURNALS_TXT = "%s/Journals.txt" % DATASETS_BASE_DIR
-JOURNALS_SFRAME = "%s/Journals.sframe" % SFRAMES_BASE_DIR
+PAPER_REFERENCES_TXT = DATASETS_BASE_DIR.joinpath("PaperReferences.txt")
+PAPER_REFERENCES_SFRAME = SFRAMES_BASE_DIR.joinpath("PaperReferences.sframe")
+PAPER_REFERENCES_COUNT_SFRAME = SFRAMES_BASE_DIR.joinpath("PaperReferencesCount.sframe")
 
-PAPER_KEYWORDS_TXT = "%s/PaperKeywords.txt" % DATASETS_BASE_DIR
-PAPER_KEYWORDS_SFRAME = "%s/PaperKeywords.sframe" % SFRAMES_BASE_DIR
-PAPER_KEYWORDS_LIST_SFRAME = "%s/PaperKeywordsList.sframe" % SFRAMES_BASE_DIR
+EXTENDED_PAPER_REFERENCES_SFRAME = SFRAMES_BASE_DIR.joinpath("ExtendedPaperReferences.sframe")
+FIELD_OF_STUDY_HIERARCHY = SFRAMES_BASE_DIR.joinpath("FieldOfStudyHierarchy.sframe")
+KEYWORDS_SFRAME = SFRAMES_BASE_DIR.joinpath("PaperKeywords.sframe")
+PAPERS_CITATIONS_BYYEAR_SFRAME = SFRAMES_BASE_DIR.joinpath("PapersCitationByYear.sframe")
 
-PAPER_REFERENCES_TXT = "%s/PaperReferences.txt" % DATASETS_BASE_DIR
-PAPER_REFERENCES_SFRAME = "%s/PaperReferences.sframe" % SFRAMES_BASE_DIR
-PAPER_REFERENCES_COUNT_SFRAME = "%s/PaperReferencesCount.sframe" % SFRAMES_BASE_DIR
+JOURNALS_DETAILS_SFRAME = SFRAMES_BASE_DIR.joinpath("sjr.sframe")
 
-EXTENDED_PAPER_REFERENCES_SFRAME = "%s/ExtendedPaperReferences.sframe" % SFRAMES_BASE_DIR
-FIELD_OF_STUDY_HIERARCHY = "%s/FieldOfStudyHierarchy.sframe" % SFRAMES_BASE_DIR
-KEYWORDS_SFRAME = "%s/PaperKeywords.sframe" % SFRAMES_BASE_DIR
-PAPERS_CITATIONS_BYYEAR_SFRAME = "%s/PapersCitationByYear.sframe" % SFRAMES_BASE_DIR
+JOURNALS_PAPERS_SFRAMES_DIR = SFRAMES_BASE_DIR.joinpath("journals")
+CONFERENCES_PAPERS_SFRAMES_DIR = SFRAMES_BASE_DIR.joinpath("conferences")
 
-JOURNALS_DETAILS_SFRAME = "%s/sjr.sframe" % SFRAMES_BASE_DIR
+CO_AUTHORSHIP_LINK_SFRAME = SFRAMES_BASE_DIR.joinpath("co_authors_links.sframe")
 
-JOURNALS_PAPERS_SFRAMES_DIR = "/data/fire/sframes/journals"
-CONFERENCES_PAPERS_SFRAMES_DIR = "/data/fire/sframes/conferences"
+L3_FIELD_PAPERS_LIST_SFRAME = SFRAMES_BASE_DIR.joinpath("L3DomainPapersLists.sframe")
 
-CO_AUTHORSHIP_LINK_SFRAME = "%s/co_authors_links.sframe" % SFRAMES_BASE_DIR
+AUTHORS_ACADEMIC_BIRTH_YEAR = SFRAMES_BASE_DIR.joinpath("AuthorsAcademicBirthYear.sframe")
+PAPERS_FIELDS_OF_STUDY_SFRAME = SFRAMES_BASE_DIR.joinpath("PapersFieldsOfStudy.sframe")
+PAPERS_ORDERED_AUTHORS_LIST_SFRAME = SFRAMES_BASE_DIR.joinpath("PapersOrderedAuthorsList.sframe")
 
-L3_FIELD_PAPERS_LIST_SFRAME = "%s/L3DomainPapersLists.sframe" % SFRAMES_BASE_DIR
+JOURNAL_AUTHORS_ACADEMIC_BIRTHYEAR_PKL = SFRAMES_BASE_DIR.joinpath("journal_authors_academic_birthyear.pkl")
+CONFERENCE_AUTHORS_ACADEMIC_BIRTHYEAR_PKL = SFRAMES_BASE_DIR.joinpath("conference_authors_academic_birthyear.pkl")
 
-AUTHORS_ACADEMIC_BIRTH_YEAR = "%s/AuthorsAcademicBirthYear.sframe" % SFRAMES_BASE_DIR
-PAPERS_FIELDS_OF_STUDY_SFRAME = "%s/PapersFieldsOfStudy.sframe" % SFRAMES_BASE_DIR
-PAPERS_ORDERED_AUTHORS_LIST_SFRAME = "%s/PapersOrderedAuthorsList.sframe" % SFRAMES_BASE_DIR
+FIELD_OF_STUDY_PAPERS_ID_SFRAME = SFRAMES_BASE_DIR.joinpath("FieldsOfStudyPapersIds.sframe")
 
-JOURNAL_AUTHORS_ACADEMIC_BIRTHYEAR_PKL = "%s/journal_authors_academic_birthyear.pkl" % SFRAMES_BASE_DIR
-CONFERENCE_AUTHORS_ACADEMIC_BIRTHYEAR_PKL = "%s/conference_authors_academic_birthyear.pkl" % SFRAMES_BASE_DIR
+AUTHORS_NAMES_TXT = DATASETS_BASE_DIR.joinpath("AuthorsNames.txt")
+AUTHORS_NAMES_SFRAME = SFRAMES_BASE_DIR.joinpath("AuthorsNames.sframe")
+PAPER_URLS_TXT = DATASETS_BASE_DIR.joinpath("PaperUrls.txt")
+PAPER_URLS_SFRAME = SFRAMES_BASE_DIR.joinpath("PaperUrls.sframe")
+FIRST_NAMES_SFRAME = SFRAMES_BASE_DIR.joinpath('first_names_gender.sframe')
+AUTHROS_FEATURES_SFRAME = SFRAMES_BASE_DIR.joinpath('authors_features.sframe')
+AMINER_PAPERS_SFRAME = SFRAMES_BASE_DIR.joinpath("PapersAMiner.sframe")
+AMINER_TXT_FILES = DATASETS_AMINER_DIR.joinpath("AMiner/*.txt")
 
-FIELD_OF_STUDY_PAPERS_ID_SFRAME = SFRAMES_BASE_DIR + "/FieldsOfStudyPapersIds.sframe"
+AMINER_MAG_JOIN_SFRAME = SFRAMES_BASE_DIR.joinpath("PapersAMinerMagJoin.sframe")
 
-AUTHORS_NAMES_TXT = "%s/Authors.txt" % DATASETS_BASE_DIR
-AUTHORS_NAMES_SFRAME = "%s/AuthorsNames.sframe" % SFRAMES_BASE_DIR
-PAPER_URLS_TXT = "%s/PaperUrls.txt" % DATASETS_BASE_DIR
-PAPER_URLS_SFRAME = "%s/PaperUrls.sframe" % SFRAMES_BASE_DIR
-FIRST_NAMES_SFRAME = '%s/first_names_gender.sframe' % SFRAMES_BASE_DIR
-AUTHROS_FEATURES_SFRAME = '%s/authors_features.sframe' % SFRAMES_BASE_DIR
-AMINER_PAPERS_SFRAME = "%s/PapersAMiner.sframe" % SFRAMES_BASE_DIR
-AMINER_TXT_FILES = "%s/AMiner/*.txt" % DATASETS_AMINER_DIR
+SJR_SFRAME = SFRAMES_BASE_DIR.joinpath("sjr.sframe")
 
-AMINER_MAG_JOIN_SFRAME = "%s/PapersAMinerMagJoin.sframe" % SFRAMES_BASE_DIR
-
-SJR_SFRAME = "%s/sjr.sframe" % SFRAMES_BASE_DIR
 
 
 class VenueType(Enum):
     journal = 1
     conference = 2
-
-
