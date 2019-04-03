@@ -41,7 +41,7 @@ class MicrosoftAcademicGraph(object):
     def references(self):
         """Creating the references SFrame from txt files"""
         references = SFrame.read_csv(str(self._dataset_dir / "PaperReferences.txt"), header=False, delimiter="\t")
-        references = references.rename({"X1": "Paper ID", "X2": "PapOriginal venue name reference ID"})
+        references = references.rename({"X1": "Paper ID", "X2": "Paper reference ID"})
         return references
 
     @property
