@@ -24,8 +24,9 @@ def download_file(url, output_path, exist_overwrite=False, min_size=-1, verbose=
 
 
 def lazy_property(fn):
-    '''Decorator that makes a property lazy-evaluated.
-    '''
+    """
+    Decorator that makes a property lazy-evaluated.
+    """
     attr_name = '_lazy_' + fn.__name__
 
     @property
@@ -37,12 +38,12 @@ def lazy_property(fn):
     return _lazy_property
 
 
-def save_load(sframe):
+def save_sframe(sframe):
     def decorator_repeat(func):
         @functools.wraps(func)
         def wrapper_repeat(self, *args, **kwargs):
             sframe_path = pathlib.Path(self._sframe_dir).joinpath(sframe)
-            value = func(self, *args, **kw)
+            value = func(self, *args, **kwargs)
             if not sframe_path.exists():
                 value.save(str(sframe_path))
             else:

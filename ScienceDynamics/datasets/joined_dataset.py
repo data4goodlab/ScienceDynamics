@@ -1,24 +1,35 @@
+import pathlib
 import re
 
 from ScienceDynamics.datasets.aminer import Aminer
 from ScienceDynamics.datasets.microsoft_academic_graph import MicrosoftAcademicGraph
 from ScienceDynamics.datasets.sjr import SJR
-from ScienceDynamics.datasets.utils import save_load
+from ScienceDynamics.datasets.utils import save_sframe
 import turicreate.aggregate as agg
 
 
 class JoinedDataset(object):
-    def __init__(self, dataset_dir=None):
-        self.aminer = Aminer()
-        self.mag = MicrosoftAcademicGraph()
-        self.sjr = SJR()
+    def __init__(self, dataset_dir, sjr_path=None, aminer_path=None, mag_path=None):
+        self._dataset_dir = pathlib.Path(dataset_dir)
+        self._dataset_dir.mkdir(exist_ok=True)
+        self._sframe_dir = self._dataset_dir / "sframes"
+        self._sframe_dir.mkdir(exist_ok=True)
+        if sjr_path is None:
+            sjr_path = self._dataset_dir / "SJR"
+        if aminer_path is None:
+            aminer_path = self._dataset_dir / "Aminer"
+        if mag_path is None:
+            mag_path = self._dataset_dir / "SJR"
+        self.aminer = Aminer(aminer_path)
+        self.mag = MicrosoftAcademicGraph(mag_path)
+        self.sjr = SJR(sjr_path)
 
     @property
-    @save_load(sframe="PapersAMinerMagJoin.sframe")
+    @save_sframe(sframe="PapersAMinerMagJoin.sframe")
     def aminer_mag_links_by_doi(self):
         """
-        Create Links Sframe that match papers from the MAG dataset with papers from the AMiner dataset based on the papers
-        DOI
+        Create Links Sframe that match papers from the MAG dataset
+        with papers from the AMiner dataset based on the papers DOI
         :return:
         """
         extended_papers = self.mag.extended_papers
@@ -48,7 +59,7 @@ class JoinedDataset(object):
         Creates a unified SFrame of AMiner, MAG, and the SJR datasets
         :param year: year to use for SJR data
         :return: SFrame with AMiner, MAG, and SJR data
-        :rtype: tc.SFrame
+        :rtype: SFrame
         """
         sf = self.aminer_mag_links_by_doi
         sf = sf[sf['issn'] != None]

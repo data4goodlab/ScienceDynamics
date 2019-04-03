@@ -3,7 +3,7 @@ import re
 
 from turicreate import SFrame
 from ScienceDynamics.datasets.configs import SJR_URLS
-from ScienceDynamics.datasets.utils import download_file, save_load
+from ScienceDynamics.datasets.utils import download_file, save_sframe
 
 
 class SJR(object):
@@ -18,14 +18,14 @@ class SJR(object):
                 download_file(url, sjr_file)
 
     @property
-    @save_load(sframe="sjr.sframe")
+    @save_sframe(sframe="sjr.sframe")
     def data(self):
         """
-        Createing the SJR SFrame from CSV files
+        Creating the SJR SFrame from CSV files
         :note: please notice that each file name contains the SJR report year
         """
         sjr_sf = SFrame()
-        for p in self.dataset_dir.iterdir():
+        for p in self._dataset_dir.iterdir():
             if p.suffix == ".csv":
                 y = int(re.match(r'.*([1-3][0-9]{3})', p.name).group(1))
                 sf = SFrame.read_csv(str(p))
