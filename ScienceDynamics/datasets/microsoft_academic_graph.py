@@ -6,6 +6,8 @@ import turicreate.aggregate as agg
 
 from ScienceDynamics.sframe_creators.fields_of_study_hieararchy_analyzer import FieldsHierarchyAnalyzer
 
+import zipfile
+
 
 class MicrosoftAcademicGraph(object):
     def __init__(self, dataset_zip=None):
@@ -15,6 +17,8 @@ class MicrosoftAcademicGraph(object):
         self._sframe_dir.mkdir(exist_ok=True)
         if not pathlib.Path(dataset_zip).exists():
             download_file(MAG_URL, pathlib.Path(dataset_zip))
+            with zipfile.ZipFile(pathlib.Path(dataset_zip), 'r') as f:
+                f.extractall(self._dataset_dir)
 
     @property
     @save_load(sframe="Papers.sframe")
