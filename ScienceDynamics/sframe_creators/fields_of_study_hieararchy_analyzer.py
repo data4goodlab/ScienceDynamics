@@ -2,11 +2,10 @@ import networkx as nx
 import turicreate as tc
 from functools import lru_cache
 
-from ScienceDynamics.config.configs import FIELDS_OF_STUDY_HIERARCHY_SFRAME, FIELDS_OF_STUDY_SFRAME
-
 
 class FieldsHierarchyAnalyzer(object):
-    def __init__(self, min_confidence=0.8):
+    def __init__(self, mag, min_confidence=0.8):
+        self._mag = mag
         self._g = FieldsHierarchyAnalyzer.create_fields_of_study_graph(min_confidence)
 
     def is_field_in_level(self, field_id, level):
@@ -38,12 +37,11 @@ class FieldsHierarchyAnalyzer(object):
 
         return ids
 
-    @staticmethod
-    def create_fields_of_study_graph(min_confidence=0.8):
+    def create_fields_of_study_graph(self, min_confidence=0.8):
         g = nx.DiGraph()
-        h_sf = tc.load_sframe(FIELDS_OF_STUDY_HIERARCHY_SFRAME)
+        h_sf = self._mag.field_of_study_hierarchy
         h_sf = h_sf[h_sf['Confidence'] >= min_confidence]
-        f_sf = tc.load_sframe(FIELDS_OF_STUDY_SFRAME)
+        f_sf = self._mag.papers_fields_of_study
         h_sf = h_sf.join(f_sf, on={'Child field of study ID': 'Field of study ID'}, how='left')
         h_sf = h_sf.rename({'Field of study name': 'Child field of study name'})
         h_sf = h_sf.join(f_sf, on={'Parent field of study ID': 'Field of study ID'}, how='left')

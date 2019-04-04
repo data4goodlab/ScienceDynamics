@@ -183,7 +183,7 @@ class MicrosoftAcademicGraph(object):
 
         k_sf = self.keywords
         g = k_sf.groupby('Paper ID', {'Field of study list': agg.CONCAT("Field of study ID mapped to keyword")})
-        fh = FieldsHierarchyAnalyzer()
+        fh = FieldsHierarchyAnalyzer(self)
 
         # add fields of study names from ID
         names = []
