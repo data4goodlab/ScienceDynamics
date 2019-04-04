@@ -43,8 +43,8 @@ def save_sframe(sframe):
         @functools.wraps(func)
         def wrapper_repeat(self, *args, **kwargs):
             sframe_path = pathlib.Path(self._sframe_dir).joinpath(sframe)
-            value = func(self, *args, **kwargs)
             if not sframe_path.exists():
+                value = func(self, *args, **kwargs)
                 value.save(str(sframe_path))
             else:
                 value = load_sframe(str(sframe_path))
