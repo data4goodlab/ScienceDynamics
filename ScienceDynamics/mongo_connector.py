@@ -1,7 +1,8 @@
 from pymongo import MongoClient
 import turicreate as tc
 
-from ScienceDynamics.config.configs import AUTHROS_FEATURES_SFRAME, EXTENDED_PAPERS_SFRAME, SJR_SFRAME, AMINER_MAG_JOIN_SFRAME
+from ScienceDynamics.config.configs import AUTHROS_FEATURES_SFRAME, EXTENDED_PAPERS_SFRAME, SJR_SFRAME, \
+    AMINER_MAG_JOIN_SFRAME
 from ScienceDynamics.config.log_config import logger
 
 
@@ -70,7 +71,9 @@ def _convert_sframe_dict_key_to_str(sf, col_names):
     return sf
 
 
-def load_sframes():
+def load_sframes(mag, sjr, joined):
+    # from ScienceDynamics.config.configs import DATASETS_BASE_DIR
+    # mag = MicrosoftAcademicGraph(DATASETS_BASE_DIR / "MicrosoftAcademicGraph.zip")
     """
     Load the journals/authors sframes to Mongo
     """
@@ -85,19 +88,19 @@ def load_sframes():
     md.insert_sframe(sf, 'journals', 'authors_features', index_cols_list=index_list)
 
     logger.info("Loading papers features")
-    sf = tc.load_sframe(EXTENDED_PAPERS_SFRAME)
+    sf = mag.extended_papers
     index_list = [('Original venue name', False), ('Paper ID', True), ('Conference ID mapped to venue name', False),
                   ('Journal ID mapped to venue name', False)]
     md.insert_sframe(sf, 'journals', 'papers_features', index_cols_list=index_list)
 
     logger.info("Loading SJR features")
-    sf = tc.load_sframe(SJR_SFRAME)
+    sf = sjr.data
     sf = sf.rename({c: c.replace(".", "") for c in sf.column_names()})
     sf['Title'] = sf['Title'].apply(lambda t: t.encode('utf-8'))
     index_list = [('Title', False), ('ISSN', False)]
     md.insert_sframe(sf, 'journals', 'sjr_journals', index_cols_list=index_list)
 
-    sf = tc.load_sframe(AMINER_MAG_JOIN_SFRAME)
+    sf = joined.aminer_mag_links_by_doi
     sf = sf.rename({c: c.replace(".", "") for c in sf.column_names()})
     index_list = [('Original venue name', False), ('MAG Paper ID', True), ('Conference ID mapped to venue name', False),
                   ('Journal ID mapped to venue name', False), ('issn', False)]
