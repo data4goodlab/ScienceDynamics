@@ -52,7 +52,7 @@ class MicrosoftAcademicGraph(object):
         return self.references.groupby("Paper ID", {"Ref Number": agg.COUNT()})
 
     @property
-    @save_sframe(sframe="PaperReferencesCount.sframe")
+    @save_sframe(sframe="PaperKeywords.sframe")
     def keywords(self):
         """
         Creating Keywords SFrame from txt files
@@ -67,6 +67,7 @@ class MicrosoftAcademicGraph(object):
         Creating Paper Keywords List SFrame
         """
         return self.keywords.groupby("Paper ID", {"Keywords List": agg.CONCAT("Keyword name")})
+
 
     @property
     @save_sframe(sframe="FieldsOfStudy.sframe")
