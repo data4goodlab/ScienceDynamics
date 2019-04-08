@@ -41,7 +41,7 @@ class FieldsHierarchyAnalyzer(object):
         g = nx.DiGraph()
         h_sf = self._mag.field_of_study_hierarchy
         h_sf = h_sf[h_sf['Confidence'] >= min_confidence]
-        f_sf = self._mag.papers_fields_of_study
+        f_sf = self._mag.fields_of_study()
         h_sf = h_sf.join(f_sf, on={'Child field of study ID': 'Field of study ID'}, how='left')
         h_sf = h_sf.rename({'Field of study name': 'Child field of study name'})
         h_sf = h_sf.join(f_sf, on={'Parent field of study ID': 'Field of study ID'}, how='left')

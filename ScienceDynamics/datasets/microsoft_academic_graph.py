@@ -39,6 +39,18 @@ class MicrosoftAcademicGraph(object):
         return papers
 
     @property
+    @save_sframe(sframe="authors_names.sframe")
+    def authors_names(self):
+        """
+        Creates authors names SFrames from txt files AuthorsNames
+        """
+        authors = SFrame.read_csv(str(self._dataset_dir / "AuthorsNames.txt"), header=False, delimiter="\t")
+        authors = authors.rename({'X1': 'Author ID', 'X2': 'Author name'})
+        authors['First name'] = authors['Author name'].apply(lambda s: s.split()[0])
+        authors['Last name'] = authors['Author name'].apply(lambda s: s.split()[-1])
+        return authors
+
+    @property
     @save_sframe(sframe="PaperReferences.sframe")
     def references(self):
         """Creating the references SFrame from txt files"""
