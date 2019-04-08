@@ -86,7 +86,6 @@ AUTHORS_NAMES_TXT = DATASETS_BASE_DIR.joinpath("AuthorsNames.txt")
 AUTHORS_NAMES_SFRAME = SFRAMES_BASE_DIR.joinpath("AuthorsNames.sframe")
 PAPER_URLS_TXT = DATASETS_BASE_DIR.joinpath("PaperUrls.txt")
 PAPER_URLS_SFRAME = SFRAMES_BASE_DIR.joinpath("PaperUrls.sframe")
-FIRST_NAMES_SFRAME = SFRAMES_BASE_DIR.joinpath('first_names_gender.sframe')
 AUTHROS_FEATURES_SFRAME = SFRAMES_BASE_DIR.joinpath('authors_features.sframe')
 AMINER_PAPERS_SFRAME = SFRAMES_BASE_DIR.joinpath("PapersAMiner.sframe")
 AMINER_TXT_FILES = DATASETS_AMINER_DIR.joinpath("AMiner/*.txt")
@@ -94,7 +93,6 @@ AMINER_TXT_FILES = DATASETS_AMINER_DIR.joinpath("AMiner/*.txt")
 AMINER_MAG_JOIN_SFRAME = SFRAMES_BASE_DIR.joinpath("PapersAMinerMagJoin.sframe")
 
 SJR_SFRAME = SFRAMES_BASE_DIR.joinpath("sjr.sframe")
-
 
 
 class VenueType(Enum):
