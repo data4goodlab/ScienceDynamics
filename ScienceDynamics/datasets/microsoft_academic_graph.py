@@ -3,7 +3,7 @@ from turicreate import SFrame, load_sframe
 from ScienceDynamics.datasets.configs import MAG_URL
 from ScienceDynamics.datasets.utils import download_file, save_sframe
 import turicreate.aggregate as agg
-
+from tqdm import tqdm
 from ScienceDynamics.sframe_creators.fields_of_study_hieararchy_analyzer import FieldsHierarchyAnalyzer
 
 import zipfile
@@ -26,14 +26,12 @@ class MicrosoftAcademicGraph(object):
         """
         Create the Papers SFrame object from txt files which contains information on each paper
         """
-        print("Loading papers")
         papers = SFrame.read_csv(str(self._dataset_dir / "Papers.txt"), header=False, delimiter="\t")
-        print("Loaded")
 
         papers = papers.rename({"X1": "Paper ID", "X2": "Original paper title", "X3": "Normalized paper title",
                                 "X4": "Paper publish year", "X5": "Paper publish date",
                                 "X6": "Paper Document Object Identifier (DOI)",
-                                "X7": "", "X8": "Normalized venue name", "X9": "Journal ID mapped to venue name",
+                                "X7": "Original venue name", "X8": "Normalized venue name", "X9": "Journal ID mapped to venue name",
                                 "X10": "Conference ID mapped to venue name", "X11": "Paper rank"})
         papers["Paper publish year"] = papers["Paper publish year"].astype(int)
         return papers
@@ -187,13 +185,13 @@ class MicrosoftAcademicGraph(object):
 
         # add fields of study names from ID
         names = []
-        for l in g['Field of study list']:
+        for l in tqdm(g['Field of study list']):
             names.append([fh.get_field_name(i) for i in l])
         g['Field of study list names'] = names
 
         for flevel in flevels:
             parent_list = []
-            for paper_field_of_study_list in g['Field of study list']:
+            for paper_field_of_study_list in tqdm(g['Field of study list']):
                 parent_list.append(
                     list(set.union(
                         *[fh.get_parents_field_of_study(field, flevel) for field in paper_field_of_study_list])))
@@ -296,7 +294,7 @@ class MicrosoftAcademicGraph(object):
         sframe_list = [self.reference_count, self.papers_citation_number_by_year, self.papers_authors_lists,
                        self.paper_keywords_list, self.papers_fields_of_study(), self.urls]
 
-        for s in sframe_list:
+        for s in tqdm(sframe_list):
             t = load_sframe(s)
             sf = sf.join(t, how="left", on="Paper ID")
         return sf.fillna("Ref Number", 0)

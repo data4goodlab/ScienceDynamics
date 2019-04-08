@@ -6,7 +6,7 @@ from functools import lru_cache
 class FieldsHierarchyAnalyzer(object):
     def __init__(self, mag, min_confidence=0.8):
         self._mag = mag
-        self._g = FieldsHierarchyAnalyzer.create_fields_of_study_graph(min_confidence)
+        self._g = self.create_fields_of_study_graph(min_confidence)
 
     def is_field_in_level(self, field_id, level):
         return level in self._g.node[field_id]['levels']
@@ -41,7 +41,7 @@ class FieldsHierarchyAnalyzer(object):
         g = nx.DiGraph()
         h_sf = self._mag.field_of_study_hierarchy
         h_sf = h_sf[h_sf['Confidence'] >= min_confidence]
-        f_sf = self._mag.papers_fields_of_study
+        f_sf = self._mag.fields_of_study
         h_sf = h_sf.join(f_sf, on={'Child field of study ID': 'Field of study ID'}, how='left')
         h_sf = h_sf.rename({'Field of study name': 'Child field of study name'})
         h_sf = h_sf.join(f_sf, on={'Parent field of study ID': 'Field of study ID'}, how='left')
