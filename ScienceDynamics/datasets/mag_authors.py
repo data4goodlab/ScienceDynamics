@@ -1,13 +1,14 @@
 import sys
+import zipfile
 
-from ScienceDynamics.config.configs import EXTENDED_PAPERS_SFRAME, TMP_DIR, PAPER_AUTHOR_AFFILIATIONS_SFRAME, \
-    AUTHOR_NAMES_SFRAME, FIRST_NAMES_SFRAME
+from ScienceDynamics.config.configs import TMP_DIR, SFRAMES_BASE_DIR
 from ScienceDynamics.config.log_config import logger
 import turicreate as tc
 import turicreate.aggregate as agg
-import os
+from pathlib import Path
 
-sys.path.extend([".."])
+from ScienceDynamics.datasets.configs import NAME_GENDER_URL, FIRST_NAMES_SFRAME
+from ScienceDynamics.datasets.utils import download_file
 
 
 def _entities_years_list_to_dict(l):
@@ -27,15 +28,21 @@ def _entities_years_list_to_dict(l):
 
 
 class AuthorsFeaturesExtractor(object):
-    def __init__(self, paper_min_ref=5):
+    def __init__(self, mag, paper_min_ref=5):
         """
         Consturct and Author Features Extractor object
         :param paper_min_ref: minimum number of references
         """
+        self._mag = mag
         self._paper_min_ref = paper_min_ref
         self._p_sf = self._get_extended_papers_sframe(paper_min_ref)
-        self._authors_years_sframe = None
-        self._paper_author_affilation_join_sframe = None
+        self._paper_authors_years = None
+        self._paper_author_affiliation_join_sframe = None
+        if not Path(FIRST_NAMES_SFRAME).exists():
+            dataset_zip = FIRST_NAMES_SFRAME.replace(".sframe",".zip")
+            download_file(NAME_GENDER_URL, Path(dataset_zip))
+            with zipfile.ZipFile(Path(dataset_zip), 'r') as f:
+                f.extractall(SFRAMES_BASE_DIR)
 
     def _get_extended_papers_sframe(self, paper_min_ref):
         """
@@ -44,30 +51,29 @@ class AuthorsFeaturesExtractor(object):
         :return: SFrame with Papers data
         :rtype: tc.SFrame
         """
-        if paper_min_ref is None:
-            return tc.load_sframe(EXTENDED_PAPERS_SFRAME)
-        sf_path = f"{TMP_DIR}/extended_paper_min_ref_{paper_min_ref}.sfrmae"
-        if os.path.isdir(sf_path):
-            return tc.load_sframe(sf_path)
+        extended = self._mag.extended_papers
+        if paper_min_ref is not None:
+            sf_path = f"{TMP_DIR}/extended_paper_min_ref_{paper_min_ref}.sfrmae"
+            if Path(sf_path).is_dir():
+                return tc.load_sframe(sf_path)
 
-        sf = tc.load_sframe(EXTENDED_PAPERS_SFRAME)
-        sf = sf[sf['Ref Number'] >= paper_min_ref]
-        sf.save(sf_path)
-        return sf
+            extended = extended[extended['Ref Number'] >= paper_min_ref]
+            extended.save(sf_path)
+            return extended
 
-    def get_paper_authors_years_sframe(self):
+    @property
+    def paper_authors_years(self):
         """
         Return an SFrame in which each row consists of Paper ID, Author ID, Paper Publish Year
         :return: SFrame with Author and Paper by publication year data
         :rtype: tc.SFrame()
         """
-        if self._authors_years_sframe is not None:
-            return self._authors_years_sframe
-        p_sf = self._p_sf["Paper ID", "Paper publish year"]
-        a_sf = tc.load_sframe(PAPER_AUTHOR_AFFILIATIONS_SFRAME)["Author ID", "Paper ID"]  # 337000127 for all papers
-        a_sf = a_sf.join(p_sf, on="Paper ID")
-        self._authors_years_sframe = a_sf
-        return a_sf
+        if self._paper_authors_years is None:
+            p_sf = self._p_sf["Paper ID", "Paper publish year"]
+            self._paper_authors_years = self._mag.paper_author_affiliations[
+                "Author ID", "Paper ID"]  # 337000127 for all papers
+            self._paper_authors_years = self._paper_authors_years.join(p_sf, on="Paper ID")
+        return self._paper_authors_years
 
     def get_authors_papers_dict_sframe(self):
         """
@@ -76,7 +82,7 @@ class AuthorsFeaturesExtractor(object):
         :rtype: tc.SFrame
         """
         logger.info("Calcualting authors' papers by year")
-        a_sf = self.get_paper_authors_years_sframe()
+        a_sf = self.paper_authors_years
         a_sf['Paper Year'] = a_sf.apply(lambda r: (r["Paper publish year"], r["Paper ID"]))
         g = a_sf.groupby("Author ID", {"Papers List": agg.CONCAT("Paper Year")})
         g['Papers by Years Dict'] = g["Papers List"].apply(lambda l: _entities_years_list_to_dict(l))
@@ -90,7 +96,7 @@ class AuthorsFeaturesExtractor(object):
         :note: the function can take considerable amount of time to execute
         """
         logger.info("Calcualting authors' coauthors by year")
-        sf = self.get_paper_authors_years_sframe()
+        sf = self.paper_authors_years
         sf = sf.join(sf, on='Paper ID')
         sf2 = sf[sf['Author ID'] != sf['Author ID.1']]
         sf2 = sf2.remove_column('Paper publish year.1')
@@ -111,7 +117,7 @@ class AuthorsFeaturesExtractor(object):
         :rtype: tc.SFrame
         """
         logger.info("Calcualting authors feature %s by year" % feature_name)
-        a_sf = self.paper_author_affilation_sframe['Author ID', 'Paper publish year', feature_name]
+        a_sf = self.paper_author_affiliation_sframe['Author ID', 'Paper publish year', feature_name]
         a_sf['Feature Year'] = a_sf.apply(lambda r: (int(r["Paper publish year"]), r[feature_name]))
         g = a_sf.groupby("Author ID", {"Feature List": agg.CONCAT("Feature Year")})
         g[feature_col_name] = g["Feature List"].apply(lambda l: _entities_years_list_to_dict(l))
@@ -119,31 +125,21 @@ class AuthorsFeaturesExtractor(object):
 
         return g
 
-    def get_author_names_sframe(self):
-        """
-        Load the authors names SFrame
-        :return: Sframe with Author ID and Authors name details
-        :rtype: tc.SFrame
-        """
-        return tc.load_sframe(AUTHOR_NAMES_SFRAME)
-
     @property
-    def paper_author_affilation_sframe(self):
+    def paper_author_affiliation_sframe(self):
         """
         Returns SFrame in whcih each row contains the Author ID, Paper ID, Paper publish year, Conference ID mapped to venue name, Journal ID mapped to venue name,
              Original venue name
         :return: SFrame with Authors and Papers Data
         :rtype: tc.SFrame
         """
-        if self._paper_author_affilation_join_sframe is not None:
-            return self._paper_author_affilation_join_sframe
-
-        p_sf = self._p_sf[
-            ['Paper ID', 'Paper publish year', "Conference ID mapped to venue name", "Journal ID mapped to venue name",
-             "Original venue name"]]
-        a_sf = tc.load_sframe(PAPER_AUTHOR_AFFILIATIONS_SFRAME)  # 337000127
-        self._paper_author_affilation_join_sframe = a_sf.join(p_sf, on="Paper ID")
-        return self._paper_author_affilation_join_sframe
+        if self._paper_author_affiliation_join_sframe is None:
+            p_sf = self._p_sf[
+                ['Paper ID', 'Paper publish year', "Conference ID mapped to venue name", "Journal ID mapped to venue name",
+                 "Original venue name"]]
+            a_sf = self._mag.paper_author_affiliations
+            self._paper_author_affiliation_join_sframe = a_sf.join(p_sf, on="Paper ID")
+        return self._paper_author_affiliation_join_sframe
 
     def get_authors_all_features_sframe(self):
         """
@@ -152,14 +148,14 @@ class AuthorsFeaturesExtractor(object):
         :rtype: tc. SFrame
         """
         p_sf = self._p_sf[['Paper ID']]  # 22082741
-        a_sf = tc.load_sframe(PAPER_AUTHOR_AFFILIATIONS_SFRAME)["Author ID", "Paper ID"]
+        a_sf = self.paper_author_affiliations["Author ID", "Paper ID"]
         a_sf = a_sf.join(p_sf, on="Paper ID")
         a_sf = a_sf[["Author ID"]].unique()
         g = self.get_authors_papers_dict_sframe()
         a_sf = a_sf.join(g, on="Author ID", how="left")  # 22443094 rows
         g = self.get_co_authors_dict_sframe()
         a_sf = a_sf.join(g, on="Author ID", how='left')
-        a_sf = a_sf.join(self.get_author_names_sframe(), on="Author ID", how="left")
+        a_sf = a_sf.join(self._mag.authors_names, on="Author ID", how="left")
         g_sf = tc.load_sframe(FIRST_NAMES_SFRAME)
         a_sf = a_sf.join(g_sf, on={"First name": "First Name"}, how="left")
 

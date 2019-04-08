@@ -27,7 +27,7 @@ def create_references_sframe():
     if os.path.isdir(PAPER_REFERENCES_SFRAME):
         return
     sf = tc.SFrame.read_csv(PAPER_REFERENCES_TXT, header=False, delimiter="\t")
-    sf = sf.rename({"X1": "Paper ID", "X2": "PapOriginal venue nameer reference ID"})
+    sf = sf.rename({"X1": "Paper ID", "X2": "Paper reference ID"})
     sf.save(PAPER_REFERENCES_SFRAME)
 
 
