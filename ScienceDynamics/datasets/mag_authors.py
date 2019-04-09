@@ -8,7 +8,7 @@ import turicreate.aggregate as agg
 from pathlib import Path
 
 from ScienceDynamics.datasets.configs import NAME_GENDER_URL, FIRST_NAMES_SFRAME
-from ScienceDynamics.datasets.utils import download_file
+from ScienceDynamics.datasets.utils import download_file, save_sframe
 
 
 def _entities_years_list_to_dict(l):
@@ -141,7 +141,9 @@ class AuthorsFeaturesExtractor(object):
             self._paper_author_affiliation_join_sframe = a_sf.join(p_sf, on="Paper ID")
         return self._paper_author_affiliation_join_sframe
 
-    def get_authors_all_features_sframe(self):
+    @property
+    @save_sframe(sframe="authors_features.sframe")
+    def authors_features(self):
         """
         Create Authors SFrame in which each row is unique Author ID and the author's various features
         :return: SFrame with Authors features
