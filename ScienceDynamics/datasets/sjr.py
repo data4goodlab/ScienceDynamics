@@ -28,7 +28,7 @@ class SJR(object):
         for p in self._dataset_dir.iterdir():
             if p.suffix == ".csv":
                 y = int(re.match(r'.*([1-3][0-9]{3})', p.name).group(1))
-                sf = SFrame.read_csv(str(p))
+                sf = SFrame.read_csv(str(p),delimiter=';')
                 sf['Year'] = y
                 sf = sf.rename({"Total Docs. (%s)" % y: "Total Docs."})
                 extra_cols = ["Categories"]
