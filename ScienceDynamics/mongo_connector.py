@@ -1,8 +1,9 @@
 from pymongo import MongoClient
 import turicreate as tc
+from ScienceDynamics.datasets.mag_authors import AuthorsFeaturesExtractor
 
 from ScienceDynamics.config.configs import AUTHROS_FEATURES_SFRAME, EXTENDED_PAPERS_SFRAME, SJR_SFRAME, \
-    AMINER_MAG_JOIN_SFRAME
+    AMINER_MAG_JOIN_SFRAME, MONGO_IP
 from ScienceDynamics.config.log_config import logger
 
 
@@ -63,10 +64,10 @@ class MongoDBConnector(object):
 
 def _convert_sframe_dict_key_to_str(sf, col_names):
     for c in col_names:
-        sf[c] = sf[c].apply(lambda d: {str(int(k)): [i for i in v if i is not ''] for k, v in d.iteritems()})
+        sf[c] = sf[c].apply(lambda d: {str(int(float(k))): [i for i in v if i is not ''] for k, v in d.items()})
     # remove empty lists
     for c in col_names:
-        sf[c] = sf[c].apply(lambda d: {k: v for k, v in d.iteritems() if v != []})
+        sf[c] = sf[c].apply(lambda d: {k: v for k, v in d.items() if v != []})
     sf.materialize()
     return sf
 
@@ -79,10 +80,14 @@ def load_sframes(mag, sjr, joined):
     """
     logger.info("Loading authors features")
     md = MongoDBConnector()
-    sf = tc.load_sframe(AUTHROS_FEATURES_SFRAME)
+    a = AuthorsFeaturesExtractor(mag)
+
+    sf = a.get_authors_all_features_sframe()
+    logger.info("Converting")
+
     sf = _convert_sframe_dict_key_to_str(sf, [c for c in sf.column_names() if "Year" in c])
     sf['Sequence Number by Year Dict'] = sf['Sequence Number by Year Dict'].apply(
-        lambda d: {k: [str(int(i)) for i in v] for k, v in d.iteritems()})
+        lambda d: {k: [str(int(float(i))) for i in v] for k, v in d.items()})
     sf.materialize()
     index_list = [('Author ID', True), ('Author name', False)]
     md.insert_sframe(sf, 'journals', 'authors_features', index_cols_list=index_list)

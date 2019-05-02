@@ -19,7 +19,7 @@ class JoinedDataset(object):
         if aminer_path is None:
             aminer_path = self._dataset_dir / "Aminer"
         if mag_path is None:
-            mag_path = self._dataset_dir / "SJR"
+            mag_path = self._dataset_dir / "MAG"/ "MicrosoftAcademicGraph.zip"
         self.aminer = Aminer(aminer_path)
         self.mag = MicrosoftAcademicGraph(mag_path)
         self.sjr = SJR(sjr_path)
@@ -54,7 +54,7 @@ class JoinedDataset(object):
         aminer_mag = aminer_mag.rename({"Paper ID": "MAG Paper ID", "id": "Aminer Paper ID"})
         return aminer_mag.remove_columns(['title_len', 'title_len2'])
 
-    def create_aminer_mag_sjr_sframe(self, year):
+    def aminer_mag_sjr(self, year):
         """
         Creates a unified SFrame of AMiner, MAG, and the SJR datasets
         :param year: year to use for SJR data
