@@ -142,8 +142,9 @@ class AuthorsFeaturesExtractor(object):
             self._paper_author_affiliation_join_sframe = a_sf.join(p_sf, on="Paper ID")
         return self._paper_author_affiliation_join_sframe
 
+
     @save_sframe(sframe="authors_features.sframe")
-    def get_authors_all_features_sframe(self):
+    def authors_features(self):
         """
         Create Authors SFrame in which each row is unique Author ID and the author's various features
         :return: SFrame with Authors features
