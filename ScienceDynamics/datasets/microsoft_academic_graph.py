@@ -35,18 +35,18 @@ class MicrosoftAcademicGraph(object):
                                 "X10": "Conference ID mapped to venue name", "X11": "Paper rank"})
         papers["Paper publish year"] = papers["Paper publish year"].astype(int)
         return papers
-
+    
     @property
-    @save_sframe(sframe="authors_names.sframe")
-    def authors_names(self):
+    @save_sframe(sframe="Authors.sframe")
+    def author_names(self):
         """
-        Creates authors names SFrames from txt files AuthorsNames
+        Creates authors names SFrames from txt files
         """
-        authors = SFrame.read_csv(str(self._dataset_dir / "AuthorsNames.txt"), header=False, delimiter="\t")
-        authors = authors.rename({'X1': 'Author ID', 'X2': 'Author name'})
-        authors['First name'] = authors['Author name'].apply(lambda s: s.split()[0])
-        authors['Last name'] = authors['Author name'].apply(lambda s: s.split()[-1])
-        return authors
+        author_names = SFrame.read_csv(str(self._dataset_dir / "Authors.txt"), header=False, delimiter="\t")
+        author_names = author_names.rename({'X1': 'Author ID', 'X2': 'Author name'})
+        author_names['First name'] = author_names['Author name'].apply(lambda s: s.split()[0])
+        author_names['Last name'] = author_names['Author name'].apply(lambda s: s.split()[-1])
+        return author_names
 
     @property
     @save_sframe(sframe="PaperReferences.sframe")
@@ -172,17 +172,6 @@ class MicrosoftAcademicGraph(object):
 
         return sf
 
-    @property
-    @save_sframe(sframe="AuthorNames.sframe")
-    def author_names(self):
-        """
-        Creates authors names SFrames from txt files
-        """
-        author_names = SFrame.read_csv(str(self._dataset_dir / "AuthorNames.txt"), header=False, delimiter="\t")
-        author_names = author_names.rename({'X1': 'Author ID', 'X2': 'Author name'})
-        author_names['First name'] = author_names['Author name'].apply(lambda s: s.split()[0])
-        author_names['Last name'] = author_names['Author name'].apply(lambda s: s.split()[-1])
-        return author_names
 
     @save_sframe(sframe="PapersFieldsOfStudy.sframe")
     def papers_fields_of_study(self, flevels=(0, 1, 2, 3)):
@@ -306,8 +295,7 @@ class MicrosoftAcademicGraph(object):
         sframe_list = [self.reference_count, self.papers_citation_number_by_year, self.papers_authors_lists,
                        self.paper_keywords_list, self.papers_fields_of_study(), self.urls]
 
-        for s in tqdm(sframe_list):
-            t = load_sframe(s)
+        for t in tqdm(sframe_list):
             sf = sf.join(t, how="left", on="Paper ID")
         return sf.fillna("Ref Number", 0)
 
