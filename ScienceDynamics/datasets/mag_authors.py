@@ -6,9 +6,9 @@ from ScienceDynamics.config.log_config import logger
 import turicreate as tc
 import turicreate.aggregate as agg
 from pathlib import Path
-
+from tqdm import tqdm
 from ScienceDynamics.datasets.configs import NAME_GENDER_URL, FIRST_NAMES_SFRAME
-from ScienceDynamics.datasets.utils import download_file
+from ScienceDynamics.datasets.utils import download_file, save_sframe
 
 
 def _entities_years_list_to_dict(l):
@@ -38,8 +38,9 @@ class AuthorsFeaturesExtractor(object):
         self._p_sf = self._get_extended_papers_sframe(paper_min_ref)
         self._paper_authors_years = None
         self._paper_author_affiliation_join_sframe = None
+        self._sframe_dir = SFRAMES_BASE_DIR
         if not Path(FIRST_NAMES_SFRAME).exists():
-            dataset_zip = FIRST_NAMES_SFRAME.replace(".sframe",".zip")
+            dataset_zip = str(FIRST_NAMES_SFRAME).replace(".sframe",".zip")
             download_file(NAME_GENDER_URL, Path(dataset_zip))
             with zipfile.ZipFile(Path(dataset_zip), 'r') as f:
                 f.extractall(SFRAMES_BASE_DIR)
@@ -141,6 +142,7 @@ class AuthorsFeaturesExtractor(object):
             self._paper_author_affiliation_join_sframe = a_sf.join(p_sf, on="Paper ID")
         return self._paper_author_affiliation_join_sframe
 
+    @save_sframe(sframe="authors_features.sframe")
     def get_authors_all_features_sframe(self):
         """
         Create Authors SFrame in which each row is unique Author ID and the author's various features
@@ -148,15 +150,15 @@ class AuthorsFeaturesExtractor(object):
         :rtype: tc. SFrame
         """
         p_sf = self._p_sf[['Paper ID']]  # 22082741
-        a_sf = self.paper_author_affiliations["Author ID", "Paper ID"]
+        a_sf = self._mag.paper_author_affiliations["Author ID", "Paper ID"]
         a_sf = a_sf.join(p_sf, on="Paper ID")
         a_sf = a_sf[["Author ID"]].unique()
         g = self.get_authors_papers_dict_sframe()
         a_sf = a_sf.join(g, on="Author ID", how="left")  # 22443094 rows
         g = self.get_co_authors_dict_sframe()
         a_sf = a_sf.join(g, on="Author ID", how='left')
-        a_sf = a_sf.join(self._mag.authors_names, on="Author ID", how="left")
-        g_sf = tc.load_sframe(FIRST_NAMES_SFRAME)
+        a_sf = a_sf.join(self._mag.author_names, on="Author ID", how="left")
+        g_sf = tc.load_sframe(str(FIRST_NAMES_SFRAME))
         a_sf = a_sf.join(g_sf, on={"First name": "First Name"}, how="left")
 
         feature_names = [("Normalized affiliation name", "Affilation by Year Dict"),
@@ -164,7 +166,7 @@ class AuthorsFeaturesExtractor(object):
                          ("Conference ID mapped to venue name", "Conference ID by Year Dict"),
                          ("Journal ID mapped to venue name", "Journal ID by Year Dict"),
                          ("Original venue name", "Venue by Year Dict")]
-        for fname, col_name in feature_names:
+        for fname, col_name in tqdm(feature_names):
             f_sf = self._get_author_feature_by_year_sframe(fname, col_name)
             a_sf = a_sf.join(f_sf, on="Author ID", how='left')
 

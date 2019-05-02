@@ -2,8 +2,8 @@ import multiprocessing
 from enum import Enum
 import turicreate as tc
 import pathlib
-
-# Mongo
+from dotenv import load_dotenv
+import os
 
 STORAGE_DIR_NAME = ".scidyn"
 STORAGE_PATH = pathlib.Path.home().joinpath(STORAGE_DIR_NAME)
@@ -98,3 +98,8 @@ SJR_SFRAME = SFRAMES_BASE_DIR.joinpath("sjr.sframe")
 class VenueType(Enum):
     journal = 1
     conference = 2
+
+# Mongo
+load_dotenv()
+MONGO_IP = os.getenv("MONGO_IP")
+
