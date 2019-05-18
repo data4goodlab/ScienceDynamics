@@ -310,8 +310,8 @@ class MicrosoftAcademicGraph(object):
         col = 'Fields of study parent list (L%s)' % level
         sf = self.extended_papers
         new_col_name = "Field ID"
-        sf = sf.stack(col, new_column_name=new_col_name)
         sf = sf[sf[col] != None]
+        sf = sf.stack(col, new_column_name=new_col_name)
         g = sf.groupby(new_col_name, {'Paper IDs': agg.CONCAT("Paper ID")})
         f_sf = self.fields_of_study
         g = g.join(f_sf, on={new_col_name: "Field of study ID"})
@@ -320,7 +320,7 @@ class MicrosoftAcademicGraph(object):
         return g.rename({new_col_name: "Field of study ID"})
 
     @save_sframe(sframe="FieldsOfStudyPapersIds.sframe")
-    def fields_of_study_papers_ids_sframes(self, levels=(1, 2, 3)):
+    def fields_of_study_papers_ids(self, levels=(1, 2, 3)):
         """
         Creates SFrames with each Fields of study paper ids
         :param levels: list of fields of study level
