@@ -12,7 +12,7 @@ class PapersFetcher(object):
     @lru_cache(maxsize=1000000)
     def get_paper_data(self, paper_id):
         j = {}
-        logger.debug(f"Fetching paper {paper_id}")
+        #logger.debug(f"Fetching paper {paper_id}")
         try:
             j = self._papers_join_collections.find({"MAG Paper ID": paper_id}).next()
 

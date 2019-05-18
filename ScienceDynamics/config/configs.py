@@ -92,7 +92,7 @@ AMINER_TXT_FILES = DATASETS_AMINER_DIR.joinpath("AMiner/*.txt")
 
 AMINER_MAG_JOIN_SFRAME = SFRAMES_BASE_DIR.joinpath("PapersAMinerMagJoin.sframe")
 
-SJR_SFRAME = SFRAMES_BASE_DIR.joinpath("sjr.sframe")
+SJR_SFRAME = DATASETS_SJR_DIR.joinpath("sframes").joinpath("sjr.sframe")
 
 
 class VenueType(Enum):

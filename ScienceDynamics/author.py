@@ -31,9 +31,9 @@ class Author(object):
 
     def _filter_dict_by_years(self, d, start_year, end_year):
         if start_year is not None:
-            d = {k: v for k, v in d.iteritems() if k >= start_year}
+            d = {k: v for k, v in d.items() if k >= start_year}
         if end_year is not None:
-            d = {k: v for k, v in d.iteritems() if k <= end_year}
+            d = {k: v for k, v in d.items() if k <= end_year}
         return d
 
     def _get_items_list_between_years(self, key_name, start_year, end_year):
