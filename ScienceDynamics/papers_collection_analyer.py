@@ -11,7 +11,6 @@ from ScienceDynamics.authors_list_analyzer import AuthorsListAnalyzer
 from ScienceDynamics.config.configs import VenueType
 from ScienceDynamics.config.fetch_config import AUTHORS_FETCHER, PAPERS_FETCHER
 from ScienceDynamics.config.log_config import logger
-from ScienceDynamics.paper import Paper
 from tqdm import tqdm
 
 class PapersCollection(object):
@@ -287,6 +286,7 @@ class PapersCollection(object):
         :rtype: list<Paper>
         """
         if len(self.__papers_list) == 0:
+            from ScienceDynamics.paper import Paper
             self.__papers_list = [Paper(i, self._papers_fetcher, self._authors_fetcher) for i in tqdm(self.papers_ids)]
 
         return self.__papers_list
