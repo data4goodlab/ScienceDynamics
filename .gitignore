@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 data_collector.py
-
+ScienceDynamics/visualization/fields_results/
 
 Crawlers
 
@@ -196,4 +196,5 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+
 
