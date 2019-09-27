@@ -1,7 +1,6 @@
 from ScienceDynamics.config.configs import VenueType
 from ScienceDynamics.config.fetch_config import AUTHORS_FETCHER
 from ScienceDynamics.utils import join_all_lists
-from ScienceDynamics.papers_collection_analyer import PapersCollection
 from collections import Counter
 
 
@@ -302,6 +301,7 @@ class Author(object):
         :rtype: PapersCollection
         """
         if self._paper_collection_analyzer is None:
+            from ScienceDynamics.papers_collection_analyer import PapersCollection
             self._paper_collection_analyzer = PapersCollection(papers_ids=self.papers_list)
 
         return self._paper_collection_analyzer
