@@ -8,7 +8,7 @@ from ScienceDynamics.datasets.microsoft_academic_graph import MicrosoftAcademicG
 class FieldsOfStudyFetcher(object):
     def __init__(self):
         mag = MicrosoftAcademicGraph(DATASETS_BASE_DIR / "MicrosoftAcademicGraph.zip")
-        self._sf = mag.fields_of_study_papers_ids_sframes()
+        self._sf = mag.fields_of_study_papers_ids()
         self._id_name_dict = None
 
     def _get_id_to_name_dict(self):
