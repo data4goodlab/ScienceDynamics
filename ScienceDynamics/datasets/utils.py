@@ -14,7 +14,7 @@ def download_file(url, output_path, exist_overwrite=False, min_size=-1, verbose=
         total_size = int(r.headers.get('content-length', 0))
         size_read = 0
         if total_size > min_size:
-            with tqdm(total=total_size, unit='B', unit_scale=True, unit_divisor=1024, disable=not verbose) as pbar:
+            with tqdm(total=total_size, unit='B', unit_scale=True, unit_divisor=1024,desc=url, disable=not verbose) as pbar:
                 with open(output_path, 'wb') as f:
                     for chunk in r.iter_content(chunk_size=1024):
                         if chunk:  # filter out keep-alive new chunks
