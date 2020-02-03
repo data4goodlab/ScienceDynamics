@@ -26,9 +26,9 @@ class MicrosoftAcademicGraph(object):
     @save_sframe(sframe="Papers.sframe")
     def papers(self):
         """
-        Create the Papers SFrame object from txt files which contains information on each paper
+        Create the Papers SFrame object from.txt.gz files which contains information on each paper
         """
-        papers = SFrame.read_csv(str(self._dataset_dir / "Papers.txt"), header=False, delimiter="\t")
+        papers = SFrame.read_csv(str(self._dataset_dir / "Papers.txt.gz"), header=False, delimiter="\t")
 
         papers = papers.rename({"X1": "Paper ID", "X2": "Original paper title", "X3": "Normalized paper title",
                                 "X4": "Paper publish year", "X5": "Paper publish date",
@@ -43,9 +43,9 @@ class MicrosoftAcademicGraph(object):
     @save_sframe(sframe="Authors.sframe")
     def author_names(self):
         """
-        Creates authors names SFrames from txt files
+        Creates authors names SFrames from.txt.gz files
         """
-        author_names = SFrame.read_csv(str(self._dataset_dir / "Authors.txt"), header=False, delimiter="\t")
+        author_names = SFrame.read_csv(str(self._dataset_dir / "Authors.txt.gz"), header=False, delimiter="\t")
         author_names = author_names.rename({'X1': 'Author ID', 'X2': 'Author name'})
         author_names['First name'] = author_names['Author name'].apply(lambda s: s.split()[0])
         author_names['Last name'] = author_names['Author name'].apply(lambda s: s.split()[-1])
@@ -55,9 +55,9 @@ class MicrosoftAcademicGraph(object):
     @save_sframe(sframe="Authors.sframe")
     def author_names(self):
         """
-        Creates authors names SFrames from txt files
+        Creates authors names SFrames from.txt.gz files
         """
-        author_names = SFrame.read_csv(str(self._dataset_dir / "Authors.txt"), header=False, delimiter="\t")
+        author_names = SFrame.read_csv(str(self._dataset_dir / "Authors.txt.gz"), header=False, delimiter="\t")
         author_names = author_names.rename({'X1': 'Author ID', 'X2': 'Author name'})
         author_names['First name'] = author_names['Author name'].apply(lambda s: s.split()[0])
         author_names['Last name'] = author_names['Author name'].apply(lambda s: s.split()[-1])
@@ -66,8 +66,8 @@ class MicrosoftAcademicGraph(object):
     @property
     @save_sframe(sframe="PaperReferences.sframe")
     def references(self):
-        """Creating the references SFrame from txt files"""
-        references = SFrame.read_csv(str(self._dataset_dir / "PaperReferences.txt"), header=False, delimiter="\t")
+        """Creating the references SFrame from.txt.gz files"""
+        references = SFrame.read_csv(str(self._dataset_dir / "PaperReferences.txt.gz"), header=False, delimiter="\t")
         references = references.rename({"X1": "Paper ID", "X2": "Paper reference ID"})
         return references
 
@@ -80,9 +80,9 @@ class MicrosoftAcademicGraph(object):
     @save_sframe(sframe="PaperKeywords.sframe")
     def keywords(self):
         """
-        Creating Keywords SFrame from txt files
+        Creating Keywords SFrame from.txt.gz files
         """
-        keywords = SFrame.read_csv(str(self._dataset_dir / "PaperKeywords.txt"), header=False, delimiter="\t")
+        keywords = SFrame.read_csv(str(self._dataset_dir / "PaperKeywords.txt.gz"), header=False, delimiter="\t")
         return keywords.rename({"X1": "Paper ID", "X2": "Keyword name", "X3": "Field of study ID mapped to keyword"})
 
     @property
@@ -97,19 +97,19 @@ class MicrosoftAcademicGraph(object):
     @save_sframe(sframe="FieldsOfStudy.sframe")
     def fields_of_study(self):
         """
-        Creating Field of study SFrame from txt files
+        Creating Field of study SFrame from.txt.gz files
         """
-        fields_of_study = SFrame.read_csv(str(self._dataset_dir / "FieldsOfStudy.txt"), header=False, delimiter="\t")
+        fields_of_study = SFrame.read_csv(str(self._dataset_dir / "FieldsOfStudy.txt.gz"), header=False, delimiter="\t")
         return fields_of_study.rename({"X1": "Field of study ID", "X2": "Field of study name"})
 
     @property
     @save_sframe(sframe="PaperAuthorAffiliations.sframe")
     def paper_author_affiliations(self):
         """
-        Creating authors affiliation SFrame from txt files
+        Creating authors affiliation SFrame from.txt.gz files
         :return:
         """
-        paper_author_affiliations = SFrame.read_csv(str(self._dataset_dir / "PaperAuthorAffiliations.txt"),
+        paper_author_affiliations = SFrame.read_csv(str(self._dataset_dir / "PaperAuthorAffiliations.txt.gz"),
                                                     header=False, delimiter="\t")
         return paper_author_affiliations.rename(
             {"X1": "Paper ID", "X2": "Author ID", "X3": "Affiliation ID", "X4": "Original affiliation name",
@@ -136,9 +136,9 @@ class MicrosoftAcademicGraph(object):
     @save_sframe(sframe="FieldOfStudyHierarchy.sframe")
     def field_of_study_hierarchy(self):
         """
-        Creates field of study hierarchy sframe from txt files
+        Creates field of study hierarchy sframe from.txt.gz files
         """
-        h_sf = SFrame.read_csv(str(self._dataset_dir / "FieldOfStudyHierarchy.txt"), header=False, delimiter="\t")
+        h_sf = SFrame.read_csv(str(self._dataset_dir / "FieldOfStudyHierarchy.txt.gz"), header=False, delimiter="\t")
         return h_sf.rename({"X1": "Child field of study ID", "X2": "Child field of study level",
                             "X3": "Parent field of study ID", "X4": "Parent field of study level",
                             "X5": "Confidence"})
@@ -290,9 +290,9 @@ class MicrosoftAcademicGraph(object):
     def urls(self):
 
         """
-        Creating URLs SFrame from txt files
+        Creating URLs SFrame from.txt.gz files
         """
-        sf = SFrame.read_csv(str(self._dataset_dir / "PaperUrls.txt"), header=False, delimiter="\t")
+        sf = SFrame.read_csv(str(self._dataset_dir / "PaperUrls.txt.gz"), header=False, delimiter="\t")
         sf = sf.rename({"X1": "Paper ID", "X2": "Url"})
         return sf.groupby("Paper ID", {"Urls": agg.CONCAT("Url")})
 
