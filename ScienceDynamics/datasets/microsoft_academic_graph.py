@@ -6,19 +6,21 @@ import turicreate.aggregate as agg
 from tqdm import tqdm
 from ScienceDynamics.sframe_creators.fields_of_study_hieararchy_analyzer import FieldsHierarchyAnalyzer
 
-import zipfile
+import re
 
 
 class MicrosoftAcademicGraph(object):
-    def __init__(self, dataset_zip=None):
-        self._dataset_dir = pathlib.Path(dataset_zip).parent
+    def __init__(self, dataset_dir=None):
+        self._dataset_dir = pathlib.Path(dataset_dir)
         self._dataset_dir.mkdir(exist_ok=True)
         self._sframe_dir = self._dataset_dir / "sframes"
         self._sframe_dir.mkdir(exist_ok=True)
-        if not pathlib.Path(dataset_zip).exists():
-            download_file(MAG_URL, pathlib.Path(dataset_zip))
-            with zipfile.ZipFile(pathlib.Path(dataset_zip), 'r') as f:
-                f.extractall(self._dataset_dir)
+        for i, url in enumerate(MAG_URL):
+            mag_file = self._dataset_dir / re.search(".*files\/(.*?)\?", url).group(1)
+            if not pathlib.Path(mag_file).exists():
+                download_file(url, mag_file)
+                # with zipfile.ZipFile(mag_file, 'r') as f:
+                #     f.extractall(self._dataset_dir)
 
     @property
     @save_sframe(sframe="Papers.sframe")
@@ -31,11 +33,12 @@ class MicrosoftAcademicGraph(object):
         papers = papers.rename({"X1": "Paper ID", "X2": "Original paper title", "X3": "Normalized paper title",
                                 "X4": "Paper publish year", "X5": "Paper publish date",
                                 "X6": "Paper Document Object Identifier (DOI)",
-                                "X7": "Original venue name", "X8": "Normalized venue name", "X9": "Journal ID mapped to venue name",
+                                "X7": "Original venue name", "X8": "Normalized venue name",
+                                "X9": "Journal ID mapped to venue name",
                                 "X10": "Conference ID mapped to venue name", "X11": "Paper rank"})
         papers["Paper publish year"] = papers["Paper publish year"].astype(int)
         return papers
-    
+
     @property
     @save_sframe(sframe="Authors.sframe")
     def author_names(self):
@@ -77,7 +80,6 @@ class MicrosoftAcademicGraph(object):
         Creating Paper Keywords List SFrame
         """
         return self.keywords.groupby("Paper ID", {"Keywords List": agg.CONCAT("Keyword name")})
-
 
     @property
     @save_sframe(sframe="FieldsOfStudy.sframe")
@@ -171,7 +173,6 @@ class MicrosoftAcademicGraph(object):
             sf.save(str(tmp_papers_sf_path))
 
         return sf
-
 
     @save_sframe(sframe="PapersFieldsOfStudy.sframe")
     def papers_fields_of_study(self, flevels=(0, 1, 2, 3)):
@@ -320,7 +321,7 @@ class MicrosoftAcademicGraph(object):
         return g.rename({new_col_name: "Field of study ID"})
 
     @save_sframe(sframe="FieldsOfStudyPapersIds.sframe")
-    def fields_of_study_papers_ids_sframes(self, levels=(1, 2, 3)):
+    def fields_of_study_papers_ids(self, levels=(1, 2, 3)):
         """
         Creates SFrames with each Fields of study paper ids
         :param levels: list of fields of study level
