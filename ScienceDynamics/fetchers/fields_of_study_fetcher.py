@@ -2,11 +2,14 @@ import turicreate as tc
 from functools import lru_cache
 
 from ScienceDynamics.config.configs import FIELD_OF_STUDY_PAPERS_ID_SFRAME
+from ScienceDynamics.datasets.microsoft_academic_graph import MicrosoftAcademicGraph
+from ScienceDynamics.config.configs import DATASETS_BASE_DIR
 
 
 class FieldsOfStudyFetcher(object):
     def __init__(self):
-        self._sf = tc.load_sframe(FIELD_OF_STUDY_PAPERS_ID_SFRAME)
+        mag = MicrosoftAcademicGraph(DATASETS_BASE_DIR)
+        self._sf = mag.fields_of_study_papers_ids
         self._id_name_dict = None
 
     def _get_id_to_name_dict(self):

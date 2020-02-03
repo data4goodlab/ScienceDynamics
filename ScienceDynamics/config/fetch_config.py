@@ -1,5 +1,5 @@
 from ScienceDynamics.fetchers.authors_fetcher import AuthorsFetcher
-from ScienceDynamics.fetchers.fileds_of_study_fetcher import FieldsOfStudyFetcher
+from ScienceDynamics.fetchers.fields_of_study_fetcher import FieldsOfStudyFetcher
 from ScienceDynamics.fetchers.papers_fetcher import PapersFetcher
 from ScienceDynamics.fetchers.venue_fetcher import VenueFetcher
 from ScienceDynamics.mongo_connector import MongoDBConnector

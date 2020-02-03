@@ -19,7 +19,7 @@ class JoinedDataset(object):
         if aminer_path is None:
             aminer_path = self._dataset_dir / "Aminer"
         if mag_path is None:
-            mag_path = self._dataset_dir / "MAG"/ "MicrosoftAcademicGraph.zip"
+            mag_path = self._dataset_dir / "MAG"
         self.aminer = Aminer(aminer_path)
         self.mag = MicrosoftAcademicGraph(mag_path)
         self.sjr = SJR(sjr_path)
