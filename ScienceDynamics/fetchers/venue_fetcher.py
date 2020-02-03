@@ -116,7 +116,7 @@ class VenueFetcher(object):
         # Criteria IV: Each venue need to have at least min_journal_papers_num papers with at
         # least min_ref_number refs in each paper
         dataset_dir = pathlib.Path(STORAGE_PATH)
-        mag_path = dataset_dir / "MAG"/ "MicrosoftAcademicGraph.zip"
+        mag_path = dataset_dir / "MAG"
         mag = MicrosoftAcademicGraph(mag_path)
         
         sf = mag.extended_papers[
@@ -143,7 +143,7 @@ class VenueFetcher(object):
     def get_valid_venues_papers_ids_sframe_from_mag(min_ref_number, min_journal_papers_num):
         
         dataset_dir = pathlib.Path(STORAGE_PATH)
-        mag_path = _dataset_dir / "MAG"/ "MicrosoftAcademicGraph.zip"
+        mag_path = _dataset_dir / "MAG"
         mag = MicrosoftAcademicGraph(mag_path)
         
         sf = mag.extended_papers[
