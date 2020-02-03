@@ -1,8 +1,11 @@
 from functools import lru_cache
-from ScienceDynamics.config.configs import VenueType, AMINER_MAG_JOIN_SFRAME, SJR_SFRAME, EXTENDED_PAPERS_SFRAME
+from ScienceDynamics.config.configs import VenueType, AMINER_MAG_JOIN_SFRAME, SJR_SFRAME, EXTENDED_PAPERS_SFRAME, STORAGE_PATH
 from ScienceDynamics.config.log_config import logger
 import turicreate as tc
 import turicreate.aggregate as agg
+import pathlib
+from ScienceDynamics.datasets.microsoft_academic_graph import MicrosoftAcademicGraph
+from ScienceDynamics.datasets.sjr import SJR
 
 
 class VenueFetcher(object):
@@ -21,6 +24,9 @@ class VenueFetcher(object):
         self._papers_collection = self._db[papers_collection]
         self._papers_join_collection = self._db[papers_join_collection]
         self._sjr_collection = self._db[sjr_collection]
+        
+                
+
 
     def _get_papers_ids(self, venue_id, venue_name, venue_type, use_join_col=False):
         col = self._papers_collection
@@ -88,7 +94,7 @@ class VenueFetcher(object):
     def get_valid_venues_papers_ids_sframe(min_ref_number, min_journal_papers_num):
 
         # Criteria I: we use only journals that have paper with valid DOI that appears in both AMiner and MAG datasets
-        sf = tc.load_sframe(AMINER_MAG_JOIN_SFRAME)
+        sf = tc.load_sframe(str(AMINER_MAG_JOIN_SFRAME))
         sf['Original venue name'] = sf['Original venue name'].apply(lambda n: n.lower())
         g = sf.groupby('Journal ID mapped to venue name', {'venue name': agg.CONCAT('Original venue name'),
                                                            'issn': agg.CONCAT('issn')})
@@ -109,7 +115,11 @@ class VenueFetcher(object):
 
         # Criteria IV: Each venue need to have at least min_journal_papers_num papers with at
         # least min_ref_number refs in each paper
-        sf = tc.load_sframe(EXTENDED_PAPERS_SFRAME)[
+        dataset_dir = pathlib.Path(STORAGE_PATH)
+        mag_path = dataset_dir / "MAG"/ "MicrosoftAcademicGraph.zip"
+        mag = MicrosoftAcademicGraph(mag_path)
+        
+        sf = mag.extended_papers[
             'Journal ID mapped to venue name', 'Original venue name', 'Paper ID', 'Ref Number']
         sf = sf[sf['Ref Number'] >= min_ref_number]
         sf.materialize()
@@ -131,7 +141,12 @@ class VenueFetcher(object):
 
     @staticmethod
     def get_valid_venues_papers_ids_sframe_from_mag(min_ref_number, min_journal_papers_num):
-        sf = tc.load_sframe(EXTENDED_PAPERS_SFRAME)[
+        
+        dataset_dir = pathlib.Path(STORAGE_PATH)
+        mag_path = _dataset_dir / "MAG"/ "MicrosoftAcademicGraph.zip"
+        mag = MicrosoftAcademicGraph(mag_path)
+        
+        sf = mag.extended_papers[
             'Journal ID mapped to venue name', 'Original venue name', 'Paper ID', 'Ref Number']
         sf = sf[sf['Ref Number'] >= min_ref_number]
         sf.materialize()
@@ -152,8 +167,12 @@ class VenueFetcher(object):
     def get_sjr_journals_dict():
         """ Returns a dict in which the keys are the journals names and the values are the journal issns
         """
+        dataset_dir = pathlib.Path(STORAGE_PATH)
+
+        sjr_path = dataset_dir / "SJR"
+        sjr = SJR(sjr_path)
         d = {}
-        sf = tc.load_sframe(SJR_SFRAME)
+        sf = sjr.data
         sf = sf[sf['Type'] == 'journal']
         sf.materialize()
         for r in sf:
