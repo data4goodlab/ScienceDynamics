@@ -27,35 +27,35 @@ tc.config.set_runtime_config('TURI_DEFAULT_NUM_PYLAMBDA_WORKERS', cores)
 tc.config.set_runtime_config('TURI_DEFAULT_NUM_GRAPH_LAMBDA_WORKERS', cores)
 
 PAPERS_ALL_FEATURES = SFRAMES_BASE_DIR.joinpath("PapersAllFeatures.sframe")
-FIELDS_OF_STUDY_TXT = DATASETS_BASE_DIR.joinpath("FieldsOfStudy.txt")
+FIELDS_OF_STUDY_TXT = DATASETS_BASE_DIR.joinpath("FieldsOfStudy.txt.gz")
 FIELDS_OF_STUDY_SFRAME = SFRAMES_BASE_DIR.joinpath("FieldsOfStudy.sframe")
 
-FIELDS_OF_STUDY_HIERARCHY_TXT = DATASETS_BASE_DIR.joinpath("FieldOfStudyHierarchy.txt")
+FIELDS_OF_STUDY_HIERARCHY_TXT = DATASETS_BASE_DIR.joinpath("FieldOfStudyHierarchy.txt.gz")
 FIELDS_OF_STUDY_HIERARCHY_SFRAME = SFRAMES_BASE_DIR.joinpath("FieldOfStudyHierarchy.sframe")
 
-PAPERS_TXT = DATASETS_BASE_DIR.joinpath("Papers.txt")
+PAPERS_TXT = DATASETS_BASE_DIR.joinpath("Papers.txt.gz")
 PAPERS_SFRAME = SFRAMES_BASE_DIR.joinpath("Papers.sframe")
 EXTENDED_PAPERS_SFRAME = SFRAMES_BASE_DIR.joinpath("ExtendedPapers.sframe")
 
 CLEAN_EXTENDED_PAPERS_SFRAME = SFRAMES_BASE_DIR.joinpath("CleanExtendedPapers.sframe")
 FEATURES_EXTENDED_PAPERS_SFRAME = SFRAMES_BASE_DIR.joinpath("FeaturesCleanExtendedPapers.sframe")
 
-PAPER_AUTHOR_AFFILIATIONS_TXT = DATASETS_BASE_DIR.joinpath("PaperAuthorAffiliations.txt")
+PAPER_AUTHOR_AFFILIATIONS_TXT = DATASETS_BASE_DIR.joinpath("PaperAuthorAffiliations.txt.gz")
 PAPER_AUTHOR_AFFILIATIONS_SFRAME = SFRAMES_BASE_DIR.joinpath("PaperAuthorAffiliations.sframe")
 
 AUTHOR_NAMES_SFRAME = SFRAMES_BASE_DIR.joinpath("authors_names.sframe")
 
-CONFERENCES_TAT = DATASETS_BASE_DIR.joinpath("Conferences.txt")
+CONFERENCES_TAT = DATASETS_BASE_DIR.joinpath("Conferences.txt.gz")
 CONFERENCES_SAME = SFRAMES_BASE_DIR.joinpath("Conferences.sframe")
 
-JOURNALS_TXT = DATASETS_BASE_DIR.joinpath("Journals.txt")
+JOURNALS_TXT = DATASETS_BASE_DIR.joinpath("Journals.txt.gz")
 JOURNALS_SFRAME = SFRAMES_BASE_DIR.joinpath("Journals.sframe")
 
-PAPER_KEYWORDS_TXT = DATASETS_BASE_DIR.joinpath("PaperKeywords.txt")
+PAPER_KEYWORDS_TXT = DATASETS_BASE_DIR.joinpath("PaperKeywords.txt.gz")
 PAPER_KEYWORDS_SFRAME = SFRAMES_BASE_DIR.joinpath("PaperKeywords.sframe")
 PAPER_KEYWORDS_LIST_SFRAME = SFRAMES_BASE_DIR.joinpath("PaperKeywordsList.sframe")
 
-PAPER_REFERENCES_TXT = DATASETS_BASE_DIR.joinpath("PaperReferences.txt")
+PAPER_REFERENCES_TXT = DATASETS_BASE_DIR.joinpath("PaperReferences.txt.gz")
 PAPER_REFERENCES_SFRAME = SFRAMES_BASE_DIR.joinpath("PaperReferences.sframe")
 PAPER_REFERENCES_COUNT_SFRAME = SFRAMES_BASE_DIR.joinpath("PaperReferencesCount.sframe")
 
@@ -82,9 +82,9 @@ CONFERENCE_AUTHORS_ACADEMIC_BIRTHYEAR_PKL = SFRAMES_BASE_DIR.joinpath("conferenc
 
 FIELD_OF_STUDY_PAPERS_ID_SFRAME = SFRAMES_BASE_DIR.joinpath("FieldsOfStudyPapersIds.sframe")
 
-AUTHORS_NAMES_TXT = DATASETS_BASE_DIR.joinpath("AuthorsNames.txt")
-AUTHORS_NAMES_SFRAME = SFRAMES_BASE_DIR.joinpath("AuthorsNames.sframe")
-PAPER_URLS_TXT = DATASETS_BASE_DIR.joinpath("PaperUrls.txt")
+AUTHORS_NAMES_TXT = DATASETS_BASE_DIR.joinpath("Authors.txt.gz")
+AUTHORS_NAMES_SFRAME = SFRAMES_BASE_DIR.joinpath("Authors.sframe")
+PAPER_URLS_TXT = DATASETS_BASE_DIR.joinpath("PaperUrls.txt.gz")
 PAPER_URLS_SFRAME = SFRAMES_BASE_DIR.joinpath("PaperUrls.sframe")
 AUTHROS_FEATURES_SFRAME = SFRAMES_BASE_DIR.joinpath('authors_features.sframe')
 AMINER_PAPERS_SFRAME = SFRAMES_BASE_DIR.joinpath("PapersAMiner.sframe")
