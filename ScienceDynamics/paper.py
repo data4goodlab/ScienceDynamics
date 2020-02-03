@@ -2,6 +2,7 @@ from ScienceDynamics.config.configs import VenueType
 from ScienceDynamics.config.fetch_config import AUTHORS_FETCHER, PAPERS_FETCHER
 from ScienceDynamics.author import Author
 from functools import lru_cache
+import json
 
 
 class Paper(object):
@@ -101,8 +102,11 @@ class Paper(object):
         if not include_self_citation:
             n = "Total Citations by Year without Self Citations"
         d = self._get_data_value(n)  # type: dict
-
+        if  d=="nan":
+            d = None
         if d is not None:
+            if type(d) is str:
+                d = json.loads(d)
             d = {int(y): v for y, v in d.items()}
         return d
 
@@ -274,7 +278,10 @@ class Paper(object):
         :return: the papers authors ids list
         :rtype: list of str
         """
-        return self._get_data_value('Authors List Sorted')
+        author_ids =  self._get_data_value('Authors List Sorted')
+        if type(author_ids) == str:
+            author_ids = json.loads(author_ids)
+        return author_ids
 
     @property
     def authors_number(self):

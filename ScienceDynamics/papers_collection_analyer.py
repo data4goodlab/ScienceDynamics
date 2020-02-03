@@ -11,8 +11,7 @@ from ScienceDynamics.authors_list_analyzer import AuthorsListAnalyzer
 from ScienceDynamics.config.configs import VenueType
 from ScienceDynamics.config.fetch_config import AUTHORS_FETCHER, PAPERS_FETCHER
 from ScienceDynamics.config.log_config import logger
-from ScienceDynamics.paper import Paper
-
+from tqdm import tqdm
 
 class PapersCollection(object):
     MAX_PAPERS = 500000
@@ -199,7 +198,7 @@ class PapersCollection(object):
         """
         m = {"ids": [], "year": [], "title": [], "citation_number": [], "venue_type": [], "venue_name": []}
         for y, p in self.get_yearly_most_cited_paper_dict(citation_after_year, True,
-                                                          self.max_publication_year).iteritems():
+                                                          self.max_publication_year).items():
             if p.publish_year > max_publish_year:
                 continue
             m["ids"].append(p.paper_id)
@@ -287,7 +286,8 @@ class PapersCollection(object):
         :rtype: list<Paper>
         """
         if len(self.__papers_list) == 0:
-            self.__papers_list = [Paper(i, self._papers_fetcher, self._authors_fetcher) for i in self.papers_ids]
+            from ScienceDynamics.paper import Paper
+            self.__papers_list = [Paper(i, self._papers_fetcher, self._authors_fetcher) for i in tqdm(self.papers_ids)]
 
         return self.__papers_list
 
@@ -554,7 +554,7 @@ class PapersCollection(object):
         if papers_list is None or len(papers_list) == 0:
             return {}
         l = list(itertools.chain.from_iterable(
-            [p.keywords_list for p in papers_list if p.keywords_list is not None and len(p.keywords_list) > 0]))
+            [p.keywords_list for p in papers_list if p.keywords_list is not None and len(p.keywords_list) > 0 and type(p.keywords_list) == list]))
         if len(l) == 0:
             return {}
         c = Counter(l)
@@ -590,7 +590,7 @@ class PapersCollection(object):
         :rtype: dict<int,Paper>
         """
         d = self.get_citations_number_after_years_dict(after_years, include_self_citations)
-        d = {k: v for k, v in d.iteritems() if v != []}
+        d = {k: v for k, v in d.items() if v != []}
 
         for y, papers_list in d.items():
             if y > max_year or len(papers_list) == 0:

@@ -1,4 +1,4 @@
-from ScienceDynamics.author import Author
+#from ScienceDynamics.author import Author
 from collections import Counter
 import numpy as np
 from functools import lru_cache
