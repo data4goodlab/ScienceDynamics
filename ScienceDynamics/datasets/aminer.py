@@ -28,4 +28,4 @@ class Aminer(object):
         After creating the SFrame, it is saved to the disk
         """
 
-        return SFrame.read_json(str(self._dataset_dir.joinpath("*.txt")), orient='lines')
+        return SFrame.read_json(self._dataset_dir.joinpath("AMiner/*.txt"), orient='lines')

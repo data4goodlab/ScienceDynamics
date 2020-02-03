@@ -33,11 +33,22 @@ class MicrosoftAcademicGraph(object):
         papers = papers.rename({"X1": "Paper ID", "X2": "Original paper title", "X3": "Normalized paper title",
                                 "X4": "Paper publish year", "X5": "Paper publish date",
                                 "X6": "Paper Document Object Identifier (DOI)",
-                                "X7": "Original venue name", "X8": "Normalized venue name",
-                                "X9": "Journal ID mapped to venue name",
+                                "X7": "Original venue name", "X8": "Normalized venue name", "X9": "Journal ID mapped to venue name",
                                 "X10": "Conference ID mapped to venue name", "X11": "Paper rank"})
         papers["Paper publish year"] = papers["Paper publish year"].astype(int)
         return papers
+    
+    @property
+    @save_sframe(sframe="Authors.sframe")
+    def author_names(self):
+        """
+        Creates authors names SFrames from txt files
+        """
+        author_names = SFrame.read_csv(str(self._dataset_dir / "Authors.txt"), header=False, delimiter="\t")
+        author_names = author_names.rename({'X1': 'Author ID', 'X2': 'Author name'})
+        author_names['First name'] = author_names['Author name'].apply(lambda s: s.split()[0])
+        author_names['Last name'] = author_names['Author name'].apply(lambda s: s.split()[-1])
+        return author_names
 
     @property
     @save_sframe(sframe="Authors.sframe")
@@ -80,6 +91,7 @@ class MicrosoftAcademicGraph(object):
         Creating Paper Keywords List SFrame
         """
         return self.keywords.groupby("Paper ID", {"Keywords List": agg.CONCAT("Keyword name")})
+
 
     @property
     @save_sframe(sframe="FieldsOfStudy.sframe")
@@ -174,6 +186,10 @@ class MicrosoftAcademicGraph(object):
 
         return sf
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 94e642372936c3ed2fedd18d945f401ae744a437
     @save_sframe(sframe="PapersFieldsOfStudy.sframe")
     def papers_fields_of_study(self, flevels=(0, 1, 2, 3)):
         """
@@ -311,8 +327,8 @@ class MicrosoftAcademicGraph(object):
         col = 'Fields of study parent list (L%s)' % level
         sf = self.extended_papers
         new_col_name = "Field ID"
-        sf = sf.stack(col, new_column_name=new_col_name)
         sf = sf[sf[col] != None]
+        sf = sf.stack(col, new_column_name=new_col_name)
         g = sf.groupby(new_col_name, {'Paper IDs': agg.CONCAT("Paper ID")})
         f_sf = self.fields_of_study
         g = g.join(f_sf, on={new_col_name: "Field of study ID"})
