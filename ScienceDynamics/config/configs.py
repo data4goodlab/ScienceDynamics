@@ -5,7 +5,7 @@ import pathlib
 from dotenv import load_dotenv
 import os
 
-STORAGE_DIR_NAME = ".scidyn"
+STORAGE_DIR_NAME = ".scidyn2"
 STORAGE_PATH = pathlib.Path.home().joinpath(STORAGE_DIR_NAME)
 STORAGE_PATH.mkdir(exist_ok=True)
 
