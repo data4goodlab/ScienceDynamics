@@ -143,7 +143,7 @@ class VenueFetcher(object):
     def get_valid_venues_papers_ids_sframe_from_mag(min_ref_number, min_journal_papers_num):
         
         dataset_dir = pathlib.Path(STORAGE_PATH)
-        mag_path = _dataset_dir / "MAG"
+        mag_path = dataset_dir / "MAG"
         mag = MicrosoftAcademicGraph(mag_path)
         
         sf = mag.extended_papers[
