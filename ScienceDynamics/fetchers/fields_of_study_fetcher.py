@@ -9,7 +9,7 @@ from ScienceDynamics.config.configs import DATASETS_BASE_DIR
 class FieldsOfStudyFetcher(object):
     def __init__(self):
         mag = MicrosoftAcademicGraph(DATASETS_BASE_DIR)
-        self._sf = mag.fields_of_study_papers_ids
+        self._sf = mag.fields_of_study_papers_ids()
         self._id_name_dict = None
 
     def _get_id_to_name_dict(self):
@@ -111,5 +111,5 @@ class FieldsOfStudyFetcher(object):
         :return: the function returns dict with the fields id and name of the fields which match the input name_regex
         :rtyoe: dict<str,str>
         """
-        d = {k: v for k, v in self._get_id_to_name_dict().iteritems() if name_regex.match(v) is not None}
+        d = {k: v for k, v in self._get_id_to_name_dict().items() if name_regex.match(v) is not None}
         return d
