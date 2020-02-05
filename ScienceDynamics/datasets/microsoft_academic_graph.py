@@ -7,6 +7,7 @@ from tqdm import tqdm
 from ScienceDynamics.sframe_creators.fields_of_study_hieararchy_analyzer import FieldsHierarchyAnalyzer
 import pandas as pd
 import re
+from array import array
 
 
 class MicrosoftAcademicGraph(object):
@@ -30,10 +31,10 @@ class MicrosoftAcademicGraph(object):
         """
         cols = ["PaperId", "Rank", "Doi", "DocType", "PaperTitle", "OriginalTitle", "BookTitle", "Year", "Date",
                 "Publisher", "JournalId", "ConferenceSeriesId", "ConferenceInstanceId", "Volume", "Issue", "FirstPage",
-                "LastPage", "ReferenceCount", "CitationCount", "EstimatedCitation", "OriginalVenue", "FamilyId",
+                "LastPage", "ReferenceCount", "CitationCount", "EstimatedCitation", "OriginalVenue", 
                 "CreatedDate"]
-        papers = SFrame(pd.read_csv(self._dataset_dir / "Papers.txt.gz", sep="\t",
-                                    names=cols))
+        papers = SFrame.read_csv(str(self._dataset_dir / "Papers.txt.gz"),header=False, sep="\t")
+        papers = papers.rename(dict(zip([f"X{i+1}" for i in range(len(cols))], cols)))
         papers["Year"] = papers["Year"].astype(int)
         return papers
 
@@ -90,7 +91,7 @@ class MicrosoftAcademicGraph(object):
         """
         cols = ["FieldOfStudyId", "Rank", "NormalizedName", "DisplayName", "MainType", "Level", "PaperCount", "CitationCount", "CreatedDate"]
         fields_of_study = SFrame(pd.read_csv(self._dataset_dir / "FieldsOfStudy.txt.gz", sep="\t",
-                                    names=cols))
+                                    names=cols).replace({pd.np.nan: None}))
         return fields_of_study
 
     @property
@@ -102,10 +103,22 @@ class MicrosoftAcademicGraph(object):
         """
         cols = ["PaperId", "AuthorId", "AffiliationId", "AuthorSequenceNumber", "OriginalAuthor", "OriginalAffiliation"]
         paper_author_affiliations = SFrame(pd.read_csv(self._dataset_dir / "PaperAuthorAffiliations.txt.gz", sep="\t",
-                                             names=cols))
+                                             names=cols).replace({pd.np.nan: None}))
 
         return paper_author_affiliations
+    
+    @property
+    @save_sframe(sframe="Affiliations.sframe")
+    def affiliations(self):
+        """
+        Creating authors affiliation SFrame from.txt.gz files
+        :return:
+        """
+        cols = ["AffiliationId", "Rank", "NormalizedName", "DisplayName", "GridId", "OfficialPage", "WikiPage", "PaperCount", "CitationCount", "CreatedDate"]
+        affiliations = SFrame(pd.read_csv(self._dataset_dir / "Affiliations.txt.gz", sep="\t",
+                                             names=cols).replace({pd.np.nan: None}))
 
+        return affiliations
 
     @property
     @save_sframe(sframe="PapersOrderedAuthorsList.sframe")
@@ -221,8 +234,8 @@ class MicrosoftAcademicGraph(object):
         p_sf = self.papers_authors_lists
         ref_sf = ref_sf.join(p_sf, on='PaperId', how="left")
         ref_sf = ref_sf.join(p_sf, on={'PaperReferenceId': 'PaperId'}, how="left")
-        ref_sf = ref_sf.fillna('Authors List Sorted.1', [])
-        ref_sf = ref_sf.fillna('Authors List Sorted', [])
+        ref_sf = ref_sf.fillna('Authors List Sorted.1', array('d'))
+        ref_sf = ref_sf.fillna('Authors List Sorted', array('d'))
         ref_sf.__materialize__()
         ref_sf['self citation'] = ref_sf.apply(
             lambda r: len(set(r['Authors List Sorted.1']) & set(r['Authors List Sorted'])))
@@ -254,8 +267,8 @@ class MicrosoftAcademicGraph(object):
 
         sf = self.papers["PaperId", "Year"]
         sf = ref_sf.join(sf, on="PaperId")
-        g = sf.groupby(["Paper reference ID", "Year"], {"Citation Number": agg.COUNT()})
-        g = g.rename({"Year": "Year", "Paper reference ID": "PaperId"})
+        g = sf.groupby(["PaperReferenceId", "Year"], {"Citation Number": agg.COUNT()})
+        g = g.rename({"Year": "Year", "PaperReferenceId": "PaperId"})
         g['Citation by Year'] = g.apply(lambda r: (r["Year"], r["Citation Number"]))
         h = g.groupby('PaperId', {'Citation by Years': agg.CONCAT('Citation by Year')})
         if without_self_citation:
@@ -286,7 +299,7 @@ class MicrosoftAcademicGraph(object):
         """
         cols = ["PaperId", "SourceType", "SourceUrl", "LanguageCode"]
         urls = SFrame(pd.read_csv(self._dataset_dir / "PaperUrls.txt.gz", sep="\t",
-                                    names=cols))
+                                    names=cols).replace({pd.np.nan: None}))
         return urls.groupby("PaperId", {"Urls": agg.CONCAT("SourceUrl")})
 
     @property
@@ -298,8 +311,8 @@ class MicrosoftAcademicGraph(object):
         :return:
         """
         sf = self.papers
-        sframe_list = [self.reference_count, self.papers_citation_number_by_year, self.papers_authors_lists,
-                        self.urls]
+        sframe_list = (self.reference_count, self.papers_citation_number_by_year, self.papers_authors_lists,
+                        self.urls)
         # self.paper_keywords_list, self.papers_fields_of_study()
         for t in tqdm(sframe_list):
             sf = sf.join(t, how="left", on="PaperId")
