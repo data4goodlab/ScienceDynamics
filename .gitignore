@@ -1,15 +1,22 @@
 # Byte-compiled / optimized / DLL files
 data_collector.py
 ScienceDynamics/visualization/fields_results/
-
+*.pdf
 Crawlers
-
+*.csv
+*.pkl
+*.gif
+*.sframe
+*.txt
 .DS_Store
-
+*.0
+*.png
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.zip
+*.bin
+*.txt
 # C extensions
 *.so
 
