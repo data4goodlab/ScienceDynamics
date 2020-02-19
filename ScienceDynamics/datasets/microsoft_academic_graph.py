@@ -37,21 +37,42 @@ class MicrosoftAcademicGraph(object):
         papers = papers.rename(dict(zip([f"X{i+1}" for i in range(len(cols))], cols)))
         papers["Year"] = papers["Year"].astype(int)
         return papers
+    
 
     @property
+    @save_sframe(sframe="Journals.sframe")
+    def journals(self):
+        """
+        Create the Papers SFrame object from.txt.gz files which contains information on each paper
+        """
+        cols = ["JournalId", "Rank", "NormalizedName", "DisplayName", "Issn", "Publisher", "Webpage", "PaperCount", "CitationCount",
+                "CreatedDate"]
+        journals = SFrame(pd.read_csv(self._dataset_dir /"Journals.txt.gz", sep="\t",
+                                          names=cols).replace({pd.np.nan: None}))
+        return journals
+    
+    
+    @property
     @save_sframe(sframe="Authors.sframe")
+    def authors(self):
+        """
+        Creates authors names SFrames from.txt.gz files
+        """
+        authors = SFrame(pd.read_csv(self._dataset_dir /"Authors.txt.gz", sep="\t",
+                                          names=["AuthorId", "Rank", "NormalizedName", "DisplayName",
+                                                 "LastKnownAffiliationId", "PaperCount",
+                                                 "CitationCount", "CreatedDate"]).replace({pd.np.nan: None}))
+        authors['First name'] = authors['NormalizedName'].apply(lambda s: s.split()[0])
+        authors['Last name'] = authors['NormalizedName'].apply(lambda s: s.split()[-1])
+        return authors
+    
+        
+    @property
     def author_names(self):
         """
         Creates authors names SFrames from.txt.gz files
         """
-        author_names = SFrame(pd.read_csv("/storage/homedir/dima/.scidyn2/MAG/Authors.txt.gz", sep="\t",
-                                          names=["AuthorId", "Rank", "NormalizedName", "DisplayName",
-                                                 "LastKnownAffiliationId", "PaperCount",
-                                                 "CitationCount", "CreatedDate"],
-                                          usecols=["AuthorId", "NormalizedName"]))
-        author_names['First name'] = author_names['NormalizedName'].apply(lambda s: s.split()[0])
-        author_names['Last name'] = author_names['NormalizedName'].apply(lambda s: s.split()[-1])
-        return author_names
+        return self.authors[["AuthorId", "NormalizedName"]]
 
     @property
     @save_sframe(sframe="PaperReferences.sframe")
