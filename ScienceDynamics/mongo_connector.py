@@ -82,7 +82,7 @@ def load_sframes(mag, sjr, joined):
     md = MongoDBConnector()
     a = AuthorsFeaturesExtractor(mag)
 
-    sf = a.get_authors_all_features_sframe()
+    sf = a.authors_features
     logger.info("Converting")
 
     sf = _convert_sframe_dict_key_to_str(sf, [c for c in sf.column_names() if "Year" in c])
