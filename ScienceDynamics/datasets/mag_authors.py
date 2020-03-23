@@ -103,6 +103,9 @@ class AuthorsFeaturesExtractor(object):
         sf2 = sf2.remove_column('Year.1')
         sf2.__materialize__()
         g = sf2.groupby(['AuthorId', 'Year'], {'Coauthors List': agg.CONCAT('AuthorId.1')})
+        del sf
+        g.__materialize__()
+        del sf2
         g['Coauthors Year'] = g.apply(lambda r: (r['Year'], r['Coauthors List']))
         g2 = g.groupby("AuthorId", {'Coauthors list': agg.CONCAT('Coauthors Year')})
         g2['Coauthors by Years Dict'] = g2['Coauthors list'].apply(lambda l: {y: coa_list for y, coa_list in l})
@@ -156,6 +159,9 @@ class AuthorsFeaturesExtractor(object):
         a_sf = a_sf[["AuthorId"]].unique()
         g = self.get_authors_papers_dict_sframe()
         a_sf = a_sf.join(g, on="AuthorId", how="left")  # 22443094 rows
+        a_sf.__materialize__()
+        del g
+        del p_sf
         g = self.get_co_authors_dict_sframe()
         a_sf = a_sf.join(g, on="AuthorId", how='left')
         a_sf = a_sf.join(self._mag.author_names, on="AuthorId", how="left")
