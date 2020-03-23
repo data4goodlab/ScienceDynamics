@@ -87,14 +87,17 @@ class MicrosoftAcademicGraph(object):
     def reference_count(self):
         return self.references.groupby("PaperId", {"Ref Number": agg.COUNT()})
 
-    # @property
-    # @save_sframe(sframe="PaperKeywords.sframe")
-    # def keywords(self):
-    #     """
-    #     Creating Keywords SFrame from.txt.gz files
-    #     """
-    #     keywords = SFrame.read_csv(str(self._dataset_dir / "PaperKeywords.txt.gz"), header=False, delimiter="\t")
-    #     return keywords.rename({"X1": "PaperId", "X2": "Keyword name", "X3": "Field of study ID mapped to keyword"})
+    @property
+    @save_sframe(sframe="PaperFieldsOfStudy.sframe")
+    def paper_fields_of_study(self):
+        """
+        Creating Keywords SFrame from.txt.gz files
+        """
+        cols = ["PaperId", "FieldOfStudyId", "Score"]
+        papaers_field = SFrame.read_csv("~/mag/PaperFieldsOfStudy.txt.gz",header=False, sep="\t")
+        return papaers_field.rename(dict(zip([f"X{i+1}" for i in range(len(cols))], cols)))
+
+#         return keywords.rename({"X1": "PaperId", "X2": "Keyword name", "X3": "Field of study ID mapped to keyword"})
 
     # @property
     # @save_sframe(sframe="PaperKeywordsList.sframe")
@@ -102,7 +105,7 @@ class MicrosoftAcademicGraph(object):
     #     """
     #     Creating Paper Keywords List SFrame
     #     """
-    #     return self.keywords.groupby("PaperId", {"Keywords List": agg.CONCAT("Keyword name")})
+    #     return self.paper_pields_of_study.groupby("PaperId", {"Field List": agg.CONCAT("Keyword name")})
 
     @property
     @save_sframe(sframe="FieldsOfStudy.sframe")
@@ -158,16 +161,14 @@ class MicrosoftAcademicGraph(object):
         g['Authors Number'] = g['Authors List Sorted'].apply(lambda l: len(l))
         return g
 
-    # @property
-    # @save_sframe(sframe="FieldOfStudyHierarchy.sframe")
-    # def field_of_study_hierarchy(self):
-    #     """
-    #     Creates field of study hierarchy sframe from.txt.gz files
-    #     """
-    #     h_sf = SFrame.read_csv(str(self._dataset_dir / "FieldOfStudyHierarchy.txt.gz"), header=False, delimiter="\t")
-    #     return h_sf.rename({"X1": "Child field of study ID", "X2": "Child field of study level",
-    #                         "X3": "Parent field of study ID", "X4": "Parent field of study level",
-    #                         "X5": "Confidence"})
+    @property
+    @save_sframe(sframe="FieldOfStudyChildren.sframe")
+    def field_of_study_children(self):
+        """
+        Creates field of study hierarchy sframe from.txt.gz files
+        """
+        h_sf = SFrame.read_csv(str(self._dataset_dir / "FieldOfStudyChildren.txt.gz"), header=False, delimiter="\t")
+        return h_sf.rename({"X1": "FieldOfStudyId", "X2": "ChildFieldOfStudyId"})
 
     def _get_tmp_papers_sframe_path(self, min_ref_num, start_year, end_year):
         """
@@ -211,38 +212,46 @@ class MicrosoftAcademicGraph(object):
             sf.save(str(tmp_papers_sf_path))
 
         return sf
-    #
-    # @save_sframe(sframe="PapersFieldsOfStudy.sframe")
-    # def papers_fields_of_study(self, flevels=(0, 1, 2, 3)):
-    #     """
-    #     Create SFrame with each paper fields of study by hierarchical levels
-    #     :param flevels: list of levels, for each level add the papers fields of study in this level
-    #     """
-    #
-    #     k_sf = self.keywords
-    #     g = k_sf.groupby('PaperId', {'Field of study list': agg.CONCAT("Field of study ID mapped to keyword")})
-    #     fh = FieldsHierarchyAnalyzer(self)
-    #
-    #     # add fields of study names from ID
-    #     names = []
-    #     for l in tqdm(g['Field of study list']):
-    #         names.append([fh.get_field_name(i) for i in l])
-    #     g['Field of study list names'] = names
-    #
-    #     for flevel in flevels:
-    #         parent_list = []
-    #         for paper_field_of_study_list in tqdm(g['Field of study list']):
-    #             parent_list.append(
-    #                 list(set.union(
-    #                     *[fh.get_parents_field_of_study(field, flevel) for field in paper_field_of_study_list])))
-    #         g[f'Fields of study parent list (L{flevel})'] = parent_list
-    #
-    #         names = []
-    #         for paper_field_of_study_parents_list in g[f'Fields of study parent list (L{flevel})']:
-    #             names.append(
-    #                 [fh.get_field_name(field_of_study) for field_of_study in paper_field_of_study_parents_list])
-    #         g[f'Fields of study parent list names (L{flevel})'] = names
-    #     return g
+    
+    @property
+    @save_sframe(sframe="PaperFieldsOfStudy.sframe")
+    def papers_fields_of_study(self):
+        """Creating the references SFrame from.txt.gz files"""
+        fos = SFrame.read_csv(str(self._dataset_dir / "PapersFieldsOfStudy.txt.gz"), header=False, delimiter="\t")
+        return references.rename({"X1": "PaperId", "X2": "FieldOfStudyId", "X3": "Score"})
+
+    
+    @save_sframe(sframe="PapersFieldsOfStudyLevel.sframe")
+    def papers_fields_of_study_level(self, flevels=(0, 1, 2, 3)):
+        """
+        Create SFrame with each paper fields of study by hierarchical levels
+        :param flevels: list of levels, for each level add the papers fields of study in this level
+        """
+        k_sf = self.paper_fields_of_study
+#         FieldOfStudyId
+        g = k_sf.groupby('PaperId', {'Field of study list': agg.CONCAT("FieldOfStudyId")})
+        fh = FieldsHierarchyAnalyzer(self)
+    
+        # add fields of study names from ID
+        names = []
+        for l in tqdm(g['Field of study list']):
+            names.append([fh.get_field_name(i) for i in l])
+        g['Field of study list names'] = names
+    
+        for flevel in flevels:
+            parent_list = []
+            for paper_field_of_study_list in tqdm(g['Field of study list']):
+                parent_list.append(
+                    list(set.union(
+                        *[fh.get_parents_field_of_study(field, flevel) for field in paper_field_of_study_list])))
+            g[f'Fields of study parent list (L{flevel})'] = parent_list
+    
+            names = []
+            for paper_field_of_study_parents_list in g[f'Fields of study parent list (L{flevel})']:
+                names.append(
+                    [fh.get_field_name(field_of_study) for field_of_study in paper_field_of_study_parents_list])
+            g[f'Fields of study parent list names (L{flevel})'] = names
+        return g
 
     @property
     @save_sframe(sframe="ExtendedPaperReferences.sframe")
@@ -353,8 +362,9 @@ class MicrosoftAcademicGraph(object):
         sf = sf[sf[col] != None]
         sf = sf.stack(col, new_column_name=new_col_name)
         g = sf.groupby(new_col_name, {'PaperIds': agg.CONCAT("PaperId")})
+        g[new_col_name] = g[new_col_name].astype(int)
         f_sf = self.fields_of_study
-        g = g.join(f_sf, on={new_col_name: "Field of study ID"})
+        g = g.join(f_sf, on={new_col_name: "FieldOfStudyId"})
         g['Number of Paper'] = g['PaperIds'].apply(lambda l: len(l))
         g['Level'] = level
         return g.rename({new_col_name: "Field of study ID"})
