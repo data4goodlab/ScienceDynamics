@@ -117,6 +117,18 @@ class MicrosoftAcademicGraph(object):
         fields_of_study = SFrame(pd.read_csv(self._dataset_dir / "FieldsOfStudy.txt.gz", sep="\t",
                                     names=cols).replace({pd.np.nan: None}))
         return fields_of_study
+    
+    @property
+    @save_sframe(sframe="PaperResources.sframe")
+    def paper_resources(self):
+        """
+        Creating Field of study SFrame from.txt.gz files
+        ResourceType. 1 = Project, 2 = Data, 4 = Code
+        """
+        cols = ["PaperId", "ResourceType", "ResourceUrl", "SourceUrl", "RelationshipType"]
+        return SFrame(pd.read_csv(self._dataset_dir / "PaperResources.txt.gz", sep="\t",
+                                    names=cols).replace({pd.np.nan: None}))
+
 
     @property
     @save_sframe(sframe="PaperAuthorAffiliations.sframe")
