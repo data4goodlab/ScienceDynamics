@@ -99,13 +99,6 @@ class MicrosoftAcademicGraph(object):
 
 #         return keywords.rename({"X1": "PaperId", "X2": "Keyword name", "X3": "Field of study ID mapped to keyword"})
 
-    # @property
-    # @save_sframe(sframe="PaperKeywordsList.sframe")
-    # def paper_keywords_list(self):
-    #     """
-    #     Creating Paper Keywords List SFrame
-    #     """
-    #     return self.paper_pields_of_study.groupby("PaperId", {"Field List": agg.CONCAT("Keyword name")})
 
     @property
     @save_sframe(sframe="FieldsOfStudy.sframe")
@@ -117,6 +110,20 @@ class MicrosoftAcademicGraph(object):
         fields_of_study = SFrame(pd.read_csv(self._dataset_dir / "FieldsOfStudy.txt.gz", sep="\t",
                                     names=cols).replace({pd.np.nan: None}))
         return fields_of_study
+    
+    @property
+    @save_sframe(sframe="PaperResources.sframe")
+    def paper_resources(self):
+        """
+        Creating Field of study SFrame from.txt.gz files
+        ResourceType. 1 = Project, 2 = Data, 4 = Code
+        """
+        cols = ["PaperId", "ResourceType", "ResourceUrl", "SourceUrl", "RelationshipType"]
+        return SFrame(pd.read_csv(self._dataset_dir / "PaperResources.txt.gz", sep="\t",
+                                    names=cols).replace({pd.np.nan: None}))
+
+    
+    
 
     @property
     @save_sframe(sframe="PaperAuthorAffiliations.sframe")
@@ -342,7 +349,7 @@ class MicrosoftAcademicGraph(object):
         """
         sf = self.papers
         sframe_list = (self.reference_count, self.papers_citation_number_by_year, self.papers_authors_lists,
-                        self.urls)
+                        self.urls, self.papers_fields_of_study_level())
         # self.paper_keywords_list, self.papers_fields_of_study()
         for t in tqdm(sframe_list):
             sf = sf.join(t, how="left", on="PaperId")
@@ -378,6 +385,6 @@ class MicrosoftAcademicGraph(object):
         """
 
         sf = SFrame()
-        for level in levels:
+        for level in tqdm(levels):
             sf = sf.append(self._create_field_of_study_paper_ids(level))
         return sf
