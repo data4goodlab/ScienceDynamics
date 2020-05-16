@@ -28,7 +28,7 @@ def _entities_years_list_to_dict(l):
 
 
 class AuthorsFeaturesExtractor(object):
-    def __init__(self, mag, paper_min_ref=5):
+    def __init__(self, mag, paper_min_ref=5, fields=None):
         """
         Consturct and Author Features Extractor object
         :param paper_min_ref: minimum number of references
@@ -59,10 +59,11 @@ class AuthorsFeaturesExtractor(object):
                 return tc.load_sframe(sf_path)
     
             extended = extended[extended['Ref Number'] >= paper_min_ref]
-        
-            fos = self._mag.filter_by(fields, "NormalizedName")["FieldOfStudyId"]
-            papers = self._mag.paper_fields_of_study.filter_by(fos, "FieldOfStudyId")["PaperId"]
-            extended = extended.filter_by(papers, "PaperId")
+            extended = extended[extended["Authors Number"]<500]
+            if fields is not None:
+                fos = self._mag.fields_of_study.filter_by(fields, "NormalizedName")["FieldOfStudyId"]
+                papers = self._mag.paper_fields_of_study.filter_by(fos, "FieldOfStudyId")["PaperId"]
+                extended = extended.filter_by(papers, "PaperId")
             extended.save(sf_path)
             return extended
 
@@ -165,12 +166,14 @@ class AuthorsFeaturesExtractor(object):
         a_sf = a_sf.join(g, on="AuthorId", how="left")  # 22443094 rows
         g = self.get_co_authors_dict_sframe()
         a_sf = a_sf.join(g, on="AuthorId", how='left')
-        a_sf = a_sf.join(self._mag.author_names, on="AuthorId", how="left")
+        author_names = self._mag.author_names
+        author_names["First Name"] =  author_names["NormalizedName"].apply(lambda x: x.split(" ")[0])
+        a_sf = a_sf.join(author_names, on="AuthorId", how="left")
         g_sf = tc.load_sframe(str(FIRST_NAMES_SFRAME))
-        a_sf = a_sf.join(g_sf, on={"First name": "First Name"}, how="left")
+        a_sf = a_sf.join(g_sf, on={"First Name": "First Name"}, how="left")
 
-        feature_names = [("Normalized affiliation name", "Affilation by Year Dict"),
-                         ('Author sequence number', 'Sequence Number by Year Dict'),
+        feature_names = [("AffiliationId", "Affilation by Year Dict"),
+                         ('AuthorSequenceNumber', 'Sequence Number by Year Dict'),
                          ("ConferenceSeriesId", "Conference ID by Year Dict"),
                          ("JournalId", "Journal ID by Year Dict"),
                          ("OriginalVenue", "Venue by Year Dict")]
