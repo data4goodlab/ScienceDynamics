@@ -354,7 +354,7 @@ class MicrosoftAcademicGraph(object):
         """
         sf = self.papers
         sframe_list = (self.reference_count, self.papers_citation_number_by_year, self.papers_authors_lists,
-                        self.urls)
+                        self.urls, self.papers_fields_of_study_level())
         # self.paper_keywords_list, self.papers_fields_of_study()
         for t in tqdm(sframe_list):
             sf = sf.join(t, how="left", on="PaperId")
@@ -390,6 +390,6 @@ class MicrosoftAcademicGraph(object):
         """
 
         sf = SFrame()
-        for level in levels:
+        for level in tqdm(levels):
             sf = sf.append(self._create_field_of_study_paper_ids(level))
         return sf
