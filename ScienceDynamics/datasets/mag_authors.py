@@ -45,7 +45,7 @@ class AuthorsFeaturesExtractor(object):
             with zipfile.ZipFile(Path(dataset_zip), 'r') as f:
                 f.extractall(SFRAMES_BASE_DIR)
 
-    def _get_extended_papers_sframe(self, paper_min_ref):
+    def _get_extended_papers_sframe(self, paper_min_ref, fields=None):
         """
         Return SFrame with Extended Papers titles only for papers with the minimial input references number
         :param paper_min_ref: minimum number of references
@@ -57,12 +57,17 @@ class AuthorsFeaturesExtractor(object):
             sf_path = f"{TMP_DIR}/extended_paper_min_ref_{paper_min_ref}.sfrmae"
             if Path(sf_path).is_dir():
                 return tc.load_sframe(sf_path)
-
+    
             extended = extended[extended['Ref Number'] >= paper_min_ref]
+        
+            fos = self._mag.filter_by(fields, "NormalizedName")["FieldOfStudyId"]
+            papers = self._mag.paper_fields_of_study.filter_by(fos, "FieldOfStudyId")["PaperId"]
+            extended = extended.filter_by(papers, "PaperId")
             extended.save(sf_path)
             return extended
 
     @property
+    @save_sframe(sframe="paper_authors_years.sframe")
     def paper_authors_years(self):
         """
         Return an SFrame in which each row consists of PaperId, AuthorId, Year
@@ -75,7 +80,8 @@ class AuthorsFeaturesExtractor(object):
                 "AuthorId", "PaperId"]  # 337000127 for all papers
             self._paper_authors_years = self._paper_authors_years.join(p_sf, on="PaperId")
         return self._paper_authors_years
-
+    
+    @save_sframe(sframe="authors_papers_dict_sframe.sframe")
     def get_authors_papers_dict_sframe(self):
         """
         Create SFrame in which each row contains an AuthorId and a dict with the author's publication by year dict
@@ -89,7 +95,8 @@ class AuthorsFeaturesExtractor(object):
         g['Papers by Years Dict'] = g["Papers List"].apply(lambda l: _entities_years_list_to_dict(l))
         g = g.remove_column("Papers List")
         return g
-
+    
+    @save_sframe(sframe="co_authors_dict_sframe.sframe")
     def get_co_authors_dict_sframe(self):
         """
         Create SFrame with each author's coauthors by year
@@ -99,18 +106,14 @@ class AuthorsFeaturesExtractor(object):
         logger.info("Calcualting authors' coauthors by year")
         sf = self.paper_authors_years
         sf = sf.join(sf, on='PaperId')
-        sf2 = sf[sf['AuthorId'] != sf['AuthorId.1']]
-        sf2 = sf2.remove_column('Year.1')
-        sf2.__materialize__()
-        g = sf2.groupby(['AuthorId', 'Year'], {'Coauthors List': agg.CONCAT('AuthorId.1')})
-        del sf
-        g.__materialize__()
-        del sf2
-        g['Coauthors Year'] = g.apply(lambda r: (r['Year'], r['Coauthors List']))
-        g2 = g.groupby("AuthorId", {'Coauthors list': agg.CONCAT('Coauthors Year')})
-        g2['Coauthors by Years Dict'] = g2['Coauthors list'].apply(lambda l: {y: coa_list for y, coa_list in l})
-        g2 = g2.remove_column('Coauthors list')
-        return g2
+        sf = sf[sf['AuthorId'] != sf['AuthorId.1']]
+        sf = sf.remove_column('Year.1')
+        sf = sf.groupby(['AuthorId', 'Year'], {'Coauthors List': agg.CONCAT('AuthorId.1')})
+        sf['Coauthors Year'] = sf.apply(lambda r: (r['Year'], r['Coauthors List']))
+        sf = sf.groupby("AuthorId", {'Coauthors list': agg.CONCAT('Coauthors Year')})
+        sf['Coauthors by Years Dict'] = sf['Coauthors list'].apply(lambda l: {y: coa_list for y, coa_list in l})
+        sf = sf.remove_column('Coauthors list')
+        return sf
 
     def _get_author_feature_by_year_sframe(self, feature_name, feature_col_name):
         """
@@ -130,17 +133,18 @@ class AuthorsFeaturesExtractor(object):
         return g
 
     @property
+    @save_sframe(sframe="paper_author_affiliation_join.sframe")
     def paper_author_affiliation_sframe(self):
         """
-        Returns SFrame in whcih each row contains the AuthorId, PaperId, Year, Conference ID mapped to venue name, Journal ID mapped to venue name,
-             Original venue name
+        Returns SFrame in whcih each row contains the AuthorId, PaperId, Year, ConferenceSeriesId, JournalId,
+             OriginalVenue
         :return: SFrame with Authors and Papers Data
         :rtype: tc.SFrame
         """
         if self._paper_author_affiliation_join_sframe is None:
             p_sf = self._p_sf[
-                ['PaperId', 'Year', "Conference ID mapped to venue name", "Journal ID mapped to venue name",
-                 "Original venue name"]]
+                ['PaperId', 'Year', "ConferenceSeriesId", "JournalId",
+                 "OriginalVenue"]]
             a_sf = self._mag.paper_author_affiliations
             self._paper_author_affiliation_join_sframe = a_sf.join(p_sf, on="PaperId")
         return self._paper_author_affiliation_join_sframe
@@ -159,9 +163,6 @@ class AuthorsFeaturesExtractor(object):
         a_sf = a_sf[["AuthorId"]].unique()
         g = self.get_authors_papers_dict_sframe()
         a_sf = a_sf.join(g, on="AuthorId", how="left")  # 22443094 rows
-        a_sf.__materialize__()
-        del g
-        del p_sf
         g = self.get_co_authors_dict_sframe()
         a_sf = a_sf.join(g, on="AuthorId", how='left')
         a_sf = a_sf.join(self._mag.author_names, on="AuthorId", how="left")
@@ -170,9 +171,9 @@ class AuthorsFeaturesExtractor(object):
 
         feature_names = [("Normalized affiliation name", "Affilation by Year Dict"),
                          ('Author sequence number', 'Sequence Number by Year Dict'),
-                         ("Conference ID mapped to venue name", "Conference ID by Year Dict"),
-                         ("Journal ID mapped to venue name", "Journal ID by Year Dict"),
-                         ("Original venue name", "Venue by Year Dict")]
+                         ("ConferenceSeriesId", "Conference ID by Year Dict"),
+                         ("JournalId", "Journal ID by Year Dict"),
+                         ("OriginalVenue", "Venue by Year Dict")]
         for fname, col_name in tqdm(feature_names):
             f_sf = self._get_author_feature_by_year_sframe(fname, col_name)
             a_sf = a_sf.join(f_sf, on="AuthorId", how='left')
