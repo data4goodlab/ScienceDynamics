@@ -94,8 +94,8 @@ def load_sframes(mag, sjr, joined):
 
     logger.info("Loading papers features")
     sf = mag.extended_papers
-    index_list = [('Original venue name', False), ('Paper ID', True), ('Conference ID mapped to venue name', False),
-                  ('Journal ID mapped to venue name', False)]
+    index_list = [('OriginalVenue', False), ('PaperId', True), ('ConferenceSeriesId', False), ('ConferenceInstanceId', False),
+              ('JournalId', False)]
     md.insert_sframe(sf, 'journals', 'papers_features', index_cols_list=index_list)
 
     logger.info("Loading SJR features")
@@ -107,7 +107,8 @@ def load_sframes(mag, sjr, joined):
 
     sf = joined.aminer_mag_links_by_doi
     sf = sf.rename({c: c.replace(".", "") for c in sf.column_names()})
-    index_list = [('Original venue name', False), ('MAG Paper ID', True), ('Conference ID mapped to venue name', False),
-                  ('Journal ID mapped to venue name', False), ('issn', False)]
+    index_list = [('OriginalVenue', False), ('MAG Paper ID', True), ('Conference ID mapped to venue name', False),
+              ('Journal ID mapped to venue name', False), ('issn', False)]
+
 
     md.insert_sframe(sf, 'journals', 'aminer_mag_papers', index_cols_list=index_list)
