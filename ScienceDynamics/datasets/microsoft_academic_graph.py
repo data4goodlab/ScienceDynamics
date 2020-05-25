@@ -5,6 +5,8 @@ from ScienceDynamics.datasets.utils import download_file, save_sframe
 import turicreate.aggregate as agg
 from tqdm import tqdm
 from ScienceDynamics.sframe_creators.fields_of_study_hieararchy_analyzer import FieldsHierarchyAnalyzer
+from ScienceDynamics.fetchers.wikipedia_fetcher import WikiLocationFetcher
+
 import pandas as pd
 import re
 from array import array
@@ -156,6 +158,18 @@ class MicrosoftAcademicGraph(object):
 
         return affiliations
 
+
+    def add_geo_data_to_affiliations(self, max_workers=2):
+        """
+        Creating authors affiliation SFrame from.txt.gz files
+        :return:
+        """
+        fields = ["AffiliationId", "Rank", "NormalizedName", "DisplayName", "GridId", "OfficialPage", "WikiPage", "PaperCount", "CitationCount", "CreatedDate"]
+        wl = WikiLocationFetcher(self.affiliations[fields], max_workers)
+        wl.add_location_data()
+        wl.aff.save(f"{self._sframe_dir}/Affiliations.sframe")
+        
+        
     @property
     @save_sframe(sframe="PapersOrderedAuthorsList.sframe")
     def papers_authors_lists(self):
