@@ -13,17 +13,18 @@ from array import array
 
 
 class MicrosoftAcademicGraph(object):
-    def __init__(self, dataset_dir=None):
+    def __init__(self, dataset_dir=None, download=False):
         self._dataset_dir = pathlib.Path(dataset_dir)
         self._dataset_dir.mkdir(exist_ok=True)
         self._sframe_dir = self._dataset_dir / "sframes"
         self._sframe_dir.mkdir(exist_ok=True)
-        for i, url in enumerate(MAG_URL):
-            mag_file = self._dataset_dir / re.search(".*files\/(.*?)\?", url).group(1)
-            if not pathlib.Path(mag_file).exists():
-                download_file(url, mag_file)
-                # with zipfile.ZipFile(mag_file, 'r') as f:
-                #     f.extractall(self._dataset_dir)
+        if download:
+            for i, url in enumerate(MAG_URL):
+                mag_file = self._dataset_dir / re.search(".*files\/(.*?)\?", url).group(1)
+                if not pathlib.Path(mag_file).exists():
+                    download_file(url, mag_file)
+                    # with zipfile.ZipFile(mag_file, 'r') as f:
+                    #     f.extractall(self._dataset_dir)
 
     @property
     @save_sframe(sframe="Papers.sframe")
