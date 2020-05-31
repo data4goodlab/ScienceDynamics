@@ -17,3 +17,6 @@ geonamescache
 pycountry
 geopandas
 tslearn
+wikipedia
+reverse_geocode
+tldextract
