@@ -1,4 +1,4 @@
-dotenv
+python-dotenv
 requests
 altair
 matplotlib
@@ -8,7 +8,6 @@ networkx
 tqdm
 pymongo
 turicreate
-pycld2
 numpy
 plotly
 seaborn
