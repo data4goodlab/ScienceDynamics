@@ -60,10 +60,10 @@ class AuthorsFeaturesExtractor(object):
     
             extended = extended[extended['Ref Number'] >= paper_min_ref]
             extended = extended[extended["Authors Number"]<500]
-
-#             fos = self._mag.fields_of_study.filter_by(fields, "NormalizedName")["FieldOfStudyId"]
-#             papers = self._mag.paper_fields_of_study.filter_by(fos, "FieldOfStudyId")["PaperId"]
-#             extended = extended.filter_by(papers, "PaperId")
+            if fields is not None:
+                fos = self._mag.fields_of_study.filter_by(fields, "NormalizedName")["FieldOfStudyId"]
+                papers = self._mag.paper_fields_of_study.filter_by(fos, "FieldOfStudyId")["PaperId"]
+                extended = extended.filter_by(papers, "PaperId")
             extended.save(sf_path)
             return extended
 
