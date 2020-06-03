@@ -5,23 +5,26 @@ from ScienceDynamics.datasets.utils import download_file, save_sframe
 import turicreate.aggregate as agg
 from tqdm import tqdm
 from ScienceDynamics.sframe_creators.fields_of_study_hieararchy_analyzer import FieldsHierarchyAnalyzer
+from ScienceDynamics.fetchers.wikipedia_fetcher import WikiLocationFetcher
+
 import pandas as pd
 import re
 from array import array
 
 
 class MicrosoftAcademicGraph(object):
-    def __init__(self, dataset_dir=None):
+    def __init__(self, dataset_dir=None, download=False):
         self._dataset_dir = pathlib.Path(dataset_dir)
         self._dataset_dir.mkdir(exist_ok=True)
         self._sframe_dir = self._dataset_dir / "sframes"
         self._sframe_dir.mkdir(exist_ok=True)
-        for i, url in enumerate(MAG_URL):
-            mag_file = self._dataset_dir / re.search(".*files\/(.*?)\?", url).group(1)
-            if not pathlib.Path(mag_file).exists():
-                download_file(url, mag_file)
-                # with zipfile.ZipFile(mag_file, 'r') as f:
-                #     f.extractall(self._dataset_dir)
+        if download:
+            for i, url in enumerate(MAG_URL):
+                mag_file = self._dataset_dir / re.search(".*files\/(.*?)\?", url).group(1)
+                if not pathlib.Path(mag_file).exists():
+                    download_file(url, mag_file)
+                    # with zipfile.ZipFile(mag_file, 'r') as f:
+                    #     f.extractall(self._dataset_dir)
 
     @property
     @save_sframe(sframe="Papers.sframe")
@@ -99,6 +102,13 @@ class MicrosoftAcademicGraph(object):
 
 #         return keywords.rename({"X1": "PaperId", "X2": "Keyword name", "X3": "Field of study ID mapped to keyword"})
 
+    # @property
+    # @save_sframe(sframe="PaperKeywordsList.sframe")
+    # def paper_keywords_list(self):
+    #     """
+    #     Creating Paper Keywords List SFrame
+    #     """
+    #     return self.paper_pields_of_study.groupby("PaperId", {"Field List": agg.CONCAT("Keyword name")})
 
     @property
     @save_sframe(sframe="FieldsOfStudy.sframe")
@@ -122,8 +132,6 @@ class MicrosoftAcademicGraph(object):
         return SFrame(pd.read_csv(self._dataset_dir / "PaperResources.txt.gz", sep="\t",
                                     names=cols).replace({pd.np.nan: None}))
 
-    
-    
 
     @property
     @save_sframe(sframe="PaperAuthorAffiliations.sframe")
@@ -151,6 +159,18 @@ class MicrosoftAcademicGraph(object):
 
         return affiliations
 
+
+    def add_geo_data_to_affiliations(self, max_workers=2):
+        """
+        Creating authors affiliation SFrame from.txt.gz files
+        :return:
+        """
+        fields = ["AffiliationId", "Rank", "NormalizedName", "DisplayName", "GridId", "OfficialPage", "WikiPage", "PaperCount", "CitationCount", "CreatedDate"]
+        wl = WikiLocationFetcher(self.affiliations[fields], max_workers)
+        wl.add_location_data()
+        wl.aff.save(f"{self._sframe_dir}/Affiliations.sframe")
+        
+        
     @property
     @save_sframe(sframe="PapersOrderedAuthorsList.sframe")
     def papers_authors_lists(self):
