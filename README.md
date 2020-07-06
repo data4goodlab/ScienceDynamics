@@ -34,9 +34,12 @@ Docker:
 All the required files are present on Google Drive (https://drive.google.com/drive/folders/1XYbRY9g_9qjfA45j0pAFnX1oCWhQPWfY?usp=sharing)
 Download the docker image (sciencedynamics.tar).
 Then run `docker load --input sciencedynamics.tar`
-To use the already computed data download corona-data.zip.
+To use the already computed data download the data fiels.
 Extract the zip, you should have at least 350GB free on you the hard drive.
-To use the docker run: `docker run -p 127.0.0.1:9000:8888   -v $(pwd)/.scidyn2:/root/.scidyn2 -v $(pwd)/ScienceDynamics/examples/Coronavirus/Data/:/ScienceDynamics/examples/Coronavirus/Data/  --name corona sciencedynamics:1.2`
+To use the docker run:
+
+`docker run -p 127.0.0.1:9000:8888   -v $(pwd)/.scidyn2:/root/scidyn2 -v $(pwd)/ScienceDynamics/examples/Coronavirus/Data/:/ScienceDynamics/examples/Coronavirus/Data/  --name corona sciencedynamics:1.2`
+
 The jupter notebook will open in localhost:9000.
 
 
