@@ -37,7 +37,7 @@ To use the already computed data download the data files.
 Extract the zip, you should have at least 350GB free on you the hard drive.
 To use the docker run:
 
-`docker run -p 127.0.0.1:9000:8888   -v $(pwd)/.scidyn2:/root/scidyn2 -v $(pwd)/ScienceDynamics/examples/Coronavirus/Data/:/ScienceDynamics/examples/Coronavirus/Data/  --name corona sciencedynamics:1.2`
+`docker run -p 127.0.0.1:9000:8888   -v $(pwd)/scidyn2:/root/.scidyn2 -v $(pwd)/ScienceDynamics/examples/Coronavirus/Data/:/ScienceDynamics/examples/Coronavirus/Data/  --name corona sciencedynamics:1.2`
 
 The jupter notebook will open in localhost:9000.
 
