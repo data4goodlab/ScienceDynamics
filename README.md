@@ -8,9 +8,6 @@ The package supports parsing and extracting data from bibliometric datasets name
 This package is an improved version of the code used in [Over-optimization of academic publishing metrics: observing Goodhart’s Law in action](https://academic.oup.com/gigascience/article/8/6/giz053/5506490).
 The building of the datasets may take in total several hours and requires at least 450GB of free space on the hard drive. We suggest using a memory-intensive server for the computations (we used a server with 1TB RAM).
 
-## Coronavirus
-Before running the coronavirus notebooks first run Data Preprocessing.ipynb to download and build the data.
-
 ## Instalation
 To run on Windows WSL is required.
 
@@ -41,11 +38,11 @@ To use the docker run:
 
 The jupter notebook will open in localhost:9000.
 
-
 ## Folder Structure:
 * examples - code examples.
-* examples/Coronavirus - The code used in Scientometric Trends for Coronaviruses and Other Emerging Viral Infections
+* examples/Coronavirus - The code used in "Scientometric Trends for Coronaviruses and Other Emerging Viral Infections"
 * ScienceDynamics - Library source code.
+
 
 ## To DO
 * Code Cleanup
