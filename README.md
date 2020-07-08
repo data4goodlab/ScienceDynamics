@@ -41,6 +41,12 @@ To use the docker run:
 
 The jupter notebook will open in localhost:9000.
 
+## Example:
+```
+from ScienceDynamics.datasets import MicrosoftAcademicGraph
+mag = MicrosoftAcademicGraph()
+mag.extended_papers
+```
 
 ## Folder Structure:
 * examples - code examples.
