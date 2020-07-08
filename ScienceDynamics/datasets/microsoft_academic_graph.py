@@ -6,6 +6,7 @@ import turicreate.aggregate as agg
 from tqdm import tqdm
 from ScienceDynamics.sframe_creators.fields_of_study_hieararchy_analyzer import FieldsHierarchyAnalyzer
 from ScienceDynamics.fetchers.wikipedia_fetcher import WikiLocationFetcher
+from ScienceDynamics.config import DATASETS_BASE_DIR
 
 import pandas as pd
 import re
@@ -14,6 +15,8 @@ from array import array
 
 class MicrosoftAcademicGraph(object):
     def __init__(self, dataset_dir=None, download=False):
+        if dataset_dir is None:
+            dataset_dir = DATASETS_BASE_DIR
         self._dataset_dir = pathlib.Path(dataset_dir)
         self._dataset_dir.mkdir(exist_ok=True)
         self._sframe_dir = self._dataset_dir / "sframes"
