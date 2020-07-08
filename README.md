@@ -16,7 +16,7 @@ To run on Windows WSL is required.
 
 Installtion from zero:
 ```
-git clone https://github.com/Kagandi/ScienceDynamics
+git clone https://github.com/data4goodlab/ScienceDynamics
 pip install -r requirements.txt
 pip install pycld2 
 conda install --yes pycurl #Install before wptools
