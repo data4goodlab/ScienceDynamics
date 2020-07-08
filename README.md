@@ -1,16 +1,15 @@
 # ScienceDynamics (Beta)
 
-The packge supports parsing and extraing data form bibliomeric datasets namely:
+The package supports parsing and extracting data from bibliometric datasets namely:
 1. Microsoft Academics
 2. Aminer
 3. Scimagojr
 
-This packge is an  imporved version of the code used in [Over-optimization of academic publishing metrics: observing Goodhart’s Law in action](https://academic.oup.com/gigascience/article/8/6/giz053/5506490)
-The buidling of the datasetes may take in total several hours and requires at least 450GB of free sapace on the hardrive.
-We suggest using a  memory intensive server for the computions (we used a server with 1TB RAM).
+This package is an improved version of the code used in [Over-optimization of academic publishing metrics: observing Goodhart’s Law in action](https://academic.oup.com/gigascience/article/8/6/giz053/5506490).
+The building of the datasets may take in total several hours and requires at least 450GB of free space on the hard drive. We suggest using a memory-intensive server for the computations (we used a server with 1TB RAM).
 
 ## Coronavirus
-Before runing the coronavirus notebooks first run Data Preprocessing.ipynb to download and buikd the data.
+Before running the coronavirus notebooks first run Data Preprocessing.ipynb to download and build the data.
 
 ## Instalation
 To run on Windows WSL is required.
@@ -31,10 +30,10 @@ apt-get install -y g++
 ```
 
 Docker:
-All the required files are present on Google Drive (https://drive.google.com/drive/folders/1XYbRY9g_9qjfA45j0pAFnX1oCWhQPWfY?usp=sharing)
+All the required files are present at TO UPDATE AFTER UPLOAD FINISHES
 Download the docker image (sciencedynamics.tar).
 Then run `docker load --input sciencedynamics.tar`
-To use the already computed data download the data fiels.
+To use the already computed data download the data files.
 Extract the zip, you should have at least 350GB free on you the hard drive.
 To use the docker run:
 
