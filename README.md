@@ -38,16 +38,21 @@ To use the docker run:
 
 The jupter notebook will open in localhost:9000.
 
-<<<<<<< HEAD
 ## Example:
 ```
 from ScienceDynamics.datasets import MicrosoftAcademicGraph
 mag = MicrosoftAcademicGraph()
 mag.extended_papers
 ```
+Runing from zero:
+```
+from ScienceDynamics.datasets import MicrosoftAcademicGraph
+# You can select the the directory to where to download the data usin dataset_dir=
+# By default the data will saved in ~\.scidyn2
+mag = MicrosoftAcademicGraph(download=True)
+mag.extended_papers
+```
 
-=======
->>>>>>> ff39ebccee155677e8fd3e6e67fc754e7cd0b961
 ## Folder Structure:
 * examples - code examples.
 * examples/Coronavirus - The code used in "Scientometric Trends for Coronaviruses and Other Emerging Viral Infections"
@@ -58,3 +63,6 @@ mag.extended_papers
 * Code Cleanup
 * Refactoring
 * Documentation
+
+## Note
+Some tables in the MAG dataset will be uploaded in the future.

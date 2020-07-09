@@ -11,6 +11,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('-i', required=True,
                         help='Path to the pubmed data folder')
+    parser.add_argument('-d', default=""
+                        help='Output directory')
     parser.add_argument('-l', type=int, default=0,
                         help='Limit the number of files to read')
     
@@ -22,6 +24,7 @@ if __name__ == "__main__":
         pubmed_files = islice(pubmed_files,0,args["l"])
     for xml_path in tqdm(pubmed_files):
         res+= pp.parse_medline_xml(str(xml_path))
-
-    with open("pubmed.json", "w") as f:
+        
+    output_path = Path(args['d']) / "pubmed.json"
+    with  output_path.open("w") as f:
         f.write(json.dumps(res))

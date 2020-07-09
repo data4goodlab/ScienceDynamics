@@ -17,3 +17,8 @@ tslearn
 wikipedia
 reverse_geocode
 tldextract
+nbformat
+descartes
+ipywidgets
+pycld2 
+wptools

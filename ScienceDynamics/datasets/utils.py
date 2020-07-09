@@ -1,11 +1,11 @@
 import functools
 import os
 import pathlib
-
+import re
 import requests
 from tqdm import tqdm
 from turicreate import load_sframe
-
+from ScienceDynamics.datasets.configs import MAG_URL_DICT
 
 def download_file(url, output_path, exist_overwrite=False, min_size=-1, verbose=True):
     # Todo handle requests.exceptions.ConnectionError
@@ -41,9 +41,16 @@ def lazy_property(fn):
 def save_sframe(sframe):
     def decorator_repeat(func):
         @functools.wraps(func)
-        def wrapper_repeat(self, *args, **kwargs):
+        def wrapper_repeat(self, *args, **kwargs):               
             sframe_path = pathlib.Path(self._sframe_dir).joinpath(sframe)
             if not sframe_path.exists():
+                table_name = sframe.split(".")[0]
+                if table_name in MAG_URL_DICT:
+                    url = MAG_URL_DICT[table_name]
+                    mag_file = self._dataset_dir / re.search(".*files\/(.*?)\?", url).group(1)
+                    if not pathlib.Path(mag_file).exists():
+                        download_file(url, mag_file)
+                
                 value = func(self, *args, **kwargs)
                 value.save(str(sframe_path))
             else:

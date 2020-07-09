@@ -4,10 +4,12 @@ import re
 from turicreate import SFrame
 from ScienceDynamics.datasets.configs import SJR_URLS, SJR_OPEN_URLS
 from ScienceDynamics.datasets.utils import download_file, save_sframe
-
+from ScienceDynamics.config import DATASETS_SJR_DIR
 
 class SJR(object):
     def __init__(self, dataset_dir=None):
+        if dataset_dir is None:
+            dataset_dir = DATASETS_SJR_DIR
         self._dataset_dir = pathlib.Path(dataset_dir)
         self._dataset_dir.mkdir(exist_ok=True)
         self._sframe_dir = self._dataset_dir / "sframes"

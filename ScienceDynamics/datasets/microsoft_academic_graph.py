@@ -54,7 +54,7 @@ class MicrosoftAcademicGraph(object):
         cols = ["JournalId", "Rank", "NormalizedName", "DisplayName", "Issn", "Publisher", "Webpage", "PaperCount", "CitationCount",
                 "CreatedDate"]
         journals = SFrame(pd.read_csv(self._dataset_dir /"Journals.txt.gz", sep="\t",
-                                          names=cols).replace({pd.np.nan: None}))
+                                          names=cols).replace({pd.NA: None}))
         return journals
     
     
@@ -67,7 +67,7 @@ class MicrosoftAcademicGraph(object):
         authors = SFrame(pd.read_csv(self._dataset_dir /"Authors.txt.gz", sep="\t",
                                           names=["AuthorId", "Rank", "NormalizedName", "DisplayName",
                                                  "LastKnownAffiliationId", "PaperCount",
-                                                 "CitationCount", "CreatedDate"]).replace({pd.np.nan: None}))
+                                                 "CitationCount", "CreatedDate"]).replace({pd.NA: None}))
         authors['First name'] = authors['NormalizedName'].apply(lambda s: s.split()[0])
         authors['Last name'] = authors['NormalizedName'].apply(lambda s: s.split()[-1])
         return authors
@@ -121,7 +121,7 @@ class MicrosoftAcademicGraph(object):
         """
         cols = ["FieldOfStudyId", "Rank", "NormalizedName", "DisplayName", "MainType", "Level", "PaperCount", "CitationCount", "CreatedDate"]
         fields_of_study = SFrame(pd.read_csv(self._dataset_dir / "FieldsOfStudy.txt.gz", sep="\t",
-                                    names=cols).replace({pd.np.nan: None}))
+                                    names=cols).replace({pd.NA: None}))
         return fields_of_study
     
     @property
@@ -133,7 +133,7 @@ class MicrosoftAcademicGraph(object):
         """
         cols = ["PaperId", "ResourceType", "ResourceUrl", "SourceUrl", "RelationshipType"]
         return SFrame(pd.read_csv(self._dataset_dir / "PaperResources.txt.gz", sep="\t",
-                                    names=cols).replace({pd.np.nan: None}))
+                                    names=cols).replace({pd.NA: None}))
 
 
     @property
@@ -145,7 +145,7 @@ class MicrosoftAcademicGraph(object):
         """
         cols = ["PaperId", "AuthorId", "AffiliationId", "AuthorSequenceNumber", "OriginalAuthor", "OriginalAffiliation"]
         paper_author_affiliations = SFrame(pd.read_csv(self._dataset_dir / "PaperAuthorAffiliations.txt.gz", sep="\t",
-                                             names=cols).replace({pd.np.nan: None}))
+                                             names=cols).replace({pd.NA: None}))
 
         return paper_author_affiliations
     
@@ -158,7 +158,7 @@ class MicrosoftAcademicGraph(object):
         """
         cols = ["AffiliationId", "Rank", "NormalizedName", "DisplayName", "GridId", "OfficialPage", "WikiPage", "PaperCount", "CitationCount", "CreatedDate"]
         affiliations = SFrame(pd.read_csv(self._dataset_dir / "Affiliations.txt.gz", sep="\t",
-                                             names=cols).replace({pd.np.nan: None}))
+                                             names=cols).replace({pd.NA: None}))
 
         return affiliations
 
@@ -359,7 +359,7 @@ class MicrosoftAcademicGraph(object):
         """
         cols = ["PaperId", "SourceType", "SourceUrl", "LanguageCode"]
         urls = SFrame(pd.read_csv(self._dataset_dir / "PaperUrls.txt.gz", sep="\t",
-                                    names=cols).replace({pd.np.nan: None}))
+                                    names=cols).replace({pd.NA: None}))
         return urls.groupby("PaperId", {"Urls": agg.CONCAT("SourceUrl")})
 
     @property
