@@ -15,22 +15,15 @@ Installtion from zero:
 ```
 git clone https://github.com/data4goodlab/ScienceDynamics
 pip install -r requirements.txt
+pip install pycld2 
+conda install --yes pycurl #Install before wptools
+pip install wptools
 ```
-**Instalation Issues:**
 If pycld2 installtion fails install: gcc and g++.
 For debain distribution run:
 ```
 apt-get install -y  gcc
 apt-get install -y g++
-```
-Then run:
-```
-pip install pycld2 
-```
-If wptools installtion fails run:
-```
-conda install --yes pycurl #Install before wptools
-pip install wptools
 ```
 
 Docker:
@@ -51,7 +44,8 @@ from ScienceDynamics.datasets import MicrosoftAcademicGraph
 mag = MicrosoftAcademicGraph()
 mag.extended_papers
 ```
-Runing from zero:
+The data will be download when accessing a specific table.
+However, it is possible to download all the data using one command:
 ```
 from ScienceDynamics.datasets import MicrosoftAcademicGraph
 # You can select the the directory to where to download the data usin dataset_dir=
@@ -63,6 +57,7 @@ mag.extended_papers
 ## Folder Structure:
 * examples - code examples.
 * examples/Coronavirus - The code used in "Scientometric Trends for Coronaviruses and Other Emerging Viral Infections"
+* examples/Over-optimization - The code used in "Over-optimization of academic publishing metrics: observing Goodhart’s Law in action"
 * ScienceDynamics - Library source code.
 
 

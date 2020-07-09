@@ -6,7 +6,7 @@ import turicreate.aggregate as agg
 from tqdm import tqdm
 from ScienceDynamics.sframe_creators.fields_of_study_hieararchy_analyzer import FieldsHierarchyAnalyzer
 from ScienceDynamics.fetchers.wikipedia_fetcher import WikiLocationFetcher
-from ScienceDynamics.config import DATASETS_BASE_DIR
+from ScienceDynamics.config import MAG_URL_DICT
 
 import pandas as pd
 import re
@@ -22,7 +22,7 @@ class MicrosoftAcademicGraph(object):
         self._sframe_dir = self._dataset_dir / "sframes"
         self._sframe_dir.mkdir(exist_ok=True)
         if download:
-            for i, url in enumerate(MAG_URL):
+            for i, url in enumerate(MAG_URL_DICT.values()):
                 mag_file = self._dataset_dir / re.search(".*files\/(.*?)\?", url).group(1)
                 if not pathlib.Path(mag_file).exists():
                     download_file(url, mag_file)

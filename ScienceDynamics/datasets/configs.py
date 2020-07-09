@@ -17,6 +17,8 @@ MAG_URL_DICT = {"Affiliations":"https://zenodo.org/record/2628216/files/Affiliat
                "ConferenceInstances":"https://zenodo.org/record/2628216/files/ConferenceInstances.txt.gz?download=1",
                "ConferenceSeries":"https://zenodo.org/record/2628216/files/ConferenceSeries.txt.gz?download=1",
                "FieldsOfStudy":"https://zenodo.org/record/2628216/files/FieldsOfStudy.txt.gz?download=1",
+               "PaperFieldsOfStudy": "http://data4good.io/datasets/PaperFieldsOfStudy.txt.gz"
+               "FieldOfStudyChildren": "http://data4good.io/datasets/FieldOfStudyChildren.txt.gz"
                "Journals":"https://zenodo.org/record/2628216/files/Journals.txt.gz?download=1",
                "PaperAuthorAffiliations": "https://zenodo.org/record/2628216/files/PaperAuthorAffiliations.txt.gz?download=1",
                "PaperReferences":"https://zenodo.org/record/2628216/files/PaperReferences.txt.gz?download=1",
