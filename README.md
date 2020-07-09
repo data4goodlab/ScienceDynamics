@@ -15,15 +15,22 @@ Installtion from zero:
 ```
 git clone https://github.com/data4goodlab/ScienceDynamics
 pip install -r requirements.txt
-pip install pycld2 
-conda install --yes pycurl #Install before wptools
-pip install wptools
 ```
+**Instalation Issues:**
 If pycld2 installtion fails install: gcc and g++.
 For debain distribution run:
 ```
 apt-get install -y  gcc
 apt-get install -y g++
+```
+Then run:
+```
+pip install pycld2 
+```
+If wptools installtion fails run:
+```
+conda install --yes pycurl #Install before wptools
+pip install wptools
 ```
 
 Docker:
