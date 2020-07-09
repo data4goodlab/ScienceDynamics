@@ -61,10 +61,7 @@ mag.extended_papers
 * ScienceDynamics - Library source code.
 
 
-## To DO
+## To Do
 * Code Cleanup
 * Refactoring
 * Documentation
-
-## Note
-Some tables in the MAG dataset will be uploaded in the future.
