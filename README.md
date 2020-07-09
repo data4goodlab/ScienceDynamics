@@ -27,7 +27,7 @@ apt-get install -y g++
 ```
 
 Docker:
-All the required files are present at TO UPDATE AFTER UPLOAD FINISHES
+<!--- All the required files are avaliable at TO UPDATE AFTER UPLOAD FINISHES.-->
 Download the docker image (sciencedynamics.tar).
 Then run `docker load --input sciencedynamics.tar`
 To use the already computed data download the data files.
