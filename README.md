@@ -38,7 +38,6 @@ To use the docker run:
 
 The jupter notebook will open in localhost:9000.
 
-<<<<<<< HEAD
 ## Example:
 ```
 from ScienceDynamics.datasets import MicrosoftAcademicGraph
@@ -46,8 +45,6 @@ mag = MicrosoftAcademicGraph()
 mag.extended_papers
 ```
 
-=======
->>>>>>> ff39ebccee155677e8fd3e6e67fc754e7cd0b961
 ## Folder Structure:
 * examples - code examples.
 * examples/Coronavirus - The code used in "Scientometric Trends for Coronaviruses and Other Emerging Viral Infections"
