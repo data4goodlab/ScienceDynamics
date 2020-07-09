@@ -1,4 +1,4 @@
-# ScienceDynamics (Beta)
+# ScienceDynamics
 
 The package supports parsing and extracting data from bibliometric datasets namely:
 1. Microsoft Academics
