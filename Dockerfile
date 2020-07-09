@@ -21,10 +21,8 @@ RUN apt-get update --fix-missing && \
 RUN mkdir ScienceDynamics
 COPY ./*  ScienceDynamics/
 
-RUN which python
 RUN conda install --yes pip
-RUN which pip
-RUN pip install -r ScienceDynamics/requirements.txt
+RUN pip install -r ScienceDynamics/docker-requirements.txt
 RUN pip list
 RUN apt-get install -y  gcc
 RUN apt-get install -y g++
