@@ -6,6 +6,8 @@ from tqdm import tqdm
 from ScienceDynamics.sframe_creators.fields_of_study_hieararchy_analyzer import FieldsHierarchyAnalyzer
 from ScienceDynamics.fetchers.wikipedia_fetcher import WikiLocationFetcher
 from ScienceDynamics.datasets.configs import MAG_URL_DICT
+from ScienceDynamics.config import DATASETS_BASE_DIR
+
 
 import pandas as pd
 import re
