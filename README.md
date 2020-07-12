@@ -1,4 +1,4 @@
-# ScienceDynamics (Beta)
+# ScienceDynamics
 
 The package supports parsing and extracting data from bibliometric datasets namely:
 1. Microsoft Academics
@@ -27,7 +27,7 @@ apt-get install -y g++
 ```
 
 Docker:
-All the required files are present at TO UPDATE AFTER UPLOAD FINISHES
+<!--- All the required files are avaliable at TO UPDATE AFTER UPLOAD FINISHES.-->
 Download the docker image (sciencedynamics.tar).
 Then run `docker load --input sciencedynamics.tar`
 To use the already computed data download the data files.
@@ -61,10 +61,7 @@ mag.extended_papers
 * ScienceDynamics - Library source code.
 
 
-## To DO
+## To Do
 * Code Cleanup
 * Refactoring
 * Documentation
-
-## Note
-Some tables in the MAG dataset will be uploaded in the future.
