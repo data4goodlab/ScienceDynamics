@@ -1,12 +1,11 @@
 import pathlib
 from turicreate import SFrame, load_sframe
-from ScienceDynamics.datasets.configs import MAG_URL
 from ScienceDynamics.datasets.utils import download_file, save_sframe
 import turicreate.aggregate as agg
 from tqdm import tqdm
 from ScienceDynamics.sframe_creators.fields_of_study_hieararchy_analyzer import FieldsHierarchyAnalyzer
 from ScienceDynamics.fetchers.wikipedia_fetcher import WikiLocationFetcher
-from ScienceDynamics.config import MAG_URL_DICT
+from ScienceDynamics.datasets.configs import MAG_URL_DICT
 
 import pandas as pd
 import re
