@@ -40,7 +40,7 @@ Since docker is not designed to save data persistently after the container is no
 For Example:
 `docker run -p 127.0.0.1:9000:8888   -v $(pwd)/scidyn2:/root/.scidyn2 -v $(pwd)/ScienceDynamics/examples/Coronavirus/Data/:/ScienceDynamics/examples/Coronavirus/Data/  --name corona sciencedynamics:1.2`
 
-The jupyter notebook will open in localhost:9000.
+The Jupyter notebook will open in localhost:9000.
 
 Example of how to load the data used in "Scientometric Trends for Coronaviruses and Other Emerging Viral Infections" available [here](https://github.com/data4goodlab/ScienceDynamics/tree/master/examples/Coronavirus).
 
