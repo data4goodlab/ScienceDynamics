@@ -1,8 +1,10 @@
 # Scientometric Trends for Coronaviruses and Other Emerging Viral Infections
 
 This folder contains the Jupyter notebooks used to calculate the results of Scientometric Trends for Coronaviruses and Other Emerging Viral Infections.
-Pre-computed data is available at [GigaDB](http://gigadb.org/dataset/view/id/100772/token/yZNzJ1wcTIdE50KM)
 
+
+## Data
+Pre-computed data is available at [GigaDB](http://gigadb.org/dataset/view/id/100772/token/yZNzJ1wcTIdE50KM)
 
 ## Clean Installation
 
