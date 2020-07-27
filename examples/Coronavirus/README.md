@@ -28,4 +28,4 @@ Note: To use the pre-computed data you should have at least 350GB free on you th
 
 `docker run -p 127.0.0.1:9000:8888   -v $(pwd)/scidyn2:/root/.scidyn2 -v $(pwd)/ScienceDynamics/examples/Coronavirus/Data/:/ScienceDynamics/examples/Coronavirus/Data/  --name corona sciencedynamics:1.2`
 
-The jupyter notebook will open in localhost:9000.
+The Jupyter notebook will open in localhost:9000.
