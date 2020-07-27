@@ -51,11 +51,12 @@ mag = MicrosoftAcademicGraph()
 mag.extended_papers
 ```
 The data will be download when accessing a specific table.
-However, it is possible to download all the data using one command:
+By default the data will be saved in ~\.scidyn2.
+You can select the directory to where to download/load from the data using by dataset_dir= parameter.
+
+Also, it is possible to download all the data using one command:
 ```
 from ScienceDynamics.datasets import MicrosoftAcademicGraph
-# You can select the directory to where to download the data using dataset_dir=
-# By default the data will be saved in ~\.scidyn2
 mag = MicrosoftAcademicGraph(download=True)
 mag.extended_papers
 ```
