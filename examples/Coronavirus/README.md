@@ -19,9 +19,11 @@ To generate a new pubmed.json file (Pubmed only used in Journals Trends.ipynb ) 
 Before running the coronavirus notebooks first run Data Preprocessing.ipynb to download and build the data.
 
 ## Loading Pre-computed Data
-Download the docker image [sciencedynamics.tar](https://bit.ly/30KGX26).
-Download and extract [scidyn2.tar.gz](https://bit.ly/304J3Lf) and [Data.tar.gz](https://bit.ly/3004b5e) (you should have at least 350GB free on you the hard drive.
-) and then run:
+Note: To use the pre-computed data you should have at least 350GB free on you the hard drive.
+1. Download the docker image [sciencedynamics.tar](https://bit.ly/30KGX26).
+2. Download and extract [scidyn2.tar.gz](https://bit.ly/304J3Lf) 
+3. Download and extract [Data.tar.gz](https://bit.ly/3004b5e)  
+4. Run:
 
 `docker run -p 127.0.0.1:9000:8888   -v $(pwd)/scidyn2:/root/.scidyn2 -v $(pwd)/ScienceDynamics/examples/Coronavirus/Data/:/ScienceDynamics/examples/Coronavirus/Data/  --name corona sciencedynamics:1.2`
 
