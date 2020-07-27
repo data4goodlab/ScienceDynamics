@@ -7,7 +7,7 @@ import turicreate as tc
 import turicreate.aggregate as agg
 from pathlib import Path
 from tqdm import tqdm
-from ScienceDynamics.datasets.configs import NAME_GENDER_URL, FIRST_NAMES_SFRAME
+from ScienceDynamics.datasets.configs import FIRST_NAMES_SFRAME
 from ScienceDynamics.datasets.utils import download_file, save_sframe
 
 
@@ -41,7 +41,6 @@ class AuthorsFeaturesExtractor(object):
         self._sframe_dir = SFRAMES_BASE_DIR
         if not Path(FIRST_NAMES_SFRAME).exists():
             dataset_zip = str(FIRST_NAMES_SFRAME).replace(".sframe",".zip")
-            download_file(NAME_GENDER_URL, Path(dataset_zip))
             with zipfile.ZipFile(Path(dataset_zip), 'r') as f:
                 f.extractall(SFRAMES_BASE_DIR)
 

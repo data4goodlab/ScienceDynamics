@@ -15,7 +15,6 @@ MAG_URL_DICT = {"Affiliations":"https://zenodo.org/record/2628216/files/Affiliat
                "Papers":"https://zenodo.org/record/2628216/files/Papers.txt.gz?download=1",
                "PaperUrls":"https://zenodo.org/record/2628216/files/PaperUrls.txt.gz?download=1"}
 
-NAME_GENDER_URL = "https://www.dropbox.com/s/hkrljwkj02hzgsh/first_names_gender.sframe.zip?dl=1"
 AMINER_URLS = ("https://academicgraphv2.blob.core.windows.net/oag/aminer/paper/aminer_papers_0.zip",
                "https://academicgraphv2.blob.core.windows.net/oag/aminer/paper/aminer_papers_1.zip",
                "https://academicgraphv2.blob.core.windows.net/oag/aminer/paper/aminer_papers_2.zip",
