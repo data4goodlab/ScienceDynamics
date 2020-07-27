@@ -16,7 +16,7 @@ To generate a new pubmed.json file (Pubmed only used in the [Journals Trends.ipy
 5. The generated JSON should be found under Data/pubmed.
 6. Run the Pubmed section in the [Data Preprocessing.ipynb](https://github.com/data4goodlab/ScienceDynamics/blob/master/examples/Coronavirus/Data%20Preprocessing.ipynb) notebook.
 
-Before running the coronavirus notebooks first run Data Preprocessing.ipynb to download and build the data.
+Before running the coronavirus notebooks first run Data Preprocessing.ipynb](https://github.com/data4goodlab/ScienceDynamics/blob/master/examples/Coronavirus/Data%20Preprocessing.ipynb) notebook to download and build the data.
 
 ## Loading Pre-computed Data
 Note: To use the pre-computed data you should have at least 350GB free on the hard drive.
