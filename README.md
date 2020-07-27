@@ -6,7 +6,7 @@ The package supports parsing and extracting data from bibliometric datasets name
 3. Scimagojr
 
 This package is an improved version of the code used in [Over-optimization of academic publishing metrics: observing Goodhart’s Law in action](https://academic.oup.com/gigascience/article/8/6/giz053/5506490).
-The building of the full datasets may take in total several hours and requires at least 450GB of free space on the hard drive. We suggest using a memory-intensive server for the computations (we used a server with 12 cores and 1TB RAM).
+Due to the size of the datasets, the building of the full datasets may take several hours and requires at least 450GB of free space on the hard drive. We suggest using a memory-intensive server for the computations (we used a server with 12 cores and 1TB RAM).
 
 ## Folder Structure:
 * [examples](https://github.com/data4goodlab/ScienceDynamics/tree/master/examples) - code examples.
