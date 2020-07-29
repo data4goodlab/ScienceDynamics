@@ -4,7 +4,7 @@ This folder contains the Jupyter notebooks used to calculate the results of Scie
 
 
 ## Data
-Pre-computed data is available at [GigaDB](http://gigadb.org/dataset/view/id/100772/token/yZNzJ1wcTIdE50KM).
+Pre-computed data is available at [GigaDB](http://dx.doi.org/10.5524/100772).
 
 ## Clean Installation
 
