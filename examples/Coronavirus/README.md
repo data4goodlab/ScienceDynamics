@@ -8,7 +8,7 @@ Pre-computed data is available at [GigaDB](http://dx.doi.org/10.5524/100772).
 
 ## Clean Installation
 
-To generate a new pubmed.json file (Pubmed only used in the [Journals Trends.ipynb](https://github.com/data4goodlab/ScienceDynamics/blob/master/examples/Coronavirus/Journals%20Trends.ipynb) noteook) pleases follow the following steps:
+To generate a new pubmed.json file (Pubmed only used in the [Journals Trends.ipynb](https://github.com/data4goodlab/ScienceDynamics/blob/master/examples/Coronavirus/Journals%20Trends.ipynb) notebook) pleases follow the following steps:
 1. [Download PubMed annual basline XMLs](https://www.nlm.nih.gov/databases/download/pubmed_medline.html). For instance, use wget to download the files:<br/> `wget -r ftp://ftp.ncbi.nlm.nih.gov/pubmed/baseline/*`.
 2. `pip install git+git://github.com/titipata/pubmed_parser.git`.
 3. Create output and Data folders in the Coronavirus directory.
