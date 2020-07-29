@@ -58,7 +58,7 @@ For Example:
 
 The Jupyter notebook will be accessible on localhost:9000.
 
-Example of how to load the data used in "Scientometric Trends for Coronaviruses and Other Emerging Viral Infections" available [here](https://github.com/data4goodlab/ScienceDynamics/tree/master/examples/Coronavirus).
+Example of how to load the data used in "Scientometric Trends for Coronaviruses and Other Emerging Viral Infections" available [here](https://github.com/data4goodlab/ScienceDynamics/tree/master/examples/Coronavirus#loading-pre-computed-data).
 
 ## Example:
 ```
