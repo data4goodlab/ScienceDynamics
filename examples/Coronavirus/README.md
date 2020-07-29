@@ -15,6 +15,7 @@ Pre-computed data is available at [GigaDB](http://dx.doi.org/10.5524/100772).
     4. Run `python pubmed_2_json.py  -i [path to the directory containing PubMed data] -d Data/`.
     5. The generated JSON should be found under Data/pubmed.
 3. Before running the notebooks first run [Data Preprocessing.ipynb](https://github.com/data4goodlab/ScienceDynamics/blob/master/examples/Coronavirus/Data%20Preprocessing.ipynb) notebook to download and build the data.
+Note: Please be sure to have several hundreds of GB free on your hard drive.
 
 ## Loading Pre-computed Data
 Note: To use the pre-computed data you should have at least 350GB free on the hard drive.
