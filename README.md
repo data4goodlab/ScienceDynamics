@@ -16,8 +16,6 @@ Due to the size of the datasets, the building of the full datasets may take seve
 
 
 
-
-
 ## System Requirements
 
 * Python 3.6, 3.7
@@ -79,6 +77,5 @@ mag.extended_papers
 
 
 ## To Do
-* Code Cleanup
 * Refactoring
 * Documentation
