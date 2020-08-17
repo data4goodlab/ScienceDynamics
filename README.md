@@ -10,7 +10,8 @@ Due to the size of the datasets, the building of the full datasets may take seve
 
 ## Folder Structure:
 * [examples](https://github.com/data4goodlab/ScienceDynamics/tree/master/examples) - Code examples.
-* [examples/Coronavirus](https://github.com/data4goodlab/ScienceDynamics/tree/master/examples/Coronavirus) - The code used in "Scientometric Trends for Coronaviruses and Other Emerging Viral Infections"
+* [examples/Coronavirus](https://github.com/data4goodlab/ScienceDynamics/tree/master/examples/Coronavirus) - The code used in ["Scientometric Trends for Coronaviruses and Other Emerging Viral Infections"](
+https://academic.oup.com/gigascience/article-lookup/doi/10.1093/gigascience/giaa085)
 * [examples/Over-optimization](https://github.com/data4goodlab/ScienceDynamics/tree/master/examples/Over-optimization) - The code used in "[Over-optimization of academic publishing metrics: observing Goodhart’s Law in action](https://academic.oup.com/gigascience/article/8/6/giz053/5506490)"
 * [ScienceDynamics](https://github.com/data4goodlab/ScienceDynamics/tree/master/ScienceDynamics) - Library source code.
 
