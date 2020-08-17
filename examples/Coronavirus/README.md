@@ -26,3 +26,24 @@ Note: To use the pre-computed data you should have at least 350GB free on the ha
 4. Download and extract [Data.tar.gz](https://bit.ly/3004b5e).
 5. Run: `docker run -p 127.0.0.1:9000:8888   -v $(pwd)/scidyn2:/root/.scidyn2 -v $(pwd)/ScienceDynamics/examples/Coronavirus/Data/:/ScienceDynamics/examples/Coronavirus/Data/  --name corona sciencedynamics:1.2`.
 6. The Jupyter notebook will be accessible on localhost:9000.
+
+
+## Citation
+```
+@article{10.1093/gigascience/giaa085, 
+    author = {Kagan, Dima and Moran-Gilad, Jacob and Fire, Michael}, 
+    title = "{Scientometric trends for coronaviruses and other emerging viral infections}", 
+    journal = {GigaScience}, 
+    volume = {9}, 
+    number = {8}, 
+    year = {2020},
+    month = {08}, 
+    issn = {2047-217X}, 
+    doi = {10.1093/gigascience/giaa085}, 
+    url = {https://doi.org/10.1093/gigascience/giaa085}, 
+    eprint = {https://academic.oup.com/gigascience/article-pdf/9/8/giaa085/33647004/giaa085.pdf}, 
+}
+```
+
+
+
