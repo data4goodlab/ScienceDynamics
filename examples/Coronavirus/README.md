@@ -1,6 +1,7 @@
 # Scientometric Trends for Coronaviruses and Other Emerging Viral Infections
 
-This folder contains the Jupyter notebooks used to calculate the results of Scientometric Trends for Coronaviruses and Other Emerging Viral Infections.
+This folder contains the Jupyter notebooks used to calculate the results of [Scientometric Trends for Coronaviruses and Other Emerging Viral Infections](
+https://academic.oup.com/gigascience/article-lookup/doi/10.1093/gigascience/giaa085).
 
 
 ## Data
